@@ -1,18 +1,18 @@
 # 🇱🇰 #SriLanka `Datasets`
 
-**1** datasets, with **1,426** documents (**663.7 MB**).
+**1** datasets, with **1,426** documents (**671.1 MB**).
 
 ## 001 📚 Edupub
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_21:57:25-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_22:31:52-green)
 
 [https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub)
 
 Educational Publications from the Educational Publications Department, Sri Lanka.
 
-- [**1,426** documents](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub) (**663.7 MB**), from **2025-01-01** to **2025-01-01**, scraped from [http://www.edupub.gov.lk](http://www.edupub.gov.lk)
+- [**1,426** documents](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub) (**671.1 MB**), from **2025-01-01** to **2025-01-01**, scraped from [http://www.edupub.gov.lk](http://www.edupub.gov.lk)
 
-- In **JSON**, **PDF** (18%), **TXT** (18%) & **🤗 Hugging Face** (18%)
+- In **JSON**, **PDF** (19%), **TXT** (19%) & **🤗 Hugging Face** (19%)
 
 - In **සිංහල**, **தமிழ்** & **English**
 
