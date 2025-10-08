@@ -2,22 +2,22 @@
   "doc_class_label": "lk_edupub",
   "doc_class_emoji": "\ud83d\udcda",
   "doc_class_description": "Educational Publications from the Educational Publications Department, Sri Lanka.",
-  "time_updated": "2025-10-09 02:26:56",
+  "time_updated": "2025-10-09 03:01:36",
   "n_docs": 1426,
-  "n_docs_with_pdfs": 374,
-  "n_docs_with_text": 374,
+  "n_docs_with_pdfs": 389,
+  "n_docs_with_text": 389,
   "date_str_min": "2025-01-01",
   "date_str_max": "2025-01-01",
-  "dataset_size": 792254062,
+  "dataset_size": 813064101,
   "url_source_list": [
     "http://www.edupub.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_edupub/refs/heads/data/data/lk_edupub/docs_by_year_and_lang.png",
   "langs": [
-    "si",
     "ta",
-    "en"
+    "en",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_edupub",
