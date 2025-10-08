@@ -1,0 +1,53 @@
+15
+
+,ytrg; ghl E}y; tpepNahfj;jpw;fhf
+
+4tpOkpag; gz;Gfisf; filg;gpbg;Nghk;tpOkpag; gz;Gfisf; filg;gpbg;Nghk;tpOkpag; gz;Gfisf; filg;gpbg;Nghk;tpOkpag; gz;Gfisf; filg;gpbg;Nghk;tpOkpag; gz;Gfisf; filg;gpbg;Nghk;
+
+kdpj tho;T Nkk;ghlhdJ vdf; fUJtjw;F cjTk; ngWkjp kpf;ftho;f;ifg; gz;GfNs tpOkpaq;fs; vdg;gLfpd;wd. vkJ tho;tpy; Nghw;wptsu;f;f Ntz;ba cau;e;j kdpjg; gz;Gfs; gy cs. mit ahTk; kdpjidkdpjdhf tho itg;gd. kdpj tpOkpaq;fspy; Kjd;ikahdJk;mbg;gilahdJk; md;Ng MFk;. mjw;F khngUk; Mw;wy; cz;L. vdNtjhd;cyf kfhrf;jp vd md;G Nghw;wg;gLfpd;wJ. md;ig mbg;gilahff; nfhz;LvOk; vy;yhr; nraYk; Nkk;ghL cilajhFk;. ,t;tifapy; kdpj tpOkpaq;fs;gy cs. mtw;Ws; csj;J}a;ik> rfpg;Gj;jd;ik> rkhjhdk;> mikjp> cjtpnra;jy;> jiyikj;Jtk; Mfpait gw;wp ,q;F fw;Nghk;.
+
+(m) csj;J}a;ik(m) csj;J}a;ik(m) csj;J}a;ik(m) csj;J}a;ik(m) csj;J}a;ik
+
+kdk; J}a;ikaha; ,Uj;jy; csj;J}a;ikahFk;. Gwj;J}a;ik ePuhy;mikAk;> mfj;J}a;ik md;ghy; mikAk;. rpe;jid> nrhy;> nray; vd;gdJ}a;ikahdjhf mika md;G Ntz;Lk;. ,jdhy; ngha;> fsT> FUepe;jidNghd;w gQ;rkhghjfq;fs; ,y;yhJ xopAk;. cs;sk; J}a;ikaha; ,Uf;Fk;NghJ mq;Nf nghwhik ,Uf;fhJ.
+
+~~kdj;Jf;fz; khrpydhjy; midj;jwd;~~kdj;Jf;fz; khrpydhjy; midj;jwd;~~kdj;Jf;fz; khrpydhjy; midj;jwd;~~kdj;Jf;fz; khrpydhjy; midj;jwd;~~kdj;Jf;fz; khrpydhjy; midj;jwd;MFy ePugpw|| MFy ePugpw|| MFy ePugpw|| MFy ePugpw|| MFy ePugpw|| vd;gJ - ts;Stu; thf;FkdjpNy mOf;fpy;yhjpUj;jy; vy;yh mwq;fspYk; NkyhdJ. kdpjDilacs;sj;jpNy md;G ,Ue;jhy; Nguth> Nfhgk;> mjd; fhuzkhf nfhLikahdnrhw;fs; vd;gd ,lk;ngwhJ. Gyikahd mwpT kl;Lk; cau;epiytpOkpakhfhJ. xUtu; thOk; nghUl;Lr; rk;ghjpf;f mJ cjtyhk;. tho;tpd;rthy;fSf;F Kfk; nfhLf;f $bathW mwg; gz;Gila csj;J}a;ikNakdpjid cau;e;jtdhf;Ffpd;wJ. md;G kdj;J}a;ikia Nkk;gLj;Jk;. J}a;iknja;tPfj;ij kyur; nra;Ak;. vdNt kdpjd; csj;J}a;ikAld; ,Uf;Fk;NghNj mtd; tho;tpy; mikjpiaAk; rfpg;Gj;jd;ikiaAk; Mde;jj;ijAk;ngWfpd;whd;.
+
+(M) rfpg;Gj;jd;ik(M) rfpg;Gj;jd;ik(M) rfpg;Gj;jd;ik(M) rfpg;Gj;jd;ik(M) rfpg;Gj;jd;ikkdj;J}a;ik cs;s ,lj;jpNyNa rfpg;Gj;jd;ik Vw;gLk;. me;epiyapy;rkhjhdk; gpwf;Fk;> ,e;epiyapy; gpwUf;F cjtp nra;jy; epfOk;. cz;ikahdjiyikj;Jtg; gz;Gk; kdj;J}a;ikahy; tpUj;jp milAk; kdj;J}a;ikNamjp cau;e;j tpOkpaq;fspy; xd;whFk;. xUtu; kw;wtUld; goFk; NghJk;>mz;il maytUld; goFk; NghJk; rfpg;Gj;jd;ik ,y;yhJ tpl;lhy; cwTnfhs;sKbahJ. kw;wtu; $Wk; fUj;Jf;fspy; NtWghL ,Uf;fyhk;. Mdhy;mtw;iw nrtpkLj;jy; rpwe;j gz;ghFk;.
+
+16,ytrg; ghl E}y; tpepNahfj;jpw;fhf
+
+khztu;fs; jq;fs; tFg;G khztu;fspilNa Vw;gLk; fUj;JNkhjy;fshy; Ntw;Wik ghuhl;lhJ cwT Ngz Ntz;Lk;. ehk;nghWikahf ,Ue;jhy; tho;f;ifapy; ntw;wp ngwyhk;. vdNtmLj;jtu;fs; vq;fSld; Mj;jpug;gl;lhYk; nghWikahfr; rfpj;Jnfhs;NthNkahdhy; ehk; giff;fhJ cwthl KbAk;. kdpjid cau;e;jgz;Gs;stdhf;Fk; nghWikAk;> mjdhy; cz;lhFk; rfpg;Gj;jd;ikAk;tho;tpy; ntw;wpiaj; jUfpd;wJ. ~~mfo;thiuj; jhq;Fk; epyk; Nghyjk;ik ,fo;thiug; nghWj;jy; jiy|| vd;fpwJ ngha;ah nkhop. kw;wtu;fs;vkf;F jPq;F nra;Ak; NghJ mtu;fisg; giff;fhJ mtu;fSld; md;ghfcwthLtJ rpwe;j mwr;nrayhFk;.
+
+tho;f;ifapy; ntw;wpf;Fupa rpwe;j ew;rhl;rpahf miktJ gzpthFk;.kfpo;r;rpf;F cWjpiaj; jUtJk; gzpthFk;. ,j;jifa gzpTs;s,lj;jpNyNa rfpg;Gj;jd;ik Vw;gl KbAk;. kdk; khrpy;yh ,lj;jpNyNarfpf;Fk; jd;ik Vw;gLk;. mfk;ghtk; cs;s ,lj;jpy; rfpg;Gj;jd;ik epiynfhs;s KbahJ. ~~nghWj;jhu; G+kpahs;thu; nghq;fpdhu; fhlhs;thu;|| vd;gJKJnkhop. rfpg;Gj; jd;ik ,oe;jtd; tho;tpy; mikjp ,oe;jtdhthd;.
+
+(,) rkhjhdk;(,) rkhjhdk;(,) rkhjhdk;(,) rkhjhdk;(,) rkhjhdk;ehk; kw;wtUld; kdg;G+u;tkhf ey;ypzf;fj;Jld; ,Uj;jy;rkhjhdkhFk;. ehk; ekJ ngw;NwhUlDk;> rNfhjuu;fSlDk;>FLk;gj;jpYs;s ngupatu;fSlDk;> maytu;fSlDk;> r%fj;jpy; thOk;midtUlDk; md;Gld; tho;tjd; %yk; midtUk; eykhf thoyhk;.cs;sj;jpy; md;Gs;s NghNj kdpjd; mikjp milaKbAk;. mikjpcs;s NghNj rkhjhdk; epiyngWk;. md;gpy;yh tho;f;if mikjpaw;wJVnddpy; md;gpy;yhj NghJ kdk; mikjp ,oe;JtpLfpd;wJ. mjdhy;rkhjhdk; njhiye;J tpLfpd;wJ. cyfpay; mwpT tho;f;iff;F mtrpak;vd;gJ re;Njfj;Jf;F ,lkw;wJ. mwpitj; Njbf;nfhs;Sk; mNj Ntisrupahd tho;f;if gw;wpa mbg;gil cz;ik gw;wpAk; xOfyhW gw;wpAk;njupe;jpUj;jy; mtrpak;. ehk; kw;wtu;fis cz;ikahf tpRthrpg;gjd;%yNk cz;ikahd rkhjhdj;ij tsu;j;Jf; nfhs;syhk;.
+
+(<) cjtp nra;jy(<) cjtp nra;jy(<) cjtp nra;jy(<) cjtp nra;jy(<) cjtp nra;jy;vt;tpj vjpu;ghu;g;Gk; ,y;yhJ nra;Ak; NritNa cjtpahFk;. kdpjtho;T ,aw;ifAld; ,ize;Js;sJ. ,aw;ifapd; NgUgfhuj;jhy; kdpjd;jhd; tho;e;J nfhz;bUg;gij mwpe;J jhDk; kw;wtu;fSf;F cjtpnra;a Kd; tuNtz;Lk;. vjpu;ghu;g;G vJTkw;w cjtpapd; %yk; ,iwaUs;fpl;Lk; gps;isfs; tPl;by; ngw;NwhUf;Fk; FLk;gj;jpy; trpf;Fk;KjpNahUf;Fk; cwtpdu;fSf;Fk; cjtp Gupa Ntz;Lk;. maytUf;FcjTjy; ey;y gz;ghFk;. r%fj;jpy; ahUf;F cjtp NjitNahmtu;fSf;F kdg;G+u;tkhf cjtp nra;a Ntz;Lk;.
+
+17
+
+,ytrg; ghl E}y; tpepNahfj;jpw;fhf
+
+kdk; nehe;J ,Ug;gtUf;F MWjy; thu;j;ij $w Ntz;Lk;. guhkupf;fahUNk ,y;yhjtiu guhkupj;jy; Ntz;Lk;. Nehahsu;> mq;ftPdu;>tNahjpgu; midtUf;Fk; ek;khyhd cjtpfisr; nra;tJ rpwe;jgz;ghFk;. ghlrhiyapy; eilngWk; nfhz;lhl;lq;fSf;Fk; Myaj;jpy;,lk;ngWk; epfo;Tfs;> tpohf;fSf;Fk; kdKte;J cjtp nra;jy;rhyr;rpwe;jJ. irtu;fs; vy;yh capupYk; rptd; ciwgtd; vd;w ek;gpf;ifcs;stu;fs;. vdNt ve;j capupd; Jd;gj;ijg; Nghf;fTk; cjtp nra;tJirtrkaj;jtupd; flikahFk;. mikjpahd kdjpdhNy Mz;ltidtopglyhk; ,jdhy; rptdUs; fpl;Lk;. ,d;gkhf thoyhk;.(c) jiyikj;Jtk;(c) jiyikj;Jtk;(c) jiyikj;Jtk;(c) jiyikj;Jtk;(c) jiyikj;Jtk;
+
+cupa tplaj;ij cupa fhyj;jpy; Kd;ndLj;Jr; nry;Yk; jifikjiyikj;Jtg; gz;ghFk;. xt;nthU khztDk; jsuh cWjpAk; NeupaNehf;Fk; nfhz;ltdhf ngw;Nwhu;fshYk; Mrpupau;fshYk; r%fj;jhYk;tsu;j;njLf;fg;gLk; epiyapNyNa mtd; jiyikj;Jtg; gz;Giltdhfpd;whd;. Raeyj;jpdpd;Wk; tpLgl;L gpwu;eyk; NgZk; xUtNucz;ikahd jiytdhf KbAk;. rpwe;j xU jiytd; Neuf; fl;Lg;ghLilatdhfTk; #oiy xl;batdhfTk; rpwe;j xUq;fpizg;ghsuhfTk;,Ug;ghd;. NkYk; rpwe;j ey;y xOfyhWfisg; NgZgtdhfTk;#o;epiyfis mwpe;J nraw;gLgtdhfTk; kw;wtupd; fUj;Jf;Fkjpg;gspg;gtdhfTk; nkhopg; Gyik cilatdhfTk; ,Ug;ghd;.nkhopahw;wy; xU jiytDf;F ,d;wpaikahg; gz;ghFk;. jiytd;jhd; vLj;Jf; nfhz;l tplaj;ij Kbg;gjw;F Vidatu;fspd; cjtpfpilf;fhtpl;lhYk; jdpj;J epd;NwDk; nraw;gLk; jpwd; ngw;wpUf;fNtz;Lk;. khztu;fs; jkf;Fupa cupikfs; gw;wpj; jdpj;Jf; ftdk;nrYj;jhky; jkf;Fupa flikfs; nghWg;Gf;fs; gw;wpa fupridcilatu;fshf ,Uj;jy; mtrpak;. nghWg;Gf;fis tpUk;gp Vw;Wr; nra;Ak;Nrit jiyikj;Jtg; gz;GfSnshd;whFk;. FLk;gj;jpYk;> r%fj;jpYk;>ehl;bYk; Vw;gLk; gpur;rpidfSf;Fk; mjdhy; Vw;gLk; Jd;gq;fSf;Fk;ey;yNjhu; jPu;it vl;lr; nra;gtNd jiytd;. ehad;khu;fs; ehl;by;Vw;gl;l Jd;gq;fisj; jPu;f;f jiyik Vw;W ele;jik Fwpg;gplj;jf;fJ.J}a cs;sj;NjhL r%fj;jpw;F Nrit nra;tjw;F jk;ikj; jhNkMf;fpf;nfhs;Sk; jpwid khztupilNa tpUj;jp nra;tNj Mrpupaupd;jiyaha gzpahFk;. khztu;fs; ghlrhiyapy; fw;Fk; fhyj;jpNymtu;fspilNa jiyikj;Jtg; gz;ig tsu;g;gtuhf Mrpupau; tpsq;fNtz;Lk;. ghlrhiyapy; mikf;fg;gl;bUf;Fk; gy;NtW kd;wq;fspy;khztu;fs; ,ize;J me;j mikg;Gfspd; %yk; Mw;w Ntz;baflikfisr; nrt;tNd nra;jy; rpwg;Gila jiyikj;Jtj;ij vLj;Jf;fhl;LtjhFk;. cjhuzkhf irt kd;wj;jpD}lhf khztu; nraw;gLk;NghJ irt tho;tpidg; gpujpgypg;gtuhf rpwe;j xOf;f rPyuhff;fhzg;gLthu;.
+
+18,ytrg; ghl E}y; tpepNahfj;jpw;fhf
+
+~ghlr;RUf;fk;ghlr;RUf;fk;ghlr;RUf;fk;ghlr;RUf;fk;ghlr;RUf;fk;
+
+•kdpjid kdpjg; gz;Gs;stdhf Mf;FtJ kdpj tpOkpaq;fs;.•tpOkpag; gz;Gfis mwpe;jhy; khj;jpuk; NghjhJ. mtw;iwfilg;gpbj;njhOFjy; Ntz;Lk;.•tpOkpaq;fspy; mbg;gilahdJ md;G. md;G tho;f;if thOk;NghNj csj;J}a;ik> rfpg;Gj; jd;ik> rkhjhdk;> gpwUf;FcjTjy; Mfpa rpwe;j kdpjg; gz;Gfs; Vw;gLfpd;wd.•khztu;fsplk; jiyikj;Jtg; gz;ig tpUj;jp nra;tjpy;csj;J}a;ik ,d;wpaikahjJ.•Mrpupau;fs; khztu;fspilNa jiyikj;Jtg; gz;ig tpUj;jpnra;Ak; tifapy; Kd;khjpup elj;ij cilatu;fshf ,Uj;jy;Ntz;Lk;.•khztu;fs; khztg; gUtj;jpy; kdpj tpOkpaq;fisf;filg;gpbf;Fk; tifapy; jiyikj;Jtg; gz;Gfismtu;fspilNa cUthf;Fjy; Ntz;Lk;.•rkag; ngupahu;fspd; tho;f;ifia Nehf;Ftjd; %yk; kdpjtpOkpaq;fisf; iff;nfhs;s KbAk;.
+
+^ m. gapw;rpfs; m. gapw;rpfs; m. gapw;rpfs; m. gapw;rpfs; m. gapw;rpfs;
+
+gpd;tUk; tpdhf;fSf;F tpil vOJf.gpd;tUk; tpdhf;fSf;F tpil vOJf.gpd;tUk; tpdhf;fSf;F tpil vOJf.gpd;tUk; tpdhf;fSf;F tpil vOJf.gpd;tUk; tpdhf;fSf;F tpil vOJf.1.tpOkpak; vd;w nrhy;ypd; nghUisj; jUf.2.kdpj tpOkpag; gz;Gfs; Ie;jpid vOJf.
+
+3.csj;J}a;ik vd;why; vd;d vd;gij RUf;fkhf $Wf.4rfpg;Gj; jd;ik vd;why; vd;d vd;gij RUf;fkhff; $Wf.5.ePq;fs; gpwUf;Fr; nra;j gpujp cgfhuk; fUjhj cjtpfs; %d;WvOJf.
+
+6.ghlrhiyapy; jiyikj;Jtg; gz;Gfis tsu;j;Jf; nfhs;scjTk; re;ju;g;gq;fisAk;> kd;wq;fisAk; $Wf.
+
+M. nraw;ghLM. nraw;ghLM. nraw;ghLM. nraw;ghLM. nraw;ghL
+
+~~ md;ghd tho;Nt mikjpiaj; jUk; || vd;Dk; jiyg;gpy; xUNgr;ir vOjp mjid tFg;giwapy; Ngrpf; fhl;Lf.
+
+\
