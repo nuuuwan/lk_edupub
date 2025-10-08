@@ -1,16 +1,16 @@
 # 📚#SriLanka 🇱🇰 Edupub `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_14:19:38-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2025--10--08_15:04:06-green)
 
 [https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub)
 
 Educational Publications from the Educational Publications Department, Sri Lanka.
 
-- [**99** documents](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub) (**89.5 MB**), from **2025-01-01** to **2025-01-01**, scraped from [http://www.edupub.gov.lk](http://www.edupub.gov.lk)
+- [**1,426** documents](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub) (**127.3 MB**), from **2025-01-01** to **2025-01-01**, scraped from [http://www.edupub.gov.lk](http://www.edupub.gov.lk)
 
-- In **JSON**, **PDF** (13%), **TXT** (13%) & **🤗 Hugging Face** (13%)
+- In **JSON**, **PDF** (2%), **TXT** (2%) & **🤗 Hugging Face** (2%)
 
-- In **English**
+- In **සිංහල**, **தமிழ்** & **English**
 
 - 🎓 Cite as **[arXiv:2510.04124](https://arxiv.org/abs/2510.04124) [cs.CL]**
 
@@ -19,17 +19,17 @@ Educational Publications from the Educational Publications Department, Sri Lanka
 ```json
 {
     "doc_type": "lk_edupub",
-    "doc_id": "2025-01-01-8-en-1575-grade-8-en-en-a967edec",
-    "num": "8-en-1575-grade-8-en-english-work-book-new-syllabus-english-work-book",
+    "doc_id": "2025-01-01-9-ta-998-grade-9-ta-ii-ii",
+    "num": "9-ta-998-grade-9-ta-ii-ii",
     "date_str": "2025-01-01",
-    "description": "(Grade 8/en) English Work Book  -   New syllabus - English Work Book",
+    "description": "(Grade 9/ta) \u0b95\u0ba3\u0bbf\u0ba4\u0bae\u0bcd II -   \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bbe\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd   - \u0b95\u0ba3\u0bbf\u0ba4\u0bae\u0bcd II",
     "url_metadata": "http://www.edupub.gov.lk/SelectChapter.php",
-    "lang": "en",
-    "url_pdf": "http://www.edupub.gov.lk/Administrator/English/8/en wb g-8/english WB g-8.pdf",
-    "grade_id": 8,
-    "book_id": "1575",
-    "book_name": "English Work Book  -   New syllabus",
-    "chapter_name": "English Work Book"
+    "lang": "ta",
+    "url_pdf": "http://www.edupub.gov.lk/Administrator/Tamil/9/maths G-9 P-II T/m G9 PII T.pdf",
+    "grade_id": 9,
+    "book_id": "998",
+    "book_name": "\u0b95\u0ba3\u0bbf\u0ba4\u0bae\u0bcd II -   \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bbe\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd  ",
+    "chapter_name": "\u0b95\u0ba3\u0bbf\u0ba4\u0bae\u0bcd II"
 }
 ```
 
@@ -44,26 +44,26 @@ Educational Publications from the Educational Publications Department, Sri Lanka
 
 ## 🆕 20 Latest documents
 
-- 2025-01-01 | `8-en-1575-grade-8-en-english-work-book-new-syllabus-english-work-book` | (Grade 8/en) English Work Book  -   New syllabus - English Work Book | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-8-en-1575-grade-8-en-en-a967edec)
-- 2025-01-01 | `8-en-1441-grade-8-en-science-part-ii-new-syllabus-science-part-ii` | (Grade 8/en) Science Part II  -  New Syllabus - Science Part II | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-8-en-1441-grade-8-en-sc-d38a9c27)
-- 2025-01-01 | `8-en-1410-grade-8-en-science-part-i-new-syllabus-science-part-i` | (Grade 8/en) Science Part I  -   New Syllabus - Science Part I | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-8-en-1410-grade-8-en-sc-82a066b9)
-- 2025-01-01 | `8-en-1342-grade-8-en-civic-education-new-syllabus-civic-education` | (Grade 8/en) Civic Education -  New syllabus - Civic Education | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-8-en-1342-grade-8-en-ci-61e766b8)
-- 2025-01-01 | `7-en-753-grade-7-en-geography-2016-new-syllabus-01-the-planet-earth-we-live` | (Grade 7/en) Geography - 2016 New Syllabus  - 01 The Planet Earth We live | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-753-grade-7-en-geo-d45076d7)
-- 2025-01-01 | `7-en-753-grade-7-en-geography-2016-new-syllabus-04-natural-hazards-and-disasters` | (Grade 7/en) Geography - 2016 New Syllabus  - 04 Natural Hazards and Disasters | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-753-grade-7-en-geo-a611ab90)
-- 2025-01-01 | `7-en-753-grade-7-en-geography-2016-new-syllabus-05-using-maps` | (Grade 7/en) Geography - 2016 New Syllabus  - 05 Using Maps | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-753-grade-7-en-geo-577dba66)
-- 2025-01-01 | `7-en-753-grade-7-en-geography-2016-new-syllabus-03-the-landscape-of-sri-lanka` | (Grade 7/en) Geography - 2016 New Syllabus  - 03 The landscape of Sri Lanka | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-753-grade-7-en-geo-1827b313)
-- 2025-01-01 | `7-en-753-grade-7-en-geography-2016-new-syllabus-02-identity-of-sri-lanka` | (Grade 7/en) Geography - 2016 New Syllabus  - 02 Identity of Sri Lanka | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-753-grade-7-en-geo-0d11b420)
-- 2025-01-01 | `7-en-748-grade-7-en-english-reading-book-2016-new-syllabus-08-wonders-around-us` | (Grade 7/en) English Reading Book - 2016 New Syllabus  - 08 Wonders around us | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-748-grade-7-en-eng-fd2e4b1b)
-- 2025-01-01 | `7-en-748-grade-7-en-english-reading-book-2016-new-syllabus-07-around-the-country` | (Grade 7/en) English Reading Book - 2016 New Syllabus  - 07 Around the country | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-748-grade-7-en-eng-c950d7b6)
-- 2025-01-01 | `7-en-748-grade-7-en-english-reading-book-2016-new-syllabus-06-better-safe-than-sorry` | (Grade 7/en) English Reading Book - 2016 New Syllabus  - 06 Better safe than sorry | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-748-grade-7-en-eng-bb8825b7)
-- 2025-01-01 | `7-en-748-grade-7-en-english-reading-book-2016-new-syllabus-04-a-busy-day` | (Grade 7/en) English Reading Book - 2016 New Syllabus  - 04 A busy day | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-748-grade-7-en-eng-aa7a2ad6)
-- 2025-01-01 | `7-en-748-grade-7-en-english-reading-book-2016-new-syllabus-02-friends-indeed` | (Grade 7/en) English Reading Book - 2016 New Syllabus  - 02 Friends Indeed | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-748-grade-7-en-eng-7e2ee2ca)
-- 2025-01-01 | `7-en-748-grade-7-en-english-reading-book-2016-new-syllabus-03-pleasure` | (Grade 7/en) English Reading Book - 2016 New Syllabus  - 03 Pleasure | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-748-grade-7-en-eng-78aea13b)
-- 2025-01-01 | `7-en-748-grade-7-en-english-reading-book-2016-new-syllabus-10-future` | (Grade 7/en) English Reading Book - 2016 New Syllabus  - 10 future | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-748-grade-7-en-eng-6a46f7b5)
-- 2025-01-01 | `7-en-748-grade-7-en-english-reading-book-2016-new-syllabus-05-once-upon-a-time` | (Grade 7/en) English Reading Book - 2016 New Syllabus  - 05 Once upon a time | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-748-grade-7-en-eng-498f7b22)
-- 2025-01-01 | `7-en-748-grade-7-en-english-reading-book-2016-new-syllabus-09-our-beautiful-world` | (Grade 7/en) English Reading Book - 2016 New Syllabus  - 09 Our beautiful world | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-748-grade-7-en-eng-40a331b7)
-- 2025-01-01 | `7-en-748-grade-7-en-english-reading-book-2016-new-syllabus-01-what-you-see` | (Grade 7/en) English Reading Book - 2016 New Syllabus  - 01 What you see | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-748-grade-7-en-eng-1bb41c79)
-- 2025-01-01 | `7-en-1772-grade-7-en-catholicism-catholicism` | (Grade 7/en) Catholicism - Catholicism | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-7-en-1772-grade-7-en-ca-94af6467)
+- 2025-01-01 | `9-ta-998-grade-9-ta-ii-ii` | (Grade 9/ta) கணிதம் II -   புதிய பாடத்திட்டம்   - கணிதம் II | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-998-grade-9-ta-ii-ii)
+- 2025-01-01 | `9-ta-996-grade-9-ta` | (Grade 9/ta) இஸ்லாம்  -   புதிய பாடத்திட்டம்   - இஸ்லாம் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-996-grade-9-ta)
+- 2025-01-01 | `9-ta-994-grade-9-ta` | (Grade 9/ta) கிறிஸ்தவம்  -   புதிய பாடத்திட்டம்   - கிறிஸ்தவம் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-994-grade-9-ta)
+- 2025-01-01 | `9-ta-993-grade-9-ta` | (Grade 9/ta) தமிழ் மொழியும் இலக்கியமும்  -  புதிய பாடத்திட்டம்   - தமிழ் மொழியும் இலக்கியமும் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-993-grade-9-ta)
+- 2025-01-01 | `9-ta-990-grade-9-ta-1-i` | (Grade 9/ta) விஞ்ஞானம் 1 -  புதிய பாடத்திட்டம் - விஞ்ஞானம்  - பகுதி -  I | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-990-grade-9-ta-1-i)
+- 2025-01-01 | `9-ta-519-grade-9-ta-05` | (Grade 9/ta) வரலாறு  - 05 குடியேற்றவாதப் பரம்பல் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-519-grade-9-ta-05)
+- 2025-01-01 | `9-ta-519-grade-9-ta-04` | (Grade 9/ta) வரலாறு  - 04 சுதந்திரத்தின் பின்னர் இலங்கையின் அரசியல் வளர்ச்சி | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-519-grade-9-ta-04)
+- 2025-01-01 | `9-ta-519-grade-9-ta-03` | (Grade 9/ta) வரலாறு  - 03 இலங்கையின் சமய, அரசியல் மறுமலர்ச்சி | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-519-grade-9-ta-03)
+- 2025-01-01 | `9-ta-519-grade-9-ta-02` | (Grade 9/ta) வரலாறு  - 02 இலங்கையின் பாராளுமன்ற ஆட்சி முறையில் வளர்ச்சி | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-519-grade-9-ta-02)
+- 2025-01-01 | `9-ta-519-grade-9-ta-01` | (Grade 9/ta) வரலாறு  - 01 பிரித்தானியரின் இலங்கை வருகையும் ஆட்சியை நிலை நிறுத்திக் கொள்ளலும் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-519-grade-9-ta-01)
+- 2025-01-01 | `9-ta-518-grade-9-ta-05` | (Grade 9/ta) புவியியல்  - 05 தேசப்படம் தொடர்பான இடவிளக்கவியல் அம்சங்கள் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-518-grade-9-ta-05)
+- 2025-01-01 | `9-ta-518-grade-9-ta-04` | (Grade 9/ta) புவியியல்  - 04 சுற்றாடல் ஒழுக்க நெறியும் அபிவிருத்தியும் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-518-grade-9-ta-04)
+- 2025-01-01 | `9-ta-518-grade-9-ta-03` | (Grade 9/ta) புவியியல்  - 03 இலங்கையின் அபிவிருத்திப் போக்கின் தன்மை | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-518-grade-9-ta-03)
+- 2025-01-01 | `9-ta-518-grade-9-ta-02` | (Grade 9/ta) புவியியல்  - 02 அசியப் பிராந்தியத்தின் பௌதிக மானிடச் சுற்றாடல் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-518-grade-9-ta-02)
+- 2025-01-01 | `9-ta-518-grade-9-ta-01` | (Grade 9/ta) புவியியல்  - 01 நீல்க்கோளான புவியின் முக்கியத்துவம் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-518-grade-9-ta-01)
+- 2025-01-01 | `9-ta-517-grade-9-ta-1-14` | (Grade 9/ta) கணிதம் 1   - 14 எளிய சமன்பாடுகள் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-517-grade-9-ta-1-14)
+- 2025-01-01 | `9-ta-517-grade-9-ta-1-13` | (Grade 9/ta) கணிதம் 1   - 13 அமைப்புகள் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-517-grade-9-ta-1-13)
+- 2025-01-01 | `9-ta-517-grade-9-ta-1-12` | (Grade 9/ta) கணிதம் 1   - 12 சுட்டிகளும் மடக்கைகளும் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-517-grade-9-ta-1-12)
+- 2025-01-01 | `9-ta-517-grade-9-ta-1-11` | (Grade 9/ta) கணிதம் 1   - 11 கணிகருவி | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-517-grade-9-ta-1-11)
+- 2025-01-01 | `9-ta-517-grade-9-ta-1-10` | (Grade 9/ta) கணிதம் 1   - 10 நேர் விகிதசமன் | [data](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub/2020s/2025/2025-01-01-9-ta-517-grade-9-ta-1-10)
 
 ---
 

@@ -2,33 +2,35 @@
   "doc_class_label": "lk_edupub",
   "doc_class_emoji": "\ud83d\udcda",
   "doc_class_description": "Educational Publications from the Educational Publications Department, Sri Lanka.",
-  "time_updated": "2025-10-08 14:19:38",
-  "n_docs": 99,
-  "n_docs_with_pdfs": 13,
-  "n_docs_with_text": 13,
+  "time_updated": "2025-10-08 15:04:05",
+  "n_docs": 1426,
+  "n_docs_with_pdfs": 28,
+  "n_docs_with_text": 28,
   "date_str_min": "2025-01-01",
   "date_str_max": "2025-01-01",
-  "dataset_size": 89451981,
+  "dataset_size": 127153058,
   "url_source_list": [
     "http://www.edupub.gov.lk"
   ],
   "url_data": "https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub",
   "url_chart": "https://raw.githubusercontent.com/nuuuwan/lk_edupub/refs/heads/data/data/lk_edupub/docs_by_year_and_lang.png",
   "langs": [
-    "en"
+    "en",
+    "ta",
+    "si"
   ],
   "latest_doc_d": {
     "doc_type": "lk_edupub",
-    "doc_id": "2025-01-01-8-en-1575-grade-8-en-en-a967edec",
-    "num": "8-en-1575-grade-8-en-english-work-book-new-syllabus-english-work-book",
+    "doc_id": "2025-01-01-9-ta-998-grade-9-ta-ii-ii",
+    "num": "9-ta-998-grade-9-ta-ii-ii",
     "date_str": "2025-01-01",
-    "description": "(Grade 8/en) English Work Book  -   New syllabus - English Work Book",
+    "description": "(Grade 9/ta) \u0b95\u0ba3\u0bbf\u0ba4\u0bae\u0bcd II -   \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bbe\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd   - \u0b95\u0ba3\u0bbf\u0ba4\u0bae\u0bcd II",
     "url_metadata": "http://www.edupub.gov.lk/SelectChapter.php",
-    "lang": "en",
-    "url_pdf": "http://www.edupub.gov.lk/Administrator/English/8/en wb g-8/english WB g-8.pdf",
-    "grade_id": 8,
-    "book_id": "1575",
-    "book_name": "English Work Book  -   New syllabus",
-    "chapter_name": "English Work Book"
+    "lang": "ta",
+    "url_pdf": "http://www.edupub.gov.lk/Administrator/Tamil/9/maths G-9 P-II T/m G9 PII T.pdf",
+    "grade_id": 9,
+    "book_id": "998",
+    "book_name": "\u0b95\u0ba3\u0bbf\u0ba4\u0bae\u0bcd II -   \u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0baa\u0bbe\u0b9f\u0ba4\u0bcd\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bae\u0bcd  ",
+    "chapter_name": "\u0b95\u0ba3\u0bbf\u0ba4\u0bae\u0bcd II"
   }
 }
