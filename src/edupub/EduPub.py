@@ -63,7 +63,7 @@ class EduPub(AbstractPDFDoc):
             book_id = a.get("bookid")
             book_name = a.get("bookname")
             assert book_id
-            return dict(book_id=book_id, book_name=book_name)
+            yield dict(book_id=book_id, book_name=book_name)
 
     @classmethod
     def lang_from_lang_id(cls, lang_id):
