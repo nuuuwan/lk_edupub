@@ -1,3 +1,4 @@
+import random
 import re
 from dataclasses import dataclass
 
@@ -31,6 +32,8 @@ class EduPub(AbstractPDFDoc):
     chapter_name: str
 
     DATE_STR_DUMMY = "2025-01-01"
+    LANG_IDS = list(range(1, 3 + 1))
+    GRADE_IDS = list(range(1, 13 + 1))
 
     @classmethod
     def get_doc_class_description(cls) -> str:
@@ -62,7 +65,9 @@ class EduPub(AbstractPDFDoc):
         )
 
         div_list = soup.find("div", id="SelectSyllabuss")
-        for a in div_list.find_all("a", class_="SelectSyllabuss"):
+        a_list = div_list.find_all("a", class_="SelectSyllabuss")
+        random.shuffle(a_list)
+        for a in a_list:
             book_id = a.get("bookid")
             book_name = a.get("bookname")
             assert book_id
@@ -99,7 +104,9 @@ class EduPub(AbstractPDFDoc):
         )
 
         div_list = soup.find("div", id="SelectSyllabuss")
-        for a in div_list.find_all("a", class_="SelectChapter"):
+        a_list = div_list.find_all("a", class_="SelectChapter")
+        random.shuffle(a_list)
+        for a in a_list:
             href = a.get("href")
             assert href.endswith(".pdf"), href
             url_pdf = "http://www.edupub.gov.lk/" + href
@@ -129,6 +136,10 @@ class EduPub(AbstractPDFDoc):
 
     @classmethod
     def gen_docs(cls):
+        lang_ids = cls.LANG_IDS
+        random.shuffle(lang_ids)
+        grade_ids = cls.GRADE_IDS
+        random.shuffle(grade_ids)
         for lang_id in cls.gen_lang_ids():
             for grade_id in cls.gen_grade_ids():
                 for book_info in cls.gen_book_infos_for_lang_and_grade(
