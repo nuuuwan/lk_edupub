@@ -17,6 +17,9 @@ class WWWFuture(WWW):
         response = requests.post(self.url, timeout=t_timeout, data=payload)
         response.raise_for_status()
         html = response.text
+        n = len(html)
+        log.debug(f"🌐 POST {self.url} with {payload} ({n:,}B)")
+
         return bs4.BeautifulSoup(html, "html.parser")
 
 
@@ -39,12 +42,12 @@ class EduPub(AbstractPDFDoc):
 
     @classmethod
     def gen_lang_ids(cls):
-        for lang_id in [1]:
+        for lang_id in range(1, 3 + 1):
             yield lang_id
 
     @classmethod
     def gen_grade_ids(cls):
-        for grade_id in [10]:
+        for grade_id in range(1, 13 + 1):
             yield grade_id
 
     @classmethod
@@ -70,6 +73,10 @@ class EduPub(AbstractPDFDoc):
         return {1: "en", 2: "si", 3: "ta"}[lang_id]
 
     @classmethod
+    def book_lang_view_from_lag_id(cls, lang_id):
+        return {1: "English", 2: "Sinhala", 3: "Tamil"}[lang_id]
+
+    @classmethod
     def clean_str(cls, s: str) -> str:
         s = re.sub(r"[^a-zA-Z0-9\s]", " ", s)
         s = re.sub(r"\s+", " ", s).strip()
@@ -81,11 +88,12 @@ class EduPub(AbstractPDFDoc):
         book_id = book_info["book_id"]
         book_name = book_info["book_name"]
         url_metadata = "http://www.edupub.gov.lk/SelectChapter.php"
+        book_lang_view = cls.book_lang_view_from_lag_id(lang_id)
         soup = WWWFuture(url_metadata).soup_from_post(
             {
                 "bookId": book_id,
                 "BookGrade": grade_id,
-                "BookLanguageView": "English",
+                "BookLanguageView": book_lang_view,
                 "bookName": book_name,
             }
         )
@@ -126,6 +134,7 @@ class EduPub(AbstractPDFDoc):
                 for book_info in cls.gen_book_infos_for_lang_and_grade(
                     lang_id, grade_id
                 ):
-                    yield from cls.gen_docs_for_book(
+                    for doc in cls.gen_docs_for_book(
                         lang_id, grade_id, book_info
-                    )
+                    ):
+                        yield doc
