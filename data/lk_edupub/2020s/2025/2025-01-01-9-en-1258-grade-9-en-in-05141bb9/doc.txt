@@ -1,0 +1,3641 @@
+==== BLOCKS ==== 
+
+Information and Communication
+
+Technology
+
+Grade 9Reading Book
+
+Educational Publications Department
+
+ii
+
+First Print 2018Second Print 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0172-2
+
+Published by Educational Publications DepartmentPrinted by Champika Printers,No. 343, Colombo Road, Kurunegala.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka MathaApa Sri Lanka Namo Namo Namo Namo MathaSundara siri barinee, surendi athi sobamana LankaDhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye mathaPiliganu mena apa bhakthi pooja Namo Namo MathaApa Sri Lanka Namo Namo Namo Namo MathaOba we apa vidya Obamaya apa sathyaOba we apa shakthi Apa hada thula bhakthiOba apa aloke Apage anupraneOba apa jeevana we Apa mukthiya oba weNava jeevana demine, nithina apa pubudukaran mathaGnana veerya vadawamina regena yanu mana jaya bhoomi karaEka mavakage daru kela bevinaYamu yamu vee nopamaPrema vada sema bheda dureradaNamo, Namo MathaApa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+xU jha; kf;fs; ehkhNthk;xd;Nw ehk; thOk; ,y;yk;ed;Nw clypy; XLk;xd;Nw ek; FUjp epwk;
+
+mjdhy; rNfhjuu; ehkhNthk;xd;wha; thOk; tsUk; ehk; ed;wha; ,t; ,y;ypdpNyeyNk tho;jy; Ntz;Lkd;Nwh
+
+ahtUk; md;G fUizAld;xw;Wik rpwf;f tho;e;jpLjy;nghd;Dk; kzpAk; Kj;Jky;y - mJNtahd;W kopahr; nry;tkd;Nwh.
+
+Mde;j rkuf;Nfhd; ftpijapd; ngau;g;G.
+
+v
+
+Message from the Hon. Minister of Education
+
+The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan Government and myself, as the Minister of Education, to empower you all. This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders. Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence, you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim. It is your duty to give a proper value to the money spent by the government on your education. Also you should understand that education determines your future. Make sure that you reach the optimum social stratum through education. I congratulate you to enjoy the benefits of free education and bloom as an honoured citizen who takes the name of Sri Lanka to the world.
+
+Akila Viraj Kariyawasam
+
+Minister of Education
+
+Being innovative, changing with right knowledge Be a light to the country as well as to the world.
+
+vi
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you all the textbooks from grades 1-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha Wickramanayaka,Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vii
+
+Monitoring and Supervision W. M. Jayantha Wickramanayaka Commissioner General of Educational Publications Educational Publications DepartmentDirection - W. A. Nirmala Piyaseeli Commissioner (Development) Educational Publications DepartmentCo-ordination - Dakshina Kasturiarachchi Assistant Commissioner Educational Publications DepartmentPanel of Editors
+
+Dr. Prasad Wimalaratne Head, Department of Communication and Media Technologies, University of Colombo School of Computing, Colombo 7. Dr. H. L. Premaratne Senior Lecturer, University of Colombo School of Computing, Colombo 7. Dr. P. M. T. B. Sandirigama Senior Lecturer, Department of Computer Engineering, Faculty of Engineering, University of Peradeniya, Peradeniya. S. A. S. Lorensuhewa Head, Department of Information and Communication Technology, Senior Lecturer, Department of Computer Science, University of Ruhuna, Matara. K. P. M. K. Silva Lecturer, University of Colombo School of Computing, Colombo 7. Dakshina Kasturiarachchi Assistant Commissioner, Educational Publications Department
+
+Panel of WritersA. Sunil Samaraweera In-Service-Adviser (ICT), Zonal Computer Resource Centre, Kegalle. I. R. N. H. Karunaratne Manager, Zonal Computer Resource Centre, President’s College, Maharagama. K. V. S. M. Mohanlal Adviser, Zonal Computer Resource Centre, Deniyaya Madya Maha Vidyalaya, Deniyaya. W. M. A. S. Wijesekara (retired) Manager, Zonal Computer Resource Centre, Haliela. T. K. Palliyaguruge Adviser, Zonal Computer Resource Centre, WP/Jaya/ Sri Yashodara Maha Vidyalaya, Pittugala, Malambe. P. J. K. Kahagalle Adviser, Zonal Computer Resource Centre, Sri Rahula Balika Vidyalaya, Malambe. V. Goonetilleke (retired) Lecturer, Sri Lanka Institute of Information Technology, Malambe.
+
+Language Editing Ranjith Iluppitiya Director, National Book Development Council of Sri Lanka, Ministry of Education Cover Page Chaminda Hapuarachchi Educational Publications Department
+
+Technical Assistance Thinoli Shenesha Kothalawala Educational Publications Department P. A. D. Nisansala Sandamali Educational Publications Department
+
+viii
+
+We are grateful if you can send us your comments to feedbackicttextbook@gmail.com regarding the contents of this series of books on Information and Communication Technology and your suggestions to develop the creativity of students.
+
+Board of Editors
+
+ix
+
+Index
+
+1Preparation of Computer Specifications1
+
+2Electronic Spreadsheets22
+
+3Programming29
+
+4Use of Microcontrollers47
+
+5Computer Networks 66
+
+6ICT and Society75
+
+x
+
+For free distribution
+
+1
+
+This chapter will cover the following:
+
+²Computers and peripheral devices ²Selection of devices for the user requirement ²Creating computer specifications ²Non-technical factors to be considered in purchasing a computer
+
+Computer shopI need to buy a computer for my school assignments and to do accounts of my father's business.
+
+I need a computer that is mobile. It will help me to show my graphic designs to my teacher. It will help me to study from anywhere anytime.
+
+Preparation of Computer Specifications
+
+1
+
+2For free distribution
+
+Computer shopAre there any computers to suit the requirements of both of us?
+
+Yes. Many types are available. We can either buy a computer or we can get a computer assembled to suit our requirements. Let’s go in and take a look around!
+
+Identifying the user 1.1
+
+The one who uses a computer is generally referred to as a user. Different users working in different areas in Information and Communication Technologies have different designations. The following table shows a few such examples;
+
+Table 1.1 : Types of users and their work
+
+User nameTask ProgrammerDevelops computer programsNetwork Administrator Manages and maintains computer networksSystem AnalystDesigns information systemsSoftware Engineer Develops softwareComputer Application Assistant Uses office application packages for office related tasksWeb DeveloperDevelops and maintains websites
+
+The sixth chapter presents you a further study on the user.
+
+For free distribution
+
+3
+
+Note - Users can be classified into mainly two categories: system users and end users. End user uses the software maintained by the Systems User.
+
+Selection of a computer to suit user requirements1.2
+
+User requirements relate to tasks that are carried out by using a computer. The following Figure 1.1 provides examples for user requirements.
+
+Access Internet
+
+Preparation of documents
+
+Editing audio/video material
+
+Playing computer games
+
+Graphic designing
+
+Figure 1.1 : Some examples for user requirements
+
+A computer to suit user requirements can be selected from those available in the market (Figure 1.2), or a computer can be assembled to suit user requirements. Computers can be classified according to their nature and use as follows;
+
+• Non - portable computers
+
+Server computers, workstations, desktop computers and all-in-one computers, are all operated using the main electricity power supply. These computers are large in size and relatively heavy. Therefore, they are installed and used in places like houses, schools or offices.
+
+• Computers for mobile use
+
+Laptops, notebooks, tablet computers and a smart phones can be considered for mobile use. They operated with re-chargeable batteries. Therefore, they can be used when traveling in buses, trains, aeroplanes or from any convenient place.
+
+4For free distribution
+
+Types of computers
+
+Desktop computer
+
+Smart phone
+
+Laptop computer
+
+All-in-one computer
+
+Workstation computer
+
+Server computer
+
+Tablet computer
+
+Notebook computer
+
+Figure 1.2 : Examples for types of computers that are available in the market
+
+Refer to workbook for Activity 1.1.
+
+For free distribution
+
+5
+
+Important - The following are useful in learning more about computers.
+
+²Printed or electronic commercial advertisements on computers ²Magazines and newspapers about computers ²Websites providing information on computers ²Obtaining information from an expert in computers ²Visiting the computer shops and gathering information
+
+Computer peripheral devices1.3
+
+What are peripheral devices?
+
+Input devices are used to feed data and instructions into a computer. Storage devices are used to store data. Output devices are used to provide the information processed with the input data. Accordingly, input, storage and output devices are called peripheral devices.
+
+Microphone
+
+Printer
+
+Keyboard
+
+Monitor/ Display
+
+Speakers
+
+Mouse
+
+Optical disk
+
+Flash drive
+
+Hard disk drive
+
+Figure 1.3 : Computer peripheral devices
+
+6For free distribution
+
+The peripheral devices shown in Figure 1.3 above are classified in Table 1.2 as input, output and storage.
+
+Table 1.2 : Peripheral devices
+
+InputOutputStorageKeyboard MonitorHard disk driveMousePrinterOptical disk driveMicrophoneSpeakerFlash driveTouch screenMagnetic tape drive
+
+Note - The touch screen can be used to input data as well as to display information. Hence, it can be used as an input an output device.
+
+Refer to workbook for Activity 1.2.
+
+Computer specifications1.4
+
+What are computer specifications?
+
+Before purchasing an item, it is important to be aware of the value and the quality of the item. Specifications are generally about the common features of an item.
+
+For example, length, width and paper thickness, etc. determine quality of an exercise book. Basic specifications for an exercise book are as shown.
+
+Basic specifications for an exercise book
+
+Length : 210 mmWidth : 148 mmNumber of pages : 40Thickness of paper : 60 GSMType : Single ruled
+
+Similar to the specification of a book, a computer also has its specification.
+
+For free distribution
+
+7
+
+Specifications to suit different user requirements
+
+Consider a situation where two students use two types of books for different purposes. For example, a square ruled exercise book for mathematics and a large size drawing book for art. Specifications for the two types mentioned above are as follows:
+
+Specifications for an exercise book
+
+Length : 210 mmWidth : 148 mmNumber of pages : 200Thickness of paper : 60 GSMType : Square ruled
+
+Specifications for a drawing book
+
+Length : 300 mmWidth : 210 mmNumber of pages : 20Thickness of paper : 70 GSMType : Blank
+
+Different specifications for different purposes may result in price differences as well.
+
+The specifications change according to user requirements in the above example. Similarly depending on the use of a computer its specifications also differs.
+
+Specifications of computers and peripheral devices 1.5
+
+The following shows some important factors of computer specifications;
+
+Important - One can generally assure the quality of an item through its specifications.
+
+1.5.1 The processor
+
+Figure 1.4 : the human brain
+
+Humans are considered the most intelligent among all living beings. The brain (Figure 1.4) helps man to make decisions for actions taken. The brain also has the ability to swiftly respond to all sensations.
+
+8For free distribution
+
+Much as the brain is most important for humans, the processor (Central Processing Unit) (Figure 1.5) is the most important part of a computer. The processor processes data swiftly. As such, the processor is considered the "Brain" of the computer.
+
+The side that connects to the mother board
+
+Figure. 1.5 : Central Processing Unit
+
+View from above
+
+Speed of the processor
+
+A machine functions at a slower speed takes a longer time to complete a task while a machine functions at a higher speed takes a shorter or a lesser time to complete a task. Therefore, the amounts of work that could be carried out using these machines during a unit time differs.
+
+Blender working at slower speed
+
+Blender working at higher speed
+
+Figure 1.6 : Preparation of fruit juice using blenders with different speeds
+
+For free distribution
+
+9
+
+Figure 1.6 shows two blenders working simultaneously. The blender working at higher speed processes a larger quantity of fruit juice per unit time. A machine working at a higher speed provides better results.
+
+The performance of a computer depends on the speed of the processor. A processor running at high speed is able to process more data during a unit time. That is, the performance of the computer is increases. Then the software can be run faster. Therefore, when selecting a processor, it is advisable to select one with a greater speed.
+
+The speed of the processor is measured by the number of instructions executed per second.
+
+Important - The speed of a computer is determined by the number of instructions execute per second.
+
+The speed is measured in Hertz (units such as MHz or GHz).
+
+1000 MHz = 1 GHz
+
+Processor manufacturers
+
+Figure 1.7 : Different processors
+
+Several processor manufacturing companies, Apple, Intel and AMD (Advanced Micro Devices) exists.
+
+Types of processors Generally, the number of processors in a central processing unit is used to classify the Central Processing Unit. The following table shows examples of some Intel Central Processing Units with multiple processor units.
+
+Table 1.3 : Types of processors
+
+No. of CPUs Type1Single Core2Dual Core4Quad Core
+
+10For free distribution
+
+When the number of processors in a central processing unit increases its capacity also increases. Table 1.4 shows examples for Intel processors.
+
+Table 1.4 : Different processors and their names
+
+TypeNameExamples
+
+Single Core Pentium I, II, III, IV
+
+Dual CoreDual Core/Core 2 Duo
+
+Quad CoreCore i3, i5, i7, i9
+
+Refer to workbook for Activity 1.3.
+
+1.5.2Hard disk
+
+The hard disk provides permanent storage space for storing data and to installing all software. The hard disk is the main secondary storage device in a computer.
+
+For example, an exercise book with 160 pages provide more writing space than a book with 40 pages. Similarly, more data can be stored in a hard disk with a greater storage capacity. (see figure 1.8).
+
+40 page exercise book
+
+1 TB hard disk
+
+4 TB hard disk
+
+160 pages
+
+Exercise Book
+
+160 pages
+
+160 page exercise bookFigure 1.8 : An analogy for hard disk capacities
+
+For free distribution
+
+11
+
+Refer to workbook for Activity 1.4.
+
+1.5.3The monitor display
+
+The main output device of a computer is its monitor display. Most often, a user interacts with a computer via its monitor/ display.
+
+Monitor size
+
+For examples, a wall clock is larger than a wrist watch. Time is easily seen on a wall clock because of its size. Similarly, larger monitors have better visibility.
+
+A larger monitor size is useful in viewing a larger picture. The monitor size is measured in terms of its diagonal length in inches. (Figure 1.9).
+
+19 inch
+
+Figure. 1.9 : Monitor Size
+
+Monitor technology
+
+Monitors can be classified into the following types according to the technology used by them:
+
+²CRT (Cathode Ray Tube) Monitor ²LCD (Liquid Crystal Display) Monitor ²LED (Light Emitting Diode) Monitor
+
+12For free distribution
+
+CRT monitor
+
+LCD /LED monitor
+
+Fig.1.10 : CRT and LCD /LED monitor
+
+CRT monitors consume more electricity than the other two types. Further they are heavier and occupy more space due to its size. Hence, light weight LED and LCD monitors which consume less electricity are commonly used today. (See figure 1.10).
+
+1.5.4Main memory
+
+Let us consider a shelf which is used to keep books and bags when entering a library (See figure 1.11). Students who enter the library keep their school bags in compartments. They takes their bags as they leave the library.
+
+In a similar manners data and instructions are stored temporarily in the main memory (See figure 1.12) when the computer functions. A bigger rack for storage in a library can hold more school bags. Similarly, a higher capacity in the main memory stores more data and instructions. Therefore, a computer with a higher main memory capacity is better.
+
+Figure 1.11 : Rack for school bags
+
+Figure 1.12 : Random Access Memory (RAM) card act as the main memory
+
+For free distribution
+
+13
+
+Important - The capacity of the main memory is measured in units of bits. (Mega Bite (MB) or Giga Bite (GB) etc).
+
+1024 MB = 1 GB
+
+Refer to workbook for activity 1.5.
+
+1.5.5Video Graphic Adapter (VGA)
+
+Figure 1.13 : VGA card
+
+The Monitor is the main output device of a computer. The output is fed to the monitor via the Video Graphic Adapter (VGA). There are two types of Video Graphic Adapter (VGAs). On board VGA is fixed to the mother board and Separate VGAs card can be fixed to mother board manually. The separate VGA card has a separate video memory and a processor. Separate VGA cards are useful for playing computer games.
+
+Modern computers use DV1 or HDMI ports instead of VGA port (See Figure 1.14).
+
+Figure 1.14 : Types of video ports
+
+When HDMI cables are connected to a computer, a television screen or multi media projector, both sound and video signals are transmitted. When a VGA is used for the same purpose, only images are transmitted and a separate cable is required for sound.
+
+14For free distribution
+
+1.5.6 Sound cards
+
+Many computer are widely used for entertainment today. A sound card is required for listening to music and recording audio. A microphone connected to the sound card can be used to record (input) sounds while a speaker connected to the sound card can be used to play (output) sounds.
+
+Most computers have the sound card built into the motherboard (See figure 1.15). A user can also connect external sound card to the computer if necessary.
+
+Figure 1.16 : External sound card
+
+Figure 1.15 : Built in sound card on mother board
+
+Sound ports
+
+Audio out
+
+Audio in
+
+The ports of a sound cards use standard colour scheme for identification purpose.
+
+Light green - Audio out (to connect speaker or headphone)
+
+Light pink - Mic in (to connect microphone)
+
+Light blue - Line in (to feed sound with external devices)
+
+For free distribution
+
+15
+
+1.5.7 Pre-Installed software
+
+An operating system provides the interface between the user and the hardware. The operating system is essential to run application software. Once the operating system is installed in a computer, the necessary application software can be installed.
+
+Operating system
+
+Application software
+
+Hardware
+
+User
+
+User
+
+Application software
+
+Operating system
+
+Hardware
+
+Figure 1.17 : Hardware, software and user
+
+Free and open source operating systems such as Linux, Ubuntu can be obtained free of charge. Licensed operating systems such as Windows 8, Windows 10 to purchase. A trial version of an operating systems such as trail version of Windows 10 can be used only for a limited period. Required application software depends on the requirement of the user.
+
+In buying a desktop computer or a laptop computer it is important to check whether an operating system has been pre-installed. Most often only DOS or LINUX computer systems are pre-installed. A computer with licensed software installed is more expensive than a computer with a free and open source operating system.
+
+16For free distribution
+
+Non-technical features to be considered in purchasing a computer1.6
+
+Non-technical specifications such as manufacturer, type of book and price are considered in purchasing an exercise book. This applies to the purchase of a computer as well. Therefore, in purchasing a computer, non-technical specification must also be considered.
+
+1.6.1Warranty
+
+Warranty is an important factor to be considered when purchasing a computer. Warranty given by the vendor and the manufacturer assurers to cover the defects for a certain period. Customer can get this warranty in many different ways.
+
+a. Manufacturer warranty
+
+The warranty which is given by the manufacturing company is known as the manufacturer warranty. If the device malfunctions during the warranty period, it is either repaired or replaced with a new one.
+
+b. Extended warranty
+
+Extended warranty is a prolonged warranty given to customers in addition to the standard warranty. Customer needs bearing additional cost for extended warranty.
+
+c. On-site warranty
+
+If a customer obtains an on-site warranty, technicians from the respective company visit the place of work to repair the product. They generally maintain, replace faulty parts and examine the operations of the machine.
+
+There is a standard warranty when purchasing a computer. but, the warranty for the parts of the computer may differ from the standard.
+
+For instance, a laptop computer with standard warranty for 3 years, may have only one year warranty for the battery.
+
+For free distribution
+
+17
+
+1.6.2Price
+
+The price of a computer can vary according to the customer requirements.
+
+e.g.
+
+1. The price of a computer is rather high with a high speed processor.
+
+2. A computer with a large monitor is comparatively high in price.
+
+3. Price is low of a computer with a lesser memory capacity.
+
+4. A computer inclusive high capacity hard disk drive is high in price.
+
+It is advisable to compare prices to suit one’s requirements from different places and select the computer with the lowest price.
+
+Refer to workbook for Activities 1.6 and 1.7
+
+Important - It is not advisable to purchase a computer considering only its price.
+
+1.6.3 Services after-sale
+
+Computer sales centers provide the following after-sales services to customers;
+
+1. Technical advice
+
+2. Technical assistance
+
+3. Telephone, e-mail and website information (i.e. contact information) of the vendor
+
+It is advisable for a user to consider the given information in purchasing a computer. Customer needs preparing specifications first. Then, a computer must be bought from a vendor with a reputed name and must be from a recognized manufacturer.
+
+Refer to workbook for Activity 1.8
+
+18For free distribution
+
+1.6.4 Ports and network connections
+
+Ports are used to connect the peripheral devices to a computer. A user may select peripheral devices to suit one’s requirements. However, the computer should have the necessary ports to connect them. A few such ports are given below;
+
+a. Universal Serial Bus (USB)
+
+The USB is the most widely used port to connect peripheral devices to the computer. Therefore, it is essential to have several USB ports.
+
+Some peripheral devices that can be connected via USB Port;
+
+PrinterKeyboardMouseScannerExternal hard diskExternal DVD driveDigital cameraWeb cameraBar code readerMemory cardPen drive
+
+Refer to workbook for Activity 1.9
+
+b. Network ports/RJ45 connector
+
+The computer uses RJ45 connector to connect to a network. (See Figure 1.18)
+
+Network port
+
+USB Port
+
+Figure 1.18
+
+For free distribution
+
+19
+
+c. Bluetooth and Wi-Fi facilities
+
+Bluetooth and Wi-Fi facilities provide cable free (i.e. wireless) network connections to computers. (See Figure 1.19)
+
+Given below are a few basic specifications in purchasing a computer;
+
+Technical
+
+Processor speed
+
+Hard disk capacity
+
+Memory capacity
+
+Screen size
+
+Non-technical
+
+Computer price
+
+Warranty
+
+Company reputation
+
+After sales service
+
+2.8 GHz
+
+8 TB
+
+19 Inches
+
+3 Years
+
+Helpdesk
+
+Rs 65000.00
+
+e.g.
+
+4 GB
+
+Specification
+
+Figure 1.19 : Technical and non-technical specifications to be considered in purchasing a computer
+
+Refer to workbook for Activity 1.10
+
+20For free distribution
+
+Important factors of technical specifications
+
+Central processing Unit TypeSingle Core/ Dual Core/ Quad CoreSpeed2.8/ 3.0/ 3.2/ 3.4 GHz
+
+Main memoryCapacity512 MB/ 1GB/ 2GB/ 4GB/ 8GBGeneration1st, 2nd, 3rd, 4th etc.Hard diskCapacity500 GB, 750 GB, 1 TB, 2 TB, 4 TB
+
+MonitorSize17”, 19”, 21”TypeCRT/ LCD/ LEDVideo Graphic AdapterTypeVGA/ DVI/ HDMISound cardTypeOnboard, Separate
+
+Refer to workbook for Activity 1.11
+
+²Several types of computers are available to suit user requirements;
+
+◦Server ◦Workstation ◦Desktop ◦All-in-one ◦Laptop ◦Notebook ◦Tablet ◦Smart phone
+
+²Computer peripheral devices are input, output and storage devices.
+
+²Specification is a detailed description of a material with respect to its quality or quantity.
+
+Summary
+
+For free distribution
+
+21
+
+²Basic specifications for a computer and peripheral devices are:
+
+◦Processor type and speed ◦Random Access Memory (RAM) capacity ◦Hard disk capacity ◦Monitor size and technology ◦Video Graphic Adapter and sound
+
+²Other non-technical factors to be considered in purchasing a computer;
+
+◦Warranty ◦Pre-installed software ◦After-sales services
+
+For free distribution
+
+22
+
+This chapter will cover the following:
+
+²What spreadsheets are ²Special features of a spreadsheet ²Workbook, worksheets, cells, columns, rows ²Name boxes ²Functions, formulas ²Data selection ²Graphs
+
+What are spreadsheets?2.1
+
+A spreadsheet means an electronic version of the paper based accounting sheets used by accountants in the past.
+
+An electronic spreadsheet is an interactive computer application for organization, analysis and storage of data in a tabular form. Data are entered in cells of a table and the spreadsheet provides the facility of functions, formulas, sorting and charting.
+
+In electronic spreadsheets, workbooks can be used for document creation. A workbook may contain multiple worksheets.
+
+Electronic Spreadsheets
+
+2
+
+For free distribution
+
+23
+
+Spreadsheet features2.2
+
+Let us learn about the functions provided in spreadsheet package.
+
+UndoTo cancel a performed action
+
+CopyTo copy letters, images, etc.
+
+PasteTo paste a copied or cut item
+
+Redo To do any undo action again
+
+CutTo remove an item from a current location
+
+SpellingTo check the accuracy of spelling and grammar
+
+Common tools
+
+NewTo create a new workbook
+
+OpenTo open a saved document
+
+Print PreviewTo see how a document will look like if printed
+
+SaveTo save a document
+
+PrintTo print document
+
+For free distribution
+
+24
+
+Special features of a spreadsheet
+
+Formula Bar (shows what is being typed in a cell)
+
+Cell (Intersection between a raw and a column is the cell. The row letter and the column number is collectively called the cell Address e.g. the highlighted cell's address is G7)
+
+Cell range(range of selected cells in close proximity)
+
+Row(has a label starting with Number1)
+
+Column (has a label beginning with 'A' letter in the English alphabet)
+
+Name box(displays the currently selected cell)
+
+For free distribution
+
+25
+
+Cell formatting tools
+
+ItalicTo make letters slanted
+
+BoldTo make letters darker than normal
+
+ColorTo add colours to lettersSize(changes size of letters) heading, sub-heading and normal letters)BordersTo apply boarders
+
+Font
+
+Times New Roman Cambria Nirmala UI†BindumAthi
+
+UnderlineTo have line beneath the letters
+
+Fill colour To change cell background colour
+
+Alignment and positioning tools
+
+ab
+
+Merge and Center(to combine multiple adjacent cells to single larger cell and align center.)Left align(aligns left)
+
+Right align(aligns right)
+
+Middle(aligns to the middle)
+
+Centre align(aligns to middle)
+
+Top(top align)
+
+Wrap Text(To make all content visible within a cell)
+
+Orientation(changes text direction)
+
+Bottom(bottom align)
+
+For free distribution
+
+26
+
+Number tools
+
+CurrencyPercentage
+
+Increase and decrease decimals
+
+Money - e.g. Rs. / $ / ¥ - 10.00
+
+Numbers - e.g. 10, 25, 100, ...
+
+Lines up currency symbols and decimal points in a column / $ / ¥ - 10.00
+
+Short date - e.g. 02 /25/2018 (MM / DD / YYYY)
+
+Detailed date - e.g. Tuesday, February 25, 2018
+
+Time - e.g. 1:30 p.m., 10:00 a.m.
+
+Percentage - e.g. 23% , 45%, 75%
+
+As fractions - e.g. 2/9, 4/5
+
+In scientific notation - e.g. 5677=5.68E+03
+
+For free distribution
+
+27
+
+Symbols used in spreadsheet formula
+
+=+-*/
+
+Used before a formula or function Subtract
+
+AddMultiply
+
+Divide
+
+Function
+
+Sum
+
+To find the total of a range of cells
+
+To find the highest value in cell range
+
+To find the average of cell range
+
+To find the lowest value in a cell range
+
+AverageMaxMin
+
+Column graph Pie chart Area chartOther charts
+
+Line chart Bar chartScatter chart
+
+Charts
+
+Can be used to display spreadsheet date graphically.
+
+For free distribution
+
+28
+
+Refer to workbook for Activities from 2.1 to 2.10.
+
+²A spreadsheet is a document containing rows and columns where functions and formulas could be used for computations and where sorting and charting of data is possible.
+
+²A cell is a specific location defined by the intersection of a row and a column.
+
+²An individual cell is identified by starting with column name 'A' and raw 'number 1'.
+
+²New, Open, Print, Print Preview, Re-do, Undo, Cut, Copy, Paste and Spell check are common tools used in spreadsheets.
+
+²Computations are done using functions/formulas.
+
+²SUM, AVERAGE, MAX, MIN etc. are some basic functions that are available.
+
+²Bar charts, column charts, line charts, pie-charts, etc. could be used for analysis of data.
+
+Summary
+
+For free distribution
+
+29
+
+This chapter will cover the following:
+
+²Multi-condition selection control structures ²Use of flowcharts to solve problems with many conditions ²Repetition control structures ²Use of flow charts to solve problems with repetition procedures ²Development of Scratch program using selection and repetition control structures ²Solutions with flow charts having nested loops ²Arrays and their usage
+
+Download Scratch software from http://www.scratch.mit.edu as mentioned in Information Communication Technology Reading book of Grade 7.
+
+Games are not bad. But it’s better to develop your own games.I love computer games.
+
+Programming
+
+3
+
+For free distribution
+
+30
+
+There are enough software available to develop computer games. You will get a chance to improve your knowledge while having the opportunity for playing.
+
+How can I ?
+
+Simple selection3.1
+
+Head and tail of a coin
+
+You learnt in programming chapter of Grade 8, ICT textbook that a simple selection is selecting one option out of two given options under a certain condition. For example, one such choice is the selection of “head” or “tail” with the toss of a coin.
+
+Scratch program 1
+
+Start
+
+End
+
+Yes
+
+No
+
+Is it head?
+
+Show it is 'tails'
+
+Show it is 'head'
+
+Toss the coin
+
+Flowchart 1 : Getting “head” or “tail” of a coin
+
+For free distribution
+
+31
+
+Simple selection has one condition with two options. A selection is made out of the two conditions. If the condition is true, one option is selected and if not, the other option gets selected.
+
+Refer to workbook for Activity 3.1.
+
+Selection out of many options3.2
+
+Selection out of many options is about selecting one out of more than two options.
+
+Example Tossing a dice for values of 1 to 6
+
+Start
+
+Is value 1?
+
+Is value 2?
+
+Is value 3?
+
+Is value 4?
+
+Is value 5?
+
+Show value as ''2''
+
+Show value as ''3''
+
+Show value as ''4''
+
+Show value as ''5''
+
+Get the value
+
+Toss the dice
+
+End
+
+Show value as 6
+
+Show value as ''1''
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Flowchart 2 : Getting value from a tossed diceScratch program 2
+
+For free distribution
+
+32
+
+In the above, a number will be displayed if one of the five conditions is satisfied or if non of the five conditions is satisfied.
+
+Control structure with repetition 3.3
+
+Repetition is about an action getting repeated again and again.
+
+With repetition, both beginning and end is based on a condition.
+
+Example 1 Displaying numbers 1 - 5
+
+Flowchart 3 : Display numbers 1 - 5
+
+Begin
+
+End
+
+Yes
+
+NoIs the number 5 or less than 5?
+
+Show number
+
+Number = 1
+
+Add 1 to number
+
+In this flowchart the condition is, “Is the number equals 5 or less than 5”?
+
+At the beginning, condition is checked and since the condition is true, the repetitive work commences.
+
+Once the number is shown, 1 is added to it and the condition is checked again.
+
+When the number exceeds five, condition is not satisfied and the repetition ends.
+
+Example 2 Consider a water pump filling water into a tank. The pump is operated until the tank becomes fill.
+
+For free distribution
+
+33
+
+Figure 3.1 : A water pump filling a tank
+
+Flowchart 4 : Filling a tank with water
+
+End
+
+Yes
+
+No
+
+Is the tank full?
+
+Instruct to operate the water pump
+
+Water flows into the tank
+
+Instruct to stop the water pump
+
+Begin
+
+Example 3Consider marking attendance of students. If the student is present, the register is marked with 1. If student is absent it is marked with 0.
+
+End
+
+Yes
+
+Yes
+
+No
+
+NoIs the student present?
+
+Call out student’s name
+
+Mark 1 for presence
+
+Any more names to be called?
+
+Begin
+
+Mark 0 for absence
+
+Flowchart 5 : Marking attendance register
+
+For free distribution
+
+34
+
+Scratch repetition control structures3.4
+
+Three repetition control structures are available to build Scratch programming. They are shown below;
+
+Table 3.1 : Repetition control structuresRepetition typeExampleRepetition with definite number of times
+
+The slot to place number of times for repetition
+
+Place for the instructions for repetition
+
+Scratch program 3
+
+Displaying numbers 1 - 10 in 10 seconds Repeating till a given condition is satisfied
+
+The slot to place the condition for repetition
+
+Place for the instructions for repetition
+
+Scratch program 4
+
+Displaying all positive integers 1 - 5Repeating infinite number of times
+
+Instructions for repetition
+
+Scratch program 5
+
+Displaying all positive integers from 1
+
+For free distribution
+
+35
+
+Developing visual programs involving repetition3.5 Example 1 Showing the first multiples of 12 of any number.
+
+Note - For example, for number 2, the first 12 multiples are 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24 and for number 3, the first 12 multiples are 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36
+
+Scratch program 6
+
+Flowchart 6
+
+Yes
+
+NoNumber of times <= 12
+
+Get number
+
+Show Multiple
+
+Number of times = 1
+
+Multiple = number × number of times
+
+Number of times = number of times +1
+
+Begin
+
+End
+
+Example 2Displaying random number from 1 to 100, an infinite number of times
+
+End
+
+Yes
+
+No
+
+Is number > 0 ?
+
+Generate random number from 1 – 100
+
+Display number
+
+Begin
+
+Flowchart 7 : Displaying random numbers between 1 -100
+
+Scratch program 7
+
+For free distribution
+
+36
+
+Condition in the above flowchart always remains true. It never changes to false. Therefore, continuous repetition takes place.
+
+Example 3 Display the first multiples up to 12 of given number.
+
+Scratch program 8 This is another program to display the same output of the flowchart 6 discussed earlier.
+
+Example 4 Creating a multi-coloured circle using coloured lines
+
+Scratch program 9
+
+Figure 3.2 : The multi-coloured circle
+
+For free distribution
+
+37
+
+Programming with nested repetition3.6
+
+Here, there are repetitions within repetitions.
+
+Example 1Repetition within a repetition
+
+Consider the program to create the following line diagram in figure 3.3.
+
+Scratch program 10
+
+Figure 3.3
+
+It shows repetition within repetition.
+
+Example 2Repetitions with selection
+
+Figure 3.4 : Snakes and Ladders
+
+14
+
+36
+
+25
+
+24
+
+13
+
+12
+
+1
+
+35
+
+26
+
+23
+
+11
+
+2
+
+34
+
+27
+
+22
+
+15
+
+10
+
+3
+
+33
+
+28
+
+21
+
+16
+
+9
+
+4
+
+32
+
+29
+
+20
+
+17
+
+8
+
+5
+
+31
+
+30
+
+19
+
+18
+
+7
+
+6
+
+The flowchart and the Scratch program for a complete Snakes and ladders game is shown below. It includes repetitions with selections.
+
+For free distribution
+
+38
+
+Toss the dice
+
+End
+
+Yes
+
+Yes
+
+Reached bottom of a ladder?
+
+Reached a square with a cobra head?
+
+No
+
+No
+
+No
+
+Get value
+
+Show end of game
+
+Take the counter forward by a number of squares equivalent to the dice value
+
+Take the counter to the top of the ladder square
+
+Take the counter down to the square where the cobra's tail ends
+
+Begin
+
+Is the number of the square = 36?
+
+Flowchart 8 : Snakes and ladders game
+
+For free distribution
+
+39
+
+Scratch program 11
+
+Refer to workbook for Activities 3.2 and 3.3.
+
+For free distribution
+
+40
+
+Programming with arrays3.7
+
+What is an array?
+
+In Grade 7, we learnt that to store values in programming, variables are needed. We need a number of variables that is equivalent to the number of values to be stored.
+
+For example, consider storing marks gained by a student for five question papers on general knowledge.
+
+Five variables are required to store marks for the five question papers.
+
+Name the variable as marks _ 1, marks _ 2, marks _ 3. marks _ 4 and marks _ 5. Marks earned by a student can be stored in these variables. Consider 78, 85, 69, 93, 87 to be the marks scored.
+
+marks_1
+
+78
+
+marks_2
+
+85
+
+marks_3
+
+69
+
+marks_4
+
+93
+
+marks_5
+
+87
+
+Each variable needs giving a name when variables are used to store values. This is difficult when a large number of variables are used. Further, the program become complicated and large with large number of variables. In such instances, arrays are used to get over this problem.
+
+An array is a data structure that can store any number of items using a single variable name. By using arrays, programs become less complex and the number of instructions can be reduced.
+
+Building up arrays
+
+Lists are used for arrays in Scratch. Lists can be built as follows in Scratch.
+
+e.g. - Using arrays to enter names of animals:
+
+1. Select ‘Make a List’ from data
+
+2. Give array a name
+
+3. Select ‘For this sprite only’
+
+4. Click 'OK'
+
+For free distribution
+
+41
+
+Figure 3.4 : Building up an array in Scratch
+
+After following the steps above, instructions blocks for Animal array appear as shown below;
+
+Scratch program 12
+
+For free distribution
+
+42
+
+Assigning items into arrays
+
+For example, after building an array named 'Country' to enter the names of five countries, the following code can be used to enter items to it.
+
+Scratch program 13
+
+Displaying items in an array
+
+After entering data into an array named ‘Country’, the following program can be used to display its content to produce the output.
+
+Scratch program 14
+
+In the above program, v_con is a variable and ''Country'' is the name of the array.
+
+Let us consider an example where two Scratch programs to store the names and the marks of five students are processed. The first one uses multiple variables whereas the second one uses two arrays.
+
+For free distribution
+
+43
+
+Scratch program 15 : Program with variables
+
+Scratch program 16 : Program with repetition
+
+Array with namesArray with marks
+
+With the arrays in use, it is possible to use a repetition construct. This helps reduce the size of the program.
+
+Note - An array is termed a list in Scratch programming. Let us consider another example;
+
+A school conducted a competition to select students for a general knowledge contest. The principal decided to select students who gained over 15 marks for the interview.
+
+Five students are to face the interview. In the code shown below, using two arrays named 'Name' and 'Marks' the names of students having marks greater than 75 are shown.
+
+For free distribution
+
+44
+
+Scratch program 17
+
+Programming with problem analysis3.8
+
+Dividing a problem into sections makes it easier to solve.
+
+For example, Let us consider finding the average of ten numbers. This problem can be divided into sections as shown below;
+
+1. Input ten numbers.
+
+Scratch program 18
+
+For free distribution
+
+45
+
+2. Find the total of the ten numbers
+
+Scratch program 19
+
+3. Divide the total by ten to find the average
+
+Scratch program 20
+
+4. Output average
+
+Scratch program 21
+
+Based on the sections written, it is possible to develop a Scratch program easily for the entire problem as follows;
+
+Scratch program 22
+
+For free distribution
+
+46
+
+Refer to workbook for Activity 3.4.
+
+²Repetition is about repeating a statement or a set of statements.
+
+²A condition is necessary to begin and end a repetition.
+
+²There are Scratch repetition control structures.
+
+²There are three repetition control structures in Scratch:
+
+i. Control structure for repetition a set number of times (e.g. for 10 times)
+
+ii. Control structure for repetition based on a condition
+
+iii. Control structure for endless repetition
+
+²Repetition within a repetition is called a nested repetition.
+
+²There are a few nested repetition types:
+
+i Repetition to satisfy a given condition
+
+ii. Continuous repetition a fixed number of times
+
+iii. Continuous repetition to satisfy a given condition
+
+²An array is a data structure to store many items using a single name.
+
+²Dividing a problem into smaller selections makes problem development easier.
+
+Summary
+
+For free distribution
+
+47
+
+This chapter will cover the following:
+
+²Identifying devices that use sensors ²Introducing the control of processing and output of data collected from sensors and developing codes for the purpose.
+
+Microcontrollers4.1
+
+The sun is up. Yet, the street lights are on.Isn’t it a crime to waste electricity?
+
+I haven’t heard of such light sensors. How are they controlled?
+
+True. We can minimize the loss. To do so, we could use a light sensor to detect sun rise and sun set and based on that the lights could be automatically switched on and off.
+
+Use of Microcontrollers
+
+4
+
+For free distribution
+
+48
+
+There are sensors to measure things like soil conditions, temperature and environmental conditions and many such. Specialized computer programs could be used to control them.
+
+Use of sensors to identify environmental changes
+
+To use sensors to detect environmental conditions and to set related information, they must be connected to a computer.
+
+The basic functions of a computer are to input or collect data, process data according the given instructions and to output necessary information.
+
+Input or collectdata
+
+Output necessary informationProcess data
+
+The microcontroller processes data collected from sensors according to the given instructions and releases necessary output. An example for microcontroller operation is shown below;
+
+Light sensor
+
+Micro controller
+
+Input
+
+Process
+
+Output
+
+For free distribution
+
+49
+
+The microcontroller processes data gathered by the light sensors to light the bulb or to put it off. For this purpose, the microcontroller needs to be fed with program instructions in a program.
+
+\\
+
+g
+
+Refer to workbook for the Activity 4.1
+
+Note - Microcontroller
+
+A micro controller is actually a chip design to perform some operations according to the given instructions. Components of microcontroller
+
+A microcontroller consists of four basic components;
+
+1. Central Processing Unit - CPU
+
+This processes data into information in order to provide the output.
+
+2. Memory
+
+There are two types;
+
+i. Non-volatile memory
+
+The data in the non-volatile memory does not get erased even if there is no electricity. The program that the microcontroller should execute is stored in it.
+
+ii. Volatile memory
+
+Data in the volatile memory gets erased if there is no electricity. It functions as the Random Access Memory (RAM). This is used to store data as well as other results that are related when the microcontroller is at work. Data and instructions for the CPU are also held here.
+
+3. System clock
+
+The system clock is an electronic device. It synchronizes all components.
+
+For free distribution
+
+50
+
+4. Peripheral devices
+
+Small pins used to input data or output information belong to this category. Data is collected in both in analog and digital forms. Output is released in digital form.
+
+Use of sensors and micro controllers
+
+Solar lamp
+
+This contains solar cells, sensors and microcontroller. Solar cells microcontroller and light sensors cooperate to light the lamp. The solar lamp turns on automatically with the dark and turns off when there is light. Use of such solar lamps can minimize the waste of electricity.
+
+Washing machine
+
+Pressing buttons, the user gives instructions to the microcontroller for the wash. The microcontroller operates accordingly.
+
+Microwave oven
+
+The microcontroller in the microwave oven holds the heat for a specified period and stops. The user has to instruct regarding the required temperature and the duration.
+
+Important:
+
+Single Board Computer (SBC)
+
+A single-board computer has a single circuit board with memory, input, output and microcontroller.
+
+e.g. - Raspberry pi
+
+Single Chip Computer (SCC)
+
+Central processing unit, input, output and memory are all built into a single integrated circuit. (IC)
+
+e.g. - Arduino clip
+
+For free distribution
+
+51
+
+Use of microcontrollers4.2
+
+A microcontroller based kit can be used to obtain the required outputs. A few such microcontroller based kits are shown below:
+
+²micro:bit ²Arduino ²Raspberry pi
+
+The following websites will help with more information about these kits;
+
+www.microbit.co.ukwww.ardino.cc, www.raspberry.org
+
+This chapter is more about the use of Micro:bit and Arduano microcontrollers.
+
+Micro:bit
+
+The BBC institute has developed this microcontroller module to get inputs, process them and produce outputs. This contains a memory too. Hence this board has the basic features of a computer. Further, it contains sensors also. The architecture of the micro:bit module is as follows;
+
+Front view of the micro:bit module
+
+4 cm
+
+1
+
+2345
+
+B
+
+A
+
+Figure 4.1 : Front view of micro:bit module
+
+For free distribution
+
+52
+
+1 Two programmable buttons as A and B
+
+2 Digital and analog input/output pins
+
+3 Individually programmable LED bulbs. The LED bulbs are built into the module so additional LED bulbs are not necessary.
+
+4 Port to connect power
+
+5 Ground back port
+
+Rear view of the micro:bit microcontroller module
+
+6
+
+1011
+
+78
+
+9
+
+B
+
+A
+
+Figure 4.2 : Rear view of micro:bit microcontroller module
+
+For free distribution
+
+53
+
+6 Bluetooth smart antenna to connect devices using bluetooth and to transmit radio waves
+
+7 Central Processing Unit
+
+8 Micro USB port to connect to a computer
+
+9 The battery connector to connect 3V external power supply
+
+10 Accelerometer and compass (The module contains a few embedded sensors)
+
+11 Pin edge connector
+
+Connecting micro:bit module to computer
+
+The module has to be connected to the computer with a micro USB cable as shown below;
+
+Computer
+
+Micro USB cable
+
+Micro:bit module
+
+Figure 4.3 : Connecting micro:bit module
+
+When connected, the computer shows it as a storage unit.
+
+Computer
+
+Local Disk (C:) Local Disk (D:) Local Disk (E:)MICRO BIT (G:)
+
+Figure 4.4 : Micro:bit shown as a storage unit
+
+For free distribution
+
+54
+
+Coding the micro:bit module
+
+Coding micro: bit module is done online. To code micro: bit module, access micro:bit code in the website www.makecode.com. This features a drag-and-drop facility to speed up programming.
+
+Figure 4.5 : Micro:bit coding
+
+Therefore, it is possible for even a beginner to follow the process. A specialty in this connection is the ability to access even in Sinhala as shown below;
+
+More
+
+Figure 4.6 : Micro:bit code in Sinhala
+
+For free distribution
+
+55
+
+To do this, the steps More → Language → Sinhala have to be followed.
+
+Once the coding is done, it can be displayed in micro:bit model in Block Editor.
+
+Practical usage of the micro:bit module
+
+Access the website www.makecode.micro:bit.org. to get a new project with Projects → New Project. Refer figure 4.7.
+
+Figure 4.7 : Starting a new project in micro:bit
+
+An image similar to figure 4.7 is shown. Click ‘blocks’ on it. Coding can be easily done by connecting blocks. Or else, computer programming languages like Java scripts, Python C++, etc. can be used for programming.
+
+When starting a new project, the block editor shows two blocks as shown in Figure 4.8.
+
+For free distribution
+
+56
+
+Initial action included here
+
+Repetitive work is included here
+
+Figure 4.8 : Blocks inside the code editor
+
+To get more block types, click on the menu in block editor (Figure 4.9).
+
+Figure 4.9 : Block editor menu
+
+For free distribution
+
+57
+
+The basic menu above provides the following:
+
+To display a number
+
+To create different patterns using 25 LEDs
+
+To give an interval in milliseconds for an action
+
+To select LED pattern
+
+To display typing contents
+
+To erase displayed data
+
+To display an array
+
+Figure 4.10 : Features in basic menu
+
+For free distribution
+
+58
+
+The input menu above provides the following blocks:
+
+To specify actions for buttons A and B
+
+Specify actions for a shaking or motion
+
+To specify actions for pins PO, P1 and P2
+
+To display accelerometer data
+
+To display light sensor data
+
+Displays compass direction data
+
+Displays temperature sensor data
+
+Figure 4.11 : Features in input menu
+
+Other types available in block editor and other menus are used in the activity.
+
+For free distribution
+
+59
+
+Refer to workbook for Activities 4.2 and 4.3
+
+Arduino
+
+Arduino is a microprocessor developed by Atmel company. It consists of the components shown below (Figure 4.12). It can receive input, process it and release output. It contains a memory as well. Therefore, this board is similar to a basic computer.
+
+1
+
+Mini USB
+
+2
+
+Power regulator
+
+3
+
+DC power
+
+5
+
+Analog pins
+
+6
+
+ATMEGA328p microcontroller
+
+7
+
+Digital pins
+
+4
+
+Power pins
+
+Figure 4.12 : Arduino board
+
+For free distribution
+
+60
+
+Table 4.1 : Components on the Arduino board
+
+1
+
+Mini USB
+
+Can be used to connect to a computer.
+
+2
+
+Electric controller
+
+Controls the voltage given to the Arduino board.
+
+3
+
+DC power supply
+
+When the Arduino board is connected to a computer it gets its required 5V voltage from the computer. However, when it is not the case, this port can be used to supply external power.
+
+4
+
+Power Pins
+
+These pins can be used to provide electricity from the board to an external circuit. It is also used to control some operations.
+
+5
+
+Analog pins
+
+Used to send analog inputs (e.g. sensor reading) to the board.
+
+6
+
+ATMEGA328p
+
+This is a micro controller chip in the Arduino Uno board. It is produced by Atmel company.
+
+7
+
+Digital pins
+
+Can be used to get digital inputs and to provide digital outputs.
+
+For free distribution
+
+61
+
+A few Arduino boards used today are shown below;
+
+Arduino Uno board
+
+Arduino Mega board
+
+Arduino Nano board
+
+Arduino Micro board
+
+Out of the above Arduino boards, we use the Arduino Uno board for the activities in this unit.
+
+For free distribution
+
+62
+
+Other peripherals connected to microcontrollers
+
+1. Bread-board
+
+- pins + pins
+
+Figure 4.13 : A breadboard
+
+Breadboards can be used to make circuits without resorting to welding to connect the circuit components.
+
+On a breadboard;
+
+²All holes marked (+) ve (red) are connected together.
+
+²All holes marked (-) ve (blue) are connected together.
+
+²As shown in Figure 4.13 holes in each green colured section are connected together.
+
+2. Light Emitting Diode - LED
+
+- pins
+
++ pinsFigure 4.14 : A Light Emitting Diode
+
+A Light Emitting Diode (Figure 4.14) emits light when electricity passes through it.
+
+In a diode, electricity travels only in one direction.
+
+3. Sensors
+
+A sensor is a device which detects or measures a physical property and records, indicates or otherwise responds to it.
+
+For free distribution
+
+63
+
+(i) Passive Infrared Sensor (PIR) Sensor
+
+This is an electronic sensor that measures infrared objects (e.g. humans) in its field of view and gives an output voltage accordingly (Figure 4.15).
+
+GNDOUT VCC (+5V)
+
+Sensitivity adjust (up to 7m)Delay adjust
+
+GND
+
+VCCOUT
+
+Figure 4.15 : Front and rear views of PIR Sensor
+
+²GND : is the negative terminal
+
+²VCC : is the positive terminal (need 5V)
+
+²OUT : the output terminal (outputs 3.3V)
+
+Out of the two trimpots marked colour yellow, one enables adjusting the distance covered by the sensor, while the other indicates the time delay to release the output.
+
+(ii) Ultrasonic sensor
+
+An ultrasonic sensor is used to estimate the distance from it to an object. This is done by ultra sound signals to the object and then interpreting the reflected signals (Figure 4.16).
+
+Object
+
+Figure 4.16 : How an ultrasonic sensor works
+
+For free distribution
+
+64
+
+This sensor functions in a way similar to that of a bat finding its route. (Figure 4.17).
+
+Ultrasonic waves
+
+Echo
+
+Figure 4.17 : An example similar to the ultrasonic sensor functions
+
+The pins on the Ultrasonic sensor are as shown below.
+
+VCC (5V)GNDEcho PinTRIGGER (5V)
+
+Figure 4.18 : Pins on the ultrasonic sensor
+
+²GND : the negative terminal
+
+²VCC : the positive terminal (5V must be supplied to it)
+
+²TRIGGER : for input
+
+²ECHO provides output : for output
+
+Refer to workbook for Activities 4.4, 4.5 and 4.6
+
+For free distribution
+
+65
+
+²Components of a microcontroller:
+
+Central Processing Unit
+
+Memory
+
+System clock
+
+Peripherals
+
+²Some devices using microcontrollers:
+
+Microwave ovens
+
+Washing machines
+
+Solar lamps
+
+Traffic lights
+
+Computer printers
+
+Remote controllers
+
+²Different boards containing microcontrollers (Microcontroller based kits)
+
+1. micro:bit
+
+2. Arduino
+
+3. Raspberry pi
+
+²To code the above controllers must be connected to a computer. In using micro:bit, block editor helps with easy coding.
+
+Summary
+
+For free distribution
+
+66
+
+This chapter will cover the following:
+
+²Computer networks and their basic devices ²Communication using computer networks ²How resources can be shared in computer networks
+
+Computer networks5.1
+
+I would like to show you the soft copy of this article I prepared for the wall paper. Can I do it?
+
+I need to get a hard copy of my letter. But the printer is connected to your computer, isn’t it? Now, tell me what I can do.
+
+Don’t you know that the computers in this laboratory are networked? We can easily share the soft copies and we can also get hard copies from any computer.
+
+Computer Networks
+
+5
+
+For free distribution
+
+67
+
+A collection of computers in a school computer laboratory or an organization, etc. connected together is called a computer network.
+
+Several advantages of computer networking
+
+Ability to communicate with network users, using e-mail, short messaging services, etc.Ability to access the Internet
+
+Ability to share software and hardware
+
+Common use of documents, images, photos, songs, video, etc.
+
+Sharing software such as computer games
+
+Facility to save important information in a network storage device
+
+Ease of taking back ups since the data files are saved in a server computer in the network
+
+Advantages of networking
+
+Figure 5.1 : Advantages of using computer networks
+
+For free distribution
+
+68
+
+Types of network connections
+
+Wired WirelessFigure 5.2 : Types of network connections
+
+Cabling used in wired connections
+
+Fiber optic cables Twisted pair cables
+
+Figure 5.3 : Cabling examples
+
+Infrared wavesBluetoothWi-fi waves
+
+Radio waves
+
+Wireless media
+
+Figure 5.4 : Wireless media examples
+
+For free distribution
+
+69
+
+Table 5.1 : Basic device requirements for computer networks
+
+Basic devices of a Network
+
+The server manages the software, the hardware, the files and communication in the network. Any ordinary computer with the necessary software installed can be used as a server.
+
+Server
+
+The switch acts as the mediator between two or more computers. The switch recognizes the destination computer or the device when messages are sent from one computer to another in the network.
+
+e.g.- when printing command is given from one computer that message is sent to the relevant device i.e. the printer via switch.
+
+Switch
+
+Network Interface Card connects a computer to a computer network.
+
+Network Interface Card
+
+RJ45 connector cables
+
+RJ45 cables
+
+For free distribution
+
+70
+
+Note: The router is used to connect one network to another network or to the Internet. The router connects your computer or the network to the Internet easily.
+
+The following example shows a network between two computers using the devices discussed above;
+
+Figure 5.5 : A network involving two computers
+
+An example of a computer network
+
+As shown in Figure 5.6 the computers are connected to the server computer via the switch.
+
+Switch
+
+Computer 1
+
+Server
+
+Computer 2
+
+Computer 3
+
+Computer 4
+
+Figure 5.6 : An example of a computer network
+
+For free distribution
+
+71
+
+Refer to workbook for Activities 5.1 and 5.2
+
+Use of a computer network to share resources and for communication5.2
+
+Let us consider the basic objectives of computer networks.
+
+Communication
+
+Messaging
+
+e-mailing
+
+Sharing resources
+
+Software and hardware
+
+Data and information
+
+Basic objectives of using computer network
+
+5.2.1Communication using a computer network
+
+A computer network helps with easy communication among friends by messaging.A message can be directed to many friends in the network at one time.
+
+The Command Line Interface (CLI) can be used for this purpose.
+
+5.2.2Sharing resources using a computer network
+
+e.g. 1 - Sharing hardware
+
+When a printer is connected to the network using cables or wireless, every one in the network can use it when arrangements are made as such.
+
+For free distribution
+
+72
+
+Some other devices shared in a network.
+
+ScannerFax machine
+
+Advantages of using peripherals in common
+
+²Ability to use common hardware with several computers ²Saving money ²Saving time
+
+e.g. 2 - Sharing software
+
+Each stand-alone computer may need individual software licenses. This is very expensive. However, buying multiuser software licenses for a computer network is relatively low. This saves a lot of money.
+
+e.g. 3 - Sharing data and information
+
+Sharing data and information helps save time, money and storage capacity while increasing the efficiency and productivity.
+
+File folder
+
+When a folder is shared in a network, all the files in the folder can be accessed by the users in the network.
+
+This provides an opportunity to share images, photos, songs and videos, etc. among friends.
+
+Refer to workbook for Activities 5.3 to 5.8
+
+For free distribution
+
+73
+
+Note - Command Line Interface (CLI)
+
+The command Line Interface is an interface that could be used to give typed commands to computer sequentially in the form of texts. Before the introduction of the Graphical User Interface, the operating system of the computer, had the command line interface. This interface can be used to send messages to the network users.
+
+In addition, the third party software such as LAN messages, Net send GUI, POP Messenger, also could be used for network user communications.
+
+Computer networks
+
+²A collection of two or more computers connected to share resources is a computer network.
+
+²Computer networking has many advantages. The basic objectives of networking are to share resources and to communications.
+
+Computer connection types used in networking:
+
+²Wired
+
+²Wireless
+
+Wired media examples;
+
+²Optical fiber
+
+²Twisted pair cables
+
+Wireless media examples;
+
+²Infrared waves
+
+²Bluetooth
+
+²Wi-Fi
+
+²Radio waves
+
+Summary
+
+For free distribution
+
+74
+
+Basic device requirements for computer networking;
+
+²Computers with Network Interface Card – NIC
+
+²Switch
+
+²Connection media
+
+Server
+
+²A computer network may have different servers to provide different services.
+
+²The server controls management of software, hardware, files and messaging in a network.
+
+²Any ordinary computer with relevant software installed can function as a server.
+
+The switch
+
+²The switch functions as a mediator to build up communication between two or more computers.
+
+²Messages or data from one computer in the network are dispatched to the destination by the switch correctly.
+
+Sharing resources and information
+
+²Hardware, software, data and information can all be shared by users in a computer network.
+
+²Messaging and e-mailing help with communication in a network.
+
+Shared file folder
+
+²All types of files in a file folder can be commonly used by the users in a network.
+
+Sharing printer
+
+²A printer connected to the network can be made available for common use by the users in the network.
+
+Communication in a computer network
+
+²Command Line Interface (CLI) can be used for communication among network users.
+
+For free distribution
+
+75
+
+This chapter will cover the following:
+
+²Changes to the society brought about by Information Communication Technology.
+
+Impact of ICT on society6.1
+
+The methods of teaching in our class has changed a lot. Today we saw a video during the science lesson. We also saw some photos related to the History lesson on a computer. I remember the lesson very well. Now, I love learning.
+
+Yes, that is e learning. It is teaching using ICT and the Internet
+
+ICT has brought about great changes everywhere in every field. Use of ICT has helped complete tasks more efficient and quickly. Let’s look at some such services we get.
+
+ICT and Society
+
+6
+
+For free distribution
+
+76
+
+²Bill payment ²Specimen forms, loan information ²Government Information Centre ²Ability to apply to State universities through the Internet ²To obtain circulars, legal services ²Information in Gazette ²The map of Sri Lanka
+
+² Clearer explanation with pictures and video clips ² Collecting information through the Internet ² Dialogue and messaging with other schools ² The facility to learn anytime from anywhere
+
+School e-learning
+
+Public service - e-governance
+
+Hospital e-health
+
+² Use of computer based modern equipment to diagnose illnesses ² Facility to store patient information to be used when necessary
+
+e-commerce
+
+² Exchange of goods through the Internet ² Online shopping and purchasing
+
+For free distribution
+
+77
+
+Refer to workbook for Activity 6.1.
+
+Our teacher explained us how a society can develop with Information Communication Technology. Yet, Information Communication Technology has not yet reached some countries. Some countries lag behind.
+
+Most countries in the world are fast developing, aren’t they? Do you know the reasons for having two kinds of countries as the developed and developing
+
+Digital divide
+
+Some societies in the world have ready access to computers and the Internet while some others do not. This gap between those who have and those who have not is known as the digital divide.
+
+For free distribution
+
+78
+
+Refer to workbook for Activity 6.2.
+
+Look! There’s garbage everywhere. The whole environment is dirty!
+
+Yes. of this waste, electronic waste is the most dangerous. They are not only make the environment dirty, but also harm people.
+
+CFL bulbs
+
+Printer
+
+Screen with a Cathode Ray Tube
+
+Keyboard and mouse
+
+LED display screen
+
+CDs and covers
+
+Cables
+
+Motherboard
+
+Mobile phones
+
+A few harmful electronic waste items
+
+Electric cells
+
+Figure 6.1: e-waste
+
+For free distribution
+
+79
+
+Toxic poisons released from e-waste likely to harm humans
+
+Cadmium
+
+Kidney weaknesses affects bone density, causes cancer
+
+Trichloroethylene
+
+affects liver, gall bladder, infant deaths
+
+Arsenic
+
+cancer, nerve problems, skin diseases
+
+Chromium
+
+various allergies
+
+Mercury
+
+affects nerves, liver
+
+Beryllium
+
+lung cancer, breathing difficulties
+
+Selenium
+
+loss of hair, nails, can cause allergies
+
+Bariumswelling of brain, weak muscles, damage to heart
+
+Brominated Flame Retardants
+
+physical weakness
+
+Polychlorinated biphenyls
+
+destroys liver, respiratory system, causes cancer
+
+Polyvinyl Chloride
+
+(strong gas caused when burning plastics) breathing related diseases
+
+Dioxins and Furans
+
+skin diseases, weak nerves, cancer
+
+Lead
+
+defects in brain, stomach and blood circulation
+
+Figure 6.2 : Harmful effects of e-wasteSource: ewise.co.nz/the impact of e-waste
+
+For free distribution
+
+80
+
+Minimizing e-waste through the 3R technique
+
+²Minimize purchase or collection of unnecessary goods - Reduce
+
+²Use again and again after repairing it wherever possible - Reuse
+
+²Handover to suitable agencies for recycling purposes - Recycle
+
+Refer to workbook for Activities 6.3, 6.4 and 6.5.
+
+Computer related job opportunities6.2
+
+Will learning about ICT help us get into a job easily? What are such opportunities available?
+
+Those who have obtained a proper education on ICT related subjects have ample job opportunities. Let's find out such job opportunities and their responsibilities.
+
+For free distribution
+
+81
+
+Software Quality Assurance Engineer
+
+Carries out tasks to assure that the software functions properly
+
+Database Administrator
+
+Plans, installs configures and maintains databases
+
+Software Engineer
+
+Designs and develops software
+
+Web Application Developer
+
+Designs, develops and maintains websites
+
+Graphic Designer
+
+Develops web pages, advertisements, magazines, banners using software
+
+Software Architect
+
+Designs the architecture of software, (Components and their interconnections)
+
+Programmer
+
+Develops computer programs using programming languages
+
+System Analyst
+
+Analyses organizational needs and designs computer systems, coordinates development of software
+
+Network Administrator
+
+Installs, configures and maintains computer network
+
+IT Consultant
+
+Advises organizations on the matters related to information technology
+
+Refer to workbook for Activities 6.6 and 6.7.
+
+For free distribution
+
+82
+
+²The use of ICT in education, health services, commerce and the public service has resulted in increased efficiency.
+
+²There is a "digital divide" between societies having and not having access to ICT sources.
+
+²Improper disposal of e-waste is a threat to all living beings and environment.
+
+²The 3R concept: Reduce, Reuse, Recycle can be used for proper disposal of e-waste.
+
+²Many job opportunities are available in the field of ICT for qualified individuals.
+
+Summary
+
+For free distribution
+
+83
+
+English-Sinhala-Tamil Glossary
+
+No English Sinhala Tamil
+
+1. abstract model වියුක්ත තවෘතිය fUj;jpay; khjpup
+
+2. acceptance testing පරතිගරහණ පරීක්ෂොව Vw;Gr; Nrhjid
+
+3. access privilege පරතේශීතේ වරපරසොදය mZfy; cupik
+
+4. agile model සුචකය තවෘතිය RWRWg;G khjpup
+
+5. alternate key විවක්ප යතුර khw;Wr; rhtp
+
+6. American Standard
+
+Code for Information Interchange (ASCII)
+
+තතොරතුරු හුවමොරුව සඳහො වූ තමපතවොනු සේමත තක්තය jfty; ,ilkhw;Wf;fhd mnkupf;f epak tpjpf;Nfhit
+
+7. amplitude විස්තොරය tPr;rk;
+
+8. amplitude modulation විස්තොර මූරඡනොව tPr;rg; gz;Ngw;wk;
+
+9. analog පරතිසම xg;Gik
+
+10. anchor රැඳවුම epiy epWj;jp
+
+11. application layer අනුපරතයෝග ස්ථරය gpuNahf mLf;F
+
+12. architecture නිරියතය fl;likg;G
+
+13. arithmetic and logical unit (ALU) අාව ගණිත හො තොරකිව ඒවවය vz;fzpj kw;Wk; ju;f;f myF
+
+14. array අරොව mzp
+
+15. artificial intelligence වෘතිම ෙුද්ධිය nraw;if Ez;zwpT
+
+16. Affective computing ෙුද්ධිමත් සහ චිත්තතේගී පපතගණනය Ez;zwpT czu;jpwd;kpf;f fzpj;jy;
+
+17. associative law සාඝ්‍ටන නයොය $l;L tpjp
+
+18. attenuation වැහැරීම/හොයනය neha;ik
+
+19. attribute උපකැකිය /ගුණය/ උපකක්ෂණය gz;Gfs;
+
+20. authoring tool සේපොදන තමවකම gilg;ghf;ff; fUtp
+
+21. Automated Teller Machine (ATM) ස්වයාවෘත මුදක් ගනුතදනු යන්තරය jhdpaq;fpg; gzk; ifahs; ,ae;jpuk;
+
+For free distribution
+
+84
+
+22. autonomous ස්වයාපොකව/ ස්වතන්තර/ස්වොයත්ත RahjPd
+
+23. axiom ස්වසිද්ධිය/පරතයක්ෂය ntspg;gil cz;ik
+
+24. backups උපස්ථ fhg;ngLj;jy;
+
+25. bandwidth වකොප පළක/ෙඳස් පළක gl;il mfyk;
+
+26. batch processing වොණ්ය සැවසුම njhFjp Kiwtopahf;fk;
+
+27. big data මහො දත්ත ngupa juT
+
+28. binary ද්විමය Jtpjk;> ,Ukk;
+
+29. binary coded decimal (BCD) ද්ීමය තක්තිව දශමය ,Ukf; FwpKiw jrkk;
+
+30. bio-inspired computing දජව තපර්පතත පපතගණනය/ දජව අනුතපර්පතත පපතගණනය capupay; cs;sPu;g;Gf; fzpg;G
+
+31. bit coin බිටු වොසි Ez;fld; gzk; nrYj;jy;
+
+32. bitwise බිටු අනුසොපතත gpl; thup
+
+33. bitwise logical
+
+operation
+
+බිටු අනුසොපතත තොරකිව තමතහයුේ gpl; thup jHf;fr; nraw;ghL
+
+34. black box testing වොක මාජුසො පරීක්ෂොව fWg;Gg;ngl;br; Nrhjpg;G
+
+35. blogging තව සටහනය tiyg;gjptply;
+
+36. boot–up පරතේශනය njhlq;Fjy;
+
+37. broadcasting විවොශනය njhiygug;gy;
+
+38. browsing අතපතක්සීම NkNyhly;
+
+39. bubble sort ෙුෙුළු තත්රීම/ යො-සැසුනේ තත්රීම Fkpop tifg;gLj;jy;
+
+40. built-in තුළෙැඳි / තිළැකි cl;nghjpe;j
+
+41. business process re-engineering (BPR) වයොපොර iයොවකිතය් පරති ඉාජිතන්රුවරණය tzpf nray;Kiw kPs;fl;likg;G
+
+42. candidate key නිරූපය යතුර gpujpepjpj;Jtr; rhtp
+
+43. cardinality ගණනීයතොව vz;zsit
+
+44. cathode ray tube (CRT) වැතතෝය කිරණ නකය fNjhl;Lf; fjpu; Foha;
+
+For free distribution
+
+85
+
+45. central processing unit
+
+(CPU)
+
+මධ්‍ය සැවසුේ ඒවවය kj;jpa nraw;ghl;L myF
+
+46. characteristics ගති කක්ෂණ / ස්වකක්ෂණ rpwg;gpay;Gfs;
+
+47. check box සකවුණු තවොටුව rupghu;g;Gg; ngl;b
+
+48. client-server model තස්වො තයෝජව-තස්වො දොයව තවෘතිය Nritg; gadu; khjpup
+
+49. clock ස්පන්දවය fbfhuk;
+
+50. cloud computing වකොවුළු පපතගණනය Nkff; fzpik
+
+51. coaxial cable සමක්ෂව තක්ෙකය Xur;R tlk;
+
+52. code editor තක්ත සාස්වොරව FwpKiw njhFg;gp
+
+53. comment විවරණය tpsf;ff; Fwpg;G
+
+54. commutative law නයොයතද්ශ නයොය gupkhw;W tpjp
+
+55. compact disc සුසාහිත ඩිස්වය Xspapay; tl;L
+
+56. compatibility ගැළපුම nghUe;Jif
+
+57. compiler සේපොදවය njhFg;ghd;
+
+58. component සාරචවය $W
+
+59. composite key සායුක්ත යතුර $l;Lr; rhtp
+
+60. constant නියතය khwpyp
+
+61. content management system (CMS) අන්තරගත වළමනොවරණ පද්ධ්‍තිය cs;slf;f Kfhikj;Jt Kiwik
+
+62. context switching සන්දරභ සුවිචනය re;ju;g;g epiykhw;wy;
+
+63. contiguous allocation යොෙද විභොජනය mLj;jLj;jhd xJf;fPL
+
+64. control structure පොකන වූහය fl;Lg;ghl;Lf; fl;likg;G
+
+65. control unit (CU) පොකන ඒවවය fl;Lg;ghl;lyF
+
+66. credit card ණයපත fldl;il
+
+67. customization අභිරුචිවරණය jdpg;gadhf;fy;
+
+68. data දත්ත juT
+
+69. data and control bus දත්ත සහ පොකන පථ juTk; fl;Lg;ghl;Lg; ghl;ilAk;
+
+For free distribution
+
+86
+
+70. database management
+
+system (DBMS)
+
+දත්ත සමුදාය කළමනාකරණ පද්ධතV juTj;js Kfhikj;Jt Kiwik
+
+71. data definition
+
+language ( DDL)
+
+දත්ත නිĂවxන භාෂාව juT tiuaiw nkhop
+
+72. data dictionary දත්ත ශéදෙකTෂය juT mfuhjp
+
+73. data flow diagram දත්ත ගැලYò සටහන juT gha;r;ry; tiuglk;
+
+74. data flow model (DFM) දත්ත ගැලYò ආකෘතVය juT gha;r;ry; khjpup
+
+75. data link layer දත්ත සබැඳU ස්ථරය juT ,izg;G mLf;F
+
+76. data manipulating
+
+language ( DML)
+
+දත්ත හැසුćò බස juT ifahsy; nkhop
+
+77. data migration දත්ත පĂයටනය juT ngau;r;rp
+
+78. debugging නිෙදාස් cĆම tO ePf;fy;
+
+79. decision support system (DSS)
+
+තYරණ සහාය පද්ධතV jPu;khd cjT Kiwik
+
+80. declarative පċකාශාත්මක mwptpg;G
+
+81. default values ෙපරනිó අගය ,ay;Gepiy kjpg;G
+
+82. defragmentation පċතVk½®නය Jzpf;if ePf;fy;
+
+83. demodulation ĒමූĂනය gz;gpwf;fk;
+
+84. device උපාංගය / උපgමය rhjdk;
+
+85. device driver උපාංග ධාවක මෘÎකාංග rhjdr; nrYj;jp
+
+86. digital අංcත ,yf;f Kiw
+
+87. digital camera අංcත කැමරාව ,yf;fKiwg; glf;fUtp
+
+88. digital economy අංcත ආĂÆකය ,yf;fKiwg; nghUshjhuk;
+
+89. digitizer සංkþාංකකය ,yf;fkhf;fp
+
+90. direct implementation සෘ[ස්ථාපනය Neub mKyhf;fk;
+
+91. disk formatting තැ¢/°සක හැ®සđ ගැන්ēම tl;L tbtikg;G
+
+92. distortion ĒකෘතVය jpupG
+
+For free distribution
+
+87
+
+93. distributive law Ētටන නþාය gq;fPl;L tpjp
+
+94. document flow
+
+diagram
+
+ෙල්ඛන ගැලYò සටහන Mtzg; gha;r;ry; tiuglk;
+
+95. domain වසම Ms;fsk;
+
+96. domain name server (DNS) වසò නාම ෙස්වාදායකය Ms;fsg; ngau; Nritafk;
+
+97. domain name system (DNS) වසò නාම පද්ධතVය
+
+Ms;fsg; ngau; Kiwik
+
+98. dynamic host configuration protocol (DHCP)
+
+ගතVක ධාරක පාලන නියමාවලVය khWk; tpUe;Njhk;gp cs;sikT newpKiw
+
+99. dynamic web page ගතVක ෙවé පVට[ ,af;Fepiy tiyg;gf;fk;
+
+100. e-commerce Ēදÿත් වානිþය kpd; tu;j;jfk;
+
+101. economical feasibility 0ĂÆක Ęකþතාව nghUshjhur; rhj;jpag;ghL
+
+102. elementary process
+
+description(EPD)
+
+මGලVක iයාවලV Ēස්තරය mbg;gilr; nra;Kiw tpgupg;G
+
+103. e-market place ඉ-ෙවළඳ ෙපාළ ,yj;jpudpay; re;ij ,lk;
+
+104. encryption ග]ප්ත ෙbතනය kiwFwpahf;fk;
+
+105. enterprise resource
+
+planning system (ERPS)
+
+වþවසාය සòපත් සැලසGò පද්ධතVය epWtd %yts jpl;lkply; Kiwik
+
+106. entity භ`තාĂÅය/අභිභ`තත්වය/සත්තාව epiynghUs;
+
+107. entity identifier භ`තාĂÅ/අභිභ`තත්වය හßන්වනය epiynghUs; milahsq;fhl;b
+
+108. entity relationship(ER)
+
+diagram
+
+භ`තාĂÅ සòèන්ධතා Ĉපසටහන epiynghUs; cwTKiw ml;ltiz
+
+109. executable iයාත්මක කළ හැc ,af;fj;jF
+
+110. executive support
+
+system (ESS)
+
+Ēධායක සහාය පද්ධතVය epiwNtw;W cjT Kiwik
+
+111. expert system ĒෙĘ්ෂඥ පද්ධතVය epGzj;Jt Kiwik
+
+For free distribution
+
+88
+
+112. extended binary coded
+
+decimal interchange cod (EBCDIC)
+
+Ēස්තෘත ද්ēමය ෙbතක දශම ePbj;j Jtpj FwpKiw jrk ,lkhw;wf; Fwp
+
+113. extended entity
+
+relationship (ER) diagram
+
+Ēස්තෘත ð`තාĂථ සòèන්ධතා Ĉප සටහන tpupthf;fg;gl;l epiynghUs; cwTKiw ml;ltiz
+
+114. feasibility study ශකþතා අධþයනය rhj;jpag;ghL fw;if
+
+115. feedback loop පċතVෙපTęණ Ďපය gpd;D}l;ly; tisak;
+
+116. fetch-execute cycle ආහරණ-iයාකරව[ò චgය jUtpg;G epiwNtw;Wr; Row;rp
+
+117. fiber optic පċකාශ තන්ත] ,io xspapay;
+
+118. file ෙගානුව Nfhg;G
+
+119. file hierarchy ෙගානු ධුරාවලVය Nfhg;G gbepiy
+
+120. firewall ගිනි පව[ර jPr;Rtu;
+
+121. normal form පċථම පċමත අවස්ථාව ,ay;ghf;fy; tbtk;
+
+122. fixed internal hard disk අචල අðþන්තර දෘඪ තැ¢ epiyahd cs;sf td;jl;L
+
+123. flash memory සැණ/ bę¾ක මතකය gspr;rPl;L epidtfk;
+
+124. flash memory card සැණ/ bę¾ක මතක පත gsPr;rpl;L epidtf ml;il
+
+125. flat file system ඒක ෙගානු පද්ධතVය rkjsf; Nfhg;G Kiwik
+
+126. flip-flop පVළV-ෙපාළ vO-tpO
+
+127. float ඉප[ලVම/ඉපVලYම kpjit
+
+128. floppy disk නමþ තැ¢ය nefpo; tl;L
+
+129. flow chart ගැලYò සටහන gha;r;rw; Nfhl;Lg;glk;
+
+130. folder ෙගානු èහĎම Nfhg;Giw
+
+131. foreign key ආගන්ත]ක යත]ර me;epar;rhtp
+
+132. formatting හැ®සđ ගැන්ēම tbtikj;jy;
+
+133. frame රාමුව rl;lfk;
+
+134. frequency modulation ස-kþාත මූĂනය mjpu;ntz; gz;Ngw;wy;
+
+For free distribution
+
+89
+
+135. full adder ප^Ăණාකලකය KOikf; $l;b
+
+136. function ශċිතය / කාĂයය rhu;G
+
+137. functional dependency කාĂය බද්ධ පරායත්තතාව nray; rhu;Gepiy
+
+138. functional requirement කාĂය බද්ධ අවශþතාව nray;gL Njit
+
+139. quantum computing bෙවාන්ටò පąගණනය nrhl;L fzpg;G mbg;gil
+
+140. gateway ෙදාරට[ මඟ / වාසල් ද්වාරය /වාහල්ෙදාර Eiothapy;
+
+141. genetic algorithm සහජ ඇල්ෙගාąදමය kugZ topKiw
+
+142. geographical information system(GIS)
+
+භ`ෙගTලYය ෙතාරත]ć පද්ධතVය /óහිතැන් ෙතාරත]ć පද්ධතVය Gtpapay; jfty; Kiwik
+
+143. graph plotter පċස්තාර ලක]ණ\කරණය gltiuap
+
+144. graphic tablet zතċකඵලකය tiutpay; tptukhf;fp
+
+145. grid computing ජාලක පąගණනය Nfhl;Lr;rl;lff; fzpik
+
+146. guided media නියමු මාධþ topgLj;jg;gl;l Clfk;
+
+147. half adder අĂධාකලකය miu $l;b
+
+148. hand trace හස්තානුෙĂkනය ifr; RtLfs;
+
+149. hard disk දැ° තැ¢ය / දෘඪ °ස්කය td;jl;L
+
+150. hardware දෘඪාංග td;nghUs;
+
+151. hexadecimal ę¯ දශමය gjpdWkk;
+
+152. hierarchical model ධූරාවලV ආකෘතVය gbepiy khjpup
+
+153. host සත්කාරකය tpUe;Njhk;gp
+
+154. hub නාභිය Ftpad;
+
+155. human operator óනිස්iයාකćෙවT kdpj ,af;Fgtu;
+
+156. hybrid approach ෙදමුහුන් පċෙđශය fyg;G mZfy;
+
+157. hyperlink අÕසòබන්ධකය kP ,izg;G
+
+158. Integrated circuits ( IC) අනුකලVත පąපÅ xUq;fpize;j Rw;W
+
+159. icon නිĈපකය rpW glk;
+
+For free distribution
+
+90
+
+160. identity සĂවසාමþ milahsk;
+
+161. image Ĉපය gbkk;
+
+162. imperative Ēධානාත්මක fl;lis
+
+163. incremental වĂධනාත්මක VWkhd> mjpfupg;G
+
+164. indexed allocation අනුgóක Ēðාජනය Rl;b xJf;fPL
+
+165. information ෙතාරත]ć jfty;
+
+166. inkjet printer තYන්ත ĒÎò මුÐකය ikj;-jhiumr;Rg;nghwp
+
+167. instant messaging bęනික ප¾ව[® යැēම cldbr; nra;jpaply;
+
+168. integrated development
+
+environment(IDE)
+
+සෙමTධානික
+
+ස-වĂධන පąසරය
+
+xUq;fpize;j tpUj;jp R+oy;
+
+169. integration test අනුකලන පĆbęණය xUq;fpize;j Nrhjpg;G
+
+170. intelligent and
+
+emotional computing
+
+බුද්Õමත් සහ zත්තෙđsී පąsණනය Ez;zwpTk; czu;jpwDkpf;f fzpj;jy;
+
+171. interface අත]ć මුහුණ ,ilKfk;
+
+172. internet service
+
+provider( ISP)
+
+අන්තĂජාල ෙස්වය සපයන්නා ,izar; Nrit toq;Fdu;
+
+173. interpreter අĂÅĒනþාසකය nkhopkhw;wp
+
+174. interrupt අත]ć êßම ,ilA+W
+
+175. intranet අන්ත:ජාලය/ අන්ෙතTජාල mftpizak;
+
+176. internet of things (IoT) සාĂව Ðවþ අන්තĂජාලය/ සබැඳU Ðවþ අන්තĂජාලය
+
+nghUl;fspd; ,izak;
+
+177. iteration ප[නĂකරණය kPs; nray;
+
+178. karnaugh map කාෙනT සිතVයම fhNdh tiuglk;
+
+179. knowledge
+
+management system( KMS)
+
+දැනුò කළමනාකරණ පද්ධතVය mwpT Kfhikj;Jt Kiwik
+
+180. large scale integration (LSI) ĒĘාල පąමාණෙය් අණ\කලනය ghupa msT xUq;fpizg;G
+
+181. latency පමාව/s]ප්තතාව kiwepiy
+
+For free distribution
+
+91
+
+182. least significant අඩුමෙවෙසසි rpWk kjpg;G
+
+183. legend Ēස්තර පාඨය Fwp tpsf;fk;
+
+184. life cycle of data දත්ත වන xgය juT tho;f;if tl;lk;
+
+185. light emitting
+
+diode(LED) display
+
+ආෙලTක ĒෙමTxක දUෙයTඩ සන්දĂශකය xspfhYk; ,Uthapj; jpiu / xsp ckpOk; ,U Kidak;
+
+186. linked allocation සබැඳU Ēðාජනය ,izg;G xJf;fPL
+
+187. linker සන්ධාරකය ,izg;gp
+
+188. liquid crystal display(
+
+LCD)
+
+Ðවස්â¢ක සන්දĂශකය jputg;gspq;Ff; fzpdpj; jpiu
+
+189. list ලැයිස්ත]ව gl;bay;
+
+190. liveware වා-s capu; nghUs;
+
+191. local publishing ස්ථානීය පċසිද්ධ cĆම cs;sf ntspaPL
+
+192. local area network (LAN) ස්ථානීය පċෙද්ශ ජාලය ,lj;Jup tiyaikg;G
+
+193. logic gate තාĂcක ද්වාරය ju;f;fg; gliy
+
+194. Logical Data Modeling( LDM) තාĂcක දත්ත ආකෘතVකරණය ju;f;fj; juT khjpupAUthf;fy;
+
+195. logical data structure තාĂcක දත්ත වÿහය ju;f;fj; juTf; fl;likg;G
+
+196. logical design tools තාĂcක සැලසුò ෙමවලò ju;f;f tbtikg;Gf; fUtp
+
+197. looping ďපනය tisa tuy;
+
+198. machine code යන්තċ ෙbතය ,ae;jpuf; FwpaPL
+
+199. machine-machine coexistence යන්තċ-යන්තċ සහපැවැත්ම ,ae;jpu- ,ae;jpu xUq;fpUj;jy;
+
+200. magnetic ink character reader( MICR) x[òබcත තYන්ත අනු ලක]ණ\ cයවනය fhe;j ik vOj;JU thrpg;ghd;
+
+201. magnetic stripe reader x[òබක තYć cයවනය fhe;jg;gl;b thrpg;ghd;
+
+202. magnetic tape x[òðක ප¢ය fhe;j ehlh
+
+203. malware අනිශ්ඨ මාÎකා-s jPk;nghUs;
+
+For free distribution
+
+92
+
+204. management
+
+information system (MIS)
+
+කළමනාකරණ ෙතාරත]ć පද්ධතVය Kfhikj;Jt jfty; Kiwik
+
+205. man-machine
+
+coexistence óනිස්-යන්තċ සහපැවැත්ම kdpjd; - ,ae;jpuk; xUq;fpUj;jy;
+
+206. media access control
+
+(MAC)
+
+මාධþ පċෙđĘ පාලක Clf mZfy; fl;Lg;ghL
+
+207. memory management unit( MMU) මතක කළමනාකරණ ඒකකය epidtf Kfhikj;Jt myF
+
+208. mesh topology බැඳU ස්ථලකය fz;zp ,lj;jpay;
+
+209. microprocessor bę[Ð සකසනය Ez;nrayp
+
+210. microwave bę[Ð තරංග Ez;ziy
+
+211. mini disk ක]ඩා තැ¢ය rpW tl;L
+
+212. mobile computing ජංගම පąගණනය nry;yplf; fzpik
+
+213. mobile marketing ජංගම අෙළĒකරණය nry;yplr; re;ijg;gLj;jy;
+
+214. modularization ෙමා°යුලකරණය $W epiyahf;fk;
+
+215. modulation මූĂජනය gz;Ngw;wk;
+
+216. most significant වැ°ම ෙවෙසසි mjpAau; kjpg;G
+
+217. mother board මව[ ප[වćව jha;g;gyif
+
+218. multi agent systems බහු කාරක පද්ධතV gy;Kftu; Kiwik
+
+219. multi user-multi task බහු පąĘීලක - බහු කාĂයය gw;gadu;-gw;gzp
+
+220. multi-core processors බහු හර සකසන gy;fU nrayp
+
+221. multimedia objects බහු මාධþ වස්ත] gy;Y}lf nghUs;
+
+222. multiplexer බහු පථකාරකය gy;Nru;g;gp
+
+223. multiplexing බහු පථකරණය gy;Nru;g;G
+
+224. multiprocessing බහු සැකසුම gd;Kiwtopahf;fp
+
+225. multitasking බහුකාĂය cąම gw;gzp
+
+226. multi-threading බහු-අනුiයායනය gy; nray;$W
+
+227. nature inspired පċකෘතV ෙපċ්ąත පąගණනය/ ,aw;if cs;sPu;g;Gf;
+
+For free distribution
+
+93
+
+computing පċකෘතV අනුෙපċ්ąත පąගණනය fzpg;G
+
+228. nested loop නී°ත ďපය ePbj;j tisak;
+
+229. network addresses
+
+translating (NAT)
+
+ජාල ෙයාමු පąවĂතනය tiyaikg;G Kftup ngau;g;G
+
+230. network architecture ජාල නිĂóතය tiyaikg;Gf; fl;likg;G
+
+231. network layer ජාල ස්ථරය tiyaikg;G mLf;F
+
+232. network model ජාල ආකෘතVය tiyaikg;G khjpup
+
+233. neural network ස්නායුක ජාලය euk;gpay; tiyaikg;G
+
+234. non-functional requirement කාĂයèද්ධ ෙනාවන අවශþතාව nray;rhuhj; Njitfs;
+
+235. normalization පċමතකරණය ,ay;ghf;fy;
+
+236. null අභිශ`නþ ntw;W
+
+237. object code වස්ත] ෙbත/ nghUs; Fwp
+
+238. object oriented වස්ත] නැඹුć / පා දක nghUs; Nehf;Fila
+
+239. object- relational
+
+model වස්ත]-සòèන්ධක ආකෘතVය nghUs; cwTepiy khjpup
+
+240. octal අෂ්ටමය vz;kk;
+
+241. office automation
+
+system (OAS)
+
+කාĂයාල ස්වයංකරණ පද්ධතVය mYtyfj; jd;dpaf;f Kiwik
+
+242. offline මාĂග අපගත/ මාĂගගත ෙනාවන njhluW epiy
+
+243. one’s compliment එෙකහි අනුප^රකය Xd;wpd; epug;gp
+
+244. online මාĂගගත njhluwh epiy
+
+245. open source Ēවෘත මූලාශċ jpwe;j %yk;
+
+246. operational feasibility ෙමෙහයුò ශකþතාව nraw;ghl;Lr; rhj;jpag;ghL
+
+247. operator category කාරක පċවĂගය nrayp tif
+
+248. operator precedence කාරක පċමුඛතා nrayp Kd;Dupik
+
+249. optical character reader
+
+(OCR)
+
+පċකාශ අණ\ ලක]ණ\ cයවනය xspapay; vOj;JU thrpg;ghd;
+
+For free distribution
+
+94
+
+250. optical mark reader
+
+(OMR)
+
+පċකාශ ලක]¼\ cයවනය fhe;j ik vOj;JU thrpg;ghd;
+
+251. output පċතVදානය ntspaP;L
+
+252. packet switching ෙපාදU හුවමාćව nghjp kilkhw;wy;
+
+253. paging පV [කරනය gf;fkply;
+
+254. paradigm සුසමාදĂශය/ පċතVමානය/පċතVĈපය Nfhl;ghl;Lr; rl;lfk;
+
+255. parallel
+
+implementation
+
+සමාන්තර ස්ථාපනය rkhe;ju mKyhf;fk;
+
+256. parameter passing පරාóතV යCēම gukhdf; flj;jy;
+
+257. parity සමතාව rkepiy
+
+258. password මුර පදය flTr;nrhy;
+
+259. payment gateway ෙගව[ò වාසල් ද්වාරය gzf; nfhLg;gdT Eiothapy;
+
+260. periodic refreshing 0වĂත පċෙබTධකර¼ය fhyKiw GJg;gpj;jy;
+
+261. peripheral device පĂයන්ත උපාංගය / උපgමය Gwr; rhjdk;
+
+262. phablet ğCéල¡ ngg;yl;
+
+263. phased implementation /වÕස්ථාපනය / පVයවර iයාත්මකcĆම fl;l mKyhf;fy;
+
+264. phase modulation කලා මුĂනය epiy gz;Ngw;wk;
+
+265. phishing තත]බෑම topg;gwpj;jy;
+
+266. physical layer ෙභෟතVක ස්ථරය ngsjPf mLf;F
+
+267. physical memory ෙභෟතVක මතකය ngsjPf epidtfk;
+
+268. pilot implementation නියාමක ස්ථාපනය / නියාමක iයාත්මක cĆම Kd;Ndhb mKyhf;fy;
+
+269. piracy ෙචෟරත්වය/ Ď½¨නය fsT
+
+270. pirated software ෙචෟර/Ď½©ත මIÎකාංග jpUl;L nkd;nghUs;
+
+271. plagiarism ගċන්ථ/රචනා ෙචෟĂයය fUj;Jj; jpUl;L
+
+272. point to point connection ඍජ[ ලbęþ සòබන්ධතාව Xd;Wlndhd;W ,izg;G
+
+For free distribution
+
+95
+
+273. pointing device දැbව[ò උපාංගය Rl;b rhjdk;
+
+274. port ෙකෙවනිය thapy;> Jiw
+
+275. portable external hard
+
+disk ජංගම/සුවහනීය බාහිර දෘඪ තැ¢ය fhtj;jF Gw td;jl;L
+
+276. portal ද්වාරය/ ආමුඛද්වාරය tiythry;
+
+277. Point of sale (POS) machine Ēක]ණ\ò ෙපාල යන්තċ tpw;gid ,l ,ae;jpuk;
+
+278. postulate උපකල්පනය vLNfhs;
+
+279. power supply ĒÎලV සැපයුම/ජව සැපයුම kpd; toq;fp
+
+280. presence check තථþතා පĆbෂාව ,Uj;jy; rupghu;j;jy;
+
+281. presentation layer සමĂපන/ඉදUąපත් cąò ස්ථරය Kd;itg;G mLf;F
+
+282. primary key පċාථóක/මුල් යත]ර Kjd;ikr; rhtp
+
+283. primitive data type පċාථóක දත්ත වĂගය G+u;tPfj; juT tif
+
+284. privacy ෙපෟද්ගලVකත්වය me;juq;fk;
+
+285. private key ෙපෟද්ගලVක යත]ර gpuj;jpNafr; rhtp
+
+286. process iයාවලVය/iයායනය/ සැකසුම nray;/ Kiwtopahf;fy
+
+287. process control
+
+block(PCB)
+
+iයායන පාලන ඛ½®ය nray; fl;Lg;ghl;Lj; njhFjp
+
+288. process management iයායන කළමනාකරණය nray; Kfhikj;Jtk;
+
+289. process states iයායන තත්ත්ව nray; epiy
+
+290. process transition iයායන සංgමණය nray; epiykhwy;
+
+291. product commercialization නිෂ්පාදන වා¾ජþකරණය jahupg;G tu;j;jfkakhf;fy;
+
+292. product of sum (POS) =කþයන්ෙග් ග]¾තය $l;Lj;njhifapd; ngUf;fk;
+
+293. program translator gමෙල්ඛ පąවĂතක nra;epuy; nkhopngau;g;ghd;
+
+294. proprietary හිóකò සහිත jdpAupik
+
+295. protocol නියමාවලVය elg;nghOq;F
+
+power supply
+
+For free distribution
+
+96
+
+296. prototyping මූලාකෘතVකරණය %ytif khjpup
+
+297. proxy server නිෙයTජන ෙස්වාදායකය gjpyhs; Nritafk;
+
+298. pseudo code වþාජ ෙbතය Nghypf;Fwp
+
+299. public switch
+
+telephone network (PSTN)
+
+ෙපාÎ ස්ēx ÏරකÅන ජාල ය nghJ Mspaplg;gl;l njhiyNgrp tiyaikg;G
+
+300. public key ෙපාÎ යත]ර nghJr; rhtp
+
+301. pulse code modulation ස්පන්ද ෙbත මූĂජනය Jbg;Gf;Fwp gz;Ngw;wk;
+
+302. pulse width modulation ස්පන්ද Ēතර මුĂජනය Jbg;G mfyg; gz;Ngw;wk;
+
+303. radio button Ēකල්ප ෙත්Ćම NubNah nghj;jhd;
+
+304. random access memory (RAM) සසòðාē පċෙđĘ මතකය jw;Nghf;F mZfy; epidtfk;
+
+305. range check පරාස පĆbęාව tPr;R rupghu;j;jy;
+
+306. rapid application development (RAD) ĘFtċ ෙයදව[ò ස-වĂධනය Jupj gpuNahf tpUj;jp
+
+307. read only memory
+
+(ROM)
+
+පඨන මාතċ මතකය thrpg;G kl;Lk; epidtfk;
+
+308. real time තÅþ කාලVක epfo;Neuk;
+
+309. record 5පලැcයාන gjpT
+
+310. redo නැවත cĆම kPsr; nra;
+
+311. redundancy සමතVąbතතාව kpifik
+
+312. reference model ෙයාමු ආකෘතVය tiyaikg;gpd; fl;likg;G
+
+313. refreshing ප[èුÎ cĆම Gj;Japu;g;gpj;jy;
+
+314. register memory ෙරස්තර මතකය gjptfk;
+
+315. relational සòèන්ධක njhlu;G> cwTepiy
+
+316. relational model සòèන්ධක ආකෘතVය cwTepiy khjpup
+
+317. relational database සòèන්ධක දත්ත සමුදාය cwTepiy juTj;jsk;
+
+318. relational instance සòèන්ධතා නිදĂĘනය njhlu;G Kiw vLj;Jf;fhl;L
+
+For free distribution
+
+97
+
+319. relational schema සòබන්ධතා පąපා¢ක සටහන njhlu;G Kiwj; jpl;lk;
+
+320. relationship සòබන්ධතාවය njhlu;GKiw
+
+321. remote Ïරස්ථ njhiy> J}u
+
+322. render Ēදැහු toq;F
+
+323. repeater ප[නĂකථකය kPsp> kPl;b
+
+324. repetition ප[නćbතVය kPs; nray;
+
+325. reset button පċතþාරòð ෙබාත්තම kPsikg;Gg; nghj;jhd;
+
+326. retrieve සමුද්ධරණ kPsg;ngW
+
+327. return value පċතþාගමන අගය jpUk;gy; ngWkhdk;
+
+328. reverse auction පċතVෙවන්ෙද්සිය vjpu;khw;W Vyk;
+
+329. ring topology මුÎ ස්ථලකය tisa ,lj;jpay;
+
+330. router මං හසුćව topg;gLj;jp> topr;nrYj;jp
+
+331. routing මං හැසිරĒම topr;nrYj;jy;
+
+332. scanner සුපVąbසකය EZF Nehf;fp
+
+333. scheduler නියමකරණය xOq;FgLj;jp
+
+334. scope of variable Ēxලþ පරාසය khwp nraw;gug;G
+
+335. query Ēමසුම tpdty;
+
+336. selection ෙත්Ćම njupT
+
+337. selector වරකය Nju;tp> Nju;e;njLg;gp
+
+338. sensor සංෙđදකය czup
+
+339. sequence අනුgමය njhlu;
+
+340. sequential circuit අනුgóක පąපථය njhlu;r; Rw;W
+
+341. sequential search අනුgóක ෙසව[ම tupirKiwj; Njly;
+
+342. server ෙස්වාදායකය / අනුගċාහකය Nritafk;
+
+343. session layer සැසි ස්ථරය mku;T mLf;F
+
+344. sharable pool හුවමාć ප[ංජය gfpujF nghJ ,lk;
+
+345. sign-magnitude ලක]ණ\වත් පċමාණය / සංලbęVත FwpAila tPr;rsT
+
+For free distribution
+
+98
+
+පąමාණනය / /ංcත පąමාණනය
+
+346. single user-multi task ඒක පąĘීලක-බහු කාĂයය jdpg;gadu;-gw;gzp
+
+347. single user-single task ඒක පąĘීලක-ඒක කාĂයය jdpg;gadu;-jdpg;gzp
+
+348. smart card සුහුć කා¯පත #l;bif ml;il
+
+349. smart phone සුහුć Îරකථනය #l;bifj; njhiyNgrp
+
+350. smart system සුහුć පද්ධතVය #l;bif Kiwik
+
+351. social networking සමාජ ජාලකරණය r%f tiyaikg;ghf;fy;
+
+352. software මෘÎකාංs nkd;nghUs;
+
+353. software agent මෘÎකාංs කාරක nkd;nghUs; Kftu;
+
+354. sort ෙත්Ćම tupirg;gLj;J
+
+355. source පċභව %yk;
+
+356. spiral model සĂපVල ආකෘතVය RUsp khjpup
+
+357. spooling ;තYම Rw;Wjy;
+
+358. Star topology තාරකා ස්ථලකය tpd;kPd; ,lj;jpay;
+
+359. stepwise refinement පVයවරාකාර පVąපහÎව gbKiw ePf;fy;
+
+360. storage ආචයනය Nrkpg;G
+
+361. storage allocation ආචයන Ēභාජනය Nrkpg;G xJf;fy;
+
+362. stored program concept ආzත gමෙල්ඛ සංකල්පය Nrkpf;fg;gl;l nra;epuy; vz;zf;fU
+
+363. structure වÿහය fl;likg;G
+
+364. structure chart වÿහ සටහන fl;likg;G tiuG
+
+365. structured වÿහsත fl;likg;Gila
+
+366. structured query language( SQL) වÿහsත Ēමසුò බස fl;likg;G tpdty; nkhop
+
+367. submit button ෙයාමු ෙබාත්තම rku;g;gpj;jy; nghj;jhd;
+
+368. subnet mask උප ජාල ආවරණය cgtiy kiwKfk;
+
+369. sub-netting උප-ජාලනය cgtiyaikg;G
+
+For free distribution
+
+99
+
+370. sub-program උප-gමෙල්ඛය Jizr; nra;epuy;
+
+371. sum of products (SOP) ග]¾තයන්ෙග් =කþය ngUf;fq;fspd; $l;Lj;njhif
+
+372. supply chain management සැපයුò දාම කළමනාකරණය tpepNahf rq;fpypj;njhlu; Kfhikj;Jtk;
+
+373. swapping පċතVහරණය ,lkhw;wy;
+
+374. switch ස්Ēxය Msp
+
+375. syntax කාරක ĆතV njhlupay;
+
+376. system development
+
+life cycle(SDLC)
+
+පද්ධතV සංවĂධන වන xgය Kiwik tpUj;jp tho;f;if tl;lk;
+
+377. table වග]ව ml;ltiz
+
+378. table check constraint වග] පĆbęා සංෙරTධකය ml;ltiz rupghu;j;jy; fl;Lg;ghL
+
+379. tag උසුලනය Xl;L
+
+380. Technical feasibility තාbę¾ක Ęකþතාව njhopDl;gr; rhj;jpaf; fw;if
+
+381. telecommuting Îරස්ථ සංවාදය / Îර සන්නිෙđදනය njhiynray;
+
+382. testing strategy පĆbęණ උපgමය guPl;rpj;jy; cghak;
+
+383. text and font පාඨ සහ අbęර thrfKk; vOj;JUTk;
+
+384. text formatting පාඨ හැ®සđ ගැන්ēම thrf tbtikg;G
+
+385. text input පාඨ ආදාන thrf cs;sPL
+
+386. normal form පċමත අවස්ථාව ,ay;ghf;fy; tbtk;
+
+387. thumbnail සැෙකĒ Ĉ FWk;glk;
+
+388. time division
+
+modulation (TDM)
+
+කාල ෙèÎò මූĂනය Neug; gpup;Tg; gz;ghf;fk;
+
+389. time sharing කාල Ēðනය Neug;gfpu;T
+
+390. timing කාල ගණනය Neuf;fzpg;G
+
+391. top down design මුÎන් êò සැලසුම NkypUe;J fPohd tbtikg;G
+
+For free distribution
+
+100
+
+392. touch pad ස්පĂĘක උපධානය / පාදකය njhL ml;il
+
+393. touch screen ස්පĂĘක තVරය njhLjpiu
+
+394. transaction processing
+
+system( TPS)
+
+ගනුෙදනු සැකසුò පද්ධතVය gupkhw;wr; nrayhf;f Kiwik
+
+395. transitive dependency සංgාන්තV පරායත්තතාව khWk; rhu;G epiy
+
+396. transport layer පċවාහන ස්ථරය Nghf;Ftuj;J mLf;F
+
+397. transport protocol පċවාහන නියමාවලVය Nghf;Ftuj;J elg;nghOq;F
+
+398. tuple උපලැcයාන/ෙප්ලVය gjpT/epiu
+
+399. twisted pair 1ùą යුගල KWf;fpa Nrhb
+
+400. two’s compliment ෙදෙකහි අනුප^රකය ,uz;bd; epug;gp
+
+401. type check පċĈප පĆbෂාව tif rupghu;j;jy;
+
+402. constraint සංෙරTධනය fl;Lg;ghL tif
+
+403. ubiquitous computing සĂවවĂතV ආගණනය vq;Fk; tpahgpj;j fzpik
+
+404. undo අෙහTසි cĆම nray;jtpu;
+
+405. unguided media නියමු ෙනාවන මාධþ topgLj;jg;glhj Clfk;
+
+406. uni-casting සI[ සòෙපċ්ෂණය jdpg;gug;gy;
+
+407. unicode යුනිෙකT¯/ ඒකෙbත Xw;iwf;Fwp Kiw
+
+408. unique constraint අනනþ සංෙරTධකය jdpj;Jtf; fl;Lg;ghL
+
+409. unit testing ඒකක පĆbෂණය myFr; Nrhjid
+
+410. universal සාĂවතċ nghJ
+
+411. updating යාවත්කාලYන cĆම jw;fhyg;gLj;jy;
+
+412. user පąĘීලක gadu;
+
+413. user defined පąĘිලක නිĂවාzත gadu; tiuaiw
+
+414. validation වලංග] cĆම nry;Ygbahf;fy;
+
+415. variable Ēxලþය khwp
+
+416. very large scale integration (VLSI) ඉතා ĒĘාල පąමාණෙය් අනුකලVත kpfg; ngupastpyhd xUq;fpizg;G
+
+For free distribution
+
+101
+
+417. video graphic adapter
+
+(VGA)
+
+Ðශþ zතċක අනුහුćක]ćව fhnzhsp tiuap nghUj;jp
+
+418. virtual community අතÅþ පċජාව nka;epfu; r%fk;
+
+419. virtual memory අතÅþ මතකය nka;epfu; epidtfk;
+
+420. virtual storefront අතÅþ ෙවළඳ පċදĂශනාගාරය nka;epfu; filKfg;G
+
+421. waterfall model දUයඇලV ආකෘතVය ePu; tPo;r;rp khjpup
+
+422. wave length තරංග ආයාමය miy ePsk;
+
+423. web portal ෙවé ද්වාරය tiy thry;
+
+424. web server ෙවé ෙස්වාදායකය ,iza Nritafk;
+
+425. web service provider ෙවé ෙස්වා සැපයුòකć ,iza Nrit toq;Fdu;
+
+426. white box testing ස්ෙđත මංජ[සා පĆbęාව ntz;ngl;br; Nrhjpg;G
+
+427. world wide web (WWW) ෙලTක Ēසිą Ēයමන cyfshtpa tiy
+
+428. uniform resource
+
+locator (URL)
+
+<කාකාą සòපත් නි ශ්චායකය rPu;ik ts ,Ug;gplq;fhl;b
+
+429. uniform resource
+
+identifier(URI)
+
+<කාකාą සòපත් හßන්වනය rPu;ik ts milahsq;fhl;b
+
+This glossary is still being developed.
