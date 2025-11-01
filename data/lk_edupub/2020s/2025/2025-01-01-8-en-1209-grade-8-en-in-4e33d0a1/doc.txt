@@ -1,0 +1,1587 @@
+==== BLOCKS ==== 
+
+Information and Communication
+
+Technology
+
+Grade 8Workbook
+
+Educational Publications Department
+
+ii
+
+First Print 2018Second Print 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0144-9
+
+Published by Educational Publications Department
+
+Printed by Sisara Printway (Pvt) Ltd.
+
+No. 110, Pagoda Road, Pitakotte.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka MathaApa Sri Lanka Namo Namo Namo Namo MathaSundara siri barinee, surendi athi sobamana LankaDhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye mathaPiliganu mena apa bhakthi pooja Namo Namo MathaApa Sri Lanka Namo Namo Namo Namo MathaOba we apa vidyaObamaya apa sathyaOba we apa shakthiApa hada thula bhakthiOba apa aloke Apage anupraneOba apa jeevana we Apa mukthiya oba weNava jeevana demine, nithina apa pubudukaran mathaGnana veerya vadawamina regena yanu mana jaya bhoomi karaEka mavakage daru kela bevinaYamu yamu vee nopamaPrema vada sema bheda dureradaNamo, Namo MathaApa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+J¸ uõ´ ©UPÒ |õ©õ÷Áõ®Jß÷Ó |õ® ÁõÊ® CÀ»®|ß÷Ó Eh¼À Kk®Jß÷Ó |® S¸v {Ó®
+
+AuÚõÀ \÷Põuµº |õ©õ÷Áõ®JßÓõ´ ÁõÊ® ÁÍ¸® |õ®|ßÓõ´ CÆ CÀ¼Û÷» |»÷© ÁõÌuÀ ÷Ásk©ß÷Óõ
+
+¯õÁ¸® Aß¦ P¸øn²hß JØÖø© ]ÓUP ÁõÌ¢vkuÀ ö£õßÝ® ©o²® •zx©À» & Ax÷Á ¯õßÖ ©È¯õa ö\ÀÁ©ß÷Óõ.
+
+BÚ¢u \©µU÷Põß PÂøu°ß ö£¯º¨¦.
+
+v
+
+Message from the Hon. Minister of Education
+
+The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan Government and myself, as the Minister of Education, to empower you all. This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders. Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence, you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim. It is your duty to give a proper value to the money spent by the government on your education. Also you should understand that education determines your future. Make sure that you reach the optimum social stratum through education. I congratulate you to enjoy the benefits of free education and bloom as an honoured citizen who takes the name of Sri Lanka to the world.
+
+Akila Viraj Kariyawasam
+
+Minister of Education
+
+Being innovative, changing with right knowledge Be a light to the country as well as to the world.
+
+vi
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you about 91 textbooks from grades 6-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha Wickramanayake,Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vii
+
+Monitoring and Supervision W. M. Jayantha Wickramanayake Commissioner General of Educational Publications Educational Publications DepartmentDirection -
+
+W. A. Nirmala Piyaseeli Commissioner of Educational Publications (Development) Educational Publications DepartmentCo-ordination - S. Dakshina Kasturiarachchi Assistant Commissioner Educational Publications DepartmentPanel of Editors Dr. Prasad Wimalaratna Head, Department of Communication and Media Technology, University of Colombo School of Computing, Colombo 7. Dr. H. L. Premaratne Senior Lecturer, University of Colombo School of Computing, Colombo 7. Dr. P. M. T. B. Sandirigama Senior Lecturer, Department of Computer Engineering, Faculty of Engineering, University of Peradeniya, Peradeniya. S. A. S. Lorensuhewa Head, Department of Information and Communication Technology, Senior Lecturer, Department of Computer Science, University of Ruhuna, Matara. K. P. M. K. Silva Lecturer, University of Colombo School of Computing, Colombo 7. S. Dakshina Kasturiarachchi Assistant Commissioner, Educational Publications Department Panel of Writers A. Sunil Samaraweera In-Service - Adviser (ICT), Zonal Computer Resource Centre, Kegalle. I. R. N. H. Karunaratne Manager, Zonal Computer Resource Centre, President’s College, Maharagama. K. V. S. M. Mohanlal Adviser, Zonal Computer Resource Centre, Deniyaya Madya Maha Vidyalaya, Deniyaya. W. M. A. S. Wijesekara (retired) Manager, Zonal Computer Resource Centre, Haliela. T. K. Palliyaguru Adviser, Zonal Computer Resource Centre, WP/Jaya/ Sri Yashodara Maha Vidyalaya, Pittugala, Malambe. P. J. K. Kahagalle Adviser, Zonal Computer Resource Centre, Sri Rahula Balika Vidyalaya, Malambe. V. Goonetilleke (retired) Lecturer, Sri Lanka Institute of Information Technology, Malambe.Language Editing
+
+Ranjith Iluppitiya Director, National Book Development Council of Sri Lanka, Ministry of Education Cover Page
+
+Chaminda Hapuarachchi Educational Publications Department
+
+Technical Assistance
+
+Thinoli Shenesha Kothalawala Educational Publications Department P. A. D. Nisansala Sandamali Educational Publications Department
+
+viii
+
+We are grateful if you can send us your comments to feedbackicttextbook@gmail.com regarding the contents of this series of books on Information and Communication Technology and your suggestions to develop the creativity of students.
+
+Board of Editors
+
+ix
+
+Index
+
+1Number Systems1
+
+2Configuring and Formatting a Computer3
+
+3Word Processing14
+
+4Programming29
+
+5Physical Computing34
+
+6Internet44
+
+x
+
+1For free distribution
+
+Activity 1.1
+
+Fill in the blanks with the words given in the word list.
+
+Word list binary, 2, base, 10, decimal
+
+a). A number system using 10 symbols is a .......................... number system.
+
+b). The base for 100110 is ..........................
+
+c). A number system using .......................... symbols is a .......................... number system.
+
+d). The number of symbols in a number system is its ..........................
+
+Activity 1.2
+
+Expand the decimal numbers given below;
+
+a) 52810 b) 18610 c) 30810
+
+Activity 1.3
+
+Convert the following decimal numbers to binary numbers.
+
+a) 2810 b) 4710 c) 10110 d) 12810 e) 17310
+
+Number Systems
+
+1
+
+2For free distribution
+
+Activity 1.4
+
+Convert the following binary numbers to decimal numbers.
+
+a) 100102 b) 110112 c) 10110112 d) 1111112 e) 100000002
+
+Activity 1.5
+
+Use the information in the illustration below to answer the questions that follow.
+
+ICT
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+0
+
+011
+
+0
+
+11
+
+00
+
+11
+
+001
+
+ICT
+
+A student types the word ICT on the keyboard. Given below are the steps showing the order of data exchange, when typing the word ICT. Write the number of each step according to the order of data exchange in the circles near the arrows.
+
+Step Activity
+
+2
+
+3
+
+1As the word ICT is typed, the data flows in binary pattern to the system unit. The binary data saved in the computer memory flows to the printer and prints the word ICT.
+
+The binary data saved in the computer memory flows to the monitor and shows the word ICT on the screen.
+
+3For free distribution
+
+All the activities in this unit are based on Microsoft Windows 10 operating system.
+
+Activity 2.1
+
+Let us set up the correct time zone, date, time, currency and the number format of the computer.
+
+²²The operating system allows all these settings to be done on one dialogue box.²²Therefore, follow the steps given below for the settings.
+
+Step 01 - Click on the icon
+
+and click on 'Control Panel' under 'Windows System'.
+
+2
+
+3
+
+1
+
+Configuring and Formatting a
+
+Computer
+
+2
+
+4For free distribution
+
+Step 02 - Click on 'Date and Time' on the control panel'
+
+4
+
+Step 03 - Click on the button 'Change Date and Time' in the dialogue box that appears. Insert the correct date and time in the dialogue box and click 'OK' button.
+
+5
+
+6
+
+8
+
+7
+
+Step 04 - Click on 'Change Time Zone' in the dialogue box ''Date and time''. Select ''Sri Jayawardenepura'' as the time zone in the dialogue box and click 'OK' button.
+
+9
+
+10
+
+11
+
+5For free distribution
+
+Step 05 - Let us format data and time. Click 'Region' in 'Control Panel'.
+
+12
+
+Step 06 - Click 'Formats' tab in the dialogue box. Select the data and time format you like and click ''Apply''.
+
+13
+
+14
+
+15
+
+Step 07 - Let us select the number format, measurement system and the
+
+currency in your computer. Click on the button 'Additional Settings' in the same dialogue box. Click ''Numbers'' tab in the dialogue box that appears and select 3 digit grouping as 'Digit grouping' and ''Metric'' for ''Measurement system''.
+
+6For free distribution
+
+16
+
+18
+
+19
+
+20
+
+17
+
+Step 08 - Let us set currency unit relevant to our country. Click on 'Currency' tab and delete $. Type Rs. instead and click 'OK' button.
+
+21
+
+22
+
+23
+
+7For free distribution
+
+Activity 2.2
+
+Computer file attribute configuration
+
+For this purpose, you need to log into the computer using an administrator account. Therefore, these activities will be demonstrated to you by the teacher. Select the file that you need to change or explore the attributes. Then follow the steps below;
+
+Step 01 - Right click on the selected file and click on 'Properties' from the menu you get. You can then examine the attributes such as type of file, location and size in the dialogue box that appears.
+
+1
+
+2
+
+3
+
+8For free distribution
+
+Step 02 - There are two special attributes available here to protect your file. They are 'Hidden'; to keep the file not to be seen by anyone and 'Read only'; to give permission to read only, not to be edited. These attributes can be activated by clicking on check boxes in front of them. One or both attributes can be activated at the same time. For that, the steps given below can be followed as necessary. After the selection, click on 'Apply' and then 'OK' buttons.
+
+4
+
+5
+
+6
+
+7
+
+Activity 2.3
+
+²²If you have forgotten the place where you saved a particular file in an earlier occasion, there is a possibility for you to find it again using the file name, file type and the date saved, etc. Let us learn the way to find such files using file types. If the file type is known, files of that type in the computer can be listed out. File type is shown in file name as its extension. Hence, let us see how to find all such types of files using the file extension.
+
+²²For instance, let us find a file with an extension 'docx'. Follow the steps given below;
+
+9For free distribution
+
+Step 01 - First, let us go to 'File Explorer'. Right click on
+
+icon. Click on 'File explorer' in the menu that appears.
+
+2
+
+1
+
+Step 02 - Click on 'This PC' in the 'Search' ribbon. Then, on the top right hand corner of 'File Explorer' window, in the place 'Search quick access', type 'docx' as the file extension that you try to search. Then, all the files in the computer with 'docx' extension will be shown to you. Select the file you want from the list.
+
+3
+
+4
+
+5
+
+Note well : The screen captures shown in this chapter may vary according to the Windows operating system updates.
+
+10For free distribution
+
+Select the most suitable word / words from those in the box to fill the blanks in the statements given below.
+
+computer, ethernet port, keyboard, PS2, HDMI, driver software, uninstall, VGA, disconnect power supply, restart, hardware defects, main storage, USB, install, software defects, RJ45, application software, mouse
+
+1. Common problems faced with the use of computers are .............................. and
+
+..............................
+
+2. Inactive .............................. and .............................. are hardware problems.
+
+3. It is essential to .............................. when checking cables connected to the
+
+computer.
+
+4. To connect keyboard and mouse .............................. port or ..............................
+
+port can be used.
+
+5. RJ45 cable is connected to the .............................. port of a ...............................
+
+6. .............................. cables are used to connect a television to a computer.
+
+7. The basic solution to most of the problems in computers is to ...........................
+
+the computer.
+
+8. Some hardware connected to computer may not function because
+
+.............................. is not installed properly.
+
+9. Lack of space in the .............................. slows down a computer.
+
+10. To make a computer run more efficiently, it is needed to ..............................
+
+unnecessary software.
+
+Activity 2.4
+
+Match the images in the first column with the words in the second column and write the relevant English letter in the blank.
+
+A
+
+DVI port''''''''''''''''
+
+B
+
+SD card port''''''''''''''''
+
+11For free distribution
+
+C
+
+HDMI port''''''''''''''''
+
+D
+
+eSata port''''''''''''''''
+
+E
+
+Parallel port''''''''''''''''
+
+F
+
+VGA port''''''''''''''''
+
+G
+
+Micro USB port''''''''''''''''
+
+H
+
+RJ45 Ethernet port''''''''''''''''
+
+I
+
+HD Audio port''''''''''''''''
+
+J
+
+Display port''''''''''''''''
+
+K
+
+PS /2 port''''''''''''''''
+
+L
+
+USB port''''''''''''''''
+
+12For free distribution
+
+Activity 2.5
+
+Select the correct answer from the multiple answers given and underline it.
+
+1. What are the two main problems that you might face when using the
+
+computer?
+
+a. financial and language problemsb. mathematical and hardware problemsc. hardware and software problemsd. software and language problems
+
+2. Which is an example for a simple hardware problem?
+
+a. Operating system does not work b. Mouse does not workc. Takes longer time to start d. Main memory contains less space
+
+3. A computer fails to connect to the network when it has:
+
+a. a software problemb. a hardware problemc. a computer virusd. all the faults given above 4. You need to check on the power supply to a computer when it fails to
+
+start. In such a situation, what you need to do first is to
+
+a. fix the power cable correctly to the computer.b. check the power cable to the UPS.c. disconnect power form the main supply.d. press the button to activate the computer.
+
+5. Which device of the following cannot be connected to the computer
+
+using a USB port?
+
+a. printerb. display screenc. scannerd. keyboard
+
+13For free distribution
+
+6. The most suitable port to connect a television to the computer is a:
+
+a. USB b. DVI c. eSata d. HDMI
+
+7. The port to which the monitor cannot be connected is,
+
+a. DVIb. USB c. VGAd. HDMI
+
+8. You cannot open the spreadsheet software up in your computer. The
+
+reason may be:
+
+a. an active virusb. corrupted spreadsheet softwarec. expiry of trial periodd. due to one of the reasons given above
+
+9. Which of the following device uses the e-Sata port?
+
+a. screenb. mouse or keyboardc. high quality HD speakers d. external storage devices
+
+10. In the past, many devices were connected to the computer using a port
+
+which was unique to the device. However, with the advancement of technology, there are modern computers with a common port to which many devices can be connected. This port is known as;
+
+a. HDMIb. eSatac. DVId. USB
+
+14For free distribution
+
+Let us identify several tools that are available in the Graphical User Interface in the word processing software.
+
+Alignment and Positioning Tools
+
+Cursor point
+
+Text Formatting Tools
+
+Word Processing
+
+3
+
+15For free distribution
+
+Activity 3.1
+
+²²Examine the document given below carefully. List out the formatting tools used to create that.
+
+AN apple
+
+An apple can taste very nice,Try a bite or slice,If it’s red or if it’s Green,It will taste good if it’s clean.My grandma says “ An apple a day,Always keeps the doctor away”
+
+2
+
+3
+
+4
+
+1
+
+6
+
+5
+
+1. ........................... 4. ........................... 2. ........................... 5. ........................... 3. ........................... 6. ...........................
+
+Ways to select paragraphs, sentences or words. :-
+
+Activity 3.2
+
+Let us learn the way to create the document given above.
+
+Step 1 - Open Microsoft office Word 2013, the word processing software in your computer.
+
+Opening up a new page for a new document
+
+²²Select : 'File' → 'New' → 'Blank document'
+
+Step 2 - Using the keyboard, type the text given below starting from where the cursor is.
+
+16For free distribution
+
+Note well : At the end of each sentence, press 'Enter' key to go to the next line for lists, topics or single sentences.
+
+When typing a paragraph, continue typing till the end of it and press 'Enter' key to end the paragraph.
+
+An Apple
+
+An apple can taste very nice,Try a bite or a slice,If it’s red or if it’s green,It will taste good if it’s clean.My grandma says, “An apple a day,Always keeps the doctor away”
+
+Step 3 - Once the typing is done, a word, a sentence or a paragraph need to be selected for formatting.
+
+One letter or severalClick and drag the mouse pointer across letters.
+
+Single word Double click on the word.Several words Click on the first word and drag the mouse pointer to the last word.Sentence Click on the first word of the sentence and continue dragging till the last word.A line Bring the mouse pointer forward on the line till a white colour, right hand directed arrow appears. Click once it appears.A paragraph Triple click on the paragraph or, Click on the first word of the paragraph and drag till the last word.A document Press both Ctrl + A on keyboard together.
+
+17For free distribution
+
+Step 4 - Click 'Home' tab and then 'font group' in the word processing software to format words, sentences or paragraph that are selected.
+
+Step 5 - Next, save the prepared document.
+
+How to save a document
+
+²²Select : 'File' → 'Save'.
+
+²²Select a saving location from 'Save in'.
+
+²²Type a suitable name for the file in 'File name'.
+
+²²Click 'Save' button.
+
+How to save a previously saved file in a new name
+
+²²Select : 'File' → 'Save as'.
+
+²²Select a saving location from 'Save in'.
+
+²²Type a suitable name for the file in 'File name'.
+
+²²Click 'Save' button.
+
+Step 6 - Close the document after saving it.
+
+How to close a file
+
+²²Select : 'File' → 'Close'.
+
+18For free distribution
+
+Activity 3.3
+
+²²Study carefully the document given below. Identify the alignment and positioning tools that are used. Write them down in the blanks according to the number.
+
+Save Trees, Save Mother Earth
+
+Things to do…
+
+1. Plant a tree and get air for free2. If you cut a tree you cut your lives3. The tree is your friend4. Feel free to plant a tree5. Trees are the roots of all living beings6. A tree that stays, keeps flood away
+
+√ Protect trees√ There is no life without Green
+
+√ Take care of trees, they will take care of you
+
+Connecting people to Green
+
+Save trees and protect Mother Earth from global warming. Don’t destroy the greenery and don’t spoil the scenery. Save Mother Earth.
+
+1
+
+3
+
+6}
+
+4
+
+}
+
+}
+
+5
+
+2
+
+7
+
+8
+
+1. ........................... 2. ........................... 3. ........................... 4. ...........................
+
+5. ........................... 6. ........................... 7. ........................... 8. ...........................
+
+19For free distribution
+
+Activity 3.4
+
+²²Let us create the document shown above.
+
+Step 1 - Open a new page to create the document.
+
+Step 2 - Type the text given below in that page.
+
+Step 3 - Select relevant paragraphs, statements or words and format the document as shown in the above activity.
+
+Step 4 - Save the file and close it.
+
+Save Trees, Save Mother Earth
+
+Save trees and protect Mother Earth from global warming. Don’t destroy the greenery and don’t spoil the scenery. Save Mother Earth.
+
+Things to do…
+
+Plant a tree and get air for freeIf you cut a tree you cut your livesThe tree is your friendFeel free to plant a treeTrees are the roots of all living beingsA tree that stays, keeps flood awayProtect treesThere is no life without GreenTake care of trees, they will take care of you
+
+Connecting people to Green
+
+20For free distribution
+
+Activity 3.5
+
+²²Create the document given below and save it.
+
+Computer Software
+
+Software are logical components of computer, which can't be seen and touched. Softwares are used to run the computer in an efficient manner. Without software, computer is like a vehicle without fuel. These are four major types of software:
+
+1. System Software
+
+2. Application Software
+
+3. Utility Software and Service Programme
+
+System Software:
+
+System softwares are those which are provided by
+
+manufacturers to the user. They are used to control the
+
+computer system and increase computer performance.
+
+Activity 3.6
+
+²²Study the poster on the next page carefully. The tools that are used to create it are given below.
+
+21For free distribution
+
+1
+
+2
+
+3
+
+6
+
+4
+
+5
+
+1. Different types of fonts, font sizes, font colours and centre alignment are used.
+
+2. An image is centre aligned.
+
+3. Word art is used.
+
+4. Text boxes are used to type words in it.
+
+5. Text is typed inside a coloured auto shape.
+
+6. A page border is applied.
+
+22For free distribution
+
+Let us create the same poster.
+
+Step 1 - Open a new page to create the document.
+
+SATURDAY MAY 25th 10 am - 4 pmAt school ground
+
+Step 2 - Type the 3 text lines given at the beginning.
+
+Step 3 - Select these text lines, select a suitable font type, change the font size, apply colours and make them centre aligned.
+
+Adding images to the document
+
+Step 4 - Click on the place where the image needs to be included.
+
+Select 'Insert' → 'Pictures / Online Pictures'. If 'Pictures' is selected from the 'Insert picture' window, select a picture you like by clicking on it and then click 'Insert'.
+
+Step 5 - If 'Online pictures' is selected, type the name of the picture in the Internet browser, select a suitable picture and click 'Insert'.
+
+Step 6 - To adjust the picture to a relevant size, click on the picture.
+
+Step 7 - Bring the mouse to the resizing handle and change the size as required.
+
+Inserting a word art to the document
+
+Step 8 - Click on the place where the word art needs to be placed.
+
+23For free distribution
+
+Step 9 - Click 'Insert' → 'Word Art' and select a shape and colour of a word art.
+
+Step 10 - Type “KIDS FUN DAY” on it.
+
+Step 11 - Click on words that are placed on the document. Select a shape from the menu 'Word Art Styles' tab, by 'Text Effects' → 'Transform'.
+
+Step 12 - Place the words “KIDS FUN DAY” centred on the top of the page as shown in the assignment.
+
+Step 13 - Type the two lines placed after “KIDS FUN DAY” .
+
+Step 14 - Select those two text lines, select a suitable font, change the font size, set colour and align to centre.
+
+Inserting text boxes to the document
+
+ENTERTAINMENT
+
+FACE PAINTING
+
+SIDEWALK SALE
+
+CHALLENGES
+
+KIDS' YOGA
+
+DANCING
+
+TASTY FOOD
+
+GAMES
+
+PRIZES
+
+Step 15 - Click 'Insert' → 'Text Box' → 'Draw Text Box'. Draw three boxes according to the size needed by clicking on the mouse. Type the text given above in the three boxes.
+
+24For free distribution
+
+Step 16 - To adjust the boarder, click on the boarder of the text box. From 'Format shape' in the menu column, select a suitable shape. Adding shapes to the document
+
+ABC Kinder School
+
+Step 17 - Click on the place where the shape is needed to be placed.
+
+Step 18 - Click 'Insert' → 'Shape' and draw the required shapes on the document.
+
+Inserting letters inside a shape
+
+Step 19 - Right click on the shape and select 'Add text'.
+
+Step 20 - Type the letters required on it.
+
+Step 21 - Select the shape and use 'Drawing Tools' → 'Format' in menu to do the necessary formatting (colours, boarders, etc.) Adding border to the document
+
+Step 22 - On menu list, select a suitable boarder by 'Design' → 'Page Borders' → 'Art' and then click 'OK'.
+
+Step 23 - Save the document.
+
+25For free distribution
+
+Activity 3.7
+
+²²Create an invitation card for a function in the school.
+
+²²Create a birthday card for a friend.
+
+²²Create a poster with the caption “Let’s Protect the Environment”.
+
+Activity 3.8
+
+²²Creating tables An object which consists of rows and columns is a table. A place where a row and a column intersects is known as a cell.
+
+row
+
+columncell
+
+In this table, there are 4 columns, 3 rows and 12 cells.
+
+²²How many rows, columns and cells are there in the following Table?
+
+³³Columns - ..............................³³Rows - ..............................³³Cells - ..............................
+
+26For free distribution
+
+Activity 3.9
+
+²²Study the table given below. Identify the formatting tools used to create it.
+
+12345678910111211224339441655256636774988649981101010011111211212144
+
+²²This is a multiplication Table.
+
+²²There are 13 columns and 14 rows in it.
+
+²²The cells in the first row are merged into one cell.
+
+²²Word art is used for the title.
+
+²²Columns, rows and cells are all coloured.
+
+²²The numbers typed in the cell are centre aligned.
+
+Let us create a table of this nature.
+
+27For free distribution
+
+Getting columns and rows for the document
+
+Step 1 - 'Insert' → 'Table' → 'Insert Table'
+
+Step 2 - In the window that opens, insert required number of columns and rows. Click 'OK'.
+
+Merging two or more cells into one cell
+
+Step 3 - Select the required number of cells to be merged by clicking the mouse.
+
+Step 4 - Select 'Table Tools' → 'Layout' → 'Merge Cells' from menu.
+
+Inserting word art for the title
+
+A
+
+Step 5 - Click inside the first row.
+
+Step 6 - Select 'Insert' → 'Word Art' from the menu.
+
+Step 7 - Select word art type of your choice.
+
+Step 8 - Type the text.
+
+Adding colours to columns, rows and cells
+
+Step 9 - Click on the cell to be coloured.
+
+Step 10 - Click Home → 'Shading' from menu and select the suitable colour.
+
+28For free distribution
+
+Centre alignment of numbers in a cell
+
+Step 11 - Type required numbers or letters in cells.
+
+Step 12 - Click on mouse and select the whole table.
+
+Step 13 - Select the necessary alignment from the menu 'Table Tools' → 'Layout' → 'Alignment'.
+
+Step 14 - Save the created table and close.
+
+Activity 3.10
+
+²²Create tables necessary for your classroom.
+
+e.g. - Timetable, Table to mark good activities
+
+29For free distribution
+
+Activity 4.1
+
+Analyze the problems given below and identify the input, process and the output.
+
+a). Those who are 18 years or above are ''eligible to vote.'' Those who are below 18 years are "not eligible to vote."
+
+b). In a one day cricket match between two teams, either one team may win or the match will be drawn.
+
+Activity 4.2
+
+Fill in the blanks ''a'' and ''b'' related to the decision in the following flow chart, using the Activity 4.1 (a) given above.
+
+Start
+
+End
+
+''''''''
+
+'''''''
+
+Age less than 18 years?
+
+Input age
+
+'' You are eligible to vote"
+
+a
+
+b
+
+"You are not eligible to vote"
+
+Programming
+
+4
+
+30For free distribution
+
+Consider the following statements in relation to the flowchart in 4.2. A - Has only the sequence. B - Has only the selection. C - Has both sequence and selection. According to the statements above:
+
+1). Only A is correct 2). Only B is correct 3). Only C is correct 4). None is correct
+
+Activity 4.3
+
+Fill in the blanks ''x'' and ''y'' in the flow chart below with the analysis done in relation to the Activity 4.1 (b).
+
+Start
+
+End
+
+Yes
+
+No
+
+No
+
+Yes
+
+Is A_ score > B_ score
+
+Match drawn
+
+“ …….… wins”.
+
+“ …….… wins”.x
+
+yIs A_ score < B_ score
+
+Input the scores of the teams as A_ score and B_ score
+
+When executing the above flowchart number of inputs and outputs are respectively,
+
+1). 2, 1 2). 3, 1 3). 1, 3 4). 3, 2
+
+31For free distribution
+
+Activity 4.4
+
+Find the end result of Scratch expressions given below. A is a variable.
+
+.................
+
+.................
+
+.................
+
+Activity 4.5
+
+Decide the end result of the following expressions. A is the variable shown in the activity 4.4 and assume that the current value of it is 15.
+
+True/ False
+
+True/ False
+
+True/ False
+
+True/ False
+
+Activity 4.6
+
+a). Create a Scratch program for the flow chart in 4.2
+
+b). Complete the blanks in the flow chart 4.3 and build up a Scratch program.
+
+32For free distribution
+
+Activity 4.7
+
+Complete the blanks ''a'', ''b'', ''c'' and ''d'' in the flow chart below which determines whether a figure is a square or a rectangle when the length and the width are given.
+
+(d) ........
+
+Input length and (a) ........
+
+(b) ........(c) ........Are length and width equal?
+
+Display it is a “Square”Display it is a ''Rectangle''
+
+Start
+
+Suitable words for the blanks; (End, width, no, yes)
+
+Activity 4.8
+
+Fill in the blanks in the flow chart below which determines the grater number out of two given unequal numbers.
+
+End
+
+Input 2 unequal numbers (A, B)
+
+NoYesA < B ?
+
+Start
+
+Display .……. is greaterDisplay ……… is greater
+
+33For free distribution
+
+Activity 4.9
+
+1
+
+2
+
+3
+
+In marking the class attendance register, if a student is present, it is marked as ''1'' and if absent, it is marked as ''0''. The Scratch program related to this, is given below but not in order. Arrange the steps in the correct order.
+
+Write the number of the instruction block relevant to A, B and C.
+
+A =
+
+B =
+
+C =
+
+Activity 4.10
+
+List out the smart and mobile devices and their applications further as mentioned in the textbook and some more that you are aware of.
+
+34For free distribution
+
+Activity 5.1
+
+In the circuits given below, write the output for the given input.
+
+1.
+
+1
+
+0
+
+2.
+
+0
+
+1
+
+3.
+
+1
+
+10
+
+Identify the functions of logic gates using software
+
+The function of logic gates that you learnt, can be identified using software. MM Logic is the software that is used for this purpose.
+
+MultiMedia Logic Software
+
+This software can be downloaded from the Internet, free of charge. The interface of it is as shown in the following page.
+
+Physical Computing
+
+5
+
+35For free distribution
+
+Menu Bar
+
+Toggle PaletteWindow
+
+Tool Bar
+
+Toggle Palette
+
+Selector
+
+AND Gate
+
+NOT Gate
+
+Switch
+
+Buzzer
+
+Wire
+
+Node
+
+OR Gate
+
+LED
+
+Text
+
+Obtain the Toggle Palette by a click on
+
+symbol.
+
+36For free distribution
+
+The way to use MM Logic software
+
+Let us build up a simple circuit using an LED bulb and a switch from the toggle palette.
+
+Bring an LED bulb to window.
+
+Bring a switch to window.
+
+Use a wire to connect the switch and the LED bulb.
+
+By clicking on 'Run' on the tool bar, the input for 'Switch' can be changed as follows;
+
+The bulb does not light when switch is at 0.
+
+The bulb lights when switch is at 1.
+
+Run
+
+37For free distribution
+
+Functions of basic logic gates with MM Logic software
+
+NOT Gate
+
+When the circuit is arranged and run as above, the output can be observed.
+
+When the switch is at '1' which means the electricity is supplied, the LED bulb does not light up.
+
+When the switch is at '0', which means the electricity is not supplied, the LED bulb lights up.
+
+Activity 5.2
+
+Tabulate the input and the output of NOT gate when using it with MM Logic software.
+
+Input Output
+
+38For free distribution
+
+AND Gate
+
+Arrange the circuit as shown above. Next, run it to observe the output shown below;
+
+The bulb does not light up when both switches are not at '0'.
+
+The bulb does not light when A is at '1' and B is at '0'.
+
+39For free distribution
+
+The bulb does not light when switch A is not at '0' and switch B is at '1'.
+
+The bulb lights when both A and B switches remain at '1'.
+
+Activity 5.3
+
+Tabulate input and output of the AND gate when it is used with MM Logic software.
+
+Input
+
+A
+
+Input
+
+B
+
+Output
+
+40For free distribution
+
+OR Gate
+
+When the circuit is arranged as shown above and run, the following outputs can be obtained;
+
+When both switches are at '0' the bulb does not light up.
+
+When A is at '1' and B is at '0' the bulb lights up.
+
+41For free distribution
+
+The bulb light up when A is at '0' and B is at '1'
+
+When both A and B are at '1', the bulb lights up.
+
+Activity 5.4
+
+Tabulate the different input and output of OR gate using MM Logic software.
+
+Input
+
+A
+
+Input
+
+B
+
+Output
+
+42For free distribution
+
+Obtaining output of integrated Logic gates using MM Logic software
+
+Let us build up the following circuit using MM Logic software.
+
+It is shown as follows in MM Logic software.
+
+When the software is run changing the input, the output obtained is shown as in the following table; (Here the bulb lights is denoted by '1' and does not light up is by '0')
+
+ABCoutput 0001001001000110100010101100111 0
+
+43For free distribution
+
+Activity 5.5
+
+Arrange circuits as shown below using the MM Logic software. Tabulate the input and the output in the space provided.
+
+1. 2.
+
+3. 4.
+
+Input AInput B OutputTable 1
+
+Input A Input B Input C Output
+
+Table 2
+
+Input AInput B Input C Output
+
+Table 3
+
+Input
+
+A
+
+Input
+
+B
+
+Input
+
+C
+
+Input
+
+D
+
+OutputTable 4
+
+44For free distribution
+
+Activity 6.1
+
+Let us surf the Internet to gather information for the lesson
+
+²²Use either a computer or a mobile phone.
+
+²²Internet facilities should be taken from an Internet Services Provider (ISP).
+
+²²An Internet browser software should be installed in the device.
+
+²²You can connect to the Internet by opening it.
+
+What is Internet browser
+
+²²The Internet browser connects you, the user, to the Internet.
+
+²²A few main Internet browsers are shown here. There are many more Internet browsers other than the ones shown here.
+
+Internet
+
+6
+
+45For free distribution
+
+Explore information using Internet
+
+A search engine helps you explore information on the Internet. A few main search engines are shown below. There are many other search engines.
+
+1. When you surf the Internet using a web browser, the web page that is open can be seen as follows. That web page can vary according to the web browser that you use.
+
+2. Type the first word for the information you wish to search. Then a list of topics to suit the first word typed will be shown. Select a topic to suit your requirements.
+
+Type here
+
+46For free distribution
+
+3. Change your search to suit your requirements. The menu given below will help you.
+
+To search all types of information
+
+To search video clips
+
+To obtain maps
+
+To search images
+
+To search for news
+
+Activity 6.2
+
+Exploring information from web sites for educational purposes
+
+The Internet has many websites to help you in many ways for your education. One of such is e-thaksalawa of the Ministry of Education. This web site will help you a lot with your education. Some web sites for educational purposes are as follows:
+
+ÃÃe-thaksalawa - http://www.e-thaksalawa moe.gov.lk/
+
+ÃÃEducational Publications Department - http://www.edupub.gov.lk/
+
+ÃÃMinistry of Education - http://www.moe.gov.lk/english
+
+List out the information that you obtained as a group from the above web sites. Share collected information with other groups.
+
+47For free distribution
+
+Activity 6.3
+
+Creating a web page
+
+²²Identify the suitable software.
+
+²²If you wish to use images for the web page, save them first in a separate folder. It enables you to find and apply the images more easily.
+
+²²Save all the created web pages in the same folder.
+
+Tiny Little Bee Brain
+
+Bees fly from flower to flower, sipping nectar and collecting grains of pollen. Bees have a special tongue that sucks up the nectar and a crop in their throat for storing it until they get back to the hive, where it is turned into honey to use as food.
+
+More about Bees
+
+Let us use the Notepad to create a web page.
+
+Step 1 - Open the Notepad software.
+
+Step 2 - To start the web page, type the following tags in the Notepad.
+
+<html> <head> <title></title> </head></html>
+
+48For free distribution
+
+Step 3 - A suitable name should be given to the web page. It has to be typed between <title></title>tags, as follows; (Bees)
+
+<html> <head> <title>Bees</title> </head></html>
+
+Step 4 - Save file.
+
+File → Save → Open the folder in which the images related to web page is saved and type File name → Bees.html.
+
+Note well : In saving a web page, the .html file extension needs to be used always with the file name.
+
+file name
+
+Bees.html
+
+file extension
+
+Step 5 - Open the folder that you created. Open the file by clicking on the Bee.html. It will be open on the web browser that you used and the name of the web page can be seen as follows;
+
+Step 6 - Adding a topic to the web page
+
+Type the tag < body ></ body > as shown in the picture in the following page and type the topic ''Tiny Little Bee Brain''.
+
+49For free distribution
+
+<html> <head> <title>Bees</title> </head> <body> <h1> Tiny Little Bee Brain </h1> </body>
+
+</html>
+
+Step 7 - As this is a topic, it should be typed between <hl></hl>
+
+<h1>Heading 1</h1><h2>Heading 2</h2><h3>Heading 3</h3><h4>Heading 4</h4><h5>Heading 5</h5><h6>Heading 6</h6>
+
+Try this
+
+Step 8 - The topic has to be centre aligned. Use the tag <center></center> for this.
+
+<html> <head> <title>Bees</title> </head><body> <h1><center> Tiny Little Bee Brain</center> </h1></body>
+
+</html>
+
+50For free distribution
+
+Step 9 - Save the file again. Select the folder, select the file and open the file again and observe.
+
+After every change, save the file and open it with the web browser so that you will gain a clear understanding on the tags you used and the changes made accordingly.
+
+Step 10 - Adding an image to web page File name and the extension of the image should be typed between <img src> tag. It is easy to include images in the same folder.
+
+name of the imageBee1.pngfile extension
+
+Step 11 - The image should be 'resized', if it is shown too large as above.
+
+To adjust the size of the image, the length and width of the image is given as percentages between tags such as 25%, 50%, 15% etc. Here, the attributes 'height' and 'width' are used to denote the height and width of the image.
+
+Some attributescolourTo add coloursalignTo add alignmentshrefTo make hyper-linked textssrcTo add images titleTo include a titlewidthTo adjust widthheightTo adjust height
+
+51For free distribution
+
+<html> <head> <title>Bees</title> </head><body> <h1><center> Tiny Little Bee Brain</center> </h1> <center><img src="1bee.png" height=25%, width=25%></center></body>
+
+</html>
+
+Step 12 - To bring image to the centre of the page, use <center></center> tag.
+
+Step 13 - To add a paragraph to the page, type <p></p> tag and type the following paragraph in between the tags.
+
+Bees fly from flower to flower, sipping nectar and collecting grains of pollen. Bees have a special tongue that sucks up the nectar and a crop in their throat for storing it until they get back to the hive, where it is turned into honey to use as food.
+
+<html> <head> <title>Bees</title> </head><body> <h1><center> Tiny Little Bee Brain</center> </h1> <center><img src="1bee.png" height=25%, width=25%></center> <p> Bees fly from flower to flower, sipping nectar and collecting grains of pollen. Bees have a special tongue that sucks up the nectar and a crop in their throat for storing it until they get back to the hive, where it is turned into honey to use as food. </p></body>
+
+</html>
+
+52For free distribution
+
+Tiny Little Bee Brain
+
+Bees fly from flower to flower, sipping nectar and collecting grains of pollen. Bees have a special tongue that sucks up the nectar and a crop in their throat for storing it until they get back to the hive, where it is turned into honey to use as food.
+
+Step 14 - To format the letters in the paragraph, use tag <h3></h3> in between <p></p> tag.
+
+<p><h3>Bees fly from flower to flower, sipping nectar and collecting grains of pollen. Bees have a special tongue that sucks up the nectar and a crop in their throat for storing it until they get back to the hive, where it is turned into honey to use as food.</h3></p>
+
+Tiny Little Bee Brain
+
+Bees fly from flower to flower, sipping nectar and collecting grains of pollen. Bees have a special tongue that sucks up the nectar and a crop in their throat for storing it unit they get back to the hive, where it is turned into honey to use as food.
+
+Step 15 - Adding the last sentence
+
+Type as shown below. To format letters, use the tag <i></i>. To set size of the letters, use <h4></h4> tag.
+
+More about Bees<h4><i>More about Bees</i></h4>
+
+53For free distribution
+
+Step 16 - Adding colour to script on page
+
+The tag <font></font> is used for this purpose. To change the font colours, the attribute 'color' is used. Change font colours as necessary according to the example given below.
+
+<h1><center> <font color="Navy">Tiny Little Bee Brain </font> </center></h1><center><img src="1bee.png" height=25%, width=25%></center><p><h3><font color="green">Bees fly from flower to flower, sipping nectar and collecting grains of pollen. Bees have a special tongue that sucks up the nectar and a crop in their throat for storing it until they get back to the hive, where it is turned into honey to use as food.</font></h3></p> <h4><i><font color="red">More about Bees</font></i></h4>
+
+Activity 6.4
+
+Interesting Facts about Tiny Bee
+
+² Bees have 5 eyes and 6 legs.² Honey bees harvest nectar and pollen from flowering plants. ² A single bee can collect enough nectar to make 1/12 of a teaspoon of honey.² Honey has Surprising Health Benefits. ² Honey bees are super-important pollinators for flowers, fruits and vegetables.² Honey bees live in large groups called colonies.² An average beehive can hold around 50,000 bees.
+
+54For free distribution
+
+Let us create a new page as shown in the above activity.
+
+Step 1 - Add the following as shown in the web page;
+
+a. Name of the page (Bee Facts) b. Title (Interesting Facts about Tiny Bee)c. Images
+
+With the knowledge gained about tags so far and guided by the example given below, create the first section of the web page. Save it in the folder as BeeFacts.html
+
+<html> <head> <title>BeeFacts</title> </head> <body> <center><p><h2><i><font color="red">Interesting Facts about Tiny Bee </font> </i></h2></p> <img src="honey.png" height=25%, width=15%><img src="flower.png"></center> </body></html>
+
+Step 2 - Adding a list to web page
+
+A bulleted list should be written in between the tag <ul></ul>. <li><li> tags are used to type a list. The following tags are used to format;
+
+² <font color></font> - to add colour ² <i></i> - to make the text italic ² <h3></h3> - to resize
+
+Using the tag <h3></h3> and the tag <center></center>, the last sentence ‘Back to Home’ is made ready.
+
+55For free distribution
+
+²²Bees have 5 eyes and 6 legs²²Honey bees harvest nectar and pollen from flowering plants ²²A single bee can collect enough nectar to make 1/12 of a teaspoon of honey²²Honey has Surprising Health Benefits²²Honey bees are super-important pollinators for flowers, fruits and vegetables²²Honey bees live in large groups called colonies²²An average beehive can hold around 50,000 bees
+
+<html> <head> <title>BeeFacts</title> </head> <body> <center><p><h2><i><font color="red">Interesting Facts about Tiny Bee</font></i></h2></p><img src="honey.png" height=25%, width=15%><img src="flower.png"> </center><ul> <li><h3><i><font color="blue">Bees have 5 eyes and 6 legs.</i> </h3></li><li><h3><i><font color="green">Honey bees harvest nectar and pollen from flowering plants.</i></h3></li><li><h3><i><font color="orange">A single bee can collect enough nectar to make 1/12 of a teaspoon of honey.</i></h3></li><li><h3><i><font color="red">Honey has Surprising Health Benefits </i> </h3></li><li><h3><i><font color="blue">Honey bees are super-important pollinators for flowers, fruits and vegetables.</i></h3></li><li><h3><i><font color="green">Honey bees live in large groups called colonies.</i></h3></li><li><h3><i><font color="orange">An average beehive can hold around 50,000 bees.</i></h3></li></ul> <h4><center>Back to Home</center></h4></a> </body></html>
+
+Step 3 - Save the web page.
+
+56For free distribution
+
+Activity 6.5
+
+Hyperlinks among pages
+
+The two web pages that were created can be linked using a hyperlink.
+
+Step 1 - Identify the web pages that have been created.
+
+i. Bees.htmlii. BeeFacts.html
+
+Let us use the last two sentences of each page as hyperlinks.
+
+Bees.html - More about Bees
+
+BeeFacts.html - Back to Home
+
+Step 2 - Open the Notepad software, open the two files separately. Study how the hyper-link connection is used with the last sentence using the tag <a href> </a>
+
+It is easy to create hyperlinks when files are in the same folder. Therefore, it is essential that all files, images, video clips etc. be saved in the same folder.
+
+Bees.html
+
+<a href="Bees.html"><h4><center>Back to Home</center></h4></a>
+
+BeeFacts.html
+
+<a href="BeeFacts.html"><h4><i><font color="red">More about Bees </font> </i></h4></a>
+
+Step 3 - Save files.
+
+Step 4 - Open those using the web browser.
+
+57For free distribution
+
+Activity 6.6
+
+1. Find some more facts about Bees (types of Bees, Use of Honey to Be Healthy, How to Protect Bees). Create separate web pages for each topic.
+
+2. Connect those web pages using hyperlinks.
+
+Activity 6.7
+
+Beautiful Waterfalls in Sri Lanka
+
+The country is home to more than 100 waterfalls and rivers which at the end stop at the Indian Ocean. Some of the waterfalls are man-made but still don't stop short of being breathtakingly beautiful
+
+• Baker's Waterfall• Bambarakanda Ella• Bopath Ella• Devon Waterfall• Diyaluma Waterfall• Dunhinda Waterfall
+
+More about waterfalls
+
+58For free distribution
+
+The list of tags used to create the above page is given below. Fill in the blanks to complete page.
+
+<html>……………..………………Waterfalls</title></head><body><h1>……………...<font color="Navy"> Beautiful Waterfalls in Sri Lanka </font> </center> </h2> <center><……………….="waterfall.png" ></center><p><h2><……………………….="green"><center>The country is home to more than 100 waterfalls and rivers which stop at the Indian Ocean. Some of the waterfalls are man-made but still don't stop short of being breath-takingly beautiful.</center></font>……………...<p>……………<h2> <li><i>Baker's Waterfall </i></li> ……<i>Bambarakanda Ella</i></li> <li><i>Bopath Ella</i></li> <li><i>Devon Waterfall</i>………… <li><i>Diyaluma Waterfall</i></li> <li>………….Dunhinda Waterfall</i></li></h2></ul> <……………………="morefalls.html"><i><center>More about waterfalls …………………..</i></a>……………………………………………..

@@ -1,0 +1,4123 @@
+==== BLOCKS ==== 
+
+i
+
+Grade 8
+
+ENGLISH
+
+Pupil's Book
+
+Educational Publications Department
+
+ii
+
+First Print - 2016
+
+Second Print - 2017
+
+Third Print - 2018
+
+Fourth Print - 2019
+
+Fifth Print - 2020
+
+All Rights Reserved
+
+ISBN 978-955-25-0124-1
+
+Published by : The Educational Publications DepartmentPrinted by : State Printing Corporation, Panaluwa, Padukka.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha Sundara siri barinee, surendi athi sobamana Lanka Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye matha Piliganu mena apa bhakthi pooja Namo Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha Oba we apa vidya Obamaya apa sathya Oba we apa shakthi Apa hada thula bhakthi Oba apa aloke Apage anuprane Oba apa jeevana we Apa mukthiya oba we Nava jeevana demine, nithina apa pubudukaran matha Gnana veerya vadawamina regena yanu mana jaya bhoomi kara Eka mavakage daru kela bevina Yamu yamu vee nopama Prema vada sema bheda durerada Namo, Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+From the government, I received this as a giftI’ll read it, light up my knowledge and practise thriftOn my country’s own behalf, I’ll protect the national resourcesAnd offer this book to another one as a fresh garland of roses
+
+;s<sKh f,iska rcfhka fï fmd; ,Èñlshjd thska keK .=K t<s lr .ksñuf. rg fjkqfjka u oE iïm;a rlsñfï fmd; tk jifr fjk flkl=g mqoñ
+
+Aµ]ß öÁS©v¯õ´ ¡¼uøÚ¨ ö£Ø÷ÓßAÔÄ ö£¸Qh÷Á ¡¼uøÚU PØ÷£ßuõ´ |õmiß ÁÍö©ÚÄ® ¡¼uøÚU Põ¨÷£ß£» ©õnÁ¸® £°ßÔh÷Á ¡¼øu÷¯ AÎ¨÷£ß
+
+v
+
+Foreword
+
+With the continuous advancement of the world, the education sector too is transformed. Therefore, if we require the creation of a student community who could confront the future challenges successfully, our learning teaching process must constantly utilize effective approaches. It is our responsibility to disseminate the knowledge of the new world while assisting to create global citizens with good values. Our department is actively engaged in producing learning tools with the great aim of contributing to enlighten the minds of the children of the country.
+
+A textbook is a repository of knowledge. At times, it takes us to a world of entertainment while developing our critical thinking faculties. It promotes our hidden potentials. In the coming years, the memories related to these textbooks will bring you happiness. While making the maximum use of this valuable learning tool, you must essentially access other useful knowledge spaces too. This textbook is offered to you free of charge as a great gift of the free education. Only you can add a value to the great fortune that has been spent by the government to print these textbooks. I wish that you would gain the ability to enlighten the future as citizens with knowledge and values by using this textbook.
+
+I would like to bestow my sincere thanks on the panels of writers, editors and reviewers as well as on the staff of the Educational Publications Department for the contribution made on this endeavor.
+
+W. M. Jayantha Wickramanayaka,Commissioner General of Educational PublicationsEducational Publications Department,Isurupaya,Battaramulla.02. 06. 2020
+
+vi
+
+Monitoring and Supervision - Mr. W.M. Jayantha Wickramanayaka Commissioner General of Educational Publications Educational Publications Department Direction - Mrs. W.A. Nirmala Piyaseeli Commissioner of Educational Publications (Development) Educational Publications Department
+
+Co-ordination - Mr. Ranjith Iluppitiya Deputy Commissioner Educational Publications Department
+
+- Mrs. W. Indumini Darshika Assistant Commissioner Educational Publications Department Panel of Editors
+
+1. Miss. Dilini Chamali Walisundara - Senior Lecturer Department of English University of Sri Jayawardenepura
+
+2. Mrs. Bimba Maheshi Weerasuriya - Director of Education (English and Foreign Languages) Ministry of Education
+
+3. Mr. W.M. Gamini Gunathilake - Senior Lecturer Wayamba National College of Education, Bingiriya
+
+4. Mr. Darshana Samaraweera - Director Department of English National Institute of Education
+
+5. Mr. Ranjith Iluppitiya - Deputy Commissioner Educational Publications Department
+
+6. Mrs. Anupa Madhupani Weerarathne - Assistant Director English and Foreign Languages Branch Ministry of Education
+
+vii
+
+Panel of Writers
+
+1. Mrs. R.W.P.L.K. Rambukwella - Teacher WP/Pili/ Lankasabha Vidyalaya Moratuwa
+
+2. Miss. Esala Erangi Malawithanthri - Master Trainer Teacher Centre, Panadura. 3. Mrs. N. Nadeeka Liyanagamage - Teacher WP/ Jaya/ Kottawa Dharmapala M.V. Kottawa
+
+4. Mrs. D. R. Jeewanthi De Silva - In-Service-Adviser Negombo Zone
+
+5. Mr. Anura Dhammika Edirimanne - Teacher St. John’s College Nugegoda
+
+6. Mrs. Anupa Madhupani Weerarathne - Assistant Director English and Foreign Languages Branch Ministry of Education Language Editing
+
+Mr. R.M.D. Rohan - Lecturer Pasdunrata National College of Education Proof Reading
+
+Mr. Jayalath Wickramasinghe - Teacher Eheliyagoda National School
+
+Illustrations Mr. Sathivel Sathiyaseelan - Educational Publications Department
+
+Computer Designing & Formatting
+
+Mrs. D.M. Jayani Nisansala Dissanayaka - Educational Publications Department
+
+Cover Design Mr. R.M. Rajitha Sampath - Educational Publications Department
+
+viii
+
+A Word to the Teacher.....
+
+The Boards of Writers and Editors are honoured to be a part of this national endeavour to write and edit the Grade 08 English textbook and workbook for the students of this country. The textbook is designed to help the students to learn and use language in different situations locally and internationally. The book also contains additional information for the teachers in the form of competency levels and the corresponding activities with the hope of making the task of teaching easier. Furthermore, the book is designed to accommodate the different and varying proficiency levels of the students with the hope of addressing the needs of the larger student population of this country. In addition, the lessons are chronologically sequenced to avoid any confusion that may arise in the teaching process.
+
+It is recommended that this book be used as a guide to the teachers and the students on the expected national standards and teachers are encouraged to use supplementary material as much as possible in the classroom. We thank all those who worked with us and hope that we will be able to make a difference in the lives of our students who are keen and enthusiastic to learn English.
+
+Board of Writers
+
+Board of Editors
+
+ix
+
+CONTENTS
+
+Unit Page
+
+01 - PLAN THE WORK 01 WORK THE PLAN
+
+02 - WINGED FRIENDS 12
+
+03 - LET'S BE CONSIDERATE 23
+
+04 - MOTHER NATURE 34
+
+05 - BETWEEN THE MILES 49
+
+06 - WHEN WE ARE TOGETHER 62
+
+07 - THE WORLD OF CHILDREN 71
+
+08 - IT'S A SMALL WORLD 86
+
+09 - ON TOP OF THE WORLD 97
+
+10 - BEYOND THE CLASSROOM 104
+
+x
+
+Competency Levels to Be Covered in Grade Eight
+
+No. of Competency LevelsCompetency
+
+1.1, 1.21
+
+2.52
+
+3.2, 3.3, 3.43
+
+4.3, 4.4, 4.5, 4.74
+
+5.1, 5.2, 5.3, 5.4, 5.5, 5.65
+
+6.1, 6.2, 6.3, 6.5, 6.6, 6.7, 6.8, 6.9 6
+
+7.1, 7.2, 7.3, 7.4, 7.5, 7.6 7
+
+8.3, 8.4, 8.6, 8.8, 8.9, 8.138
+
+The Book at a Glance
+
+UnitCompetency
+
+Level
+
+Lesson/Activity
+
+1Plan the work work
+
+the plan
+
+1.2Activity 1.15.2Activity 1.26.2Activity 1.31.2, 5.2, 8.13Activity 1.43.3Activity 1.55.1Activity 1.64.5Activity 1.75.4Activity 1.81.2, 5.2, 7.3Activity 1.9
+
+2Winged
+
+friends
+
+1.2Activity 2.15.2Activity 2.25.3Activity 2.35.5, 4.3Activity 2.46.3Activity 2.56.3, 8.6Activity 2.66.1, 6.3Activity 2.73.2Activity 2.81.1Activity 2.9
+
+xi
+
+3Let's be considerate
+
+1.1, 1.2Activity 3.1Activity 3.25.2 i6.8 ii5.2 iiiActivity 3.36.8a6.8bActivity 3.4 5.6 a5.2 b5.5Activity 3.56.5Activity 3.64.5, 4.7Activity 3.71.1Activity 3.85.4Activity 3.9
+
+4Mother
+
+nature
+
+1.1, 1.2Activity 4.15.2a1.1b1.1cActivity 4.25.3a7.1, 6.6, 8.9b8.3, 6.6c5.3Activity 4.35.4Activity 4.46.7, 8.8Activity 4.57.4Activity 4.63.4Activity 4.71.1, 1.2Activity 4.8
+
+xii
+
+5Between the miles
+
+1.2, 5.2Activity 5.14.4Activity 5.25.2Activity 5.35.1,5.2, 5.3Activity 5.44.4,8.3Activity 5.54.4Activity 5.65.4, 7.6Activity 5.75.1, 5.2, 4.3Activity 5.83.3Activity 5.91.1, 1.2Activity 5.10
+
+6When we
+
+are together
+
+1.2, 5.1, 5.2Activity 6.15.1Activity 6.25.2, 7.6Activity 6.35.1Activity 6.45.1, 5.2Activity 6.56.1Activity 6.66.1Activity 6.73.3, 3.4Activity 6.81.1Activity 6.9
+
+7The world of children
+
+1.2, 8.13Activity 7. 16.1Activity 7. 26.1Activity 7.35.3Activity 7. 47.2, 8.4Activity 7. 55.1Activity 7. 65.1, 5.6Activity 7. 77.3Activity 7.87.3Activity 7.95.2Activity 7.101.1Activity 7.117.6Activity 7.12
+
+xiii
+
+8It's a small
+
+world
+
+1.2, 5.3Activity 8. 11.2Activity 8.26.1Activity 8.36.1Activity 8.46.1Activity 8.55.6Activity 8.67.1Activity 8.78.3Activity 8. 85.1Activity 8. 91.1Activity 8. 101.1Activity 8. 113.2Activity 8.12
+
+9On top of the world
+
+1.2, 6.9Activity 9.15.3. 6.9Activity 9.26.9Activity 9.36.9Activity 9.46.9, 7.5Activity 9.55.3Activity 9.67.5Activity 9.7
+
+10Beyond the
+
+Classroom
+
+1.2, 6.1Activity 10.15.2Activity 10.26.1Activity 10.35.2Activity 10.45.2Activity 10.52.5Activity 10.6
+
+xiv
+
+Dear Student,
+
+Please do not write anything in this book. Use your exercise book to do the activities that appear here.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+1
+
+Activity 1.1
+
+Act out
+
+The Grade 8 students of Ranpura Vidyalaya are organizing an English camp. The members of the organizing committee Saranga, Amitha, Rajeshwari and Milan have decided to meet at Saranga’s house to plan it out.
+
+Amitha: Hello, aunty, good afternoon! Is Saranga at home?
+
+Aunty: Good afternoon, Amitha. Yes, he’s here. Please come in.
+
+Milan: Thank you, aunty.
+
+Saranga: Hello, everybody! Why don’t you sit down and make yourselves comfortable, so that we can start our discussion straightaway?
+
+Rajeshwari: Let’s first discuss what we have done so far, shall we?
+
+Milan: Well, I’ve already prepared the invitation cards.
+
+PLAN THE WORKWORK THE PLAN
+
+U N I T
+
+1
+
+For free distribution
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+2
+
+Amitha: Wow! Did you do it all by yourself?
+
+Milan: All by myself? How could I? Ameena and Romesh helped me with the invitations for the invitees and the judges. Our art teacher himself designed the invitation for the Chief Guest.
+
+Saranga: Rajeshwari, how about selecting costumes for the drama, the sound system and the decorations?
+
+Rajeshwari: Jude will take care of the sounds. Ruvin and Meena
+
+promised to do the decorations by themselves. But, selecting costumes for the drama is a problem. I can’t manage it by myself. I need someone to help me.
+
+Saranga: Any volunteers?
+
+Amitha: I can ask my mother to help us with that.
+
+Saranga: That would be great.
+
+Milan: How about the language activities and games?
+
+Saranga: Our English teacher said that she herself would prepare them. Well, we seem to be doing fine so far. I’m sure we can make the English camp a success and be proud of ourselves.
+
+Activity 1.2
+
+Read and answer the given questions.
+
+1. Who were the members of the organizing committee?2. Where did the organizing committee meet?3. Did Milan prepare the invitation cards by himself?4. Who designed the invitation for the Chief Guest?5. What were the responsibilities of the following students? List them. a. Jude b. Ruvin and Meena6. How did they solve the problem of selecting the costumes for the drama?
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+3
+
+Activity 1.3
+
+LEARNING POINT
+
+Read the following sentences paying attention to the highlighted words.
+
+Why don’t you sit down and make yourselves comfortable, so that we can start our discussion straightaway?
+
+Did you do it all by yourself?
+
+All by myself?
+
+Our art teacher himself designed the invitation for the Chief Guest.
+
+Ruvin and Meena promised to do the decorations by themselves.
+
+Our English teacher said that she herself would prepare them.
+
+I’m sure we can make the English camp a success and be proud of ourselves.
+
+The highlighted words given above are called “reflexive pronouns.” Study the chart given below:
+
+SingularSubject pronounsReflexive pronounsImyselfyouyourselfhe/she/ithimself/herself/itself
+
+PluralSubject pronounsReflexive pronounsweourselvesyouyourselvestheythemselves
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+4
+
+1) A reflexive pronoun used as an object comes immediately after a verb or preposition.
+
+e.g. :- Why don’t you sit down and make yourselves comfortable, so that we can start our discussion straightaway?
+
+I’m sure we can make the English camp a success and be proud of ourselves.
+
+2) A reflexive pronoun form can also be used to show the emphasis given by the speaker to a certain noun or pronoun.
+
+Our art teacher himself designed the invitation for the Chief Guest.
+
+Our English teacher said that she herself would prepare them.
+
+Activity 1.3A) Rearrange the words to form correct sentences to use reflexive
+
+pronouns as objects.1. herself/blamed/what/she/for/happened2. a/ I/ dictionary/ myself /bought 3. of /made /cup /himself/ he/ a /tea4. a/ circle/ they/ in/ arranged /themselves 5. defended/ the/ dog/against /kitten/ our/ itself
+
+B) Follow the example and mark with ^ the positions where you can
+
+use the word given within brackets. Copy them into your writing book.e.g. : I prepared meals^. / I^ prepared meals. (myself) I prepared meals myself. / I myself prepared meals.1. She admitted that it was wrong. (herself)2. My father grows these vegetables. (himself)3. They built a house. (themselves)4. The kitten cleaned. (itself)5. We cooked the meals. (ourselves)
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+5
+
+Activity 1.4
+
+Act outThe Science Society of Saranga’s school has decided to organize a science exhibition. Saranga was invited to share his camp experience with his friends in the Science Society.
+
+Saranga: Hello friends, thank you for inviting me to speak to you this morning. We organized our annual English Camp successfully. So, I’m here to share my experience with all of you. Honestly, organizing a camp is a big task. You must be wondering how I managed to do it. My father is a great planner and his motto in life is, “Plan the work, work the plan”. So we simply followed his motto. We started off by laying out a plan. Then, we thought we should have a discussion. We even planned what we hope to talk there. Each of us carried a small notebook with us which we used to note down all the important information. This book helped us a lot. Whenever, we met to discuss our plans, we would share the notes that we had made. Therefore, everybody knew what is needed to be done. This made the organizing of the work easy for us. In short, planning helped us in organizing the work well. Yes, Ravi do you have any questions?
+
+Ravi: Did you take a lot of time to plan the work?
+
+Saranga: Yes, it took us a whole day to plan the work. But, in the end we didn’t feel that it was a waste of time. The time spent for planning is an investment. You know, planning helps us to ensure good results. Our initial planning helped us to reduce our shortcomings. Last year we didn’t plan our work well and as a result we had to face a number of problems. In a nutshell, the simple thing to do is to plan your work and then, work your plan. Do you have any questions?
+
+Ravi: Thank you Saranga, it’s so nice of you to have come here to share your experience with us.Saranga: My pleasure. All the best!
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+6
+
+A) Read the whole text and complete the following sentences.1. Saranga was invited by the ……………….. of his school. a. English Club b. Science Society c. Social Science Society
+
+2. He went there to …………………. his friends. a. advise b. chat with c. share his experience with 3. The motto given in the text is ……………………….. a. “Plan the work and work the plan”. b. “Plan the work and then execute the plan”. c. “First plan and then plan will work”.
+
+4. Saranga and his friends took ………………….. to plan the camp work. a. one day b. two days c. three days
+
+5. The time they took for planning is ………………….. of time. a. a waste b. not a waste c. a use
+
+B) Answer the following. 1. Why did they use a notebook? 2. What are the benefits of planning?
+
+C) “ Time spent for planning is an investment”. Do you agree? Discuss
+
+with your friends. Present your ideas to the class. Activity 1.5
+
+ListeningThemiya and his twin brother Thenuka are scouts. They are getting ready for a field trip. Their mother gave them instructions to pack their bags. She always asks them to write a list of items before they pack the bags. Listen and find the items they discussed.cups, mugs, soap, water, clothes, compass, uniforms, toothbrushes, washing powder, combs, flip-flops, mirror, toothpaste, money, mobile phone, torch, caps, boots
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+7
+
+Activity 1.6Themiya and Thenuka met a new friend, Raju who shared with them a new way to pack the bags. Look at the picture clues and find how he arranged the bag. Rearrange the pictures and write the relevant number against each sentence.
+
+123
+
+HOTCOLD
+
+45
+
+678
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+8
+
+91011
+
+Gather all the clothes you will need.
+
+Roll softer clothes.
+
+Fold the stiffer ones.
+
+Arrange the rolled items and folded clothes separately.
+
+Top the pile with the clothes you’ll need first.
+
+Write a list of items you will need.
+
+Select a suitable travelling bag.
+
+Put all toiletries separately.
+
+Use a separate bag to put shoes or flip-flops.
+
+Your packed bag will look like this.
+
+Use the corners to put rolled clothes.
+
+LEARNING POINT
+
+Countable Nouns/Count Nouns
+
+A count noun is a noun which has a singular and a plural form. It is usually used after a determiner in the singular form.e.g. :Singular Plurala book booksa bus busesa mango mangoes
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+9
+
+Activity 1.7Write the plural form of the following words. 1) a cup 6) a boot2) a cloth 7) a uniform3) a toothbrush 8) a tomato4) a compass 9) a box5) a torch 10) a vase
+
+Activity 1.8
+
+Recite the following poem aloud.
+
+A Time to TalkWhen a friend calls to me from the road
+
+and slows his horse to a meaning walk,
+
+I don’t stand still and look around
+
+on all the hills I haven’t hoed,and shout from where I am, ‘What is it?’
+
+No, not as there is a time to talk.I thrust my hoe in the mellow ground,
+
+blade-end up and five feet tall,and plod: I go up to the stone wall
+
+for a friendly visit.
+
+By Robert Frost(A) Select the suitable word to complete the following blanks.a. There are ………….. (5,7,10) lines in this poem.b. A rhyming word for ‘walk’ is …………. (tall, wall,talk).c. The friend comes asking for …………. (hoe, horse, help).d. The speaker is …………. (busy, not busy, sleepy).e. The speaker is …………. (weeding, hoeing, sowing) the ground.
+
+(B) Read the poem once again and draw a picture, depicting the
+
+scene described in it.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+10
+
+Activity 1.9Amitha wrote a letter to her pen friend in Russia. Read it aloud.
+
+5, Vijay Road,Puttalam,Sri Lanka.20th February 20..
+
+Dear Svetlana,
+
+Thank you very much for your letter and the lovely photographs. Hope everything is going well at your end. I was a little busy during the last few weeks. We had a lot of work to do at school. I prepared a plan to complete all the school work on time.
+
+I was so happy to know that you are a nature lover as I am. You have asked me about the extra curricular activities that I am involved in. You know, I’m a very active member of the Nature Club of our school. Every month we plan a special programme.
+
+This time we organized a beach clean-up. Many people on the beach including the tourists volunteered to help us to clean the beach. At this event, the Local Environmental Organization conducted an awareness programme to educate the public on the importance of using eco-friendly products. At this programme they spoke about the importance of using eco-friendly paper, cloth bags and paper cups. Some people bought some of the eco-friendly products that were available there. Interestingly, one foreign tourist shared his personal experience on how he was able to change the attitudes of his neighbours on protecting the environment.
+
+By the way Svetlana, your younger sister looks very sweet. When will she start school? Give my regards to your family. I’m sending some family photographs with this letter. Hope to hear from you soon.Love,Amitha
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+11
+
+a) Answer the following questions.
+
+1. Where is Amitha’s pen friend from?
+
+2. What did Svetlana send to Amitha?
+
+3. Does Svetlana love nature? Support your answer by copying the line(s) from the letter.
+
+4. What did the Nature Club members do in February?
+
+5. Did the club members sell anything at the beach clean-up? Give reasons for your answer.
+
+b) Write a letter to a pen friend asking about his/her plans for the
+
+year.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+12
+
+Activity 2.1
+
+Act out
+
+Jeewaka and Yasith are very good friends. One day they watched a very interesting TV programme on birds at Jeewaka’s house.
+
+Yasith: It was a very interesting programme, wasn’t it?
+
+Jeewaka: It was indeed. I learnt many new things about birds.
+
+Yasith: That’s true. This was the first time I’ve heard the names of certain birds.
+
+Jeewaka: Do you remember the beautiful white bird with a crest? It was very beautiful, wasn’t it?
+
+Yasith: Yes, you mean the Kagu? It’s sad that it can’t fly. Jeewaka: Hmm. By the way, would you like to know more about birds?
+
+Yasith: Of course! They’re beautiful creatures. I wish I could be as free as a bird and fly high in the sky.
+
+WINGED FRIENDS
+
+U N I T
+
+2
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+13
+
+Jeewaka: Ha...ha…mind you, not all birds can fly.
+
+Yasith: Really? Are there many flightless birds?
+
+Jeewaka: Let’s go to my room. I’ve got something to show you.
+
+Yasith: What is it?
+
+Jeewaka: This is my sister’s scrapbook. She’s a member of the School Zoologists’ Association. She has many scrapbooks. This one’s on birds in Sri Lanka, both local and migrant.
+
+Yasith: Wow! It’s so beautiful.
+
+Jeewaka: Yes, she has a lot of other books too. You know Yasith, she wants to become an ornithologist.
+
+Yasith: What? I didn’t get it.
+
+Jeewaka: Well, that is a person who studies about birds.
+
+Yasith: Ah! That’s wonderful.
+
+Activity 2.2
+
+A) Are the following statements ‘true’ or ‘false’?
+
+1. Yasith said that the programme was not interesting.
+
+2. Yasith had heard earlier the names of all the birds that were shown in the programme.
+
+3. Kagu is a flightless bird.
+
+4. Jeewaka’s sister is a member of the School Zoologists’ Association.
+
+5. Jeewaka has many scrapbooks on different types of animals.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+14
+
+B) Match the following words/phrases with their meaning.
+
+Word/phrase
+
+a. Crestb. Flightlessc. Migrantd. Scrapbooke. Ornithologist
+
+Meaning
+
+1. A collection of pictures and articles, etc.2. A person who studies about birds3. A growth of feathers at the top of a bird’s
+
+head4. Not able to fly5. A bird or animal that travels regularly
+
+from one part of the world to another.
+
+Activity 2.3Do you know that there are many birds in the world that cannot fly? Yasith learnt about them from a book that he found in Jeewaka’s sister’s collection. Read the descriptions and complete the grid.
+
+Feugian Steamer Ducks: The largest steamer duck in the world. These South American ducks have got their name as a result of a strange behaviour. They run across water thrashing their short wings like the wheels on a steamboat.
+
+The male ducks weigh about 3.5 to 7 kilograms. They have bluish grey feathers on the head and neck and have a reddish brown throat. Females have darker grey feathers and a dark reddish throat. They eat small snails, insect larvae and small crustaceans. They are known to be very aggressive.
+
+They usually fight with each other over territory.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+15
+
+Inaccessible Island Rail: The smallest flightless bird in the world. It is about 17 cm in length and has an average weight of 30 grams. Its feathers are a mixture of dark grey and dark rusty brown. A bird with a loud trilling call; it has red eyes and its bill is black in colour. It is found only on Inaccessible Island – the only inhabited island in the Tristan Archipelago. (Tristan is the name of a remote group of volcanic islands in the South Atlantic Ocean). They live on steep slopes and grasslands and eat earthworms, moths,berries and seeds.Since there are no threats from predators, they roam freely all over the island.
+
+Emperor Penguins: One of the most known flightless birds. Adult emperor penguins have a white stomach, a black head, back, tails and wings. They also have yellow- gold markings on the side of their head and neck. They have a distinctive waddling walk owing to their heavy bodies and short legs. On average, they measure 115 cm in height. The emperor penguins are only found in Antarctica. They mostly feed on fish, squid and krill. The male emperor penguins are in charge of keeping the eggs safe and warm. They do so by balancing the egg on their feet and covering it with its feathered skin. They are very skilled swimmers and divers.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+16
+
+Takahe/taa-ku-hee/: A rare bird found in New Zealand. It was believed to have been extinct since the late 1800s, but, was suddenly discovered to be alive in 1948. The adult male is purplish-blue in colour with a greenish back and inner wings. They also possess a significant red frontal shield. They have a red based pink bill. They feed on grass, shoots and insects. As a bird, it has remarkable longevity: it can live up to 20 years. However, hunting, predation and habitat loss have become a threat for their survival. Takahe inhabits grasslands using shrubs for shelter.
+
+Kiwi: The National Bird of New Zealand. There are five species of Kiwi and all of them are flightless and nocturnal. They are brown in colour and are the same in size as a chicken. They have hidden wings and soft hair like feathers. Unlike other birds that have nostrils at the base, kiwis have their nostrils on the tip of their bill. The female birds lay comparatively large eggs that can weigh up to about 500 grams. Relative to the size of the bird, this is the biggest egg of any living species.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+17
+
+Cassowary: The third tallest and second heaviest living bird. It is a native bird of the tropical forests of Papua New Guinea and Indonesia and northeastern Australia. The cassowary has a dagger-like claw that can grow up to 4 inches in length on the middle toe of each foot. Cassowaries are known to be shy. If provoked, they are capable of having deadly attacks on humans or any other animals. These birds have a colourful “helmet” or casque. Cassowaries feed on fruit, shoots and grass seeds.
+
+NameHabitatPhysical features
+
+FoodAny otherinformation
+
+1. e.g.: Feugian Steamer Duck
+
+South America
+
+Bluish grey feathers..
+
+small snails, insect larvae...
+
+Known to be agressive, fight over territory
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+Activity 2.4
+
+A) Read the following story.
+
+There was once a peacock who lived in the forest. He was very unhappy. A fox, who was passing by, stopped to speak to the peacock. ‘Hello, my friend. Why do you look so sad? The peacock did not respond. The fox was not discouraged by the peacock’s behaviour.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+18
+
+He decided to try again. ‘Come on, my friend, why aren’t you talking to me? You must have a reason. Did anyone ill- treat you, or are you angry with me?’ asked the fox. ‘No’, said the peacock in a low voice. ‘Then, what happened?’ asked the fox. ‘I don’t like my voice. Every time, I open my mouth to sing, I hear an unpleasant sound,’ replied the peacock. ‘But you are one of the most beautiful birds in the animal kingdom. Why should you worry about your voice?’ said the fox. ‘I want to sing as beautifully as a nightingale,’ replied the peacock. ‘Oh, was that the reason why you looked so unhappy? Do you know, just as much as it is impossible for a nightingale to be as beautiful as you are, you too cannot sing as beautifully as a nightingale,’ replied the fox. ‘Remember, my friend, we should not compare ourselves with others. We have to be happy and content with what we have,’ the fox said.Answer the question given below.Find one word for each of the following phrases from the text. a) Feeling sad - b) Unable to be done - c) To make someone feel discomfort - d) To treat badly - e) To make someone lose confidence -
+
+Word Guide-AntonymsThe opposite meaning of a word or the antonym can be formed by adding in-un-, im-, il- and dis- at the beginning of certain words.
+
+Look at the following words. 1. happy - unhappy 2. possible - impossible3. pleasant – unpleasant 4. legal - illegal5. encourage – discourage 6. correct - incorrect
+
+An antonym can also be a different word as shown below.1. most – least 3. happy – sad 2. simple – complex 4. major – minor
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+19
+
+B) Use words given in Antonym Jar and complete the antonyms chart.
+
+presentimpossible
+
+ugly sadimpatient
+
+minimumruralunkindfalseforeign
+
+maximumkindhappypatienturbanlocalbeautifulpossibleabsenttrue
+
+C) Use a dictionary and find antonyms for the following words.
+
+1. victory
+
+2. cheap
+
+3. answer
+
+4. uncommon
+
+5. local
+
+6. complex
+
+7. early
+
+8. narrow
+
+9. legal
+
+10. fortunate
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+20
+
+LEARNING POINT
+
+Read the following sentences taken from the story.1. We should not compare ourselves with others.2. We have to be happy and content with what we have.3. You must have a reason.We use have to / must / should + infinitive to talk about obligation, things that are necessary to do, or to give advice. Read the following sentences with “have to” and “has to.”4. Nurses have to wear a uniform.5. The teacher has to correct our books.
+
+“have to” expresses impersonal obligation.
+
+shouldmust
+
+Here, must and have to are both used for obligation and should is used to give advice.
+
+Activity 2.5
+
+Speaking / Grammar
+
+Study the following table and form sentences.
+
+YouA studentWeChildrenPassengersAn adult
+
+should/should notmust/ must nothave to has to
+
+fasten the seat belts when driving.smoke. It’s not good for health.go to bed early because you have to go to school tomorrow.learn this well. It’ll be useful.obey our elders.set examples to children.help others.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+21
+
+Activity 2.6
+
+GrammarComplete the following blanks using must, have to/has to or should.
+
+1 A: Ruwini is not well. B: She………………..leave early.
+
+2 When a tyre is punctured the driver ………… change it.
+
+3 I ……………….. wash all my clothes myself.
+
+4 If you are a prefect you ……………….. be responsible for many things.
+
+5 The principal said, “You ……………….. be punctual”.
+
+6 Pedestrians ……………….. use the zebra crossing.
+
+7 “Whenever the dog wants to go out I ……………….. open the door and let it out”, Roy said.
+
+Activity 2.7
+
+Write 3 sentences each using must, have/has to or should or with the negative form.
+
+Activity 2.8
+
+ListeningListen to your teacher and follow the instructions.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+22
+
+Activity 2.9
+
+Read and enjoy
+
+Brainy, the painterhas to paint all walls.
+
+First the wire brushon walls prior to all.Then the black broom
+
+to clean all soon.It is a must he knows
+
+and does it all soon.Walls with bricks or with blocks,
+
+whether it’s blue or even black,his brown brush runs all over the walls
+
+no complaints he attends to them all.
+
+Complete the following table with words that begin with ‘br’ and ‘bl’.
+
+Bread /br/ Blank /bl/
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+23
+
+Activity 3.1Act out
+
+Rusiru, his mother and an old lady are at the bus stop.
+
+Rusiru: Mother, the bus is here. Let’s get in.
+
+Mother: Rusiru, can’t you see, there’s an old lady behind you. Let her get on to the bus first.
+
+Old lady: Thank you.
+
+Rusiru: I’m sorry, I didn’t see you.
+
+Old lady: That’s okay.
+
+The bus conductor: Hurry up, hurry up. Get in quickly. It’s getting
+
+late.
+
+Mother: Please wait, I have another big bag that I need to take with me.
+
+The bus conductor: Can I help you with the bag?
+
+Mother: Yes, thank you very much.
+
+LET’S BE CONSIDERATE
+
+U N I T
+
+3
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+24
+
+The bus conductor: You’re welcome. Could someone please give a
+
+seat to this old lady?
+
+Rusiru : Here, I’ll give you mine.
+
+Old lady: Thank you for being such a kind boy. Where are you going?
+
+Rusiru : We are going to the hospital since my father was admitted there a few days ago.
+
+Old lady: Oh, I’m sorry to hear that. I hope he’ll get well soon. I’m going there too as I have to see a doctor.
+
+Mother: Rusiru, ring the bell.... move forward so we could get off quickly. Could you help the old lady to get off the bus?
+
+Rusiru: Certainly, mother.
+
+Activity 3.2
+
+I. Answer the following questions:
+
+1. Who is at the bus stop?2. Where are Rusiru and his mother going?3. Why are they going there?4. Who will help the old lady to get off the bus?
+
+LEARNING POINT
+
+ConjunctionsRead the following sentences.
+
+• We are going to the hospital since my father was admitted there
+
+a few days ago. • I’m going there too as I have to see a doctor.• Rusiru, ring the bell and move forward, so we could get off
+
+quickly.
+
+The highlighted words are called conjunctions.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+25
+
+II. Fill in the blanks using ‘as, since and so’
+
+1. The bus conductor asked everybody to hurry up .................. it
+
+was getting late. 2. ................. Rusiru’s father was in hospital, he and his mother
+
+were going to see him. 3. Rusiru’s mother’s bag was too heavy .................. the bus
+
+conductor helped her with it.
+
+III. List the words and expressions given in the dialogue that we
+
+use to express courtesy and consideration.
+
+Activity 3.3
+
+a) Join the following sentences using ‘since’ and ‘as’.
+
+e.g. : 1. Bobby couldn’t take the book from the shelf as it was too high.2. Bobby couldn’t take the book since the book shelf was too high.
+
+AB1. Bobby couldn’t take the book
+
+from the shelf.
+
+a. It rained heavily the night
+
+before.
+
+2. He didn’t go to school.b. It was too hot.
+
+3. The match was postponed. c. I woke up late.
+
+4. My aunt couldn’t drink the tea.d. He was not well.
+
+5. I missed the school bus.e. It was too high.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+26
+
+b) Join the following sentences using ‘so’. Do not forget to put a comma before the conjunction.e.g. : One of the boys hurt himself in the cricket match, so he was
+
+taken to the hospital.
+
+AB1. One of the boys hurt himself
+
+in the cricket match.
+
+a. My friends helped me to carry
+
+them.
+
+2. The bags were heavy.b. She did well in school.
+
+3. Manu was hardworking.c. The plants grow well here.
+
+4. The soil is rich.d. We could cross the road.
+
+5. The policeman stopped the
+
+traffic.
+
+e. He was taken to the hospital.
+
+Activity 3.4
+
+Read and answer.
+
+Courtesy
+
+Courtesy means polite behaviour towards others. Such behaviour includes good manners and a respectful attitude towards others. A courteous person is decent in speech and behaviour and is considerate of others. In return, such people are admired and respected by society.
+
+Being courteous does not require hard work or effort. We have only to be aware and respectful of other people’s feelings. Using, expressions like excuse me, thank you, I’m sorry, please and you are welcome, is one way to show our courtesy. What is meant by courtesy can be summed up in the saying “Treat others as you want to be treated.”
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+27
+
+Courteous people contribute greatly to build a good society. Their polite and respectful behaviour often has a positive impact on others. Good manners tend to pass from person to person and influence the whole society.
+
+a) Match the following subheadings with each paragraph.
+
+a) How to be courteous b) How courtesy influences society c) What is courtesy
+
+b) Write answers to the following questions.
+
+1. What is courtesy? 2. What are the qualities of a courteous person? 3. Write the words that we can use to show courtesy. 4. Write the saying given in the text that describes courteous behaviour. 5. How do courteous people contribute to build a good society?
+
+Activity 3.5
+
+The Magic Words Once there was a king who had a strange problem. Even though he was an honest and just king, his people did not follow his orders. No matter how hard he tried to make his people follow his orders, they did not obey him. However, since he was a just king, he did not want to punish his people only for not following his orders. Therefore, the king summoned a great wizard who was known to be the wisest man in the kingdom. He asked the wizard if he could cast a spell that would make the people of this kingdom obey the king’s orders.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+28
+
+The old wizard, who did not want to disappoint the king, cast a spell on the people of the kingdom. But all his efforts were futile. None of the people followed the king’s orders.
+
+One day a young man came to the palace. He said that he possessed powerful magical powers that could solve the king’s problem. The king was overjoyed and gave him permission to start his work immediately.
+
+In a very short time, the young man came to the king with two small parchments and said, “Your Majesty, these are the spells that I have prepared for you. Whenever, you are giving orders to your people, use the words that I have written here. If they smile that means the spell has worked. The most important thing about my spell is that it won’t wear off. It’ll last forever.”
+
+The king was very excited. He saw a servant passing by and said the first word and asked him to bring a platter of food. For a moment, the servant looked bewildered. Within a few minutes, the servant was in front of the king, with a platter of food with a smile on his face. The king was amazed. He uttered the second magic word and said “You may go.” The servant left feeling happy. Before long all the citizens began to obey the king. Not only did they comply with his orders, they complied with them willingly.
+
+Soon the news about the young man who could cast such
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+29
+
+powerful spells spread everywhere in the kingdom. Before long the old wizard heard about the young man and came to meet him. “It’s a great honour to meet a wizard as powerful as you,” he said. “Would you mind sharing with me the secret of your magic?” The young man smiled and said, “My friend, I’m not a wizard. I’m a teacher. What I wrote on those parchments were not magic utterances, but polite words. The first word was ‘please’ and the second was ‘thank you’. What our king lacked were good manners. Even though he was a just king, he didn’t speak to his people politely. That’s why his people disobeyed his orders. These polite words will turn any command into a kind, polite request.”
+
+Source- free stories for kids.com children/stories -and -tales two-spells.
+
+“Politeness is a sign of dignity, not subservience”
+
+-Theodore Roosevelt-
+
+Read the text and answer the questions.
+
+1) What was the king’s problem?2) How did the old wizard try to solve the king’s problem and was he successful?3) Who came along next to solve the king’s problem?4) What did he ask the king to do?5) Did the young man’s magic work?
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+30
+
+LEARNING POINT
+
+Contracted Forms
+
+was not - wasn’t should not - shouldn’t were not - weren’t cannot - can’t will not - won’t I will - I’ll shall not - shan’t She will - she’ll has not - hasn’t He would - he’dhad not - hadn’t I would - I’dmust not - mustn’t
+
+Activity 3.6
+
+Complete the following table.
+
+Long formShort formI am
+
+I have
+
+They are
+
+..........................
+
+We will
+
+She is
+
+He is
+
+Is not
+
+Have not
+
+I’m
+
+..........................
+
+..........................
+
+We’ve
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+31
+
+LEARNING POINT
+
+Uncountable nouns - plural form
+
+An uncountable noun has no plural form. We use quantifiers before
+
+them.
+
+e.g. : A bag of sugar Two bags of sugar
+
+Activity 3.7a) Write the plural forms of the uncountable nouns of the pictures given below.
+
+abcd
+
+efgh
+
+j
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+32
+
+b) Fill in the blanks.
+
+Singular Plural
+
+a glass of water two glasses of watera bottle of milk bottles of milka packet of milk .................................of milka slice of bread ................................. a sheet of paper .................................a bag of rice .................................a kilo of rice .................................a pot of rice ................................. a piece of cake .................................
+
+Activity 3.8
+
+Read the tongue twisters.
+
+1. Double bubble gum bubbles double. 2. He threw three free throws.3. Three free fleas flew freely through the flu.4. Tracy and Trish had trouble catching the train to the city of Troy.5. Fallen trees brought traffic troubles to the train and tram networks.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+33
+
+Activity 3.9
+
+Read the poem
+
+My Shadow
+
+I have a little shadow that goes
+
+in and out with me,and what can be the use of him
+
+is more than I can see.He is very, very like me, from
+
+the heels up to the head;and I see him jump before me,
+
+when I jump into my bed.
+
+One morning, very early, before the sun was up,I rose and found the shining dew on every buttercup;
+
+but my lazy little shadow, like an arrant sleepy-head,had stayed at home behind me and was fast asleep in bed.
+
+-R. L. Stevenson
+
+Answer the following questions.
+
+1) What is the poem about?2) Find the rhyming word. a) me – b) head –
+
+3) Which line says that both the writer and the shadow are alike?
+
+4) Who jumps into bed first?
+
+5) Where was the shadow when the writer woke up in the morning? a) in the garden b) in bed at home c) in the playground
+
+6) Why does the writer call the shadow an arrant sleepy-head?
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+34
+
+Activity 4.1
+
+Act out
+
+Hussain and Kaveen are Grade 8 students at Kannangara Maha Vidyalaya. Kaveen was absent one day and Hussain called him to inform him about the programme for their annual trip to Kandy.
+
+Hussain: Hello! Can I speak to Kaveen please?
+
+Kaveen: Hello Hussain! I was not feeling well in the morn-ing. That’s why I was absent today.
+
+Hussain: Oh! How are you feeling now?
+
+Kaveen: Much better, thanks!
+
+Hussain: That’s great! By the way, you’ll be joining us on the trip, won’t you?
+
+Kaveen: Why not? I’m all set to go on the trip. Did you get the itinerary?
+
+Hussain: Yes. The bus will leave the school premises at 5.30 in the morning. We were asked to come half an hour early.
+
+MOTHER NATURE
+
+U N I T
+
+4
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+35
+
+Kaveen: Ah! That means at 5 o’ clock. Am I right?Hussain: Yes. Earlier the better. Kaveen: That’s true. By the way, how about our meals?
+
+Hussain: We were asked to bring only breakfast in a lunch box or wrapped in a banana leaf. Lunch will be provided.
+
+Kaveen: Well, anything else?
+
+Hussain: Mmm.. an extra uniform, a cap, an umbrella and…urr… a notebook to write down notes when necessary.
+
+Kaveen: Alright. Is that all?
+
+Hussain: Ah, I forgot to tell you. We were all given a booklet each; with details about the places that we’re going to see.
+
+Kaveen: Oh! How can I get mine?
+
+Hussain: Don’t worry. I’ve got your copy with me.
+
+Kaveen: Ok Thanks! I’ll ask my father to get it on his way back home from work. Thank you for calling Hussain. Bye!
+
+Hussain: Sure. I’ll give it to your father. Let me know the time he’s coming here. See you tomorrow morning. Bye!
+
+a) Read the text and fill in the blanks with suitable words.
+
+1. Kaveen didn’t go to school because …………………………………………2. They are going on a trip to …………………………………….. tomorrow.3. The pupils will leave the school at...................................................4. The teacher asked them to bring ………………………………………………5. The information given in the booklet is about …………………………..
+
+b) Read the following words aloud and circle the silent letters.
+
+1) half 2) hour 3) wrap 4) write 5) know
+
+c) Find out more words with silent letters from the dictionary and read them aloud.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+36
+
+Activity 4.2
+
+Hidden Beauties in India
+
+India, the largest country in the South Asian region is well known for its diversity in cultures, great personalities such as Mahatma Gandhi and Rabindranath Tagore and for places like Agra and the Himalayas. It is a less known fact that this subcontinent is also rich with a number of places with enchanting scenic beauty that attracts both local and foreign tourists.
+
+Nohkilakai falls (‘Jump of Ki Lakai‘ in the local language) in Cherrapunji is one such place hidden within the dense forests in the East Khasi mountains in the state of Meghalaya. Cherrapunji is one of the wettest areas in the world with an annual rainfall about 1176 cm. This is the tallest plunge waterfall in India
+
+and is fed by the water collected in the plateau above.The pool below has unusually greenish water which makes it more attractive.
+
+Matheran (‘Forest on the forehead of mountains’) Hill station is another favourite among the tourists. It is located in close proximity to Mumbai, the busiest city in the state of Maharashtra.It is 2,625 feet above sea level and declared an eco-sensitive region by the Indian government.
+
+Roads in this area are made of red laterite earth and you can see well preserved old British style buildings too. There are several lookout points in Matheran such as the Panorama point which gives a 360° view of the surrounding area.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+37
+
+Bellum caves in Andrapradesh is another site with a major tourist attraction. With an approximate length about 3.5 km, it is the longest and the largest cave in India. It is made of black limestone and formed by the constant flow of underground water. There are also deposits
+
+of quartz. They are well known for the stalactite and stalagmite formations. There are long passages, spacious chambers, fresh water pools and siphons. The deepest point is 150 feet from the entrance level and is called “Pataalaganga’’, which means the ‘river in the underworld’.
+
+a.) Complete the grid.
+
+NameMeaningLocationMain attractions
+
+b.) This is a picture of Seethawaka Wet Zone Botanical Gardens.
+
+Write an article about it, including the following points.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+38
+
+Location
+
+• In the Colombo district
+
+• Close to Avissawella
+
+• Turn from the
+
+Puwakpitiya station to reach this garden easily
+
+• Located in Ilukovita on
+
+the Puwakpitiya-Thummodara main
+
+road
+
+Special features• 105 acres in extent • A calm and quiet environment with beautiful natural surroundings• A cool temperate climate• A beautiful stream flows through the garden• Can go on boat rides• Various species of plants with economic, aesthetic and
+
+ecological value• Many Kumbuk/Marudhamaram trees are found• Nicely arranged path directs you to the summit of the park• Opening hours from 8.00 to 5.00 p.m.• An ideal place for a wonderful
+
+day outHistory • The construction of the garden commenced in 2008. • Opened to the public
+
+in October, 2014 • Established this park to
+
+conserve threatened wet, endemic plants for future generations
+
+c) Speak about any botanical garden that you know.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+39
+
+Activity 4.3
+
+Nature inspired Creations
+
+Nature inspires creations. Many incredible creations of scientists and engineers are excellent models of nature. Some of the most wonderful constructions in the world are ideal examples of how nature
+
+had provided inspiration for the designers and architects.
+
+Have you noticed that there is a physical relationship between the aeroplanes and birds? The aeroplane is based not only on the bird’s streamlined body shape, but also on the arrangement of wings and feathers. Leonardo da Vinci analyzed the flight of birds and adapted it for the construction of flying machines.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+40
+
+There are a number of architectural monuments based on nature. The architects have created the Eiffel Tower based on the structure of the human bone tissues. The telegraph poles have the method of wind resistance similar to blades of grass. Joseph Paxton, the designer of the Crystal Palace in London used the leaves of the tropical water lily as his model. Today, house paints, roof tiles and window glasses use
+
+the ‘lotus effect’. This concept is based on the surface of a lotus leaf. As it is covered with a layer of fine fibres, hair and wax crystals, the dust and dirt dissolve in water and roll off, so that the leaf remains clean and dry.
+
+Nature has also influenced the medical world. Diagnosis of diseases through ultra sound is based on the ultra sound that bats use to detect its prey. Even, the flippers that the divers use are based on the webbed feet of frogs.
+
+Similarly, we can list out various creations of man that are based on the structures of nature. By considering all these, we can decide that nature is not only a healer, but also an excellent teacher.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+41
+
+Complete the table by adding more examples from the text.
+
+Examples taken from natureInventions and
+
+constructionse.g. :- 1) birds’ streamlined body shape
+
+aeroplane
+
+Activity 4.4
+
+Read and enjoy
+
+A NURSE’S SONGWhen the voices of children are heard on the green, and laughing is heard on the hill,my heart is at rest within my breast, and everything else is still. ‘Then come home, my children, the sun is gone down, and the dews of night arise;come, come, leave off play, and let us away till the morning appears in the skies.’
+
+No, no, let us play, for it is yet day, and we cannot go to sleep;besides, in the sky the little birds fly, and the hills are all cover’d with sheep.’ ‘Well, well, go and play till the light fades away, and then go home to bed.’The little ones leap’d and shouted and laugh’d and all the hills echoed.
+
+William Blake
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+42
+
+Answer the following questions.1. Underline the correct answer. The main character of the poem is pleased by, • seeing the little birds. • seeing the running sheep. • hearing the voices of children.2. What is the name of the poet?3. How many stanzas are there in the poem?4. Write the two lines that say that the children don’t like to stop playing.5. Write rhyming words for the following. • hill - • arise - • play - • sleep - • rest - • sky -
+
+Activity 4.5
+
+Let’s learn Prepositions
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+43
+
+There is a magic sword in the cave. Can you get it? Although you can follow the instructions given, they are not in order. Write them in the correct order.
+
+• Jump over the fence again and walk slowly through the tunnel.
+
+• Start your journey from A and walk along the road.
+
+• Next, climb up the hill and come down.
+
+• Then, you can see a big bridge and walk over it.
+
+• After that, go through the dark forest.
+
+• Great! Now, the magic sword is yours.
+
+• Then, jump over the fence and run across the field.
+
+• After that, walk around the farm and go under the little bridge.
+
+• Walk into the cave carefully.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+44
+
+LEARNING POINT
+
+Plural Forms of Collective Nouns
+
+SingularPlural1. A group of boysgroups of boys2. A flock of birds flocks of birds3. A herd of elephantsherds of elephants4. A bunch of keys..........................................5. A pack of cards..........................................
+
+Activity 4.6
+
+Study the pictures and rewrite the given instructions in the correct order.
+
+Let’s make Compost
+
+Cage and barrel method
+
+• inoculants - materials that help in the process of decay• decomposition - the process of decay
+
+Step1. .......................................................................... ..........................................................................
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+45
+
+Step2. .......................................................................... ..........................................................................
+
+Step3. .......................................................................... ..........................................................................
+
+Step4. .......................................................................... ..........................................................................
+
+Step5. .......................................................................... ..........................................................................
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+46
+
+• Cover the cage or barrel with coconut fronds or suitable covering material and maintain the moisture inside.• Finally, collect produced compost from the bottom of the cage or barrel.• Add water regularly.• Then, fill in the cage or barrel with different raw materials such as green leaves, weeds, banana leaves and trunks, salvinia, sawdust, vegetable peels, crop waste and animal waste. • Add inoculants to increase the decomposition of raw materials.
+
+Activity 4.7
+
+Listening
+
+Draw the following picture in your book. Your teacher is going to describe it. Listen and label the building.
+
+Mr. Raj
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+47
+
+Activity 4.8
+
+Let’s Sing
+
+Mother Nature
+
+If just one person shines others will follow in line as we board the greenhouse train
+
+we´ll say good –bye to acid rain
+
+as we fight global warming
+
+we´ll stand united as one all around the world a new day has begun
+
+we´re so afraid of pollution but we can find a brighter day
+
+let´s work on the solutions
+
+so our children can play
+
+in pure clean water in blue skies above
+
+its not a fantasy we´ll make it our reality we´ve got to all come together
+
+and start planting the seeds
+
+mother nature needs us we were blind but now we see
+
+we´re so afraid of pollution but we can find a brighter day
+
+let´s work on the solutions
+
+so our children can play
+
+let´s save our planet we´ve got to all come together
+
+and start planting the seeds
+
+mother nature needs us
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+48
+
+it´s up to you and me chicken little said the sky
+
+is fallen´ down we´ve got to work together to keep the world going´round
+
+let´s think about our children and leave a cleaner world a behind
+
+mother nature needs us
+
+till the end of time... mother nature needs us
+
+till the end of time... we´ve got to all come together
+
+and start planting the seeds
+
+mother nature needs us
+
+it´s up to you and me mother nature needs us now!!
+
+P.J. Grand Band
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+49
+
+Activity 5.1
+
+Act out
+
+Lahiru’s pen friend is Kenta Akimoto. Lahiru and his family are eagerly waiting to welcome the Akimoto family.
+
+Mother: Son, what time will they leave Japan?
+
+Lahiru: They would have left by now. They live closer to Nagoya airport.
+
+Mother: That’s good. Let me think... Nagoya to Sri Lanka... (puzzled)
+
+Father: It’s nearly 6,500 km from Nagoya
+
+to Sri Lanka.
+
+Mother: Really? How long will it take?
+
+Father: It will take about eight and a half hours.
+
+Mother: Are there any direct flights?
+
+Father: Yes, I checked, and they are taking a direct flight to Colombo.
+
+BETWEEN THE MILES
+
+U N I T
+
+5
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+50
+
+Mother: Let’s get ready to go to the airport to pick them up.
+
+Lahiru: Mother, remember, we needn’t go to the airport. They’ll take a taxi to come here.
+
+Mother: Ah yes, you told me about it this morning.
+
+Father: Are you sure of it?
+
+Lahiru: Yes, father. I checked with him when he wrote to me last.
+
+Mother: All right. Lahiru, you have to help me to prepare dinner.
+
+Lahiru: Sure mother, I will.
+
+Father: I’ll help you too.
+
+Mother: That’s great!
+
+Now answer these questions.
+
+(A) Read the conversation and say whether the following statements
+
+are true or false.
+
+1. Lahiru has a pen friend in Japan. ( )2. There are no direct flights from Nagoya. ( )3. Lahiru called his pen friend over the phone to ask about the airport pickup. ( )4. Lahiru and his father will help mother to prepare dinner. ( )
+
+(B) Read the text and complete the following sentences.1. Lahiru and his family are getting ready to …………………. a. go on a trip. b. welcome a friend. c. organize a party.
+
+2. Lahiru’s mother ………………… a. knew about Nagoya. b. talked much about Nagoya. c. did not know much about Nagoya.
+
+3. Lahiru and his family will …………….. to pick up Lahiru’s pen friend and his family. a. go b. not go c. go to airport
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+51
+
+4. Lahiru’s pen friend has confirmed about his airport pick up via……………….. a. air mail. b. e-mail. c. SMS.
+
+5. The flight will take about ………….. a. eight hours. b. eight and a half hours. c. nine hours.
+
+LEARNING POINT
+
+Study the following:
+
+1.Be responsible. 2.You both are very helpful.
+
+We can change the words and their meanings by adding a letter group (suffix) to words at the end. Study how these are used.
+
+-fulfull of peaceful, successful
+
+-lesswithouthomeless, helpless
+
+-nessstate / conditionneatness, kindness
+
+-lytalks about the mannereagerly, nearly
+
+Activity 5.2
+
+Copy this into your writing book and complete the table.
+
+base-ly-ful-ness-lesshelpspotsuddenfairpainworth
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+52
+
+Now complete this story.
+
+There lived a ________________(beauty) girl named Poorni. Everyone loved her. She was very ______________ (help).One day when she was coming home after school with her brother Punsara, they saw a __________(home) puppy. Punsara said, “Shall we take him home? It seems __________(help) and hungry”. “Well , I would love to,” said Poorni. “We’ll take it.” Poorni bent down and stroked its back. The puppy wagged its tail. “It loves us and it needs a home. Come on puppy. Let’s go home,” said Punsara.
+
+“It is ______________(thank) to you,’’ said her brother. “ Be __________(care)! It might jump down!” They all went home happily.
+
+Activity 5.3
+
+At the morning assembly, Lahiru spoke about how he spent his vacation with his Japanese pen - friend.
+
+Good morning! Dear sir, teachers and friends, I would like to share a recent experience I had. I spent my last vacation with my Japanese pen friend Kenta Akimoto, whom we affectionately call Ken. Kenta means ‘healthy and strong’. Recently, his parents and his little sister came to Sri Lanka for a short holiday. Now, I’m going to tell you what I learnt about Japan and its people.
+
+Japanese people can be described using several words. They are polite, clean, kind, intelligent, hard-working, respectful and punctual. Their trains are among the world’s most punctual with an average delay of 18 seconds. One of the trains has a speed of nearly 500km/p.h. They are also intelligent and hard-working. They have access to amazing technology. For example, Ken’s father has a water proof mobile phone. My friend even told me that there was a building with a highway passing through it. According to Ken, Japanese people are very strong willed. They experience nearly 1500 earthquakes a year. Despite this experience, they always stand strong.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+53
+
+It is amazing to know about what they feel about cleanliness. They do not wait for anybody to clean their own surroundings. They begin their day by cleaning their homes and the surroundings. They see it as their duty to be clean and to maintain a clean neighbourhood. I hope the things that I shared with you today would be useful to you. Thank you for listening. Have a nice day!
+
+1. When did Lahiru’s pen friend come to Sri Lanka?2. What is his name?3. Who came with Lahiru’s pen friend?4. What are the words that describe Japanese people?5. “Japanese people are punctual”. Do you agree? Give reasons.6. What do Japanese people think about cleanliness?
+
+Activity 5.4
+
+Do you know the smallest things ever found in the world? Read and
+
+match the descriptions with the pictures.
+
+a) The world’s smallest known lizard lives in Jaragua National Park in the Dominican Republic. It is one of the most endangered species in the world. It is only about 16 millimetres long, or about three quarters of an inch, from the tip of the snout to the base of the tail.
+
+12
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+54
+
+b) The world’s smallest fish has been discovered in the swamps
+
+of the Indonesian Island of Sumatra. Its size against a thumb is shown in one of the pictures. At maturity, the fish can be about 7.9 mm in length.
+
+c) A teddy bear made by the German artist Bettina Kaminski is the smallest Teddy Bear in the world. It is 5mm tall. It is one of the best creations. Every little girl would wish to have such a tiny toy.
+
+34
+
+5
+
+d) Thumbelina is a dwarf miniature horse and the world’s smallest
+
+horse. She stands at 43 centimetres tall and weighs 26 kilograms; she was born on a farm in America.
+
+e) Two brothers from Canada have produced the smallest book in
+
+the world. You need an electron microscope to read it. Teeny Ted from Turnip Town: the world’s smallest book, is a reproduction of a 30-page tale.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+55
+
+1. Now copy the table into your books and complete it.
+
+Thing/ AnimalCountry foundSize/special feature
+
+Activity 5.5
+
+Speaking / Writing
+
+Now, describe one of the smallest things that you have ever heard of. Use one of the above as a model.
+
+LEARNING POINT
+
+Word power - comparing things
+
+Study the following.
+
+a big baga bigger bag the biggest bag
+
+We can change some adjectives and their meanings by adding suffixes ‘-er’ or ‘-est’ to their positive form. These new words help to compare.
+
+a long beaka longer beakthe longest beak
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+56
+
+We can change the words and their meanings by adding a letter group to positive adjectives at the end. These new words help to compare.
+
+Here are more examples.
+
+PositiveComparativeSuperlativehappyhappierhappiesteasyeasiereasiestprettyprettierprettiestdirtydirtierdirtiestfastfasterfastest
+
+Note the letter changes of some words that occur when we make the comparative and the superlative forms.
+
+We add “more” and “most” to make the comparative and the superlative forms when the positive word is longer than six letters.
+
+PositiveComparativeSuperlativebeautifulmore beautifulmost beautifulenjoyablemore enjoyablemost enjoyableattractivemore attractivemost attractivedangerousmore dangerousmost dangeroushelpfulmore helpfulmost helpful
+
+Here are some special words;
+
+PositiveComparativeSuperlativegoodbetterbestbadworseworstoldolderelder
+
+oldesteldestfarfartherfurther
+
+farthestfurthest
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+57
+
+Activity 5.6
+
+Complete the worksheet using the correct comparative or superlative forms.
+
+The sun
+
+Mercury
+
+Venus
+
+Earth
+
+Mars
+
+Jupiter
+
+Saturn
+
+Uranus
+
+Neptune
+
+There are eight planets in the solar system. Jupiter is the ____________ (big / bigger / biggest) planet. Mercury is the ____________ (small / smaller / smallest) planet in the solar system. The___________ (hot / hotter / hottest) planet is Venus. Mars is ___________ (close / closer / closest) to Earth than Uranus. The moon is ___________ (bright / brighter / brightest), but the sun is the___________. (bright / brighter / brightest), Venus is ___________________(far / farther/ farthest) from Earth but Neptune is the ___________(far / farther/ farthest). Neptune is ___________ (cold / colder / coldest)but Uranus is the ____________(cold
+
+/ colder / coldest).
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+58
+
+Activity 5.7Recite this poem
+
+If all the seas were one sea...
+
+If all the seas were one sea,what a great sea that would be!If all the trees were one tree,what a great tree that would be!If all the axes were one axe,what a great axe that would be!If all the men were one man,what a great man he would be!And if the great man took the great axe,and cut down the great tree,and let it fall into the great sea,what a great splash-splash that would be!
+
+1. Find the pairs of rhyming words in the poem .
+
+2. Which two lines do you like most in the poem ? Write them.
+
+3. Now try to write your own poem using the given phrases .
+
+If all the skies were one sky…
+
+If all the stars were one star…
+
+If all the wings were one wing……
+
+If all the birds were one bird ………
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+59
+
+Activity 5.8Here are some photos that were in Lahiru’s photo album.They are some of the most beautiful and breathtaking places in the world.
+
+Hiller Lake (Pink Lake), Western
+
+Australia This is the only lake that has colourful water. Scientists have proven the strange pink colour is due to the presence of algae.
+
+Athabasca Falls in Canada Athabasca Falls in Jasper National Park in Canada is a powerful and picturesque waterfall. It’s well-known for its force due to the large quantity of water along with sand rock falling into the gorge. There is a wonderful picnic area around this place.
+
+Giant’s Causeway The Giant’s Causeway is the only UNESCO World Heritage Site in Northern Ireland. It is formed as a result of a volcanic eruption 60 million years ago. This has attracted visitors for many centuries.
+
+Jacob’s Well, North of Wimberley,
+
+Texas, U.S.A. This is the largest underwater cave in the world.It has been a continuous source of water for thousands of years. Jacob’s Well is an amazing sight to see. The water within the well comes out from a natural spring.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+60
+
+Answer the following questions.
+
+1. What is the reason for the colour of the water in the Hiller Lake?
+
+2. Where is Athabasca Falls situated?
+
+3. How is the Giant’s Causeway formed?
+
+4. Why is Jacob’s Well famous?
+
+5. Find synonyms from the text. odd mighty famous fascinating
+
+6. Write three sources of water mentioned above.
+
+Activity 5.9
+
+Listening
+
+Listen to the airport announcement and complete the information.
+
+1. Time of the day : ………………………………… (morning, afternoon, evening)
+
+2. Type of the announcement: ……………………………………… (Pre-boarding, Final boarding, Pre-flight)
+
+3. Flight number: ………………………………….
+
+4. Destination: ……………………………….
+
+5. Gate number: ………………………………………….
+
+6. Time: ………………………………….minutes (for boarding, to shut aircraft doors, for departure)
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+61
+
+Activity 5.10
+
+Here is a part of the famous song, ‘Hey Brother’ sung by Avicii.
+
+Sing and enjoy
+
+Hey Brother
+
+Hey brother! There’s an endless road to rediscoverHey sister! Know the water’s sweet but blood is thicker
+
+Oh, if the sky comes falling down, for youthere’s nothing in this world I wouldn’t doHey brother! Do you still believe in one another?
+
+Hey sister! Do you still believe in love? I wonder
+
+Oh, if the sky comes falling down, for youthere’s nothing in this world I wouldn’t do
+
+what if I’m far from home?Oh brother, I will hear you call!
+
+What if I lose it all?Oh sister, I will help you hang on!Oh, if the sky comes falling down, for youthere’s nothing in this world I wouldn’t doHey brother! There’s an endless road to rediscover
+
+Hey sister! Do you still believe in love? I wonder
+
+Oh, if the sky comes falling down, for youthere’s nothing in this world I wouldn’t do
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+62
+
+Activity 6.1
+
+Act out
+
+Sasantha visited his best friend Ram during the school vacation. He played cricket with Ram and his brother, Shyam. Ram’s mother, Savithri served them some snacks and tea.
+
+Mother: Boys! It’s tea time.
+
+Ram: OK, mother. Give us five minutes. It’s the last over.
+
+Mother: Come soon children. Otherwise the Vadai will get cold.
+
+Sasantha: Vadai? I love them, but we buy it from a café. Does aunty make them at home?Shyam: Yes. She makes the best Vadai in the world…don’t you mother?
+
+WHEN WE ARE TOGETHER
+
+U N I T
+
+6
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+63
+
+Mother: Ha..ha.. if you say so. Wash your hands and come in.
+
+Sasantha: Mmm…they are very tasty aunty. Thank you very much.Mother: You’re welcome.
+
+Ram: Now that we’ve had our tea, shall we play a game?
+
+Sasantha: What do you have in mind?
+
+Shyam: Usually, when we get together, we play chess, carrom, ludo and we also solve riddles.
+
+Sasantha: That sounds wonderful!
+
+Ram: I have a collection of riddles. Shall we solve them? Mother, will you join us?
+
+Mother: No son, I can’t. I have to prepare lunch.
+
+Shyam: What’s for lunch mother?
+
+Mother: Well, since we have a guest today, I thought of making puri with potato and dosai with sambar and we have payasam for dessert.
+
+Ram: Wow! mother, that’s a very good menu. I hope my friend will enjoy it.
+
+1. What were the boys doing when mother brought them tea?
+
+2. What did they have for tea?
+
+3. What was special about it?
+
+4. What are they planning to do after tea?
+
+5. What will they have for lunch?
+
+Activity 6.2
+
+a). Here are some riddles from Sasantha’s riddle book. Can you
+
+solve them?
+
+watermelon / the letter W / in the river bank / fire / your name / a stamp/ an onion / a mushroom / a coffin/ a needle
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+64
+
+1. Where do fish keep their money? 2. What room can no one enter?3. Feed me and I live, yet give me a drink and I die.4. Take off my skin - I won’t cry, but you will! What am I?5. What is at the end of a rainbow?6. What has one eye but cannot see?7. This belongs to you but is used more by others.8. What can travel around the world while staying in a corner?9. Who makes it, has no need of it. Who buys it, has no use for it. Who uses it can neither see nor feel it. What is it?10. There was a green house. Inside the green house there was
+
+a white house. Inside the white house there was a red house. Inside the red house there were lots of babies. What is it?
+
+b). Try the riddles that you know with your friends.
+
+Activity 6.3
+
+Hasmal woke up in the morning and looked at the clock. It was seven o’clock. He jumped out of his bed.
+
+“Oh no, it’s late!” He ran to have a shower. He brushed his teeth in no time, washed himself swiftly and was back in his room within seconds.
+
+“Oh! look at my shoes! They need to be polished but I have no time,” he said to himself.
+
+Hasmal ran out of the house in a hurry. His mother was outside, sweeping the garden.
+
+“Hasmal wait, wait, where are you running?”
+
+“Mother, I have to go. It’s late. I will miss the bus.”
+
+“Wait, Hasmal. Don’t run.”
+
+“Mother! Don’t worry. I had my breakfast,” said Hasmal and didn’t wait for his mother to speak.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+65
+
+When he went to the bus stop his friends were not to be seen.
+
+“Oh no! It looks like the school bus has already left. Maybe I can catch the next bus.”
+
+The bus wasn’t crowded as it usually is. Hasmal thought to himself. Within a few minutes, he was in school. He looked around. There was nobody.
+
+“Where are the students? Where are the prefects who are generally here in the morning?” Hasmal was baffled.
+
+He thought of going for the morning assembly in the playground.
+
+“But there is a group of girls playing netball in the playground. Where are the students in our school? Why is it quiet today?” Hasmal thought.
+
+He thought of going to his classroom to keep his bag. But oh, it was locked. He tried to open it but he couldn’t. Just then the school security guard was passing by.
+
+“Excuse me! Why are you in your uniform today?”
+
+1. What time did Hasmal wake up? 2. What did he do after he woke up?3. What was unusual about this day?4. What would have happened if he had talked to his mother in the
+
+morning?5. Give a suitable ending to the story.
+
+Activity 6.4
+
+Word Study- Shadowgraphy
+
+Learn how to do shadow puppets, so that you can entertain those
+
+around you. Here are some shadows that you can form on the wall. Match the pictures with the words. Try out forming them too.
+
+A bird in flight/ Crab/ Panther/ Snail / Rooster / Alligator / Turtle / Ballerina/ Camel / Deer / Wild boar / Elephant’s trunk / Hare / Goat / Goose
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+66
+
+123
+
+456
+
+789
+
+1112
+
+10
+
+14
+
+1513
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+67
+
+Activity 6.5
+
+Every afternoon Ram’s mother prepares a snack for tea. This is how she makes roti. Match the pictures with the sentences. Learn and try out.
+
+a. First, the flour, salt and scraped coconut are mixed and water is
+
+added to make a soft dough.b. Then, the dough is divided into equal portions. c. Next, the portions of the dough are flattened to make a roti.d. After that, a little oil is applied on the skillet and is placed over
+
+medium heat. e. The roti is baked for a few minutes, until it is turned brown. f. Finally, the other side of the roti is also baked well until it becomes brown and smells pleasant.
+
+123
+
+456
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+68
+
+Answer these questions.
+
+1. What are the ingredients used to make roti?
+
+2. What type of temperature should be used ?
+
+3. What signs suggest that the roti is well baked?
+
+4. Find words similar in meaning from the text.
+
+a) part of a larger amount -
+
+b) to make something level -
+
+c) a middle condition or degree -
+
+LEARNING POINT
+
+PASSIVE VOICEStudy these sentences
+
+1. Mother makes snacks . (Active voice / simple present tense)
+
+Snacks are made by mother. (Passive voice / is/ are+ past participle) 2. She flattens the dough.
+
+The dough is flattened by her.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+69
+
+Activity 6.6
+
+Fill in the blanks with the correct form of the verb.
+
+03. Patients..........................(took) after by nurses.
+
+01.English.........................(speak) all over the world.
+
+02. Butter ............................(make) from milk.
+
+05. An island..............................(surround) by water.
+
+Activity 6.7
+
+Read this passage and find the passive voice sentences.
+
+A Day in the Life of a News Reader
+
+What is the life of a news reader like? To say the least, it’s hectic. I always work with tight deadlines, but I love the challenge it provides.I meet so many interesting people every day. I start my day at 7.00 in the morning and work till about 10.00 in the night. Most of the time, I am expected to be well dressed. Of all the work I do, breaking news is the most exciting time in my job; I get no breaks during breaking news. Sometimes, I am given only half an hour to collect information and go live for the newscast. Editing and writing is done within a few seconds. I often have opportunities to work with
+
+04. Football.........................(play) by two teams of eleven players.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+70
+
+extraordinary people. Politicians and celebrities are also interviewed by me. With all this work, sometimes, the letters and e-mails sent to me are also answered by me. Every day is different and new to me.
+
+Activity 6.8
+
+Listening Listen to your teacher and draw a picture of your village.
+
+Activity 6.9Recite this poem aloud and improve your pronunciation.
+
+Macau, the City of Dreams
+
+Macau, the City of Dreams, rich in history and traditions with streets lined by colourful constructions,
+
+left behind by people who made many thousand-mile trips
+
+on their sailing ships.
+
+Macau, the City of Dreams, full of wonderful attractions of a grand mix of architectural creations,
+
+brought to us by people who travelled long distance for a brave new world of abundance.
+
+Macau, the City of Dreams, never short of pedestrian zones in winding city streets paved in cobblestones,
+
+where no traffic is ever allowed to invade,
+
+and the quiet, peaceful nature trails that gives a taste of Macau’s rustic charms and details.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+71
+
+Activity 7.1
+
+Act out
+
+Hasini is at the library returning the books she has borrowed.Hasini: I’m here to return these two books, please.
+
+Librarian: Well, these books are overdue. There’s a fine on these.
+
+Hasini: Yes. They were borrowed three
+
+weeks ago. I’m sorry, I was down with the flu. How much is the fine?
+
+Librarian: They were due on 23rd. That’ll be thirty rupees.
+
+Hasini: Here you are.
+
+Librarian: Thank you. Are you borrowing any books today?Hasini: Well, I’m looking for some information on children’s festivals and games. Can you recommend any books?
+
+THE WORLD OF
+
+CHILDREN
+
+U N I T
+
+7
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+72
+
+Librarian: We’ve got a new encyclopaedia. It was donated by UNESCO* recently. You’ll find it in the reference section.
+
+Hasini: Aren’t there any new books?
+
+Librarian : We have a good one called “Children of the World.” Let me check…. No, we haven’t got it at the moment. Someone has borrowed it.
+
+Hasini: Can I reserve it?
+
+Librarian: Of course. Then we can hold it for you.
+
+Hasini: Thank you.
+
+Librarian: You’re welcome.
+
+*UNESCO – The United Nations Educational, Scientific and Cultural Organization Read the dialogue and complete the sentences.
+
+late fee, returned, overdue, borrow, requested
+
+• Hasini ………………… two books to the library.
+
+• The books were three weeks ………………………………
+
+• Since the due date was past, she had to pay a ……………………..
+
+• Hasini wanted to ………………… some books on children’s festivals
+
+and games.
+
+• Hasini …………… the librarian to hold a book for her.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+73
+
+LEARNING POINT
+
+Passive Voice – Simple Past Tense
+
+was/were + past participle
+
+You’ve got a new encyclopaedia.
+
+Yes. It was donated by
+
+UNESCO.
+
+Yes. They were borrowed three
+
+weeks ago.
+
+These books are overdue.
+
+ActiveUNESCOdonatedthe book
+
+Passive The bookwas donatedby UNESCO
+
+ActiveNisalwrotethe letter
+
+Passive The letterwas writtenby Nisal
+
+ActiveThe teacherpaintedthese pictures
+
+Passive These pictureswere paintedby the teacher
+
+ActiveTheygaveus presents
+
+Passive Wewere givenpresents (by them)
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+74
+
+Activity 7.2
+
+Complete the sentences in the passive voice.
+
+The school main
+
+hall looked very
+
+nice. It ………… ……………… (paint)
+
+recently.
+
+The Children’s Day …… ………… (celebrate) at our school yesterday.
+
+All the students …… …….(take) out to see
+
+a film.
+
+Heshan ……………… (award) the trophy for the best batsman for his outstanding
+
+performance in the finals.
+
+He was 88 not out.
+
+We had a lot of homework last week. We …… ……. (give) two
+
+reading assignments.
+
+Activity 7.3
+
+Reading and Writing
+
+These historical events are written in the active voice. Rewrite them
+
+in passive voice using the table given in activity 2 in the Workbook.
+
+1. Christopher ColumbusdiscoveredAmerica2. Guglielmo Marconiinventedthe radio3. Valmikiwrotethe Ramayanaya4. The ancient Egyptiansbuiltthe pyramids
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+75
+
+Activity 7.4
+
+Read the descriptions and complete the table.
+
+Universal Children’s DayUniversal Children’s Day was established in 1954 by the United Nations’ Organization. This day was dedicated to encourage brotherhood and understanding among children and to promote their welfare. Each country was given the freedom to choose an appropriate day. Countries all over the world organize special events for children on this day. Sri Lanka celebrates Children’s Day on October 1st.
+
+Maypole DancingIn some European countries children dance around a wooden pole called maypole to welcome spring on May Day.(May Day is a traditional spring festival, celebrated on May 1st.) Children hold colourful ribbons in their hands and weave them around the maypole as they dance. Usually one girl is chosen to lead the dance. She is called the May Queen.
+
+Adapted from EGMONT Disney Children’s Encyclopedia
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+76
+
+Children’s Day and Doll FestivalIn Japan the Children’s Day is celebrated twice a year; on March 3rd for girls and May 5th for boys. The Doll Festival is celebrated on March 3rd. On this day girls arrange a traditional doll set in the best room of their house. These dolls represent the emperor, empress, attendants and musicians in the royal court. On May 5th which is called Children’s Day, boys fly carp-shaped streamers above rooftops. Carps are a type of freshwater fish. They are lively and energetic. Therefore, the Japanese consider them as a symbol of courage.
+
+EventCountryWhen it is celebratedHow it is celebrated
+
+Speaking / Groupwork
+
+Activity 7.5
+
+How do Sri Lankan children celebrate festivals?
+
+Select one of the festivals or events celebrated in Sri Lanka. Construct five sentences saying how children celebrate the selected festival/event. Each member should present one sentence to the class. You may make use of the facts and picture clues given below.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+77
+
+Sinhala and Tamil New YearDeepavaliChristmasRamazanIndependence Day
+
+• traditional rituals • traditional games • special food
+
+items
+
+• fireworks• national flag• national anthem• parades• church, gifts, carols• a festival of lights• oil lamps• auspicious time• offer elders a sheaf
+
+of betel• new clothes• Christmas tree, the
+
+crib, Christmas cake• visit friends and
+
+relatives• traditional Rangoli*
+
+patterns• share food with
+
+neighbours• visit relatives• new moon, crescent Rangoli = patterns created on the floor using coloured rice, dry flour, coloured sand or flower petals for Hindu festivals.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+78
+
+Activity 7.6ReadingRead the given descriptions about children’s games and match them with the pictures.
+
+C
+
+D
+
+B
+
+D
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+79
+
+HopscotchIt is believed that hopscotch was first played in ancient Rome. It can be played alone or with several players. First, children draw a hopscotch grid. The grid consists of numbered rectangles on the floor. Then they toss a small object (e.g. a flat stone) to land on the rectangles and hop and jump through the diagram to retrieve it.
+
+Catch the Dragon’s TailThis game comes from China. Children form a line by placing their hands on the shoulder of the child in front of them. The first child on the line is dragon’s head and the last is the dragon’s tail. The head tries to catch the tail by moving the line. The others try to prevent it without breaking the line. When the head catches the tail, the tail becomes the new head.
+
+Cat’s CradleThis is a string game. Children put their fingers through looped string to create different shapes. They pass the string back and forth to change shapes.
+
+Tic-Tac-Toe (Noughts and Crosses)Tic-tac-toe is a paper -and -pencil game. It requires two players. Players draw a 3 x 3 grid on a paper and mark the grids with “x” or “0” marks. The player who is able to mark the grid in a horizontal, vertical or diagonal pattern wins the game.
+
+Activity 7.7
+
+Ameena wrote a letter to her friend Senani describing how her school celebrated the Children’s Day. But the letter is mixed up. Put it in the correct order.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+80
+
+(a)Please give my regards to your family.Your friend, Ameena
+
+(b)27 Station RoadAvissawella
+
+(c)Dear Senani
+
+(f)I hope you are in good health. I am looking forward to hearing from you. Please write to me soon.
+
+(e)Our school celebrated the World Children’s Day on October 1st. A special programme was conducted on that day. Our principal gave a speech at the morning assembly. He talked about the history of the Children’s Day. We also got to know a lot of important things about children’s rights from his speech. After that we enjoyed a magic show and a film. We were given ice-cream too.
+
+(d)How are you doing? Thanks for the lovely birthday card you sent me. Yes, I had a nice time on my birthday. This time I donated a few books to the local library.
+
+Activity 7.8
+
+Sahan needs to write a letter to Ameen describing his recent visit to Sigiriya. Imagine you are Sahan and organize the facts about the visit before writing the letter. Use the table given in Activity 5 in the Workbook Unit 7.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+81
+
+Activity 7.9
+
+Now, write a letter to Ameen using the information from the above table.
+
+Read the story and find the correct answers to the questions given below.
+
+A City Boy on the Farm
+
+Peter Smith was an Australian boy. He lived in a big city with his parents. Unfortunately, when Peter was eight years old both his parents passed away. So, Peter was sent to live with his uncle and aunt in the country. They owned a farm with a lot of animals.
+
+As Peter had always lived in the city, he was not used to animals. He did not like to go near them. He was afraid of horses the most. They seemed so big and powerful. His uncle noticed this and gave him a small, well mannered horse called Lightfoot. But Peter could not get rid of his fear. Every time he got on the horse, he trembled. He could not ride well. This made his uncle sad because he wanted Peter to inherit the farm after him.
+
+One day Peter’s uncle and aunt had to visit a sick neighbour. The two farm hands, John and Rob, were working in the fields. Peter was left alone in the house. It was a very warm day. There had been no rain for some time. Peter walked towards the garden to get some air. Suddenly, he saw smoke coming out from the field of grass behind the stables. Peter realized it could be the beginning of a forest fire. He knew such fires were dangerous and could burn the land for many miles.
+
+Peter knew the horses were in the stables. He realized he had to save them somehow. Peter began to lead them out one by one, all the time talking to them softly to keep them calm. Finally, the horses were safe in the front field.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+82
+
+But the fire was getting bigger. Peter began to bring buckets of water and throw on the burning grass. The smoke hurt his eyes and he felt tired. Yet he did not stop.
+
+Suddenly, he heard the hooves of a horse and saw John riding into the garden. “Brave boy!” he said. “We saw the smoke and Rob went to get help. But someone must bring the sheep home. Otherwise they might wander off to the forest. Can you ride Lightfoot and bring them back?” John asked. Peter jumped on to the horse and rode to the fields. It was a difficult job and it took a long time. By the time he brought them home, the fire had been put out. His uncle was at the door waiting for him.
+
+“You are a wonder, Peter. You saved my horses,” he said. “Did they hurt you?” He asked.
+
+“No, they didn’t,” Peter said. “And I’m not afraid of them anymore.”
+
+Adapted from Brave Children of Other Lands by E.F. Dodd
+
+Activity 7.10 1. Read the story and find the correct answers to the questions given
+
+in Activity 7 of the Workbook Unit 7.
+
+2. Answer the questions.
+
+• Where did Peter live after his parents’ death?
+
+• Why was Peter left alone in the house?
+
+• What did he see behind the stables?
+
+• How did Peter try to put the fire out?
+
+• Who brought the sheep home?
+
+• Who is he in line 6 of the 3rd paragraph?
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+83
+
+Activity 7.11 Read these words aloud with the help of your teacher.
+
+wonder - wander
+
+worm - warm
+
+word - ward
+
+work - walk want, wand, wash, wart, wall
+
+Now find rhyming words to these from the words given above.e.g. :- blunder - wonder • term • tall • perk• sword • herd • ponder
+
+Activity 7.12
+
+Writing
+
+Let’s write a story
+
+All over the world there are stories about brave children. This story of Hans who saved his city from flooding is one such story.
+
+Step I
+
+Before writing the story, let’s arrange the facts.Look at the pictures and write the relevant words/ phrases from the table under each picture.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+84
+
+.....................................................
+
+.....................................................
+
+.....................................................
+
+.....................................................
+
+.....................................................
+
+.....................................................
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+85
+
+a hole, walk, water, trickling down, dyke, see, dangerous, floods, cold, cover, tired, did not give up, hands, father, found Hans, all night, holding on, sick, shivering, praised, a hero, carry, home
+
+Step II
+
+The beginning of the story is given below. Look at the pictures above and complete the story. You may make use of the words given above.
+
+Netherlands is a country in northwestern Europe. Some parts of it lie below sea level. So, water from the sea is held back by walls called dykes.
+
+A long time ago there lived a boy called Hans in Netherlands. ……
+
+.....................................................
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+86
+
+Activity 8.1
+
+Act out
+
+An Exhibition
+
+Sahan called the Exhibition and Convention Centre to get information about an exhibition.
+
+Event Manager: Good morning. Exhibition and Convention Centre.
+
+How can I help you?
+
+Sahan: Hello! I’d like some information about “It’s a Small World” exhibition, please.
+
+Event Manager: What would you like to know?
+
+Sahan: What is it about?
+
+Event Manager: Well, it’s about ICT; that is
+
+Information and Communication Technology. The exhibition will show how this field has developed over the past few decades.
+
+Sahan: You mean how the world has become a global village?
+
+Event Manager: Exactly. The latest developments
+
+of technology will be displayed here. There will be a lot of information about its history as well.
+
+IT’S A SMALL WORLD
+
+U N I T
+
+8
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+87
+
+Sahan: Ah! Sounds interesting. When will the exhibition be held?
+
+Event Manager: It will be held from 12th to
+
+15th June. We are open from 9.00 a.m. to 6.00 p.m.
+
+Sahan: How much is a ticket?
+
+Event Manager: Fifty rupees for adults and
+
+twenty for children. Tickets will be sold at the entrance.
+
+Sahan: Thank you.
+
+Event Manager: You’re welcome.
+
+Read the conversation and complete the table given in activity 1 of the Workbook Unit 8.
+
+Activity 8.2
+
+Read the news items aloud.
+
+Sri Lankan Airlines will launch direct flights from Colombo to Denmark from next month. Passengers who purchase the first ten
+
+air tickets will be given a special discount.
+
+England and West Indies will face each other in the ICC T20 World Cup final. The match
+
+will be played in Kolkata
+
+on Sunday.
+
+ABC Company Ltd. will begin the construction of its new office complex tomorrow. The foundation stone will be laid by
+
+the Chairman.
+
+Sri Lanka Scouts Association is holding its National Jamboree in Jaffna this time.
+
+This event will be declared open by
+
+the President tomorrow.
+
+A musical evening will be held at the BMICH on 27th May from 7.00 p.m. to 10.00 p.m. This
+
+event is organized by Sri Lanka
+
+Musicians’ Association.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+88
+
+Read the news items and answer the questions.
+
+• What event will be declared open by the president?
+
+• Who will be given discount tickets by the Sri Lankan Airlines?
+
+• Where will the musical event be held?
+
+• When will the cricket match be played?
+
+LEARNING POINT
+
+Passive Voice – Simple Future Tense
+
+will + be+ past participle
+
+The foundation stone will be laid by the Chairman.
+
+The musical show will be held on 27th
+
+May.
+
+ActiveThe choirwill singthe song.
+
+PassiveThe songwill be sungby the choir.
+
+ActiveThe directorwill deliverthe welcomespeech.
+
+PassiveThe welcomespeech
+
+will be deliveredby the director.
+
+More examples • Shops will be closed tomorrow. • Dinner will be served at 7 o’ clock. • The work will be finished soon.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+89
+
+Activity 8.3
+
+Write the past participle form of the verbs given in activity 1-2 of the Workbook Unit 8.
+
+Activity 8.4
+
+Complete the sentences using passive voice future form. (will + be + past participle)
+
+• The school prize giving …………………………. (hold) next week.
+
+• The parents of the prize winners ………………………… (invite) .
+
+• The welcome speech …………………………….. (deliver) by the principal.
+
+• The prizes …………………………. (distribute) by the Chief Guest.
+
+• The event ………………………. (cover) by the school media unit.
+
+Activity 8.5
+
+Complete the blanks in future tense passive voice form.
+
+The Indian national cricket team will arrive in Sri Lanka today for a three-week-tour. The players ……………………. (welcome) by the President of the Sri Lanka Cricket Board at the Bandaranaike International Airport. During the tour, the two teams will play one test match and three one days. Matches …………………… (hold) in Colombo, Galle and Pallekele. Virat Kohli will captain the Indian team while Sri Lanka ………………… (lead) by Angelo Mathews. Tickets ……………….. (sell) at the Sri Lanka Cricket head office from tomorrow. All the matches ……………………. (telecast) live on Rupavahini.
+
+Activity 8.6
+
+Reading
+
+Read the descriptions and match them with the sections of the newspaper.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+90
+
+WEATHER SPORTS TRAVEL AND TOURISM FOREIGN NEWS HEALTH AND MEDICINE ARTS AND ENTERTAINMENT
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Reading Read this newspaper article and answer the questions.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+91
+
+June 10, 2016
+
+Shanghai Disneyland Opens Soon
+
+Disneyland park in Shanghai, China will be opened to the public on 16th June, 2016. It is the sixth Disney theme park in the world.
+
+The first Disneyland theme park was opened in 1955 in California U.S.A. It was built by the American entrepreneur Walt Disney. At present there are Disneyland parks in Florida, U.S.A., France, Japan, Hong Kong and China.
+
+Disneyland parks are very popular theme parks among both children and adults. There are many attractions in Disneyland. “Adventureland” is like a remote tropical jungle with jungle cruises and tree houses. Fairy tales come true in “fantasyland.” “Tomorrowland” shows us the future with “Rocket to the Moon” and submarine voyages.
+
+Another great attraction in Disney theme parks is the famous Disney characters like Mickey Mouse, Donald Duck, Goofy and Roger Rabbit.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+92
+
+1. What is Disneyland?2. When was the first Disney park opened?3. Who built it?4. How many Disney theme parks are there today?5. Where are they situated?6. When will the latest addition to Disneyland be opened?
+
+Activity 8.7WritingLet’s write a small article.
+
+Step I
+
+Arrange the given words to form meaningful sentences. Write thesentences in the space provided for activity 2-2 in the Workbook Unit 8.
+
+1. city / Kandy / Sri Lanka / is a / in / large 2. For / tourist / reasons /it /is / attraction / a / major/ these3. It /central / hills / situated/ in /the /is4. historical / there / many/ in / Kandy / are / places5. Temple of the Sacred Tooth Relic, / the / some / them / of / are
+
+/ the / old Royal palace,/ four shrines dedicated to gods Visnu, Paththini, Natha and Katharagama / and6. Once a year/is held/Esala Perahera/the cultural pageant/ in
+
+Kandy
+
+Step II
+
+Check your sentences with the help of your teacher. Now, arrange these sentences in order and write the paragraph in your writing book. Add a suitable heading.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+93
+
+Activity 8.8Groupwork - speaking
+
+Speak about one of the topics given below.• A famous place in Sri Lanka• A place of tourist attractionReadingJames Smith is a thirteen-year-old boy from England. During his school vacation he visited Sri Lanka with his parents. Here are some diary entries he made during the visit. Read the diary entries and complete the table.
+
+August 20165 FridaySchool vacation has started. Mom and Dad are really busy. We’re leaving for Sri Lanka tomorrow. I’m so excited. We are finally visit-ing “the Pearl of the Indian Ocean”.
+
+7 SundayWe arrived in Sri Lanka. I enjoyed the flight, but mom did not. She is tired. We’re going to rest today.8 MondayToday we visited the elephant orphanage at Pinnawala. I fed baby elephants and watched elephants bathing. It was a unique experience. We reached the hill capital Kandy in the afternoon. Visited the Temple of the Tooth and watched a traditional dance. It’s called Kandyan dancing. Later we had dinner at a restaurant by the lake. The food was spicy but delicious. I feel relaxed and happy.9 TuesdayWe had an early breakfast and set off to botanical gardens at Peradeniya. There were many varieties of tropical trees and flowers. Orchids were magnificent. My sister was delighted to see swans swimming in a pond. From there we proceeded to Nuwara Eliya. The scenery was breathtaking. We passed many mountains, streams and waterfalls on the way. In the evening we went sightseeing in Nuwara Eliya. Mom bought Ceylon tea. The smell of the tea was inviting. Weather is cool here. We’re leaving for Yala National Park tomorrow.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+94
+
+10 WednesdayYala Safari was interesting. We saw elephants, monkeys, peacocks and spotted deer in their natural habitat. The guide said that sloth bears and leopards could also be seen in the park, but we didn’t see any. Weather was hot and humid. I’m a little tired this evening.
+
+11 ThursdayToday we visited the Dutch fort in Galle. It is a world heritage site. We also went to see the Galle National Museum. Our next stop was Hikkaduwa. We watched the coral reefs and later, the sunset. We were amazed by the beauty of this small country.
+
+12 Friday Got back to Colombo and did some shopping. We’re leaving tomorrow. I feel a little sad to leave this beautiful island. It was a truly wonderful holiday. I hope to come back again someday.
+
+456
+
+231
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+95
+
+78
+
+DateThe places
+
+visited
+
+Picture
+
+No.
+
+What James
+
+saw/ did
+
+How James felt
+
+Activity 8.9
+
+Write the missing letters. Read the words aloud.
+
+…..iley
+
+……ing
+
+……een
+
+…..eam
+
+……ool
+
+…..ail
+
+sn sm str spr scr sch
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+96
+
+Activity 8.10 Read these words aloud with the help of your teacher.
+
+strschscrsprsnsm
+
+streamstrapstrawstretchstrange
+
+school scholar scheme
+
+screenscreamscrewscrubscrollscrabble
+
+sprayspringsproutsprain
+
+snowsnailsnacksneezesnoozesnug
+
+smallsmellsmartsmilesmirksmooth
+
+Activity 8.11
+
+Read the story aloud.
+
+A snail and a slug lived near a small stream. They liked to play together in the school yard but little children screamed whenever they saw the snail and the slug. So they had to hide in the snow. “I’m sick of my shell”, said the snail to the slug. “With my shell stacked up on my back, I can never sprint.” “I wish I had a shell stuck on my back,” answered the slug. ‘Then I could go for a stroll on a snowy day and yet be warm and cozy.
+
+Activity 8.12
+
+ListeningYou will hear an airline announcement. Listen to it and select the correct words.
+
+Airport:Time:Weather:Temperature:Tokyo flight no.Terminal Airline
+
+Colombo / Bangkok6.00 a.m. / 5. 35 p.m.Fine /rainy28 degrees / 25 degreesJL 5423 /JL 7014B / DSri Lankan Airlines /Japan Airlines
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+97
+
+Activity 9.1
+
+Act out
+
+Pasindu is a student of Kajulanda M.V. He has always done well in his studies and various extra-curricular activities of the school-especially in sports. Recently, he got through the GCE (A/L) examination with three A passes. So, the school organized a felicitation ceremony for him. The following is the interview that Charith, a member of the school media unit, had with Pasindu just after the ceremony.
+
+Charith: Good morning, Pasindu! Today is a special day for you. Tell me, What are your thoughts at the moment?
+
+Pasindu: I feel really happy and honoured. In fact, this is one of the happiest days of my life.
+
+Charith: You’re a role model to all of us. You have been a senior prefect, the captain of the school volleyball team and a school cadet. With all that, you managed to get through your A/L s with flying colours. How did you do all this?
+
+ON TOP OF THE WORLD
+
+U N I T
+
+9
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+98
+
+Pasindu: Well, one reason is that I always try to manage my time as best I can.
+
+Charith: Yes, as we all know, Pasindu, you always come to school early. And you rarely get absent. Do you usually plan your day? Can you tell me what time you get up in the morning?
+
+Pasindu: I always get up at 5 in the morning, six at weekends. I never stay in bed later than 6.30. It helps me to go through the day cheerfully and confidently.
+
+Charith: Could you tell us how you prepared for your exam?
+
+Pasindu: Well, at the end of each day, I always revised what I had learnt during that particular day. Twice a week I answered past question papers and got them checked by my teachers.
+
+Charith: I think that’s good advice for anyone getting ready for an exam. By the way, Pasindu, what do you do in your free time?
+
+Pasindu: Well, I often listen to music. About once a week, I watch a movie. I usually watch English movies as it helps me to improve my knowledge of English. I sometimes watch good Hindi movies too.
+
+Charith: Finally, what message would you like to give your fellow students?
+
+Pasindu: Time is precious. So make the best possible use of it. And always look on the bright side of things.
+
+Charith: Thank you very much Pasindu for joining us today. On behalf of the school media unit, I wish you all the best in every step of your way!
+
+Pasindu: Thank you.
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+99
+
+Activity 9.2
+
+Read the conversation and fill in the blanks with always, usually, often, sometimes, rarely and never.
+
+comes to school early...........................
+
+Pasindu
+
+gets absent...........................
+
+stays in bed later than 6.30a.m...........................
+
+listens to music...........................
+
+watches English movies...........................
+
+watches good Hindi movies...........................
+
+LEARNING POINT
+
+We use adverbs of frequency when we say how often something happens. These adverbs are usually placed in front of the main verb in the sentence.
+
+100%
+
+0%
+
+always
+
+usually/ normallyoftensometimesrarely
+
+never
+
+Adverbs such as once and twice usually go at the end of the sentence.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+100
+
+More examples
+
+• Mr. Perera usually goes to work by bus.• Chathura always gets up before 5.30 a.m.• I never lie to my parents.• Nethmi often stays after school for badminton practice.• Do you sometimes feel lonely? • The garbage truck comes once a week.
+
+Activity 9.3
+
+The following pictures show certain things that Suresh does. Look at the pictures and write sentences using the adverbs given.The first one is done for you.
+
+1. always
+
+2. usually
+
+3. often
+
+4. never
+
+5. sometimes
+
+6. rarely
+
+1) Suresh always helps his mother.
+
+2) He …………………………………………………….
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+101
+
+Activity 9.4
+
+Speaking
+
+Get into groups of five. Each member should construct a sentence about himself/herself using one of the adverbs given below. The leader of each group should report the sentences to the class.
+
+e.g. :- Dinith usually gets up at 5.30 in the morning. usually/normally/sometimes/rarely/often/always/never
+
+Activity 9.5
+
+Write a paragraph about yourself or one of your family members using as many adverbs of frequency as you can.
+
+Activity 9.6
+
+Given below is an introduction about a great Sri Lankan woman. Read it carefully.
+
+Top of the world
+
+Jayanthi Kuru-Utumpala was the first Sri Lankan to reach the summit of Mount Everest. This great achievement of hers makes Sri Lanka one of the few countries in the world in which a woman has been the first person to reach the highest mountain peak on Earth.
+
+Jayanthi was born in 1979 in Colombo. She studied at Bishop’s College and later completed a BA degree in English Literature from the Delhi University and a Masters Degree from the University of Sussex, U.K.
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+102
+
+In a recent interview, Jayanthi said that conquering the world’s highest summit had always been one of her childhood dreams. She began to dream of conquering Mount Everest when she saw a photograph of a friend in the Himalayas in 2002. Following in the footsteps of her friend, she followed a mountaineering course which provided her with the necessary skills. After that she climbed several mountains in the world including Mount Kilimanjaro in Tanzania, Spanish Pyranees and Argentine Andes. On May 21st, 2016, Jayanthi became the first Sri Lankan to reach the summit of the mighty Everest, realizing her ultimate dream. According to Jayanthi’s family and friends, she possesses a number of outstanding characteristics that guided her through her path to success. They see her as a fearless, methodical person with sheer will power and undying perseverance. During her school days, her mother recalled, that Jayanthi had balanced well both her academic work and sports activities.
+
+In Jayanthi’s view, all the experience she has gained throughout her life helped her in this great achievement. She further says that she had to go through a grueling training including rock climbing, ice-climbing, survival skills and other rigorous physical activities and also the mental strength which helped in increasing the level of endurance. She thanks her mountaineering team, friends and family for their generous support.
+
+Adapted from Daily News August 18,2016
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+103
+
+Read the text and complete the following diagram.
+
+traning e.g. rock climbing
+
+date of birth
+
+school
+
+higher education
+
+dream
+
+experience e.g. climbed Mount Kilimanjaro
+
+Activity 9.7
+
+Write a description about Sir Edmund Hillary, the first man to conquer Mount Everest using the given facts.
+
+• born 20th July 1919, Aukland, New Zealand
+
+• became interested in mountain climbing while in secondary school
+
+• worked in the Royal New Zealand air force as a navigator
+
+• reached South Pole and later North Pole as part of the Commonwealth Trans-Atlantic Expedition
+
+• the first person to reach the Poles and summit Everest
+
+• reached the summit of Mount Everest on 29th May, 1953 with the help of the Nepalese Sherpa Tenzing Norgay – making them the first to summit Mt.Everest
+
+• was awarded a Knighthood and Coronation medal by the Queen Elizabeth II, Padma Vibuhan posthumously by the Indian government in 2008 and many other awards
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+104
+
+Activity 10.1
+
+Act out
+
+Supun is talking about the English Day of Gemunu Vidyalaya with Rahal.
+
+Rahal: Did you go to the English Day of Gemunu Vidyalaya?
+
+Supun: Yes, we did. It had already started when we got there.
+
+Rahal: How was it? Had they invited many other schools?
+
+Supun: Yes. They had invited five schools besides us.
+
+Rahal: Were there many items?
+
+Supun: Yes, there were. The items were really good too, especially the drama. They had practised well.
+
+Rahal: What kind of a story was it?
+
+BEYOND THE CLASSROOM
+
+U N I T10
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+105
+
+Supun: It was a humorous story. It had a lot of funny scenes. Later I got to know that a grade 8 student had written the script.
+
+Rahal: Wow! Shall we also do a drama for our English Day?
+
+Supun: Good idea. Let’s discuss it with our English teacher.
+
+Activity 10.2
+
+Read the conversation and select the correct answers.
+
+i. This conversation takes place between ……… a. two teachers b. a teacher and a student c. two students
+
+ii. Supun said that when they got to Gemunu Vidyalaya ……... a. the Englsh Day had already started. b. the drama had finished. c. students from other schools hadn’t arrived.
+
+iii. Gemunu Vidyalaya had invited ………… for their English Day. a. only one school b. three schools c. six schools
+
+iv. The drama had many ……........ a. sad scenes. b. humorous scenes. c. serious dialogues.
+
+v. Supun said that ……………… had written the story. a. a grade 8 student b. a teacher c. a group of grade 8 students
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+106
+
+LEARNING POINT
+
+The Past Perfect Tense
+
+Had + past participleHad they invited any other schools? Yes. They had invited five other schools.The drama was good. They had practised well.
+
+We use the past perfect tense to talk about a past action that happened before another past action.
+
+e.g. :- By the time Mr. Perera reached the station,his train had already left.
+
+He had worked.Had he worked?He had not worked.
+
+Activity 10.3
+
+Fill in the blanks with the past perfect form of the verb.
+
+• Did you watch the film yesterday? No, I didn’t. I ……………………… (watch) it before.
+
+• She was happy because she ……………………………….. (win) a prize.
+
+• Mr. Perera had to go back to the office. He ………………… (leave) his spectacles behind.
+
+• I enjoyed the play. I …………………………… (not see) a stage play before.
+
+• …………………… the football match already …………………… (start) when you got to the stadium?
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+107
+
+Reading
+
+The following report appeared in the school magazine of Gemunu Vidyalaya.
+
+The English Day of Gemunu Vidyalaya was held on 21st of October in the school main hall. They had invited the Zonal Director of Education as the Chief Guest. After the tradition of lighting the oil lamp, the programme started with the theme song of English Day. It was sung by a group of grade 8 students. The programme consisted of recitals, duets, songs, dances and a play. One of the invited schools presented a group song. In his speech, the principal said that the members of the English Association had worked hard to make the event a success. He also said that he was very proud of his students’ talents. Everyone present agreed that it was a well-organized programme.
+
+Activity 10.4
+
+Read the text and find the following information.• event described:• organized by:• place where it was held:• date:• chief guest:• items presented:
+
+Activity 10.5
+
+Read the following story and answer the questions given.
+
+One day Nasrudin was taking a traveller across a lake in his boat. While they were talking on various subjects Nasrudin happened to make a minor grammatical mistake.
+
+The traveller, who had always considered himself to be a very educated man, laughed and said, “You’ve just made a silly mistake. I suppose you’ve never studied any grammar.’’
+
+aA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+108
+
+“You’re right,’’ Nasrudin admitted. “ I haven’t studied grammar.” In reply, the traveller said, ‘Well, then you have wasted half of your life!”
+
+A few minutes later, Nasrudin turned to the traveller and asked, “Have you ever learned how to swim?”
+
+“No,” the traveller answered.
+
+“Well then,” Nasrudin replied, “you’ve wasted your whole life. There’s a hole in the boat and we are sinking!”
+
+1) How was Nasrudin taking the traveller across the lake?
+
+2) Why did the traveller laugh?
+
+3) What did Nasrudin admit?
+
+4) What hadn’t the traveller learned?
+
+5) Why did Nasrudin say that the traveller had wasted all his life?
+
+YaA
+
+bCcZdDeE
+
+fKgG
+
+aMbB
+
+cIdDxR
+
+LTYU
+
+109
+
+LEARNING POINT
+
+Look at the following sentences taken from the story.
+
+1) In reply, the traveller said, “Well then, you have wasted half of
+
+your life.”
+
+2) Nasrudin turned to the traveller and asked, “Have you learned
+
+to swim?”
+
+We use inverted commas (quotation marks) when we are quoting the exact words of a speaker or writer.
+
+Activity 10.6
+
+Speaking / Writing
+
+Get into groups of five and relate some interesting stories.Now write out one of the stories. Use inverted commas when you write conversations of your story.

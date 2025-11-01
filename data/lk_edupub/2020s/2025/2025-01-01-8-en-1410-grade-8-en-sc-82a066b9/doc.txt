@@ -1,0 +1,3301 @@
+==== BLOCKS ==== 
+
+i
+
+SCIENCEPart - I
+
+Educational Publications Department
+
+Grade 8
+
+ii
+
+First Print 2016
+
+Second Print 2017
+
+Third Print 2018
+
+Fourth Print 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0132-6
+
+Published by Educational Publications DepartmentPrinted by Neo Graphics (Pvt) LtdNo. 44, Udahamulla Station Road, Gangodawila, Nugegoda.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka MathaApa Sri Lanka Namo Namo Namo Namo MathaSundara siri barinee, surendi athi sobamana LankaDhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye mathaPiliganu mena apa bhakthi pooja Namo Namo MathaApa Sri Lanka Namo Namo Namo Namo MathaOba we apa vidya Obamaya apa sathyaOba we apa shakthi Apa hada thula bhakthiOba apa aloke Apage anupraneOba apa jeevana we Apa mukthiya oba weNava jeevana demine, nithina apa pubudukaran mathaGnana veerya vadawamina regena yanu mana jaya bhoomi karaEka mavakage daru kela bevinaYamu yamu vee nopamaPrema vada sema bheda dureradaNamo, Namo MathaApa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+xU jha; kf;fs; ehkhNthk;xd;Nw ehk; thOk; ,y;yk;ed;Nw clypy; XLk;xd;Nw ek; FUjp epwk;
+
+mjdhy; rNfhjuu; ehkhNthk;xd;wha; thOk; tsUk; ehk; ed;wha; ,t; ,y;ypdpNyeyNk tho;jy; Ntz;Lkd;Nwh
+
+ahtUk; md;G fUizAld;xw;Wik rpwf;f tho;e;jpLjy;nghd;Dk; kzpAk; Kj;Jky;y - mJNtahd;W kopahr; nry;tkd;Nwh.
+
+Mde;j rkuf;Nfhd; ftpijapd; ngau;g;G.
+
+v
+
+Being innovative, changing with right knowledge,Be a light to the country as well as to the world.
+
+Message from the Hon. Minister of Education
+
+The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan Government and myself, as the Minister of Education, to empower you all.
+
+This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders.
+
+Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence, you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim.
+
+It is your duty to give a proper value to the money spent by the government on your education. Also you should understand that education determines your future Make sure that you reach the optimum social stratum through education.
+
+I congratulate you to enjoy the benefits of free education and bloom as an honoured citizen who takes the name of Sri Lanka to the world.
+
+Akila Viraj Kariyawasam Minister of Education
+
+vi
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you all the textbooks from grades 1-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha Wickramanayaka,Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vii
+
+Monitoring and Supervision W. M. Jayantha Wickramanayaka - Commissioner General of Educational Publications Educational Publications DepartmentDirection W. A. Nirmala Piyaseeli - Commissioner of Educational Publications (Development) Educational Publications Department Co-ordination K. D. Bandula Kumara - Deputy Commissioner Educational Publications DepartmentW. Suvendra Shyamaleen Jayawardana - Assistant Commissioner Educational Publications DepartmentY. M. Priyangika Kumari Yapa - Assistant Commissioner Educational Publications DepartmentG. M. A. Dinushi N. Muhandiram - Assistant Commissioner Educational Publications Department
+
+Panel of Editors 1. Dr. A. A. L. Rathnathilaka - Senior Lecturer Department of Chemistry University of Kelaniya2. Dr. P. R. K. A. Vitharana - Senior Lecturer Department of Education University of Peradeniya 3. Dr. Nilwala Kottegoda - Senior Lecturer Department of Chemistry University of Sri Jayawardanapura4. M. P. Vipulasena - Director (Science) Ministry of Education5. R. S. J. P. Uduporuwa - Senior Lecturer National Institute of Education 6. K. V. Nandani Sriyalatha - Commissioner (retired) Educational Publications Department7. V. Rajudevan - Assistant Lecturer National Institute of Education8. P. Atchuthan - Assistant Lecturer National Institute of Education9. K. D. Bandula Kumara - Assistant Commissioner Educational Publications Department10. W. Suvendra Shyamaleen Jayawardana - Assistant Commissioner Educational Publications Department11. Y. M. Priyangika Kumari Yapa - Assistant Commissioner Educational Publications Department
+
+viii
+
+Panel of Writers
+
+1. Dr. K. Ariyasinghe - Professional Science Writer
+
+2. P. I. Wijesundara - In-Service Advisor (Science) Zonal Education Office, Udugama3. R. M .P. Bandara - Teacher Service Neluwa National School, Neluwa4. L. Gamini Jayasooriya - In-Service Advisor (Science) Divisional Education Office, Wennappuwa5. S. M. Saluwadana - Science Co-ordinator Dept. of Provincial Education North Central6. H. T. C. Gamini Jayarathne - In-Service Advisor (retired) 7. K. Indika Jayawardhana Peiris - Teacher Service Methodist High School, Moratuwa8. W. G. A. Ravindra Veragoda - Teacher Service Sri Rahula National School, Alawwa9. A. M. T. Pigera - Assistant Director of Education (retired)
+
+10. Suyama Kottegoda - Teacher Service Bandaragama Central College, Bandaragama11. M. A. P. Munasinghe - Project Officer (retired) National Insitute of Education12. T. Balakumaran - Teacher Service (retired) 13. J. Emanuvel - Principal St. Anthoney Boys School, Colombo 1314. M. M. S. Zareena - Teacher Service Budurdeen Mahmood Ladies College, Kandy15. M. M. Hareesa - Teacher Service Fathima Muslim Ladies College, Colombo 12Language Editing 1. M. R. S. K. Ganegoda - Teacher Service (retired)
+
+Cover Page, Illustrations and Page Layout1. Malaka Lalanajeewa - Graphic Designer
+
+Technical Assistance1. M. D. Tharindu Samarasinghe - Educational Publications Department 2. P. Naveen Tharaka Peiris - Educational Publications Department
+
+ix
+
+Contents
+
+page
+
+Importance of Microorganisms 01
+
+1.1 Microorganisms 01 1.2 Effects of microorganisms on food 03 1.3 Impact of microorganisms on humans and their activities 06
+
+01
+
+Animal Classification 12
+
+2.1 Main invertebrate groups 13 2.2 Main vertebrate groups 17
+
+02
+
+Diversity and Functions of Plant Parts 24
+
+3.1 Diversity and functions of plant leaves 25 3.2 Diversity and functions of plant stems 30 3.3 Diversity and functions of plant roots 33
+
+03
+
+Properties of Matter 39
+
+4.1 Discontinous nature of matter 39 4.2 Utilizing physical properties of matter 45
+
+04
+
+Sound 62
+
+5.1 Musical instruments that produce sound by vibrating membranes 65 5.2 Musical instruments that produce sound by vibrating air columns 67 5.3 Musical instruments that produce sound by vibrating strings/rods 69
+
+05
+
+x
+
+Magnets 78
+
+6.1 Poles of a magnet 79 6.2 Magnetic field of a magnet 81 6.3 Compass 83 6.4 Geomagnetism 85 6.5 Temporary magnets and permanent magnets 86
+
+06
+
+Measurements Associated with Electricity 95
+
+7.1 Electric current 95 7.2 Potential difference 99 7.3 Resistance of a conductor 103
+
+07
+
+Changes in Matter 107
+
+8.1 Physical changes and chemical changes 107 8.2 Changes of state as physical changes 109 8.3 Chemical changes 110 8.4 Combustion 115 8.5 Tarnishing of metals 119 8.6 Neutralisation 122
+
+08
+
+Science | Importance of Microorganisms1
+
+1.1 Microorganisms
+
+There are living organisms which are visible and also invisible to the naked eye in our environment. Let us do Activity 1.1 to observe the invisible living organisms.
+
+Activity 1.1
+
+You will need: - A sample of coconut water, a glass slide, a cover slip, light microscopeMethod: - ²Put the coconut water into a clean container and keep it for three days. ²Then put a drop of coconut water on to the glass slide and cover it with a cover slip. ²Observe the prepared slide through the light microscope under low power. (Get the help of your teacher) ²Present your observations through diagrams.
+
+Figure 1.1 Microorganisms in a sample of aged coconut water
+
+It is obvious that the unicellular fungal variety called 'yeast' can be observed mainly in the above sample. This organism cannot be examined to the naked eye in isolation, but can be observed through a microscope. Therefore, yeast is a microorganism.
+
+The uni-cellular (single celled) or multi cellular organisms which cannot be observed clearly by naked eye are called microorganisms.
+
+These microorganisms can be observed clearly through microscopes.
+
+Microorganisms are found in every habitat on the earth. They live and thrive in all environments such as atmosphere, water, soil, in and on living organisms including hostile environments (glaciers, deserts, hot springs, deep sea and saline environments). There is a tremendous biological diversity among microorganisms. They differ in their morphological characters as well as in their physiological mechanisms.
+
+Importance of Microorganisms1
+
+Science | Importance of Microorganisms2
+
+e.g.:- bacteria, some algae, some fungal species, protozoans like Amoeba and Paramecium
+
+You can observe some permanent slides of microorganisms in your laboratory.
+
+BacteriaYeastChlamydomonas (Algae species)
+
+Mucor (a fungal variety)AmoebaParamecium
+
+Figure - 1.2 Microscopic appearance of some microorganisms
+
+Use Figure 1.2 to identify different species of microorganisms.
+
+For extra knowledge
+
+Viruses show living features as well as non-living features. Although viruses are discussed under microorganisms, there is no conclusion yet as to whether they are living or non-living. Viruses can be observed through electron microscope.
+
+Figure 1.3 Antonie van Leeuwenhoek
+
+The Dutch scientist Antonie van Leeuwenhoek observed microorganisms for the very first time in 1674, using a simple microscope that he invented. Exploration of microorganisms was possible with further developments in microscopy.
+
+Science | Importance of Microorganisms3
+
+1.2 Effects of microorganisms on food
+
+The growth of some microorganisms on foods make them not suitable for human consumption. Do Assignment 1.1 and Activity 1.2 to observe the effects of microorganisms on food.
+
+Assignment 1.1
+
+² Get some food samples of bread, vegetables, fruits, milk, meat/fish, rice, butter in fresh condition. ² Observe their nature carefully. ² Again observe the nature of these samples after 24 hours, 48 hours and 72 hours. ² Tabulate your observations.Table 1.1- Effect of microorganisms on food
+
+Food itemFresh foodAfter 24 hoursAfter 48 hoursAfter 72 hours
+
+1. Bread
+
+colourtextureodourappearance2. .................
+
+The microbial activities change the colour, texture, odour and appearance of food. The taste and the nutritional value of food also change. Food become unfavourable for consumption due to the changes of properties. This is known as spoilage of food. The main reason for food spoilage is the growth of microorganisms on food.
+
+Activity 1.2
+
+You will need: - A slice of bread, some water, a glass slide, a cover slip, microscopeMethod: - ²Spray some water on the slice of bread and keep it for three days.
+
+²Take some of the substance grown on the slice of bread and place on the glass slide. Put a drop of water on it.
+
+²Cover the slide with a cover slip.
+
+²Observe the slide through the microscope under the low power.
+
+²Draw what you observed.
+
+Science | Importance of Microorganisms4
+
+Slice of bread with fungiFigure 1.4
+
+Microscopic view of fungi
+
+You will observe that there are some fibres and black structures on bread. They are a kind of fungi which spoils bread.So, you can observe that microbial growth causes food spoilage.The main reason for food spoilage is the growth of microorganisms on food and release of their byproducts.Let us do Activity 1.3 to study microbial activity.
+
+Activity 1.3
+
+You will need: - Sugar, yeast, a balloon, warm water (40 oC), a bottle (500 ml), a beaker/suitable containerMethod: - ²Dissolve two teaspoons of sugar in 200 ml of warm water. ²Add one teaspoon of yeast into the above sugar solution. ²Leave it for about 20 minutes and observe (Figure 1.5 a).
+
+Yeast(1 teaspoon)
+
+Sugar(2 teaspoons)
+
+Sugar and yeast mixtureFigure 1.5 (a)
+
+Science | Importance of Microorganisms5
+
+Figure 1.5 (b)
+
+BeforeAfter
+
+²Next pour a newly prepared solution into the bottle.
+
+²Then fix a balloon to the mouth of the bottle. ²Record your observations after about 20 minutes.(Figure 1.5 b).
+
+When sugar and yeast are mixed in a solution, it will bubble and become warm (Figure 1.5a/1.5b). You will smell the odour of alcohol. It is because ethyl alcohol is produced due to the activity of yeast in sugar solution.
+
+As shown in Figure 1.5 b you will see that the balloon has been inflated. This is because a gas is produced due to the activity of yeast in sugar solution. The gas produced here is carbon dioxide.
+
+Yeast is a key ingredient in bakery products. The activity of yeast forms carbon dioxide and makes the dough rise. Ethyl alcohol evaporates during the process of baking.
+
+Figure 1.6 Rising of bread due to the activity of yeast
+
+When food is exposed to air, microbes act on it very easily. This is because the environment provides suitable moisture and temperature for their growth.Microorganisms start to grow rapidly when a moist food item is exposed to an environment with favourable temperature. But if the food is refrigerated the microbial activity is minimized because the amount of moisture and temperature are controlled in a refrigerator.
+
+Science | Importance of Microorganisms6
+
+Moisture and temperature are the main factors that contribute to microbial activity. Food spoils rapidly at room temperature (25oC - 30oC). This is because room temperature is favourable for microbial growth. The enzymes produced by these microbes change the taste, odour, colour, texture and the nutritional value of the food.
+
+Microbial activities depend on the type of food.
+
+²Fermentation :- Microbial activity on food high in sugars leads to fermentation.
+
+²Putrefaction :- Microbial activity on food high in protein leads to putrefaction.
+
+²Rancidity : - Microbial activity on food high in fats leads to rancidity.
+
+A substrate, suitable temperatures and pH ranges are the factors for the growth of different microbes. Therefore, microbial activity can be controlled by controlling these factors.
+
+1.3 Impact of microorganisms on humans and their activities
+
+Some microorganisms are beneficial to humans while some are harmful. Let us do Assignment 1.2 to understand the importance of microorganisms.
+
+Assignment 1.2
+
+²Collect information about beneficial and harmful effects of microorganisms and present them to the class.
+
+Beneficial effects of microorganisms
+
+Beneficial effects of microorganisms are of several types. Some of the advantages are, usage of microorganisms in different industries, microbial decomposition of dead plant and animal matter, biological pest control.
+
+²Since ancient times man has been using microorganisms in different industries. Some examples are given in Figure 1.7.
+
+Science | Importance of Microorganisms7
+
+producing curd
+
+producing yoghurt
+
+producing cheese
+
+bakery products
+
+producing vinegar & alcohol
+
+food (mushrooms)
+
+producing antibiotics
+
+producing vaccines
+
+making compost
+
+coir industry
+
+producing bio gas
+
+Figure - 1.7 Applications of microorganisms in different industries
+
+²Microorganisms decompose dead plant and animal matter. If not these matter get collected and it affects the balance of environment. Therefore, microorganisms contribute to the well-being of the environment. ²Microorganisms are also used to control pests. This is one of the biological control methods of pests.
+
+Next let us consider harmful effects caused by microorganisms.
+
+Harmful effects of microorganisms
+
+Harmful effects of microorganisms are of several types. Food spoilage, causing infectious diseases for man, animals and crops, cause economical damage to clothes and wooden furniture are some of them.
+
+Science | Importance of Microorganisms8
+
+²Microbial activity causes food spoilage (This was discussed in section 1.2).
+
+Figure - 1.8
+
+growth of microorganisms on bread
+
+growth of microorganisms on vegetables
+
+growth of microorganisms on fruits
+
+²Microorganisms cause various infectious diseases for man, animals and crops.
+
+Infectious diseases caused to man
+
+Virus - common cold, dengue, AIDS (Acquired Immuno Deficiency Syndrome)
+
+Bacteria - tuberculosis, leprosy, typhoid fever
+
+Protozoa - malaria, leishmaniasis, amoebisis
+
+Fungi - pityriasis, sore
+
+fungi on skin (Pityriasis)deformity due to leprosy
+
+dengue haemorrhogic patientFigure - 1.9
+
+Science | Importance of Microorganisms9
+
+Infectious diseases caused to animalsAnimals get infectious diseases due to microorganisms. Figure 1.10 shows some of the examples for such diseases.
+
+a dog suffering from Rabies
+
+a cow suffering from mastitisa bull suffering from foot and mouth disease
+
+Figure 1.10 Infectious diseases caused to plants
+
+Plants get infectious diseases due to microorganisms. Figure 1.11 shows some of the examples for such diseases.
+
+a potato plant with blight
+
+papaw leaves with mosaic disease
+
+chillie plant with leaf curled disease
+
+Figure 1.11
+
+²Damage caused due to the growth of microorganisms, on surfaces of objects.
+
+Growth of microorganisms on clothes, walls of buildings and wood has been caused adverse effects on the economy. These effects are mostly caused by fungi.
+
+fungi on wooden surfaces
+
+fungi on clothes
+
+fungi on walls
+
+Figure - 1.12 Growth of microorganisms on different surfaces
+
+Science | Importance of Microorganisms10
+
+Summary
+
+²The organisms which cannot be observed by naked eye are called microorganisms. ²Microorganisms cause beneficial effects as well as harmful effects. ²Usage in various industries, decomposition of dead plant and animal matter and pest control are beneficial effects. ²Food spoilage, cause infectious diseases for man, animals and crops and damage to economically important surfaces are harmful influences caused by microorganisms. ²Nutrients, moisture, favourable temperature and favourable pH values are necessary for microbial growth. ²Food can be preserved by implementing necessary methods to control microbial activities.
+
+1) State whether the following statements are true (√) or false (×)
+
+i) Bacteria belong to the category of microorganisms. ( ) ii) A virus causes Tuberculosis. ( ) iii) Refrigerating food helps to control the temperature suitable for microorganisms. ( ) iv) Moisture and warmth are necessary factors for the growth of fungi. ( ) v) The scientist Antonie van Leeuwenhoek observed microorganisms for the first time. ( )
+
+2) Select the correct answer
+
+I. A disease not caused by a virus is
+
+1) AIDS 2) Measles 3) Leprosy 4) Rabies
+
+II. The food type that undergoes fermentation in the presence of microorganisms is 1) Food with proteins 3) Food with sugars 2) Food with lipids 4) All three types
+
+Exercise
+
+Science | Importance of Microorganisms11
+
+III. Environmental conditions, suitable for microbial growth are given below. a)Temperature b) Moisture c) pH
+
+which of the above conditions are controlled by refregerating food?
+
+1) a and b 2) a and c 3) b and c 4) a, b and c
+
+IV. The microbial activity on lipid food such as ‘dodol’/‘dothal’ and ‘kavum’/ ‘paniyaram’ is known as,
+
+1) Fermentation 2) Putrefaction 3) Rancidity 4) All the above
+
+V. A favourable impact for humans by microorganisms,
+
+1) Decomposition of dead plant and animal matter
+
+2) Cause diseases to humans, animals and crops
+
+3) Make food unsuitable for consumption
+
+4) Cause economical impact by growing on non living surfaces
+
+3) Give short answers. I. Write four examples for microorganisms II. Mention two factors required for microbial activity III. Name three products in which microorganisms are used. IV. What factor needed for microbial growth is controlled when food is stored in sugar/honey ? V. Mention two microbial applications in the field of medicine
+
+Technical Terms
+
+Microorganisms-laIqø Ôùka-~sn[QPÒ
+
+Microscopic-wKaùlaISh-~qUSUPõmi
+
+Food spoilage-wdydr krla ùu-EnÄ £ÊuøhuÀ
+
+Microbial degradation-laIqø Ôù ydhkh -~sn[Q¨ ¤›øP¯õUP®
+
+Application of microbes -laIqø Ôù Ndú;-~sn[QPÎß ¤μ÷¯õP®
+
+Infectious diseases-fndajk frda.-öuõØÖ ÷|õ´PÒ
+
+Science | Animal Classification12
+
+There is a vast diversity among animals that live in our environment.It is easy to study about them by classifying organisms, based on different criteria. Grouping of animals in a systematic way by considering their common features is known as animal classification.Animals can be classified on different criteria.In grade 7 you learnt how to classify animals based on presence or absence of a vertebral column (backbone).Let us do Activity 2.1 from the knowledge and facts you learnt in grade 7.
+
+Activity 2. 1
+
+Method:- ²Observe given pictures of the animals living in your surroundings. ²Divide and tabulate them into two groups using the feature, presence or absence of a vertebral column.
+
+Snail Crab Yellow fin tuna
+
+CockButterflyDog
+
+PythonSpiderLionFigure 2.1
+
+Animal Classification2
+
+Science | Animal Classification13
+
+Among those animals, yellow fin tuna, dog, cock, python and lion have a backbone. Snail, crab, butterfly and spider do not have a backbone.
+
+The animals without a backbone / vertebral column are known as invertebrates while the animals with a backbone / vertebral column are known as vertebrates Therefore, animals can be classified into two groups;
+
+² Invertebrates
+
+² Vertebrates
+
+2.1 Main invertebrate groups
+
+Engage in Assignment 2.1 to study about invertebrates.
+
+Assignment 2.1
+
+²Observe given diagrams of the invertebrate animal species. ²Classify them based on different criteria.
+
+LeechBivalveBeetle
+
+slugDragonflySea anemone
+
+Figure 2.2
+
+You have already classified the animals based on different criteria.
+
+Science | Animal Classification14
+
+Invertebrates are scientifically classified by using their common features.Some of the groups are given below.
+
+1. Cnidaria
+
+2. Annelida
+
+3. Mollusca
+
+4. Arthropoda
+
+Let us consider the features of each of the above groups.
+
+CnidariaThe animals belong to Cnidaria are predators and they live in water. Hydra, sea anemone, jellyfish are some examples for the group of Cnidaria.
+
+Figure 2.3 Some Cnidarians
+
+HydraSea anemoneJellyfish
+
+The features of Cnidaria are given below.
+
+Mouth
+
+Tentacles
+
+Figure 2.4 Body form of Cnidarian (Hydra)
+
+²Cnidarians have radially symmetrical body (If the body of an animal can be divided into two equal halves along several axes we call it a radially symmetrical animal). ²There are two forms as Polyps and Medusa. (Polyps are fixed to the substrate and lead a sedentary life while Medusa are free floating organisms) ²They cripple small creatures with their special tentacles having cnidocytes and use them as food.
+
+Science | Animal Classification15
+
+For extra knowledge
+
+The coral polyps belong to the Cnidaria group build up coral reefs.
+
+AnnelidaAnnelids live in both marine and fresh water environments as well as in wet terrestial environments. Earthworm, leech, Nereis are some examples for Annelids.
+
+Figure 2.5 Some Annelids
+
+EarthwormLeechNereis
+
+Common features of Annelids are given below.
+
+²Body is bilaterally symmetrical (If the body of an
+
+Figure 2.6 Body form of an Annelid (earthworm)
+
+Segments
+
+MouthAnus
+
+animal can be divided into two equal halves along one axis we call it a bilaterally symmetrial animal).
+
+²They are vermiform (worm-like body shape).
+
+²Body is divided into segments. Therefore, known as segmented worms.
+
+MolluscaMolluscs live in terrestial, marine and fresh water environment. Snail, bivalve, chiton, slug, cuttle fish, octopus are some examples for Molluscs.
+
+SnailBivalveOctopusFigure 2.7 Some Molluscs
+
+Science | Animal Classification16
+
+The features of Molluscs are given below.
+
+²They are bilaterally symmetrical. ShellAntenna
+
+Mouth
+
+Muscular foot
+
+Figure 2.8 Body form of a molluscs (Snail)
+
+²Soft bodied animals.
+
+²Possess a muscular foot.
+
+²Possess a skin moistened with mucus.
+
+²Some Molluscs bear shells.
+
+Arthropoda
+
+Arthropods live in terrestial as well as in aquatic environments. Arthropoda is the group to which the highest number of animals belongs. Insects, spiders, scorpions, millipedes, centipedes, prawns, crabs are some organisms that belong to the group Arthropoda.
+
+Figure 2.9 Some Arthropods
+
+ButterflyScorpionCentipedePrawn
+
+Features of Arthropods are given below.
+
+Jointed appendages
+
+Wings
+
+Eyes
+
+Antenna
+
+Figure 2.10 Body features of an Arthropoda (Insects)
+
+²Arthropods are bilaterally symmetrical.
+
+²Their body possesses an external skeleton/exoskeleton.
+
+²Some species possess wings.
+
+²Arthropods have externally segmented body.
+
+²All Arthropods have jointed appendages.
+
+Figure 2.8 Body form of a molluscs (Snail)
+
+Science | Animal Classification17
+
+Assignment 2.2
+
+²Collect the bodies of dead insects.
+
+²Get a box (wood, metal or card board) and fix a piece of styrofoam to the bottom of the box.
+
+²Fix the bodies on the styrofoam using long pins.
+
+²Paste a name tag for each insect. (Discuss with your teacher how to keep the bodies of insects without decaying)
+
+Figure 2.11 Insect box
+
+2.2 Main vertebrate groups
+
+Engage in Assignment 2.3 to study about vertebrates.
+
+Assignment 2.3
+
+²Observe the given pictures of different vertebrate animal species.
+
+²Classify them using different criteria.
+
+Blue fin tunaTurtleCrocodile
+
+Common commorant Hawk
+
+ChimpanzeeBat
+
+Toad
+
+Salamander
+
+Figure 2.12
+
+Science | Animal Classification18
+
+Now you can classify vertebrates based on different criteria.Vertebrates can be scientifically classified depending on their common features.Let us discuss the features of each of these groups.
+
+1. Pisces 2. Amphibia 3. Reptilia 4. Aves 5. Mammalia
+
+Pisces
+
+Fish, the group of animals well adapted to live in water belong to Pisces. Tilapia, skate, shark, blue fin tuna, sear, gold stripped sardine, sprat are some fish that belong to Pisces.
+
+Figure 2.13 Some PiscesTilapiaSharkSkateBlue fin tuna
+
+Features of Pisces are given below.
+
+²Body is invariably streamlined. This feature helps them to swim through water. ²The body is covered with scales. ²Has fins to swim through water and to balance while swimming. ²Respiration through gills ²Possess eyes without eye lids.
+
+Amphibia
+
+Amphibians spend part of their life cycle in water. Frogs, toads, salamanders, Ichthyophis are some animals that belong to the group Amphibians.
+
+Figure 2.14 Some Amphibians
+
+FrogToadSalamanderIchthyophis
+
+Science | Animal Classification19
+
+Features of Amphibians are given below.
+
+²Undergo metamorphosis. ²Skin is thin, moist and glandular. No scales in the skin. ²Some species use limbs for locomotion. ²Respiration is carried out by lungs, through wet skin or mouth.
+
+ReptiliaReptiles belong to this group. They are well-adapted for the terrestrial environment. Tortoise, turtle, cobra, python, viper, krait, lizard, monitor, iguana, crocodile belong to this group.
+
+ViperFigure 2.15 Some ReptilesTortoiseCrocodileCobra
+
+Features of Reptilia are given below. ²Possess a dry skin with scales. No glands are present in the skin. ²Use limbs for locomotion. But some reptiles are limbless. They are adapted for crawling ²Respiration through lungsAvesBirds belong to the group Aves. They are well-adapted for flying. Blue magpie, swan, owl, parrot are some examples for Aves.
+
+Figure 2.16 Some Aves
+
+Swan
+
+ParrotBlue magpie
+
+Owl
+
+Science | Animal Classification20
+
+Features of Aves are given below.
+
+²Streamlined body is designed for flying.
+
+²Body is covered with feathers.
+
+²Possess limbs for locomotion. Forelimbs are adapted as wings.
+
+²They do not have teeth but the beak is adapted for feeding.
+
+²Breathe using lungs.
+
+There are some birds that cannot fly. Some examples are given below.
+
+PenguinKiwiRhea
+
+Ostrich
+
+Cassowary
+
+Emu
+
+For extra knowledge
+
+Mammalia
+
+These animals feed on mother's milk. Man, rat, loris, orangutan, gorilla, chimpanzee, bat, whale, dolphin, stag, deer are some examples for mammals.
+
+Science | Animal Classification21
+
+Figure 2.17 Some Mammals
+
+Gorilla
+
+DeerLoris
+
+Dolphin
+
+Features of Mammalia are given below.
+
+²Has mammary glands. ²Skin has sweat glands, sebaceous glands and hair. ²Possess an external ear with ear lobe. ²Mammals have lungs to breathe.
+
+Assignment 2.4
+
+²Collect some pictures of mammals.
+
+²Collect information about them.
+
+²Prepare a booklet allocating one page for each animal. (Consider about the cover page, foreword, contents, acknowledgement etc.)
+
+By studying this lesson, you have identified that there is a wide diversity among animals. You can further study about them by visiting zoological gardens and wildlife parks. All animals contribute immensely to maintain the balance of the environment.
+
+Science | Animal Classification22
+
+Summary
+
+²There is a vast diversity among animals in the environment. ²Animals with a backbone / vertebral column are known as Vertebrates and animals without a backbone / vertebral column are known as Invertebrates. ²Considering the common features, invertebrates can be classified into different groups. Cnidaria, Annelida, Mollusca and Arthropoda are some groups of Invertebrates. ²Considering the common features, vertebrates can be classified into different groups as Pisces, Amphibia, Reptilia, Aves and Mammalia.
+
+1. Select the most suitable answer.
+
+i' The group of animals, not belonging to invertebrate is,
+
+1' Annelida 2' Cnidaria
+
+3' Amphibia 4' Arthropoda
+
+ii. The group with highest number of animals is,
+
+1' Aves 2' Athropoda
+
+3' Mollusca 4' Mammalia
+
+iii. An animal belonging to Reptilia group is,
+
+1' shark 2' salamander
+
+3' whale 4' turtle
+
+2. Fill in the blanks.
+
+i' Sea anemone belongs to ''''''''''''''''''''''''' group.
+
+ii' Possessing segmented appendages is a feature of ''''''''''''''''''''''''''''''''' group.
+
+iii …………………….. breathe using lungs, wet skin and the mouth.
+
+Exercise
+
+Science | Animal Classification23
+
+3. Name the invertebrate group that bears each of the features given below.
+
+i' Muscular foot - '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+ii' Worm-like segmented body - '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+iii' Jointed appendages - '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+iv' Radial symmetry - '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+4. Write down the answers.
+
+i' Name two forms of Cnidaria with an example for each form.
+
+ii' Name four Arthropods that can fly.
+
+iii. Give three basic features of Mammalia.
+
+iv. Give three basic features of Aves.
+
+Technical Terms
+
+Classification-j¾.SlrKh-£õS£õk
+
+Radial symmetry-wÍh iuñ;sh-Bøμa \©a^º
+
+Bilateral symmetry-oaúmd¾Yaúl iuñ;sh-C¸£UPa \©a^º
+
+Morphological features-rEmSh ,laIK-E¸ÁÂ¯À C¯À¦PÒ
+
+Invertebrates-wmDIaGjxYSka-•ÒÍ¢usi¼PÒ
+
+Vertebrates-mDIaGjxYSka-•ÒÍ¢uskÎPÒ
+
+Cnidaria-ksvdßhdjka-{hõ›¯õ / SÈUSh¼PÒ
+
+Annelida-wefk,svd-AÚ¼hõ / xsh¨ ¦ÊUPÒ
+
+Mollusca-fud¨iald-ö©õ»ìPõ / ö©ßÝh¼PÒ
+
+Arthropoda-wdf;%dfmdavd-Bzvμ¨÷£õhõ / ‰mkUPõ¼PÒ
+
+Pisces-msiaflaia-¤ìéì / «ßPÒ
+
+Amphibia-weï*sìhd-A®¤¯õ / D¹hPÁõÈPÒ
+
+Reptilia-frmaà,shd-öμ¨Ÿ¼¯õ / FºÁÚ
+
+Aves-wdfõia-B÷Áì / £ÓøÁPÒ
+
+Mammalia-uefï,shd-©÷©¼¯õ / £õ¿miPÒ
+
+Science | Diversity and Functions of Plant Parts24
+
+Plants in our environment show an enormous diversity as animals. Observe the diversity of plants in the forest shown in Figure 3.1.
+
+Figure 3.1 A rain forest
+
+The major reason for the beauty and the wonder of a forest is the diversity of plants. Plants differ each other in its size and morphological features. The reason for this vast diversity is the adaptations of plants to survive in different environments.You have already learnt the parts of a plant in grade 7.Recall what you have learnt and engage in Activity 3.1 to study further about the parts of a plant.
+
+Activity 3.1
+
+You will need : - 'Kuppameniya'/'kuppaimani' or a 'monarakudumbiya'/ 'seethaviyar selugkaluner' plant.Method : - ²Uproot the plant from the soil without damaging the root system, and wash properly. ²Observe the plant and identify its parts. ²Draw a diagram and name the parts.
+
+Diversity and Functions of Plant Parts3
+
+Science | Diversity and Functions of Plant Parts25
+
+Figure 3.2 Parts of a plant
+
+Shoot system
+
+Flowers
+
+Fruits
+
+Leaves
+
+Stem
+
+Root system
+
+Tap root
+
+Lateral roots
+
+Figure 3.2 shows the main parts of a plant.
+
+Compare your diagram with the given figure.Every flowering plant consists of fruits, leaves, stem and roots. But they do not appear same in every plant. They have an extensive diversity. Let us have a review about the diversity and the functions of leaves, stem and roots of a plant.
+
+3.1 Diversity and functions of plant leaves
+
+Leaves are considered as the most significant part of a plant. Most of the leaves are green in colour. The main function of a leaf is photosynthesis. Food is produced in plants having chlorophyll by using carbon dioxide, water and light energy. This process is known as photosynthesis.
+
+Plant leaves are well adapted for efficient photosynthesis. Let us do Activity 3.2 to study about this.
+
+You will need : - Some leaves of jak, mango, temple flower and maniocMethod : -
+
+²Observe the leaves well.
+
+²Compare the thickness of the leaves.
+
+²Draw the area of the leaves on a square ruled sheet and compare them.
+
+Activity 3.2
+
+Figure 3.3
+
+Science | Diversity and Functions of Plant Parts26
+
+For the purpose of photosynthesis a leaf is typically flat and thin to expose to light over a broad area and allow light to penetrate fully into the tissues.
+
+Thick and fleshy leaves can also be seen as an adaptation to adverse (arid) environmental conditions.
+
+e.g:- Aloe, temple flower, yellow oleander (kaneru)
+
+Figure 3.4 shows the parts of a leaf.
+
+Figure 3.4 Parts of a leaf
+
+Base
+
+Veins
+
+Tip
+
+Margin
+
+Lamina/bladePetiole/leaf stalk
+
+Does every leaf have the same shape of petiole, margin, base and tip? Do Activity 3.3 to study about it.
+
+Activity 3.3
+
+You will need : - Some leaves that can be found in your environment (e.g: mango, papaw, rose, temple tress, 'Bo leaf'/zarasa illaiZ)Method: - ²Obtain leaves from different plants in your environment. ²Observe the leaves and draw pictures having different blades, bases, margins and tips.
+
+When you observe the blades of these leaves you will understand that they have different shapes (Figure 3.5).
+
+'Gotukola'/ ʻVallaraiʼ'Kottamba' / ʻKottankachchiʼRadishMango'Kohila'/ ʻKohilaiʼFigure 3.5 Diversity of leaf blades
+
+Science | Diversity and Functions of Plant Parts27
+
+You would have observed that there is a wide variation in leaf structure. That is due to their adaptations for the main function as well as various other functions.
+
+Study the following diagrams and identify further the diversity of leaves. If you observe the tips of those leaves you will notice that the tips are different as sharp, curved, pointed, divided etc (Figure 3.6).
+
+'Niyangala'/ 'Karthikaipoo'
+
+jak
+
+'Bo' leaf/'Arasa ilai'
+
+'Koboleela'/'Thiruvaththi'
+
+Temple trees
+
+Figure 3.6 Diversity among leaf tips
+
+The margins can be serrate or smooth. (Figure 3.7)
+
+Figure 3.7 Diversity among leaf margins
+
+RoseHibiscus/Shoe FlowerBegonia'Akkapana''Sadaikaraichan'Temple trees
+
+The bases and the petiole of leaves too have different forms (Figure 3.8).
+
+'Kohila''Bo' leafTemple treesShoe flowerLotus
+
+Figure 3.8 Diversity among leaf base
+
+When you observe the environment you will be able to study more about other adaptations of leaves.
+
+Science | Diversity and Functions of Plant Parts28
+
+Leaf arrangementThe leaves are fixed to the stem in a way to expose all the leaves to the sun light. The pattern of fixing the leaf to the stem of a plant is known as leaf arrangement. Leaf arrangment supports efficient photosynthesis. Some leaf arrangements are given below.
+
+² Leaves are on alternate sides of the stem.
+
+Figure 3.9 'Anona' ('Katu Anoda')/ 'Annamunna'
+
+Figure 3.10 Guava
+
+² Leaf attachments paired at nodes and in opposite directions.
+
+² Three or more leaves attach at each node on the stem in a whirl.
+
+Figure 3.11 'Rukkaththana'/ 'Earlilaippalai'
+
+Figure 3.12 'Kanda'/'Vattakkanni'
+
+² Leaves are attached in a spiral manner around the stem.
+
+² Observe the environment and identify the leaf arrangements as much as possible. ² Complete the given table using your observations.Table 3.1
+
+Leaf arrangementExamples of treesLeaves are on alternate sides of the stem.''''''''''''''''''''''''''''''''''''''Leaf attachments paired at nodes and leaves in opposite directions.''''''''''''''''''''''''''''''''''''''
+
+Three or more leaves attach at each node on the stem in a whirl.''''''''''''''''''''''''''''''''''''''
+
+Leaves are attached in a spiral manner around the stem.''''''''''''''''''''''''''''''''''''''
+
+Assignment 3.1
+
+Science | Diversity and Functions of Plant Parts29
+
+Let us now consider the other functions of leaves.
+
+Figure 3.13 Internal structure of a leaf
+
+Stomata
+
+²Transpiration is the process of evaporation of water from plants (Figure 3.13). It mainly takes place through stomata in leaves. Transpiration helps to transport water to the upper parts of the plant.
+
+The leaves of plants in arid environments, are adapted to minimize transpiration.
+
+Some adaptations are given below.
+
+² Thick, waxy cuticle e.g. - temple trees, oleander ² Leaves reduced to spines e.g. - cactus ² Thin leaves e.g. - 'kasa' / 'savukku'
+
+² Reduced number of leaves e.g. - 'navahandi' / 'kally', 'heerassa'/'pirattai'
+
+Figure 3.14 Adaptations to minimize transpiration
+
+Temple treesCactus'Kasa'
+
+²Some leaves are adapted to store water. They have become fleshy because they have specialized tissues to conserve water (Figure 3.15).
+
+Figure 3.15 Plants with water storage leaves
+
+'Akkapana'Aloe
+
+Science | Diversity and Functions of Plant Parts30
+
+²Some leaves produce new plants through asexual reproduction. e.g. :- 'Akkapana', 'begonia'Let us do Activity 3.4 to study how some plant leaves produce new plants.
+
+Activity 3.4
+
+You will need : - some leaves of plants such as akkapana, begonia, peparomiaMethod : - ²Make a small cut at the veins of the above mentioned leaves and cover the place with soil. ²Keep them watering for several days. ²After 3-4 days observe the roots near the veins of the leaves. ²Find other ways of getting plants from leaves.
+
+'Akkapana'Begonia
+
+PeparomiaFigure 3.16 3.2 Diversity and functions of plant stems
+
+The basic functions of a stem are supporting and bearing leaves, buds, flowers, fruits, seeds of the plant and keeping the plant upright. Also the stem transports water and minerals throughout the plant. Most stems are found above the ground. Some stems grow underground and are known as underground stems.
+
+In addition to the basic functions, stems have adapted to fulfill other functions. Let us study the diversity of stems based on their adaptations.
+
+²Most stems produce new living tissues allowing plants to grow and reproduce. These stems are known as propagative stems. Given below are some examples for propagative stems (Figure 3.17, 3.18).
+
+'Gotukola''Undupiyaliya'/ 'Sirupulladi''Ambul ambiliya'/ 'Puliyarai'Figure 3.17 Some plants reproduced by runners/ stolon
+
+Science | Diversity and Functions of Plant Parts31
+
+BananaPaddy'Kalanduru'/ 'Paalargu'Figure 3.18 Some plant species re-produced by Suckers
+
+²Some plants store food in aerial stems (Figure 3.19).
+
+Sugarcane'Kithul'Figure 3.19 Some plants with storage stems
+
+²Some underground stems serve the functions of storage of food perennation and sexual propagation. During the adverse seasons the aerial parts get destroyed but the underground stem survives. During favourable seasons new sprouts come out from the underground stem using stored food (Figure 3.20).
+
+PotatoGingerTurmericOnionFigure 3.20 Some plants reproduced by underground stem
+
+Science | Diversity and Functions of Plant Parts32
+
+²Some stems are green and photosynthetic. Such stems are called photosynthetic stems (Figure 3.21).
+
+Cactus'Daluk' / 'Sathurakkalli'Figure 3.21 Some photosynthetic stems
+
+²Some plants fix to a support to climb up and absorb sunlight efficiently. Such stems are called climbing stems (Figure 3.22).
+
+Figure 3.22 Some plants with climbing stems
+
+'Venival/ Maramanjal'Beans
+
+Science | Diversity and Functions of Plant Parts33
+
+² Complete Table 3.2 using examples for each type of stems which have adapted to carry out the functions given below.
+
+Table 3.2Propagative stemsAerial stems with food storageUnderground stemsPhotosynthetic stems
+
+Assignment 3.2
+
+3.3 Diversity and functions of plant roots
+
+The basic function of root is to anchor the plant in the soil, absorb water and minerals. There are some roots adapted to satisfy other functions.
+
+Other than the tap root and its branches, there are roots which arise from other parts of the plants. These roots are known as adventitious roots.
+
+There are roots that adapted to fulfill many other functions. They are given various names.
+
+²Tuberous roots - The roots that are swollen due to storage of food are known as tuberous roots. Some tuberous roots allow the plant to survive in unfavourable seasons. Food can be stored either in the tap root or in adventitious roots.
+
+• Storage of food in tap root
+
+CarrotRadishBeetFigure 3.23 Some plants that store food in tap root
+
+Science | Diversity and Functions of Plant Parts34
+
+• Storage of food in adventitious roots
+
+Dahlia
+
+ManiocSweet potatoFigure 3.24 Some plants that store food in adventitious roots
+
+²Prop roots - Adventitious roots that arise from branches. They penetrate the soil and helps to support branches.
+
+Banyan Tree'Rath kadol '/ 'Sen kandal'Figure 3.25 Some plants with prop roots
+
+²Stilt roots - Adventitious roots arise from the stem, grow below the ground and support the stem.
+
+'Vetakeyya'/'Thalai' 'Rampa''Maha kadol'/'Perung kandal'Figure 3.26 Some plants with stilt roots
+
+Science | Diversity and Functions of Plant Parts35
+
+² Climbing /Clasping roots - Roots that help the climbing stem/ creepers to fixto a surface/support.
+
+PepperBetelFigure 3.27 Some plants with climbing roots
+
+²Aerial roots - These roots absorb moisture from the atmosphere and supply the plant. These specialized roots can be found mostly in epiphytes.
+
+OrchidVanillaFigure 3.28 Some plant with aerial roots
+
+² Respiratory roots - These roots absorb air from the atmosphere and supply to the plant. They are specialized roots which can be found mostly in mangroves.
+
+Sonneratia
+
+'Maha kadol'Figure 3.29 Some plants with respiratory roots
+
+Science | Diversity and Functions of Plant Parts36
+
+²Propagative roots - These roots produce new plants.
+
+Curry leavesGuava'Beli/Vilvam'Figure 3.30 Some plants with propagative roots
+
+Collect some root specimens and study them. Consider the necessary steps that should be taken to conserve these roots.
+
+Assignment 3.3
+
+Plan a field visit to observe the nature and the diversity of plants. Study the adaptations of plants and relate them to their functions.
+
+Assignment 3.4
+
+Plants play a vital role in the environment. Therefore, it is your duty to explore and collect specimens with minimum damage to the environment.
+
+Science | Diversity and Functions of Plant Parts37
+
+Summary
+
+²The major parts of a plant are roots, stem, leaves, fruits and flowers. ²There is vast diversity among parts of the plants. Adaptation of plant parts to their functions is the reason for this vast diversity. There are some plant parts that exhibit special adaptations. ²The basic function of a leaf is photosynthesis. Some leaves are adapted to store food and water and also for propagation. ²The basic function of a stem is to hold leaves, flowers, fruits and transport water and minerals throughout the plant. ²Some stems are adapted for photosynthesis, to climb up, propagation and to store food. ²The basic function of roots is to anchor the plant in the soil, absorb water and minerals. ²Tuberous roots, prop roots, stilt roots, climbing roots, aerial roots and respiratory roots are adapted for special functions. ²The reason for vast diversity among plants is their functions and adaptations to survive in different environments.
+
+1) Write the main function of the given plant parts.
+
+a) Plant leaves ....................................
+
+b) Stem ..........................................
+
+c) Roots ..........................................
+
+2) Write the special adaptations of the following plant roots/stems/leaves.
+
+i.Cactusv. Sweet potatoix.'Niyangala'ii.Carrotvi. Pepperx. Orchid
+
+iii.Banyanvii. Begoniaxi. Guavaiv.Aloeviii. 'Navahandi'xii. 'Rampa'
+
+Exercise
+
+Science | Diversity and Functions of Plant Parts38
+
+3) Fill in the blanks.i) The pattern in which leaves grow on the stem is known as ………………..ii) Sugarcane, palmyrah are examples for ………………. stems.iii) The leaves of the cactus tree reduced to spines is an adaptation to minimize ………………….iv) Curry Leaves, beli, bread fruit trees often use the ……………………. for propagation.v) Respiratory roots are specialized roots that can be seen in ………...……… plants.
+
+Technical Terms
+
+Diversity of leaves-m;%j, úúO;ajh-Diversity of stems-l|kaj, úúO;ajh-Diverstiy of roots-uq,aj, úúO;ajh-Photosynthetic stems-m%NdixYaf,aIl l|ka -Climbing stems-wdfrdayl l|ka-Propagative stems-m%pdrK l|ka-Underground stems-N+.; l|ka-
+
+Tuberous stems-wdlka§ l|ka-Tuberous roots-wdlka§ uq,a-Prop roots-lre uq,a-
+
+Stilt roots-lhsre uq,a-
+
+Aerial roots-jdhj uq,a-
+
+Respiratory roots-Yajik uq,a-
+
+Storage roots-ixÑ; uq,a-Propagation-m%pdrKh-
+
+Diversity of leaves-m;%j, úúO;ajh-Cø»PÎß £ÀÁøPø©
+
+Diversity of stems-l|kaj, úúO;ajh-uskPÎß £ÀÁøPø©
+
+Diverstiy of roots-uq,aj, úúO;ajh-÷ÁºPÎß £ÀÁøPø©
+
+Photosynthetic stems-m%NdixYaf,aIl l|ka-Cø»zöuõÈÀ uskPÒ
+
+Climbing stems-wdfrdayl l|ka-HÖ® uskPÒ
+
+Propagative stems-m%pdrK l|ka-CÚ®ö£¸US® uskPÒ
+
+Underground stems-N+.; l|ka-{»URÌz uskPÒ
+
+Tuberous stems-wdlka§ l|ka-•QÊ¸ÁõÚ uskPÒ
+
+Tuberous roots-wdlka§ uq,a-•QÊ¸ÁõÚ÷ÁºPÒ
+
+Prop roots-lre uq,a-uõ[S®÷ÁºPÒ
+
+Stilt roots-lhsre uq,a-ªsi÷ÁºPÒ
+
+Aerial roots-jdhj uq,a-PõØÔØS›¯ ÷ÁºPÒ
+
+Respiratory roots-Yajik uq,a-‰a_÷ÁºPÒ
+
+Storage roots-ixÑ; uq,a-÷\ª¨¦ ÷ÁºPÒ
+
+Propagation-m%pdrKh-CÚ¨ö£¸UP®
+
+Science | Properties of Matter39
+
+4.1 Discontinous nature of matter
+
+The environment around us is composed of matter and energy. Recall the facts you learnt in grade 6 about matter and energy. To validate that knowledge further, do Assignment 4.1.
+
+Assignment 4.1
+
+Classify and tabulate following items as matter and energy. Air, water, ball, light, bulb, sound, table, chair, electricity, heat, magnet
+
+Table 4.1
+
+MatterEnergyairlight
+
+Of the above, air, water, ball, bulb, table, chair and the magnet require space and have a mass. Such things are known as matter. When considering light, sound, heat and electricity, they do not occupy space and have no mass. They are considered energy. Components of the environment such as soil, water and rocks and the man made structures and various equipments are examples for matter.
+
+Evidence for discontinuous nature of matter
+
+An acceptable notion about the nature of matter was first put forward by the Greek philosopher Democritus who lived in the era 460-370 B.C. According to him, matter is made of very small particles. Later, the Greek philosopher Aristotle (384-270 B.C.) stated that matter is not composed of particles. It is said that in Athens of Greece, a public debate was held between the proponents of Aristotle and Democritus. The idea that "matter is particulate in nature" became victorious at that debate and later modern scientists confirmed experimentally the fact that matter is made up of particles. The status matter exists as a collection of particles with spaces among them is known as discontinuous nature or particulate nature of matter.
+
+4
+
+Properties of Matter
+
+Science | Properties of Matter40
+
+Matter can be classified as solid, liquid and gas according to its physical nature.Various activities can be done to confirm the discontinuous nature of solid, liquid and gaseous matter.Discontinuous nature of solid matter
+
+Take a piece of chalk and break it into two pieces. Break one of those pieces again into two pieces. Likewise, break the pieces you get successively till you obtain the smallest possible particle.
+
+When the initial piece was broken into two, you would have got two smaller pieces. When the chalk is broken again and again we get more and more smaller pieces. The smallest piece of chalk that we obtain like this without changing the properties of chalk is called a chalk particle. Accordingly, you would be able to imagine that a piece of chalk is formed by the union of a large number of chalk particles. The piece of chalk which is a collection of small particles has a particulate nature. There are spaces among those particles.Let us do Activity 4.1 to investigate the discontinuity of solid matter.
+
+Activity 4.1
+
+You will need:- A container of water, a watch glass, blue or red ink, a few crystals of potassium permanganate, a piece of white chalkMethod:- ²Add a small amount of blue/red ink or a potassium permanganate solution to a watch glass. Take a piece of chalk and place one end of it on ink or the solution. Record your observations.
+
+Figure 4.1
+
+inkchalkchalk on ink
+
+When the piece of chalk is placed on the blue/red ink or the potassium permanganate solution in the watch glass, you can see the colour soaking up through the piece of chalk. The ink is able to move up because the piece of chalk is discontinuous. It is because the piece of chalk consists of a large number of very small particles, each with the properties of chalk, and a large number of spaces through which the coloured particles can move. This activity confirms that solid matter is discontinuous.
+
+Science | Properties of Matter41
+
+Figure 4.2 A gold ring that came into contact with mercury
+
+Have you heard what happens when mercury comes into contact with items made of gold? In such an event, we will be able to observe mercury particles in the item of gold. The reason for this is the movement of mercury particles through the gold particles because gold is discountinuous. Because of this, when gold objects come into contact with mercury they get damaged.
+
+Assignment 4.2
+
+² Plan and implement simple activities to show that solid matter is particulate in nature.
+
+Let us next consider about the discontinuous nature of liquid matter.Discontinuous nature of liquid matter Take a small volume of water and divide into two portions. Divide one of them again into two portions. Likewise, divide one half again and again until you get the smallest possible volume.Even though the small volume of water was divided into two, both volumes contain water. Even at the moment when the volume becomes extremely small after repeated divisions, water is the substance which occupies that volume. In such a way, the smallest volume of water that can be obtained while retaining the properties of water can be called a water particle. Hence, water is formed by the assembling of a large number of water particles with one another.Let us engage ourselves in Activity 4.2 to look into the discontinous nature of liquid matter.
+
+Activity 4.2
+
+You will need:- A watch glass, a beaker with water, potassium permanganate/coloured inkMethod:- ²Fill a beaker in half with water and put a crystal of potassium permanganate into it. Record the observations after about five minutes. Then, shake the water in the beaker gently. State the observations. ²Add a drop of coloured ink to a beaker containing water. Record the observations.
+
+(a) water beaker with potassium permanganate(b) water beaker with coloured ink
+
+bbk
+
+Figure 4.3
+
+Science | Properties of Matter42
+
+It can be observed that the colour of the potassium permanganate crystal placed in the beaker of water gradually spreads in water. It happens because the potassium permanganate particles move into spaces among the water particles. When a drop of ink is added to a beaker of water, the water gradually becomes coloured due to the movement of ink particles among water particles. Hence, it is clear that liquid matter also has a particulate nature.
+
+Assignment 4.3
+
+Plan and implement some simple activities to demonstrate that liquid matter is particulate in nature.
+
+Discontinuous nature of gaseous matterLet us conduct Activity 4.3 to verify that gases are discontinuous.
+
+Activity 4.3
+
+You will need:- Two gas jars, nitrogen dioxide gas, joss stick, a few drops of perfumeMethod:- ²Fill a gas jar with brown-coloured nitrogen dioxide gas and close it with another gas jar. Record your observation after two minutes. (Do this as a teacher demonstration.) ²Light a joss stick. ²Place some perfume in a watch glass and leave for some time. ²Record observations.
+
+Figure 4.4 Spread of nitrogen dioxide gas in gas jars
+
+of nitrogen
+
+Figure 4 4
+
+Spre
+
+When a gas jar is filled with brown nitrogen dioxide gas and an inverted gas jar containing air is placed over it, mixing of the two gases can be observed.The reason for this movement of the nitrogen dioxide particles is the existence of spaces among the air particles.The scent of the lighted joss stick spreads throughout the classroom. While the smell of perfume diffuses across the classroom, you would be able to see that the perfume had got removed from the watch glasses. We get its smell because its particles have moved through air and entered our nose during the spread of particles.This leads to the explanation that gaseous matter too is particulate in nature.
+
+Science | Properties of Matter43
+
+Assignment 4.4
+
+Plan and implement with your teacher simple activities to support the fact that gaseous matter has a particulate nature.
+
+Based on the above, we can conclude that all matter (solid, liquid or gas) is composed of particles and there are spaces among those particles. Thus, we can conclude that matter is discontinous.4.1.1 Physical properties of matter in relation to its particulate nature
+
+It is the difference in the organisation of particles that leads to the variation of the specific characteristics of the three states in which matter exists. This can be illustrated as follows.
+
+Organisation of particles in a solid
+
+Solid
+
+²Particles are orderly arranged.
+
+²Particles are strongly bound to each another.
+
+²Particles do not move relative to one another, but can vibrate in the same positions.
+
+²Space among particles is less.
+
+Organisation of particles in a liquid
+
+Liquid
+
+²Particles are not orderly arranged.
+
+²Though, the particles are close to one another, the binding forces are not as strong as in a solid.
+
+²The particles can move within the liquid.
+
+²Space among particles is less, but higher than that of a solid.
+
+Organisation of particles in a gas
+
+Gas
+
+²Particles are not orderly arranged.
+
+²Binding forces among the particles are very weak.
+
+²Particles move freely and randomly.
+
+²Much space is left among the particles.
+
+Science | Properties of Matter44
+
+The reason for the variety of physical properties of solid, liquid and gaseous matter is the diversity of their prticular arrangement. Let us have a look at Table 4.2 which presents these differences.Table 4.2PropertySolidLiquidGasShapeHas a definite shapeNo definite shape. (Takes the shape of the occupied part in the container)
+
+No definite shape. (Takes the shape of the occupied part in the container)VolumeHas a fixed volumeHas a fixed volume.(Does not spread throughout the entire volume of the container)
+
+No fixed volume. (Spreads throughout the entire volume of the container)
+
+CompressibilityConnot be compressed easily.Cannot be compressed easily.Can be compressed easily.
+
+DensityHas a high densityHas a high densityDensity is low
+
+A solid has a definite shape because the particles forming it are organised in a regular pattern and are strongly bonded. Liquids and gases lack a definite shape because their particles are not arranged orderly.
+
+Solids and liquids have a definite volume, but gases do not have a definite volume. This is because the gas particles spread freely and occupy the entire volume of the container as the binding forces among gaseous particles are very weak.
+
+Compression means the decrease in volume of matter by increasing pressure. Solid and liquid matter cannot be compressed easily. However, gaseous matter can be compressed easily. In order to compare the compressibility of liquids and gases let us do Activity 4.4.
+
+Activity 4.4
+
+You will need:- Two identical syringes, water, nitrogen dioxide gasMethod:- ²Draw water into one syringe until half of it is filled with water. ²Take an equal volume of nitrogen dioxide gas to the other syringe. (Do this as a teacher demonstration.) ²In both syringes close the open end and push the piston forward. ²In both cases compare the ability to move the piston forward.
+
+Science | Properties of Matter45
+
+You will note that the piston in the syringe with water cannot be pushed forward whereas the piston in the syringe with air can be pushed forward. This shows that it is difficult to compress water but air can be compressed easily. Let us find out the reason for this.
+
+Water is a liquid. As the particles of a liquid are closely packed they cannot be brought closer by applying a force. Therefore, they are relatively difficult to compress. In a gas there are wider spaces among the particles, therefore, by applying a force the particles come closer. That is why the gases can be compressed easily.
+
+When comparing the densities of solids, liquids and gases it is seen that solid and liquid matter have a high density but gases have a low density. Density will be studied further in a future lesson.
+
+Solids, liquids and gases are used for various purposes depending on their properties. Some examples for the instances in which they are used are given below.
+
+²Solids - parts of machinery, parts of vehicles, building materials, weapons ²Liquids - mercury thermometer, hydraulic jack, as a medium of transport ²Gases - inflating tyres, in pressure cookers, in hydrogen balloons, in liquid petroleum gas (LP gas) cylinders
+
+Assignment 4.5
+
+Make models to demonstrate the particulate nature (discontinuity) of the three states of matter.
+
+4.2 Utilizing physical properties of matter
+
+4.2.1 Pure substances and non pure substances
+
+Consider a cylinder containing nitrogen gas and a cylinder containing ordinary air. The cylinder of nitrogen gas contains only nitrogen gas. The cylinder of air contains several gases such as nitrogen, oxygen, argon and carbon dioxide. On the otherhand potable water contains gases and various salts dissolved in it. But, pure water contains only water.
+
+Let us do Assignment 4.6 to explore this further.
+
+Science | Properties of Matter46
+
+Assignment 4.6
+
+²Pay your attention to the substances given in Table 4.3. ²Find out about the components in those substances and complete the table.
+
+Table 4.3SubstanceComponentsContains one component only
+
+Contains more than one componentairhyrogen, oxygen, argon, carbon dioxidepure waterwater
+
+drinking waterwater, various gases, dissolved in water, saltssugarsugarsalt solutionsalt, watera piece of coppercopper
+
+teatea, water, sugaraluminiumironsilver
+
+Of the substances given in the table, if you focus your attention to sugar, silver, pure water, aluminium, iron and copper, it is clear that they are composed of only one component. You may also be able to identify that the salt solution, tea and potable water contain more than one component.Thus, on the basis of the components contained, matter can be divided into two main categories as follows.
+
+²Pure substances - Matter that contains only one component. ²Non pure substances - Matter that contains two or more components.
+
+²Pure substancesSubstances having a constant composition, that is, substances containing only one component with definite properties, are called pure substances.Hence, sugar, copper, pure water, aluminium, silver and iron given in Table 4.3 are pure substances.
+
+²Pure substances
+
+Science | Properties of Matter47
+
+Based on the nature of the pure substances, they can be classified into two groups, elements and compounds.
+
+ElementsLet us consider copper, aluminium, silver and iron classified under pure substances. These cannot be divided further into simpler substances.Pure substances with definite properties which cannot be further divided by physical or chemical methods into substances are known as elements.As at now, scientists have identified nearly 120 elements. Each of these elements has unique properties of its own.Iron, aluminium, sulphur, carbon, oxygen, nitrogen, mercury, copper, gold, silver, lead, hydrogen and chlorine are a few examples for elements.
+
+SulphurA bottle filled with chlorine gasIronCopper
+
+CarbonMercuryAluminiumZinc Figure 4.5 Some commonly used elements
+
+CompoundsLet us consider about sugar and pure water you classified under the pure substances above. They are formed by the combination of two or more elements.Compounds are homogeneous, pure substances in which two or more elements are chemically combined in a fixed ratio. The properties of a compound are different from the properties of the elements that contributed to form that compound.Although, there are only 120 elements, there are millions of compounds in existence. The reason for this the possibility of combining elements in a vast multitude of ways with one another.Let us inquire into the formation of compounds by the combination of elements chemically through the following example.
+
+Science | Properties of Matter48
+
+²Iron powder is a greyish black solid substance. ²Sulphur powder is a yellow coloured solid. ²When these two are mixed and heated till the solid mass melts, a black solid is formed.
+
+IronSulphurIron sulphide Figure 4.6 It can be observed that the substance formed finally is different in properties from the substances that were used initially. Now, it may be clear to you that here, the element iron has combined chemically with the element sulphur to form the black coloured compound, iron sulphide.Given below are some compounds used in everyday life.
+
+A fire extinguisher filled with carbon dioxide
+
+Copper sulphateSodium chloride
+
+GlucoseCalcium carbonateSodium hydroxideFigure 4.7 Oxygen, nitrogen and argon present in ordinary air are elements. Nevertheless, carbon dioxide is a compound. The compound carbon dioxide is formed by the combination of the elements carbon and oxygen chemically.Table 4.4 shows the elements contained in some compounds.Table 4.4
+
+CompondElements presentcopper sulphatecopper, sulphur, oxygensodium chloridesodium, chlorinesodium hydroxidesodium, hydrogen, oxygencalcium carbonatecalcium, carbon, oxygencarbon dioxidecarbon, oxygenwaterhydrogen, oxygen
+
+Science | Properties of Matter49
+
+You will study about non pure substances/ mixtures in a higher grade.
+
+4.2.2 Various physical properties of matter
+
+Different substances have different physical properties. There are a number of physical properties in matter that help to identify and distinguish them. Some of these are presented in Table 4.5Table 4.5
+
+Physical property Simple introduction to the physical propertyLustreShiny suface due to reflection of light falling on it.HardnessResistance of the material to wear and tear and scratchingBrittlenessBeing subject to breaking / crushing into pieces when a force is appliedThermal conductivityAbility to conduct heat through the substanceElectrical conductivityAbility to conduct electricity through the substanceSonorityEmitting a lasting sound when struck with an object ColourThe visual quality of the substanceElasticityAbility to stretch upon pulling and returning to the initial state when the force is releasedDensityMass of a unit volumeMalleabilityAbility to be hammered into sheets without breaking into piecesDuctilityAbility to be drawn into a wire without breakingSmellSensation caused in the nose due to the volatility of the substanceExpansivityIncrease in volume without an increase in the mass upon increasing temperatureTextureThe rough or smooth nature felt to the touchMelting point/ temperature The temperature at which a substance turns from the solid state to the liquid stateBoiling point/ temperatureThe temperature at which a substance turns from the liquid state to the gaseous state
+
+Some of the physical properties of a substance can be used to examine its purity.e.g.:- Density, melting point, boiling point
+
+Science | Properties of Matter50
+
+DensityWhat can you observe if you put a piece of iron, a cork stopper and a candle to water ? The piece of iron sinks while the cork and the candle float. The reason for this is the fact that the density of iron is greater than that of water wheres the density of cork and candle wax is less than that of water. Density is a property unique for a particular substance. Density is the mass of a unit volume of a given substance.Let us do Activity 4.5 to find out whether the density of water has a constant value.
+
+Activity 4.5
+
+You will need:- Density bottle, distilled water, triple beam balance, fresh water, brackish water, hard waterMethod:- ²Fill the density bottle (specific gravity bottle) with water, blot it and weigh using the triple beam balance.
+
+Figure 4.8 ²Remove the water, refill the density bottle with distilled water, blot it and weigh. ²Compare the masses obtained. ²Repeat same experiment using the same density bottle but filling it with samples of water obtained from different environments such as fresh water, brackish water, brine and tank water and compare the masses.
+
+Even if the masses are taken by repeating weighing several times, you will be able to see that the mass of an equal volume of distilled water takes a constant value. But the masses of equal volumes of fresh water, brine and brackish water will not be equal.
+
+Distilled water is the water free from dissolved solids. Since, the density of pure water always takes the same value, pure water can be identified by measuring the density.
+
+Similarly, for other pure substances, the density is a fixed value. Therefore, the purity of solids, liquids and gases can be determined by finding their densities.
+
+Science | Properties of Matter51
+
+Table 4.6 gives densities of some pure substances.Table 4.6
+
+SubstanceDensity/kg m-3
+
+Gold19300Mercury13600Lead11300Copper8900Iron7700
+
+Aluminium2700
+
+Water1000
+
+Melting pointThere is a fixed temperature at which a solid turns into a liquid. This temperature is known as its melting point. Pure substances have a fixed melting point.Let us conduct the following experiment to find out whether the melting point of pure substances has a constant value.
+
+Activity 4.6
+
+You will need:- A boiling tube, a beaker, some ice chips, water, a thermometer, a burner, a stand, a stirerMethod:- ²Fill about one fourth of a boiling tube with ice chips. ²Arrange the apperatus as in Figure 4.9. ²Heat till the ice melts. ²Stir the water well, using a stirer. ²Tabulate temperature against time.
+
+Table 4.7TimeTemperature
+
+Thermometer
+
+Stirer
+
+Icechips
+
+Water
+
+HeatFigure 4.9
+
+You would have observed that the temperature remains constant until all the ice melts.
+
+Science | Properties of Matter52
+
+When heat is supplied, matter turns from the solid state to liquid state without changing its temperature. The specific temperature at which this change in state occurs is called the melting point. In the above experiment the temperature remained at 0 oC until all the ice turned into liquid water. So, the melting point of pure water at normal atmospheric pressure is 0 oC.
+
+Table 4.8 indicates melting points (at standard atmospheric pressure) of some pure substances.Table 4.8
+
+SubstanceMelting point/ (oC)
+
+Ice0Sulphur132Lead317Aluminium660Copper1083Iron1539The melting point of pure substances is a constant. Therefore, the purity of a substance can be determined by measuring its melting point.Boiling pointThere is a definite temperature at which a liquid turns into a gaseous state. That temperature is known as its boiling point. Pure substances have a constant boiling point.In order to find out whether there is a constant value for the boiling point of pure substances let us conduct Activity 4.7.
+
+Activity 4.7
+
+You will need:- A boiling tube, water, a thermometer, a stand, a burnerMethod:- ²Add water to a boiling tube and fix a thermometer as shown in Figure 4.10. ²Heat the water with the burner. ²Tabulate the change in temperature with time.
+
+Heat
+
+Thermometer
+
+Figure 4.10
+
+Water
+
+Stand
+
+Science | Properties of Matter53
+
+Table 4.9TimeTemperature
+
+When water is heated temperature rises gradually. At a certain moment, the rise in temperature stops and water turns into the vapour state from the liquid state. That temperature remains unchanged till all the water is vapourised. That temperature is called the boiling point of water. The boiling point of pure water at standard atmospheric pressure is 100 oC (The boiling point of a liquid depends on the surrouding pressure. If the surrounding pressure falls, the boiling point falls. The boiling point of water on a high mountain is lower than 100 oC).If water is not pure due to the dissolving of foreign substances the boiling point (100 oC) may be elevated or lowered. From this it is clear that the boiling point is also a physical characteristic that can be used to probe the purity of a compound.Table 4.10 shows boiling points of some substances under normal atmospheric pressure.Table 4.10
+
+SubstanceBoiling point (oC)
+
+Ethyl alcohol77Water100Sulphur444Lead1744Iron2900
+
+Now let us see whether we can classify the elements that we identified as pure substances based on their physical properties.
+
+Activity 4.8
+
+You will need:-Iron, copper, sulphur, carbon (graphite), magnesium, aluminium, lead, zincMethod:- ²Identify observations or simple activites appropriate to examine the properties such as metallic lustre, sonority, thermal conductivity, electrical conductivity, malleability and brittleness. You can have an understanding about this by reading the paragraph coming after this activity. ²Do the relevant activities and record the observations using a table such as Table 4.11. Place a tick (√) when the element has the relevant property and a cross (×) if it does not'
+
+Science | Properties of Matter54
+
+Table 4.11
+
+SubstanceLustreSonorityThermal conductivityElectricalconductivityMalleabilityBrittleness
+
+Iron√√√√√×
+
+Copper
+
+Sulphur
+
+Graphite
+
+Magnesium
+
+Aluminium
+
+Lead
+
+Zinc
+
+Some methods which you can adopt to examine each physical property are described below. To investigate the physical properties you can use either those methods or other methods after discussing with your teacher.To examine the lustre, you can scratch the surface of the substance with a knife or clean it with a sand paper.The material used to examine sonority should be at least one millimetre thick. It can be done by striking with a metal rod or dropping on the cement floor from a suitable height.To inquire into the thermal conductivity a change that can be observed during the transmission of heat has to be used. For example, drops of candle wax can be placed on rods made of different materials and melting of the wax during conduction of heat can be done.
+
+Bunsen burner
+
+Candle wax
+
+Plate of an insulatorsuch as asbestos
+
+Tripod
+
+Figure 4.11 Examine thermal conductivity
+
+Science | Properties of Matter55
+
+Figure 4.12
+
+In order to examine electrical conductivity a simple circuit should be constructed. It could be constructed on a circuit board or made by connecting the pieces of equipment using crocodile clips.
+
+If the substance to be tested placed between A and B, conduct electricity, the bulb will light. If the substance does not conduct electricity the bulb will not light.
+
+To observe malleability and brittleness a piece of the relevant substance can be struck lightly with a hammer after placing it on a fairly thick surface. If it turns into a sheet on hammering, it shows malleablilty. If it crumbles, it is a brittle substance.
+
+Based on the results of the above experiment and other characteristics, elements can be divided into two classes, metals and non metals. The diversity of the physical properties of metals and non metals can be illustrated as follows.
+
+MetalsNon metals
+
+Good conductors of heatGood conductors of electricity
+
+lustrous
+
+Sonorous
+
+Can be hammered into sheets (malleability)
+
+Can be drawn into wires (ductility)
+
+Poor conductors of heat
+
+Breaks into pieces when struck (brittle)
+
+Not lustrous
+
+Poor conductors of electricity (except carbon)
+
+Figure 4.14 Figure 4.13
+
+Assignment 4.7
+
+Classify the substances given in Table 4.11 in Activity 4.8 as metals and non metals.
+
+Science | Properties of Matter56
+
+Based on their physical properties, elements can be classified as metals and non metals. Moreover, based on the physical state of matter they can be classified as solid, liquid and gas. Study Table 4.12 well and get to know the diversity of elements. Table 4.12ElementMetallic/Non metallic naturePhysical state (solid, liquid, gas)SodiumMetalSolidAluminiumMetalSolidCalciumMetalSolidIronMetalSolidCopperMetalSolidMagnesiumMetalSolidZincMetalSolidLeadMetalSolidMercuryMetalLiquidCarbonNon metalSolidSiliconNon metalSolidPhosphorusNon metalSolidSulphurNon metalSolidIodineNon metalSolidHydrogenNon metalGasNitrogenNon metalGasOxygenNon metalGasChlorineNon metalGasArgonNon metalGasBromineNon metalLiquid
+
+4.2.3 Day-to-day applications of various physical properties of matter
+
+The physical properties of matter can be usefully applied in various ways in our everyday life. Table 4.13 presents a few such instances.
+
+Science | Properties of Matter57
+
+Table 4.13
+
+Physical property of matterInstances of applicationSubstance
+
+Metallic lustremaking jewellerygold, silver
+
+Hardnesswithstanding weightsteel railscutting glassdiamonds styletsCompressibilitystoring gases in cylindersoxygen, LP gas
+
+Odourdetecting gas leakagesLP gas
+
+spreading the scentperfumes, sweet smelling smoke
+
+Thermal conductivitycooking pansaluminiumsolderingleadElectrical conductivity conducting electricitycopper, aluminium cablesElasticityTyres and tubesrubber
+
+Expansivitymeasuring temperaturemercury/ alchol theremometersautomatic electrostatselectrical appliances with a bimetallic stripBrittlenessbreaking larger pieces into smaller pieceschemical compounds, cereals, granite, egg shellsTexture (smooth)applying talcum powder chalktalc (a mineral)
+
+Texture (rough)smoothening the surface of wood, walls etcsand paper
+
+Assignment 4.8
+
+Explore information relating to the instances where the properties of matter are exploited in real life and present the information in a creative manner.
+
+At the end of the chapter, a schematic diagram such as one given below can be constructed.Matter
+
+Pure substances
+
+ElementsCompounds
+
+MetalsNon metals
+
+Non pure substances (Mixtures)
+
+Science | Properties of Matter58
+
+Summary
+
+²The things that have a mass and that occupy space are known as matter. ²The making of matter from particles and the existence of spaces among them is referred to as the discontinous nature of matter. ²All three states, solid, liquid, and gas are discontinuous. ²The reason for the specific features of matter in solid, liquid and gaseous state is the diversity of the arrangement of particles in them. ²The different properties of solids, liquids and gases make them applicable for different purposes. ²Based on composition, matter can be classified as pure substances and non pure substances. ²Pure substances can further be classified into two catergories; elements and compounds. ²Pure substances with definite properties and indivisible by physical or chemical methods into substances with different properties are called elements. ²The pure substances formed by the chemical combination of two or more elements in a constant ratio are known as compounds. ²Sonority, thermal conductivity, electrical conductivity, malleability, ductility, density, melting point, boiling point, hardness, elasticity, expansivity, lustre, etc are physical properties of matter. ²In pure substances the physical properties such as density, boiling point and melting point have a constant value. ²Based on the physical properties, elements can be classified as metals and non metals. ²Various physical properties of substances are used for daily activities in life.
+
+Exercise
+
+01) For the following questions, select the correct answer or the most suitable answer from the responses given
+
+01. Which of the following response contains only matter? 1. Air, water and light 2. Water, heat and a brick 3. Electricity, a brick and ink 4. A brick, ink and air02. A property only common to solids and liquids is, 1. having a definite shape 2. having a definite volume 3. the ability to compress 4. the free movement of particles
+
+Science | Properties of Matter59
+
+03. When a drop of ink is added to a vessel of water, the colour of ink spreads throughout water. Which of the following response explains this observation best ? 1. Water is discontinuous 2. Ink is discontinuous 3. Water and ink are discontinuous 4. Ink is discontinous and water is continuous
+
+04. Which of the following is a pure substance? 1. Bottled water 2. Fizzy drinks 3. Colourless toothpaste 4. Crystals of sodium hydroxide
+
+05. The property of crumbling upon the application of a small force is called the, 1. Hardness 2. Brittleness 3. Elasticity 4. Ductility06. Given below are three ideas expressed by three students about the masses of equal volumes of water and kerosene.
+
+A) Their masses are equal B) Mass of kerosene is less
+
+C) Mass of water is greater
+
+The correct response of these is /are 1.only A 2. only B 3. only C 4. only B and C07. Which of the following substance is an electrical conductor? 1. Iron 2. Wood 3. Sand 4. Wax08. What is the boiling point of pure water at standard atmospheric pressure?. 1. 0 0C 2. 30 0C 3. 100 0C 4. Between 30 0C - 100 0C 09. What is the liquid metal that conducts electricity? 1. Water 2. Mercury 3. Alcohol 4. Wine spirit10. Some ideas expressed by students about the boiling point of a liquid are as follows. A) It is the temperature at which a change in state occurs B) It is the temperature at which a solid turns into a liquid without changing temperature upon heating C) It is the temperature at which a liquid turns into a gas without changing temperature on heating. The correct statements of the above are; 1. only A 2. only B 3. only C 4. only A and C
+
+Science | Properties of Matter60
+
+11. Which of the following is correct about the density of a metal? 1. It always takes a high value 2. Mostly it takes a low value 3. It takes a definite value 3. Densities of all the metals are equal
+
+02) Place the mark √ if each of the following statements is correct and mark × if it is wrong. 01. Air does not belong to the category of matter. ( ) 02. All matter has a particulate arrangement. ( ) 03. Gas particles move freely. ( ) 04. Sun contains only energy. ( ) 05. Solids, liquids and gases can be compressed easily. ( ) 06. A liquid has a fixed shape as well as a fixed volume. ( ) 07. Copper is a brittle metal. ( ) 08. Sulphur is an electric conductor and a non metal. ( ) 09. Sonority is a property seen in most of the metals. ( ) 10. All metals have malleable and ductile properties. ( )
+
+Technical Terms
+
+Energy-Yla;sh-\Uv
+
+Matter-mod¾:h-\h®
+
+Discontinous nature-wika;; iajNdjh-öuõhºa]¯ØÓ ußø©
+
+Shape-yevh-ÁiÁ®
+
+Volume-mßudj-PÚÁÍÄ
+
+Compressibility-iïmSvkh-ö|¸UPØÓPÄ
+
+Density->k;ajh-Ahºzv
+
+Pure substances-ixY=oaO øjH-y¯ £uõºzu®
+
+Elements-uQ,øjH-‰»P®
+
+Compounds-ixfhda.-÷\ºøÁPÒ
+
+Metals-f,day-E÷»õP[PÒ
+
+Non metals-wf,day-AÀ¾÷»õP[PÒ
+
+Mixtures-ñY%K-P»øÁPÒ
+
+Lustre-Èiakh-£Í£Í¨¦
+
+Hardness-oDV;dj-Áßø©
+
+Brittleness-Nx.=r nj-ö|õ¸[Sª¯À¦
+
+Thermal conductivity-;dm ikakdhl;dj-öÁ¨£UPhzxz vÓß
+
+Science | Properties of Matter61
+
+Electrical conductivity-úoHq;a ikakdhl;dj-ªßPhzx vÓß
+
+Sonority-/õ fok y`v-PoºJ¼
+
+Colour-j¾Kh-{Ó®
+
+Elasticity-m%;Hia:;dj-«Òußø©
+
+Malleability-wdykH;dj-ÁõmhzuSª¯À¦
+
+Ductility-;kH;dj-}mhØÓSª¯À¦
+
+Smell-.kaOh-©n®
+
+Expansivity-m%idrK;dj-Â›Ä
+
+Texture-jhkh-CøÇ¯ø©¨¦
+
+Melting point-øjdxlh-E¸S{ø»
+
+Boiling point-;dmdxlh-öPõv{ø»
+
+Science | Sound62
+
+Sound, we hear constantly in the environment is produced by vibrating various things. Instruments, that produce sound are called sources of sound.It can be concluded that various musical instruments produce sound in various ways.Sources of sound can be divided into three categories according to the part that vibrates when producing sound.
+
+Vibratingair columns
+
+Vibratingmembranes
+
+Sources of sound
+
+Vibrating strings or bars
+
+Figure 5.1
+
+Sound5
+
+Science | Sound63
+
+Figure 5.2 Several natural sounds Birds callCats mew
+
+Some of the sounds we hear in the environment occur naturally while some others occur artificially.
+
+Figure 5.3 Several artificial soundsSound of machines in factoriesSound of vehicles
+
+Artificial sounds, as well as natural sounds are produced by vibrating strings/ bars, membranes or air columns.
+
+Assignment 5.1
+
+²List out separately some naturally produced sounds and artificially produced sounds in the environment.
+
+²Identify and name the part that vibrates when those sounds are produced.
+
+Humming of bees comes from fast motion of their wings. Grass hoppers and cicadas generate their characteristic sound by rubbing the bristles on their legs
+
+Assignment 5.2
+
+²Make a list of some animals that generate sounds.
+
+²Investigate the methods that they generate sounds and make a report.
+
+Science | Sound64
+
+Frequency of vibrationsLet us do Activity 5.1 to study further, the nature of sounds.
+
+Activity 5.1
+
+You will need:- An organ, a piano or a xylophoneMethod:- ²Play two keys of the organ, the piano or xylophone, which are apart from each other. ²Listen to the sound and you will realise that the two sounds are different to each other. ²Now play the seven relevent keys to seven notes, which are cosecutive one at a time. ²Listen to the sound and you will realise that there is a slight difference between each note. ²Discuss the reason for that difference, you observed.
+
+The difference in the sound you realised in the above activity is due to a quantity called frequency of vibration.The number of vibrations of an object per unit time is referred to as the frequency of that object.If an object vibrates 50 times a second, then it is said that, the frequency of that object is 50 Hz.Frequency of vibrations is measured by the international (SI) unit Hertz (Hz).Let us do Activity 5.2 to study further, the frequency of vibrations.
+
+Activity 5.2
+
+You will need:- Two tuning forks of long arms and short armsMethod:- ²Vibrate the tuning fork of long arms and listen to the sound carefully. ²Then vibrate the tuning fork of short arms and listen to that sound carefully (Both tuning forks should be vibrated in the same manner. Get the support of your teacher for this purpose.) ²Repeat vibrating the tuning forks several times and identify the difference of sounds. ²Record your observations.Figure 5.4 Tuning forks
+
+Science | Sound65
+
+Now it is clear to you that, the sound generated by a tuning fork differs according to its arm length. It is the frequency of sound that changes here.Observe the tuning forks of different length. The frequency differ according to the length of them. The longest tuning fork has the minimum frequency. Frequency increases gradually with decreasing length. There are mechanisms in every musical instrument to change the frequency. The seven notes in music are produced by changing the frequency of vibration.
+
+Let us construct a simple instrument that produce sound by vibrating membranes.
+
+Activity 5.3
+
+You will need :- A large balloon, a small plastic cup, rubber bandsMethod :- ²Cut the neck of the balloon as shown in the Figure 5.5. ²Insert the plastic cup into the balloon and make it like a drum as shown in the figure. Use rubber bands where necessary to tighten the balloon membrane. Strengthen the upper edge of the cup also with a rubber band. ²Tap the drum, thus made and listen to the sound produced. ²Tighten the balloon membrane by pulling the balloon down. Tap again and listen to the sound. (Tapping should be done in the same manner at each instance.) ²Listen to the sound produced by increasing the tightness of the balloon membrane.
+
+Balloon membranes
+
+Rubber bands
+
+Figure 5.5
+
+It is clear that the sound is sharp and high when the tightness of the balloon membrane is increased. The frequency of the sound produced has increased when the membrane is stretched more.
+
+Assignment 5.3
+
+²Make an instrument that produces sound by vibrating a membrane.
+
+²Design a suitable way to adjust its sound and present it to the classroom.
+
+5.1 Musical instruments that produce sound by vibrating membranes
+
+Science | Sound66
+
+Let us find out how the sound of a membrane vibrating instrument can be adjusted.
+
+Activity 5.4
+
+You will need :- A thablaMethod :- ²Play the thabla that you are provided with.
+
+²Listen to the sound of it carefully.
+
+²Tighten the thabla strap well by tapping gently to the pieces of wood fitted for that purpose. This will stretch the membrane to the thabla. (Get the music teacher's assistance for this)
+
+²Play the thabla again and listen to the sound well.
+
+²Notice the difference between the sounds in two instances.
+
+²Identify the change of sound by playing the thabla several times, while changing the tension of its membrane.
+
+²Record your observations.
+
+Figure 5.6
+
+Stretching of the membrane of thabla can be adjusted by tightning or loosening its strap. You may understand that the sound produced by the thabla is different when its skin is stretched and not stretched. It is the frequency of the sound that changes here. When the membrane is stretched, the frequency of the sound produced is high.
+
+Assignment 5.4
+
+²Find another instruments which produce sound when a membrane is vibrated.
+
+²Plan and present a method to adjust their sound.
+
+²Adjust membranes of the instruments and hear the sound well.
+
+²Identify the difference between them and record them.
+
+Science | Sound67
+
+Let us do Activity 5.5 to study about the instruments that produce sound by vibrating an air column.
+
+Activity 5.5
+
+You will need :- Three pen tubes in different length with a close endMethod :- ²First blow the shortest pen - tube (A) and listen to the sound carefully. ²Then, blow the longer one (B) and listen. Finally, blow the longest one (C). Listen and identify the difference of sounds. ²Repeat this activity several times to identify the difference of sounds well.
+
+f
+
+Figure 5.7
+
+You may hear that the sound produced by pen tubes of different lengths are different. Thus, it is clear that the frequency of the sound produced differs according to the length of air column vibrated.
+
+Assignment 5.5
+
+²Make a whistle using six one end closed pen tubes as shown in Figure 5.8.
+
+²Blow the whistle you made rhythmically.
+
+Figure 5.8
+
+Activity 5.6
+
+You will need :- Six tall glass tumblers of the same size, a metal spoon, waterMethod :- ²Fill the six glass tumblers with water to varing heights as shown in the figure. ²Tap the edge of each tumbler with a spoon gradually, starting from the one with less water. ²Listen to the sound carefully.
+
+Figure 5.9
+
+5.2 Musical instruments that produce sound by vibrating air columns
+
+Science | Sound68
+
+Assignment 5.6
+
+²Make a whistle using a tender coconut leaf. Blow it while changing the length of its reeds and listen to the sound carefully. ²Record the change of sound according to change of length of the reed.
+
+Let us find some more facts about the instruments that produce sound by vibrating a column of air.
+
+Activity 5.7
+
+You will need :- A fluteMethod :- ²Close all the holes of the flute provided to you and play it. ²Listen to the sound carefully. ²Then, open the holes B,C,D,E,F and G gradually one at a time and blow the flute. ²Listen carefully to find whether there is a change in the sound when each hole is opened and closed. ²Record your observations
+
+Figure 5.10
+
+When the holes B,C,D,E,F and G are opened gradually one at a time, the length of the vibrating air column increases. Thus, flute is a musical instrument that changes the sound with the change of the length of air column vibrated. It is played with the blow of air that vibrates the air colomn in the flute. The air pores are closed and opened with the fingers to produce different sounds in music.
+
+Assignment 5.7
+
+²Make a flute using a piece of PVC pipe or a piece of bamboo. Use a cork stopper to close the end of the flute. ²Try to play it rhythmically by opening and closing the holes.
+
+Science | Sound69
+
+5.3 Musical instruments that produce sound by vibrating strings/rods
+
+Let us construct a musical instrument that produces sound by vibrating strings.
+
+Activity 5.8
+
+You will need :- A piece of plank which is about 2 feet long and 6 inches wide, empty fish can, 4 iron nails, 4 bolts, a small thin plastic sheet, 4 pieces of wire of the same metal which are 45 cm long and have different diameters.
+
+Figure 5.11
+
+Thin wire
+
+Bolts
+
+Holes
+
+Thick wire
+
+Tin canIron nails
+
+Piece of plastic sheet
+
+Plank
+
+Method:- ²Fix the iron nails to the plank as shown in Figure 5.6 and tie the wires to them. Take the other ends of the wires through the holes of the tin can, fixed to the plank. ²Pass the wires through the slots made on the plastic sheet, which is placed on the plank. Send the wires through the holes, made on the plank. ²Wind the wires around the bolts which are fixed to the plank. (Ask the assistance of your teacher for this) ²Make sure that the lengths of the vibrating part of the wires and their tension can be adjusted. ²Play the instrument, you made adjusting wires and identify the change of sound. ²Record your observations.
+
+Let us do Activity 5.9 to investigate the methods of changing the sound produced by the musical instruments with strings.
+
+Science | Sound70
+
+Activity 5.9
+
+You will need :- A guitar
+
+Method :- (Get the assistance of your teacher for the activity) ²Observe well, the way that wires are fixed in a guitar and the thickness of those wires.
+
+²Then, vibrate the wires one by one starting from the thick wire.
+
+²Listen carefully to the sound produced, when each wire is vibrated.
+
+²Listen to the sound produced, when length and the tension of wires are gradually changed. Identify the differences.
+
+²Repeat this procedure several times.
+
+²Record your observations.
+
+Figure 5.12
+
+A sharp (high) sound is produced when short, tight, thin wires are vibrated. Sound produced by the vibration of long, loose and thick wire is not that sharp. When a guitar or a violin is being tuned, the length and the tension of the wires are changed. Sound may also be changed by the way and the speed of vibrating the strings.
+
+Assignment 5.8
+
+²Plan to construct a musical instrument that produces sound by vibrating strings. ²Construct the instrument planned, and play it.
+
+Assignment 5.9
+
+²Investigate the methods of tuning some other musical instruments that produce sound by vibrating strings. ²Tune those instruments, identify the change of sound and record the methods of tuning.
+
+Xylophone is a musical instrument with vibrating bars. Let us study more about the sound produced by a xylphone.
+
+Science | Sound71
+
+Activity 5.10
+
+You will need :- XylophoneMethod :-
+
+²Tap gradually, one by one on the plates of the xylophone, you are provided with, (starting from the longer plate to the shorter one). Listen to the sound carefully.
+
+²Repeat playing the xylophone by tapping the plates.
+
+²Record your observations.Figure 5.13
+
+Xylophone produces sound because of the vibration of plates. Here, tapping to the shorter plates, gives higher (intense) sound than tapping to the longer plates. It is clear that the sound produced by tapping shorter plates is different to the sound produced by tapping longer plates. The frequency is changed by the change of the length of plates. As in the set of tuning forks, in the xylophone also, the frequency is highest in shortest plate and it is lowest in the longest plate.
+
+Assignment 5.10
+
+²Try to construct a xylophone and play it. ²Prepare a list of musical instruments that produce sound by vibrating bars or plates. ²Find and record how the sound is produced in them.
+
+Figure 5.14
+
+Assignment 5.11
+
+²Construct various musical instruments with your class mates. ²Adjust the sound of those musical instruments well. ²Present a group display, using those musical instruments in your science or literary society.
+
+Science | Sound72
+
+Musical tones and noises
+
+Figure 5.15 Instances where noises are produced
+
+It is joyful to listen to playing guitar or violin or to listen to a song. Such sounds are pleasant to our ears. But the sounds coming from factories and vehicles are not pleasant. Such sounds are a nuisance to our ears.
+
+Rhythmical sounds which are pleasant to our ears are musical tones. Such sounds are produced by methodical or formal vibrations of objects. Sounds which are unpleasant to our ears are called noises. They are produced by non formal vibrations of objects.
+
+Even a musical tone may be unbearable to our ears, when the sound of which is very high. It depends on the relevant person.
+
+High and noisy sounds may be harmful to ears. They disturb our day-to-day activities. It is our duty to use instruments that produce sounds without disturbing others.
+
+Assignment 5.12
+
+²List out some instances, where noises are produced. ²Mention the source of noise, infront of the instances you identified. ²Investigate and record the part of the source which vibrate to produce the noise.
+
+Ancient, traditional and modern musical instruments
+
+It is said that musical instruments had been used for the services in religious places in ancient Sri Lanka. Large drum ('daula'), double drum ('tammattama'), and trumpet are prominent among those instruments. From the ancient times, till today, those instruments are in use for the life activities of common folk, like devil dancing, chanting good will and religious worships.
+
+Figure 5.16 Several ancient musical instruments
+
+Science | Sound73
+
+Low country drum, up country drum 'udekkiya', large drum ('daula'), double drum ('tammettama'), trumpet and "geta beraya" are main items in traditional musical instruments. These are used in cultural festivals.
+
+Figure 5.17 Several traditinal musical instruments
+
+Guitar is a very popular musical instrument among younger generation. It is used in local popular music as well as in North Indian "Ragadari " music.
+
+There are instances in the modern world where ancient and traditional musical instruments are used along with instruments like electric organ, guitar and thabla.
+
+Figure 5.18 Several modern musical instruments
+
+Special importance of modern musical instruments is that a single person can fulfil the necessity of a full orchestra or a number of instruments by using a computer and a keyboard. Octopad is commonly used for rhythm playing and organ is used as a permanent keyboard instrument.
+
+Science | Sound74
+
+Assignment 5.13
+
+²Collect information on ancient traditional and modern musical instruments and prepare a booklet.
+
+Musical therapy
+
+Figure 5.19 Instances where musical therapy is used
+
+Music can be used to improve the quality of life. Music has an ability to heal the mental stress and give spiritual happiness to the people spending busy life. Thus, the treatment given using music is known as musical therapy.
+
+Musical therapy can be used as a method of treatment to improve physical fitness and mental integrity. It is discovered that diseases and disorders of brain and nervous system, heart failures, mental depression so on, can be cured by using this therapy.
+
+So, training a person from his childhood to enjoy music will be helpful to develop a healthy mind.
+
+For extra knowledge
+
+Nowadays musical therapy is used in many countries of the world to coordinate muscle movements in sport activities like running and cycling to prepare patients for surgeries and as a healing method after surgeries.
+
+Assignment 5.14
+
+²Prepare a letter to a wall paper on musical therapy which can be used to develop the quality of life.
+
+Science | Sound75
+
+Limits of hearingCan we hear a vibration of any frequency?Let us do Activity 5.11 to find out about this.
+
+Activity 5.11
+
+You will need :- A long hacksaw blade, a G-clamp Method :- ²Clamp the hacksaw blade to the table. Keep the free end of the blade longer. (Figure 5.20) ²Vibrate the blade and listen. ²Then reclamp the blade making its free end shorter.(Figure 5.21) ²Vibrate it again and listen. ²Discuss your observations with the teacher.
+
+e
+
+d
+
+d
+
+Figure 5.21
+
+Figure 5.20
+
+You may have experienced that no sound is heard though the longer blade is vibrating. The reason is that the human ear is not sensitive to the sound produced by the vibration of that blade.
+
+We cannot hear the sound of any frequency. We can hear only the sound of a certain range of vibrations. That range we can hear is known as the limits of hearing.
+
+The limits of hearing or the range of frequency of sound that human ear can hear is 20 Hz to 20 000 Hz. Man cannot hear the sounds of frequency which is less than 20 Hz or more than 20 000 Hz.
+
+Dog can hear the sounds of the frequency which is less than 20 Hz or more than 20000Hz. Bat can hear the sounds of higher frequencies up to 70 000 Hz.
+
+Summary
+
+² Instruments that produce sound are called sources of sound.
+
+² All natural and artificial sounds are produced by vibrations of strings/rods, membranes, bars or air columns.
+
+² Number of vibrations of a sound source, produced in unit time is called the frequency.
+
+² International (SI) unit of frequency is Hertz.
+
+Science | Sound76
+
+² Man cannot hear the sound of any frequency. There is a limited range of frequency of sound that man can hear.
+
+² The limits of hearing of human is 20 Hz - 20 000 Hz.
+
+² There are three categories of musical instruments, according to the part that vibrates when producing sound.
+
+² Sound produced can be changed by adjusting the vibrating parts of musical instruments.
+
+² Sound can be used to improve the quality of life.
+
+Exercise
+
+1. Select the appropriate words from those given in the brackets to fill in the blanks.
+
+II. Sound of high frequency can be obtained, when the wires of a violin are ........................ (longer/ shorter).
+
+III. Sound of high frequency can be obtained, when the membrane of a drum is .............................. (thinner/ thicker).
+
+IV. Human ear is ....................................... (sensitive/ not sensitive) to any range of sound.
+
+V. Vibrations of an object are ........................................ (regular/ irregular) when musical tones are produced.
+
+2. Categorize the musical instruments given below, into three groups according to the way they produce sound.
+
+Double drum ('Tammattama'), 'Udekkiya', 'Horanewa', 'Sitar', 'Trumpet', 'Conch shell' ('Hak gediya'), 'Violin', 'Cello', 'Mandolin', 'Large drum' ('Daula')
+
+Science | Sound77
+
+Technical Terms
+
+Sources of sound-èjks m%Nj-J¼ •uÀ
+
+Vibration-lïmkh-AvºÄ
+
+Artificial sounds-lD;s%u Yío-ö\¯ØøP J¼
+
+Natural sounds-iajdNdúl Yío-C¯ØøP J¼
+
+Adjusting-iSreudre lsÍu-_μzøu ©õØÖuÀ
+
+Limitation of hearing -Y%jH;d iSudj-÷PÒuS GÀø»
+
+Tuning fork-iriq,-Cø\UPøÁ
+
+Musical sounds-ix.S; kdo-\[Ru J¼
+
+Noises-f>daId-Cøμa\À
+
+Musical therapy-ix.S; Ñls;aidj-Cø\a ]Qaø\
+
+3. If the statements given below are correct, put a (√) and if they are wrong put a (×) in the brackets.
+
+IV. When the wires of a violin are tightly stretched, it gives a low tone. ( )
+
+V. When the length of the vibrating air column is less, it gives a sound of low frequency. ( )
+
+VI. Xylophone is an instrument that produces sound by vibrating bars. ( )
+
+VII. Some mental depressions/conditions of patients can be cured by musical therapy. ( )
+
+Science | Magnets 78
+
+There are instances where magnets are used in our day-to-day life. Recalling what we have learnt about magnets in grade 6, let us do Activity 6.1 to identify materials that show magnetic properties.
+
+Activity 6.1
+
+You will need:- A permanent magnet, a piece of thread, a stand, various types of coins, an iron nail, a brass nail, a pebble, a plastic ruler, several other things that you like to test for magnetic properties.Method:- ²Hang the magnet on the stand using the piece of thread as shown in Figure 6.1 ²Bring each substance, one at a time, close to the magnet, when the magnet remains still. Enter the observations in Table 6.1Table 6.1
+
+MaterialAttract / does not attract to the magnet1. Plastic rulerDoes not attract.
+
+Figure 6.1
+
+It will be clear to you that only certain materials attract towards magnets. Materials which attract towards magnets are known as magnetic materials.
+
+Metals such as iron, nickel, chromium and alloys like steel and ferrite are magnetic materials.Alloy ferrite is used to make more powerful magnets.
+
+Magnets made of Steel
+
+Magnets made of FerriteFigure 6.2 Magnets made of various materials
+
+Magnets6
+
+Science | Magnets 79
+
+Magnetic property or magnetism is a property of some materials.6.1 Poles of a magnet
+
+Let us do Activity 6.2 to study further how magnetic power exists around a magnet.
+
+Activity 6.2
+
+You will need :- A bar magnet, iron filings, a thin polythene sheet or a polythene bag, a sheet of paperMethod:- ²Cover the bar magnet completely with the polythene bag. ²Heap iron filings on the sheet of paper. ²Dip the magnet on the heap of iron filings. ²Take the magnet out of the heap of iron filings and observe the pattern of iron filings attracted to the magnet.
+
+Figure 6.3
+
+Regions where iron filings are thickly attracted can be easily identified. Magnetic power is concentrated in these regions.
+
+Regions of a magnet, where magnetic power is concentrated are called magnetic poles. There are two of them. ²North pole (N) ²South pole (S)
+
+NS
+
+NS
+
+S
+
+SN
+
+N
+
+Figure 6.4 How poles are located in different types of magnets
+
+Identifying magnetic poles
+
+We have learnt earlier that north and south poles are marked in most of the magnets. Now, let us consider how the poles of a magnet can be identified when they are not marked.
+
+Science | Magnets 80
+
+Figure 6.5 Magnets with poles marked
+
+Figure 6.6 A magnet on which poles are not markedLet us do Activity 6.3 to study the methods of identifying the poles of a magnet.
+
+Activity 6.3
+
+You will need : - A magnet on which poles are not marked, a magnet on which poles are marked, a compass, a piece of thread, a stand, a piece of cork or a piece of styrofoam, a basin of water, two watch glasses
+
+Method : - ² Let us find out various methods to identify the poles of a magnet using given materials. Following methods can be tried out for this.
+
+Figure 6.7 Using a compass
+
+Figure 6.8 Considering the direction that a magnet turns, when it is hung by a thread.
+
+Figure 6.9 Considering the direction, that magnet turns, when it is floated on water using a piece of cork or styrofoam.
+
+Figure 6.10 Observing the attraction or repulsion when a magnet with known poles is brought closer
+
+Figure 6.11 Observing the direction that the magnet turns when it is kept on a watch glass and moved freely on another watch glass
+
+Investigate whether there are methods, other than those mentioned, to identify the poles of a magnet.
+
+North
+
+South
+
+Science | Magnets 81
+
+6.2 Magnetic field of a magnet
+
+Let us do Activity 6.4 to find out about the area that magnetic power is distributed around a magnet.
+
+Activity 6.4
+
+You will need : - A bar magnet, iron filings, a piece of cardboard
+
+Method : - ²Spread a thin layer of iron filings on the sheet of cardboard. ²Gently place the sheet of cardboard on the bar magnet. ²Tap on the sheet of cardboard gently. ²Observe the pattern in which iron filings are arranged. ²Can you suggest the reason for the arrangement of iron filings on the sheet of cardboard, according to a pattern?
+
+Let us do Activity 6.5 to study the magnetic field around a bar magnet.
+
+Activity 6.5
+
+You will need : - A bar magnet, iron filings, A test tube of the size to insert the magnet, a beaker of tall form, glycerine or coconut oil
+
+Method : - ²Fill the beaker with glycerine or coconut oil mixed with iron filings. ²Insert the bar magnet into the test tube and dip it slowly in the beaker. ²Observe the pattern of iron filings arranged around the magnet.
+
+Figure 6.12 A bar magnet dipped in glycerine mixed with iron filings
+
+Glycerine mixed with iron filings
+
+Bar magnet (inserted in a test tube and dipped in the beaker)
+
+Figure 6.13 How iron filings are arranged around a bar magnet
+
+It can be observed that iron filings are arranged in a pattern, within a certain area around the magnet.Area that the magnetic power is spread around a magnet is called the magnetic field of that magnet.
+
+Imaginary lines used to denote the magnetic power around a magnet are known as magnetic field lines.
+
+Let us do Activity 6.6 to demonstrate the magnetic fields between magnetic poles.
+
+Science | Magnets 82
+
+Activity 6.6
+
+You will need : - Two short bar magnets, a styrofoam board of A4 size, 4 pieces of cardboard of A4 size, binder gum, iron filings
+
+Method : - ² Carve two grooves in the styrofoam board. ²Insert two short bar magnets into the grooves, so that like poles are directed against each other, as shown in Figure 6.14.
+
+Figure 6.14
+
+g
+
+²Place one piece of cardboard on the styrofoam board. ²Spread a thin layer of iron filings on the cardboard. ²Tap gently to a corner of the cardboard sheet. ²Observe the pattern in which iron filings are arranged. ²Apply a layer of binder gum on another cardboard sheet and allow it to dry. ²Place the side of the cardboard applied with gum, on the pattern of iron filings and press gently. ²Take away the cardboard sheet applied with gum and observe. The pattern of magnetic field lines are imprinted on it. ²Now change the poles of one magnet so that the set-up is changed to demonstrate the magnetic field between unlike magnetic poles. (Figure 6.15)
+
+Figure 6.15
+
+²Repeat the above steps and obtain the pattern of iron filings corresponding to the magnetic field between two unlike poles. ²Exhibit your creations in the classroom.
+
+It may be clear to you that iron filings are arranged around a magnet along the patterns of magnetic field lines.
+
+Figure 6.16 Pattern of magnetic field lines between magnetic poles
+
+Pattern of magnetic field between unlike poles.Pattern of magnetic field between like poles.
+
+Science | Magnets 83
+
+6.3 Compass
+
+You may have heard that an instrument called compass is used to find the direction.Compass was invented by Chinese about thousand years ago. Today various types of compasses are in use. A compass is made from a magnetic needle (this is like a small magnet) which can freely float on a liquid or turn round on a pivoted point.
+
+Figure 6.17 Types of compassesLet us do Activity 6.7 to make a simple compass.
+
+Activity 6.7
+
+You will need : - A large needle, a cork bung, a small knife, a bar magnet, a plastic basin full of water, red paint.
+
+Method : - ²Magnetize the needle by contact method using the bar magnet. ²Cut a thin slice of the cork bung and fix the needle on it. (Figure 6.17) ²Float the slice of cork, with the needle on the basin of water. ²Test whether the floating needle is always turned in the same direction. ²Colour the end of the needle, which always turns to the geographical north with red paint. ²What you have constructed is a simple compass. ²Modify your compass to make it more attractive.
+
+Figure 6.18 Making a compass out of a needle.
+
+Science | Magnets 84
+
+Figure 6.19 Several compasses constructed in various ways
+
+When a compass is kept near a magnet, the needle turns along the direction of the magnetic field. Therefore, the magnetic field of a magnet can be identified, using a compass.Let us do Activity 6.8 to identify the direction of magnatic field using a compass.
+
+Activity 6.8
+
+You will need : - A bar magnet, a compass, a sheet of white paper
+
+Method : - ²Place the bar magnet on the sheet of white paper. ²Draw the outline of the magnet on the paper, using a pencil. ²Label the north and south poles of the magnet on the paper. ²Place the compass on the paper as shown in Figure 6.20 and mark the positions of the compass needle. ²If you are unable to find several compasses, you can use the same compass for each location. ²Try to build up the pattern of the magnetic field by connecting the positions of the compass needle.
+
+Figure 6.20 Positions of a compass needle around a bar magnet at various locations
+
+Science | Magnets 85
+
+Magnetic field lines of a permanent magnet direct from North pole to South pole. Hence, the direction of magnetic field is from North pole to South pole.The Figure 6.21 illustrate the arrangement of magnetic field lines around a bar magnet.
+
+NS
+
+Figure 6.21 Magnetic field of a bar magnet6.4 Geomagnetism
+
+You know that north - south directions of the earth can be identified using a compass. When a compass is kept horizontally near the surface of the earth, its needle turns along the north-south direction.
+
+Let us do Activity 6.9 to find the direction of the magnetic field of the earth.
+
+Activity 6.9
+
+You will need : - Two compasses, a bar magnet, a piece of thread, a stand
+
+Method : - ²Hang one bar magnet horizontally on the stand, using the piece of thread. ²Keep the bar magnet, hung on the stand, and two compasses about two meters apart from each other. ²Take another bar magnet and bring one of its poles closer to each compass and to the magnet hung on the stand. ²Record your observations. ²Take away the bar magnet and observe the directions of the poles of compass needles and the bar magnet which is hung. ²Repeat the activity, changing the locations of compasses. ²Discuss the reasons for the observations in the classroom.
+
+Figure 6.22
+
+Science | Magnets 86
+
+The compasses and the magnet which is hung turned when another magnet is brought closer to them. Thus it is clear that magnets and compasses turn, when they are under the influence of a magnetic field.
+
+When bar magnets and compasses are free from the influence of other magnets, their north poles always turn to one direction and south poles to the opposite direction.
+
+Though the position of bar magnets and compasses are changed, their poles turn to the same directions. The reason for this is the existence of a large magnetic field around the earth through north and south poles.
+
+This magnetic field existing near the earth is known as geomagnetism.
+
+Figure 6.23 How earth's magnetic field is located
+
+N
+
+Magnetic North
+
+MagneticSouth
+
+True North
+
+Field lines
+
+True South
+
+S
+
+Liquified metal currents circulate around the axis of the earth, because of the high temperature at the core of the earth. The magnetic field of the earth is the result of the electric currents thus generated.
+
+When a compass or a magnet is kept freely near the earth, its north and south poles are directed along the magnetic field of the earth.
+
+The direction that the north pole of a magnet or a compass, kept in that manner is known as the magnetic north of the earth.
+
+Figure 6.24 How the magnetic North and real North are denoted on a map
+
+True Northmagnetic North
+
+There is a little difference between the real north and the magnetic north of the earth. The magnetic north lies a few degrees north west from the real north.
+
+6.5 Temporary magnets and permanent magnets
+
+Two types of magnets can be identified when considering the uses of magnets. ²Permanent magnets ²Temporary magnetsLet us do Activity 6.10 to understand more about permanent magnents and temporary magnets.
+
+Figure 6.23 How earth's magnetic field is located
+
+Science | Magnets 87
+
+Activity 6.10
+
+You will need : - Iron nail or iron rod of about 2 inch length, two meters of insulated copper wire of 32 SWG, two dry cells, cellotape, a bar magnet, few file clips or pins, a switchMethod : - ²Wind the insulated copper wire of 32 SWG, around the iron nail or iron rod, to make a coil. ²Scrape both ends of the coil and connect it to the dry cells. ²Bring the coil close to the file clips while supplying electrcity and see what happens. ²Disconnect the electrical supply and bring the coil close to the clips, again ²Bring the bar magnet close to the clips and see what happens. ²Discuss your observations in the classroom.
+
+Figure 6.25 File clips are attracted when electricity is supplied
+
+Figure 6.26 File clips fall off (do not attract) when electrical supply is disconnected
+
+Figure 6.27 File clips are attracted to a permanent magnet
+
+A set-up that becomes a magnet, only when electricity is supplied is known as an electromagnet.In an electromagnet, magnetic power remains only when electricity is supplied. Therefore, they are called temporary magnets. Magnetic power remains for a long time in bar magnets. Therefore, they are called permanent magnets. Making a permanent magnetMagnets of various shapes and sizes are used for various purposes. Let us consider how these magnets are constructed.Materials that show magnetic properties are used to make magnets. Steel, ferrite and soft iron are some magnetic materials which are used to make magnets. Various materials are used to produce various types of magnets.Magnetic power is not retained in soft iron for a long time. Therefore, soft iron is used to make electromagnets and other temporary magnets.
+
+Science | Magnets 88
+
+Magnets, in which magnetic power is retained for a long time, are known as permanent magnets. Steel or ferrite is used to make permanent magnets. Ferrite is used to make more powerful permanent magnets.
+
+Figure 6.28 An electromagnetFigure 6.29 Permanent magnets made of steelFigure 6.30 Permanent magnets made of ferrite
+
+Construction of permanent magnets using magnetic materials can be done in two ways. 1. Electrical method2. Contact methodLet us do Activities 6.11 and 6.12 to make magnets using electrical method and contact method.
+
+Activity 6.11
+
+You will need :- Iron nail or iron hacksaw blade of 2 inches, two meters of insulated copper wire of 32 SWG (Standard Wire Gauge), two dry cells, cellotape, a piece of cardboard, few file clips
+
+Method : - ²Make a 5 cm long tube (about the size of a pencil) using the piece of cardboard. ²Wind the copper wire of 32 SWG, around that tube to make a coil. ²Bring the iron nail close to the file clips to check whether it has magnetic power. ²Then insert the iron nail into the cardboard tube. ²Scrape both ends of the coil and connect it to the dry cell and supply the current several times to the circuit. ²Take the iron nail/ iron hacksaw blade away and observe while bringing it close to the file clips. ²Discuss your observations in the classroom.
+
+Figure 6.31
+
+Science | Magnets 89
+
+The electric current should be supplied several times to the circuit for a long time until permanent magnetism is observed.
+
+Activity 6.12
+
+Figure 6.32
+
+You will need : - A steel needle or steel hacksaw blade of two inches, a few file clips, a bar magnet
+
+Method : - ²Bring the needle/hacksaw blade close to the file clips to check whether it has magnetic power.
+
+²Now, place the needle horizontally on a table.
+
+²Place one end of the bar magnet on the needle and drag it along the same direction as shown in Figure 6.32.
+
+²Repeat this process several times.
+
+²Now bring the needle/hacksaw blade close to the file clips and see what happens.
+
+²Discuss your observations in the classroom.
+
+It will be clear to you that a permanent magnet can be made using electrical method and contact method according to Activities 6.11 and 6.12.
+
+Does the magnetic power of permanent magnets retain forever ? The answer is 'No'. The magnetic power of permanent magnets are lost due to various reasons. Some of the reasons are given below.
+
+²Ageing
+
+²Being subjected to high temperatures
+
+²Being subjected to strong magnetic fields
+
+²Being subjected to vibrations
+
+Let us do Activity 6.13 to test how magnetic power is lost.
+
+Rubbing should be continued for a longtime until permanent magnetism is observed.
+
+Science | Magnets 90
+
+Activity 6.13
+
+You will need : - Three identical iron nails magnetized by a permanent magnet, a few pins, a bunsen burner, a hammer, a pair of crucible tongs, a strong permanent magnet
+
+Method : - ²Bring the pins close to each magnetized iron nail, separately, and note down the maximum number of pins attracted to each nail. ²Subject each nail to each of the following treatments. (a) Vibrate by hammering. (b) Heat to a high temperature. (c) Move to and from close to the strong magnet. ²Bring the pins close to each nail again and count the number of pins attracted to each nail. Fill Table 6.2.
+
+Figure 6.33 Heating strongly
+
+Figure 6.34 Subjected to vibrations
+
+Figure 6.35 Subjected to strong magnetic fields
+
+Table 6.2Action doneNumber of pins attracted before actionNumber of pins attracted after actionHammeringHeatingSubjecting to strong magnetic fields
+
+It may be clear to you that magnetic power fades off because of vibrations, temperature and being subjected to strong magnetic fields. Magnetic power also fades due to ageing. Magnets should be stored in an orderly manner without being subjected to vibrations, temperature and strong magnetic fields to maintain magnetic power for a long time.
+
+Science | Magnets 91
+
+Storage of permanent magnetsMagnetic power of a permanent magnet can be protected for a long time, if it is stored in such a way that its magnetic field does not scatter.
+
+Soft iron plateSoft iron plateStrap of woodSoft iron plate
+
+Bar magnetsFigure 6.36 How magnets are stored
+
+Use of permanent magnets
+
+There are various equipments found in day-to-day life, where permanent magnets are used.
+
+Assignment 6.1
+
+List out instances where permanent magnets are used.
+
+Check whether permanent magnets are used in the following instances.
+
+In loud speakers and speakers In small electric motorsIn some door locks
+
+BagsIn some toys
+
+In compasses
+
+Science | Magnets 92
+
+In pencil boxes
+
+Figure 6.37 Some applications of permanent magnets
+
+Stickers on refrigeratorsPhone covers
+
+For extra knowledge
+
+There are permanent magnets as well as electro-magnets found in most of the small electric motors. But there are some motors only with electro-magnets.
+
+Permanent magnetsElectro magnets
+
+Summary
+
+²Magnetism is a property of some materials. ²Materials which attract to magnets are magnetic materials. ²Iron, nickel, chromium, steel and ferrite are some examples for magnetic materials. ²The area that the magnetic force exists around a magnet is called the magnetic field. ²Imaginary lines used to denote the influence of magnetic field are known as magnetic field lines. ²The direction of magnetic field is from the north pole to the south pole. ²A compass is important to detect magnetic fields.
+
+Science | Magnets 93
+
+²Terminals of a magnet, where magnetic force is concentrated are called magnetic poles. ²There is a magnetic field on the earth. It is known as geomagnetism. When a compass is placed near the earth the direction that its pointer indicates is the direction of earth's magnetic field. ²The direction indicated by the compass is the magnetic north. It lies a little north-western to the real north. ²Permanent magnets are made of steel and ferrite, and temporary magnets are made of soft iron. ²Contact method and electrical method are used to make permanent magnets. ²Power of a magnet may wear off with time, because of high temperature, strong vibrations and the influence of strong magnetic fields. ²Power of a magnet can be retained for a long time by proper storage. ²Permanent magnets and electromagnets are widely used in day-to-day life.
+
+Exercise
+
+1. Select the appropriate words from the brackets and fill in the blanks of the paragraph given below.
+
+(Soft iron, magnetic materials, magnetic poles, magnetic field lines, ferrite, magnetic field).
+
+Materials that show magnetic properties are called ............................. . The best material to make permanent magnets is .............................. . To make temporary magnets, ........................................... is commonly used. The area in which magnetic forces exist is called ............................. . Influence of a magnetic field can be observed using ....................................... . The area on a magnet, where the magnetic forces are concentrated is known as the ......................... .
+
+2. Given below is a rough sketch of a pencil box that closes with the help of a magnet. Suggest a method to test whether the magnet is fixed on the box or on the lid.
+
+3. A student who checked some magnets in the school laboratory found out that their magnetic force is worn out. Give three reasons for that.
+
+Science | Magnets 94
+
+4. Explain scientific reasons for the following.
+
+(a) North pole of a bar magnet, hung freely by a thread is directed towards north.
+
+(b) A piece of iron is attracted towards a magnet, but a piece of copper is not.
+
+5. An iron rod, placed on a table was contacted several times with a bar magnet. Then, it was observed that pins and small pieces of wire are attracted to the iron rod.
+
+(a) Give reasons for the above incident.
+
+(b) What is the term used for the above process?
+
+(c) Suggest another method to get the same result without using a permanent magnet.
+
+Technical Terms
+
+Magnet-pqïnl -
+
+Permanent magnet-iaÓr pqïnl-Magnetic field-pqïnl lafIa;%h-Geomagnetism-N+ pqïnl;ajh -Compass-ud,sudj -Electromagnet-úoHq;a pqïnl -Magnetic pole-pqïnl O%ej -
+
+Magnetic materials-pqïnl øjH -Steel-jdfka -Ferrite-f*rhsÜ -
+
+Soft iron-uDÿ hlv-
+
+North pole-W;a;r O%ejh -
+
+South pole-olaIsK O%ejh -
+
+Magnet-pqïnl -Põ¢u®
+
+Permanent magnet-iaÓr pqïnl-{ø»¯õÚ Põ¢u®
+
+Magnetic field-pqïnl lafIa;%h-Põ¢u¨¦»®
+
+Geomagnetism-N+ pqïnl;ajh -¦ÂUPõ¢uÂ¯À
+
+Compass-ud,sudj -vø\Põmi
+
+Electromagnet-úoHq;a pqïnl -ªßPõ¢u®
+
+Magnetic pole-pqïnl O%ej -Põ¢u•øÚÄ
+
+Magnetic materials-pqïnl øjH -Põ¢uzvμÂ¯®
+
+Steel-jdfka -E¸US
+
+Ferrite-f*rhsÜ -ö£øμØÖ
+
+Soft iron-uDÿ hlv-ö©ßÛ¸®¦
+
+North pole-W;a;r O%ejh -Áh•øÚÄ
+
+South pole-olaIsK O%ejh -öuß•øÚÄ
+
+Science | Measurements Associated with Electricity95
+
+Electricity is one of the main sources of energy used in day-to-day life. Recalling what we have studied about electricity in lower grades let us do Activity 7.1.
+
+Activity 7.1
+
+You will need:- Two dry cells, a torch bulb, a switch, a bulb holder, connecting wiresMethod:- ²Prepare a circuit to light the torch bulb using the given items. ²Switch on your set-up and observe what happens. ²Draw the set-up you prepared using circuit symbols. ²Mention the positive and negative terminals of the cells correctly on the diagram you draw. ²Discuss the reason for the illumination of bulb.
+
+Figure 7.1
+
+The electric current produced in the cells when the switch is closed flows through the conductors of the circuit. The bulb is illuminated because current flows through it.
+
+Flow of electrical charges through a closed circuit is known as an electric current.
+
+7.1 Electric current
+
+Let us do Activity 7.2 to study the flow of electric current through a conductor.
+
+Measurements Associated with Electricity 7
+
+Science | Measurements Associated with Electricity96
+
+Activity 7.2
+
+You will need:- Two dry cells, a switch, a small motor, connecting wires
+
+Method:- ²Prepare the circuit as shown in Figure 7.2 ²Connect the parts as indicated in Table 7.1 and switch on the circuit. ²Record your observations. Table 7.1
+
+StepObservationsObservations after changing the terminals of cells1. Connect the electric motor It rotates to one direction .................................
+
+²What happens when terminals of cells are changed ?
+
+²What can be concluded according to your observations ?
+
+Figure 7.2
+
+The direction of the current flow, changes when the terminals of the cells are changed. The reason for the change of rotational direction of the motor is the change of the direction of current.
+
+² There is a definite direction for the flow of electric current. ² Conventionally, it is considered that current flows from the positive terminal to the negative terminal.
+
+A center-zero galvanometer or a center-zero ammeter/ milliammeter can be used to identify the direction of an electric current.
+
+Figure 7.3 A galvanometerFigure 7.4 A milliammeter
+
+Table 7.1
+
+Science | Measurements Associated with Electricity97
+
+Let us do Activity 7.3 to study further about the direction of current.
+
+Activity 7.3
+
+You will need:- An ammeter or center-zero milliammeter, an electric motor, a dry cell, a switchMethod:- ²Prepare the circuit as in Figure 7.5. ²Operate the circuit and observe what happens. ²Interchange the terminals of the cell and observe again. ²Draw diagrams for each instance and mark the direction of the current flow. ²Discuss the reason for your observations.
+
+Figure 7.5
+
+mA
+
+It is clear that, when changing the connecting terminals to the battery, the direction of motion of ammeter-indicator and the rotational direction of the motor are changed.The reason for this is the change of the direction of current.
+
+Measuring the electric currentPhysical quantities are measured in various instances. For this purpose various measuring equipment and various units are used. Electric current is also a physical quantity. Let us investigate how electric current is measured.
+
+Symbol for electric current - IInternational unit (SI) for electric current - Ampere Symbol - ASub units are used to measure small currents. Two such sub units are given below. ² Milliampere - mA² Microampere - μA
+
+1000 mA - 1 A1000 μA - 1 mA
+
+Equipment used to measure current - Ammeter Symbol - A+-
+
+Milliammeter or microammeter can be used to measure small electric currents.
+
+Science | Measurements Associated with Electricity98
+
+There are two terminals, positive and negative, in ammeter and milliammeter. Usually the positive terminal is red and negative terminal is black. ²When an ammeter is used in a circuit the terminals should be connected correctly. ²To measure the current, ammeter or milliammeter is connected in series to the circuit.
+
+Figure 7.6 AmmeterFigure 7.7 Milliammeter
+
+Let us do Activity 7.4 to measure the current flowing through a circuit.
+
+Activity 7.4
+
+You will need:- Two dry cells, six torch bulbs, bulb holders, connecting wires, switches, an ammeter, a milliammeterMethod:- ²Prepare the circuit as in Figure 7.8. ²Connect the milliammeter to the circuit. ²Measure the current flowing through the bulb while it is illuminating. ²Draw the circuit, to which the milliammeter is connected, using symbols. ²Connect the ammeter instead of the milliammeter and take the readings again. ²Connection of which instrument makes it easier to take the readings ? ²Is it ammeter or milliammeter ? ²Discuss the reason for your answer in the classroom.
+
+Figure 7.8
+
+A
+
+mA
+
+Science | Measurements Associated with Electricity99
+
+The electric current flow through the above circuit is lesser than one amphere (1A). Therefore, it is suitable to use miliammeter to measure small currents. Ammeter is suitable to measure large currents, while milliammeter is suitable to measure small currents.
+
+Let us consider another factor, essential for flowing of electric current through a conductor.
+
+7.2 Potential difference
+
+Water pump
+
+WaterfallPond water
+
+Figure 7.9
+
+Bulb
+
+Dry cell
+
+You may have seen ponds and waterfalls designed in modern houses, which function with the help of water pump. Pond water has less potential energy. But when water is pumped up to the waterfall more potential energy is stored.
+
+The process of electric circuit takes place in the same manner. Dry cell provides electric potential energy to electric chargers. Positive (+) terminal has higher potential than the negative (-) terminal.
+
+This difference of electric potential energy between the two terminals of the cell is called voltage or potential difference.
+
+Electic current flows from a higher electric potential to a lower electric potential.
+
+The voltage between positive terminal and negative terminal of electric cells and batteries is marked on them.
+
+Science | Measurements Associated with Electricity100
+
+Assignment 7.1
+
+²Collect as many as possible electric cells and batteries used commonly. ²Observe how the positive and negative terminals and the voltage values are marked on them. ²Prepare a table of the cells you collected and their voltages.
+
+Figure 7.10 How voltage is marked on some cells
+
+Measuring the potential difference
+
+Symbol for potential difference - VInternational unit (SI) for potential difference - Volt Symbol - VEquipment used to measure potential difference - Voltmeter
+
+Symbol of voltmeter - V+-
+
+Figure 7.11 Voltmeter
+
+There are positive and negative terminals in voltmeter as well as in ammeter. Usually, positive terminal is red and negative terminal is black.
+
+Voltmeter is connected parallely to the circuit to measure the potential difference between two points.
+
+Let us do Activity 7.5 to identify the voltages of some cells and batteries which are commonly used.
+
+Science | Measurements Associated with Electricity 101
+
+Activity 7.5
+
+You will need:- Several dry cells, a button cell, a voltmeter, connecting wiresMethod:- ²Observe how the voltages are marked on the cells and batteries you collected. ²Connect the cells or batteries to the circuit you made as shown in Figure 7.12 ²Measure the voltage between the terminals of the cells or batteries using the voltmeter. ²Compare the values obtained by measuring and the values mentioned. ²Tabulate your observations.Table 7.2Cell/ BatteryVoltage (V)Dry cellLead acid accumulatorButton cell
+
+V
+
+Figure 7.12
+
+The voltage of a normal dry cell is 1.5 V. The voltage between the terminals of a car battery containing six cells is 12 V.Let us do Activity 7.6 to measure the potential difference between two points of a circuit, using a voltmeter.
+
+Activity 7.6
+
+You will need:- Two dry cells, a torch bulb, a bulb holder, a small electrical motor, a voltmeter, connecting wires, a switch
+
+V
+
+V
+
+Figure 7.13 Figure 7.14
+
+Science | Measurements Associated with Electricity102
+
+Method:- (A) ²Build a circuit to light the bulb, using the bulb, two dry cells, and a switch. ²Connect the voltmeter correctly to measure the potential difference between the two ends of the bulb. ²Measure and record the potential difference between two ends of the bulb ²Draw the diagram of the circuit you built using symbols.(B) ²Remove the bulb and connect the electrical motor to the circuit. ²Switch on the circuit and measure the potential difference between the terminals of the motor.(C) ²Connect both, the bulb and the motor to the circuit as shown in Figure 7.14 ²Measure separately the potential difference between the terminals of the bulb and the motor, using the voltmeter.
+
+Now you have the ability of measuring the potential difference between two points of a given electrical circuit.There are instances, in day-to-day life where accurate measurements of current and voltage have to be taken. Some such instances are given below.1. To make sure, voltages, supplied to houses and factories are of the accurate voltage.2. To detect defects of electrical appliances by measuring the current they consume.3. To take measurements associated with electricity in power houses and electrical generators.4. To identify whether the parts of electrical appliances are functioning properly when repairing.
+
+Figure 7.15 Repairing electrical appliancesFigure 7.16 Measuring electricity in power houses and electrical generators
+
+Science | Measurements Associated with Electricity 103
+
+For extra knowledge
+
+Very sensitive voltmeters and ammeters, assembled using digital technology, are in use currently. They are very high in sensitivity. Reading has been given on the board digitally. Therefore it is easy to use.
+
+Modern voltmeters and ammeters assembled using digital technology
+
+7.3 Resistance of a conductor
+
+We have already observed that a current flows when a potential difference is applied to the ends of a conductor. Let us find out further, whether there are any other factors affecting the flow of current through a conductor.
+
+Activity 7.7
+
+You will need:- Two dry cells, an ammeter, a torch bulb, a bulb holder, a switch, three wires of iron, nichrome and copper of the same length (about 50 cm) and same diameterMethod:- ²Prepare a circuit as shown in the figure. ²Connect each piece of wire, separately to A and B terminals and switch on the circuit. ²Record the observations in Table 7.3 ²Discuss the reasons for your observations in the classroom.Table 7.3
+
+Type of wireNature of illumination of the bulbAmmeter reading (Ampere)1. CopperIlluminate brightly.......................................2. Iron..............................................................................3. Nichrome..............................................................................
+
+Figure 7.17
+
+A B
+
+Science | Measurements Associated with Electricity104
+
+The reason for the difference in illumination of the bulb is because of the current flowing through the circuit changes depending on the type of conductor used. ²Electric current flowing through a conductor depends on the material that it is made of. ²The reason is that the obstacle for flowing of electric current is different from conductor to conductor.
+
+The obstacle caused by a conductor to the flowing of current through it is called the resistance of that conductor. Symbol used to denote resistance - R Unit of measuring resistance - Ohm (Ω)
+
+When the resistance of a conductor increases the current flowing through it decreases.
+
+For your attention
+
+²Resistance is a very useful factor to control the current flowing through a conductor. ²Current flowing through a conductor can be controlled by changing its resistance. ²Components called resistors, produced to various values of resistance are connected to circuits to control the current flow. ²Mostly the value of a conductor is mentioned on it according to a colour code system.Electrical parts that possess the property called resistance are known as resistors. Some of those components are given in Figure 7.18.
+
+Figure 7.18 Various types of resistors
+
+Symbols for resistors
+
+Now you may understand that the current flowing through a circuit can be reduced by connecting resistors to increase resistance of the circuit.
+
+Science | Measurements Associated with Electricity 105
+
+Summary ² The flow of electrical charges through a conductor is known as an electric current. ² Unit of measuring current is Ampere. The equipment used for that is ammeter. ² Ammeter should be connected in series to the circuit. The terminals also should be connected correctly. ² There should be a potential difference between two points of a circuits, for the flow of current. ² Potential difference between the two terminals of an electric source is known as its voltage. ² Unit of measuring potential difference is Volt and the equipment used is voltmeter. ² To measure the potential difference across a part of a circuit the voltmeter should be connected in parallel to it. ² Obstruction of electric current flow through a conductor is known as its resistance. ² Unit of measuring resistance is Ohm. ² Resistors of various values can be used to change the current flowing through a circuit.
+
+Exercise1) Complete the following paragraph using suitable terms for the blanks.
+
+Electric current is a flow of ................................ through a closed circuit. Always electric current flows from a high ...................................... to a ........................... electric potential. .................................. terminal is the place of a cell, where electric potential is high and .................................... terminal is the place where it is low.
+
+2) Figure below shows a set-up prepared by a student to measure the potential difference between two ends of a bulb.1. Is the circuit suitable for the purpose?2. Give reasons for your answer.3. If there is any defect, correct it and draw the circuit again.4. Mention two facts, that should be considered when connecting a voltmeter to a circuit.
+
+Science | Measurements Associated with Electricity106
+
+3) Given below is a circuit prepared by a student to rotate a cardboard disc using an electric motor.To decrease the rotational speed of this motor;
+
+1. What property of the circuit should be increased? 2. Suggest a method to do it.
+
+4) List out three instances in day-to-day life where measuring voltage and current is important.
+
+Technical Terms
+
+Electric current-úoHq;a Odrdj-ªß÷Úõmh®
+
+Electricity-úoHq;h-ªß\õμ®
+
+Electric potential-úoHq;a úNjh-ªß AÊzu®
+
+Voltage-fjda,aàh;djh-÷ÁõÀØÓÍÄ
+
+Resistance-m%;sfrdaOh-uøh
+
+Resistor-m%;sfrdaOl-uøh°
+
+Circuit-mßm:h-_ØÖ
+
+Conductor-ikakdhlh-Phzv
+
+Voltmeter-fjda,aÜógrh-÷ÁõÀØÖ©õÛ
+
+Switch-iaúph-BÎ
+
+Science | Changes in Matter107
+
+8.1 Physical changes and chemical changes
+
+Tear a paper into small pieces. Burn another piece of paper.
+
+Figure 8.1 Can you explain the difference between these two changes? Though the paper is torn into pieces, it is still a paper. So, when tearing a paper its composition is not subjected to any change. Something which is not a paper cannot be formed by tearing the paper. Therefore, such changes are known as physical changes. Changes in which the composition of matter does not change, even though its nature of existence changes, are called physical changes.
+
+However, when the paper is burnt, ash and smoke are formed. There the composition of the paper changed and new substances are formed. Such changes are known as chemical changes. Changes in which the composition of matter forming new substances are known as chemical changes.
+
+Changes in Matter8
+
+Science | Changes in Matter108
+
+Let us engage in Activity 8.1 to study the nature of physical changes.
+
+Activity 8.1
+
+You will need:- A beaker, water, salt, tripod, spirit lamp/bunsen burnerMethod:- ²Take 250 ml beaker and add about 50 ml of water into it. ²Add about one teaspoon of powdered salt into it and dissolve thoroughly. ²Keep a wire gauge on a tripod and place the beaker on it. ²Heat the beaker using the spirit lamp/bunsun burner until water is completely vapourised. ²Record your observations.Figure 8.2
+
+A residue can be seen at the bottom of the beaker. That residue is the salt that was previously dissolved in water. From this it is clear that the change happening during the dissolving of salt in water is a physical change. Let us do Activity 8.2 to investigate the nature of chemical changes.
+
+Activity 8.2
+
+You will need:- A magnesium ribbon, a candle or a spirit lampMethod:- ²Take a magnesium ribbon and clean it well. ²Burn it by holding to the flame. ²Record your observations.
+
+Figure 8.3 Before burning, the magnesium ribbon had a metallic lustre.When held to the flame, it burnt with a bright flame leaving a white powder. Here, the composition of magnesium has changed and a new substance has formed. Therefore, burning of the magnesium ribbon is a chemical change.Like this, the changes we experience in our day-to-day life can be divided into two types, physical changes and chemical changes. Engage in Assignment 8.1 to reinforce your knowledge in this regard.
+
+Assignment 8.1
+
+Classify the following changes as physical changes and chemical changes.² Melting of solid wax ² Vapourisation of water ² Rusting of iron² Melting of ice ² Breaking granite into pieces ² Burning camphor² Burning firewood ² Lighting a cracker
+
+Science | Changes in Matter109
+
+8.2 Changes of state as physical changesLet us do Activity 8.3 to gain an understanding about the changes of state.
+
+Activity 8.3
+
+You will need:- A beaker, a tin lid, a bunsen burner, a glass plate, a tripod, a wire gauge, a crucible, a glass funnel, boiling tubes, surgical spirit, water, a piece of wax, naphthalene, iodineMethod:-Do the activities as indicated in Table 8.1 and record relevant observations.Table 8.1
+
+ActivityObservation1. Place the piece of wax in a boiling tube and heat. Observe. Allow to cool and observe again.2. Put some pieces of ice into a beaker and heat. Observe. Continue heating even after the piece of ice completely turns into water. Make your observations. Hold the plate of glass over the beaker when water boils. (Do as a teacher demonstration) 3. Put a few pieces of iodine into a crucible and heat. Hold an inverted funnel a little above the crucible.
+
+You would have observed that the wax melted when it was heated in a boiling tube. You would have also observed that liquid wax turns into solid when it is allowed to cool. When a solid substance is heated, it turns into the liquid state at a certain temperature. The transition of a substance from the solid state to the liquid is called melting or fusion. Transition of a substance from the liquid state to solid state is called freezing.
+
+You would have observed that ice turns into water. Ice is a substance that exists in the solid state. Water is a liquid. The conversion of a substance from the solid state to liquid state is also a change of state and it is known as fusion. When that water is heated further water vapourises. The change of a liquid into a gas is known as vapourisation. When water boils, formation of droplets of water on the glass plate can be observed. These droplets were formed by the cooling of steam. The conversion of a substance that exists in the gaseous state into liquid state is called condensation.
+
+When crystals of iodine were heated in a crucible, you would have seen that iodine turned directly into a gas. When that iodine gas was brought into contact with a glass surface, crystals of iodine can be seen on the surface from this, it is clear that
+
+Science | Changes in Matter110
+
+when iodine vapour cools it directly turns into solid iodine without becoming a liquid. The turning of a solid into vapour without passing through the liquid state is also a change of state. It is known as sublimation.
+
+During a change of state no new substances are formed by changing the composition. Therefore, the changes of state are physical changes.
+
+Sublimation
+
+Solid
+
+LiquidGas
+
+Fusion
+
+Freezing
+
+Condensation
+
+Vaporisation
+
+Figure 8.4
+
+8.3 Chemical changes
+
+So far we have discussed about the nature of physical changes. When a physical change occurs, a change in the composition of the substances does not occur.
+
+But when chemical changes occur, new substances are formed.
+
+Let us do Activity 8.4, 8.5, 8.6 and 8.7 to study the nature of chemical changes further.
+
+Activity 8.4
+
+You will need:- Lead nitrate, a boiling tube, a bunsen burnerMethod:- ²Take about 1g of lead nitrate to a boiling tube. ²Heat the boiling tube using the bunsen burner. ²Record your observations.
+
+When white lead nitrate is heated a brown coloured gas is evolved leaving a red coloured powder in the boiling tube. Since, the composition of lead nitrate has changed this is a chemical change.
+
+Science | Changes in Matter111
+
+Activity 8.5
+
+You will need:- Copper sulphate, an iron nail, a boiling tube, a thermometerMethod:- ²Add water and copper sulphate crystals to the boiling tube and prepare a light blue solution. ²Put the cleaned iron nail into it. ²Record your observations.
+
+When a cleaned iron nail is placed in a copper sulphate solution you would observe that the blue colour of the solution decreases, a reddish brown subtance deposits on the nail and at the bottom while the temperature rises.
+
+Activity 8.6
+
+You will need:- A solution of copper sulphate, a solution of sodium hydroxide, two test tubesMethod:- ²Mix the copper sulphate solution with the sodium hydroxide solution. ²Record your observations
+
+When the copper sulphate solution is added to the sodium hydroxide solution, a formation of a light blue solid can be observed. Such solids are called precipitates.
+
+Activity 8.7
+
+You will need:- Dilute hydrochloric acid, a zinc granule, a boiling tubeMethod:- ²Add a little dilute hydrochloric acid to the boiling tube. ²Add the piece of zinc into it. ²Record your observations.
+
+When a granule of zinc is added into hydrochloric acid, we see that zinc dissolves and a gas is liberated.
+
+Pay your attention to the above activities. In all of them new substances are formed. You already know that in chemical changes new substances are formed. In the above activities, identify the observations which testify the formation of new substances and complete Table 8.2.
+
+Science | Changes in Matter112
+
+Table 8.2
+
+ReactionObservations in support of the formation of new substances1. Heating lead nitrateFormation of a red powderEvolution of a brown coloured gas2. Putting an iron nail into a copper sulphate solution3. Adding copper sulphate solution to sodium hydroxide solution4. Adding a zinc granule to hydrochloric acid
+
+Based on the observations made with regard to the chemical reactions stated in this chapter before, some of the following can be given as evidences in support of the fact that a chemical reaction has taken place in the above activities. ²Evolution of gases ²Change in colour ²Change in temperature (exchange of heat) ²Formation of precipitates ²Production of sound/light ²Production of an odourThe formation of a new substance having a different composition or several new substances by one or more substances undergoing change is known as a chemical change or a chemical reaction.Recall the burning of magnesium again. Magnesium is a metal with a silvery lustre. Upon heating, it combines with oxygen in the air and forms a white powder. That powder is known as magnesium oxide.
+
+The substances that get subjected to change during a chemical reaction are called reactants.
+
+Hence, the reactants of the above reaction are magnesium and oxygen.
+
+The new substances formed by a chemical reactions are referred to as products.
+
+The product of this reaction is magnesium oxide. This reaction can be shown in the form of a word equation as follows.
+
+Magnesium + Oxygen Magnesium oxide
+
+Hence, in a chemical reaction, reactants turn into products.
+
+Rusting of iron, tarnishing of metals, combustion of materials, decay of organic matter, ripening of fruits, blast of a cracker and digestion of food by enzymes are some chemical reactions taking place every day.
+
+Science | Changes in Matter113
+
+Law of conservation of massWhat kind of a change do you think will happen to the total mass of the substances that are subjected to the chemical changes or chemical reactions you have identified? To inquire into this let us do following activities.
+
+Activity 8.8
+
+You will need:- Iron wool, two identical iron wires, a horizontal rodMethod:- ²Take two equal masses of iron wool and lump them loosely ²Using the two iron wires tie them to the horizontal rod as shown in Figure 8.5. ²Suspend the rod on a support to balance it horizontally. Light one lump of iron wool. ²Record your observations.
+
+Figure 8.5
+
+Iron wool burns giving reddish sparks. At the same time the side with burnt wool moves down. From this we can infer that when iron wool turns into the products of combustion, the mass increases.
+
+Activity 8.9
+
+You will need:- A few heads of matches, a boiling tubeMethod:- ² Put a few heads of matches to a boiling tube. Weigh the boiling tube with them. ² Heat the boiling tube strongly with an open flame until the match heads catch fire. ² After cooling, weigh the boiling tube with its contents. ² Record your observations.
+
+Here, you will be able to observe that the mass after the reaction is lower than the mass before the reaction.
+
+Here, you may have the problem why there was an increase in the mass when iron wool was burnt in Activity 8.8 while a decrease in mass was shown when the match heads were burnt in Activity 8.9. In the above experiments, the substances were burnt in open environments. Therefore, when those substances react there is a chance to combine with some substances in the environment and also to release the products of combustion to the environment. An increase in mass occured due to addition of some substances. A decrease in mass was noticed due to the loss of some substances to the environment.
+
+Science | Changes in Matter114
+
+• Open systems - The systems in which the substances can exchange between the system and the surroundings are referred to as open systems.• Closed systems-The systems in which the substances cannot exchange between the system and the environment are called closed systems.
+
+Therefore, to find out whether a change occurs in the total mass of substances taking part in a chemical reaction, the experiment should be conducted in a closed system in which substances are neither gained from nor lost to the surrounding. Let us engage in Activity 8.10 and Activity 8.11 which have been designed after taking these facts into consideration.
+
+Activity 8.10
+
+You will need:- A few matches, a boiling tube, a rubber balloonMethod:- ²Let us now conduct Acitvity 8.9 in a closed system. ²As shown in Figure 8.6, close the mouth of the boiling tube containing matches with a balloon. Measure its mass. ²Apply heat close to the bottom of the tube until the matches light up. ²Allow the boiling tube to cool and weigh again.
+
+Balloon
+
+Boiling tube
+
+Match sticksFigure 8.6
+
+When the matches burn, the balloon get inflated gradually.During the reaction the products are not lost. Also it is seen that there is no change in the total mass before and after the reaction.
+
+Activity 8.11
+
+You will need:- A conical flask, lead nitrate 1 g, water 20 ml, sodium chloride 1 g, a boiling tubeMethod:- ²Take about 1g of lead nitrate to a conical flask and dissolve in about 20 ml of water. ²Take about 1g of sodium chloride to a test tube, dissolve it in about 5ml of water and transfer this solution to an ignition tube. ²Tie the ignition tube with sodium chloride solution with a string and suspend it inside the conical flask containing the lead nitrate solution with the help of a stopper as shown in Figure 8.7.
+
+Lead nitrate
+
+Sodium chloride
+
+Figure 8.7
+
+Science | Changes in Matter115
+
+²Seal the conical flask by applying vaseline around the stopper. Weigh the flask with its contents. ²Slant the apparatus slowly and let the two solutions mix. Record your observations. ²Weigh the apparatus again and note the mass.Formation of a white precipitate on mixing the two solutions indicates the occurrence of a chemical reaction in the apparatus. The result of the experiments also shows that there is no change in the total mass before and after the reaction.
+
+The french scientist Antoine Lavoisier (1743 - 1794) who conducted many experiments such as the above in relation to various chemical reactions showed for the first time that the total mass of the substances taking part in a chemical reaction (reactants) is equal to the total mass of the products obtained after the reaction. Later this finding came to be known as the Law of conservation of mass.
+
+Law of conservation of massDuring chemical reactions the total mass does not change. That means the mass is conserved.
+
+8.4 CombustionWhen magnesium burns in air, magnesium reacts with oxygen in the air forming magnesium oxide.
+
+Oxygen gas in air is essential for combustion. Oxygen is the gas in air that supports combustion. There are substances which can be burnt and which cannot be burnt. The substances that can be burnt are known as combustible substances. The substances that cannot be burnt are non-combustible substances.
+
+• combustible substances: e.g. :-camphor, wax, sulphur, sugur, lacquer, paper, tar, flour, petrol, kerosene
+
+• non-combustible substances: e.g. :- asbestos, glass, sand, rock
+
+Combustion is the reaction of a combustible substance with a gas which acts as a supporter of combustion. The special feature of the reaction of combustion is that it is a chemical change which takes place releasing thermal energy and light energy.
+
+A combustible substance has to be heated to a certain temperature for combustion (to start to reacting with oxygen gas). This temperature changes from substance to substance. The temperature at which a combustible substance begins combustion in the air is called its ignition temperature (ignition point).Let us do Activity 8.12 to compare the ignition temperatures of several combustible substances.
+
+Science | Changes in Matter116
+
+Activity 8.12
+
+You will need:- A tin lid, a stand, a match, a piece of paper, cotton wool, magnesium ribbon, sugar, a piece of sulphurMethod:- ²Fix the tin lid to the stand. ²Place the above substances on the tin lid. ²Keep the Bunsen burner underneath the tin lid and heat. ²Observe the sequence in which the combustible substances placed on the tin lid ignite and note it down.
+
+The substances which ignite early have low ignition temperature.A combustible substance starts to burn after it gets heated to its ignition point.Thus, three main factor essential for combustion can be identified. They are;• Presence of a combustible substance• Having access to a supporter of combustion (Oxygen).• Heating the combustible substance to its ignition temperature.
+
+Fire triangle
+
+Heat
+
+FuelFigure 8.8 Fire triangle
+
+Oxygen
+
+Pay your attention to a fire broken out by accident. The fire should be extinguished to prevent damage. If a fire is to be extinguished the factors causing fire should be removed from the fire. The following figure which shows the relationship among the factors required to create a fire is known as the fire triangle. Examine it well.
+
+To extinguish a fire it is required to prevent the access of the supporter of combustion to the fire, prevent reaching the ignition temperature (i.e.prevent receiving heat) and remove the combustible substance.
+
+The method we use to extinguish a fire mostly is throwing water over the burning material. In addition to this covering the burning substance with sand and wet gunnies is also done.
+
+Science | Changes in Matter117
+
+²When water is sprayed over the fire it is extinguished. This is because when water vaporises absorbing heat from the burning material, temperature of under falls below the ignition temperature. ²When somebodys, clothes catch fire, the most suitable method to extinguish it is to roll on the ground. This helps break the connection between air, the supporter of combustion, and the material that has caught fire. When the clothes are on fire you should never run. During running more and more oxygen is supplied to the fire, so it spreads faster.
+
+The same method cannot be used to extinguish all fires. The nature of the fire should be identified and then the appropriate method should be selected.
+
+Fuels
+
+Fuels are substances used to generate heat energy and light energy by combustion.
+
+²Examples for solid fuels :- Firewood, coconut husks, coconut shells, wax ²Examples for liquid fuels :- Kerosine, petrol, diesel, coconut oil ²Examples for gaseous fuels :- Liquid petrolium gas (LP gas), coal gas, methane (bio gas)
+
+Almost every fuel contains the elements carbon and hydrogen.
+
+Let us carry out Activity 8.13 to identify the products formed during the combustion of fuels.
+
+Activity 8.13
+
+You will need:- A candle, a boiling tube, a bottle, a funnel, lime water, copper sulphateMethod:- ²Arrange the apparatus as shown in Figure 8.9. Connect the boiling tube/bottle with lime water to the aspirator. Light the candle and operate the aspirator. When the aspirator works an air current is drawn through the apparatus from the funnel to the boiling tube.
+
+Lime water
+
+Aspirator
+
+Candle
+
+Water
+
+Anhydrous copper sulphateFigure 8.9
+
+Science | Changes in Matter118
+
+U tube contains anhydrous copper sulphate (white). The boiling tube/bottle contains colourless lime water. When the candle is lit and the aspirator is set to work you will observe that white anhydrous copper sulphate turns blue. Also, it can be seen that the lime water turns milky.White anhydrous copper sulphate turns blue because of the water (water vapour) drawn into the U tube. Lime water turns milky due to carbon dioxide gas.
+
+This activity indicates that when a candle burns, water and carbon dioxide gas are produced. Thus, in the combustion of fuels water and carbon dioxide gas are produced as the products.
+
+Complete combustion and incomplete combustion of fuels
+
+Complete combustion occurs when an adequate oxygen gas (supporter of combustion) is supplied for combustion. You know that fuels contain the elements carbon and hydrogen. On complete combustion carbon gives carbon dioxide and hydrogen gives water. More heat is produced by complete combustion.
+
+The combustion occurring in an inadequate supply of oxygen is called incomplete combustion. In this carbon monoxide and unburnt carbon particles are also produced in addition to carbon dioxide and water. In incomplete combustion, the quantity of heat produced by the flame is relatively low.
+
+Candle flame
+
+Figure 8.10 Candle flame
+
+Outer zone (barely visible)
+
+Luminous zone
+
+Non-luminous zone
+
+Blue zone
+
+When a candle is lit, solid wax turns into liquid wax. Liquid wax moves up through the wick and vapourises. This wax vapour, reacts with oxygen and produces heat and light giving rise to the flame of the candle.
+
+Observe the candle flame well. It has three clearly visible zones.The inner zone is the non-luminous zone. It contains wax vapour. Its temperature is low relatively to that of the other zones. Outer to the non-luminous zone is the luminous zone. The unburnt carbon particles present in that zone becomes incandescent emitting a yellow light. The temperature in this zone is greater than that of the non-luminous zone. Outer to the luminous zone is another zone which appears in blue colour at the base of the flame but is hardly visible in other areas. This is known as the outer zone (invisible zone) and has the highest temperature.
+
+Science | Changes in Matter119
+
+Figure 8.11 Bunsen flame
+
+Light blue zone
+
+Dark blue zone
+
+Non-luminous zoneStem
+
+Collar
+
+Air pore
+
+Gas tube
+
+Foot
+
+Invisible zoneBunsen flameThe colour of the bunsen flame changes with the amount of oxygen gas supplied for combustion. When the oxygen supply decreases the flame turns yellow and when the flame receives enough oxygen it turns blue. By observing the blue flame well, several zones of it can be identified.At the centre of it is the non-luminous zone consisting of unburnt gas. Outer to the non-luminous zone lies a dark blue zone and a light blue zone respectively. The outerpart is the invisible zone. In the invisible zone complete combustion occurs.
+
+8.5 Tarnishing of metals
+
+You have learnt that having a shiny surface is a property of metals. When metals are exposed to air for a long period, that lustre disappears. The change in surface of metals like this is called tarnishing. Almost every metal tarnishes.
+
+A substance called rust is formed on the surface of iron due to tarnishing. This is reddish brown in colour and is called iron rust. This process is called rusting of iron. Due to tarnishing and rusting the surfaces of metals corrode. This is called corrosion of metals. Tarnishing of metals and rusting of iron are chemical changes.
+
+Rusting of ironLet us do Activity 8.14 and Activity 8.15 to investigate the factors essential for rusting of iron.
+
+Activity 8.14
+
+You will need:- Three test tubes, cleaned iron nails, coconut oilMethod:- ²Take some water into a test tube and heat to boiling. Put a cleaned iron nail into it and cover the water surface with a layer of oil (setup A). Oil layer is placed to prevent the dissolving of air when water cools.
+
+Science | Changes in Matter120
+
+²Take equal volumes of cold water to two other test tubes and put a cleaned iron nail into each. Put an oil layer to one of them (set-up B). ²Leave the other test tube as it is (set-up C). ²After a few days observe the setups. ²Record your observations.
+
+Cleaned iron nails
+
+Cold waterBoiled water
+
+Figure 8.12
+
+Coconut oil
+
+ABC
+
+The nail in test tube A does not rust. As it contains boiled water all the air dissolved in it has been expelled. Putting a layer of coconut oil on water has prevented the dissolving of air when water cools.
+
+Test tube B contains cold water. Therefore, its water contains air. Because there is air dissolved in water the nail in it rusts.
+
+The nail in the test tube C is open to the outer environment. As it receives air from outside rusting occurs. Hence it can be concluded that air is essential for rusting.
+
+Activity 8.15
+
+You will need:- A boiling tube, two cleaned iron nails, cork stopper, calcium chloride crystals, wax, coconut oilMethod:- ²Clean the two iron nails with sand paper. ²Fix them to the cork stopper as shown in the Figure 8.13. ²Add calcium chloride crystals to the boiling tube and fix the stopper with the iron nails to it. ²Make the tube air tight with wax. ²Observe this setup for several days. ²Record your observations.
+
+WaxCork stopper
+
+Calcium chloride crystalsFigure 8.13
+
+Iron nails
+
+After a few days it can be seen that the parts of the nails outside the boiling tube have rusted while the parts inside the tube remain without rusting.
+
+Science | Changes in Matter121
+
+Calcium chloride crystals absorb moisture in the air in the boiling tube. Placing wax around the stopper makes the tube air tight and prevents the entry of moisture in air into the tube. As the air inside the tube is free from moisture, the parts of nails inside the tube do not rust.What is expected by driving the two nails into the cork in opposite directions is to ensure that the pointed tip or the flat head of nails have no effect on rusting.
+
+Activity 8.16
+
+You will need:- A beaker, two test tubes, iron filings, cotton woolMethod:- ²Take two test tubes. In one of them (A) trap some moist cotton wool. In the other tube (B), trap a similar plug of moist cotton wool with some iron filings on it. ²Take some water into a beaker and dip the two inverted test tubes A and B in water as shown in Figure 8.14. ²Observe this setup a few days. ²Record the observations.
+
+Moist cotton wool
+
+Tube B
+
+Iron filings
+
+Figure 8.14
+
+Moist
+
+w
+
+M
+
+Tub
+
+Iron filing
+
+Moist cotton wool
+
+Tube A
+
+Water
+
+It can be seen that iron filings in tube B have undergone rusting while water has risen up to about one fifth of its height.The percentage of oxygen in air by volume is 21%. That is, nearly 1/5 th of air in a given space is oxygen. If oxygen gas is used up for rusting, 1/5 th of the volume of air contained in space where rusting occurs should have been spent.
+
+For the rusting of iron filings in tube B, oxygen gas in the air in that tube is used up. As 1/5 th of the volume of air is oxygen the water level rises to 1/5 th the height of the test tube. From this it is clear that oxygen gas is consumed during rusting.
+
+These activities prove us that oxygen and water vapour/water in air are essential for the rusting of iron.
+
+Science | Changes in Matter122
+
+Protection of iron from rustingIron objects rust only when they are able to come in contact with air and water.
+
+Figure 8.15 A galvanised bucketFigure 8.16 A Painted gate
+
+You would have seen that paints are applied on objects made of iron such as grills, gates and bridges. Application of paint is a frequently used method to prevent rusting of iron. It prevents iron from coming into contact with air and water. Grease is also applied in machinery made from iron to prevent rusting.
+
+You have heard about the galvanized iron items. During galvanizing, zinc metal is applied on objects made of iron. Iron in galvanized items does not rust even if their zinc coat is scratched exposing some of their points to air. Therefore, galvanizing is a very good protective method. Items such as buckets, roofing sheets and iron nails are protected by galvanizing.
+
+Application of tin metal is also another method used to protect iron from rusting. The containers of sealed food such as sardine and milk powder, though commonly called 'tins' are vessels made of iron. In them tin is present only as a coating. However, when scratched tin coated vessels rust very fast.
+
+8.6 Neutralisation
+
+Recall what you have learnt in grade 7 about acids, bases and neutral substances. Let us do Activity 8.17 to revise facts about them.
+
+Science | Changes in Matter123
+
+Activity 8.17
+
+You will need:- Test tubes, red litmus, blue litmus, pH papers, hydrochloric acid, sodium hydroxide solution, sodium chloride (salt) solution, phenolphthaleinMethod:- ² Take hydrochloric acid solution, sodium hydroxide solution and sodium chloride (salt) solution separately into three test tubes. ² Test these three solutions with red litmus papers. ² Test these three solutions with blue litmus papers. ² Test these three solutions with pH papers. ² Add two drops of phenolphthalein to these solutions. ² Record your observations.Figure 8.17
+
+AHydrochloric acid solution
+
+BSodium hydroxide solution
+
+CSodium chloride solution
+
+²A Solution A turns the blue litmus paper into red. Solution A does not change the colour of red litmus.When examined with a piece of pH paper, a value less than 7 is obtained. On addition of phenolphthalein it stays colourless.
+
+²Solution B does not change the colour of blue litmus. It turns red litmus into blue. When tested by a pH paper the pH value is greater than 7. The solution gives a pink colour with phenolphthalein.
+
+²Solution C does not change the colour of blue litmus or red litmus. The colour it gives with the pH paper corresponds to 7. It does not show a colour change with phenolphthalein.
+
+From the above observations it can be identified that solution A is acidic, B is basic and C is neutral.
+
+Investigating what type of a change occurs when an acid is added to a baseYou might have heard that milk of magnesia liquid is given to relieve the acidity in stomach. Milk of magnesia is a basic substance. What is the reason for giving a basic substance like this to minimize the affect of an acidic substance? Let us conduct Activity 8.18 to look into this.
+
+Science | Changes in Matter124
+
+Activity 8.18
+
+You will need:- A beaker, a dropping pipette, dilute sodium hydroxide solution, dilute hydrochloric acid, phenolphthaleinMethod:- ²Pour dilute sodium hydroxide solution to a beaker. Add a few drops of phenolphthalein into it. Then add dilute hydrochloric acid dropwise into it using a dropping pipette and observe the colour change in the solution. ²When the acid is added the pink colour of the solution gradually decreases and at a certain moment the solution becomes colourless. This indicates that when an acid is added to a base, the basic property of the base gradually disappears.
+
+Figure 8.18
+
+a - Sodium hydroxide solution with a few drops of phenolphthaleinb - Nutralised to some extent due to the addition of acidc - Totally neutralised solution
+
+When an acid is added to a base or base is added to an acid, their acidic and basic properties decrease and at a certain point acidic and basic properties totally disappear. This process is called neutralisation. You know that sodium hydroxide is a base and hydrochloric acid is an acid. When these two react sodium chloride and water are formed which are neutral substances.
+
+Sodium hydroxide + Hydrochloric acid Sodium chloride + Water
+
+This reaction between an acid and a base is a chemical reaction. It is referred to as a neutralisation reaction.
+
+Let us now explore about some instances in which we happen to meet acid-base neutralisation in day-to-day life.When acidity in the stomach increases milk of magnesia is administered. Milk of magnesia means the base magnesium hydroxide. This base neutralises the excess hydrochloric acid in the stomach.
+
+Science | Changes in Matter125
+
+Figure 8.19
+
+The pain caused by bee stings disappear on application of lime. When bees sting, acidic substances are introduced into the skin. Lime is a base. It neutralises the acid. That is why the pain subsides.
+
+The wasp sting is basic. Therefore, when an acidic substance such as vinegar or lemon juice is applied, the poison gets neutralised relieving the pain.
+
+Lime is applied to acidic soils. Lime which is a base neutralises acids in the soil.
+
+Summary
+
+²The changes takes place in matter is of two types, physical changes and chemical changes. ²In the case of physical changes the existing nature of matter changes, though its composition remains unchanged. ²The changes in which the composition of matter changes giving rise to new substances are known as chemical changes. ²Rusting of iron, corrosion of metals, combustion nutralisation are examples for chemical changes. ²Changes of state such as fusion, vapourisation, sublimation, condensation and freezing are physical changes. ²Heat change, evolution of a gas, formation of a precipitate, colour change and change in temperature provide evidence for the occurrence of a chemical reaction. ²The substances take part in a reaction are reactants and the substances formed during a reaction are products. ²During chemical reactions, the total mass does not change. That means, the mass of the reactants that took part in the reaction is equal to the mass of the products formed after the reaction. ²The reaction of combustible substances with oxygen is called combustion. ²When many fuels are subjected to complete combustion, carbon dioxide and water are formed. ²During incomplete combustion unburnt carbon and carbon monoxide are also formed in addition to carbon dioxide and water. ²The quality of heat generated during complete combustion is relatively higher than that generated during incomplete combustion.
+
+Science | Changes in Matter126
+
+²Water/water vapour and oxygen are essential for the rusting of iron. ²Rusting can be prevented by methods such as applying paint, galvanizing and applying grease. ²When an acid reacts with a base, the acidic properties of the acid and the basic properties of the base disappear. ²The chemical reactions between acids and bases are called neutralisation reactions.
+
+Exercises
+
+01) Select the correct or best suitable answer for the following questions.01. Which of the following is not a chemical change? 1. Condensation of steam 2. Burning of magnesium 3. Rusting of iron 4. Tarnishing of metals02. Which of the following statement is false? 1. Combustion is a chemical reaction. 2. Oxygen is essential for the rusting of iron. 3. Complete combustion gives rise to a yellow flame. 4. It is necessary to heat something to its ignition temperature to burn. 03. The nail in which test tube does not rust after few days ?
+
+ABCD
+
+Boiled water
+
+Oil layer
+
+Fresh water
+
+Oil layer
+
+Boiled water
+
+Fresh water
+
+04. Which of the following is not observed when a piece of zinc is placed in a copper sulphate solution? 1. Gradual dissolution of the piece of zinc. 2. Deposition of a reddish brown substance around the piece of Zinc. 3. Slight heating of the solution. 4. Blue colour of the solution remain same.05. Which of the following does not undergo a chemical change on heating? A-Sulphur B-Magnesium C-Iron 1. Only A 2. Only A and B 3.Only B and C 4 . A , B a n d C
+
+Science | Changes in Matter127
+
+02. The diagram shows a bunsen flame. a. Name A, B, C and D zones. b. In which zone complete burning occurs? c. What is the fuel that burns in a bunsen burner?03. Milk of magnesia is prescribed as a remedy for the discomfort caused by increasing acidity of stomach. a. Is milk of magnesia acidic or basic? b. How do you name the reaction between milk of magnesia and an acid?04.Give short descriptions for the following phenomena. 1. Slaked lime is added to avoid acidic nature in soil. 2. Iron is protected from rusting by application of paint. 3. You should never run,when your clothes are on fire.
+
+C
+
+B
+
+A
+
+D
+
+Technical Terms

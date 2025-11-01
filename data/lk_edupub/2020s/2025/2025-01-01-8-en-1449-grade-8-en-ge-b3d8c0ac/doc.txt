@@ -1,0 +1,1971 @@
+==== BLOCKS ==== 
+
+GEOGRAPHY
+
+Grade 8
+
+Educational Publications Department
+
+First Print - 2016
+
+Second Print - 2017
+
+Third Print - 2018
+
+Fourth Print - 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0136-4
+
+Published by Educational Publications DepartmentPrinted by Saraswathi Publications, No. 2/60, Circular Road, Divulapitiya.
+
+ii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha Apa Sri Lanka Namo Namo Namo Namo Matha Sundara siri barinee, surendi athi sobamana Lanka Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye matha Piliganu mena apa bhakthi pooja Namo Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha Oba we apa vidya Obamaya apa sathya Oba we apa shakthi Apa hada thula bhakthi Oba apa aloke Apage anuprane Oba apa jeevana we Apa mukthiya oba we Nava jeevana demine, nithina apa pubudukaran matha Gnana veerya vadawamina regena yanu mana jaya bhoomi kara Eka mavakage daru kela bevina Yamu yamu vee nopama Prema vada sema bheda durerada Namo, Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha
+
+iii
+
+J¸ uõ´ ©UPÒ |õ©õ÷Áõ®Jß÷Ó |õ® ÁõÊ® CÀ»®|ß÷Ó Eh¼À Kk®Jß÷Ó |® S¸v {Ó®
+
+AuÚõÀ \÷Põuµº |õ©õ÷Áõ®JßÓõ´ ÁõÊ® ÁÍ¸® |õ® |ßÓõ´ CÆ CÀ¼Û÷»|»÷© ÁõÌuÀ ÷Ásk©ß÷Óõ
+
+¯õÁ¸® Aß¦ P¸øn²hßJØÖø© ]ÓUP ÁõÌ¢vkuÀö£õßÝ® ©o²® •zx©À» & Ax÷Á¯õßÖ ©È¯õa ö\ÀÁ©ß÷Óõ.
+
+BÚ¢u \©µU÷Põß PÂøu°ß ö£¯º¨¦.
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+iv
+
+v
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices.Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you all the textbooks from grades 1-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha Wickramanayaka,Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vi
+
+Monitoring and Supervision - W. M. Jayantha Wickramanayaka Commissioner General of Educational Publications
+
+Direction - W. A. Nirmala Piyaseeli Commissioner (Development) Educational Publications Department
+
+Co-ordination - Anupa Madhupani Weerarathne Assistant Commissioner Educational Publications Department
+
+- J. W. Rumesh Jayalath (2019) Assistant Commissioner Educational Publications Department
+
+Panel of Editors
+
+Prof. N. K. Dhangalla - University of Kelaniya (Emeritus Professor)
+
+Prof. S. A. Norbert - University of Colombo
+
+R. P. Peiris - Additional Commissioner (Retired) Department of Examinations
+
+A. R. S. Perera - Assistant Director of Education Bilingual Education Branch Ministry of Education
+
+Anupa Madhupani Weerarathne - Assistant Commissioner Educational Publications Department
+
+M. P. Ranjini Dhanawardhana - Director, Department of Social Science National Institute of Education
+
+S. Karunakaran - Lecturer National Institute of Education
+
+Panel of Writers
+
+Karunasinghe Somadasa - ISA (English), Zonal Education Office Matara
+
+D. M. J. Bandara - Teacher, Kuli/Saranath M.V. Kuliyapitiya
+
+vii
+
+W. A. A. R. Weragoda - Teacher Girls' High School Kandy
+
+W. K. P. Dhanawardhana - Teacher, St. Peter's College Negombo
+
+N. A. Chithralatha - ISA, Zonal Education Office Matara
+
+K. K. U. Gunarathne - Teacher G/ Polpagoda M.V, Yakkalamulla
+
+Yalini Karunagaran - Teacher St. Clare's College Colombo 06
+
+T. Sharamiladharshini - Teacher K/W/Rajawella Hindu National College Digana
+
+T. Srisureshkumar - ADE, Zonal Education Office Matale
+
+S. Ilankovan - Bt/KK/Karuwakerny Vigneswara College Karuwakerny ValachchanaiLanguage Editor
+
+M. P. A. M. Weerarathne - Assistant Commissioner Educational Publications DepartmentProof Reader
+
+H. Dahanayake - Chief Editor - (Retired) Educational Publications Department Cover Design
+
+R. A. Yureka Dilrukshi - IT Unit Educational Publications Department Type Setting (Formatting)
+
+Maps, Figures and Page Setting
+
+Abisheka Ranasinghege - IT Unit Educational Publications DepartmentR. A. Yureka Dilrukshi - IT Unit Educational Publications Department
+
+viii
+
+Content
+
+The Solar System
+
+Uniqueness of the Earth as a habitat of the living beings
+
+The basic features of 1: 50 000 topographic maps of Sri Lanka
+
+South Asia
+
+11
+
+17
+
+29
+
+49
+
+2
+
+4
+
+3
+
+ix
+
+x
+
+For Free Distribution 1
+
+1
+
+The Solar System
+
+The objective of this unit is to study
+
+the composition and functions of the
+
+solar system.
+
+For Free Distribution 2
+
+Have you carefully observed the sun, the moon and the other celestial bodies in the sky? There is evidence that man had shown an interest in knowing about them since ancient times. At present, man can explore more than what is visible to the naked eye, as scientists have invented modern equipment to observe the sky.
+
+It has been discovered that there are eight planets, shapeless pieces of planets called asteroids, various celestial bodies such as dwarf planets and natural satellites revolving around the sun. When all these things are taken together, we consider it as a system. This is called the solar system. It is believed that the solar system has been formed 4600 million years ago, by combining dust particles and gases together.
+
+When we observe the night sky with our naked eye we can see a multitude of stars. Stars are celestial bodies that emit light and heat. Thus, they are sources of energy. They can be seen shining or twinkling in the night sky.
+
+However, the other celestial bodies such as planets, natural satellites and asteroids, though they do not emit light, are visible in the night sky as they reflect the sunlight. They are seen with a "monotonous light that does not twinkle".
+
+Observe the cloudless, clearly visible night sky and get the above information confirmed.
+
+The sun is a star that emits light and heat.
+
+For Free Distribution 3
+
+Composition of the solar system
+
+The Sun and the other celestial bodies which are bound by the gravitational force of the Sun belongs to the solar system.
+
+The celestial bodies found in the solar system are listed below.
+
+² The Sun, the main body of the solar system
+
+² Planets, the largest celestial bodies
+
+² Smaller planets or dwarf planets
+
+² Natural satellites of the planets
+
+² Millions of other rock particles or debris
+
+» Asteroids
+
+» Comets
+
+» Meteoroids
+
+Fig. 1.1 - Solar system
+
+Source - http://www.retecool.com/wp-content/uploads/2015/09/solarsystem-21.jpg 21/02/2016
+
+Ve
+
+n
+
+us
+
+Ea
+
+rt
+
+h
+
+M
+
+ar
+
+s
+
+As
+
+ter
+
+oid
+
+B
+
+el
+
+t
+
+Ju
+
+pi
+
+te
+
+r
+
+Sa
+
+tu
+
+r
+
+n
+
+Ur
+
+an
+
+us
+
+Ne
+
+pt
+
+un
+
+e
+
+Comet
+
+Makemake
+
+Pluto
+
+Eris
+
+Ceres
+
+S
+
+u
+
+n
+
+M
+
+er
+
+cu
+
+r
+
+y
+
+For Free Distribution 4
+
+The Sun
+
+The Sun is the main source that provides energy for the existence of life on Earth. The Sun lies at the centre of the solar system. A massive amount of heat is generated at the core of the Sun as a result of fusion and thermonuclear reactions. The temperature of the centre of the Sun is about 15,000,0000C (15 million 0C) while the surface temperature is about 60000C.
+
+Several important facts about the sun are given below;
+
+² It holds 99.86 percent of the total mass of the solar system or the substances that belong to the whole system.
+
+² Its extent is 109 times of the diameter of the Earth. The diameter is 1.4 million kilometres.
+
+² It is a source of energy and it provides energy and heat to all the planets in the solar system.
+
+² Solar storms occur on the surface of the Sun and on such occasions flames would burst out from the Sun.
+
+² The Sun revolves around its own axis. The time taken for one rotation is 25.4 Earth days.
+
+Fig. 1.2 - The Sun
+
+Source - http://nssdc.gsfc.nasa.21/02/2016Fig. 1.3 - the Coronal loops that gives out heat on the Sun's surface
+
+1. Name the types of celestial bodies that belong to the solar system.
+
+2. Explain how planets and stars differ from each other.
+
+3. Write four specific features of the Sun.
+
+4. Prepare an article for a wall paper about the Sun, using information from books, newspapers, magazines and the internet.
+
+Activity 1.1
+
+For Free Distribution 5
+
+Planets
+
+The solar system consists of 8 main planets. They are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. Between Mars and Jupiter there is a belt of asteroids. Planets have been divided into two categories as inner planets and outer planets.
+
+² Inner planets
+
+The planets located between the Sun and the belt of asteroids are known as inner planets (Study Fig. 1.1). They are composed of rocks made up of silicate and metal materials. Mercury, Venus, Earth and Mars belong to the category of inner planets.
+
+² Outer planets
+
+The planets located out of the belt of asteroids are known as outer planets. Jupiter, Saturn, Uranus and Neptune belong to this category. They are basically gaseous in composition (Hydrogen and Helium).
+
+Mercury
+
+² Mercury is the closest planet to the Sun.
+
+² It is the smallest planet of the solar system. It is a bit larger than the Moon, the natural satellite of the Earth, in size.
+
+² The temperature is extremely high due to its close proximity to the Sun and slow rotation. The surface temperature is about 1670C.
+
+² There are craters on the surface due to volcanic eruptions.
+
+² It has no atmosphere. Therefore, these is a high risk of falling asteroids and meteors.
+
+² Mercury has no satellites.
+
+Fig. 1.4 - Mercury
+
+Source - www.windows2universe.org/ 13.02.2016
+
+Spherical objects that are moving on orbits around the Sun are called planets.
+
+For Free Distribution 6
+
+Venus
+
+² Venus is the second planet according to the distance from the Sun.
+
+² It is the closest planet to the Earth.
+
+² It is the planet with the highest surface temperature (4640C).
+
+² The main gas found in this planet is Carbon dioxide (96%).
+
+² It is somewhat smaller than the Earth in size.
+
+² It is the planet most clearly visible in the night sky.
+
+² The surface of the planet is covered by a thick layer of clouds. Therefore, its surface cannot be seen well. It is visible brightly in the sky due to the reflection of the Sun’s rays by this thick layer of clouds.
+
+² Rotation from East to West is a special feature of this planet.
+
+² During one period of the year it is clearly visible in the eastern sky before dawn and during another period, in the western sky after sunset. Hence, Venus is called the Morning Star as well as the Evening Star.
+
+² Venus has no satellites.
+
+Earth
+
+²Earth is the planet which we live on.
+
+²It is the third planet from the sun in distance and it is the largest among the inner planets.
+
+²It is visible as an attractive celestial object in blue when it is seen from outer space. Hence, it is called the Blue Planet.
+
+²According to the information found upto date, it is the only planet with life.
+
+Fig. 1.5 Venus
+
+Source - www.windows2unverse. 13.02.2016
+
+Fig. 1.6 - The Earth (A photography taken from Appollo 17)
+
+Source - www.windows2universe.13/02/2016
+
+For Free Distribution 7
+
+² Existence of water, congenial atmospheric composition and the gravitational power are the reasons for the existence of life on Earth.
+
+² The Earth has one natural satellite called the Moon.
+
+Mars
+
+² Mars is the fourth planet from the Sun according to distance.
+
+² It is called the Red Planet since it is visible as a reddish object in the night sky.
+
+² We can see Mars with the naked eye as it is the second closest planet to the Earth.
+
+² There is a thin atmosphere and carbon dioxide is the predominant gas.
+
+² Mars has two satellites called Phobos and Deimos.
+
+Jupiter
+
+Fig. -1.8 - Jupiter
+
+Sorce - http://nssdc.gsfc.13/02/2016Fig. 1.9 - A close photo shot of the surface of Jupiter
+
+Source - www.windows2universe.org/our_so
+
+13/02/2016
+
+² Outer planets begin with Jupiter.
+
+² Among the planets, Jupiter is the fifth planet from the Sun and it is the largest planet in the solar system.
+
+Fig. 1.7 - MarsSource - www.windows2universe.org/13.02.2016
+
+For Free Distribution 8
+
+² The diameter of the Jupiter is 1,42,984km and it is ten times more than the diameter of the Earth.
+
+² The regions like black stripes as well as bright regions can be seen on the surface of Jupiter (See fig.1.8).
+
+² Jupiter has the highest gravitational force among the planets in the solar system.
+
+² Jupiter has the largest number of natural satellites. According to the observations upto date, it has 67 natural satellites.
+
+Saturn
+
+² Saturn is the sixth planet from the Sun.
+
+² It is the second largest planet and it is about nine times the size of the Earth.
+
+² Saturn has an attractive set of "rings " around it. These rings are formed of ice particles of different sizes.
+
+² Saturn has 62 natural satellites.
+
+Uranus
+
+² Uranus is the seventh planet from the Sun.
+
+² It is the third largest planet in the solar system.
+
+² It has been found that Uranus too has a thin set of rings around it.
+
+² It has 27 satellites.
+
+Fig. 1.10 - SaturnSource - Image courtesy of NASA, ESA, J. Clarke (Boston University) and Z. Levay (STScI
+
+Fig. 1.11 - Uranus
+
+Source - http://s3.amazonaws.com/kidz-world_photo
+
+For Free Distribution 9
+
+Neptune
+
+² Neptune is the eighth planet and the one farthest from the Sun.
+
+² It is seen in blue.
+
+² It is four times larger than the Earth.
+
+² Neptune is extremely cold due to the long distance from the Sun.
+
+² It has 14 natural satellites.
+
+Facts about planets in brief
+
+Table 1.1 - Facts about planets
+
+No. of satellitesMean temperature P eriod of RevolutionRotation periodDiameterPlanet
+
+CelsiusDaysHourskm0 167 881407.64879Mercury
+
+0 464224.755832.512104Venus1 15365.223.912756Earth2 -65 68724.66792Mars67 -110 43319.9142984Jupiter62 -140 1074715.7120536Saturn27 -195 3058917.251118Uranus
+
+14 -200 5980016.149528Neptune
+
+Source - http://nssdc.gsfc.nasa.gov/planetary/factsheet 21/02/2016
+
+Rotates from east to west.
+
+1. Name the planets in the ascending order according to the distance from the Sun.2. Categorize them as inner and outer planets.3. Present the composition of the solar system in a diagram.
+
+Activity 1.2
+
+Fig. 1.12 - Neptune
+
+For Free Distribution 10
+
+1. Prepare a brochure including information about planets.
+
+2. With the teacher's instructions prepare a model of the solar system using materials that could be found easily.
+
+Assignment
+
+Dwarf planets
+
+The small planets which have no fixed orbits are known as dwarf planets. At present five planets have been identified as dwarf planets (International Astronomical Association 2006). However, scientists believe that there may be more than five. The five dwarf planets are shown in the picture below.
+
+Fig. 1.13 - Dwarf Planets
+
+Source - http://www.the-dialogue.com/wp-content/uploads/2016/02/ensystem
+
+Pluto
+
+Eris
+
+Ceres
+
+Makemake
+
+Haumea
+
+Natural satellites
+
+The celestial objects that orbit around the main planets are called natural satellites. So far, scientists have identified 173 such satellites that belong to the main planets and eight satellites that belong to the dwarf planets.
+
+For Free Distribution 11
+
+Table 1.2 - Number of natural satellites in the solar system
+
+NeptuneUranusSaturnJupiterMarsEarthVenusMercuryPlanets
+
+142762672100No. of satellites
+
+ErisMake makeHaumeaPlutoCeresDwarf planets
+
+10250No. of satellites
+
+Source - http://nssdc.gsfc.nasa.gov/planetary/factsheet 21/02/2016
+
+Asteroids
+
+Asteroids are usually considered as fragments of rock left over when forming the solar system. They are formed with hard rocks and they are of different shapes and sizes. More than millions of asteroids can be found between the orbits of Mars and Jupiter (Observe fig. 1.1).
+
+1. State the number of natural satellites with the planets in the solar system according to the information found so far.
+
+2. Describe what dwarf planets are and name the dwarf planets found so far.
+
+Activity 1.3
+
+Beliefs connected with the solar system
+
+Different beliefs exist in the society regarding the impacts of the Sun, the Moon and the other planets on the lives of people.
+
+Fig. 1.14 - An asteroid
+
+For Free Distribution 12
+
+Several such beliefs are mentioned below.
+
+² Worshiping the Sun and the Moon considering them as gods.
+
+² Emergence of the astrology on the basis of the movements of the Sun and the Moon and the other planets.
+
+² Holding ritualistic activities known as 'Shanthe karma', due to the belief that planets have malefic or bad effects.
+
+² The preparation of the horoscope on the basis of the locations of planets at the time of the birth and prevalence of the belief in society that many things are determined by the influence of planets.
+
+² There are various ceremonies on the basis of the Sun and the Moon. (Thaipongal festival, Sinhala and Hindu New Year festival and Ramalan Festival)
+
+Fig. 1.15 - Sinhala and Tamil new year festivalFig. 1.16 - Thaipongal festival
+
+² Organization of traditional farming activities based on the influence of the Sun and the Moon. Accordingly, they have the belief that they would reap a good harvest, receive rain on time and have less harm from pests.
+
+² Considering the direction when collecting the parts of herbal plants used for Ayurvedic treatment and the belief that it has the influence of the Moon.
+
+Though it is difficult to come to a definite conclusion about these beliefs, they have a practical importance.
+
+For Free Distribution 13
+
+New knowledge about the solar system
+
+² The early man used to explore the unseen universe even at the time when science was not developed. New information about the solar system and the universe is continuously added due to the explorations and observations done for a long period since past.
+
+² Galileo Galilee used the telescope to observe the universe for the first time in 1610 A.C. He was able to reveal more information about the universe not known so far, through the observation conducted using his telescope.
+
+Fig. 1.17 - Galileo GalileeFig. 1.18 - Telescope used by Galileo Galilee
+
+Person like Claudius Ptolemy, Nicolas Copernicus, Johannes Kepler and Isaac Newton too were enthusiastic in finding information about the universe in the past.
+
+The launching of an artificial satellite to explore information about space in 1957 A.D by USSR (Russia) is an important event in the history. Thereafter United States of America established the National Aeronautics and Space Administration (NASA) and launched several satellites. Images taken by these satellites have helped in broadening the knowledge about the universe.
+
+It was believed that the solar system has nine planets, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto including our living planet Earth. But, in 2006
+
+For Free Distribution 14
+
+the International Astronomical Institute declared Pluto as a dwarf planet. Hence, hereafter it is considered that the solar system has eight planets. It was accepted that there are celestial objects called dwarf planets among other planets that belong to the solar system.
+
+Recently, the "Caltech" Astronomical Institute in U.S.A. revealed information about a ninth planet which is ten times larger than the Earth. This planet has been named as Planet 9. But, it has not been proved yet as a member of the solar system.
+
+As a result of continuous exploratory activities, the knowledge about the space is changing day by day.
+
+Fig. 1.19 - Neil Armstrong's first step on the MoonFig. 1.20 - Launching of a rocket
+
+1. Prepare a list of the modern discoveries about the solar system.
+
+2. (a) Mention four beliefs found in the Sri Lankan society on the basis of the Sun and the Moon.
+
+3. (b) State some other beliefs that you are aware of and have heard from your elders which are not included in the textbook.
+
+Activity 1.4
+
+For Free Distribution 15
+
+Sources
+
+² https://i.ytimg.com/vi/LWMHIkIFwEQ/maxresdefault.jpg
+
+² www.windows2universe.org/our_solar_system/solar_system.html 13.02.2016
+
+² http://s3.amazonaws.com/kidzworld_photo/images/201562/b96379d2-a7f2- 4f01-a2d2-83712931c25e/uranus.jpg
+
+² http://www.the-dialogue.com/wp-content/uploads/2016/02/en10-exploring- the-solar-system_06.jpg
+
+² Image courtesy of NASA, ESA, J. Clarke (Boston University), and Z. Levay (STScI
+
+² http://nssdc.gsfc.nasa.gov/planetary/factsheet 21/02/2016
+
+² http://nssdc.gsfc.nasa.gov/planetary/factsheet 21/02/2016
+
+² https://upload.wikimedia.org/wikipedia/commons/4/4f/Moons_of_solar_sys tem_v7.jpg
+
+Glossary
+
+²Solar systemfi!r.%y uKav,hbõ°ØÖz öuõSv
+
+²RotationN%uKh_ÇØ]
+
+²RevolutionmßN%uKh_ØÖøP
+
+²Planet.%yf,dalh÷PõÒ
+
+²Asteroids.%ylG›PØPÒ
+
+²Natural SatellitesWm .%yhkaE£÷PõÒPÒ
+
+²Dwarf planetsjduk .%yhka]Ö÷PõÒPÒ
+
+²Gravitational force.=re;ajdl¾IK n,hDº¨¦ Âø\
+
+For Free Distribution 16
+
+²Thermonuclear reactions ;dm kHIaál m%;sl%shd öÁ¨£ Aq«Ò uõUP®
+
+²MassialkaOhvoÄ
+
+²Solar stormsiQ¾h l=Kdgqbõ°ØÖ¨¦¯À
+
+²AxiswlaIhAa_
+
+²Inner PlanetswNHka;r .%yf,dalAPU ÷PõÒPÒ
+
+²Outer planetsndysr .%yf,dal¦ÓU ÷PõÒPÒ
+
+²Ice particleswhsia wxY=£ÛzxoUøPPÒ
+
+²Artificial satelliteslD;%su pkaøsldö\¯ØøPU ÷PõÒ
+
+²Satellite imagespkaøsld m%;sìïnö\´©v¨£i©[PÒ
+
+²AstrologyfcHda;s¾ úoHdjÁõÚ\õìvµ
+
+17
+
+For Free Distribution
+
+2
+
+Uniqueness of the Earth as a
+
+habitat of living beings
+
+The objective of this unit is to find facts about the uniqueness of the planet Earth in the solar system.
+
+18
+
+For Free Distribution
+
+Distance from the sun
+
+150 million km23 hours and 56 minutes0.46 km per second 365 days and 6 hours 29.8 km for a second
+
+Speed of the rotation(in the Equator)
+
+Duration of rotation Time for revolution Speed of the revolution
+
+Basic information about the Earth
+
+Source - http://nssdc.gsfc.nasa.gov/planetary/factsheet 21/02/2016
+
+The Earth is a spherical object with an area of 510 million square km. Though the Earth is considered as a globe, the equatorial diameter is longer by 42 km, than the polar diameter. Therefore, it is not considered as a mathematical sphere.
+
+²Equatorial diameter 12756 km
+
+²Polar diameter 12714 km
+
+Location of the Earth in the solar system
+
+In unit 1, you have studied that the Earth, our home planet, is the third planet from the Sun.
+
+Study the following facts too.
+
+²The average surface temperature on Mercury, located very close to the Sun, is 1670 C.
+
+²The average surface temperature on Venus, the second planet from the Sun, is 4640C.
+
+²The average surface temperature on the Earth is 150C.
+
+19
+
+For Free Distribution
+
+²The average surface temperature on Neptune, the farthest planet from the Sun is -2000C.Source - http://nssdc.gsfc.nasa.gov/planetary/factsheet 21/02/2016
+
+Temperature on the Earth is not as high as on the Mercury and Venus or not as low as on the Neptune as it is located in a middle position in the solar system.
+
+The following factors contribute the Earth to become a habitat for living beings;
+
+² Prevalence of a intermediate temperature.
+
+² Existence of water.
+
+² Existence of gravitational force.
+
+² Presence of an atmosphere with favourable gases as well as water vapour congenial to living beings.
+
+² Occurrence of rotation and revolution.
+
+According to the experiments conducted so far, the Earth is the only planet with life. The Earth contains distinct features that cannot be compared to another planet in the solar system; hence, it occupies a unique place in the solar system.
+
+Latitudes and Longitudes
+
+A network of imaginary lines has been drawn on the model globe to identify any place located on the Earth. These lines are named as latitudes and longitudes.
+
+Latitudes
+
+The imaginary line that separates the Northern and Southern Hemispheres of the geographical globe is the zero (00) latitude known as the Equator. The latitudes that run parallel to the equator in the Northern Hemisphere up to 900 are identified as Northern latitudes and the latitudes that run parallel to the equator up to 900 in Southern Hemisphere are identified as Southern latitudes respectively. The circles of latitudes gradually become smaller when they are extended up to Northern and Southern poles. Ultimately it becomes a point in the South and North poles (Fig. 2.1).
+
+Fig. 2.1 - Latitudes
+
+North Pole
+
+20
+
+For Free Distribution
+
+Longitudes
+
+The imaginary lines on the geographical globe that extend from the North pole to the South pole are called longitudes. The 00 longitude that runs across the city of Greenwich in England, is called the Greenwich Meridian. The longitudes that are located up to 1800 east from the Greenwich meridian are called Eastern longitudes and those that extend up to 1800 West are called west longitudes. But the longitude 1800 is considered as one and it is not classified as a western or eastern longitude.
+
+Rotation of the Earth
+
+The movement of the Earth around its own axis is called the rotation. The Earth rotates from the West to the East on this imaginary axis that runs from the North pole to the South pole. The Earth's axis tilts at an angle of 23.5° to the orbital plane.
+
+Due to the rotation of the Earth, we see as if the Sun rises in the east and sets in the west. The Earth takes 23 hours and 56 minutes for a complete rotation around its axis. But the duration of a day of the Earth is considered as 24 hours.
+
+Occurrence of day and night
+
+The rotation of the Earth results in the occurrence of day and night and regional differences in time.
+
+While, rotating, the half of the Earth that receives sun light has day time. The other side that does not get sunlight has night time.
+
+Fig. 2.2 - Longitude
+
+E
+
+q
+
+u
+
+a
+
+t
+
+o
+
+r
+
+North Pole
+
+S
+
+o
+
+u
+
+t
+
+h
+
+P
+
+ol
+
+e
+
+Fig. 2.3 - The Earth axis and rotation
+
+West
+
+North Pole
+
+South Pole
+
+Rotating Axis
+
+East
+
+Fig. 2.4 - Occurrence of day and night
+
+21
+
+For Free Distribution
+
+According to the location of the longitudes, the
+
+Morning 6.00Texas (U.S.A)
+
+Midday England
+
+Evening 6.00Bangladesh
+
+Midnight New Zealand
+
+Fig. 2.5 – how different places of the world are affected by the location of longitudes.Source - http://www.nauticed.org/
+
+time too differs in different places in the world. Observe Fig. 2.5 to understand how time changes in the world. When the time is 12.00 noon on a longitude, the Sun is overhead. The time is 12.00 midnight on its opposite longitude. The Sun rises early in the countries located in the eastern part of the world as a result of the rotation of the Earth from the West to the East and the Sun rises ralatively later in the Western countries.
+
+When the Earth rotates around its axis once, it moves 3600 during 24 hours. Within one hour it moves 15 of longitudes and requires 4 minutes to travel within two longitudes. Hence the time between two longitudes defers by 4 minutes. Hence, there are time differences in different places on earth according to the change of latitude.
+
+Standard time
+
+The Earth has been divided into 24 regions or time zones on the basis of longitudes for the use of internationally accepted standard time. Usually, a standard time is used in each of the zones. But, there are large countries that extend over several time zones in the world. The United States of America, Canada, Australia and Russia are some of them. The time zones relevant to the particular region is used in these countries (See map 2.1).
+
+Map 2.1 - Standard time zones
+
+Longitudes
+
+Variation of time(hours)
+
+22
+
+For Free Distribution
+
+It is considered that the day breaks at 12.00 midnight. The Greenwich meridian is considered as the 00 longitude. From the Greenwich Meridian 15 longitudes towards east one hour is added to the time and one hour is reduced towards 15 longitudes to the west from the Greenwich meridian. The International Date Line is set based on 1800 longitude and there is one day difference either side of this line.
+
+For example, suppose that the time at Greenwich city is 12.00 noon on a Monday. From there, the time increases regularly towards the east till night. On this occasion, the time in Sri Lanka is 5.30 pm. In the same manner, the time decreases regularly up to morning from Greenwich city towards the west. On this occasion the time in Texas State in the United States of America is 6.00 am. According to this change, the time on International Date Line is 12.00 midnight.
+
+Here, there is another factor to be understood. According to the above example, when moving towards 1800 east from 00 longitude, the time is 12.00 midnight on Monday. When moving towards 1800 west the time is 12.00 daybreak. So, the morning has just dawned or 12.00 midnight on Monday. Therefore, when crossing the 1800 longitude, the clocks should be adjusted accordingly as there is a difference of one day on either side of it.
+
+If the1800 longitude is marked as a straight line, it divides some countries. Then, these countries may face an inconvienience in using the same date for the whole country. As a solution, 1800 longitude, which is also the International Date Line (IDL) is marked avoiding crossing these countries.
+
+1. State the specific features of the Earth that caused the formation and sustainability of life.
+
+2. “The location of the Earth related to the Sun is the main factor that caused the existence of life”. Explain this.
+
+3. State what is known as the rotation of the Earth and write its two main results.
+
+4. State the time zone Sri Lanka belongs to and mention the difference of the time in relation to the Greenwich Mean Time (GMT).
+
+5. Name three countries that observe the Local Standard Time
+
+Activity 2.1
+
+23
+
+For Free Distribution
+
+Revolution of the Earth
+
+The movement of the Earth around the Sun is called revolution, and its path is called the orbit. The Earth takes 365 days and 6 hours for a complete revolution. A duration of 365 days is considered as one year. We add the balance 6 hours of 4 years together and every four years. We have an year with 366 days which is called a Leap year.
+
+Since the Earth rotates on an axis with a 23.50 inclination, the Sun comes directly above different longitudes during particular periods of the year. Therefore, the length of the day and night changes according to the location of latitudes and seasonal changes occur in upper latitudinal regions of the Earth.
+
+Equinox
+
+The Sun is directly over the equator on the 21st of March and on the 23rd of September. The Sun being directly over the equator on the 21st March is called the Vernal equinox or Spring equinox. When the Sun is directly over the equator on the 23rd of September, it is called the Autumnal or Fall equinox.
+
+Solstice
+
+The Sun is directly over the Tropic of Capricorn on 22nd December and it is called the Winter solstice. The Sun is directly over the Tropic of Cancer on the 21st of June and it is called the Summer solstice.
+
+Fig 2.7 - Revolution and seasons
+
+Spring Equinox21st March
+
+Winter Solstice22nd December
+
+Autumn Equinox23rd September
+
+Summer Solstice21st June
+
+24
+
+For Free Distribution
+
+During the equinoxes or when the Sun is directly over the equator on the 21st of March and on the 23rd of September, the duration of the day and night are equal to 12 hours through all latitudes of the Earth.
+
+When the Sun is over the Tropic of Cancer on the 21st of June daytime is longer in the Northern hemisphere while the day in Southern hemisphere is shorter. The Southern hemisphere has a longer daytime when the Sun is over the Tropic of Capricorn on 22nd of December and the daytime of the northern hemisphere is shorter. Both the solstices and the equinoxes are directly connected with the seasons of the year.
+
+When the path of the Sun crosses different latitudes at different time periods of the year, seasons occur with different climatic features. Differences in seasons can be clearly observed in the areas located away from tropics.
+
+There are four main seasons on Earth
+
+² Summer
+
+In countries which have seasonal changes, the highest temperature is recorded during summer and the daytime is longer. Since the temperature is very high during this season, it is a difficult period for man and the other living beings. In the Northern hemisphere summer sets in June and in the southern hemisphere it falls in December.
+
+² Autumn
+
+During autumn the temperature decreases gradually. Autumn sets in for the countries located in the Northern hemisphere during the month of September and for the countries in the Southern hemisphere in March. Due to the gradual decrease of temperature the leaves begin to fall. Thus it is also called the 'Fall'.
+
+Fig. 2.7 - Summer
+
+Fig. 2.8 - Autumn
+
+25
+
+For Free Distribution
+
+² Winter
+
+When the temperature decreases to its maximum level, winter sets in the countries of the Northern hemisphere in December, and for the countries in the Southern hemisphere in June. During this time there is a longer period of night. The leaves completely fall off the trees. Snow falls in many areas and human activities are limited to a great extent.
+
+² Spring
+
+The temperature gradually rises up at the end of winter and spring sets in for the Northern Hemisphere in March and in the Southern hemisphere in September. During this period snow and ice begin to melt. Tender leaves appear on dormant trees and flowers will start to bloom and bear fruits.
+
+1. Briefly explain what is meant by the revolution of the Earth.
+
+2. When the Earth revolves, the latitudes on which the Sun is overhead change according to each time period. Complete the following table.
+
+NameThe Sun is over theDate
+
+Spring equinox..............................21st of March............................................................21st of June..............................Equator23rd of September............................................................23rd of December
+
+3. Explain how a Leap Year occurs.
+
+Activity 2.2
+
+Fig. 2.9 - Winter
+
+Fig. 2.10 - Spring
+
+26
+
+For Free Distribution
+
+Air
+
+A specific feature of the Earth is the availability of gases congenial for the existence of life. The part that consists of various gases is called the atmosphere. The atmosphere is held by the Earth due to its gravitational pull. Wind is the air in motion in the atmosphere or the natural flow of air.
+
+The main substances in the atmospheric composition are gases while water vapour, dust and salts particles are also found.
+
+Importance of the Atmosphere
+
+²Air is the main factor for the existence of life.
+
+²It retains water vapour and helps in maintaining the water cycle. It causes the process of precipitation too.
+
+²It controls the entry of harmful ultraviolet rays of solar radiation through the ozone layer located in the upper part of the atmosphere.
+
+²It controls the falling of meteors to the Earth as they get burnt due to friction against the atmosphere.
+
+²It controls the temperature on the surface of the Earth.
+
+1. Name the four most abundant gases in the atmosphere in the decending order.
+
+2. Write five benefits of the atmosphere.
+
+3. Mention five human activities that cause air pollution.
+
+Activity 2.3
+
+Table 2.1 - Composition of the gases in the Earth’s atmosphere
+
+Volume as apercentage (%)Type of the gas
+
+78.09Nitrogen
+
+20.95Oxygen
+
+0.93Argon
+
+0.03Carbon dioxide
+
+0.00006Ozone
+
+TraceOther gases
+
+Source - Waugh David 2000, Geography An Integrated Approach
+
+27
+
+For Free Distribution
+
+Water
+
+Water is found on Earth in different forms.
+
+Fig. 2.11 - Water in its liquid and solid forms (Ice)
+
+² Liquid - Water
+
+² Solid - Ice
+
+² Gas - Water vapour
+
+71% of the total land area or 3/4 of the Earth is covered by water. This is a special feature that can be seen on the Earth related to the other planets in the solar system.
+
+Distribution of water on Earth
+
+Oceans and Seas 97.5%Ice caps and Snow 1.97%Ground water 0.5%Fresh water 0.03%
+
+This water interchanges cyclically between the land and the atmosphere. This is called 'the water cycle', which is also known as the hydrological cycle (H2O cycle)
+
+Importance of water
+
+²It is an essential factor for the existence of living beings.
+
+²For domestic purposes. (washing, cleaning ,bathing and cooking)
+
+²For all agricultural activities.(crop cultivation and livestock farming)
+
+²For various industries.
+
+²For transportation. (marine and inland waters)
+
+²For generating electricity.(hydro-electricity)
+
+²For recreational activities. (water sports)
+
+1. Name the three main forms of water on the Earth.
+
+2. Explain the distribution of water on Earth using the entry in the lesson.
+
+3. Explain four uses of water.
+
+4. Name three human activities which cause water pollution
+
+1
+
+Nhhi ff
+
+Activity 2.4
+
+28
+
+For Free Distribution
+
+29
+
+For Free Distribution
+
+3
+
+South Asia
+
+The objective of this unit is to study the location and the landscape of the South Asian Region which has diverse characteristics.
+
+30
+
+For Free Distribution
+
+South Asia is an exceptional geographical region .This region is identified as a specific region due to its physical, human and geographical features. The Sundarban marshy land located at sea level and Mount Everest, the highest peak in the world, located in this region are fine examples for diversity in topography. Location of extremely cold areas and extremely warm areas, vegetation changing from dense forests to grass lands show the diversity of climate and vegetation in this region. The impact of this diversity could be seen in human activities as well. Identify the location of the South Asian region from map 3.1.
+
+Map 3.1 : The location of the South Asian region. Source - Philip's Modern School Atlas - 93rd Edition
+
+31
+
+For Free Distribution
+
+Let us identify the relative location of the South Asian region from the above Map 3.1. The region is bounded in the North by the Himalayas, in the South by the Indian Ocean, in the East by the Bay of Bengal and in the West by the Arabian Sea.
+
+Study Map 3.2 and identify the absolute location of the South Asian region. The region spreads from 00 (the Equator) to 380 North latitude in the Northern Hemisphere and 600 to 1000 longitudes East. The South Asian region possesses 3% of the total land area of the Earth.
+
+India, Pakistan, Nepal, Bangladesh, Bhutan, Maldives and Sri Lanka are the constituent countries in the South Asian Region. Nicobar and Andaman Islands too belong to the South Asian region. Afghanistan has been awarded the membership of the SAARC, but geographically it belongs to the Central Asia.
+
+Map. 3.2 - The absolute location of the South Asian regionSource- Philip's Modern School Atlas - 93rd Edition
+
+I n
+
+d i
+
+a n
+
+O
+
+c e
+
+a n
+
+32
+
+For Free Distribution
+
+This region is located to the North of the equator and has a tropical climate. Some South Asian countries have a coastal belt while Nepal and Bhutan are landlocked.
+
+1. State two reasons that have made South Asia geographically exceptional region.
+
+2. Trace a map of South Asia.
+
+(A) Mark and name the South Asian Countries
+
+(B) Mark and name the capital cities of the South Asian countries.
+
+(C) Name four countries that mark the boundary of the South Asian region.
+
+(D) What is the largest country in this region?
+
+Activity 3.1
+
+Landscape of the South Asian region
+
+We observe diverse physical and human landscapes in the South Asian region. When we study the different landscapes in this region, they could be divided into 6 categories based on the specific features.
+
+A landscape means the physical environment in a certain area and the total landscape created on it as a result of human activities.
+
+Map. 3.3 - South Asian countries and the capital cities
+
+33
+
+For Free Distribution
+
+I. Mountain landscapeII. Valley landscape
+
+IV. Rural landscape
+
+VI. Desert landscape
+
+III. Coastal landscape
+
+V. Industrial and urban landscape
+
+Fig. 3.1 - Different landscapes in the South Asian region
+
+34
+
+For Free Distribution
+
+I. Mountain landscape
+
+Except Maldives, all the other countries in the South Asian region have features related to the mountain landscape. Mountain ranges with different heights and various landscapes can be seen in countries like India, Pakistan and Sri Lanka.
+
+India - The Himalayan mountain range
+
+Pakistan - The Hindu Kush and Sulaiman Ranges
+
+Sri Lanka - The Central hills
+
+The main objective of this part of the unit is to study the mountain landscape in the Himalayan range.
+
+Map 3.4 - Himalayan mountain range
+
+Source - Philip's Modern School Atlas 93rd Edition
+
+35
+
+For Free Distribution
+
+The Himalayas has different physical features of a mountain landscape. It also has a human landscape specially adapted to the physical landscape.
+
+Kunlunshan Himalaya and Karakoram mountain range together form the Great Himalayan Range (Map 3.4). The Himalaya Mountain is very important in this mountain landscape. There are mountains, spurs, deep gorges, passes, highlands, plateaus and gaps in this area. The height of the Himalayas is around 8000 meters from the mean sea level and it is spread about 2500km in length. Out of the 14 highest peaks in the world, 9 peaks are located in the Himalayan range.
+
+Different climates ranging from the Polar climate to the tropical climate can be seen in the Himalayas. Temperature decreases along with the increasing altitude. In the lands with low altitude, humidity is high. The region has snow capped peaks like the Everest and warm climate in the Terai valley in Nepal. A dry climatic condition can be found in areas surrounded by mountain ranges. A wide range of animal and plant species can also be identified.
+
+Several Mongoloid tribal groups, such as Bhutia, Khasa, Darad, Lepcha and Sherpas live in the Himalayas. Different religions and cultures can be seen in this mountain landscape. Human activities and recreational activities which are specific to this snowy mountainous landscape such as Mountaineering, skiing and tourism are quite prominent. Physical features of the bodies and the lifestyle of the inhabitants have been adapted according to the mountainous physical environment. They have flat, broad feet and strong legs that enable them to climbing up and down the hills and their arms are strong and muscularly built to carry heavy loads. Their lungs are also adapted to survive in an atmosphere with a lower percentage of oxygen.
+
+Agriculture and livestock farming are the main human activities. Terraced cultivation in mountain slopes, cattle farming and rearing of sheep are done in hilly areas. Some people are engaged in the tourism industry as tourist guides, trade in goods and carry heavy loads of baggage of the mountain climbers. Women are engaged in occupations like weaving and spinning thread.
+
+Fig. 3.2 - A settlement in the Himalayas.
+
+36
+
+For Free Distribution
+
+Houses are built with raw materials such as stones, saw dust, clay and timber that can be found in the immediate environment. Roofs are thatched with species of grass. Houses are constructed so as to withstand relief and the climatic changes. They prefer to live in cluster settlements. Nomads in the mountain regions live in temporary shelters and move from place to place.
+
+The main crops grown here are rice, wheat, corn, green-gram, millet and vegetables. They consume meat obtained from hunting, yams found in the forests and honey they collect. They also trade such items for money.
+
+01. Complete the following table.
+
+Cultivated crops Occupations FoodEthnic Groups Topographical features of the Himalayas
+
+Activity 3.2
+
+II. Valley Landscape
+
+A landscape which is highly
+
+Map 3.5 - The Ganges ValleySource - http://files.prokerala.com/maps/india/
+
+different to the mountainous landscape can be seen in the valleys. Some significant valley landscapes in the South Asian Region are:
+
+²India - The Ganges Valley ²Pakistan - The Indus River Valley
+
+²Sri Lanka - The Mahaweli and Kelani River Valleys
+
+37
+
+For Free Distribution
+
+Here, we focus on the landscape of the
+
+Fig. 3.3 - The landscape of River Ganges
+
+Ganges valley, the largest river valley in this region (map 3.5). This valley begins in the Himalayas and extends about 2510km up to the Bay of Bengal. Different landscapes can be seen on either side of the valley. This is considered as one of the largest river valleys in the world.
+
+The upper part of this river valley belongs to mountain landscape. Physical features and human activities specific to each region can be observed in the middle and lower valley areas. Different features such as undulating lands, braided rivers, meanders, plains, flood plains, sand sheets and wide river valleys are important among the physical features.
+
+The most common feature is undulating land and areas above 200 meters are rarely found in this valley.
+
+Places of worship of many religions such as
+
+Fig. 3.4 - Cultural features in River Ganges
+
+Buddhism, Hinduism and the other religions can be found in the Ganges river valley. River Ganges is considered sacred by Hindus. People who use different languages and follow different religions here clearly enhance the diversity of the cultural landscape along the river valley.
+
+The main human activity of the people in this valley is agriculture. Different agricultural crops are cultivated in the rich alluvial soils throughout the river valley. Paddy, wheat and sugar cane are significant among them. Extreme climatic conditions that prevail in the region affect the crops. Cultivation of the crops has been adapted to the prevalent environmental conditions. Crops such as cotton and sugar cane are cultivated obtaining water from deep wells in some areas.
+
+The Central Ganges valley is famous for extensive paddy and wheat lands and a higher yield is obtained. Jute is the main crop in the lower delta region of River Ganges in Bangladesh. It is called the Golden Fibre, which indicates its importance.
+
+38
+
+For Free Distribution
+
+A large population lives in this region. As a result, labour can be obtained for lower wages. This has contributed for the development of the agricultural and industrial sectors. Industries are located in the main cities such as Delhi, Patna, Agra, Varanasi, Kolkata and Dhaka.
+
+The Population density in this valley is also high. Delhi, Kanpur, Patna, Dhaka and Kolkata are such densely populated cities. There is a network of roads. Transportation of passenger and goods is mainly done by trains, buses and lorries. Many shops and shopping areas are located in the highly populated regions. If you travel from Agra to Patna you could see the diversity in this landscape.
+
+In the overall landscape of the River Ganges, the upper river valley is covered by dense rain forests and it has a lower population. The middle course of the valley has a high population density and paddy and wheat are the main crops. The lower river valley is also highly populated and suffers from frequent floods.
+
+1. I. Mark and name River Ganges on a map of South Asia.
+
+II. Mark and name four tributaries of the Ganges.
+
+2. Explain with three factors how the landscape of the Ganges valley differs from the landscape of the Himalayas.
+
+Activity 3.3
+
+III. Coastal landscape
+
+South Asian region has a very long coastal belt. All the South Asian countries except Nepal and Bhutan have a coastal area. Sri Lanka, being an island state, is encircled by a coastal line. The costal landscapes in Sri Lanka and the Maldives are exceptional.
+
+Sand bars, lagoons, bays, points, coral reefs, beaches and mangroves are salient features of the coastal line. The Maldives is composed of coral reefs and atolls. It has 1200 islands and only 200 are inhabited.
+
+Fishing industry and tourism are the main economic activities in the coastal landscape.
+
+39
+
+For Free Distribution
+
+In Sri Lanka and the Maldives, dented coast line and shallow sea has created a suitable environment for fisheries.
+
+Selling fish
+
+Production of Canned fish
+
+Jobs related to the fishing industry
+
+Fig. 3.5 - Human activities assosiated with the costal belt
+
+g fish
+
+te
+
+in
+
+y
+
+ed
+
+ng
+
+ed fish
+
+Making Maldive fish
+
+Making dried fish
+
+Other by-products
+
+Sea shells and ornaments
+
+Fishing harbours have been established and development of urban and rural settlements in close proximity to the harbours can be seen.
+
+A new trend in the development of the tourism industry can be seen in these countries. There are many islands that are allocated for tourism in the Maldives. Favourable factors in this region for the development of tourism can be listed as follows.
+
+40
+
+For Free Distribution
+
+Shallow sea with coral reefs
+
+Bio diversity in the coastal belt
+
+Sandy beaches with scenic beauty.
+
+Hotel facilities that draw tourist attraction
+
+Clear waters
+
+Many places for sun basking
+
+Natural harbours comprised of well protected lagoons and isolated islands.
+
+Fig. 3.6 - Tourist attractions in the coastal belt
+
+Tourism has expanded along the coastal belt in Sri Lanka too. Southern and Eastern coastal belts are important as they attract more tourists. Many facilities are provided for the development of tourism in the other regions as well. Many job opportunities have emerged in the these areas;
+
+² Jobs in hotels
+
+² Sale of fancy items
+
+² Ayurvedic centers
+
+² Tourist guides
+
+² Trade
+
+² Jobs in harbours
+
+41
+
+For Free Distribution
+
+Many cities and towns in the costal region have been developed. Colombo, Galle, Negombo, Trincomalee and Hambantota can be cited as the best examples.
+
+The coastal landscape is rich in biodiversity. Mangroves, wetlands and marshy lands are unique ecosystems among them. Many varieties of flora, reptiles, birds and fish species can be seen in these eco systems.
+
+Fig. 3.7 - Biodiversity of the coastal landscape
+
+The coastal environment is a highly sensitive zone. Human activities such as unauthorized constructions and coral mining have caused environmental problems. Coastal erosion, environmental pollution and also the increase in socially unacceptable behaviour can be given as the unfavourable results of such human activities.
+
+42
+
+For Free Distribution
+
+1. Mark and name important places in the coastal landscape on an outline map of South Asia. (Maldives, Sundarban plain, Hikkaduwa, Mumbai)
+
+2. What are the salient physical features of the coastal landscape?
+
+3. Mention two industries that have developed due to the tourism industry and also two industries related to the fisheries industry.
+
+4. Name three human activities that has an adverse effect on the coastal landscape.
+
+Activity 3.4
+
+IV. Rural Landscape
+
+Rural landscape is a prominent feature in the South Asian region. The dry zone of Sri Lanka is the best example for the rural landscape. Population density is low in this landscape which is based on agriculture and fisheries. Settlements are formed according to different patterns. There are industries based on agricultural products. The dry zone is a vast flat region with undulating land. Another salient feature is the presence of many rivers.
+
+Agriculture is the main economic activity in this zone. The village has been formed based on the tank at the centre and paddy is the main economic crop. Majority of the rice production in the country is produced in this region.
+
+Fig. 3.8 - Paddy cultivation is done in the dry zone
+
+43
+
+For Free Distribution
+
+Chena cultivation is done in highlands
+
+Fig. 3.9 - Chena Cultivation
+
+where paddy cannot be cultivated. A chena is a special feature in this landscape. Grains, vegetables and fruits are grown in chenas and villages. Livestock farming also can be seen in the dry zone. Cows are used for milking and bulls help in paddy cultivation.
+
+The rural landscape in the South Asian region is subjected to some changes due to development of planned cities under the irrigation projects and water supply projects. Development projects such as Gal oya, Maha oya, Udawalawa have been launched in the dry zone of Sri Lanka.
+
+Indigenous (Adivasi/Adiwasikal) people too live in this region whose traditions, social and cultural features remain unchanged. Many ancient cites such as Anuradhapura and Polonnaruwa are situated in this zone.
+
+1. Name three distinct features of the rural landscape.
+
+2. At present, the rural landscape is changing. Give two reasons for it.
+
+Activity 3.5
+
+V. Industrial and Urban landscape
+
+Urban landscape has emerged in different parts of the South Asian region, related to industrial and commercial activities. Built up areas such as road networks, communication networks, residential areas and administrative centers can be seen abundantly in the urban landscape. Urban centers have emerged as a result of the concentration of people drawn to obtain such facilities. Urban population keeps on expanding when such facilities in the cities develop further. Mumbai, Delhi, Chennai (formerly known as Madras), Kolkata, Islamabad, Karachi and Colombo are important urban settlements in South Asia.
+
+Let us select Mumbai in India to study about the industrial and urban landscape.
+
+² Mumbai, lies on the west coast of India. It has developed as a deep natural harbor. This is India’s second largest city.
+
+44
+
+For Free Distribution
+
+² Very large population is concentrated
+
+Fig. 3.10 - A scene of Mumbai
+
+in a very limited land area.
+
+² Growth of industries and services.
+
+² High density of houses and vertical development of buildings (High rise housing complexes).
+
+² Emergence of settlements of less facilities, built without a plan.
+
+² High diurnal movement of people.
+
+World’s second largest cinema industry is also located in Mumbai. This cinema industry which is second only to Hollywood in U.S.A, is well popular as "Bollywood" in the world.
+
+Fig. 3.11 - Various facets of the urban landscape in Mumbai
+
+45
+
+For Free Distribution
+
+Flat land in this area has contributed to the growth of the city. In the past, Mumbai developed as a market based on cotton industry as it is situated near the black soil belt of Deccan.
+
+Different problems pertaining to the urban landscape in South Asia can be seen in Mumbai too.
+
+² Scarcity of land
+
+² Traffic congestion
+
+² Abundance of low income settlements
+
+People are drawn to Mumbai due to the availability of facilities such as education and services. People are largely drawn to this city because of leisure and entertainment, service facilities for them too have been supplied.
+
+1. Mark and name five industrial and urban cities located in the South Asian region on an outline map
+
+2. State four salient features that have immerged in the Mumbai landscape.
+
+3. State four problems that have arisen in the urban landscape.
+
+Activity 3.6
+
+VI. Desert Landscape
+
+In this part of the lesson we focus on the Thar desert in India.
+
+It is situated in the state of Rajastan which lies on the Indu-Pakistan border. Thar desert is a distinct feature in the landscape of South Asia. The following facts can be considered as key feature of this landscape.
+
+² Land with widely spread sand planes (sheets)
+
+² High temperature
+
+² Annual average rainfall less than 250mm
+
+² High evaporation
+
+² Dry winds due to high temperature
+
+² Low moisture in soil
+
+²Increasing street population
+
+²Environmental pollution
+
+²Increasing abusive behaviour
+
+46
+
+For Free Distribution
+
+There is a largely distributed ground water aquifer in Thar desert. Therefore, the roots of some plants grow deeper in to the soil. In some regions, people get water from deep wells for cultivation. They are known as oases. People have concentrated in oases where water is available.
+
+Fig. 3.12 - A desert landscapeFig. 3.13 - A desert oasis landscape
+
+Crops like sugar cane, cotton and millet are grown in these oases. Livestock farming too is a main economic activity in this region. Camels are used to transport goods. Cotton garments suitable for hot weather are worn here.The houses are painted in different colours to suite the environment.
+
+Due to irregular human activities, the desert seems to be expanding. Land loses its fertility because of livestock farming and increase in grazing of grass.
+
+01. State four salient features of the desert landscape.
+
+Activity 3.7
+
+1. Information about different landscapes in South Asian region is given below. Trace the following grid at the bottom and write down the information that is relevant to the landscapes.
+
+2. i. Mountains in different altitudes
+
+3. ii. Flat land
+
+4. iii. Oases in different parts
+
+Assignment
+
+47
+
+For Free Distribution
+
+iv. Large sand bars are distributed.
+
+v. High population
+
+vi. Abundance of low income houses.
+
+vii. Camel is important in transportation.
+
+viii. Agriculture is done using irrigation
+
+ix. The fishing industry is important.
+
+x. Beautiful coral reefs are present.
+
+xi. Yams, bee's honey, meat are eaten.
+
+xii. Flat lands, valleys and gorges are among the mountains.
+
+xiii. From the upper course to lower course of River Ganges different crops are cultivated.
+
+xiv. Tribal people.
+
+xv. Settlements based on the tank.
+
+xvi. Cultural features has not changed
+
+Mountain Landscape
+
+Valley Landscape
+
+Coastal Landscape
+
+Rural Landscape
+
+Industrial and Urban Landscape
+
+Desert Landscape
+
+Landscape in South Asia
+
+48
+
+For Free Distribution
+
+49
+
+For Free Distribution
+
+The Basic Features of 1: 50 000Topographic Maps of Sri Lanka
+
+4
+
+This lesson offers an opportunity to study several basic features of 1: 50 000 topographic maps of Sri Lanka.
+
+50
+
+For Free Distribution
+
+Various features on the Earth’s surface can be presented by maps. The featuresformed by nature (Natural features) and features made by man (Man-made features) are represented in topographic maps. Colours, letters and symbols have been used to represent these features. These maps are very useful to have a total understanding about the landscape. For that, the maps should be well understood by reading them correctly.
+
+²
+
+² Some features that can be seen on the land are given below. Write them under the correct heading in the table.
+
+Mountain ranges. Main roads, Buildings, Rivers, Forests, Tanks, Farmlands, Plains, Grasslands, Canals
+
+Man-made FeaturesNatural Features
+
+Activity 4.1
+
+The natural features seen on the land are known as physical features and man-made features are known as cultural features.
+
+The Scale and Size of the 1: 50 000 topographic maps of Sri Lanka
+
+The Survey Department of Sri Lanka began to prepare a map of Sri Lanka based on metric units during the first half of the 1980 decade. The scale of this map is 1:50 000. That means one unit on the map, is equal to 50000 such units. Accordingly, 1cm on 1:50000 topographic map is equal to 50,000cm (0.5 kilometre). A distance
+
+51
+
+For Free Distribution
+
+of one kilometre on land is shown by two centimetres on the 1: 50 000 topographic map.The correct distance between two places on the map can be found using this scale.
+
+The length of Sri Lanka from Point Pedro in the North to Dondra Head in the South is 432 km. The width of Sri Lanka, from Colombo in the West to Sangamankanda Point in the East is 224 km (Map 4.1). If the whole map of Sri Lanka is drawn to 1: 50 000 scale, the size of it will be 864 cm - that is (432×2) in length and 448 cm (224×2) in width. Accordingly, the map will be 8.64 m in length and 4.48m in width. Drawing and using such a map is practically difficult. Hence, for the easy and efficient use, topographic map of Sri Lanka, has been divided into 92 parts. Each part is known as a map sheet and each map sheet has been given a name and a sheet number.
+
+ex :-
+
+Name of the map sheet - KandyNumber of the map sheet - 54
+
+Map 4.1 - The length and the width of Sri Lanka
+
+Point Pedro
+
+Sangamankanda Point
+
+Dondra Head
+
+Colombo
+
+432Km
+
+224Km
+
+52
+
+For Free Distribution
+
+Map 4.2 - The map of Sri Lanka after dividing into 92 map sheets
+
+01' Study the map 4.2 and name map sheets No 01 and No 92.
+
+02' Write the name and the sheet number of the map sheet where your school is located.
+
+03' Name with the sheet numbers, the adjoining maps of it'
+
+04. Name five map sheets with sheet numbers, where a larger area is covered by the ocean.
+
+Activity 4.2
+
+53
+
+For Free Distribution
+
+Physical Features and cultural features are included in topographic map. A segment from number 91 Mathara sheet of the 1: 50000 topographic map is depicted below. It includes Waligama bay and the adjoining areas. To study the information represented on the map use the key given in Fig. 4.1. Every topographical map contains such a key.
+
+Map 4.3 - Physical and cultural features - A Part of Matara MapSource - Sri Lanka Survey Department
+
+54
+
+For Free Distribution
+
+Fig. 4.1 - Key
+
+55
+
+For Free Distribution
+
+1. What is the length and the width of the map 4.3 in centimetres?
+
+2. Calculate the length and the width in kilometres using 1:50 000 scale.
+
+Activity 4.3
+
+Physical Features
+
+The land is not the same everywhere. Features like mountain ranges, highlands, plains, slopes, valleys and gaps can be seen on the land. This is termed 'relief'. Contour lines are used to show such topographic features.
+
+Contour lines
+
+² The lines that have been drawn on maps joining the places with equal height on land, are called contour lines.
+
+² Every contour line has a specific value .
+
+² The interval between two Contour lines is equal.
+
+² Contour line interval in 1: 50 000 topographic maps of Sri Lanka is 20 metres.
+
+Fig. 4.2 - Showing relief using contour lines
+
+145
+
+155
+
+160
+
+150
+
+140
+
+130
+
+120
+
+118
+
+110
+
+100
+
+98110
+
+105
+
+100120
+
+140
+
+90
+
+150
+
+100
+
+120
+
+122130
+
+105
+
+160165
+
+150
+
+140
+
+138
+
+56
+
+For Free Distribution
+
+Topographic features are represented in maps using contour lines. Here, several topographic features have been selected for the purpose of study.
+
+² Mountain range
+
+² Conical hill
+
+² Spur
+
+Mountain range
+
+High land that spreads in narrow elongated shape is called a mountain range. There may be several peaks on such a mountain range.
+
+Fig. 4.3 - Mountain range shown by counter linesFig. 4.4 - Mountain range
+
+140
+
+100
+
+Conical hill
+
+A small high land that takes the shape of a cone in a flat land is called a conical hill. Conical hill is represented on a map by the contour lines that spread in a circular shape.
+
+120100
+
+Fig. 4.5 - Conical hill
+
+Fig. 4.6 - A conical hill
+
+² Valley
+
+² Gap
+
+57
+
+For Free Distribution
+
+Spur
+
+A part of a highland which protrudes towards a low land is known as a spur. Spur is represented in a map by the contour lines that run in narrow elongated shape from the high land towards low land.
+
+Valley
+
+Low land located between two high lands is a valley. Rivers flow through some valleys. They are called river valleys. When the contour lines extend pointing towards the highland in the map the valley can be identified.
+
+Fig. 4.8 - Picture of a SpurFig. 4.9 - Picture of a Valley
+
+Gap
+
+The low level opening located in highland or among the peaks of a mountain is known as a gap.
+
+Fig. 4.10 - Gap shown by contour line
+
+Fig. 4.11 - Picture of a gap
+
+Gap
+
+300
+
+320
+
+340360
+
+Valley
+
+Spur
+
+Fig. 4.7 - Spur and Valley
+
+58
+
+For Free Distribution
+
+Following teacher’s instructions draw the topographic features you have identifiedby contour lines as separate figures.
+
+Activity 4.4
+
+Map 4.4 - Physical features represented in a topographic map
+
+Map segment 4.4 shows how the topographic features you have studied are represented on a 1 : 50 000 map. Study the segment of the map and identify them.
+
+59
+
+For Free Distribution
+
+Fig. 4.12 - Showing relief by contour lines
+
+The topographical features can be seen in Sri Lanka have been shown in two dimensions using contour lines in 1:50 000 topographic map. By building them three dimensionally, these features could be understood easily.
+
+1. With the help of the teacher, build figure 4.12 three dimensionally using card boards or some other suitable material.
+
+2. The three dimensional figure can be built setting the card board layers from contour line to contour line as the height of the land rises.
+
+Activity 4.5
+
+Cultural Features
+
+The cultural landscape has been built by man on the physical foundations. Hence there is a close relationship between cultural features and physical features shown in a 1:50 000 map. Here, your attention is focused on several selected cultural features.
+
+100
+
+120
+
+140
+
+160
+
+100120140
+
+100
+
+120
+
+100
+
+120
+
+100
+
+120
+
+140
+
+60
+
+For Free Distribution
+
+² Administrative Boundaries (Provincial, District) ² Main Roads
+
+² Express ways ² Railway Lines
+
+² Irrigation Channel ² Tanks
+
+These cultural features have been shown in the maps by various symbols and colours. These cultural features can be found by observing the key of the topographic map.
+
+Administrative Boundaries
+
+Among the administrative boundaries in Sri Lanka, Provincial and District boundaries are very important. These boundaries have been marked using red symbols on maps.
+
+Provincial Boundary
+
+District Boundary
+
+When these boundaries are delimitated, on most occasions the distribution of rivers and mountain ranges has been considered.
+
+Map. 4.5. - Administrative boundaries in a topographic map
+
+61
+
+For Free Distribution
+
+Main Roads
+
+Main roads are marked by red colour line margined by thin black colour lines on either side of it. They are represented in topographic maps by, 'A' type roads marked with letter 'A' and the road number and 'B' type roads with letter 'B' and the road number.
+
+A9
+
+B46
+
+Express ways
+
+Express ways were added to the road system of Sri Lanka recently. They will be added to the new 1:50 000 topographic maps of new editions.
+
+Railway Lines
+
+In topographic maps railway lines are marked in black colour. Railway station and railway halt on railway line are shown by red colour symbols.
+
+Tanks and Irrigation Canals
+
+Tanks have been built to collect water on land. Water from the tanks is supplied to the farmlands through irrigation canals. The tank bund is marked in brown and area of water is shown in blue in topographic maps. Irrigation canal is marked with a blue colour symbol.
+
+Railway stationRailway
+
+Irrigation canalsTank
+
+Tank bund
+
+62
+
+For Free Distribution
+
+Exercise 01
+
+1. Draw the cultural features you have learnt using relevant colours and symbols. Provincial boundary Main road Railway line Tank Irrigation canal District boundary
+
+Exercise 02
+
+100
+
+101
+
+95
+
+99
+
+100
+
+115
+
+120
+
+90
+
+88
+
+100
+
+112
+
+120
+
+119100
+
+120
+
+K
+
+A
+
+DB
+
+EF
+
+H
+
+G
+
+CJ
+
+A
+
+1. Trace the contour line map shown above.
+
+2. 100m contour line is drawn half, complete it.
+
+3. Mark the values of other contour lines following the 20m contour line interval.
+
+4. Shade the lands above 160m with in brown.
+
+5. Name the topographic feature shown by C-D, E-F, G-H, J-K
+
+6. Draw the road marked on the map using the correct colour.
+
+7. Mark the provincial boundary along the river.
+
+63
+
+For Free Distribution
+
+64
+
+For Free Distribution
+
+65
+
+For Free Distribution
+
+66
+
+For Free Distribution

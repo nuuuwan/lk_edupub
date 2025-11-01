@@ -1,0 +1,3737 @@
+==== BLOCKS ==== 
+
+Information and Communication
+
+Technology
+
+Grade 8Reading Book
+
+Educational Publications Department
+
+ii
+
+First Print 2018Second Print 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0142-5
+
+Published by Educational Publications DepartmentPrinted by Karunaratne and Sons (Pvt) Ltd,65 C, Thalgahavila Road, Midellamulahena, Horana.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka MathaApa Sri Lanka Namo Namo Namo Namo MathaSundara siri barinee, surendi athi sobamana LankaDhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye mathaPiliganu mena apa bhakthi pooja Namo Namo MathaApa Sri Lanka Namo Namo Namo Namo MathaOba we apa vidya Obamaya apa sathyaOba we apa shakthi Apa hada thula bhakthiOba apa aloke Apage anupraneOba apa jeevana we Apa mukthiya oba weNava jeevana demine, nithina apa pubudukaran mathaGnana veerya vadawamina regena yanu mana jaya bhoomi karaEka mavakage daru kela bevinaYamu yamu vee nopamaPrema vada sema bheda dureradaNamo, Namo MathaApa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+v
+
+Being innovative, changing with right knowledgeBe a light to the country as well as to the world.
+
+Message from the Hon. Minister of Education The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan Government and myself, as the Minister of Education, to empower you all.
+
+This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders.
+
+Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence, you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim.
+
+It is your duty to give a proper value to the money spent by the government on your education. Also you should understand that education determines your future. Make sure that you reach the optimum social stratum through education.
+
+I congratulate you to enjoy the benefits of free education and bloom as an honoured citizen who takes the name of Sri Lanka to the world.
+
+Akila Viraj KariyawasamMinister of Education
+
+vi
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you about 91 textbooks from grades 6-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha Wickramanayaka,Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vii
+
+Monitoring and Supervision W. M. Jayantha Wickramanayaka Commissioner General of Educational Publications Educational Publications DepartmentDirection - W. A. Nirmala Piyaseeli Commissioner of Educational Publications (Development) Educational Publications DepartmentCo-ordination - Dakshina Kasturiarachchi Assistant Commissioner Educational Publications DepartmentPanel of Editors Dr. Prasad Wimalaratne Head, Department of Communication and Media Technologies, University of Colombo School of Computing, Colombo 7. Dr. H. L. Premaratne Senior Lecturer, University of Colombo School of Computing, Colombo 7. Dr. P. M. T. B. Sandirigama Senior Lecturer, Department of Computer Engineering, Faculty of Engineering, University of Peradeniya, Peradeniya. S. A. S. Lorensuhewa Head, Department of ICT, Senior Lecturer, Department of Computer Science, University of Ruhuna, Matara. K. P. M. K. Silva Lecturer, University of Colombo School of Computing, Colombo 7. S. Dakshina Kasturiarachchi Assistant Commissioner, Educational Publications Department. Panel of Writers A. Sunil Samaraweera In-Service-Advisor, Zonal Computer Resource Centre, Kegalle. I. R. N. H. Karunaratne Manager, Zonal Computer Resource Centre, President’s College, Maharagama. K. V. S. M. Mohanlal Adviser, Zonal Computer Resource Centre, Deniyaya Madya Maha Vidyalaya, Deniyaya. W. M. A. S. Wijesekara (retired) Manager, Zonal Computer Resource Centre, Haliela. T. K. Palliyaguruge Adviser, Zonal Computer Resource Centre, WP/Jaya/ Sri Yashodara Maha Vidyalaya, Pittugala, Malabe. P. J. K. Kahagalle Adviser, Zonal Computer Resource Centre, Sri Rahula Balika Vidyalaya, Malabe. V. Goonetilleke (retired) Lecturer, Sri Lanka Institute of Information Technology.
+
+Language Editing Ranjith Iluppitiya Director, National Book Development Council of Sri Lanka, Ministry of Education. Cover Page Chaminda Hapuarachchi Educational Publications Department
+
+Technical Assistance Thinoli Shenesha Kothalawala Educational Publications Department P. A. D. Nisansala Sandamali Educational Publications Department
+
+viii
+
+We are grateful if you can send us your comments to feedbackicttextbook@gmail.com regarding the contents of this series of books on Information and Communication Technology and your suggestions to develop the creativity of students.
+
+Board of Editors
+
+ix
+
+Index
+
+1Number Systems1
+
+2Configuring and Formatting a Computer11
+
+3Word Processing34
+
+4Programming39
+
+5Physical Computing55
+
+6Internet63
+
+x
+
+1For free distribution
+
+This chapter will cover the following:
+
+²²Symbols of a given number system²²Base of a given number system²²Binary number system²²Decimal number system²²Conversion from decimal numbers to binary numbers²²Conversion from binary numbers to decimal numbers²²Representation of data using Binary number system
+
+Use of number systems 1.1
+
+Hello
+
+101101001…..
+
+Figure 1.1 : Computer and user
+
+Humans use computers for their everyday activities to make the tasks easier, more accurate and efficient, but computers are unable to understand the data and instruction provided in human languages.
+
+The computer understands data and instructions such as text, numbers, images and sound that are fed to the computer by humans, as numbers (see Figure 1.1).
+
+Number Systems
+
+1
+
+2For free distribution
+
+10010100...1010010101010.....01011010………….....………………….....………10010011.....010010101.....001010100101010101.....1010001
+
+101101....01010
+
+11110101..000101
+
+0110101....000101
+
+0110...110101010
+
+ICT or Information and Communication Technology is the infrastructure and components that enable ...
+
+Text
+
+Audio
+
+Image
+
+Video
+
+computer memory
+
+Figure 1.2 : Representation of different types of data in memory as binary digits
+
+What is a number system?
+
+A number system is a method that can be used to represent numbers. There are several different number systems. Each number system has a fixed number of different symbols.
+
+Types of number systems1.2
+
+The base of the number system determines to which number system a given number belongs to :
+
+We will learn about four different number systems. The following table shows the symbols and the base of each number system. The number of different symbols in a given number systems is the Base of that number system.
+
+Number systemSymbolsBaseBinary 0,1 2Octal 0, 1, 2, 3, 4, 5, 6, 78 Decimal 0, 1, 2, 3, 4, 5, 6, 7, 8, 910Hexadecimal (Hex)0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F16
+
+3For free distribution
+
+Note - Only binary and decimal number systems are studied in Grade 8.
+
+The base of a number system 1.3
+
+The base indicates to which number system a given number belongs to. The base is shown at the right end of the number as a subscripted text.e.g. - binary number system - 1012 , 1110112 octal number system - 1018 , 5738 decimal number system - 10110 , 4710 hexadecimal number system - 10116 , 7B16
+
+Refer to workbook for Activity 1.1.
+
+Decimal number system1.4 Humans are familiar with the decimal number system. We identify the symbols here as numbers. We use the decimal number system for all arithmetic operations.
+
+Symbols in decimal number system - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+Each position in a given number has a place value.
+
+e.g.- Shown below are examples using symbols 1, 2, 3 :
+
+123132213231312321
+
+lowest valuehighest value
+
+Let us learn about the formation of a decimal number.
+
+} }
+
+}
+
+}}
+
+}
+
+e.g. - 23110 = 2 × 102 + 3 × 101 + 1 × 100 = 2 × 100 + 3 × 10 + 1 × 1 = 200 + 30 + 1
+
+= 231
+
+231 in expanded form
+
+Place value
+
+Displaying 231 on a counting frame
+
+100hundreds
+
+102
+
+10tens
+
+101
+
+1ones
+
+100 100, 101, 102 show the place value of decimal symbols.
+
+4For free distribution
+
+Refer to workbook for Activity 1.2
+
+Binary number system 1.5
+
+The Binary number system uses two different symbols 0 and 1.
+
+Symbols of binary number system - 0, 1
+
+Binary symbols 0 or 1 are called bits.
+
+Bit = B inary dig it0 or 1
+
+Let us learn about the formation of a binary number.
+
+Display 1012 counting frame
+
+4 22
+
+2 21
+
+1 20
+
+}
+
+}
+
+}
+
+e.g. - 1012 = 1 × 22 + 0 × 21 + 1 × 20 = 1 × 4 + 0 × 2 + 1 × 1 = 4 + 0 + 1
+
+= 510
+
+1012 in expanded form
+
+}
+
+}
+
+}
+
+20, 21, 22 show the positions of binary symbols.
+
+The necessity of converting one number system to another1.6
+
+All input fed into the computer exist in the binary form. Subsequently, the data in the binary form in the computer is processed and the output is information in the form of text, image, sound, video, etc.
+
+For example, if a user feeds a decimal number into the computer via keyboard, it is represented in binary form inside the computer.
+
+5For free distribution
+
+Document
+
+HomeInsertPage LayoutMail Merge
+
+9
+
+9
+
+00001001
+
+9 = 00001001
+
+Processor (CPU)
+
+Binary numberDigit
+
+Displaying number 9 on the
+
+monitor3
+
+Processor
+
+identifies the number
+
+as the bit pattern of 00001001
+
+2
+
+User presses number 9 on the keyboard
+
+1
+
+Figure 1.3 : Representation of a decimal number in binary form
+
+Therefore, conversion from one number system to another is important.
+
+1.6.1Converting decimal numbers to binary numbers
+
+In order to convert a decimal number to a binary number, the decimal number is repeatedly divided by two until the remainder is 0 and the remainder of the division can be written on the right side. After that, write all the remainders from the bottom to top to represent the decimal number in binary form. However, the number is displayed on the display screen as a decimal number.
+
+e.g. - Converting 1310 to a binary number
+
+132
+
+62
+
+32
+
+12
+
+0
+
+1011
+
+1310 = 11012
+
+Division QuotientRemainder13/2616/2303/2111/201
+
+----
+
+6For free distribution
+
+e.g. - 3410 Converting number 34 to a binary number
+
+12
+
+342
+
+172
+
+82
+
+42
+
+22
+
+0
+
+010001
+
+3410 = 1000102
+
+Division Quotient Remainder
+
+34/217017/2818/2404/22/2
+
+21
+
+001/201
+
+------
+
+e.g. - 4910 Converting number 49 to a binary number
+
+12
+
+492
+
+242
+
+122
+
+62
+
+32
+
+0
+
+100011
+
+4910 = 1100012
+
+Division Quotient Remainder
+
+49/224124/212012/2606/23/2
+
+31
+
+011/201
+
+------
+
+Refer to workbook for Activity 1.3.
+
+1.6.2 Converting binary numbers to decimal numbers
+
+In order to find the decimal equivalent of a given binary number, multiply each bit by its place value (Figure 1.4).
+
+Binary digit
+
+Decimal value
+
+10101000
+
+128643216842112803208000 128 + 0 + 32 + 0 + 8 + 0 + 0 + 0
+
+101010002= 16810
+
+= 168 } } } } } } } }Place value}
+
+Figure 1.4 : Converting binary numbers to decimal numbers
+
+7For free distribution
+
+Power of 2
+
+20 = 121 = 2 22 = 4 23 = 8 24 = 1625 = 32 26 = 64 27 = 12828 = 25629 = 512210 = 1024
+
+e.g. 1 -
+
+24 23 22 21 20
+
+1 0 1 1 1 = 1×24 + 0×23 + 1×22 + 1×21 + 1×20
+
+= 1×16 + 0×8 + 1×4 + 1×2 + 1×1
+
+= 16 + 0 + 4 + 2 + 1
+
+= 2310
+
+101112=2310
+
+e.g. 2 -
+
+24 23 22 21 20
+
+1 0 0 1 0 = 1×24 + 0×23 + 0×22 + 1×21 + 0×20
+
+= 1×16 + 0×8 + 0×4 + 1×2 + 0×1
+
+= 16 + 0 + 0 + 2 + 0
+
+= 1810
+
+100102=1810e.g. 3 -
+
+24 23 22 21 20
+
+1 1 1 1 1 = 1×24 + 1×23 + 1×22 + 1×21 + 1×20
+
+= 1×16 + 1×8 + 1×4 + 1×2 + 1×1
+
+= 16 + 8 + 4 + 2 + 1
+
+= 3110
+
+111112=3110
+
+Refer to workbook for Activity 1.4.
+
+8For free distribution
+
+Binary representation of data and instructions on computers1.7
+
+The computer uses ‘ON’ and ‘OFF’ states to represent data and instructions as a bit pattern of 1s and 0s.
+
+Texts, sounds and images are stored in the computer memory as binary bit patterns. Hence, all data need to be converted into binary form before processing.
+
+e.g. -
+
+Data seen by humans Data seen by the computer
+
+1010...10101011...11010101........................
+
+11..1100101.0010111...0101........................
+
+1000001
+
+converting image to binary numbers
+
+converting sound to binary numbers
+
+converting letter A to binary numbers
+
+0001001converting number 9 to binary numbers
+
+Hence, the computer takes all inputs in binary form, processes them in binary form and provides them to the output devices in the form of text, images, sounds and videos.
+
+9For free distribution
+
+Feed data as text, images and soundsInput
+
+Processing data in binary formProcessing
+
+Conversion from binary form back to text, images and soundsOutput
+
+All processes in a computer are performed using 0 (OFF) and 1 (ON) states. Data are fed to the memory of the computer in binary form. The binary data are sent to the processor and then sent back to the memory after processing. Subsequently, they are sent to the output devices. Figure 1.5 illustrates the flow of binary data among the different components of a computer system.
+
+main memorymicroprocessor
+
+110...101
+
+1110...11
+
+1010...10
+
+010...10digital camera
+
+keyboardsystem unit
+
+monitor
+
+image
+
+text
+
+1
+
+2
+
+3
+
+Figure 1.5 : Flow of binary data in a computer All activities in the computer such as data input from the input devices (e.g., camera, keyboard), saving data temporarily in the main memory and saving permanently in the hard disk, processing data and sending processed data (information) to the output devices are carried out using digits 0s and 1s.
+
+10For free distribution
+
+Refer to workbook for Activity 1.5.
+
+Number
+
+systemBinaryDecimal
+
+Symbols0, 10, 1, 2, 3, 4, 5, 6, 7, 8, 9Base210Number representation
+
+example
+
+111010236710
+
+Conversion
+
+examples
+
+binary to decimal
+
+1 1 0 1 1 0 0 1
+
+1 × 20 = 1 × 1 = 10 × 21 = 0 × 2 = 00 × 22 = 0 × 4 = 01 × 23 = 1 × 8 = 8
+
+1 × 24 = 1 × 16 = 16
+
+0 × 25 = 0 × 32 = 0
+
+1 × 26 = 1 × 64 = 64
+
+1 × 27 = 1 × 128 = 128
+
+1 + 8 + 16 + 64 + 128 = 217
+
+decimal to binary
+
+92
+
+782
+
+392
+
+192
+
+1562
+
+42
+
+22
+
+12
+
+Remainder
+
+15610 = 100111002
+
+0
+
+- 0 - 0 - 1- 1- 1- 0- 0- 1
+
+Summary
+
+11For free distribution
+
+This chapter will cover the following:
+
+²²Format date, the time zone, the time and currency ²²File attribute configuration²²File searching²²Hardware troubleshooting²²Software troubleshooting
+
+Formatting date, time zone, currency and numbers 2.1
+
+The currency in my
+
+computer is dollar.
+
+Can I change it to
+
+rupees?
+
+There is a time difference between my watch and the computer. I changed the time in the computer yesterday too.
+
+It has changed again today.
+
+The computer operating system has the solution to both problems. We only have
+
+to format time and currency
+
+as required.
+
+Configuring and Formatting a
+
+Computer
+
+2
+
+12For free distribution
+
+It is important to format the date, time zone, time, currency and number to suit the country where the computer is used.
+
+2.1.1The date, the time zone and time in a computer
+
+Format is useful in :
+
+²²Installing and updating software
+
+²²Working with application software, in scheduling to activate, shut down and updating.
+
+²²Updating the operating system software
+
+²²Activating software licenses
+
+The importance of setting up the date, the time zone and time in a
+
+computer
+
+Date and time of a computer
+
+It is important to have the correct date and time in a computer and maintain them, because file saving, searching, sending reminders, preparation of business letters, etc. use date and time of the computer.
+
+Time zone of a computer
+
+The countries in the world are divided into different time zones and they maintain a unique time according to an international standard. These time zones are used for legal, commercial and social purposes.
+
+e.g. - 6.00 am in Sri Lanka will be 1.30 am in United Kingdom
+
+13For free distribution
+
+Currency and its formats
+
+The default currency setting of a computer is the currency of the country of which the operating system is produced.
+
+Therefore, we need to modify the currency to suit our country.
+
+Number formats
+
+Absence of a currency and number formats to suit international acceptance, could be a drawback when working with the Internet.
+
+Refer to workbook for Activity 2.1.
+
+2.1.2File attributes Figure 2.1 given below shows most of the attributes of a file stored in the computer.
+
+Figure 2.1 : File attributes
+
+File attributes
+
+File type, File name, File extension e.g.-text.doc, mypresention.ppt
+
+Size of fileRights/ Permission
+
+of the file
+
+Last modified dateDate on which the
+
+file was
+
+created
+
+The place
+
+file is stored
+
+14For free distribution
+
+Note - File extension shows the file type e.g. - executable file in the computer (.exe)
+
+Advantages of file permission attributes
+
+²²File permission attributes provide important details regarding the file. Changing file rights can also help with the following;
+
+◦◦The file can be made hidden.
+
+◦◦As a file protection strategy, others may see the file, but it can be converted to a read only file which does not allow for modification.
+
+Refer to workbook for Activity 2.2.
+
+2.1.3Searching files
+
+Files are searched when the name of file or the place stored in, is unknown.
+
+Several search methods are provided by an operating system. Files can be search by file name, file extension or date saved.
+
+File extension can be used to search files by type. Using this, let us search for a file.
+
+Refer to workbook for Activity 2.3.
+
+15For free distribution
+
+Troubleshooting and maintenance of computer2.2
+
+There are two basic types of troubles we experience when we work with the computer.
+
+Hardware related problems
+
+Problems related to computers
+
+Software related problems
+
+Application software related problemsOperating system related problems
+
+First, let us study what hardware problems are.
+
+To identify problems related to hardware, it is essential to identify ports used for connections.
+
+1PS/2 port
+
+For keyboard/ mouse
+
+2VGA port
+
+For monitor with VGA connection
+
+3DVI port
+
+For monitor with DVI connection
+
+16For free distribution
+
+4HDMI port
+
+HDMI is used to connect a television set instead of the monitor. Cables that are connected to this port can input and output both audio and video.
+
+5USB port
+
+For all devices with USB type connections
+
+6RJ45 Ethernet port
+
+For networking
+
+7eSata port
+
+For external storage devices
+
+8HD Audio port
+
+For high quality sound
+
+9Display port
+
+To provide higher performance in connecting digital display devices when compared to VGA and DVI ports
+
+Figure 2.2 : Ports in a computer
+
+17For free distribution
+
+In addition to the ports in figure 2.2, there are other ports in desktop, laptop, tab computers and mobile telephones. Let us identify those ports which are shown in figure 2.3.
+
+Parallel port
+
+This was mostly used for printer connection. However, the modern printers use USB cables. Therefore, modern computers do not come with this port.Micro USB port
+
+Connects smart devices such as mobile phones, MP players, photo printers and digital cameras.
+
+SD card reader
+
+For SD cards. Usually found in laptop and tab computers.
+
+Figure 2.3 : Ports in a computer
+
+We learnt about several ports used to connect devices to the computer. This knowledge is essential for troubleshooting of computers. Let us now explore troubleshooting and possible solutions.
+
+2.2.1Troubleshooting hardware problems
+
+Examples for hardware problems
+
+²²The computer does not function.²²The keyboard does not work. ²²The mouse does not work.²²The monitor does not display. ²²The speakers do not function.²²Network connections does not work.
+
+18For free distribution
+
+Problem 01: The computer does not function when the power button is pressed.
+
+Danger!
+
+For activities connected with this unit, electricity has
+
+to be used. Be cautious! Do the activities under the
+
+direct supervision of the teacher.
+
+In checking the power supply, first disconnect the
+
+main power supply.
+
+Let us look into the possible solutions;
+
+Solution 01 :
+
+Examine whether the cables connecting the computer and the main port supplying electricity are well connected. Power supply to the computer may be direct from a wall socket or through a UPS.
+
+Disconnect power supply from the wall socket.
+
+Step 1
+
+19For free distribution
+
+Check whether the plug to the UPS is properly connected. Check whether the cable to the computer from the UPS is connected properly. If they are not connected, connect them properly.
+
+Step 2
+
+Check whether the cables connecting the computer and the monitor to the UPS are connected properly. Sometimes, a system unit may be used to supply power for the screen. In such a situation, check both ends of the cables and fix properly if connection is loose.
+
+Step 3
+
+20For free distribution
+
+If all the above items are connected properly, power on the UPS from the main supply.
+
+Step 4
+
+Next, switch on the computer. It is most likely to get started. If it does not, seek technical assistance.
+
+Step 5
+
+Solution 02 :
+
+If the power supply is direct from the main supply, follow the steps below;
+
+Disconnect power supply from the connection on the wall socket.
+
+Step 1
+
+21For free distribution
+
+Examine the power cables and the cables connecting the computer and the screen. If they are not properly connected, connect them correctly.
+
+Step 2
+
+Once all cables are connected, plug the power cable.
+
+Step 3
+
+After that, switch on the computer. Most likely, the computer will start. Otherwise seek technical assistance.
+
+Step 4
+
+Problem 02 : The keyboard or the mouse does not function.
+
+Solution 01 : Restart the computer. Check whether the keyboard or the mouse is activated. In most cases, they are likely to. If not, carry out the following.
+
+22For free distribution
+
+Solution 02 :
+
+Shut down the computer.
+
+Step 1
+
+Follow the steps below to connect the keyboard and the mouse with respective ports.
+
+Step 2
+
+There are two types of mice. They are USB and PS/2. (old type)
+
+i. If the mouse has a USB port, connect it firmly to the port as shown in the
+
+illustration.
+
+ii. If the keyboard and the mouse have a PS/2 ports (old type), connect them
+
+with the PS/2 ports, properly.
+
+Restart the computer after proper connection. The mouse and the keyboard most likely, would work. Otherwise connect another keyboard and mouse to test whether the fault is with the keyboard and mouse. If they too do not work, seek technical assistance.
+
+23For free distribution
+
+Problem 03: The monitor does not function.
+
+Solution :
+
+Check whether the power button of the monitor is switched on. If not, switch on. If it does not work yet, perform the following steps.
+
+Step 1
+
+Restart the computer. The monitor should work upon restart. Otherwise, perform the following steps.
+
+Step 2
+
+The cables connecting the port may be VGA, DVI, HDMI or display port. They may not be connected properly. Check the connections as shown in the illustrations below;
+
+Step 3
+
+VGA
+
+DVI
+
+HDMI
+
+24For free distribution
+
+Check the connectivity of the power supply cable to the monitor as shown in the following picture. If not, connect them properly.
+
+Step 4
+
+If you follow the above mentioned steps correctly, the monitor will function properly when you restart the computer. Otherwise, test with another monitor to check whether the problem is with the monitor. If it still does not work, seek for technical assistance.
+
+Step 5
+
+Problem 04: Faulty speakers
+
+Solution :
+
+Check the speakers by increasing the volume to a higher level. If there is no sound still, perform the following steps;
+
+volume control
+
+Step 1
+
+25For free distribution
+
+To check whether the volume is minimized by the operating system, check the sound icon in the task bar at the bottom right hand of the computer. Check whether sound has been minimized or muted. Double click on the speaker icon and move the slider up and down to test sound. If it does not work, go to step 3.
+
+Step 2
+
+Digit Out
+
+Microphone In
+
+Analog Line in Front Left/Right & Headphone
+
+Center/Sub-woofer
+
+Surround Left/Right
+
+Surround Back Left/Right
+
+The cables that connect the computer and the speakers vary according to the technology used in the speakers. If HD Audio technology is available in your computer, check whether the cables are connected as shown in the picture. If not, connect them as shown.
+
+Step 3
+
+If your sound system has optical digital audio technology, you need only one cable to connect. Connect cables correctly to the port as shown below;
+
+26For free distribution
+
+Most sound systems require separate power supply. There is a cable attached to the speaker for this purpose. Check whether this cable is connected to a port for power. Otherwise, connect the cable for power supply.
+
+Step 4
+
+Follow all the steps specified above and restart the computer. Sound is most likely to work. Otherwise, check whether the fault is with speakers of your computer. Connect another set of speakers to the computer. If the trouble continues, proceed with the following steps;
+
+Step 5
+
+If the audio device driver is not properly installed, it has to be installed correctly. Seek assistance from your teacher for that.
+
+Step 6
+
+If all the steps described above fail to work, seek technical assistance.
+
+Step 7
+
+Problem 05: Network connection failure.
+
+Note - A computer gets connected to a computer network with the RJ45 connector, via the network switch. There is an Ethernet port in the computer for this purpose.
+
+27For free distribution
+
+Solution :
+
+Check with the illustrations below to see if the connection is proper. Otherwise, reconnect properly. If it is connected properly, the ethernet window flashes a small green light.
+
+RJ45 Connector
+
+Computer interface
+
+Step 1
+
+If the computer does not get connected to the network, right click on the computer icon at the bottom right of the task bar. This will give a menu for "Troubleshoot problems." Click on this. The operating system will fix the problem and connect to the network.
+
+Step 2
+
+Note - In addition to network cables, there may be other settings to be set up. Permission for these settings has to be gained through
+
+a network administrator account. Therefore, you will need the assistance of your teacher to change such settings.
+
+28For free distribution
+
+2.2.2 Software problems
+
+There are two types of software problems as shown in the figure 2.4.
+
+Problems related to application
+
+software
+
+Software problems
+
+Problems related to operating
+
+system
+
+Figure 2.4 : Software problems
+
+Application software
+
+Application software is a computer program that is designed to perform specific tasks.e.g. - Word processing software (e.g. - MS Word) Spreadsheet software (e.g. - MS Excel) Web browser (e.g. - Firefox, Chrome) Image editing software (e.g. - Paint)
+
+Troubleshooting application software problems
+
+The following some example for application software problems;
+
+²²Does not run²²No response, even though it is open²²Inability to see the interface²²Takes long time to load and is slow²²Does not respond to user commands²²Indicates incorrect functioning
+
+Solution 01 :
+
+The simplest solution is to close the application software and reopen. If this does not work, follow the below steps.
+
+Solution 02 :
+
+Find out if the software is compatible with the specification of the computer and with the installed operating system. Software compatibility is the feature of software components or systems which allows to function together. A software
+
+29For free distribution
+
+which is compatible with one computer environment may not be compatible to another. For instance, some software that are compatible with Windows operating system do not work with Mac operating system. Therefore, check whether the software is compatible with the computer's operating system. If software is compatible go to the next step.
+
+Solution 03 :
+
+Check whether the software is licensed. Further, check whether the trial period of software is expired. Unlicensed software or software with expired trial period can cause problems. Otherwise, proceed to the next step.
+
+Solution 04 :
+
+Try 'Repair' option of the application software. Restart the computer and reopen the application software.
+
+Solution 05 :
+
+Uninstall the problematic software from the computer and reinstall the same software. You will need assistance from the teacher for the 4th and 5th solutions.
+
+Problem : The above problems of application software may be resolved easily. Sometimes, such problems can occur due of viruses. Let us see how to resolve such problems.
+
+Solution :
+
+Scan the computer using an antivirus software. Restart the computer and the application software.
+
+Note - Computer virus is a malicious code which harms the computer
+
+system, destroys data and has the ability to replicate itself.
+
+Problems in operating system
+
+Some of the problems relating to operating system are;
+
+²²Slow in starting the computer²²Not being responsive to user commands due to slow processing²²Displaying a blank desktop screen
+
+30For free distribution
+
+Problem 01: Slowness of computer
+
+Note - A computer may slow down due to several staring up
+
+application programs or due to smaller space in the hard disk. To resolve this problem, logging from an administrator account is necessary. Your teacher will attend in solving these problems.
+
+Solution :
+
+Close unnecessary application programs running at start up of the computer.
+
+Step 1
+
+Remove unnecessary files from hard disk. Use ''Disk Cleanup'' tool of the operating system for this purpose.
+
+Step 2
+
+If these solutions fail, use 'Repair' option of the operating system.
+
+Step 3
+
+If 'Repair' option too does not work, then reinstall the operating system.
+
+Step 4
+
+Problem 02: Blank desktop
+
+Note - Desktop icons may not be seen due to a problem of the
+
+operating system or operating system settings.
+
+Solution 01 :
+
+There are two modes to display the desktop in Windows 10 as;
+
+a. Tablet mode b. PC mode
+
+If the mode is set to Tablet, desktop icons will not be displayed. Hence, it is necessary to follow the steps given below;
+
+31For free distribution
+
+Click on the speech button on the task bar. (On the left hand side of the time)
+
+Step 1
+
+Then, the Windows action center opens. Several rectangular tiled buttons are seen at the bottom. Click the ''Tablet mode'' button. This option changes tablet mode to PC mode which makes the desktop icons visible.
+
+Step 2
+
+Solution 02 :
+
+If icons are still not visible then, the desktop icons may be disabled. To enable them, follow the steps given below;
+
+Right click on the desktop. Click on the ''View'' menu to see the following sub menu;
+
+Step 1
+
+32For free distribution
+
+Click "Show desktop icon" in the sub menu. The symbol "√" will appear on ''Show desktop icons''. (Desktop icons will now appear on the screen.)
+
+Step 2
+
+Solution 03 :
+
+If the screen is still blank, the issue may be in the operating system. Access to administrator account is necessary with the assistance of the teacher in order to troubleshoot the issue.
+
+Refer to workbook for Activities 2.4 and 2.5.
+
+Operating system can be used to change the configuration and settings of a computer.
+
+²²It is important to set the date and time in a computer since the date and time is used by the operating system in saving files, searching files, sending reminders and in business correspondence.
+
+²²Countries in the world are divided into time zones according to the international standards. These time zones maintain a unique, standard time for legal, commercial and social purposes.
+
+²²Currency and their symbols should be adjusted to suit the country standards.
+
+²²There are international formats in writing numbers and currency etc.
+
+²²There are several attributes in a saved file;
+
+◦◦Place where it is saved◦◦Date of last modified ◦◦Type of file◦◦Size of file ◦◦Date on which the file is created ◦◦Rights to access the file
+
+²²When a need arises to open a saved file and if the name or the place saved is forgotten, file search can be used to locate it.
+
+Summary
+
+33For free distribution
+
+²²Ports are used to connect a computer to peripheral devices.
+
+²²The user may experiences two types of problems in using a computer;
+
+◦◦Hardware related simple problems ◦◦Software related simple problems ²²Troubleshooting hardware related simple problems
+
+◦◦Keyboard/ mouse related problems ◦◦Problems with monitors ◦◦Problems related to speakers ◦◦Failure to connect to network
+
+²²Troubleshooting software related simple problems
+
+◦◦Problems with Operating System ◦◦Problems with application software
+
+²²Computer virus is a malware (malicious software) which has the ability to cause problems the computer system, to destroy data and replicate itself.
+
+34For free distribution
+
+This chapter will cover the following:
+
+²²What word processing is ²²Use word processing software to;
+
+◦◦Create, open, save and close a document◦◦Highlight text◦◦Insert files/objects◦◦Insert a graph◦◦Check for spelling, grammar◦◦Prepare lists
+
+Our teacher wanted me
+
+to prepare invitation cards for the English Day
+
+Competitions. But my hand writing is not nice
+
+and clear.
+
+I have to prepare a souvenir for the event.
+
+I tried to prepare it
+
+manually, but my illustrations are not attractive. Isn't there a
+
+better way to do this?
+
+Why not? We can prepare
+
+all the documents nicely. We only need a computer
+
+with word processing
+
+software.
+
+Word Processing
+
+3
+
+35For free distribution
+
+Creating documents using word processing software is known as word processing. Word processing software is an application software that can create various types of documents. Some examples are shown in Figure 3.1 below;
+
+Newspapers
+
+Question
+
+papers
+
+Letters
+
+Application
+
+formsInvitations
+
+Greeting cards
+
+MagazinesWord processing
+
+Figure 3.1 : Some documents that can be produced by using Word Processing software
+
+There are many tools for creating documents using Word Processing software. Some of them are shown below;
+
+Common tools
+
+NewTo open a new document
+
+OpenTo open a saved document
+
+Print PreviewTo preview document
+
+before printing
+
+SaveTo save a document
+
+Save asTo save a document in a
+
+different name
+
+PrintTo print a document
+
+36For free distribution
+
+UndoTo cancel an action
+
+Copy To copy text, images, etc.
+
+PasteTo paste copied text, images, etc.
+
+Redo To redo the cancelled
+
+action
+
+CutTo cut text, images,
+
+etc.
+
+Spell checkTo check spellings and grammar in a word or a
+
+sentence
+
+Text formatting tools
+
+To Italic(slanted text)
+
+Subscript To bring down from the
+
+text line (CO2)
+
+Superscript To bring above the
+
+text line (22, 23)To draw attention to
+
+text
+
+Highlight Times New RomanCambriaNirmala UI†BindumAthi
+
+Font - (letter types)
+
+BoldTo darken the
+
+text
+
+UnderlineTo underline text
+
+ColorChange colour of textSize - (To change the size of fonts)
+
+TopicsSub-topicsGeneral letter size
+
+37For free distribution
+
+Alignment and positioning tools
+
+123
+
+Align LeftTo align the
+
+text to the
+
+left side
+
+Align Right
+
+To align the
+
+text to the
+
+right side
+
+Line and Paragraph
+
+SpacingTo change spaces among
+
+lines and paragraphs
+
+Bullets NumberingCenterTo align the text to
+
+the middle
+
+JustifyAlign the text on both
+
+sides
+
+ShadingTo colour the
+
+background
+
+Refer to workbook for Activities 3.1, 3.2, 3.3, 3.4 and 3.5
+
+Insert objects
+
+A
+
+A
+
+PicturesShapesText boxes
+
+TablesWord Art - To insert
+
+artistic lettersClip Art - To insert images
+
+Refer to workbook for Activities 3.6, 3.7, 3.8, 3.9 and 3.10
+
+38For free distribution
+
+²²Letters, magazines, certificates, application forms and many other documents can be prepared using Word Processing Software.
+
+²²Commonly used tools in Word Processing are: New, Open, Save, Print, Print preview, Redo, Undo, Cut, Copy, Paste, Spelling and grammar.
+
+²²Size, Color, Bold, Italic, Underline, Highlight, Font, Superscript, Subscript etc. are tools that can be used to format letters, words and sentences, etc.
+
+²²Left Align, Center, Right Align, Justify, Bullets, Numbering, Spacing, Shading etc. are tools to align text in a document.
+
+²²Pictures, Tables, Shapes, Text boxes, Clip Art and Word Art are some other features that can be added to document.
+
+Summary
+
+39For free distribution
+
+This chapter will cover the following:
+
+²²Analyzing problems²²Control structures²²Providing solutions to day-to-day problems²²Developing programs using sequence and selection control structures ²²Applications of mobile and smart devices.
+
+Problem analysis4.1
+
+Analyzing a problem involves dividing the problem into smaller segments of the problem and examine. This will make it easier to solve the problem.
+
+For example, let us consider an invoice issued by a stationery shop.
+
+Invoice ABC Bookshop Date - ''''''''''''''''''''
+
+ItemAmountUnit price Price
+
+200 pages1150.00150.0080 pages4 55.00220.00
+
+Carbon pens3 15.00 45.00
+
+Total415.00
+
+InputOutputs
+
+process
+
+To calculate the price (amount) of each item, number of items and unit price are required. The items required to prepare the invoice, are called input. Calculating the total price for each item and the value of total bill is known as processing. Price (amount) for each item and total bill value are known as output.
+
+Hence, let us analyze the above bill and identify input, process and output.
+
+Programming
+
+4
+
+40For free distribution
+
+Input : Item description, number of items, unit price
+
+Process : For an item purchased;
+
+Amount = number of items × unit price
+
+Total bill = total price (amount) of all items purchased
+
+Output : Amount to be paid
+
+In order to develop a computer program, it is essential to identify the inputs, process and outputs by analyzing a problem. (see figure 4.1)
+
+Problem
+
+Inputs - [Necessary items for a solution]
+
+e.g. - data
+
+Process - [Method to arrive at the solution]
+
+Outputs - [Solutions related to the problem]
+
+(e.g. information)&
+
+A
+
+na
+
+lyze
+
+Figure 4.1 : Problem Analysis
+
+Note - The problem needs analyzing before developing computer programs.
+
+When analyze a problem, it is possible to identify inputs, process and outputs.
+
+Example 1
+
+Problem : Find the year of birth when a person’s National Identity Card number is given.987654321V
+
+Input : National Identity Card number
+
+Process : Select the first two digits in the identity card number
+
+Output : Year of birth
+
+Example 2
+
+Rs xx
+
+Figure 4.2 : Pens
+
+Problem : Find the cost of purchasing five pens
+
+Input : Price of a pen
+
+Process : Calculating cost (total = price of a pen × 5)
+
+Output : Total amount
+
+41For free distribution
+
+Refer to workbook for Activity 4.1.
+
+Control structures4.2
+
+1. Sequence
+
+2. Selection
+
+3. Repetition
+
+control structures
+
+A control structure is a block in a program that analyses variables and chooses a direction of flow of the program.
+
+You have learnt in chapter five of Grade 7 book that there are three types of control structures as sequence, selection and repetition.
+
+Note - In inputs and outputs are denoted by the symbol and the processes are by symbol.
+
+4.2.1Sequence
+
+If the steps are carried out one after the other from the beginning to the end in a particular consecutive order, it is called a sequence.
+
+The flowchart and the Scratch program below is equivalent to the Example 2 in page 40.
+
+Start
+
+Total = Price of a Pen × 5
+
+Input the Price of a Pen
+
+Display Total
+
+End
+
+Flowchart 1 : finding cost of five pens
+
+Scratch program 1: find the cost of 5 pens
+
+when the unit price is provided
+
+The price of the pen is shown by the price_per_pen variable and the amount to be paid is shown by the Total variable.
+
+42For free distribution
+
+4.2.2Selection
+
+Go to Library
+
+?
+
+Go to playground
+
+Rain?
+
+Selection decides which step(s) are executed depending on whether a condition of an algorithm is satisfied or not. For example, consider a rainy day. If it rains students are asked to go to the library. If it does not rain, students are asked to go to the playground. The decision box in flowcharts, is used to show the selection control structure (See Figure 4.3). If the condition is true, it is directed towards ''Yes''. If it is false, it is directed towards ''No''. The following symbol is used To indicate the decision making;
+
+Is it a rainy
+
+day today?
+
+Yes
+
+No
+
+Yes
+
+No
+
+Figure 4.3 : Control structure Figure 4.4 : Decision on whether it is a rainy day
+
+or notExample 1 Indicate the above example in a flowchart.
+
+Start
+
+End
+
+No
+
+Yes
+
+Is today a rainy day?
+
+To go to the Library
+
+Find out the weather condition
+
+To go to the Playground
+
+Flow chart 2 : Going to the playground or the library according to the weather condition
+
+43For free distribution
+
+Example 2 Making decisions when playing Snakes and Ladders Game
+
+Figure 4.5 : Snakes and
+
+Ladders Board
+
+14
+
+36
+
+25
+
+24
+
+13
+
+12
+
+1
+
+35
+
+26
+
+23
+
+11
+
+2
+
+34
+
+27
+
+22
+
+15
+
+10
+
+3
+
+33
+
+28
+
+21
+
+16
+
+9
+
+4
+
+32
+
+29
+
+20
+
+17
+
+8
+
+5
+
+31
+
+30
+
+19
+
+18
+
+7
+
+6
+
+Snakes and Ladders is a popular game that can be played by an individual or by a group of players. In this game, there are number of boxes from beginning (1) to end (36). Each ladder and snake has two boxes connected at ends (Refer figure 4.5).
+
+Each time the dice is tossed, the following instructions are to be followed;
+
+1. Check the number shown on the top face of dice. 2. Shift the counter to face by the number shown on
+
+the top face of the dice.
+
+counterdice
+
+3. If the counter reaches the bottom of a ladder, move it
+
+to reach the top of the ladder.4. If the counter reaches the head of the snake, move
+
+down to where the tail is.
+
+One has to follow these conditions and reach square 36 to become the winner.
+
+Given below is the flowchart relevant to the above example.
+
+Toss the dice
+
+End
+
+Yes
+
+Yes
+
+Did you reach the bottom
+
+of a ladder?
+
+Did you reach a snake's
+
+head?
+
+No
+
+No
+
+Get the value
+
+Move the counter forward according to the value of the of dice
+
+Move the counter to the square at the top
+
+of the ladder
+
+Move the counter
+
+to the tail of the
+
+snake
+
+Start
+
+Flowchart 3 : Snakes and Ladders game
+
+44For free distribution
+
+Example 3 Consider a scenario where 10 marks are awarded to the correct answer. Before marks are awarded, it must be checked whether the answer is correct or wrong. If the answer is correct, 10 marks are awarded. Incorrect answers are awarded no marks. The above scenario can be represented by the following flowchart and control structures (Refer to Flowchart 4).
+
+Start
+
+End
+
+No
+
+Yes
+
+Is the answer
+
+correct?
+
+Obtain the answer
+
+Award 10 marks
+
+Ask the question
+
+Flowchart 4 : Offering/Not offering marks for correct/incorrect answer
+
+Example 4 Considering the scenario of finding the larger number from two unequal numbers.
+
+Two numbers are given as input. Then the two numbers are compared. If the first is greater than the second, the output shows as the first number is greater. Otherwise, the output shows as the second number is greater (Refer to flowchart 5).
+
+Start
+
+Enter two unequal numbers (A, B)
+
+Show A is greater than B
+
+End
+
+Show B is greater than A
+
+NoYesA > B
+
+Flowchart 5 : Finding greater number
+
+45For free distribution
+
+Refer to workbook for Activities 4.2 and 4.3
+
+Note - You will learn about the repetition control structure in Grade 9.
+
+Selection control structures4.3
+
+Scratch is an Open Source Visual Programming Language produced to make programming easier to learn. Games, music, animations, interactive stories, etc. can be created using Scratch. Basic knowledge about Scratch was provided in the Grade 7 textbook.
+
+Two types of selection control structures can be used in developing Scratch programs;
+
+1. IF... THEN instructions block
+
+2. IF... THEN... ELSE instructions block
+
+Table 1 : Selection control structures
+
+IF... THEN blockIF... THEN... ELSE... block
+
+Slot to place the condition
+
+Instructions to be executed when condition is satisfied
+
+Slot to place the condition
+
+1. Instructions to be
+
+executed when condition is satisfied
+
+2. Instructions to be
+
+executed when condition is not satisfied
+
+Instructions are executed only if the condition is satisfied.
+
+The first instruction block is executed when the condition is satisfied. The second instruction block is executed when the condition is not satisfied.
+
+46For free distribution
+
+Comparison blocks
+
+There are instances where a decision has to be taken after comparing two values in programming. The decision is taken after comparing the two values; whether one value is greater/smaller/equal than other value.
+
+Instruction blocks shown in the following table are used to compare values. These blocks output ''True'' or ''False'' after comparison.
+
+Table 2 : Comparison blocks
+
+InstructionsExample Output
+
+Check whether the value on
+
+the left is smaller than the
+
+value of the right
+
+True
+
+False
+
+Check whether the value on
+
+the left equals to the right
+
+True
+
+False
+
+Check whether the value on the left is greater than the one
+
+on the right
+
+True
+
+False
+
+Refer to workbook for Activity 4.4
+
+47For free distribution
+
+Instruction with logical blocks
+
+The following instruction blocks are used to combine comparison instruction blocks. There are three types of logical blocks as follows;
+
+1. AND
+
+2. OR
+
+3. NOT
+
+Table 3 : Logical blocks
+
+InstructionExample Reply
+
+If both expressions on left and right are true only, the
+
+output is true.
+
+True
+
+False
+
+If both expressions on left and right are true or if only one is true, the output
+
+is true.
+
+True
+
+False
+
+If the expression is false,
+
+the output is true. If the
+
+expression is true, the
+
+output is false.
+
+True
+
+False
+
+Refer to workbook for Activity 4.5
+
+48For free distribution
+
+4.3.1 Developing Scratch program with selection control
+
+structure
+
+Example 1 Display current balance after a withdrawal from an account with Rs.5000/=
+
+In withdrawing money from an account, the current balance is first checked. Money is released only if the current balance is greater than the amount requested. The amount withdrawn is deducted from the current balance (Refer to Flowchart 6 and Scratch program 2).
+
+Start
+
+Balance = 5000
+
+Balance = Balance - amount
+
+requested
+
+Input amount to withdraw
+
+Display Balance
+
+End
+
+Is Balance > amount
+
+requested
+
+Yes
+
+No
+
+Flowchart 6 : Display account balance
+
+Scratch program 2 : Display account balance
+
+13105
+
+3
+
+2
+
+remainder
+
+13 MOD 5 = 3
+
+Example 2 Display whether an input number is odd or even. Mathematical operator MOD is used to determine the remainder when a number is divided by another. For example, 13 MOD 5 is 3. When 13 is divided by 5, the remainder is 3. Accordingly, if a number is divided by 2 and the remainder equals 0, it is an even number. If the remainder is 1, it is an odd number.
+
+49For free distribution
+
+Scratch program 3 : Test whether a
+
+number is even /odd
+
+Start
+
+Remainder } number MOD 2
+
+Input number
+
+Display ''even
+
+number''
+
+End
+
+Remainder } 0@No
+
+Yes
+
+Display ''odd
+
+number''
+
+Flowchart 7 : Text whether a number is even/ odd
+
+Example 3 The number of characters in a password is one of indicators of
+
+strength. If the number of characters is less than 8, it is a weak password. If it is more than 8, it is a strong password (see Flowchart 8 and Scratch program 4).
+
+Flowchart 8 : Display whether a passwords is weak or strong
+
+Scratch programming 4 : Display whether a
+
+password is weak or strong
+
+Start
+
+Input password
+
+Display ''password
+
+is weak''
+
+End
+
+Is X < 8@No
+
+Yes
+
+Display ''The
+
+password is
+
+strong''
+
+Calculate number of characters (X)
+
+50For free distribution
+
+The Scratch program for Snakes and Ladders game is given below; (Refer to Scratch programs 5)
+
+1234567
+
+89
+
+Scratch program 5 : Snakes and Ladder game
+
+Analysis of the program
+
+1. Click on to start.
+
+2. First, display "Toss the dice".
+
+3. Ask "What is the value?" and get the answer.
+
+4. Assign the value obtained in step 03 above to the variable.
+
+5. Declare 4 seconds to bring the counter forward according to the value of the
+
+dice.
+
+6. Obtain ''Yes'' or ''No'' answer for the question, ''Did it land at bottom of ladder?''
+
+7. If the answer is ''Yes'', then move the counter to the square at the top of the
+
+ladder.
+
+8. Display, ''Did the counter come to the head of a snake?''
+
+9. If the answer is ''Yes'', then move the counter to snake's tail.
+
+51For free distribution
+
+Refer to workbook for Activities in 4.6, 4.7, 4.8 and 4.9
+
+4.3.2 Applications for mobile and smart devices
+
+Mobile and smart devices
+
+Various applications are available for mobile and smart devices. These applications usually carry out tasks accurately and efficiently. Each mobile and smart device is developed for a specific function and they can be used according to the user requirements (See Figure 4.6).
+
+Drone cameraLaptop
+
+Smart TV
+
+Smart camera
+
+Smart watch
+
+Smart phone
+
+Smart sunglasses
+
+Tablet
+
+Smart devices
+
+Figure 4.6 : Examples of mobile and smart devices
+
+Tablets and laptops are widely used as general purpose machines. Other devices are meant for a specific functions. Therefore, it is necessary to determine whether the selected mobile device suits the intended purpose.
+
+52For free distribution
+
+Table 4 : Smart devices and applications
+
+Mobile device Examples of useLaptop computer As a mobile device for general computer applications Tablet computer To surf the Internet and to take photos, etc.Smart mobile phone
+
+Telephone conversations, SMS and MMS messaging, taking photos, recording audio and video clips, surfing Internet, sending e-mails, etc.Smart television Managing and recording television programmes, e-mail and Internet Smart camera Taking photos, recording audio/video clips and sending them to other smart devicesSmart wristwatch Displays time, sends SMS, sets alarm, accesses the Internet, etc.Mobile spectaclesWatch scenery in 3D form, listen to audio, taking photos, record video clips, etc.Drone cameraA remotely controlled, mini helicopter used to obtain aerial pictures or videos
+
+Applications of mobile and smart devices
+
+Many application software for mobile and smart devices are available on the Internet. Some application software can be downloaded free of charge while others have to be purchased. These downloaded software can be used after installing in the smart devices. The following shows some examples for application software for mobile and smart devices. (See Figure 4.7)
+
+53For free distribution
+
+Sky map
+
+Voice recorder
+
+Language
+
+translator
+
+QR code reader
+
+Compass
+
+Road map
+
+Dictionary
+
+English
+
+isxy,
+
+jkpo;DictionaryChess Game
+
+Applications
+
+for use with
+
+mobile and smart devices
+
+Figure 4.7 : Examples of the applications of mobile and smart devices
+
+Table 5 : Mobile and smart devices and their uses
+
+Smart device Examples of useCompassfinds the orientation
+
+Route map directs using GPS (finding routes), finds distance between two places, identifies traffic, etc.Sky mappoints the smart device towards a star or planet on the sky and see the details such as name, location, etc.QR Code Reader obtains information by scanning the QR codeLanguage translatortranslates text in one language to anotherChess game computer play as the opponent of Game Sinhala dictionary finds English term for SinhalaTape recorderrecords and playback sound
+
+Refer to workbook for the Activity 4.10
+
+54For free distribution
+
+²²Computer programs are developed to accept input, process data and produce output. Generally, the algorithm is written first and then the algorithm is converted to a program.
+
+²²There are three types of control structures that can be used in an algorithm;
+
+1' Sequence2' Selection3' Repetition
+
+²²A sequence follows steps in the algorithm the one after the other.
+
+²²In selection, the program selects the cause of action based on whether condition is satisfied or not. Scratch programming uses ''if then'' and ''if then else'' control structures for selection.
+
+²²Scratch uses three types of comparison blocks.
+
+²²Scratch uses three types of logical blocks.
+
+²²The ''Repetition'' control structures, will be taught in a future lesson.
+
+Summary
+
+55For free distribution
+
+This chapter will cover the following:
+
+²²Basic logic gates²²Use of software to identify a logic function ²²Constructing simple circuits using logic gates ²²Showing the functions of logic gates by using them practically
+
+Basic logic gates5.1
+
+There are three basic logic gates as AND, OR and NOT.
+
+AND Gate
+
+Let us consider the following analogy to understand function of the AND gate.
+
+The following diagram of a water tank in a house is to fill water without overflowing. Two valves are used to prevent water waste.
+
+A valve
+
+B valve
+
+Main water
+
+supply
+
+Figure 5.1 : Analogy for AND gate
+
+Physical Computing
+
+5
+
+56For free distribution
+
+The following table shows whether the tank receives water or not from the main supply based on whether the A and B valves are closed or open. (Table 5.1)
+
+Table 5.1 : Water supply by valves A and B
+
+A valve B valveWater supply to tankClosedCloseddoes not receive waterClosedOpendoes not receive waterOpenCloseddoes not receive waterOpenOpenreceives water
+
+The following table using 1 for ‘open’ state, 0 for ‘closed' state, and 1 for ‘receives’ state and 0 for ‘does not receive’ state (See Table 5.2).
+
+Table 5.2 : Indicating water supply by 0 and 1
+
+A valve B valveWater supply to tank000010100111
+
+The table above indicates whether the valves supply water or not. Similarly, the AND gate decides whether an electric signal is present or not. Availability of an electric signal is shown by state ''1'' and the unavailability is by state ''0''.
+
+The standard symbol for AND Gate
+
+A
+
+BA.B
+
+When A and B are inputs
+
+Inputs of a Gate is shown in capital letters. The output of AND gate is denoted by A.B when inputs are A and B.
+
+57For free distribution
+
+The following truth table shows the function of the AND gate.
+
+InputOutputABA.B000010100111
+
+In order to obtain the output 1, both inputs should be 1 in an AND gate.
+
+OR Gate
+
+Let us consider the following analogy to understand the function of the OR gate. As shown in the illustration below, the house has a water tank in addition to the regular main water supply. The tank is to ensure uninterrupted water supply. There are two valves A and B. (See Figure 5.2)
+
+A valveMain water
+
+supply
+
+B valve
+
+Figure 5.2 : An analogy for OR gate
+
+58For free distribution
+
+The following table shows if the house receives water or not based on whether A and B gates are open or closed.
+
+A valve B valveWater supply to houseClosedCloseddoes not receive waterClosedOpenreceives waterOpenClosedreceives waterOpenOpenreceives water
+
+When the above table is replaced with value 1 for '' open'' state, 0 for closed state, 1 for receives state and '0' for ''does not receive'' state;
+
+A valve B valve Water supply to house000011101111
+
+The valves used in the above water tank control the supply of water to the house. Similarly OR gate controls the availability and unavailability of electric signal in a circuit. The availability of an electric signal is shown by '1' state whereas '0' state indicates the unavailability.
+
+The standard symbol of the OR Gate
+
+A
+
+B
+
+A + B
+
+When A and B are inputs
+
+The illustration above shows OR Gate as it appears on circuits. When A and B are inputs, output of OR gate is A+B. Truth table related to OR Gate is as follows;
+
+ABA+B000011101111 Output of OR Gate is state '1' when at least one input is in '1' state.
+
+59For free distribution
+
+NOT Gate
+
+Let us consider the following analogy to understand the function of NOT gate. It shows a street with street lamps that are switched off during day time and switched on at night.
+
+Figure 5.3 : Lighting street lamps automatically
+
+SunlightElectric lampavailableOFFunavailableON
+
+Consider state '1' as there is day light and state '0' as there is no day light. Street lamp's OFF state as 0, and 'ON' state on as 1.
+
+SunlightElectric lamp1001
+
+The output of the NOT gate is the opposite of its input.
+
+InputOutputreceives day lightbulb OFFreceives no day lightbulb ON
+
+60For free distribution
+
+The symbol of NOT gate is as follows;
+
+A A
+
+When A is its inputStandard Symbol of NOT gate
+
+The above illustration shows a NOT gate in an electric circuit with A as input and A as output. The equivalent truth table is as follows;
+
+A A
+
+1001
+
+A particular voltage is shown by state1 and another voltage is shown by state '0'.
+
+Connecting logic gates in circuits
+
+e.g.1 - Obtaining output from the circuit below where input is 1 or 0.
+
+011
+
+When input is 1
+
+100
+
+When input is 0
+
+e.g. 2 - Obtaining the relevant output according to the input given.
+
+11
+
+0
+
+0
+
+In OR gate, the inputs are added to give the output (1 + 0 = 1)
+
+Refer to workbook for Activities 5.1, 5.2, 5.3 and 5.4
+
+61For free distribution
+
+Note - Logic Gates
+
+1. The basis building block of Central Processing Unit (CPU) and other
+
+electronic devices and computers are logic gates. The basic function of the CPU uses logic gates.
+
+2. Digital signals are used in digital computers. The significance of
+
+digital signals is that it has one value out of two, at a particular point in time (See Figure 1).
+
+Figure 1 : Digital signal
+
+3. Logic gates take digital inputs and provides digital outputs. The digital
+
+inputs and outputs take binary values. That means, the input and output are available only in one form of two states as 0 or 1.
+
+4. Binary values can be represented using different methods. The most
+
+common method of representing is 0 and 1. They can also be shown represented as TRUE/ FALSE or HIGH/ LOW. In computer hardware, they are voltage values with 5V and 0V (See table 1).
+
+Table 1 : Methods of representably binary values
+
+10HIGHLOWTrueFalse5 V (volt)0 V
+
+5. Computer uses AND, OR and NOT logic gates to process data. Logic
+
+gates take states 0 or1 as input and produce 0 or 1 states as output.
+
+62For free distribution
+
+Basic logic gates
+
+1. AND2. OR3. NOT
+
+²²Inputs given to those gates produce relevant output.
+
+²²Function of AND gate
+
+ABA.B
+
+²²Function of OR gate
+
+A
+
+B
+
+A + B
+
+²²Function of NOT gate
+
+A A
+
+Summary
+
+63For free distribution
+
+This chapter will cover the following:
+
+²²Search engines²²Use of the Internet and explore for information²²Creating web pages²²Developing websites
+
+Search engines6.1
+
+Search engines can be used to find information, images, videos, etc. on the Web. (See Figure 6.1)
+
+Examples for search engines
+
+Figure 6.1 : A few main search engines
+
+Internet
+
+6
+
+64For free distribution
+
+Use of Internet to explore information
+
+Different methods can be used to explore the Internet for information. A few of them are as follows:
+
+Search engines
+
+Search engines help find websites. Typing the keyword on the ''Search'' box and pressing the 'Search' button, display a list of websites that are relevant to the key words.
+
+Browsing history
+
+Search engines save recently used web addresses.
+
+These websites can be accessed using the 'History'.
+
+Bookmark/Favourite
+
+A click on bookmark/favourite helps save web addresses (URL) used often.
+
+Saved websites as such can be seen as a list so that the required website can be accessed.
+
+65For free distribution
+
+Hyperlinks
+
+A hyperlink on web page links to another section of the same page or a different web page.
+
+A text with a hyperlink has an underline an display in color. The mouse over a hyperlink shows icon of a hand.
+
+Forward/ Backward
+
+The Forward/Backward button helps navigate to a previous page or next page.
+
+The forward/backward button appears on the top left corner of the web browser
+
+ForwardBackward
+
+Tabs
+
+A number of web pages can be opened in a single window of a web browser. They are called as Tabs.
+
+When web pages are opened as tabs, it is easy to select pages.
+
+Refer to workbook for the Activity 6.1.
+
+66For free distribution
+
+Creating a web page6.2
+
+Some factors that should be considered in developing a web page are listed below;
+
+1
+
+²²What is the goal of web site?
+
+²²Who uses it?
+
+2
+
+²²Layout and structure of the size
+
+3
+
+³³Design
+
+²²Use of colours, letters and font size
+
+²²Clarity and readability of the content
+
+4
+
+³³Navigation
+
+²²How does the user navigate the website?
+
+²²Navigation to other websites
+
+5
+
+³³Use of images
+
+²²Suits to user
+
+²²Compatible with content
+
+²²Minimal use of images
+
+67For free distribution
+
+Main features necessary to create websites
+
+Tool
+
+There are several tools that can be used
+
+to develop web pages.
+
+Software
+
+Examples for some software that can
+
+be used to create web pages using
+
+HTML
+
+Notepad, NetBeans, Microsoft Visual Studio Community, Word Press, Bluefish, Eclipse
+
+Tags/Elements
+
+²²HTML tags are used to create web pages.
+
+²²A tags/element is shown with the angular brackets < >.
+
+²²Most Tags have a start and an end.
+
+68For free distribution
+
+A few tabs used in HTML to create a website and their functions:
+
+Indicate that HTML is used to create the web page <html>…</html>
+
+Container for all head elements such as title of document.<head>…</head>
+
+Title of the website (not included in the web page)<title>…</title>
+
+To the content of the web page<body>…</body>
+
+headers (titles) <h>...</h>
+
+bold face text<b>…</b>
+
+italicize text<i>…</i>
+
+center alignment<centre>…</center>
+
+a list with bullets <ul>…</ul>
+
+a list with numbers <ol>…</ol>
+
+bullet/ numerical list items <li>…</li>
+
+line break <br>
+
+a paragraph <p>
+
+Insert an image<img src=”….”>
+
+create a hyperlink <a herf=”…”>…</a>
+
+69For free distribution
+
+Wonderful Benefits of Banana
+
+Adding a banana to your daily diet has an array of benefits in
+
+your body.Bananas helps
+
+1. loss of weight
+
+2. keep your bowels healthy
+
+3. provide nutrients that regulate heart rhythm
+
+4. have vitamin compounds for eye health.
+
+Bananas provide a variety of vitamins and minerals:
+
+• Vitamin B6 - 0.5 mg.• Manganese - 0.3 mg.• Vitamin C - 9 mg.• Potassium - 450 mg.• Dietary Fibre - 3g.• Protein - 1 g.• Magnesium - 34 mg.
+
+More about bananas
+
+<h>...</h>
+
+<i>…</i>
+
+<p>
+
+<ol>…</ol>
+
+<ul>…</ul
+
+<a herf=”…”>…</a>
+
+{
+
+{
+
+<img src=”….”>
+
+<br>
+
+<b>…</b>
+
+<title>…</title>
+
+Refer to workbook for Activities 6.2, 6.3, 6.4, 6.5, 6.6 and 6.7
+
+70For free distribution
+
+²²Search engines are used to find information from the web sites on Internet.
+
+²²Google, Yahoo, bing, Ask, MSN are examples for search engines.
+
+²²History of the web surfing and bookmarks also help gather information.
+
+²²Hyperlinks, forward and backward buttons and tags are used to navigate among web pages and web sites.
+
+²²The goal, the users, arrangement and structure, etc. are to be considered in developing a web state.
+
+²²Tools, software, HTML tags are used in developing a web page.
+
+Summary
+
+71For free distribution
+
+English-Sinhala-Tamil Glossary
+
+No English Sinhala Tamil
+
+1. abstract model වියුක්ත තවෘතිය fUj;jpay; khjpup
+
+2. acceptance testing පරතිගරහණ පරීක්ෂොව Vw;Gr; Nrhjid
+
+3. access privilege පරතේශීතේ වරපරසොදය mZfy; cupik
+
+4. agile model සුචකය තවෘතිය RWRWg;G khjpup
+
+5. alternate key විවක්ප යතුර khw;Wr; rhtp
+
+6. American Standard
+
+Code for Information Interchange (ASCII)
+
+තතොරතුරු හුවමොරුව සඳහො වූ තමපතවොනු සේමත තක්තය
+
+jfty; ,ilkhw;Wf;fhd mnkupf;f epak tpjpf;Nfhit
+
+7. amplitude විස්තොරය tPr;rk;
+
+8. amplitude modulation විස්තොර මූරඡනොව tPr;rg; gz;Ngw;wk;
+
+9. analog පරතිසම xg;Gik
+
+10. anchor රැඳවුම epiy epWj;jp
+
+11. application layer අනුපරතයෝග ස්ථරය gpuNahf mLf;F
+
+12. architecture නිරියතය fl;likg;G
+
+13. arithmetic and logical
+
+unit (ALU)
+
+අාව ගණිත හො තොරකිව ඒවවය vz;fzpj kw;Wk; ju;f;f myF
+
+14. array අරොව mzp
+
+15. artificial intelligence වෘතිම ෙුද්ධිය nraw;if Ez;zwpT
+
+16. Affective computing ෙුද්ධිමත් සහ චිත්තතේගී පපතගණනය Ez;zwpT czu;jpwd;kpf;f fzpj;jy;
+
+17. associative law සාඝ්‍ටන නයොය $l;L tpjp
+
+18. attenuation වැහැරීම/හොයනය neha;ik
+
+19. attribute උපකැකිය /ගුණය/ උපකක්ෂණය gz;Gfs;
+
+20. authoring tool සේපොදන තමවකම gilg;ghf;ff; fUtp
+
+21. Automated Teller
+
+Machine (ATM)
+
+ස්වයාවෘත මුදක් ගනුතදනු යන්තරය jhdpaq;fpg; gzk; ifahs; ,ae;jpuk;
+
+bx.%Sis)isxy,)fou< mdßNdIsl Yío ud,dj'
+
+bx.%Sisisxy,fou<
+
+72For free distribution
+
+22. autonomous ස්වයාපොකව/ ස්වතන්තර/ස්වොයත්ත
+
+RahjPd
+
+23. axiom ස්වසිද්ධිය/පරතයක්ෂය ntspg;gil cz;ik
+
+24. backups උපස්ථ fhg;ngLj;jy;
+
+25. bandwidth වකොප පළක/ෙඳස් පළක gl;il mfyk;
+
+26. batch processing වොණ්ය සැවසුම njhFjp Kiwtopahf;fk;
+
+27. big data මහො දත්ත ngupa juT
+
+28. binary ද්විමය Jtpjk;> ,Ukk;
+
+29. binary coded decimal
+
+(BCD)
+
+ද්ීමය තක්තිව දශමය ,Ukf; FwpKiw jrkk;
+
+30. bio-inspired computing දජව තපර්පතත පපතගණනය/
+
+දජව අනුතපර්පතත පපතගණනය
+
+capupay; cs;sPu;g;Gf; fzpg;G
+
+31. bit coin බිටු වොසි Ez;fld; gzk; nrYj;jy;
+
+32. bitwise බිටු අනුසොපතත gpl; thup
+
+33. bitwise logical
+
+operation
+
+බිටු අනුසොපතත තොරකිව තමතහයුේ gpl; thup jHf;fr; nraw;ghL
+
+34. black box testing වොක මාජුසො පරීක්ෂොව fWg;Gg;ngl;br; Nrhjpg;G
+
+35. blogging තව සටහනය tiyg;gjptply;
+
+36. boot–up පරතේශනය njhlq;Fjy;
+
+37. broadcasting විවොශනය njhiygug;gy;
+
+38. browsing අතපතක්සීම NkNyhly;
+
+39. bubble sort ෙුෙුළු තත්රීම/ යො-සැසුනේ තත්රීම
+
+Fkpop tifg;gLj;jy;
+
+40. built-in තුළෙැඳි / තිළැකි cl;nghjpe;j
+
+41. business process re-
+
+engineering (BPR)
+
+වයොපොර iයොවකිතය් පරති ඉාජිතන්රුවරණය tzpf nray;Kiw kPs;fl;likg;G
+
+42. candidate key නිරූපය යතුර gpujpepjpj;Jtr; rhtp
+
+43. cardinality ගණනීයතොව vz;zsit
+
+44. cathode ray tube (CRT) වැතතෝය කිරණ නකය fNjhl;Lf; fjpu; Foha;
+
+73For free distribution
+
+45. central processing unit
+
+(CPU)
+
+මධ්‍ය සැවසුේ ඒවවය kj;jpa nraw;ghl;L myF
+
+46. characteristics ගති කක්ෂණ / ස්වකක්ෂණ rpwg;gpay;Gfs;
+
+47. check box සකවුණු තවොටුව rupghu;g;Gg; ngl;b
+
+48. client-server model තස්වො තයෝජව-තස්වො දොයව තවෘතිය Nritg; gadu; khjpup
+
+49. clock ස්පන්දවය fbfhuk;
+
+50. cloud computing වකොවුළු පපතගණනය Nkff; fzpik
+
+51. coaxial cable සමක්ෂව තක්ෙකය Xur;R tlk;
+
+52. code editor තක්ත සාස්වොරව FwpKiw njhFg;gp
+
+53. comment විවරණය tpsf;ff; Fwpg;G
+
+54. commutative law නයොයතද්ශ නයොය gupkhw;W tpjp
+
+55. compact disc සුසාහිත ඩිස්වය Xspapay; tl;L
+
+56. compatibility ගැළපුම nghUe;Jif
+
+57. compiler සේපොදවය njhFg;ghd;
+
+58. component සාරචවය $W
+
+59. composite key සායුක්ත යතුර $l;Lr; rhtp
+
+60. constant නියතය khwpyp
+
+61. content management
+
+system (CMS)
+
+අන්තරගත වළමනොවරණ පද්ධ්‍තිය
+
+cs;slf;f Kfhikj;Jt Kiwik
+
+62. context switching සන්දරභ සුවිචනය re;ju;g;g epiykhw;wy;
+
+63. contiguous allocation යොෙද විභොජනය mLj;jLj;jhd xJf;fPL
+
+64. control structure පොකන වූහය fl;Lg;ghl;Lf; fl;likg;G
+
+65. control unit (CU) පොකන ඒවවය fl;Lg;ghl;lyF
+
+66. credit card ණයපත fldl;il
+
+67. customization අභිරුචිවරණය jdpg;gadhf;fy;
+
+68. data දත්ත juT
+
+69. data and control bus දත්ත සහ පොකන පථ juTk; fl;Lg;ghl;Lg; ghl;ilAk;
+
+74For free distribution
+
+70. database management
+
+system (DBMS)
+
+දත්ත සමුදාය කළමනාකරණ පද්ධතV juTj;js Kfhikj;Jt Kiwik
+
+71. data definition
+
+language ( DDL)
+
+දත්ත නිĂවxන භාෂාව juT tiuaiw nkhop
+
+72. data dictionary දත්ත ශéදෙකTෂය juT mfuhjp
+
+73. data flow diagram දත්ත ගැලYò සටහන juT gha;r;ry; tiuglk;
+
+74. data flow model
+
+(DFM)
+
+දත්ත ගැලYò ආකෘතVය juT gha;r;ry; khjpup
+
+75. data link layer දත්ත සබැඳU ස්ථරය juT ,izg;G mLf;F
+
+76. data manipulating
+
+language ( DML)
+
+දත්ත හැසුćò බස juT ifahsy; nkhop
+
+77. data migration දත්ත පĂයටනය juT ngau;r;rp
+
+78. debugging නිෙදාස් cĆම tO ePf;fy;
+
+79.
+
+decision support system (DSS)
+
+තYරණ සහාය පද්ධතV jPu;khd cjT Kiwik
+
+80. declarative පċකාශාත්මක mwptpg;G
+
+81. default values ෙපරනිó අගය ,ay;Gepiy kjpg;G
+
+82. defragmentation පċතVk½®නය Jzpf;if ePf;fy;
+
+83. demodulation ĒමූĂනය gz;gpwf;fk;
+
+84. device උපාංගය / උපgමය rhjdk;
+
+85. device driver උපාංග ධාවක මෘÎකාංග rhjdr; nrYj;jp
+
+86. digital අංcත ,yf;f Kiw
+
+87. digital camera අංcත කැමරාව ,yf;fKiwg; glf;fUtp
+
+88. digital economy අංcත ආĂÆකය ,yf;fKiwg; nghUshjhuk;
+
+89. digitizer සංkþාංකකය ,yf;fkhf;fp
+
+90. direct implementation සෘ[ස්ථාපනය Neub mKyhf;fk;
+
+91. disk formatting තැ¢/°සක හැ®සđ ගැන්ēම tl;L tbtikg;G
+
+92. distortion ĒකෘතVය jpupG
+
+75For free distribution
+
+93. distributive law Ētටන නþාය gq;fPl;L tpjp
+
+94. document flow
+
+diagram
+
+ෙල්ඛන ගැලYò සටහන Mtzg; gha;r;ry; tiuglk;
+
+95. domain වසම Ms;fsk;
+
+96. domain name server
+
+(DNS)
+
+වසò නාම ෙස්වාදායකය Ms;fsg; ngau; Nritafk;
+
+97. domain name system
+
+(DNS)
+
+වසò නාම පද්ධතVය
+
+Ms;fsg; ngau; Kiwik
+
+98. dynamic host
+
+configuration protocol (DHCP)
+
+ගතVක ධාරක පාලන නියමාවලVය khWk; tpUe;Njhk;gp
+
+cs;sikT newpKiw
+
+99. dynamic web page ගතVක ෙවé පVට[ ,af;Fepiy tiyg;gf;fk;
+
+100. e-commerce Ēදÿත් වානිþය kpd; tu;j;jfk;
+
+101. economical feasibility 0ĂÆක Ęකþතාව nghUshjhur; rhj;jpag;ghL
+
+102. elementary process
+
+description(EPD)
+
+මGලVක iයාවලV Ēස්තරය mbg;gilr; nra;Kiw tpgupg;G
+
+103. e-market place ඉ-ෙවළඳ ෙපාළ ,yj;jpudpay; re;ij ,lk;
+
+104. encryption ග]ප්ත ෙbතනය kiwFwpahf;fk;
+
+105. enterprise resource
+
+planning system (ERPS)
+
+වþවසාය සòපත් සැලසGò පද්ධතVය
+
+epWtd %yts jpl;lkply; Kiwik
+
+106. entity භ`තාĂÅය/අභිභ`තත්වය/සත්තාව epiynghUs;
+
+107. entity identifier භ`තාĂÅ/අභිභ`තත්වය හßන්වනය
+
+epiynghUs; milahsq;fhl;b
+
+108. entity relationship(ER)
+
+diagram
+
+භ`තාĂÅ සòèන්ධතා Ĉපසටහන
+
+epiynghUs; cwTKiw ml;ltiz
+
+109. executable iයාත්මක කළ හැc ,af;fj;jF
+
+110. executive support
+
+system (ESS)
+
+Ēධායක සහාය පද්ධතVය epiwNtw;W cjT Kiwik
+
+111. expert system ĒෙĘ්ෂඥ පද්ධතVය epGzj;Jt Kiwik
+
+76For free distribution
+
+112. extended binary coded
+
+decimal interchange cod (EBCDIC)
+
+Ēස්තෘත ද්ēමය ෙbතක දශම ePbj;j Jtpj FwpKiw jrk ,lkhw;wf; Fwp
+
+113. extended entity
+
+relationship (ER) diagram
+
+Ēස්තෘත ð`තාĂථ සòèන්ධතා Ĉප සටහන tpupthf;fg;gl;l epiynghUs; cwTKiw ml;ltiz
+
+114. feasibility study ශකþතා අධþයනය rhj;jpag;ghL fw;if
+
+115. feedback loop පċතVෙපTęණ Ďපය gpd;D}l;ly; tisak;
+
+116. fetch-execute cycle ආහරණ-iයාකරව[ò චgය jUtpg;G epiwNtw;Wr; Row;rp
+
+117. fiber optic පċකාශ තන්ත] ,io xspapay;
+
+118. file ෙගානුව Nfhg;G
+
+119. file hierarchy ෙගානු ධුරාවලVය Nfhg;G gbepiy
+
+120. firewall ගිනි පව[ර jPr;Rtu;
+
+121. normal form පċථම පċමත අවස්ථාව ,ay;ghf;fy; tbtk;
+
+122. fixed internal hard disk අචල අðþන්තර දෘඪ තැ¢ epiyahd cs;sf td;jl;L
+
+123. flash memory සැණ/ bę¾ක මතකය gspr;rPl;L epidtfk;
+
+124. flash memory card සැණ/ bę¾ක මතක පත gsPr;rpl;L epidtf ml;il
+
+125. flat file system ඒක ෙගානු පද්ධතVය rkjsf; Nfhg;G Kiwik
+
+126. flip-flop පVළV-ෙපාළ vO-tpO
+
+127. float ඉප[ලVම/ඉපVලYම kpjit
+
+128. floppy disk නමþ තැ¢ය nefpo; tl;L
+
+129. flow chart ගැලYò සටහන gha;r;rw; Nfhl;Lg;glk;
+
+130. folder ෙගානු èහĎම Nfhg;Giw
+
+131. foreign key ආගන්ත]ක යත]ර me;epar;rhtp
+
+132. formatting හැ®සđ ගැන්ēම tbtikj;jy;
+
+133. frame රාමුව rl;lfk;
+
+134. frequency modulation ස-kþාත මූĂනය mjpu;ntz; gz;Ngw;wy;
+
+77For free distribution
+
+135. full adder ප^Ăණාකලකය KOikf; $l;b
+
+136. function ශċිතය / කාĂයය rhu;G
+
+137. functional dependency කාĂය බද්ධ පරායත්තතාව nray; rhu;Gepiy
+
+138. functional requirement කාĂය බද්ධ අවශþතාව nray;gL Njit
+
+139. quantum computing bෙවාන්ටò පąගණනය nrhl;L fzpg;G mbg;gil
+
+140. gateway ෙදාරට[ මඟ / වාසල් ද්වාරය /වාහල්ෙදාර
+
+Eiothapy;
+
+141. genetic algorithm සහජ ඇල්ෙගාąදමය kugZ topKiw
+
+142. geographical
+
+information system(GIS)
+
+භ`ෙගTලYය ෙතාරත]ć පද්ධතVය /óහිතැන් ෙතාරත]ć පද්ධතVය Gtpapay; jfty; Kiwik
+
+143. graph plotter පċස්තාර ලක]ණ\කරණය gltiuap
+
+144. graphic tablet zතċකඵලකය tiutpay; tptukhf;fp
+
+145. grid computing ජාලක පąගණනය Nfhl;Lr;rl;lff; fzpik
+
+146. guided media නියමු මාධþ topgLj;jg;gl;l Clfk;
+
+147. half adder අĂධාකලකය miu $l;b
+
+148. hand trace හස්තානුෙĂkනය ifr; RtLfs;
+
+149. hard disk දැ° තැ¢ය / දෘඪ °ස්කය td;jl;L
+
+150. hardware දෘඪාංග td;nghUs;
+
+151. hexadecimal ę¯ දශමය gjpdWkk;
+
+152. hierarchical model ධූරාවලV ආකෘතVය gbepiy khjpup
+
+153. host සත්කාරකය tpUe;Njhk;gp
+
+154. hub නාභිය Ftpad;
+
+155. human operator óනිස්iයාකćෙවT kdpj ,af;Fgtu;
+
+156. hybrid approach ෙදමුහුන් පċෙđශය fyg;G mZfy;
+
+157. hyperlink අÕසòබන්ධකය kP ,izg;G
+
+158. Integrated circuits ( IC) අනුකලVත පąපÅ xUq;fpize;j Rw;W
+
+159. icon නිĈපකය rpW glk;
+
+78For free distribution
+
+160. identity සĂවසාමþ milahsk;
+
+161. image Ĉපය gbkk;
+
+162. imperative Ēධානාත්මක fl;lis
+
+163. incremental වĂධනාත්මක VWkhd> mjpfupg;G
+
+164. indexed allocation අනුgóක Ēðාජනය Rl;b xJf;fPL
+
+165. information ෙතාරත]ć jfty;
+
+166. inkjet printer තYන්ත ĒÎò මුÐකය ikj;-jhiumr;Rg;nghwp
+
+167. instant messaging bęනික ප¾ව[® යැēම cldbr; nra;jpaply;
+
+168. integrated development
+
+environment(IDE)
+
+සෙමTධානික
+
+ස-වĂධන පąසරය
+
+xUq;fpize;j tpUj;jp R+oy;
+
+169. integration test අනුකලන පĆbęණය xUq;fpize;j Nrhjpg;G
+
+170. intelligent and
+
+emotional computing
+
+බුද්Õමත් සහ zත්තෙđsී පąsණනය
+
+Ez;zwpTk; czu;jpwDkpf;f fzpj;jy;
+
+171. interface අත]ć මුහුණ ,ilKfk;
+
+172. internet service
+
+provider( ISP)
+
+අන්තĂජාල ෙස්වය සපයන්නා ,izar; Nrit toq;Fdu;
+
+173. interpreter අĂÅĒනþාසකය nkhopkhw;wp
+
+174. interrupt අත]ć êßම ,ilA+W
+
+175. intranet අන්ත:ජාලය/ අන්ෙතTජාල mftpizak;
+
+176. internet of things (IoT) සාĂව Ðවþ අන්තĂජජාල/ සබැඳU Ðවþ අන්තĂජාලය
+
+nghUl;fspd; ,izak;
+
+177. iteration ප[නĂකරණය kPs; nray;
+
+178. karnaugh map කාෙනT සිතVයම fhNdh tiuglk;
+
+179. knowledge
+
+management system( KMS)
+
+දැනුò කළමනාකරණ පද්ධතVය mwpT Kfhikj;Jt Kiwik
+
+180. large scale integration
+
+(LSI)
+
+ĒĘාල පąමාණෙය් අණ\කලනය ghupa msT xUq;fpizg;G
+
+181. latency පමාව/s]ප්තතාව kiwepiy
+
+79For free distribution
+
+182. least significant අඩුමෙවෙසසි rpWk kjpg;G
+
+183. legend Ēස්තර පාඨය Fwp tpsf;fk;
+
+184. life cycle of data දත්ත වන xgය juT tho;f;if tl;lk;
+
+185. light emitting
+
+diode(LED) display
+
+ආෙලTක ĒෙමTxක දUෙයTඩ සන්දĂශකය xspfhYk; ,Uthapj; jpiu / xsp ckpOk; ,U Kidak;
+
+186. linked allocation සබැඳU Ēðාජනය ,izg;G xJf;fPL
+
+187. linker සන්ධාරකය ,izg;gp
+
+188. liquid crystal display(
+
+LCD)
+
+Ðවස්â¢ක සන්දĂශකය jputg;gspq;Ff; fzpdpj; jpiu
+
+189. list ලැයිස්ත]ව gl;bay;
+
+190. liveware වා-s capu; nghUs;
+
+191. local publishing ස්ථානීය පċසිද්ධ cĆම cs;sf ntspaPL
+
+192. local area network
+
+(LAN)
+
+ස්ථානීය පċෙද්ශ ජාලය ,lj;Jup tiyaikg;G
+
+193. logic gate තාĂcක ද්වාරය ju;f;fg; gliy
+
+194. Logical Data
+
+Modeling( LDM)
+
+තාĂcක දත්ත ආකෘතVකරණය ju;f;fj; juT khjpupAUthf;fy;
+
+195. logical data structure තාĂcක දත්ත වÿහය ju;f;fj; juTf; fl;likg;G
+
+196. logical design tools තාĂcක සැලසුò ෙමවලò ju;f;f tbtikg;Gf; fUtp
+
+197. looping ďපනය tisa tuy;
+
+198. machine code යන්තċ ෙbතය ,ae;jpuf; FwpaPL
+
+199. machine-machine
+
+coexistence
+
+යන්තċ-යන්තċ සහපැවැත්ම ,ae;jpu- ,ae;jpu xUq;fpUj;jy;
+
+200. magnetic ink character
+
+reader( MICR)
+
+x[òබcත තYන්ත අනු ලක]ණ\ cයවනය fhe;j ik vOj;JU thrpg;ghd;
+
+201. magnetic stripe reader x[òබක තYć cයවනය fhe;jg;gl;b thrpg;ghd;
+
+202. magnetic tape x[òðක ප¢ය fhe;j ehlh
+
+203. malware අනිශ්ඨ මාÎකා-s jPk;nghUs;
+
+80For free distribution
+
+204. management
+
+information system (MIS)
+
+කළමනාකරණ ෙතාරත]ć පද්ධතVය Kfhikj;Jt jfty; Kiwik
+
+205. man-machine
+
+coexistence
+
+óනිස්-යන්තċ සහපැවැත්ම kdpjd; - ,ae;jpuk; xUq;fpUj;jy;
+
+206. media access control
+
+(MAC)
+
+මාධþ පċෙđĘ පාලක Clf mZfy; fl;Lg;ghL
+
+207. memory management
+
+unit( MMU)
+
+මතක කළමනාකරණ ඒකකය epidtf Kfhikj;Jt myF
+
+208. mesh topology බැඳU ස්ථලකය fz;zp ,lj;jpay;
+
+209. microprocessor bę[Ð සකසනය Ez;nrayp
+
+210. microwave bę[Ð තරංග Ez;ziy
+
+211. mini disk ක]ඩා තැ¢ය rpW tl;L
+
+212. mobile computing ජංගම පąගණනය nry;yplf; fzpik
+
+213. mobile marketing ජංගම අෙළĒකරණය nry;yplr; re;ijg;gLj;jy;
+
+214. modularization ෙමා°යුලකරණය $W epiyahf;fk;
+
+215. modulation මූĂජනය gz;Ngw;wk;
+
+216. most significant වැ°ම ෙවෙසසි mjpAau; kjpg;G
+
+217. mother board මව[ ප[වćව jha;g;gyif
+
+218. multi agent systems බහු කාරක පද්ධතV gy;Kftu; Kiwik
+
+219. multi user-multi task බහු පąĘීලක - බහු කාĂයය gw;gadu;-gw;gzp
+
+220. multi-core processors බහු හර සකසන gy;fU nrayp
+
+221. multimedia objects බහු මාධþ වස්ත] gy;Y}lf nghUs;
+
+222. multiplexer බහු පථකාරකය gy;Nru;g;gp
+
+223. multiplexing බහු පථකරණය gy;Nru;g;G
+
+224. multiprocessing බහු සැකසුම gd;Kiwtopahf;fp
+
+225. multitasking බහුකාĂය cąම gw;gzp
+
+226. multi-threading බහු-අනුiයායනය gy; nray;$W
+
+227. nature inspired පċකෘතV ෙපċ්ąත පąගණනය/ ,aw;if cs;sPu;g;Gf;
+
+81For free distribution
+
+computing පċකෘතV අනුෙපċ්ąත පąගණනය fzpg;G
+
+228. nested loop නී°ත ďපය ePbj;j tisak;
+
+229. network addresses
+
+translating (NAT)
+
+ජාල ෙයාමු පąවĂතනය tiyaikg;G Kftup ngau;g;G
+
+230. network architecture ජාල නිĂóතය tiyaikg;Gf; fl;likg;G
+
+231. network layer ජාල ස්ථරය tiyaikg;G mLf;F
+
+232. network model ජාල ආකෘතVය tiyaikg;G khjpup
+
+233. neural network ස්නායුක ජාලය euk;gpay; tiyaikg;G
+
+234. non-functional
+
+requirement
+
+කාĂයèද්ධ ෙනාවන අවශþතාව nray;rhuhj; Njitfs;
+
+235. normalization පċමතකරණය ,ay;ghf;fy;
+
+236. null අභිශ`නþ ntw;W
+
+237. object code වස්ත] ෙbත/ nghUs; Fwp
+
+238. object oriented වස්ත] නැඹුć / පා දක nghUs; Nehf;Fila
+
+239. object- relational
+
+model
+
+වස්ත]-සòèන්ධක ආකෘතVය nghUs; cwTepiy khjpup
+
+240. octal අෂ්ටමය vz;kk;
+
+241. office automation
+
+system (OAS)
+
+කාĂයාල ස්වයංකරණ පද්ධතVය mYtyfj; jd;dpaf;f Kiwik
+
+242. offline මාĂග අපගත/ මාĂගගත ෙනාවන njhluW epiy
+
+243. one’s compliment එෙකහි අනුප^රකය Xd;wpd; epug;gp
+
+244. online මාĂගගත njhluwh epiy
+
+245. open source Ēවෘත මූලාශċ jpwe;j %yk;
+
+246. operational feasibility ෙමෙහයුò ශකþතාව nraw;ghl;Lr; rhj;jpag;ghL
+
+247. operator category කාරක පċවĂගය nrayp tif
+
+248. operator precedence කාරක පċමුඛතා nrayp Kd;Dupik
+
+249. optical character reader
+
+(OCR)
+
+පċකාශ අණ\ ලක]ණ\ cයවනය xspapay; vOj;JU thrpg;ghd;
+
+82For free distribution
+
+250. optical mark reader
+
+(OMR)
+
+පċකාශ ලක]¼\ cයවනය fhe;j ik vOj;JU thrpg;ghd;
+
+251. output පċතVදානය ntspaP;L
+
+252. packet switching ෙපාදU හුවමාćව nghjp kilkhw;wy;
+
+253. paging පV [කරනය gf;fkply;
+
+254. paradigm සුසමාදĂශය/ පċතVමානය/පċතVĈපය Nfhl;ghl;Lr; rl;lfk;
+
+255. parallel
+
+implementation
+
+සමාන්තර ස්ථාපනය rkhe;ju mKyhf;fk;
+
+256. parameter passing පරාóතV යCēම gukhdf; flj;jy;
+
+257. parity සමතාව rkepiy
+
+258. password මුර පදය flTr;nrhy;
+
+259. payment gateway ෙගව[ò වාසල් ද්වාරය gzf; nfhLg;gdT Eiothapy;
+
+260. periodic refreshing 0වĂත පċෙබTධකර¼ය fhyKiw GJg;gpj;jy;
+
+261. peripheral device පĂයන්ත උපාංගය / උපgමය Gwr; rhjdk;
+
+262. phablet ğCéල¡ ngg;yl;
+
+263. phased implementation /වÕස්ථාපනය / පVයවර iයාත්මකcĆම fl;l mKyhf;fy;
+
+264. phase modulation කලා මුĂනය epiy gz;Ngw;wk;
+
+265. phishing තත]බෑම topg;gwpj;jy;
+
+266. physical layer ෙභෟතVක ස්ථරය ngsjPf mLf;F
+
+267. physical memory ෙභෟතVක මතකය ngsjPf epidtfk;
+
+268. pilot implementation නියාමක ස්ථාපනය / නියාමක iයාත්මක cĆම Kd;Ndhb mKyhf;fy;
+
+269. piracy ෙචෟරත්වය/ Ď½¨නය fsT
+
+270. pirated software ෙචෟර/Ď½©ත මIÎකාංග jpUl;L nkd;nghUs;
+
+271. plagiarism ගċන්ථ/රචනා ෙචෟĂයය fUj;Jj; jpUl;L
+
+272. point to point
+
+connection
+
+ඍජ[ ලbęþ සòබන්ධතාව Xd;Wlndhd;W ,izg;G
+
+83For free distribution
+
+273. pointing device දැbව[ò උපාංගය Rl;b rhjdk;
+
+274. port ෙකෙවනිය thapy;> Jiw
+
+275. portable external hard
+
+disk
+
+ජංගම/සුවහනීය බාහිර දෘඪ තැ¢ය
+
+fhtj;jF Gw td;jl;L
+
+276. portal ද්වාරය/ ආමුඛද්වාරය tiythry;
+
+277. Point of sale (POS)
+
+machine
+
+Ēක]ණ\ò ෙපාල යන්තċ tpw;gid ,l ,ae;jpuk;
+
+278. postulate උපකල්පනය vLNfhs;
+
+279. power supply ĒÎලV සැපයුම/ජව සැපයුම kpd; toq;fp
+
+280. presence check තථþතා පĆbෂාව ,Uj;jy; rupghu;j;jy;
+
+281. presentation layer සමĂපන/ඉදUąපත් cąò ස්ථරය Kd;itg;G mLf;F
+
+282. primary key පċාථóක/මුල් යත]ර Kjd;ikr; rhtp
+
+283. primitive data type පċාථóක දත්ත වĂගය G+u;tPfj; juT tif
+
+284. privacy ෙපෟද්ගලVකත්වය me;juq;fk;
+
+285. private key ෙපෟද්ගලVක යත]ර gpuj;jpNafr; rhtp
+
+286. process iයාවලVය/iයායනය/ සැකසුම nray;/ Kiwtopahf;fy
+
+287. process control
+
+block(PCB)
+
+iයායන පාලන ඛ½®ය nray; fl;Lg;ghl;Lj; njhFjp
+
+288. process management iයායන කළමනාකරණය nray; Kfhikj;Jtk;
+
+289. process states iයායන තත්ත්ව nray; epiy
+
+290. process transition iයායන සංgමණය nray; epiykhwy;
+
+291. product
+
+commercialization
+
+නිෂ්පාදන වා¾ජþකරණය jahupg;G tu;j;jfkakhf;fy;
+
+292. product of sum (POS) =කþයන්ෙග් ග]¾තය $l;Lj;njhifapd; ngUf;fk;
+
+293. program translator gමෙල්ඛ පąවĂතක nra;epuy; nkhopngau;g;ghd;
+
+294. proprietary හිóකò සහිත jdpAupik
+
+295. protocol නියමාවලVය elg;nghOq;F
+
+power supply
+
+84For free distribution
+
+296. prototyping මූලාකෘතVකරණය %ytif khjpup
+
+297. proxy server නිෙයTජන ෙස්වාදායකය gjpyhs; Nritafk;
+
+298. pseudo code වþාජ ෙbතය Nghypf;Fwp
+
+299. public switch telephone network (PSTN)
+
+ෙපාÎ ස්ēx ÏරකÅන ජාල ය nghJ Mspaplg;gl;l njhiyNgrp tiyaikg;G
+
+300. public key ෙපාÎ යත]ර nghJr; rhtp
+
+301. pulse code modulation ස්පන්ද ෙbත මූĂජනය Jbg;Gf;Fwp gz;Ngw;wk;
+
+302. pulse width modulation ස්පන්ද Ēතර මුĂජනය Jbg;G mfyg; gz;Ngw;wk;
+
+303. radio button Ēකල්ප ෙත්Ćම NubNah nghj;jhd;
+
+304. random access memory (RAM)
+
+සසòðාē පċෙđĘ මතකය jw;Nghf;F mZfy; epidtfk;
+
+305. range check පරාස පĆbęාව tPr;R rupghu;j;jy;
+
+306. rapid application development (RAD)
+
+ĘFtċ ෙයදව[ò ස-වĂධනය Jupj gpuNahf tpUj;jp
+
+307. read only memory (ROM)
+
+පඨන මාතċ මතකය thrpg;G kl;Lk; epidtfk;
+
+308. real time තÅþ කාලVක epfo;Neuk;
+
+309. record 5පලැcයාන gjpT
+
+310. redo නැවත cĆම kPsr; nra;
+
+311. redundancy සමතVąbතතාව kpifik
+
+312. reference model ෙයාමු ආකෘතVය tiyaikg;gpd; fl;likg;G
+
+313. refreshing ප[èුÎ cĆම Gj;Japu;g;gpj;jy;
+
+314. register memory ෙරස්තර මතකය gjptfk;
+
+315. relational සòèන්ධක njhlu;G> cwTepiy
+
+316. relational model සòèන්ධක ආකෘතVය cwTepiy khjpup
+
+317. relational database සòèන්ධක දත්ත සමුදාය cwTepiy juTj;jsk;
+
+318. relational instance සòèන්ධතා නිදĂĘනය njhlu;G Kiw vLj;Jf;fhl;L
+
+85For free distribution
+
+319. relational schema සòබන්ධතා පąපා¢ක සටහන njhlu;G Kiwj; jpl;lk;
+
+320. relationship සòබන්ධතාවය njhlu;GKiw
+
+321. remote Ïරස්ථ njhiy> J}u
+
+322. render Ēදැහු toq;F
+
+323. repeater ප[නĂකථකය kPsp> kPl;b
+
+324. repetition ප[නćbතVය kPs; nray;
+
+325. reset button පċතþාරòð ෙබාත්තම kPsikg;Gg; nghj;jhd;
+
+326. retrieve සමුද්ධරණ kPsg;ngW
+
+327. return value පċතþාගමන අගය jpUk;gy; ngWkhdk;
+
+328. reverse auction පċතVෙවන්ෙද්සිය vjpu;khw;W Vyk;
+
+329. ring topology මුÎ ස්ථලකය tisa ,lj;jpay;
+
+330. router මං හසුćව topg;gLj;jp> topr;nrYj;jp
+
+331. routing මං හැසිරĒම topr;nrYj;jy;
+
+332. scanner සුපVąbසකය EZF Nehf;fp
+
+333. scheduler නියමකරණය xOq;FgLj;jp
+
+334. scope of variable Ēxලþ පරාසය khwp nraw;gug;G
+
+335. query Ēමසුම tpdty;
+
+336. selection ෙත්Ćම njupT
+
+337. selector වරකය Nju;tp> Nju;e;njLg;gp
+
+338. sensor සංෙđදකය czup
+
+339. sequence අනුgමය njhlu;
+
+340. sequential circuit අනුgóක පąපථය njhlu;r; Rw;W
+
+341. sequential search අනුgóක ෙසව[ම tupirKiwj; Njly;
+
+342. server ෙස්වාදායකය / අනුගċාහකය Nritafk;
+
+343. session layer සැසි ස්ථරය mku;T mLf;F
+
+344. sharable pool හුවමාć ප[ංජය gfpujF nghJ ,lk;
+
+345. sign-magnitude ලක]ණ\වත් පċමාණය / සංලbęVත FwpAila tPr;rsT
+
+86For free distribution
+
+පąමාණනය / /ංcත පąමාණනය
+
+346. single user-multi task ඒක පąĘීලක-බහු කාĂයය jdpg;gadu;-gw;gzp
+
+347. single user-single task ඒක පąĘීලක-ඒක කාĂයය jdpg;gadu;-jdpg;gzp
+
+348. smart card සුහුć කා¯පත #l;bif ml;il
+
+349. smart phone සුහුć Îරකථනය #l;bifj; njhiyNgrp
+
+350. smart system සුහුć පද්ධතVය #l;bif Kiwik
+
+351. social networking සමාජ ජාලකරණය r%f tiyaikg;ghf;fy;
+
+352. software මෘÎකාංs nkd;nghUs;
+
+353. software agent මෘÎකාංs කාරක nkd;nghUs; Kftu;
+
+354. sort ෙත්Ćම tupirg;gLj;J
+
+355. source පċභව %yk;
+
+356. spiral model සĂපVල ආකෘතVය RUsp khjpup
+
+357. spooling ;තYම Rw;Wjy;
+
+358. Star topology තාරකා ස්ථලකය tpd;kPd; ,lj;jpay;
+
+359. stepwise refinement පVයවරාකාර පVąපහÎව gbKiw ePf;fy;
+
+360. storage ආචයනය Nrkpg;G
+
+361. storage allocation ආචයන Ēභාජනය Nrkpg;G xJf;fy;
+
+362. stored program concept ආzත gමෙල්ඛ සංකල්පය Nrkpf;fg;gl;l nra;epuy; vz;zf;fU
+
+363. structure වÿහය fl;likg;G
+
+364. structure chart වÿහ සටහන fl;likg;G tiuG
+
+365. structured වÿහsත fl;likg;Gila
+
+366. structured query language( SQL)
+
+වÿහsත Ēමසුò බස fl;likg;G tpdty; nkhop
+
+367. submit button ෙයාමු ෙබාත්තම rku;g;gpj;jy; nghj;jhd;
+
+368. subnet mask උප ජාල ආවරණය cgtiy kiwKfk;
+
+369. sub-netting උප-ජාලනය cgtiyaikg;G
+
+87For free distribution
+
+370. sub-program උප-gමෙල්ඛය Jizr; nra;epuy;
+
+371. sum of products (SOP) ග]¾තයන්ෙග් =කþය ngUf;fq;fspd; $l;Lj;njhif
+
+372. supply chain
+
+management
+
+සැපයුò දාම කළමනාකරණය tpepNahf rq;fpypj;njhlu; Kfhikj;Jtk;
+
+373. swapping පċතVහරණය ,lkhw;wy;
+
+374. switch ස්Ēxය Msp
+
+375. syntax කාරක ĆතV njhlupay;
+
+376. system development
+
+life cycle(SDLC)
+
+පද්ධතV සංවĂධන වන xgය Kiwik tpUj;jp tho;f;if tl;lk;
+
+377. table වග]ව ml;ltiz
+
+378. table check constraint වග] පĆbęා සංෙරTධකය ml;ltiz rupghu;j;jy; fl;Lg;ghL
+
+379. tag උසුලනය Xl;L
+
+380. Technical feasibility තාbę¾ක Ęකþතාව njhopDl;gr; rhj;jpaf; fw;if
+
+381. telecommuting Îරස්ථ සංවාදය / Îර සන්නිෙđදනය
+
+njhiynray;
+
+382. testing strategy පĆbęණ උපgමය guPl;rpj;jy; cghak;
+
+383. text and font පාඨ සහ අbęර thrfKk; vOj;JUTk;
+
+384. text formatting පාඨ හැ®සđ ගැන්ēම thrf tbtikg;G
+
+385. text input පාඨ ආදාන thrf cs;sPL
+
+386. normal form පċමත අවස්ථාව ,ay;ghf;fy; tbtk;
+
+387. thumbnail සැෙකĒ Ĉ FWk;glk;
+
+388. time division
+
+modulation (TDM)
+
+කාල ෙèÎò මූĂනය Neug; gpup;Tg; gz;ghf;fk;
+
+389. time sharing කාල Ēðනය Neug;gfpu;T
+
+390. timing කාල ගණනය Neuf;fzpg;G
+
+391. top down design මුÎන් êò සැලසුම NkypUe;J fPohd tbtikg;G
+
+88For free distribution
+
+392. touch pad ස්පĂĘක උපධානය / පාදකය njhL ml;il
+
+393. touch screen ස්පĂĘක තVරය njhLjpiu
+
+394. transaction processing
+
+system( TPS)
+
+ගනුෙදනු සැකසුò පද්ධතVය gupkhw;wr; nrayhf;f Kiwik
+
+395. transitive dependency සංgාන්තV පරායත්තතාව khWk; rhu;G epiy
+
+396. transport layer පċවාහන ස්ථරය Nghf;Ftuj;J mLf;F
+
+397. transport protocol පċවාහන නියමාවලVය Nghf;Ftuj;J elg;nghOq;F
+
+398. tuple උපලැcයාන/ෙප්ලVය gjpT/epiu
+
+399. twisted pair 1ùą යුගල KWf;fpa Nrhb
+
+400. two’s compliment ෙදෙකහි අනුප^රකය ,uz;bd; epug;gp
+
+401. type check පċĈප පĆbෂාව tif rupghu;j;jy;
+
+402. constraint සංෙරTධනය fl;Lg;ghL tif
+
+403. ubiquitous computing සĂවවĂතV ආගණනය vq;Fk; tpahgpj;j fzpik
+
+404. undo අෙහTසි cĆම nray;jtpu;
+
+405. unguided media නියමු ෙනාවන මාධþ topgLj;jg;glhj Clfk;
+
+406. uni-casting සI[ සòෙපċ්ෂණය jdpg;gug;gy;
+
+407. unicode යුනිෙකT¯/ ඒකෙbත Xw;iwf;Fwp Kiw
+
+408. unique constraint අනනþ සංෙරTධකය jdpj;Jtf; fl;Lg;ghL
+
+409. unit testing ඒකක පĆbෂණය myFr; Nrhjid
+
+410. universal සාĂවතċ nghJ
+
+411. updating යාවත්කාලYන cĆම jw;fhyg;gLj;jy;
+
+412. user පąĘීලක gadu;
+
+413. user defined පąĘිලක නිĂවාzත gadu; tiuaiw
+
+414. validation වලංග] cĆම nry;Ygbahf;fy;
+
+415. variable Ēxලþය khwp
+
+416. very large scale
+
+integration (VLSI)
+
+ඉතා ĒĘාල පąමාණෙය් අනුකලVත
+
+kpfg; ngupastpyhd xUq;fpizg;G
+
+89For free distribution
+
+417. video graphic adapter
+
+(VGA)
+
+Ðශþ zතċක අනුහුćක]ćව fhnzhsp tiuap nghUj;jp
+
+418. virtual community අතÅþ පċජාව nka;epfu; r%fk;
+
+419. virtual memory අතÅþ මතකය nka;epfu; epidtfk;
+
+420. virtual storefront අතÅþ ෙවළඳ පċදĂශනාගාරය nka;epfu; filKfg;G
+
+421. waterfall model දUයඇලV ආකෘතVය ePu; tPo;r;rp khjpup
+
+422. wave length තරංග ආයාමය miy ePsk;
+
+423. web portal ෙවé ද්වාරය tiy thry;
+
+424. web server ෙවé ෙස්වාදායකය ,iza Nritafk;
+
+425. web service provider ෙවé ෙස්වා සැපයුòකć ,iza Nrit toq;Fdu;
+
+426. white box testing ස්ෙđත මංජ[සා පĆbęාව ntz;ngl;br; Nrhjpg;G
+
+427. world wide web (WWW)
+
+ෙලTක Ēසිą Ēයමන cyfshtpa tiy
+
+428. uniform resource
+
+locator (URL)
+
+<කාකාą සòපත් නි ශ්චායකය rPu;ik ts ,Ug;gplq;fhl;b
+
+429. uniform resource
+
+identifier(URI)
+
+<කාකාą සòපත් හßන්වනය rPu;ik ts milahsq;fhl;b
+
+This glossary is still being prepared.
+
+90For free distribution
