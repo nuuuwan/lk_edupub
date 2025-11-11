@@ -1,0 +1,3136 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      66.28,
+      656.17,
+      79.78,
+      668.0
+    ],
+    "text": "142",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      372.42,
+      649.83,
+      446.95,
+      659.83
+    ],
+    "text": "C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      71.22,
+      210.98,
+      420.9,
+      248.38
+    ],
+    "text": "\u00a3h[P\u00f8\u00cd A\u00c1u\u00f5\u00db\u00a8\u00f7\u00a3\u00f5\u00ae; P\u00bb\u00a2x\u00f8\u00b5\u00af\u00f5k\u00f7\u00c1\u00f5\u00ae; \u00c1\u00f5]\u00a8\u00f7\u00a3\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      17.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      136.15,
+      333.86,
+      172.53,
+      347.86
+    ],
+    "text": "\u00a9\u00f8\u00c7",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      103.41,
+      459.63,
+      368.79,
+      490.2
+    ],
+    "text": "\u00f6\u00c1\u00b0\u00c0\u00a3\u00db \u2030mh\u00ae",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      259.21,
+      431.14,
+      305.63,
+      445.14
+    ],
+    "text": "\u00aa\u00df\u00da\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      175.18,
+      594.15,
+      204.65,
+      608.15
+    ],
+    "text": "\u00a6\u00af\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      322.63,
+      326.03,
+      345.98,
+      340.03
+    ],
+    "text": "`k",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      289.46,
+      591.27,
+      319.18,
+      605.27
+    ],
+    "text": "S\u00ce\u00ba",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      138.97,
+      186.44,
+      223.96,
+      202.08
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 1",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      224.24,
+      107.32,
+      271.61,
+      131.32
+    ],
+    "text": "\u00a9\u00f8\u00c7",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      24.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      67.69,
+      47.73,
+      108.41,
+      89.16
+    ],
+    "text": "11",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      35.99998474121094
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      76.43,
+      649.83,
+      457.83,
+      667.62
+    ],
+    "text": "143C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.49,
+      115.59,
+      458.75,
+      132.59
+    ],
+    "text": "|s\u00a3\u00ba T\u00d6\u00c1\u00f8ua \u00f6\\\u00c2\u00a9k\u00a8\u00f7\u00a3\u00f5\u00ae; |izxU P\u00f5mk\u00f7\u00c1\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      17.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.49,
+      147.58,
+      348.58,
+      168.6
+    ],
+    "text": "01. \u00aa\u00df\u00da\u00c0 05. \u00a9\u00f8\u00c7",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.49,
+      179.59,
+      402.5,
+      198.37
+    ],
+    "text": "02. \u00f6\u00c1\u00b0\u00c0 06. `k",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.49,
+      209.59,
+      366.5,
+      228.37
+    ],
+    "text": "03. \u00a3\u00db \u2030mh\u00ae 07. S\u00ce\u00ba",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      79.49,
+      239.59,
+      150.68,
+      258.37
+    ],
+    "text": "04. \u00a6\u00af\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.46,
+      78.89,
+      243.45,
+      94.53
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 2",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      99.49,
+      336.83,
+      437.66,
+      374.23
+    ],
+    "text": "\u00f6\u00a3\u00f5\u00b8zu\u00a9\u00f5\u00da \u00c1\u00f5\u00db\u00f8\u00bb\u00f8\u00afU P\u00bb\u00a2u\u00f8\u00b5\u00af\u00f5k\u00f7\u00c1\u00f5\u00ae; G\u00cax\u00f7\u00c1\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      17.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.49,
+      390.03,
+      462.49,
+      408.81
+    ],
+    "text": "1. \u00f6u\u00f5\u00f8\u00bbUP\u00f5m]\u00f8\u00af (Tv) {\u00d6zx[P\u00d2. &",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.49,
+      426.03,
+      263.13,
+      444.81
+    ],
+    "text": "2. \u00f7P\u00f5\u00a8\u00a4 Si\u00b2[P\u00d2. &",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.49,
+      462.03,
+      455.69,
+      480.81
+    ],
+    "text": "3. S\u00f8h\u00f8\u00af Gk[P\u00d2. &",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.49,
+      498.03,
+      263.13,
+      516.81
+    ],
+    "text": "4. I\u00ecQ\u0178\u00ae Si\u00b2[P\u00d2. &",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.49,
+      534.03,
+      263.13,
+      552.81
+    ],
+    "text": "5. A.C\u00f8\u00af\u00a8 \u00f7\u00a3\u00f5k[P\u00d2. &",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.49,
+      570.03,
+      263.14,
+      588.81
+    ],
+    "text": "6. \u00e1\u00df\u00da\u00f8\u00bba \\\u00f5zx[P\u00d2. &",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      80.49,
+      606.03,
+      263.13,
+      624.81
+    ],
+    "text": "7.\u00f7h\u00f5a\u00f8\u00bbm \u00a4i\u00b2[P\u00d2. &",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 1,
+    "bbox": [
+      158.46,
+      302.86,
+      243.45,
+      318.49
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 3",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      66.28,
+      656.17,
+      79.78,
+      668.0
+    ],
+    "text": "144",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      372.42,
+      649.83,
+      446.95,
+      659.83
+    ],
+    "text": "C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      68.63,
+      125.81,
+      443.28,
+      163.21
+    ],
+    "text": "Eu\u00f5\u00b5nz\u00f8u A\u00c1u\u00f5\u00db\u00a8\u00f7\u00a3\u00f5\u00ae; \u00f7\\\u00f5iP\u00cd\u00f5P C\u00f8n\u00a2x E\u00f8\u00b5\u00af\u00f5k\u00f7\u00c1\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      17.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.63,
+      396.59,
+      133.43,
+      412.59
+    ],
+    "text": "Eu\u00f5\u00b5n\u00ae :",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.63,
+      415.02,
+      270.72,
+      450.99
+    ],
+    "text": "1. \u00af\u00f5\u00cc\u00a8\u00a3\u00f5nzv\u00c0 \u00a9\u00f8\u00c7\u00af\u00f5? C\u00c0\u00f8\u00bb. \\\u203a\u00af\u00f5\u00da \u00f6\u00c1\u00b0\u00c0.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      59.63,
+      472.62,
+      272.59,
+      508.59
+    ],
+    "text": "2. \u00af\u00f5\u00cc\u00a8\u00a3\u00f5nzv\u00c0 \u00f6\u00c1\u00b0\u00bb\u00f5? B\u00ae. Pk\u00f8\u00a9\u00af\u00f5\u00da \u00f6\u00c1\u00b0\u00c0.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64.63,
+      528.82,
+      194.47,
+      546.99
+    ],
+    "text": "~\u00c1\u00f6\u00b5\u00bc\u00af\u00f5\u00c2\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "Wingdings2"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64.63,
+      548.02,
+      192.83,
+      566.19
+    ],
+    "text": "\u00a9mhUP\u00cd\u00a8\u00a4\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "Wingdings2"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64.63,
+      567.22,
+      170.26,
+      585.39
+    ],
+    "text": "\u00f6P\u00f5\u00ca\u00ae\u00a4\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "Wingdings2"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64.63,
+      586.42,
+      176.83,
+      604.59
+    ],
+    "text": "\u00a9\u00f5zu\u00f8\u00d3\u00b0\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "Wingdings2"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      64.63,
+      608.02,
+      165.46,
+      626.19
+    ],
+    "text": "\u00a6zu\u00cdzv\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "Wingdings2"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      207.89,
+      366.37,
+      254.24,
+      386.71
+    ],
+    "text": "\u00a9\u00f5zu\u00f8\u00d3",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      11.999972343444824
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      75.27,
+      246.92,
+      125.09,
+      268.33
+    ],
+    "text": "\u00f6P\u00f5\u00ca\u00ae\u00a6",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      326.47,
+      239.13,
+      392.57,
+      262.77
+    ],
+    "text": "\u00af\u00f5\u00cc\u00a8\u00a3\u00f5n\u00ae",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      12.000035285949707
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      205.08,
+      251.11,
+      246.12,
+      271.96
+    ],
+    "text": "\u00a6zu\u00cd\u00ae",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      11.999951362609863
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      333.91,
+      362.62,
+      391.71,
+      386.11
+    ],
+    "text": "~\u00c1\u00f6\u00b5\u00bc\u00af\u00f5",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      12.000020027160645
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      76.01,
+      364.57,
+      142.42,
+      389.89
+    ],
+    "text": "\u00a9mhUP\u00cd\u00a8\u00a6",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      12.000020027160645
+    ]
+  },
+  {
+    "page_number": 2,
+    "bbox": [
+      140.6,
+      78.89,
+      225.54,
+      94.53
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 4",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      76.43,
+      649.83,
+      457.83,
+      667.62
+    ],
+    "text": "145C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      72.7,
+      110.58,
+      340.53,
+      150.63
+    ],
+    "text": "\u00a3\u00f5h\u00f8\u00bba \u00f6\\\u00c2\u00a9k\u00a8\u00f7\u00a3\u00f5\u00ae; \u00a3\u00f5k\u00f7\u00c1\u00f5\u00ae. \u00a9\u00f8\u00c7",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      17.0,
+      18.0,
+      22.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.7,
+      161.18,
+      263.12,
+      225.58
+    ],
+    "text": "S\u00f8h \u00a4izxa \u00f6\\\u00b8\u00a8\u00a6\u00aamk \u00a6zuP\u2022\u00ae \u00f6P\u00f5skSk S\u00f6h\u00da |h\u00a2x \u00c1\u00b8\u00aeS\u00c7\u00a2\u00f8uP\u00f7\u00cd \u00f7P\u00cf\u00ba.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.7,
+      245.18,
+      251.04,
+      309.58
+    ],
+    "text": "\u00a9\u00f8\u00c7UP\u00f5\u00bb\u00ae \u00c1\u00c8 \u00c1\u00caUS\u00ae\u00aaPU P\u00c1\u00da\u00ae \u00a9UP\u00f5\u00d2\u00c1\u00c8\u00af\u00b8\u00f7P \u00f6\u00c1\u00d2\u00cd\u00ae Esk\u00c2\u00bbQ \u00c1\u00b5 \u00f7\u00c1sk\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      90.7,
+      329.18,
+      246.13,
+      477.58
+    ],
+    "text": "\u00f6\u00c1\u00d2\u00cdzv\u00c0 P\u00c0\u00f6\u00bb\u00d4\u00a2x\u00c2\u00f8\u00cd\u00af\u00f5h \u00f7\u00c1sh\u00f5\u00ae\u00c3s \\s\u00f8h\u00af\u00f5\u00c0 \u00c1\u00caUQ \u00c2\u00ca\u00a2\u00f6u\u00ca\u00ae\u00a3 \u00f7\u00c1sh\u00f5\u00ae. Ps\u00a9oP\u00f5\u00d2 }\u00baa ]\u00b5[SP\u00f5\u00bc\u00c0 \u00c1\u00b8\u00ae P\u00c1\u00da\u00aePsq\u00d3UP\u00ae C\u00c0\u00bb\u00f5\u00a9\u00c0Pu\u00d4 A\u00c7 \u00f7|\u00b8\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      158.17,
+      78.89,
+      243.16,
+      94.53
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 5",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.36,
+      161.46,
+      85.36,
+      179.86
+    ],
+    "text": "1",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.03,
+      243.2,
+      85.03,
+      261.6
+    ],
+    "text": "2",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.09,
+      328.49,
+      85.09,
+      346.88
+    ],
+    "text": "3",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      78.09,
+      416.69,
+      85.09,
+      435.08
+    ],
+    "text": "4",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 3,
+    "bbox": [
+      86.02,
+      96.88,
+      92.02,
+      104.77
+    ],
+    "text": "32",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      66.28,
+      656.17,
+      79.78,
+      668.0
+    ],
+    "text": "146",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      372.42,
+      649.83,
+      446.95,
+      659.83
+    ],
+    "text": "C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      54.51,
+      114.39,
+      452.94,
+      191.76
+    ],
+    "text": "\u00a3\u00f5h\u00f8\u00bba \u00f6\\\u00c2\u00a9k\u00a8\u00f7\u00a3\u00f5\u00ae; P\u00bb\u00a2x\u00f8\u00b5\u00af\u00f5k\u00f7\u00c1\u00f5\u00ae; \u00a3h[P\u00d0US\u00a8 \u00f6\u00a3\u00f5\u00b8zu\u00a9\u00f5\u00da C\u00bbUPz\u00f8u Ck\u00f7\u00c1\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      16.0,
+      18.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      138.77,
+      78.89,
+      223.76,
+      94.53
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 6",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.25,
+      579.87,
+      441.24,
+      595.87
+    ],
+    "text": "\u00a3\u00f5h\u00f8\u00bb C\u00f8\\\u00b2h\u00dd\u00ae A\u00a4|\u00afz\u00f7u\u00f5k\u00ae \u00a3\u00f5k\u00f7\u00c1\u00f5\u00ae;",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      64.25,
+      609.87,
+      312.5,
+      625.87
+    ],
+    "text": "\u00a9\u00f5n\u00c1\u00ba \u00a9\u00df\u00d3zv\u00c0 \u2022\u00df\u00f8\u00c1\u00a8\u00f7\u00a3\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 4,
+    "bbox": [
+      140.21,
+      547.79,
+      225.21,
+      563.43
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 7",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      76.43,
+      649.83,
+      457.83,
+      667.62
+    ],
+    "text": "147C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      89.78,
+      107.91,
+      457.62,
+      147.51
+    ],
+    "text": "\u00a4\u00df\u00c1\u00b8\u00ae \u00a3h[P\u00f8\u00cd A\u00c1u\u00f5\u00db\u00a8\u00f7\u00a3\u00f5\u00ae; S\u00ca\u00c1\u00f5PU P\u00bb\u00a2x\u00f8\u00b5\u00af\u00f5k\u00f7\u00c1\u00f5\u00ae; \u00c1\u00f5]\u00a8\u00f7\u00a3\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      18.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      131.5,
+      360.9,
+      403.06,
+      376.9
+    ],
+    "text": "01.\u00f7P\u00f5\u00c8 J\u00df\u00d6 C\u00b8\u00a2ux, Ax A\u00f8hP\u00f5zux.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      88.81,
+      609.03,
+      450.44,
+      625.03
+    ],
+    "text": "02.Sg_P\u00d2 |\u00f5\u00dfS \u00f6\u00a3\u00f5\u203azu\u00da. A\u00f8\u00c1 u\u00f5\u00f7\u00af\u00f5k \u00c1\u00cd\u00ba\u00a2u\u00da.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 5,
+    "bbox": [
+      157.75,
+      78.89,
+      242.69,
+      94.53
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 8",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      66.28,
+      656.17,
+      79.78,
+      668.0
+    ],
+    "text": "148",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      372.42,
+      649.83,
+      446.95,
+      659.83
+    ],
+    "text": "C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      88.63,
+      301.23,
+      443.22,
+      336.43
+    ],
+    "text": "03. \"\"u\u00db\u00af\u00f5Pa \u00f6\\\u00c0\u00bb \u00f7\u00c1sh\u00f5\u00ae...'' G\u00daz u\u00f5\u00b4 \u00f6\\\u00f5\u00df\u00dax. J\u00b8 Sg_ u\u00f5\u00b4 \u00f6\\\u00f5\u00c0\u00f8\u00bbU \u00f7PmP\u00c2\u00c0\u00f8\u00bb.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 6,
+    "bbox": [
+      92.1,
+      587.59,
+      410.77,
+      622.79
+    ],
+    "text": "04. u\u00f5\u00f8\u00af \u00c2mkz y\u00b5a \u00f6\\\u00df\u00d3x. A\u00a2uU Sg\u00f8\\\u00a8 \u00a3\u00b8\u00a2x Pshx. \u00a3\u00b8\u00a2x Sg\u00f8\\\u00a8 \u00a4iUP \u00c1\u00a2ux.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      76.43,
+      649.83,
+      457.83,
+      667.62
+    ],
+    "text": "149C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      103.16,
+      306.05,
+      424.84,
+      341.25
+    ],
+    "text": "05. u\u00f5\u00b4U \u00f7P\u00f5\u00c8 \u00a3\u00b8\u00a2\u00f8uz x\u00b5zv\u00afx. Sg_ u\u00f5\u00b0h\u00ae Ki \u00c1\u00a2ux.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 7,
+    "bbox": [
+      98.44,
+      587.39,
+      406.18,
+      622.59
+    ],
+    "text": "06. \"\"A\u00ae\u00a9\u00f5! A\u00ae\u00a9\u00f5! C\u00db |\u00f5\u00df E[P\u00d2 \u00f6\\\u00f5\u00c0\u00f8\u00bbz umh \u00a9\u00f5m\u00f7h\u00df.'' G\u00df\u00d6 T\u00d4\u00afx.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      66.28,
+      656.17,
+      79.78,
+      668.0
+    ],
+    "text": "150",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      372.42,
+      649.83,
+      446.95,
+      659.83
+    ],
+    "text": "C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      195.05,
+      94.08,
+      290.11,
+      114.08
+    ],
+    "text": "nrhy; mwpKfk;",
+    "fonts": [
+      "NCNitusha"
+    ],
+    "sizes": [
+      20.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      128.18,
+      304.85,
+      144.18
+    ],
+    "text": "\u00f7P\u00f5\u00c8 & lsls<s",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      158.72,
+      357.74,
+      173.89
+    ],
+    "text": "A\u00f8hP\u00f5zux & \u00ec;a;r rlskjd",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      188.72,
+      345.06,
+      203.89
+    ],
+    "text": "\u00f7P\u00f5\u00c8U Sg_ & l=l=\u00bf me\u00e1hd",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      218.72,
+      295.89,
+      233.89
+    ],
+    "text": "A\u00f8\u00c1 & tAjd",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      248.72,
+      291.97,
+      263.89
+    ],
+    "text": "u\u00f5\u00b4 & uj",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      278.72,
+      317.63,
+      293.89
+    ],
+    "text": "\u00a3\u00b8\u00a2x & Wl=iaid",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      308.72,
+      326.16,
+      323.89
+    ],
+    "text": "\u00a3\u00f5xP\u00f5\u00a8\u00a6 & wdrlaIdj",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      338.72,
+      348.39,
+      353.89
+    ],
+    "text": "Ki \u00c1\u00a2ux & \u00ffjf.k wdjd",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      368.72,
+      324.3,
+      383.89
+    ],
+    "text": "\u00a4iUP & w,a,kak",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      398.72,
+      314.78,
+      413.89
+    ],
+    "text": "\u00c1\u00cd\u00ba\u00a2u\u00da & jevqKd",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      428.72,
+      316.27,
+      443.89
+    ],
+    "text": "\u00a9mk\u00ae & muKla",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      458.72,
+      336.69,
+      473.89
+    ],
+    "text": "P\u00f5\u00a8\u00a3\u00f5\u00d8\u00d4\u00afx & f\u00edrd.;a;d",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      488.72,
+      288.5,
+      503.89
+    ],
+    "text": "y\u00b5\u00ae & \u00ffr",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      518.72,
+      334.64,
+      533.89
+    ],
+    "text": "\u00f7PmP\u00c2\u00c0\u00f8\u00bb & weyqf\u00f5 kE",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 8,
+    "bbox": [
+      142.72,
+      548.72,
+      301.11,
+      563.89
+    ],
+    "text": "|\u00f5\u00dfS & y;r",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      14.0,
+      15.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      76.43,
+      649.83,
+      457.83,
+      667.62
+    ],
+    "text": "151C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.49,
+      112.89,
+      252.82,
+      168.0
+    ],
+    "text": "\u00a3h\u00ae \u00a3\u00f5\u00bazx\u00a8 \u00f7\u00a3_\u00f7\u00c1\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      16.0,
+      17.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.49,
+      366.8,
+      466.82,
+      402.0
+    ],
+    "text": "\u00a4\u00df\u00c1\u00b8\u00ae \u00c1\u00f5UQ\u00af[P\u00f8\u00cd \u00c1\u00f5]\u00a8\u00f7\u00a3\u00f5\u00ae; \u00a3h[P\u00d0US\u00a8 \u00f6\u00a3\u00f5\u00b8zu\u00a9\u00f5\u00da G\u00caz\u00f8u \u00f7\u00a9\u00be\u00d2\u00cd \u00f6\u00a3miUS\u00d2 G\u00cax\u00f7\u00c1\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      15.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.49,
+      424.47,
+      438.5,
+      459.67
+    ],
+    "text": "A J\u00b8 Sg_ u\u00f5\u00f8\u00af\u00c2mk y\u00b5a \u00f6\\\u00df\u00d3x. A\u00a2uU Sg\u00f8\\\u00a8 \u00a3\u00b8\u00a2x Pshx.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.49,
+      465.15,
+      330.4,
+      484.87
+    ],
+    "text": "B u\u00f5\u00b4U \u00f7P\u00f5\u00c8 \u00a3\u00b8\u00a2\u00f8uz x\u00b5zv\u00afx.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.49,
+      490.7,
+      298.04,
+      510.07
+    ],
+    "text": "C Sg_P\u00d2 |\u00f5\u00dfS \u00f6\u00a3\u00f5\u203azu\u00da.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.49,
+      519.27,
+      466.38,
+      554.47
+    ],
+    "text": "D Sg_ u\u00f5\u00b0h\u00ae Ki \u00c1\u00a2ux. \"\"C\u00db |\u00f5\u00df E[P\u00d2 \u00f6\\\u00f5\u00c0\u00f8\u00bbz umh\u00a9\u00f5m\u00f7h\u00df'' G\u00df\u00d3x.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.49,
+      563.67,
+      441.7,
+      598.87
+    ],
+    "text": "E Sg_P\u00f8\u00cdz \"\"u\u00db\u00af\u00f5P \u00f6\\\u00c0\u00bb \u00f7\u00c1sh\u00f5\u00ae'' G\u00df\u00d6 u\u00f5\u00b4U \u00f7P\u00f5\u00c8 \u00f6\\\u00f5\u00df\u00dax.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      73.49,
+      603.28,
+      388.53,
+      624.07
+    ],
+    "text": "F \u00f7P\u00f5\u00c8 J\u00df\u00d6 C\u00b8\u00a2ux. Ax A\u00f8hP\u00f5zux.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 9,
+    "bbox": [
+      159.17,
+      78.51,
+      244.16,
+      94.15
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 9",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      66.28,
+      656.17,
+      79.78,
+      668.0
+    ],
+    "text": "152",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      372.42,
+      649.83,
+      446.95,
+      659.83
+    ],
+    "text": "C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      53.36,
+      122.4,
+      445.54,
+      237.51
+    ],
+    "text": "\u00a4\u00df\u00c1\u00b8\u00ae \u00a3h[P\u00f8\u00cd A\u00c1u\u00f5\u00db\u00a8\u00f7\u00a3\u00f5\u00ae; \u00c1\u00f5UQ\u00af[P\u00f8\u00cd \u00c1\u00f5]\u00a8\u00f7\u00a3\u00f5\u00ae; \u00c2\u00f8\u00daa \u00f6\\\u00f5\u00d8P\u00d2 \u2022i\u00b2\u00ae Chz\u00f8u A\u00c1u\u00f5\u00db\u00a8 \u00f7\u00a3\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      16.0,
+      17.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      90.7,
+      367.77,
+      418.25,
+      384.79
+    ],
+    "text": "Sg_ {\u00d8Q\u00d3x.Sg_P\u00d2 {\u00d8Q\u00df\u00d3\u00da.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      78.21,
+      566.38,
+      422.03,
+      584.94
+    ],
+    "text": "\u00a3\u00b8\u00a2x \u00a3\u00d3UQ\u00df\u00d3x.\u00a3\u00b8\u00a2xP\u00d2 \u00a3\u00d3UQ\u00df\u00d3\u00da.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 10,
+    "bbox": [
+      129.97,
+      79.6,
+      224.69,
+      95.24
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 10",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      76.43,
+      649.83,
+      457.83,
+      667.62
+    ],
+    "text": "153C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      101.75,
+      279.73,
+      237.93,
+      295.73
+    ],
+    "text": "\u00f7P\u00f5\u00c8 x\u00b5zxQ\u00df\u00d3x.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      298.43,
+      279.39,
+      457.58,
+      295.39
+    ],
+    "text": "\u00f7P\u00f5\u00c8P\u00d2 x\u00b5zxQ\u00df\u00d3\u00da.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 11,
+    "bbox": [
+      94.22,
+      531.8,
+      449.47,
+      549.22
+    ],
+    "text": "\u00a9\u00b0\u00c0 BkQ\u00df\u00d3x. \u00a9\u00b0\u00c0P\u00d2 BkQ\u00df\u00d3\u00da.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      66.28,
+      656.17,
+      79.78,
+      668.0
+    ],
+    "text": "154",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      372.42,
+      649.83,
+      446.95,
+      659.83
+    ],
+    "text": "C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      260.84,
+      154.09,
+      442.93,
+      227.69
+    ],
+    "text": "\u00a3\u00d3UQ\u00df\u00d3x, KkQ\u00df\u00d3\u00da, BkQ\u00df\u00d3x \u00a3\u00f5\u00b4Q\u00df\u00d3x, BkQ\u00df\u00d3\u00da, \u00a3\u00d3UQ\u00df\u00d3\u00da, \u00a3\u00f5\u00b4Q\u00df\u00d3\u00da, KkQ\u00df\u00d3\u00da.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      62.5,
+      109.17,
+      406.94,
+      146.57
+    ],
+    "text": "\u00a4\u00df\u00c1\u00b8\u00ae \u00a3h[P\u00f8\u00cd A\u00c1u\u00f5\u00db\u00a8\u00f7\u00a3\u00f5\u00ae; \u00f6\u00a3\u00f5\u00b8zu\u00a9\u00f5\u00da \u00f6\\\u00f5\u00d8P\u00f8\u00cdz \u00f6u\u203a\u00c4 \u00f6\\\u00b4x C\u00f8h\u00f6\u00c1\u00ce {\u00b5\u00a8\u00a6\u00f7\u00c1\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      17.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      135.64,
+      78.89,
+      228.73,
+      94.53
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 11",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      80.23,
+      163.69,
+      245.01,
+      211.29
+    ],
+    "text": "|\u00f5\u00b4, \u00a3\u00d3\u00f8\u00c1, S\u00b5[SP\u00d2, |\u00f5\u00b4P\u00d2, S\u00b5[S, \u00a3\u00d3\u00f8\u00c1P\u00d2, \u00a9\u00b0\u00c0, \u00a9\u00b0\u00c0P\u00d2.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 12,
+    "bbox": [
+      282.1,
+      158.18,
+      432.74,
+      222.58
+    ],
+    "text": "\u00a3\u00d3UQ\u00df\u00d3x, KkQ\u00df\u00d3\u00da, BkQ\u00df\u00d3x, \u00a3\u00d3UQ\u00df\u00d3\u00da, BkQ\u00df\u00d3\u00da, KkQ\u00df\u00d3x, \u00a3\u00f5\u00b4Q\u00df\u00d3x, \u00a3\u00f5\u00b4Q\u00df\u00d3\u00da.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      76.43,
+      649.83,
+      457.83,
+      667.62
+    ],
+    "text": "155C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      73.28,
+      278.77,
+      235.09,
+      295.77
+    ],
+    "text": "\u00c1\\\u00da[P\u00d2 A\u00f8\u00a9\u00a8\u00f7\u00a3\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      17.0
+    ]
+  },
+  {
+    "page_number": 13,
+    "bbox": [
+      153.29,
+      245.89,
+      246.38,
+      261.53
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 12",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      66.28,
+      656.17,
+      79.78,
+      668.0
+    ],
+    "text": "156",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      372.42,
+      649.83,
+      446.95,
+      659.83
+    ],
+    "text": "C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      63.7,
+      113.31,
+      292.01,
+      130.31
+    ],
+    "text": "\u00a9\u00f5n\u00c1\u00baP\u00f8\u00cda \u00f7\\\u00f5iP\u00cd\u00f5US[P\u00d2.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      17.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      61.7,
+      136.51,
+      374.81,
+      174.49
+    ],
+    "text": "(A) Amh\u00c1\u00f8n\u00f8\u00af J\u00b8\u00c1\u00b8US\u00ae,(B) Amh\u00c1\u00f8n\u00f8\u00af J\u00b8\u00c1\u00b8US\u00ae \u00c1\u00c7[S[P\u00d2.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      54.7,
+      183.69,
+      403.99,
+      238.09
+    ],
+    "text": "J\u00b8\u00c1\u00ba \u00c1\u00f5]UP \u00a9\u00d8\u00d3\u00c1\u00ba C\u00f8h\u00f6\u00c1\u00ce\u00f8\u00af {\u00b5\u00a8\u00a6[P\u00d2.",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      136.12,
+      78.89,
+      229.22,
+      94.53
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 13",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      108.95,
+      207.22,
+      236.37,
+      231.62
+    ],
+    "text": "(A)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      119.95,
+      241.22,
+      243.96,
+      260.0
+    ],
+    "text": "1. |\u00f5\u00b4 S\u00f8\u00b5zux.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      119.95,
+      269.22,
+      327.39,
+      288.0
+    ],
+    "text": "2. Sv\u00f8\u00b5 .",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      119.95,
+      297.22,
+      253.82,
+      316.0
+    ],
+    "text": "3. \u00a9\u00b0\u00c0P\u00d2 Bi\u00da.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      119.95,
+      325.22,
+      326.14,
+      344.0
+    ],
+    "text": "4. S\u00b5[S .",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      119.95,
+      353.22,
+      282.06,
+      372.0
+    ],
+    "text": "5. \u00a7\u00f8\u00da \u00a3\u00f5\u00c0 Sizux.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      119.95,
+      381.22,
+      214.39,
+      400.0
+    ],
+    "text": "6. ][P[P\u00d2",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      256.88,
+      599.43,
+      383.53,
+      623.83
+    ],
+    "text": "(B)",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      315.92,
+      564.41,
+      372.53,
+      589.83
+    ],
+    "text": "1. |\u00f5\u00b4",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      242.52,
+      536.41,
+      372.53,
+      561.83
+    ],
+    "text": "2. Sv\u00f8\u00b5 Ki\u00afx.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      231.79,
+      480.41,
+      372.53,
+      533.83
+    ],
+    "text": "3. \u00a9\u00b0\u00c0P\u00d2 4. S\u00b5[S \u00a3\u00f5\u00b4\u00a2ux.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      269.44,
+      452.41,
+      372.53,
+      477.83
+    ],
+    "text": "5. \u00a7\u00f8\u00da \u00a3\u00f5\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 14,
+    "bbox": [
+      220.33,
+      424.41,
+      372.53,
+      449.83
+    ],
+    "text": "6. ][P[P\u00d2 v\u00df\u00d3\u00da.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      14.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      76.43,
+      649.83,
+      457.83,
+      667.62
+    ],
+    "text": "157C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      78.25,
+      116.13,
+      465.25,
+      153.53
+    ],
+    "text": "Pmh[P\u00ce\u00c0 C\u00b8\u00a2x \u00f6\\\u00f5\u00d8P\u00f8\u00cdz \u00f6u\u203a\u00c4 \u00f6\\\u00b4\u00f7\u00c1\u00f5\u00ae; \u00c1\u00f5]\u00a8\u00f7\u00a3\u00f5\u00ae; \u00c1\u00f5UQ\u00af[P\u00d2 A\u00f8\u00a9\u00a8\u00f7\u00a3\u00f5\u00ae.",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      17.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      80.25,
+      463.71,
+      159.67,
+      479.71
+    ],
+    "text": "Eu\u00f5\u00b5n\u00ae :&",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      80.25,
+      482.95,
+      440.85,
+      499.71
+    ],
+    "text": "1. \u00f6\u00a3\u203a\u00af \u00a7\u00f8\u00da \u00a3\u00f5\u00c0 Sizux. 6.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      80.25,
+      510.95,
+      442.85,
+      527.71
+    ],
+    "text": "2. \u00a3a\u00f8\\U Q\u00ce \u00a3\u00d3\u00a2ux. 7.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      80.25,
+      538.95,
+      436.85,
+      554.71
+    ],
+    "text": "3. 8.",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      80.25,
+      566.95,
+      308.26,
+      583.71
+    ],
+    "text": "4. 9.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      80.25,
+      594.95,
+      309.25,
+      611.71
+    ],
+    "text": "5. 10.",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      12.0,
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      152.84,
+      78.89,
+      245.93,
+      94.53
+    ],
+    "text": "\u00aa\u00ea\u00f2\u0178\u00f0\u00a3\u00b4 14",
+    "fonts": [
+      "Tam-Tamil017"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      194.11,
+      182.51,
+      247.52,
+      217.71
+    ],
+    "text": "\u00a7\u00f8\u00da\u00a9\u00f5\u00dfP\u00d2",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      207.51,
+      220.91,
+      239.12,
+      236.91
+    ],
+    "text": "|\u00f5\u00b4",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      196.06,
+      240.11,
+      245.58,
+      294.51
+    ],
+    "text": "\u00a6\u00bc][P\u00aeP\u00b5iP\u00d2",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      198.23,
+      297.71,
+      243.4,
+      313.71
+    ],
+    "text": "\u00af\u00f5\u00f8\u00da",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      201.11,
+      316.91,
+      245.51,
+      332.91
+    ],
+    "text": "\u00a3\u00f5\u00ae\u00a6",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      207.59,
+      336.11,
+      239.03,
+      352.11
+    ],
+    "text": "Q\u00ce",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      192.09,
+      355.31,
+      249.55,
+      390.51
+    ],
+    "text": "\u00a3_\u00a6\u00d3\u00f5UP\u00d2",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      86.71,
+      278.72,
+      149.14,
+      313.92
+    ],
+    "text": "\u00f6\u00a3\u203a\u00af\u00f6\u00c1\u00d2\u00f8\u00cd",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      98.18,
+      317.12,
+      137.67,
+      352.32
+    ],
+    "text": "]\u00d4\u00af\u00a3a\u00f8\\",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      396.95,
+      163.45,
+      448.22,
+      198.72
+    ],
+    "text": "Ki\u00da\u00a3\u00d3\u00a2u\u00da",
+    "fonts": [
+      "SHREE-TAM7-0800",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      398.25,
+      201.92,
+      452.92,
+      217.92
+    ],
+    "text": "\u00a3\u00d3\u00a2ux",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      394.98,
+      221.12,
+      451.18,
+      275.52
+    ],
+    "text": "]\u00d4\u00afxSizuxSizu\u00da",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      398.92,
+      278.72,
+      447.27,
+      313.92
+    ],
+    "text": "v\u00df\u00d3xv\u00df\u00d3\u00da",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      394.05,
+      317.12,
+      452.1,
+      352.32
+    ],
+    "text": "Ki\u00afx\u00a3\u00f5\u00b4\u00a2ux",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      391.58,
+      355.52,
+      454.58,
+      429.12
+    ],
+    "text": "PizuxPzv\u00afx\u00a3\u00f5\u00b4\u00a2u\u00daS\u00f8\u00b5zux",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      306.95,
+      278.47,
+      336.6,
+      294.47
+    ],
+    "text": "\u00a3\u00f5\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      293.7,
+      297.67,
+      349.87,
+      332.87
+    ],
+    "text": "\u00a6\u00c0C\u00f8\u00d3a]",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 15,
+    "bbox": [
+      314.0,
+      336.07,
+      329.55,
+      352.07
+    ],
+    "text": "}\u00ba",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      66.28,
+      656.17,
+      79.78,
+      668.0
+    ],
+    "text": "158",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      9.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      372.42,
+      649.83,
+      446.95,
+      659.83
+    ],
+    "text": "C\u00bb\u00c1\\\u00a8 \u00a3\u00f5h\u00a1\u00c0",
+    "fonts": [
+      "SHREE-TAM7-0803"
+    ],
+    "sizes": [
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      88.89,
+      501.57,
+      192.19,
+      514.71
+    ],
+    "text": "1. ld,.=Kh ms<sn| j lSu",
+    "fonts": [
+      "FMAbhaya",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      88.89,
+      523.97,
+      180.86,
+      534.48
+    ],
+    "text": "2. ld,.=Kh .ek ,s\u00f9u",
+    "fonts": [
+      "FMAbhaya",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      88.89,
+      539.15,
+      219.12,
+      552.29
+    ],
+    "text": "3. l;djla lshjd f;are\u00ef .ekSu",
+    "fonts": [
+      "FMAbhaya",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      88.89,
+      555.47,
+      252.1,
+      579.96
+    ],
+    "text": "4. Sizux, Sizu\u00da hk moj, fjki y`\u00ffkdf.k Nd\u00fa; ls\u00cdu",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-0800",
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      8.0,
+      10.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      315.67,
+      461.61,
+      393.0,
+      475.3
+    ],
+    "text": "\uf0fc,l=Kq lrkak",
+    "fonts": [
+      "FMAbhaya",
+      "Wingdings-Regular"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      280.59,
+      483.47,
+      422.74,
+      495.66
+    ],
+    "text": "b;d fyd|hsfyd|hsidudkH",
+    "fonts": [
+      "FMAbhaya"
+    ],
+    "sizes": [
+      10.0,
+      12.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      127.43,
+      183.44,
+      336.67,
+      224.02
+    ],
+    "text": "s- & Ka \u00df & ka Pshx \u00a9\u00f5\u00dfP\u00d2",
+    "fonts": [
+      "FMAbhaya",
+      "SHREE-TAM7-0800",
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      9.0,
+      13.0,
+      14.0,
+      16.0,
+      18.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      127.43,
+      233.63,
+      321.39,
+      246.63
+    ],
+    "text": "\u00f7\u00c1sh\u00f5\u00ae |\u00f5\u00dfS",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      127.43,
+      257.63,
+      318.03,
+      270.63
+    ],
+    "text": "\u00c3\u00f8n J\u00df\u00d6",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      127.43,
+      281.63,
+      318.91,
+      294.63
+    ],
+    "text": "C\u00b5sk \u00a7\u00f8\u00da",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      127.43,
+      305.63,
+      326.96,
+      318.63
+    ],
+    "text": "\u00af\u00f5\u00cc\u00a8\u00a3\u00f5n\u00ae v\u00df\u00d3\u00da",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      127.43,
+      329.63,
+      326.05,
+      342.63
+    ],
+    "text": "|\u00df\u00f8\u00a9",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      127.43,
+      353.63,
+      316.48,
+      366.63
+    ],
+    "text": "P\u00df\u00d6",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      127.43,
+      377.63,
+      315.25,
+      390.63
+    ],
+    "text": "|\u00df\u00d4",
+    "fonts": [
+      "SHREE-TAM7-0800"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 16,
+    "bbox": [
+      123.88,
+      241.61,
+      129.88,
+      249.49
+    ],
+    "text": "33",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      6.0
+    ]
+  }
+]

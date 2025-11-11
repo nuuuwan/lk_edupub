@@ -1,0 +1,3663 @@
+==== BLOCKS ==== 
+
+i
+
+SCIENCEPart - II
+
+Educational Publications Department
+
+Grade 7
+
+ii
+
+First Print 2015Second Print 2016Third Print 2017Fourth Print 2018Fifth Print 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0107-4
+
+Published by Educational Publications DepartmentPrinted at Paramount Solutions (Pvt) Ltd.No. 105/1, Lake Road, Ambathale, Mulleriyawa New Town.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka MathaApa Sri Lanka Namo Namo Namo Namo MathaSundara siri barinee, surendi athi sobamana LankaDhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye mathaPiliganu mena apa bhakthi pooja Namo Namo MathaApa Sri Lanka Namo Namo Namo Namo MathaOba we apa vidya Obamaya apa sathyaOba we apa shakthi Apa hada thula bhakthiOba apa aloke Apage anupraneOba apa jeevana we Apa mukthiya oba weNava jeevana demine, nithina apa pubudukaran mathaGnana veerya vadawamina regena yanu mana jaya bhoomi karaEka mavakage daru kela bevinaYamu yamu vee nopamaPrema vada sema bheda dureradaNamo, Namo MathaApa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+v
+
+Message from the Hon. Minister of Education
+
+The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan government and myself, as the Minister of Education, to empower you all.
+
+This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders.
+
+Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence, you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim.
+
+It is your duty to give a proper value to the money spent by the government on your education. Also you should understand that education determines your future. Make sure that you reach the optimum social stratum through education.
+
+I congratulate you to enjoy the benefits of free education and bloom as an honoured citizen who takes the name of Sri Lanka to the world.
+
+Akila Viraj KariyawasamMinister of Education
+
+Being innovative, changing with right knowledgeBe a light to the country as well as to the world.
+
+vi
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you all the textbooks from grades 1-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha WickramanayakaCommissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vii
+
+Monitoring and Supervision W. M. Jayantha Wickramanayaka - Commissioner General of Educational Publications Educational Publications DepartmentDirection W. A. Nirmala Piyaseeli - Commissioner of Educational Publications (Development) Educational Publications DepartmentCo-ordination K. D. Bandula Kumara - Deputy Commissioner Educational Publications DepartmentW. Suvendra Shyamaleen Jayawardana - Assistant Commissioner Educational Publications DepartmentY. M. Priyangika Kumari Yapa - Assistant Commissioner Educational Publications DepartmentPanel of Editors 1. M. P. Vipulasena - Director (Science) Ministry of Education2. Premalal Uduporuwa - Senior Lecturer National Insitute of Education3. Dr. Pushpa Vitharana - Senior Lecturer Department of Education University of Peradeniya4. Dr. Nilwala Kottegoda - Senior Lecturer Department of Chemistry University of Sri Jayawardanapura5. P. Rajudevan - Assistant Lecturer National Insitute of Education6. K. D. Bandula Kumara - Deputy Commissioner Educational Publications Department7. W. Suvendra Shyamaleen Jayawardana - Assistant Commissioner Educational Publications Department8. Y. M. Priyangika Kumari Yapa - Assistant Commissioner Educational Publications DepartmentPanel of Writers
+
+1. P. I. Wijesundara - In-Service Advisor (Science) Zonal Education Office, Udugama
+
+viii
+
+2. Gamini Jayasooriya - In-Service Advisor (Science) Divisional Education Office Wennappuwa3. Shirani Dissanayaka - Teacher Service Visaka Vidyalaya, Colombo4. H. T. C. Gamini Jayarathne - In-Service Advisor (Retired) 5. R. M. P. Bandara - Teacher Service Neluwa National School, Neluwa6. K. Indika Jayawardhana Peiris - Teacher Service Methodist High School, Moratuwa7. Suyama Kottegoda - Teacher Service Bandaragama Central College Bandaragama8. Chamila Ukwatta - Teacher Service D.S. Senanayaka College, Colombo 079. A. M. T. Pigera - Assistant Educatinal Director (Retired)10. K. Santha Kumara - In-Service Advisor (Science) Zonal Education Office, Haliela11. H. M. F. Rafaka - Principal Dummaladeniya Muslim College Dummaladeniya12. T. Balakumaran - Teacher Service (Retired) Language Editing
+
+1. W. Indumini Darshika - Assistant Commissioner Educational Publications Department2. M. R. S. K. Ganegoda - Teacher Service Sri Jayawardanapura Balika Vidyalaya Kotte Illustrations, Cover Page and Page layout
+
+1. Malaka Lalanajeewa - Graphic Designer
+
+Technical Assistance
+
+1. M. D. Tharindu Samarasinghe - Educational Publications Department
+
+ix
+
+Introduction
+
+This textbook was compiled by the Educational Publications Department in accordance with the syllabus prepared by the National Institute of Education for the use of Grade seven students in the Sri Lankan school system with effect from 2016.An effort has made here to arrange the subject content to suit the national educational goals, common national competencies, the objectives of teaching science and the content of the syllabus.The subject of science directs the student towards a more active learning process in a manner as to develop knowledge, skills and attitudes needed for a developmental scientific thought.In the compilation of this textbook, subject content is largely arranged based on experiences of daily life. It has contributed to prove the fact that the subject of press; science is very much closer to the day-to-day life.The compilation of this textbook based on activities is a distinctive feature. The activities are prepared based on the scientific method in order to develop knowledge, skills and attitudes. Activities that can be performed individually at home as well as in school are incorporated here. We believe that learning through activities would contribute to create a liking and an interest in the child towards learning science. At the end of each chapter, a summary, a series of exercises and a glossary were included. It enables the student to identify the important details of the chapter as well as to self evaluate the achievement of learning outcomes.For the purpose of directing the student to study further about the subject matter, more information is included in the "For extra knowledge". It is given only to broaden the subject area of the child and certainly not to ask questions at term tests.Assignments and projects are given with the purpose of directing the student towards an explorative study. It enables the students to develop the higher order skills such as application, analysis and synthesis of the concepts achieved from the lesson.We strongly believe that the duty of the teachers who teach science is to direct the student for self learning instead of teaching the student using traditional teaching methods. This textbook can be utilized by the teachers as a learning tool to execute their teaching role properly. We would like to bestow our sincere thanks on the senior lecturer Asoka De Silva of the National Institute of Education and the professional writer Dr. K. Ariyasinghe.We kindly request you to forward your comments and suggestions on this textbook to the Educational Publications Department.
+
+Board of Writers and Editors
+
+xi
+
+Contents
+
+Page11. Sound 0111.1 Production of Sound 0111.2 Propagation of sound 05
+
+12. Biological Processes 1112.1 Organisational levels of life 1112.2 Systems of the human body 19
+
+13. Atmosphere 2813.1 Layers of atmosphere 2813.2 Air and its components 33
+
+14. Heat and Temperature 4014.1 Measuring temperature 4014.2 Thermometers 4214.3 Heat transfer 4914.4 Application of convectional currents 54
+
+15. Soil 5915.1 Different types of soil 5915.2 Composition of soil 6115.3 Soil erosion 68
+
+16. Force and Motion 7316.1 Distance and displacement 7316.2 Force 77
+
+17. Nutrients in Food 8617.1 Food and nutrients 8617.2 Tests to identify food 93
+
+xii
+
+18. Minerals and Rocks 10018.1 Features of minerals and rocks 10118.2 Kinds of rocks and minerals 10118.3 Rock weathering 10418.4 Rock cycle 107
+
+19. Sources of Energy 11319.1 Renewable energy sources 11519.2 Non-renewable energy sources 12219.3 Sustainable usage of energy sources 125
+
+Science | Sound1
+
+11.1 Production of soundWe hear various sounds frequently in our day-to-day life. Sounds of birds, sounds of radio and television are some of them. Let us do Activity 11.1 to find out more about the sounds we hear.
+
+Activity 11.1
+
+You will need :- A speaker, some pieces of polystyrene, connecting wire, dry cellsMethod:- yConnect the wires to the terminals of the speaker. Place the pieces of polystyrene on the speaker. yConnect one of the two free ends of wires to the dry cell. yTouch the other free end of the wires with the other terminal of the dry cell and remove at once. (Do not keep the wires connected to the dry cell) yKeep on touching and removing one end of the wires to the dry cell and record your observations.
+
+f
+
+Figure 11.1
+
+Pieces of polystyrene
+
+Speaker
+
+Wire end
+
+It is observed that pieces of polystyrene are thrown up, only when the speaker is connected to the dry cell. It means that pieces of polystyrene are thrown up, only when the speaker produces sound. This happens because of the to and fro movement of the speaker cone. This type of a speedy to and fro movement is known as vibration.It is clear that sound is generated due to the vibration of an object.Let us do Activity 11.2 to find out more about the generation of sound.
+
+Sound11
+
+Science | Sound2
+
+Activity 11.2
+
+You will need :- A tuning fork, a laboratory stand, a piece of thread, a small polystyrene ballMethod:- yHang the small polystyrene ball (using a piece of thread), as shown in the figure. yVibrate the tuning fork and bring it close to the polystyrene ball. yObserve what happens. (Repeat this several times.)
+
+Polystyrene ball
+
+Tuning fork
+
+Thread
+
+Figure 11.2
+
+It is observed that the polystyrene ball moves towards the vibrated tuning fork, when it is brought closer. The polystyrene ball moves only when there are vibrations in the tuning fork. Let us do Activity 11.3 to find out how our vocal sound is produced.
+
+Activity 11.3
+
+Method :- yPlace your fingers on the middle of your throat, as shown in the figure. ySpeak slowly and record what your finger feels. ySpeak louder and record the feeling to your fingers.Figure 11.3
+
+Figure 11.3
+
+A light trembling is felt to the fingers when speaking slowly. This trembling increases when the voice is increased. This type of trembling is felt because of the vibration of membranes in the throat which are known as vocal cords. That means, our vocal sound is produced because of the vibration of vocal cords in the throat.
+
+Science | Sound3
+
+Assignment 11.1
+
+yDesign and carry out simple activities to show that sound is produced by vibrations.
+
+Instruments that produce sound
+
+Activity 11.4
+
+You will need :- A guitar, a drum, a flute, a tablaMethod :- yProduce sound using the sources of sound that you are provided with. yObserve the part of sound source that vibrates when sound is produced. yTabulate your findings.
+
+,
+
+f
+
+t
+
+Figure 11.4
+
+Compare your observations and findings with Table 11.1.
+
+Table 11.1 Sound source/ InstrumentPart that vibrates
+
+GuitarStringsDrumMembranesFluteAirTablaMembranesAccordingly, it can be concluded that various musical instruments produce sound in various ways. Musical instruments can be categorized according to the part that vibrates to produce sound.
+
+Science | Sound4
+
+Figure 11.5 Instruments that produce sound by vibrating strings
+
+Figure 11.7 Instruments that produce sound by vibrating air
+
+Figure 11.6 Instruments that produce sound by vibrating membranes
+
+Vibration of airVibration ofmembranes
+
+Sound sources
+
+Vibration of strings
+
+Assignment 11.2
+
+y Listen carefully to some natural and artificial sounds heard in the environment and list them out. Tabulate them as given below, with the part that vibrates when producing sound. (method of producing sound)
+
+Sounds heardPart that vibratesSchool bell
+
+Science | Sound5
+
+Assignment 11.3
+
+yMake a list of musical instruments commonly used. Mention the method of producing sound in each listed instrument.
+
+Assignment 11.4
+
+yYou may have heard of the sounds of some animals like mosquitoes, crickets and honey bees. Find out and record how they produce those sounds.
+
+11.2 Propagation of sound
+
+Figure 11.8 Astronauts
+
+In classroom, you hear the voice of your teacher. In the space, two astronauts cannot hear each other’s voice despite being closer to each other. What is the reason for this?
+
+Let us do Activity 11.5 to find about it.
+
+Activity 11.5
+
+Figure 11.9
+
+Bell jar
+
+Electric bell
+
+To the vaccum pump
+
+To electricity supplyYou will need :- A bell jar, a vaccum pump, an electric bell, few dry cells, connecting wire, a switchMethod :- ●Fix the electric bell in the bell jar as shown in the figure. Connect it to dry cells and to a switch to supply electricity. ●Connect a vacuum pump to the bell jar so that the jar can be evacuated. ●First, switch on the electric bell and record your observations. ●Then switch on the electric bell again while evacuating the air in the bell jar using the vacuum pump. Record your observations.
+
+Science | Sound6
+
+●Finally switch on the electric bell again when the bell jar is completely evacuated. ●Record your observations.
+
+Ringing of the electric bell can be heard, when the bell jar is filled with air. When the air in the bell jar is gradually evacuating, the ringing of the bell gradually fades. When the air in the bell jar is completely evacuated, ringing completely fades off.
+
+It is clear that ringing of the bell is heard only when there is air in the bell jar. Sound is not heard in a space where there is no air (in a vacuum). Thus, it is clear that a medium is essential for sound to propagate.
+
+We hear the voice of the teacher in the classroom, because sound travels through air towards our ears. But two astronauts in the space cannot hear each other because there is no air in the space for sound to travel through. Thus, it is clear that sound does not travel in an empty space and sound needs a medium to travel. Sound which is produced from a sound source, travels from where it is originated know as propagation of sound. We hear different sounds when sound propagate through air to our ears.Does sound travel only through air? Let us do Activity 11.6 to find out whether sound propagates through liquid and solid medium.
+
+Activity 11.6
+
+You will need :- Three plastic funnels, pieces of rubber tubes, membrances of balloons, a basin, Y tube, waterMethod :- ●Assemble the equipment as shown in the figure. Hold the funnels A and B on your ears and dip the funnel C in the basin of water. ●Make a sound near the funnel in water. ●Record your observations.Figure 11.10
+
+funnelsY tube
+
+AB
+
+C
+
+Membrances of balloon
+
+Science | Sound7
+
+Sound, made in water, can be heard well through funnels A and B. Thus, it is clear that sound travels through liquids like water.When shallow grounds are flooded, the sound of the vehicles travelling, the nearby roads can be heard louder than other days. The reason for that is sound travels through liquids faster than through air.Let us do Activity 11.7 to find out whether sound propagates through solid medium.
+
+Activity 11.7
+
+You will need :-Two empty yoghurt cups, a long thin thread (about 10 m)
+
+Figure 11.11 Method :- yConnect the bottoms of the two yoghurt cups to the thread as shown in the figure. yGet the support of one of your friends for this activity and keep one of the yoghurt cups to your ear. Tell your friend to go as far as possible (Keeping the thread well stretched) and speak into the other cup.
+
+You can hear your friend clearly. Thus, it is clear that sound propagates through the thread.Let us do Activity 11.8 to test whether sound travels through solid medium.
+
+Activity 11.8
+
+You will need :- A clock giving 'tic' sound, a long table
+
+ggg
+
+Figure 11.12
+
+Science | Sound8
+
+Method :-• Keep the clock at one end of the table as shown in the figure.• Stand at the other end of the table and test whether you can hear the 'tic' sound of the clock through air.• Then place your ear on the table (as shown in the figure) and listen to the 'tic' sound of the clock.
+
+The ‘tic’ sound of the clock can be heard through the table more clearly than through the air.It is clear by the above activities, that sound propagates faster through solid medium than gaseous medium.
+
+Assignment 11.5
+
+yPlan and do different experiments to show that sound travels through solid and liquid medium.
+
+For extra knowledge
+
+●Stethoscope is an instrument used by physicians to diagnose patients. It functions in such a way that membrane of it vibrates accordingly to the sounds emitted by the heart, lungs and pulses. ●Sound pipes are used in the past in large buildings, ships and graphite mines to propagate sound to far away places.
+
+Figure 11.13 Dolphins
+
+The sound of a train coming from far away can be heard clearly when the ear is kept on the rail line. (This is a very risky activity) The reason for this is that sound travels faster through solids than through air.
+
+We can hear the sound emitted by dolphins more intensely when we are in under water. But, the same sound emitted by them above water is heard very lightly. The reason for this is that sound travels faster through water than through air.
+
+Science | Sound9
+
+The speed of propagation of sound through solid, liquid and gaseous media is different from each other. Sound propagates faster through solids than through liquids and gases. Speed of sound is least in gaseous medium.Table 11.2 Speed of sound according to mediumMediumSpeed of sound (Meters per second)Air (gas)330Water (liquid)1500Steel (solid)4500
+
+During lightning, thundering sound and the light emit at the same time. But we hear the sound after few seconds of seeing light. The reason for this is that the speed of sound is slower than that of light.
+
+For extra knowledge
+
+When a canon is fired, the sound and the emission of smoke occur at the same time. But, a far away observer hears the firing sound after few seconds of seeing the smoke.
+
+●Sound is generated due to vibrations. ●Sound can be produced by the vibration of membranes, strings or air. ●A medium is necessary for the propagation of sound. ●The speed of sound is different in different media. ●The speed of sound is faster in solid media than in liquid or gaseous media.
+
+Summary
+
+Science | Sound10
+
+Exercises
+
+1. Fill in the blanks using the words given below. (speed, solid, a medium, vibrations, air)
+
+I. Sound is produced by ...............................................II. .................................... is necessary for the travelling of sound.III. Sound travels more faster through .............................. medium.IV. Sound is produced in a flute by the vibration of ..............................
+
+2. Select the correct answer.I. The musical instrument that produces sound by vibrating strings is i. Drum ii. Violin iii. Pair of tabla iv. Flute
+
+II. Consider the following statements.A. Sound travels through a vacuum.B. The speed of sound in air is higher than the speed of light.C . A medium is essential for the travelling of sound.The correct statements out of the above is/are;i. A only ii. B only iii. C only iv. A and B only
+
+Technical Terms
+
+Science | Biological processes11
+
+12.1 Organisational levels of life
+
+The brick wall is made up of numerous bricks. In the same manner, a bee hive is composed of numerous hexagonal units
+
+Figure 12.1 Wall made of bricks
+
+Building unitBuilding unit
+
+Figure 12.2 Bee hive
+
+Building unitBuilding unit
+
+The living body contains large number of small building units. This basic building unit is called as the cell. Cell is the structural unit of living organisms.Structural unit of plant is referred to as plant cell andstructural unit of animal is referred to as animal cell.
+
+Ydl ffi,
+
+YdlhHumanAnimal cellPlant
+
+Plant cell
+
+Figure 12.3 Animal cellFigure 12.4 Plant cellRecall the plant and animal cells observed in a previous lesson.
+
+Activity 12.1
+
+Observe the cells in lower epidermis of betel leaf and cheek cells, with the help of your teacher, using a light microscope. Then try to identify plant cells and animal cells.
+
+Biological Processes12
+
+Science | Biological processes12
+
+Figure 12.5 The microscopic view of cells in lower epidermis of a plant leaf
+
+Figure 12.6 The microscopic view of stained human cheek cells
+
+Assignment 12.1
+
+yCollect historical information regarding discovery of cell and present them to the classroom.
+
+Some of the organisms are represented by a single cell. Therefore, they show a simple organization. The basic functional unit of organism is called the cell. Some of the unicellular organisms are shown in Figure 12.7.
+
+Amoeba
+
+Euglena
+
+ParameciumFigure 12.7 Unicellular organisms (microscopic view)
+
+Activity 12.2
+
+Try to identify unicellular organisms by observing a sample of water taken from fresh water pond and hay stagnated in water.
+
+The organisational levels in living body
+
+Except unicellular organisms, all other organisms are made up of few cells or large number of cells. They are called multicellular organisms. They show variations in levels of organisations. The level of organisation from simple level ‘cell’ to complex level ‘organism’ is given below.
+
+Science | Biological processes13
+
+CellsTissuesOrgansSystems Organism
+
+Each and every oragnisational level of above is discussed in this chapter.Cell
+
+Cell
+
+Functional Unit Structural Unit
+
+The cell is the basic structural and functional unit of the life. Cell is the building unit of living organisms and the simple functioning unit too.
+
+TissueA tissue is a group of cells, organised for a specific functions.
+
+Activity 12.3
+
+You will need :- A permanent slide or a picture of a muscle tissue, A Slide with a lower epidermis from a plant leafMethod :-Observe those specimens using a light microscope. Identify different kinds of cells in them.
+
+Tissues have following features;
+
+• Contain same shaped cells or different shaped cells
+
+• Perform a common function
+
+The following diagrams show different types of tissues found in living organisms.
+
+Figure 12.8 Cardiac muscle tissueFigure 12.9 The blood tissueFigure 12.10 The lower epidermal tissue of the plant leaf
+
+Science | Biological processes14
+
+Tissues
+
+Collection of cells of same shape or different shapesPerform one common function
+
+Organ
+
+A collection of different tissues worked together to perform a specific function or functions is called an organ.Human stomach is an organ and it is made up of different types of tissues.
+
+Nerve tissue
+
+Muscle tissue
+
+Stomach (organ)
+
+Blood tissue
+
+Figure 12.11 Different types of tissues in human stomach
+
+Activity 12.4
+
+You will need :- A plant like ‘balsam’ with a transparent stem, vessel filled with water, dye soluble in water (Kukul sayam)Method :- yPut the red dye into water vessel and prepare a red coloured solution. yPut the balsam plant into the vessel in such a way that root system is submerged. yWhen the stem becomes red, take a thin section of the stem and observe the cross section through light microscope.
+
+Science | Biological processes15
+
+yThe tissue which transports water and mineral is coloured in red. It is called the xylem tissue. yPhloem tissue located outside the xylem tissue, transports food in the plant body. yIn addition to xylem and phloem, there are many other tissues in stem.
+
+Now, it is clear to you that the plant stem is composed of many tissues.
+
+Figure 12.12 Different types of tissues in plant stem
+
+Tissue which transports water (xylem tissue)
+
+Tissue which transports food (Phloem tissue)
+
+Stem of plant
+
+Ste
+
+pl
+
+Pith
+
+Activity 12.5
+
+Observe a cross section of the plant leaf using a permanent slide and study different types of tissues.
+
+in plant stem
+
+g
+
+f
+
+Figure 12.13 Structure of the plant leafOrgan
+
+Consists of many tissues Perform a common function or many functions
+
+Science | Biological processes16
+
+SystemA group of organs that perform a special function or functions is called the system. Figure 12.14 shows the arrangement of digestive system of man by combination of different organs.
+
+Figure 12.14 The digestive system of man
+
+Large intestine
+
+Small intestine
+
+Mouth
+
+Oesophagus
+
+Stomach
+
+Liver
+
+System
+
+Consists of many organsPerform a common function or many functions
+
+Activity 12.6
+
+yUproot a plant like "kuppameniya"/"kuppaimani" yObserve different organs and systems of it yDraw a line diagram and try to identify the organs and two systems in the plant body
+
+Science | Biological processes17
+
+Compare your findings with the Figure 12.15.
+
+Figure 12.15 Organs and systems in the plant body
+
+Fruits
+
+Flowers
+
+Stem
+
+Leaf
+
+Leaf
+
+Tap rootRoot system
+
+Shoot system
+
+Lateral rootsš
+
+You may notice that there are two main systems in the plant body.They are;1) Root system2) Shoot system
+
+Assignment 12.2
+
+Try to identify main organs and systems in grass. Draw a line diagram and name them.
+
+Organism
+
+All systems of the body join together and form the body of organism. Figure 12.16 clearly display that the way of forming organism by combination of all systems in the body.
+
+Science | Biological processes18
+
+Human body
+
+Nervous system
+
+Respiratory system
+
+Reproductive system
+
+Blood circulatory system
+
+Muscular system
+
+Digestive system
+
+Excretory systemFigure 12.16 Organism consists of organ system
+
+You have studied that the plant body is made of two systems
+
+Root systemPlantShoot system
+
+Figure 12.17 Systems which make the plant
+
+Science | Biological processes19
+
+Activity 12.7
+
+yMake a model to show the organisational levels of life. yPresent it in the classroom.
+
+12.2 Systems of the human body
+
+There are various biological processes like respiration, food digestion, movement, excretion taken place in the human body. Energy is needed for the function of them.
+
+Figure 12.18 Energy needed activities
+
+Several reactions take place in our body when we are active with activities like playing or dancing and even when we are not doing anything. Energy needed for such activities is taken by burning or reacting the food we take, with oxygen in the cells.
+
+Consider how oxygen and simple food is supplied to man for obtaining energy. Complex food are broken into simple components by the digestive system. Respiratory system supplies oxygen for our body. Let us study about these systems further.
+
+Digestive system of man
+
+The food we eat are normally big pieces and complex. Therefore, that cannot be absorbed to the body. The breaking down of food into simple substances is called digestion. Then it can be absorbed easily.
+
+Teeth break down food into smaller particles inside the mouth. Then, it makes easier to digest food (by digestive juices) when pass along
+
+Science | Biological processes20
+
+digestive tract. Then, those small food pieces are digested to simple pieces by the digestive juices secreted from different parts of the digestive system. Finally they are absorbed to the body.
+
+The process of food digestion can be simplified as follows
+
+Absorption
+
+Mechanicaldigestion by teeth
+
+Small food particles
+
+Chemical digestionby digestive juices
+
+The food particle
+
+Simple food particles
+
+It is not easy to digest all types of food that we take in a single organ. Therefore, the digestion takes place step-by-step in several organs.
+
+Two main functions of the human digestive system are mentioned below.
+
+1) Conversion of complex food into simple substances.2) Absorption of simple food to the body.
+
+Activity 12.8
+
+Try to identify main parts of the human digestive system by using a model or a diagram.
+
+Compare your findings with the following Figures.
+
+Science | Biological processes21
+
+Mouth cavity
+
+Oesophagus
+
+Salivary gland
+
+Small intestine
+
+StomachLiverGall bladder
+
+Pancreas
+
+Large intestine
+
+Appendix
+
+Rectum
+
+Anus
+
+Figure 12.20 Digestive system of man (Line diagram)Figure 12.19 Digestive system of man (Three dimensional structure)
+
+Mouth cavity
+
+Oesophagus
+
+Salivary gland
+
+Small intestine
+
+StomachLiver
+
+Gall bladderPancreas
+
+Large intestine
+
+Appendix
+
+Rectum
+
+Anus
+
+PharynxPharynx
+
+The structure and functions of the organs in the digestive system is given in Table 12.1.
+
+Table 12.1 Functions of various organs of the human digestive system
+
+OrganStructural features & functionsMouth cavity ²Breakdown of food particles into small pieces by teeth (mechanical digestion) ²Secretion of saliva by salivary glands to aid digestion of food ²Beginning the chemical digestion of food by saliva ²Mix food with saliva by tongue (Chemical digestion)Pharynx ²It is the common cavity of the digestive tract and the larynx ²Push the food in the mouth cavity into oesophagusOesophagus ²Push the food in mouth cavity to the stomach.
+
+Science | Biological processes22
+
+Stomach ²It is a muscular sac. ²Digestion is efficient due to acidic nature of digestive juices. ²Food is stored in the stomach for about three hours. ²Food is digested further by mixing of digestive juices in the stomach.Small intestine ²It is about 6 m long folded tube. ²Different types of food digest with digestive juices. ²Digestion is completed and absorb digestive food to the body. ²There are finger like projections called villi in the small intestine to increase the surface for efficient digestion.Large intestine ²It is shorter than the small intestine, but considerably broad. ²Absorption of water.Anus ²It is the terminal end in the digestive system. ²Semisolid faeces is released through anus.
+
+Activity 12.9
+
+Make suitable models to demonstrate the human digestive system.
+
+Human respiratory system
+
+Why do animals breath? You can find out the answer by studying following flow chart.
+
+Simple food++Energy
+
+Used for biological activities
+
+Oxygen
+
+By inhaling
+
+Carbondioxide and water vapour
+
+By exhaling
+
+It shows that as a result of respiration, energy is generated and that energy is used for biological activities in the body.
+
+Science | Biological processes23
+
+The process where energy is produced by reacting or burning of simple foods with oxygen is called respiration.
+
+The intake of air needed for respiration is called inspiration (inhalation or breathing in).
+
+During respiration carbon dioxide and water vapour are formed and the elimination of these byproducts is called expiration (exhalation or breathing out).
+
+Accordingly, the air exchanging system in the body is called the respiratory system. Engage in Activity 12.10 to identify the major parts of the respiratory system.
+
+Activity 12.10
+
+Try to identify the main parts of the human respiratory system, using a model or figure in the laboratory
+
+Use the following diagram to identify the parts of it.Compare your findings with Figure 12.21.
+
+Nasal cavity
+
+Pharynx
+
+Larynx
+
+Trachea
+
+Right lung
+
+Left bronchus
+
+Bronchiole
+
+Diaphragm
+
+Rib
+
+Figure 12.21 Respiratory system of human
+
+Science | Biological processes24
+
+The following flow chart explains the activities of human respiratory system.
+
+Intake of inhaled air into the nasal cavity
+
+Air moves from parynx to trachea through larynx
+
+Air gets warmed and filtered while passing along the nasal cavity, add wetness
+
+Air passes through the right and left bronchus
+
+Air reaches the lungs and exchange of air. O2 in air is absorbed to the blood then CO2 in blood is moved to lungs
+
+Then exhaled air passes back through the same path and released out through the nasal cavity
+
+For extra knowledge
+
+The food bolus that comes to the pharynx passes to the oesophagus without going into the trachea as the door of the trachea is closed.
+
+A picture showing the action of epiglottis
+
+TongueFood bolus
+
+EpiglottisOesophagusTrachea
+
+Activity 12.11
+
+Make a suitable model to demonstrate the human respiratory system. Present it to the class.
+
+Science | Biological processes25
+
+The diagram given below shows the model of human respiratory system.
+
+Figure 12.22 The model of the human respiratory system
+
+Rubber balloons
+
+Bell jar
+
+Rubber membrane
+
+Activity 12.12
+
+The rubber membrane, rubber balloons, the bell jar and Y tubes in the figure 12.22 are represent the different parts of the human respiratory system. Name them.
+
+Summary
+
+yThe cell is the basic structural and functional unit of the living beings. yOrder of the organisational levels of the body is, Cells tissues organs systems organism yFood is converted to a simple state by the digestive system so that food could be absorbed to the body. yThe respiratory process contributes to obtain oxygen needed to produce energy and excretion of carbondioxide and water vapour. yThe process where energy is produced by reacting simple foods with oxygen is called respiration.
+
+Science | Biological processes26
+
+Exercise^01) Select the correct answer.(i) The structural and functional unit of living being is called1. Cell 2. Tissue 3. Organ 4. System(ii) The tissue reponsible to transport water and mineral through the plant body is 1. Xylem 2. Phloem 3. Cortex 4. Pith(iii) The organ that does not belong to the digestive system is1. Liver 2.Trachea 3. Large intestine 4. Anus(iv) The organ common to the respiratory system and the food digestive system is 1. Larynx 2. Bronchioles 3. Oesophagus 4. Pharynx(v) Which of the following process does not occur in the small intestine? 1. Collection of pancreatic juice and bile 2. Completion of digestion 3. Absorption of digested food 4. Food is broken down to small pieces(02) Complete the following table
+
+OrganFunction1. Stomach2. Small intestine3. Large intestine4. Nasal cavity5. Larynx
+
+Science | Biological processes27
+
+Technical Terms
+
+Science | Atmosphere28
+
+13.1 Layers of atmosphereWhat can you see when you look at the sky? If it is the afternoon you will see the clouds or the blue sky. If it is the night time you will see stars, planets and sometimes the moon. You see all these objects through the atmosphere. But you cannot see the atmosphere.Atmosphere is a thin layer of gases that surrounds the earth. It spreads up nearly 700 km from the earth surface.In grade six you have learnt that gases have a mass. The weight of the gases above us make a pressure on us and all the things around us. This pressure is known as atmospheric pressure. The atmospheric pressure is measured in milli bars (mb) to forecast the weather.
+
+The height of a certain place from the sea level is known as altitude. According to the altitude the pressure and the temperature change in different levels of the atmosphere. Based on these differences the atmosphere is divided into five layers.
+
+The five layers of the atmosphere, spread out from the earth surface respectively are;1. Troposphere2. Stratosphere3. Mesosphere4. Thermosphere5. Exosphere
+
+The Figure 13.1 shows the layers of the atmosphere.
+
+y
+
+e
+
+m
+
+y
+
+e
+
+T
+
+h
+
+er
+
+m
+
+o
+
+s
+
+p
+
+h
+
+e
+
+r
+
+e
+
+M
+
+e
+
+s
+
+o
+
+s
+
+p
+
+h
+
+e
+
+r
+
+e
+
+S
+
+tr
+
+at
+
+o
+
+s
+
+p
+
+h
+
+e
+
+r
+
+e
+
+Tr
+
+o
+
+p
+
+o
+
+s
+
+p
+
+h
+
+e
+
+r
+
+e
+
+E
+
+x
+
+o
+
+s
+
+p
+
+h
+
+er
+
+e
+
+Figure 13.1 Layers of the atmosphere
+
+Atmosphere13
+
+Science | Atmosphere29
+
+TroposphereThis is the lowest layer of the atmosphere. Near the equator it spreads up to about 15 km from the sea level, but near the poles the height of the troposphere is about 8 km.Nearly 75% of the air in atmosphere is in the troposphere. Most of the water vapour and dust particles are found in this layer. All the weather changes take place in the troposphere.Helicopters, parachutes and aeroplanes travel through this layer.
+
+StratosphereThis layer is 15 - 50 km high above from the sea level. The air is dry as there is very little water vapour in this layer. There are no storms or turbulences in stratosphere. Therefore, jets fly through this layer.
+
+The ozone layer lies in the stratosphere. This is a special layer which prevents the ultra violet rays (UV rays) of the sun falling on the earth. The Cumulo nimbus closer to the stratosphere takes the shape of an anvil. The reason for this shape is the blowing wind in one direction. Rain with thundering and lightning can be expected after forming these type of clouds.
+
+Activity 13.1
+
+Go out on a day with a clear sky. Identify a Cumulo nimbus cloud. Continue looking at that cloud. You will see that the height of the cloud increases and the top of the cloud gets flat. Then, check whether the cloud has got a shape of an anvil.
+
+.
+
+d
+
+r
+
+Figure 13.3 Cumulo nimbus cloud
+
+T
+
+s
+
+w
+
+(
+
+e
+
+T
+
+s
+
+a
+
+t
+
+R
+
+Figure 13.2 Cumulo nimbus cloud shaped as an anvil
+
+Science | Atmosphere30
+
+MesosphereMesosphere extends from 50-80 km up from the sea level. This is the coldest layer among the five layers of the atmosphere. In this layer water vapour gets frozen into ice clouds. When the sun sets the rays fall on these clouds and you can see these clouds during the night time.
+
+ThermosphereThermosphere lies from 80-120 km up from the sea level. The air particles in this layer absorb the sun’s rays. So, that the temperature in this layer is very high. International Space Station is situated in this layer.Both the special sceneries called Aurora borealis and Aurora australis occur in the thermosphere. Aurora borealis can be seen near the northern pole and Aurora australis can be seen near the southern pole.
+
+ExosphereThe thinnest layer in the atmosphere is the exosphere. This layer is 120 km high above from the sea level. There is no certain border between the exosphere and the space.
+
+Activity 13.2
+
+Building up a model of the layers in atmosphereYou will need :- A4 sheets, a pair of scissors, a drawing pin, a picture of the earth
+
+Figure 13.4 Clouds in mesosphere
+
+Figure 13.5 Aurora borealis
+
+Science | Atmosphere31
+
+Method :- • Cut a big circle from a A4 sheet, in maximum size.• Cut another circle with a radius 2 cm less than the big circle.• Cut three more circles and each circle should have a radius 2 cm less than the other circle.• Paste the picture of the earth on the smallest circle and write the word troposphere on it.• Keep the circles on the big circle and fix them together using the drawing pin as shown in the figure.• Write the names of the layers on the circles.• Show your model to the teacher.
+
+E
+
+xo
+
+sp
+
+he
+
+re
+
+T
+
+he
+
+r
+
+m
+
+os
+
+p
+
+he
+
+re
+
+M
+
+es
+
+os
+
+ph
+
+er
+
+e
+
+St
+
+ra
+
+to
+
+sp
+
+he
+
+re
+
+T
+
+ro
+
+po
+
+sp
+
+he
+
+re
+
+Figure 13.6 Layers of the atmosphere
+
+Differences of temperature and pressure in layers of the atmosphereWe live in the troposphere. What happen to the temperature and the pressure when you go up the troposphere?The Table 13.1 shows the altitude, annual average temperature and average atmospheric pressure in some cities of Sri Lanka. Table 13.1 Weather report in some cities CityAltitude(m)Average temperature (oC)Average pressure (mb)
+
+Colombo01 m27.41110Kandy500 m24.6956Nuwara Eliya1868 m15.9813
+
+(Source - Meteorological department)
+
+According to the Table 13.1 it is clear that when the altitude is increased the temperature and the pressure are decreased.
+
+Science | Atmosphere32
+
+Assignment 13.1
+
+Select some cities in Sri Lanka with different altitudes. Listen to the weather reports in media and record the temperature of those cities for a week. Show the collected details using a graph.
+
+The Figure 13.7 shows the changes of temperature in different layers in the atmosphere.
+
+oCTemperature
+
+Height (km) from the sea level
+
+17
+
+Thermosphere
+
+Mesosphere
+
+Stratosphere
+
+Troposphere
+
+Figure 13.7 Changes of temperature in different layers
+
+These are the details that can be taken from the Figure 13.7.• Temperature decreases with increasing height up to the troposphere. This is how it happens. The land and the sea get heated from the sun’s heat. So, the temperature near the land is high. The temperature of the troposphere gradually decreases away from the land.
+
+• Temperature increases in the stratosphere when go up. The reason is the presence of the ozone layer which absorbs the ultra violet rays of the sun. Then, stratosphere gets heated and temperature increases.
+
+Science | Atmosphere33
+
+For extra knowledge
+
+• Temperature in the mesosphere decreases from bottom to top. It is because there is very less amount of ozone gas to absorbs sun’s ultra violet rays. The lowest temperature is recorded in the top of the mesosphere. It is about - 90 oC. This temperature is less than the temperature in the Antarctic which has the lowest temperature on the earth.• Temperature in the thermosphere increases form bottom to top again. The reason is the air particles in this layer highly absorb the sun’s heat. • Temperature increases more and more when it is close to the exosphere.
+
+13.2 Air and its components
+
+Troposphere is the most important atmospheric layer for the living beings on the earth. The Table 13.2 and the Figure 13.8 show the component of the troposphere.Table 13.2 Gases in the troposphere
+
+GasVolume as percentageNitrogen (N2)78%
+
+Oxygen (O2)21%Argon (Ar)}1%Carbon dioxide (CO2)Water vapourOther gases
+
+Figure 13.8 Percentage of gases in the troposphere
+
+Fi13 8
+
+Ptfi th th
+
+Other1%
+
+Oxygen21%
+
+Nitrogen78%
+
+Nitrogen and Oxygen are the main components in the troposphere.
+
+Science | Atmosphere34
+
+For extra knowledge
+
+NitrogenNitrogen is the most abundant gas in the air. Under atmospheric conditions it has low reactivity.
+
+OxygenThe most important gas in the air. It is essential for respiration of organism. Oxygen is necessary for combustion. Therefore, it is introduced as a supporter of combustion. Oxygen gas can be separated from air. Oxygen gas has many uses; e.g.:- • To aid patients with respiratory difficulties • For welding and cutting metals using oxy-acetylene flame • For divers and astronauts
+
+ArgonArgon is the third most common atmospheric gas. This is an inert (noble) gas. It does not have any chemical reactions with any other elements. Therefore, it is used for many purposes.e.g.:- • To fill filament bulbs • To produce electric lamps, which emit orange colour
+
+Carbon dioxideCarbon dioxide is essential for photosynthesis in green plants. This gas is used to extinguish fire and it helps to maintain the temperature on the earth. Carbon dioxide composition is higher in exhaled gas than in inhaled gas.
+
+Functions of the atmosphere• Atmosphere provides oxygen needed for the respiration of all animals and plants.• Plants get carbon dioxide from the atmosphere for photosynthesis.• Nitrogen, which is a very important element for the growth of the plants is provided to soil by the atmosphere.
+
+Science | Atmosphere35
+
+• Heat, light and ultra violet rays of the sun fall on earth through the atmosphere. The ozone layer protects the earth from expose to these harmful rays.• Atmosphere prevent emission of heat of earth to the space. So atmosphere keep our earth in warmer condition. The moon has no atmosphere. Therefore, the moon is very hot during the day time and very cold during the night time.• Hydrological cycle is very important for the existence of living beings. Water vapour in the atmosphere is very essential for the maintenance of the hydrological cycle.• Atmosphere helps for birds and some insects to fly.• It supports for communication among people.• Atmosphere protects the earth from meteors. Meteors fallen on to the earth from the space get heated and burnt in the atmosphere. If meteors fall on to earth it will damage many lives.
+
+Assignment 13.2
+
+Use the above facts and make a report of the problems that may occur on the earth "If the atmosphere is disappeared instantly".
+
+Assignment 13.3
+
+Following is a concept map prepared by some grade seven students about the atmosphere. Fill in the blanks using the given words.pressure, stratosphere, mesosphere, atmosphere, nitrogen, troposphere, oxygen, thermosphere, exosphere, temperature
+
+al cycle.
+
+d
+
+n
+
+h
+
+n
+
+e
+
+e
+
+o
+
+Figure 13.9 A meteor that burns up as it enters the atmosphere
+
+Science | Atmosphere36
+
+Two main gases are
+
+Altitude is reduced
+
+divided
+
+On the variations of the following two facts
+
+In to these layers
+
+Air pollutionAir pollution is "adding substance to the atmosphere, changing it's composition and causing harmful effects on organism".The substances that cause air pollution can be divided into two groups. They are; 1. Gaseous pollutants 2. Particulate pollutantsSome gaseous pollutants are carbon monoxide, sulphur dioxide, nitrogen dioxide etc.Some particulate pollutants are carbon particles, lead particles, cement dust, insecticide droplets, unburnt fuel droplets and asbestos particles.
+
+Activity 13.3
+
+After travelling in a bus clean your face with a white handkerchief. What can you see?
+
+The reason for the things in the handkerchief is the particulate pollutants in the air.
+
+Science | Atmosphere37
+
+Some ways of air pollution are given in Figure 13.10.
+
+Figure 13.10 Ways of air pollution
+
+Combustion of fuel in vehicles
+
+Burning of waste materials
+
+Volcanic eruptions
+
+Destroying forests
+
+Combustion of fuel in factories
+
+Exhaust from thermal power stations
+
+Assignment 13.4
+
+A green test must be done for a vehicle to get it licensed. In this test the particles in the emitted smoke of the vehicle is tested. Find out what are the particles tested in the green test and record your details.
+
+Followings are some adverse effects of air pollution.
+
+• Climatic changes on the earth • Wide variety of health problems related to respiratory system • Acid rain • Increase of temperature in the atmosphere • Reduction of the clarity and the transparency of the air
+
+Here are some precautions that can be taken to minimize the air pollution. • Tune the vehicle engines • Minimize the combustion of fossil fuel • Use eco-friendly energy sources • Release the fumes of factories through a filter
+
+Science | Atmosphere38
+
+• Re-cycle the waste without burning • Protect the forests • Re-forestationThere are artificial respiratory chambers in some cities to fascilitate respiration, where there is an air pollution.Therefore, it is our duty to protect the atmosphere.
+
+yThe temperature and the pressure changes from the surface of the earth to the upper atmosphere. Depending on these changes the atmosphere is divided into five layers. yTroposphere, stratosphere, mesosphere, thermosphere and exosphere are the five layers of the atmosphere. yAtmosphere protects the earth and the living beings on it from the external dangers. yNitrogen and Oxygen are the main components in the troposphere. yThe gases in the atmosphere help man in many ways. yAir pollution is a problem that affects all of us.
+
+Summary
+
+Exercise1. State whether the following statements are True (√) or False (x).
+
+i) Temperature decreases from bottom to top of the troposphere ( )
+
+ii) The earth is the only planet with an atmosphere that can sustain life. ( )
+
+iii) Oxygen comprises the highest percentage in the atmosphere. ( )
+
+iv) Temperature increases from bottom to top of the stratosphere. ( )
+
+v) Climatic changes take place in the troposphere. ( )
+
+vi) Stratosphere contains the most amount of ozone gas. ( )
+
+vii) Mesosphere has the lowest temperature. ( )
+
+Science | Atmosphere39
+
+Technical Terms
+
+Atmosphere- jdhqf.da,h- ÁÎ©sh»®
+
+Altitude- Wkak;dxYh- Szx¯µ®
+
+Pressure- mSvkh- A•UP®
+
+Temperature- WIaK;ajh- öÁ¨£{ø»
+
+Cumulo nimbus clouds- leá-jeys j,dl=¿ - vµs•QÀ
+
+Aurora borealis- W;a;rdf,dalh- Áh•øÚÄa ÷\õv
+
+Aurora australis- olaIsKdf,dalh- öuß•øÚÄa ÷\õv
+
+Recycling- m%;spl%SlrKh- «Ò _ÇØ]
+
+Air pollution- jdhq ¥IKh- ÁÎ ©õ\øhuÀ
+
+Air pressure-jdhq mSvkh -ÁÎ A•UP®
+
+Ozone layer-´fidka ia;rh-K÷\õß £øh
+
+Ultraviolet rays-mdrcïnq, l srK -PÈ³uõU PvºPÒ
+
+Science | Heat and Temperature40
+
+14.1 Measuring temperatureEnvironment becomes warm during the day time due to the solar heat and gets cool in the night. Warmness and coldness are two sensations that we feel.Let us do Activity 14.1 to find out more about warmness and coldness.
+
+Activity 14.1
+
+You will need :- Luke warm water and cold water, two equal size beakersMethod :- yGet equal amounts of luke warm water and cold water into two beakers of same size (Get the help of your teacher when handling warm water). yDip your fingers into the water of the beakers. yRecord what you feel.
+
+r
+
+e
+
+e
+
+bkfi(G
+
+Luke warm waterCold waterFigure 14.1
+
+You may feel that there is a difference of warmth of the water in the two beakers. What is the difference between cold water and luke warm water? Water was heated on a hearth or on a burner. Then, water was warmed by receiving thermal/heat energy.The measurement of warmness or coldness of a substance is known as its temperature.Temperature of a substance decreases (cools) because of losing heat from that substance.
+
+For extra knowledge
+
+We feel warm when a heated object is being touched, because heat transfers from that object to our hand. Coldness is felt when a piece of ice is touched, because heat transfers from our hand to the piece of ice.
+
+Heat and Temperature14
+
+Science | Heat and Temperature41
+
+Measuring temperature by touching is not correct. Let us do Activity 14.2 to find out how to measure temperature correctly.
+
+Activity 14.2
+
+You will need :- Two small glass bottles with rubber stoppers, two empty tubes of ball point pens, two beakers, water, red inkMethod :- yFill the small glass bottles with coloured water and fix the empty tubes of ball point pens. yKeep one of those bottles in a beaker filled with warm water and the other in a beaker filled with cold water. yObserve what happens (Take care when using hot water).
+
+Figure 14.2
+
+Tube of pen
+
+Coloured water
+
+Warm waterCold water
+
+Thermometers are used to measure temperature accurately and quantitatively.It can be observed that;The liquid column in the tube of the bottle, kept in warm water rises up.The liquid column in the tube of the bottle, kept in cold water falls down.Accordingly, heat transfers from warm water in the beaker to the water in the bottle. Then, the volume of water in the bottle increases to rise up along the tube.Water in the bottle kept in the beaker of cold water, cools to decrease the volume (Contracts). Then the liquid column in the tube of that bottle falls down.Increase of the volume of a liquid, by gaining heat is called the expansion of the liquid.It is the property of expansion of a liquid, that is used in making thermometers.
+
+Science | Heat and Temperature42
+
+14.2 Thermometers
+
+Thermometer
+
+Paper strip
+
+Tube of pen
+
+Coloured water
+
+Small glass bottle
+
+Figure 14.3
+
+A simple thermometer can be made and calibrated as indicated in the Figure 14.3 below.
+
+A small glass bottle is filled with coloured water and the empty tube of a ball point pen is fixed into it. A paper strip on which a scale is marked, is glued to the tube.The bottle, thus made is dipped in a beaker of water and the beaker is heated slowly.A mercury thermometer is dipped in the beaker of water. When the water is being heated, the temperature rises and the coloured water column in the pen tube goes up.The position of upper end of the coloured water column is marked on the paper strip, for some temperature readings indicated by the thermometer. The relevant temperature also should be indicated at the mark. After marking several temperatures on the paper strip, a simple scale can be made. The water-bottle-thermometer thus made can be used to measure unknown temperatures in a short range. Here you can get an approximate value.
+
+Assignment 14.1
+
+yMention the short comings of a thermometer as mentioned above. Give suggestions to overcome those shortcomings.
+
+Mercury is used as the liquid of most thermometers used today. In addition alcohol is a liquid used in thermometers. Alcohol used in thermometers is coloured, for clear observation of the thin alcohol column.
+
+Science | Heat and Temperature43
+
+Figure 14.4 A mercury thermometer and an alcohol thermometer
+
+Scales of thermometers
+
+There are several scales used in present thermometers. Those are;• Celsius scale• Farenheit scale• Kelvin scaleUnits of measuring temperature in each scale is given in Table 14.1.
+
+Table 14.1
+
+Temperature scaleUnitCelsiusoCFarenheitoFKelvinKThe international standard unit of temperature is Kelvin (K).
+
+The equivalence between principal temperature scales are given in Table 14.2 for some temperatures.Table 14.2 TemperatureCelsius scale (oC)Farenheitscale (oF)Kelvinscale (K)Boiling point of water100212373Freezing point of water032273Mean temperature of human body36.998.4309.9
+
+Melting point and boiling pointThere is a constant temperature, at which a soild substance changes to its liquid state .Let us do Activity 14.3 to find out the constant temperature at which ice changes to water.
+
+Scale
+
+Capillarytube
+
+Bulb
+
+Science | Heat and Temperature44
+
+Activity 14.3
+
+You will need :- A few pieces of ice cubes, a mercury thermometer, a glass funnel, a beakerMethod :-• Put some piece of ice into the glass funnel and place the bulb of the thermometer in ice.• Keep the funnel on the beaker and find the temperature of melting ice. Figure 14.5
+
+Here, it can be observed that the temperature at which ice is melting is 0 oC. Therefore, the constant temperature at which ice melts is called the melting point of ice.
+
+Ice (solid)Absorbing heat
+
+Water (liquid)
+
+Melting pointThe constant temperature at which a solid substance changes to its liquid state is known as the melting point of that substance.When water is cooled, ice (solid) forms. The temperature at which water solidifies is also 0 oC and is known as the freezing point of water.
+
+Melting points of some substances are given in Table 14.3.
+
+Table 14.3 SubstanceMelting point (oC) at 1 atmIce0Paraffin wax60Lead317Iron1539
+
+Boiling point
+
+The boiling point can be simply explained as the constant temperture at which a liquid substance changes to its gaseous state.Let us do Activity 14.4 to find out the boiling point of water.
+
+Science | Heat and Temperature45
+
+Activity 14.4
+
+You will need :- A boiling tube, a thermometer, some water, a burner, a laboratory standMethod :- yTake some water into a boiling tube, and prepare the set-up as shown in Figure 14.6. yHeat the water for few minutes till it boils. yRecord the reading of the thermometer.Figure 14.6
+
+It can be observed that the temperature at which water boils (with bubbles evolving steam) is 100 oC. It can be concluded that there is an exact temperature of boiling water.
+
+Water (liquid)Absorbing heat
+
+Steam (gas)
+
+The constant temperature at which a liquid substance changes to it's gaseous state is known as the boiling point of that substance.Table 14.4 Boiling point of some substances
+
+SubstanceBoiling point (oC) at 1 atmAlcohol77Paraffin wax370Water100Lead1744Iron2900
+
+For extra knowledge
+
+Celsius scaleThis scale is prepared by dividing the range between the melting point of ice (0 0C) and the boiling point of water (100 0C) into 100 equal parts.Farenheit scaleThis scale is prepared by dividing the range between upper fixed point (212 oF) and lower fixed point (32 oF) into 180 equal parts.The values of melting point and boiling point vary according to the atmospheric pressure. The values given in table 14.3 and 14.4 are measured at 1 atm of atmospheric pressure.
+
+Science | Heat and Temperature46
+
+Figure 14.7
+
+Using thermometer correctly
+
+1. Thermometer should be held vertically. So, that the bulb of the thermometer is well in contact with the substance / liquid of which the temperature should be measured.
+
+2. When taking the readings the thermometer should be adjusted to the eye level.
+
+3. Eye should be kept correctly in line with the mercury column as shown in Figure 14.7. (Observe below or above is incorrect.)
+
+Assignment 14.2
+
+Find out the factors, that should be considered when using a thermometer and make a report.
+
+For extra knowledge
+
+For the protection of the thermometer, it should be selected in such a way that the measuring temperature should be within the temperature range of that thermometer.
+
+Engage in Activity 14.5 and Activity 14.6 to take the reading correctly.
+
+Activity 14.5
+
+You will need :- A beaker, water, a thermometer, a laboratory stand
+
+Method :- yPlace the bulb of the thermometer at the middle of water and clamp it vertically. yObserve the level of the mercury column and take the reading accurately as shown in Figure 14.8.Figure 14.8
+
+Science | Heat and Temperature47
+
+Activity 14.6
+
+You will need :- A thermometerMethod :- yHold the thermometer vertically. yObserve the mercury column accurately and take the reading.
+
+Figure 14.9
+
+Assignment 14.3
+
+Measure the temperature of air in some places like under a large tree, open air with lot of sunlight, near a water body.Tabulate your readings
+
+Activity 14.7
+
+You will need :- A thermometer, a beaker full of soilMethod :- yFill the beaker with soil and dip the bulb of the thermometer well into the soil. yAfter some time take the reading of the thermometer. Figure 14.10
+
+Figure 14.11 Measuring soil temperature
+
+Figure 14 11
+
+Measuring soil
+
+Soil temperature can be measured by the soil thermometer, in the natural environment as shown in Figure 14.11.
+
+Science | Heat and Temperature48
+
+Assignment 14.4
+
+Measure the soil temperature in the following places and tabulate the readings yUnder a large tree • In a dry place yIn a place with sandy soil • In a place with high moisture content
+
+Clinical thermometer
+
+Figure 14.12 Special features of a clinical thermometer;
+
+yThere is a fine bend in the capillary tube containing mercury. yThe temperature range is short (35 oC - 43 oC) Clinical thermometer is used to measure the body temperature.Measuring body temperature, by using clinical thermometer;
+
+yFirst wash the bulb of the thermometer with an antiseptic solution. yKeep the bulb of the thermometer under the tongue of the patient for about two minutes as shown in Figure 14.13. yRemove the thermometer from the mouth and take the reading accurately while holding it vertically.
+
+(Body temperature of small babies can be measured by keeping the bulb of the thermometer under their arm pits for few minutes.)
+
+Figure 14.14 Bend in the mercury column of clinical thermometer
+
+Figure 14.13
+
+p
+
+l
+
+n
+
+e
+
+n
+
+e
+
+Figure 14 13
+
+Capillary tubeFine bend
+
+Bulb
+
+Science | Heat and Temperature49
+
+There is a fine bend in the capillary tube of the clinical thermometer. It prevents the mercury column rising up or falling down before taking the measurements. Therefore, the reading of the temperature can be kept unchanged, even after the thermometer is removed from the mouth of the patient. Thermometer should be shaken well to send the mercury column down the bend before it is used for the next time.
+
+Assignment 14.5
+
+Measure and record the body temperature of your family members and some of your friends.
+
+For extra knowledge
+
+• Body temperature of a healthy person is 36.9 oC or 98.4 oF• New types of thermometers are invented for measuring body temperature accurately.
+
+Assignment 14.6
+
+Collect and record information about modern equipment used to measure temperature.
+
+14.3 Heat transfer
+
+Figure 14.15 Students near a fireFigure 14.16 Touching a hot cup of tea
+
+Heat is a type of energy. The sun is our largest heat source. Though the sun is some millions of kilometres away from the earth, we get solar heat very soon. This indicates that heat has travelled from the sun to the earth very quickly.
+
+Science | Heat and Temperature50
+
+We feel warm, though we are few metres away from a fire. Hand will be burnt, if a heated object is touched.In the above instances heat has travelled from one place to another place. Travelling of heat from one place to another place is called heat transfer.There are three methods of heat transfer.
+
+RadiationConductionConvection
+
+Heat transfer
+
+Figure 14.18 A hot cup of tea
+
+Figure 14.17 Heated pan on a cooker
+
+ConductionA metal spoon in a cup of tea gets heated soon.The far end of a metal spoon gets heated when it is put into a pan on a cooker.
+
+Let us do Activity 14.8 to find out how heat transfers through a solid substance.
+
+Activity 14.8
+
+You will need :- A metal (iron) rod of about 20 cm long, few pins, a candleMethod :- yTake the metal rod and fix pins on it, in 2 cm intervals, using candle wax, as shown in Figure 14.19 yHeat one end of the rod using the candle yRecord your observations after sometime.
+
+d
+
+a
+
+Figure 14.19
+
+Candle waxMetal rodPins
+
+Science | Heat and Temperature51
+
+You can observe that pins are dropping down gradually, starting from the heating end of the rod, because of the melting of wax. Thus, it can be concluded that heat has transferred through particles of the rod, starting from heating end. Here, the heat transfers from one particle to the other.This method of transferring heat from particle to paricle without the motion of particles through a solid, is known as conduction of heat.Most of the metals conduct heat well. They are known as heat conductors.e.g.:- Iron, Copper, Aluminium, Gold, Silver
+
+Assignment 14.7
+
+Make a report on the substances/ metals that conduct heat.
+
+Substances that do not conduct heat well are known as heat insulators.e.g.:- glass, wood, plastic, cloth, air, waterHeat conductors as well as heat insulators are important in day-to-day activities.
+
+Figure 14.20 Instances where heat conductors and heat insulators are used
+
+Science | Heat and Temperature52
+
+Assignment 14.8
+
+Find out some other instances where heat conductors and heat insulators are used in day-to-day life.
+
+For extra knowledge
+
+People living in cold countries use woolen clothes to maintain their body temperature (in winter). As woolen clothes are good heat insulators, they prevent losing body heat to the environment.
+
+n
+
+n
+
+s
+
+y
+
+he
+
+ConvectionYou may have seen that small twigs of trees above a large fire are waving. What can be the reason for this?Heated air near the fire rises up and cool air from downwards flow towards the fire. Heated air currents rising up like this is called convectional currents. When these currents strike with the twigs of trees, they start to wave.Let us do Activity 14.9 to study further about the way that heat travels through air.
+
+Figure 14.21 A fire under a tree
+
+Figure 14.22 Convectional currents of air near a fire
+
+Science | Heat and Temperature53
+
+Activity 14.9
+
+You will need :- A tall beaker, a piece of cardboard, a candle, some joss sticksMethod :- yCut the piece of cardboard to the shape as shown in the figure. yPlace the piece of cardboard, at the middle of the beaker to divide the inside of it into two chambers. yThen, place the lighted candle in the side B of the beaker as shown in the figure. yLight some joss sticks and hold them at the mouth of the beaker on the other side (side A) of the piece of cardboard. yObserve what happens. yNow blow out the candle and hold the joss sticks in the side A. yObserve what happens again.
+
+,
+
+s
+
+f
+
+o
+
+f
+
+Figure 14.23
+
+It can be observed that the smoke of joss sticks enter into the beaker from side A and comes out from side B.When heated air rises up from chamber B, where the lighted candle is placed cool air flows down into chamber A. It is clear that the smoke of joss sticks also flow with air currents. Thus, it is clear that heat travels through air as convectional currents.Let us do Activity 14.10 to find out how heat travels through liquids.
+
+Activity 14.10
+
+You will need :- A few condis crystals, a candle, a burner, a round-bottomed flask, a laboratory standMehtod :- yPlace some condis crystals at the bottom of the flask and cover them with wax. yPour water into the flask and heat it. yObserve what happens.Figure 14.24
+
+Cold water sinks down
+
+Condis crystals covered with wax
+
+Heated water rises up
+
+AB
+
+Science | Heat and Temperature54
+
+It can be observed that purple colour rises up as currents from condis crystals in water, and sinks down near the wall of the flask. Here, water at the bottom of the flask is heated and rises up because of the reduction of its density. Mean while, cold water at the top sinks down because of its higher density.Rising heated water currents and sinking cold water currents are known as convectional currents. Water in the flask heats because of these convectional currents.The method of transferring heat through liquids and gases by convectional currents is known as convection.
+
+Assignment 14.9
+
+Make toys operate by convectional currents and display them in classroom.
+
+14.4 Application of convectional currentsOccuring of sea breeze and land breeze
+
+Figure 14.25 How sea breeze occurs
+
+Figure 14.26 How land breeze occurs
+
+Sea breezeWind that blows from the sea towards the land is known as sea breeze. Sea breeze occurs in day time.During day time land area heats faster than the sea water because of the solar heat. This cause the layer of air contacted with the land to heat and rise up as convectional currents. To fill the low pressure area created on the land, air currents flow from the sea towards the land. This is known as sea breeze.
+
+Land breezeWind that blows from land towards the sea is known as land breeze. Land breeze occurs at night.During night time the temperature of land area decreases faster than the sea water. Therefore, land area cools faster. Because of the high temperature of sea water, the layers of air contacted with sea water get heated and rise up as convectional currents. To fill the low pressure area created on the sea, air currents flow from the land towards the sea. This is known as land breeze.
+
+Science | Heat and Temperature55
+
+For extra knowledge
+
+It is with the support of the land breeze that fishermen launch their sail boats to the sea in the night time. They return back to the shore in day time with the support of sea breeze.
+
+Assignment 14.10
+
+Prepare a list of other applications/ important occasions associated with convectional currents.
+
+Radiation
+
+The method of heat transfer, without participation of the particles of a medium is known as radiation. Heat travels from the sun to the earth by radiation.We feel warm when we are near a fire or a heated object, because heat travels towards our body by radiation.Any heated object radiates heat.Let us do Activity 14.11 to investigate more about radiation.
+
+Activity 14.11
+
+You will need :- Three equal tin cans, three thermometers, cork stoppers, black and white paint, cold water, few pieces of cardboard, stop clockMethod :- yKeep one tin can as it is, with the shining outer surface. Paint one of the other tin cans with black paint and final one with white paint (See Figure 14.28).
+
+Figure 14.28
+
+e
+
+e
+
+,
+
+Figure 14 28
+
+Figure 14.27 Radiation near fire
+
+Science | Heat and Temperature56
+
+yAdd equal volume of cold water into each tin. Fix a thermometer to each tin can as shown in the figure and measure the initial temperature yPlace all the three cans in the same place in the sun. Measure the temperature in every five minutes time and tabulate the readings. Time (min)Temperature of water in the cans (0C)Black canWhite canCan with shining surface0510
+
+After some time, it can be observed that the temperature of water in black can has risen higher than that of both the other cans. Also it can further be observed that the temperature of water in the can with shining outer surface has risen very less.Water in the tin cans is heated by the solar radiation. It is clear that black colour absorbs radiated heat very fast and polished shining surfaces do so very slowly. White surfaces also absorb radiated heat less than black surfaces.
+
+Figure 14.29 Methods of heat transfer
+
+Convection
+
+Conduction
+
+Radiation
+
+Black surfaces lose heat very fast while polished, shining surfaces do so very slowly. Therefore, hot water in containers with polished, shining surfaces can be kept hot for a long time.Countries like Sri Lanka gets more sun light through out the year. Therefore, it is more suitable to use light colours to paint outer walls of the buildings rather than dark colours. It is because light colours absorb radiated heat less, that prevents the interior of the house from heating.
+
+Science | Heat and Temperature57
+
+Assignment 14.11
+
+Find and report the outside colour of the vehicle radiators. Discuss the reason for painting radiators in that colour with your teacher.
+
+yThe measurement of coldness or hotness of an object is known as temperature. yHeat is a type of energy. yTemperature of an object increases when heat is supplied and it decreases when heat is removed from the object. yThermometers are used to measure temperature. yThe property of expansion of a liquid is used in making liquid thermometers. yUnits of measuring temperature are degrees celsius, degrees farenheit and Kelvin. yKelvin is the international unit of measuring temperature. yClinical thermometer is used to measure body temperature. yThe boiling point (100 oC) and the freezing point (0 oC) of water are the fixed points of a liquid thermometer at 1 atm. yHeat transfers by means of conduction, convection and radiation.
+
+Summary
+
+Exercise
+
+1) Select the suitable word to fill the blanks from the words given in the brackets.
+
+i. International unit of measuring temperature is .......................... (degrees celsius/Kelvin)ii. Heat transfers from the sun to the earth by ................................... (conduction/radiation)iii. Aluminium pot on a hearth, heats mainly by getting heat by ................................. (conduction/convection)
+
+Science | Heat and Temperature58
+
+iv. Temperature, at which liquid water converts to ice is called the ........................................ of water at atmospheric pressure. (boiling point/ freezing point)v. Sea breeze and land breeze occur because of the phenomenon of ................................... in the air. (convection/radiation)
+
+2) Select the correct answer out of those given.
+
+1. The body temperature of a healthy man is; 1. 0 0C 2. 37 0C 3. 98 0C 4. 100 0C
+
+2. A substance that conducts heat well is; 1. Water 2. Air 3. Glass 4. Iron
+
+3. A heat insulating substance is; 1. Aluminum 2. Copper 3. Paper 4. Lead
+
+4. A liquid that conducts heat well is; 1. Water 2. Alcohol 3. Mercury 4. Kerosene
+
+5. Warm is felt in a house, where the roof is covered with metal sheets. What is the method of heat transfer into this house? 1. Expansion 2. Conduction 3. Convection 4. Radiation
+
+Technical Terms
+
+Science | Soil59
+
+15.1 Different types of soil
+
+Soil, the topmost layer of the earth crust is one of the most important resources that we have been gifted from the nature. It plays a very important role to maintain life on the earth. The nature of soil is different from place to place on the earth.Let us do Activity 15.1 to observe the nature of soil in different locations.
+
+Activity 15.1
+
+You will need:- Samples of soil taken from different locations (Close to a big tree, from a flower bed, from your compound, under a rock), a white sheet of paper, hand lensMethod:- ²Spread the soil sample on the white paper.
+
+²Observe components of it using a hand lens.
+
+²Take a sample of soil between thumb and forefinger and feel the texture of soil.
+
+²Use the following table to record your observations.
+
+Place where soil is collectedObserved componentsTexture(soft/hard)Other facts
+
+1.2.3.4.Important : After doing this activity wash your hands well.
+
+t
+
+,
+
+t
+
+r
+
+Figure 15.1
+
+Testing the texture of soil
+
+You may have learnt from the Activity 15.1 that soil consists of different particles and their texture is also different.
+
+Soil15
+
+Science | Soil60
+
+Sand
+
+Silt
+
+ClayFigure 15.2 Relative size of different particles in the soil
+
+Mineral particles in soil can be divided into 3 groups according to their size. They are sand, clay and silt. Clay contains very small particles with a soft texture. Sand particles are bigger than clay, with a hard texture. Silt is medium sized particles with a soft texture.You can learn the relative size of them referring to the Figure 15.2.There are three types of soil which can be identified according to the abundance of those particles in the soil. They are; ²Clay soil ²Sandy soil ²Loamy soilSome features of those soil types are given in Table 15.1.Table 15.1 Some features of soil types
+
+Kind of soilNature of soilPropertiesUses
+
+Clay soil ² Clay is more abundant ² Sticky ² Retain water and minerals ² Retention of air is less
+
+² Used to make bricks, tiles and ceramics
+
+Sandy soil ² Sand is more abundant ² Particles are arranged loosely
+
+² Retention of air high ² Retention of water is less ² Used in building industries ² Used to make glass itemsLoamy soil ² Contains sand, silt and clay ² Organic materials are abundant
+
+² Water and air retained sufficiently ² Soil is rich in soil organisms and plant nutrients.
+
+² Most suitable for agriculture
+
+Loamy soil is more suitable for the growth of plants. Therefore, a flower pot should be filled with loamy soil.
+
+Sieves are used to separate different sized particles in soil. These sieves are prepared in sets. The topmost sieve has biggest holes. The size of the holes decrease from top to bottom. A soil mixture is put into the topmost sieve and the set of sieve is shaken fast. Then, in each sieve, different sized soil particles remain.
+
+Figure 15.3 Set of sieves
+
+Science | Soil61
+
+Activity 15.2
+
+You will need :- A set of sieves, soil samplesMethod :- • Separate soil particles using different sized sieves• Mix them in different ratios and form different types of soil
+
+Sandy soil or clay soil can be converted to loamy soil by adding organic materials (decayed animal and plant parts) in suitable amounts.
+
+15.2 Composition of soil
+
+Activity 15.3
+
+Separation of components in the soilYou will need :- A long polythene tube, threads, soil, water Method:- ²Cut a polythene tube about 50 cm long and tie one end of it. Fill ¾ of the tube with water. ²Dig a hole in your school garden and take a sample of soil from it. ²Mix the soil sample with water. ²Then, add it to the water already present in the polythene bag and leave to settle. ²Now observe. ²You can observe the separation of components of soil as shown in Figure 15.4Then, take a polythene tube of 1m long. Fill ¾ of it with water and put twice the amount of soil taken in the above activity into it
+
+,
+
+e
+
+a
+
+e
+
+Polythene tube with water
+
+Plants and animal parts
+
+Water with clay particles
+
+claysilthard sandgravel
+
+Figure 15.4 Separation of components of soil
+
+Soil is a mixture of different components. Ratio of these mixtures are different in various types of soil. Figure 15.5 shows results of a study carried out on the composition of different types of soil.
+
+Science | Soil62
+
+0 - 10 % Clay0 - 10 % Silt80 - 100 % Sand
+
+Sand
+
+Loam
+
+10 - 30 % Clay30 - 50 % Silt25 - 50 % Sand
+
+Clay
+
+50 - 100 % Clay0 - 45 % Silt0 - 45 % SandFigure 15.5 Composition of different types of soilComponents of soil can be listed as follows. ²Soil mineralsSoil organic materials (humus)Solid components ² Soil air ² Soil water ² Soil organisms
+
+Soil mineralsSolid components in soil such as clay, silt and sand are considered as soil minerals. When you study the composition of soil, you have studied about these particles.Functions of soil minerals ² Minerals that is obtained from soil to plants are provided by soil minerals. ² Water and minerals are retained by the clay particles in soil.Soil organic materials (Humus)Decayed parts of animals and plants in soil are called soil organic materials.
+
+Activity 15.4
+
+By adding humus to sandy soil, the water retention capacity is increased. Plan an experiment that can be conducted in the school laboratory to find the accuracy of this statement.
+
+Functions of soil organic materials (Humus) ² As a storage of nutrients needed for the growth of plants ² Increase the capacity of retaining air and soil ² Prevents the cracks in soil during dry seasons ² Increase retention of water in soil
+
+Science | Soil63
+
+watersoil clodsair bubbles
+
+glass
+
+Figure 15.6 Releasing of water bubbles when a soil clod is put into water
+
+You may have understood the mineral components and organic materials in soil through the above activities.
+
+Soil airWhat happens when a soil clod is put into a water beaker?You can observe air bubbles emitting from the soil clod. It is clear that air in the soil is coming out as bubbles.Let us do Activity 15.5 to prove that soil contains air.
+
+Activity 15.5
+
+You will need :- Two glass vessels of the same size, soil, waterMethod :- ²Put soil into one vessel up to 4 cm. ²Put water into the other vessel up to 4 cm. ²Add water in the water vessel into the vessel with soil. ²Then, measure the height from the bottom to the water level. ²Repeat the above experiment using soil samples collected from different locations.
+
+Figure 15.7 Learn about air in soil
+
+When, water and soil are mixed the height to the water level appears to be less than 8 cm. Imagine the height after water and soil are mixed is 7 cm. We can assume that the height of 4 cm of soil contains about 1 cm of air. That means about ¼ of the volume of soil contains air. The soil air amount in different soil samples is different.
+
+In the above activity water has moved into the space among soil particles. When, water moves into those spaces air present in them is released. Air which retains in soil particles is called soil air.
+
+Science | Soil64
+
+Functions of soil air ² Provides air needed for the respiration of soil organisms and plant roots ² Needs in germination of seeds ² Creates porosity in soilSoil waterThough we think that soil is dry, there is water in it.Let us do Activity 15.6 to identify that soil contain water.
+
+Activity 15.6
+
+Let us prove that soil contains waterYou will need :- A sample of dry soil, a test tube, a bunsen burner or a sprit lampMethod :- y Put the sample of soil into the test tube and heat it. y Write down your observations. y Identify whether the liquid droplets deposit on the walls of the test tube are water.
+
+a
+
+e
+
+Figure 15.8 heating dry soil
+
+liquid droplets
+
+How can we identify that liquid droplets formed inside the test tube are water?A blue colour chemical called copper sulphate is present in the laboratory. When it is heated, it turns white. White coloured copper sulphate is called anhydrous copper sulphate. When water is added to anhydrous copper sulphate it turns again into blue colour.
+
+Functions of soil water ² Helps soil organisms to maintain their function. ² Helps plants to absorb nutrients from soil. ² Controls the temperature of soil ² As a raw material for the photosynthesis of plantsSoil organismsDo the Activity 15.7 to identify organisms in soil.
+
+Activity 15.7
+
+You will need :- Several soil samples taken from under a tree, a flower bed and under a large stone, a sheet of white paper
+
+Science | Soil65
+
+Method:- •Spread each soil sample on the sheet of white paper. Observe soil organisms using a hand lens and draw them.
+
+Several soil organisms observed by a student are given in Figure 15.9.
+
+Ant
+
+Centipede
+
+Locust
+
+Millipede
+
+Figure 15.9 linear figures of several soil organisms
+
+But organisms who are not visible to our naked eye also may be present in soil. They are called soil microorganisms.
+
+Let us do Activity 15.8 to observe whether microorganisms are present in the soil.
+
+Activity 15.8
+
+You will need :- Two test tubes, milk, cotton, a soil sampleMethod:- ● Sterilize the two test tubes in boiling water (Microorganisms in them will be destroyed). ²Put equal amounts of boiled milk into the test tubes and let them cool. ²Take a soil sample and divide them into two equal portions. ²Take one sample and heat it for about five minutes keeping on a metal plate. ²Add heated soil sample to one test tube with milk and add the non-heated soil sample into the other test tube ²Fix cotton stoppers to both test tubes. Both test tubes will gain air but microorganisms cannot enter them. ²Observe the tube hourly. ²Record your observations.
+
+n
+
+m
+
+e
+
+o
+
+e
+
+e
+
+l ihhb
+
+Figure 15.10 Observe whether microorganisms are present in the soil
+
+Test tubes
+
+Boiled milkHeated soilNon-heated soil
+
+Coagulation of milk is delayedAB
+
+Coagulation of milk is fast
+
+cotton stoppers
+
+Science | Soil66
+
+Milk in the test tube with unheated soil will coagulate faster than the other one. Coagulation of milk is a microbial activity. Milk in the test tube with heated soil will coagulate slowly.
+
+When cotton stoppers are fixed to the test tubes, air enters but not microorganisms. Accordingly, the above experiment shows that microorganisms are present in the soil.
+
+The diagram given below shows the organisms who live in soil.
+
+flatworm
+
+beetle
+
+beetlebeetle
+
+earthworm
+
+centipede
+
+mite
+
+snail
+
+slug
+
+house fly
+
+house fly larva
+
+ant
+
+roundwormsbacteria
+
+fungiuni-cellular organisms
+
+beetle
+
+Figure 15.11 Different organisms who live in soil
+
+Functions of soil organisms ² When earthworms dig holes, soil gets loosened and it gets air. ² Microorganisms like bacteria decay plants and dead bodies so that minerals get into soil.
+
+Soil profile
+
+Assignment 15.1
+
+Observe an occasion where earth is dug in a slope of a mountain using a backhoe loader. Identify the soil layers that can be seen.
+
+A vertical section of the different layers of the soil from the earth crust is called soil profile. It spreads from top layer to the bed rock. There are mainly three layers that can be identified in the soil profile.
+
+Science | Soil67
+
+sub soil
+
+top soil
+
+bed rock
+
+Figure 15.12 A soil profile
+
+™
+
+™
+
+™
+
+yTop soil ySub soil yBed rock
+
+When moving from top to bottom in the soil profile, the size of the particles will gradually increase. The bottom of the profile is the bed rock. Sub soil is formed by weathering of bed rock and forming small particles. The top soil is formed by further weathering of the particles in the sub soil.Roots of the most plants are spread in the top soil. But, roots of some large plants can penetrate in to the sub soil layer. The soil profile is very important in studying about soil.
+
+Activity 15.9
+
+Let us make a model of a soil profileYou will need:- A set of soil sieves, cardboard, soil, glueMethod:- yDig a hole of 30 cm deep in your home garden and collect a soil sample from it. ySeparate the soil sample by using the set of sieves. (Follow the instructions from your teacher) yGet a piece of cardboard (similar in size to a file cover) and separate it into three areas by drawing two horizontal lines. yPaste the soil particles remaining in the second sieve from top to bottom on the lowest region on the cardboard. yThen, paste the soil particles remaining in the second sieve from the top on the lower area. yPaste the soil particles in the third sieve from the top. yPaste the sieved soil particles from all the sieves on the topmost area.Now you have created a model of a soil profile.
+
+Science | Soil68
+
+15.3 Soil erosion
+
+What is the colour of water flowing above the soil during a rainy day? You have observed that the colour of water changes based on the fact of soil being covered with a covering or being exposed. The reason is that soil particles flow into another location with water. Soil erosion is the removal of the top soil layer of a certain location by water, wind and animals.
+
+Figure 15.13 Sites of soil erosion
+
+The most fertile part of soil is the top layer of soil. The removal of the top soil layer can happen in the following manner ² Top soil is washed away mainly by rain and flowing water. ² It is carried away by wind during the dry season as dust. ² Sand in coastal areas are washed away by sea waves. ² Soil erosion mainly occurs during agricultural and development activities. ² Removal of soil by legs, hoofs and horn of animals is also a type of soil erosion.
+
+Soil erosion takes place often in lands with slopes. When there is no plant covering in such a land, soil erosion takes place fast.
+
+Let us do Activity 15.10 to find it out.
+
+Science | Soil69
+
+Activity 15.10
+
+Finding how the covering of earth affects soil erosionYou will need :- A tin with holes at the bottom, three large plastic bottles, three small plastic bottles, soil, grass clod, dried/decayed leavesMethod :- ²Cut three large bottles as shown in Figure 15.14. Remove their lids. ²Cut three small bottles as shown in the Figure. Do not remove the lids. ²Add the same type of soil in equal amounts to each large bottle. Then press them well. ²Plant the grass clod in one bottle and keep dried/decayed leaves on the surface of the other bottle. Keep the soil in the third bottle open. ²Make holes in small bottles and tie them to the mouth of the large bottles, as shown in the figure. ²Keep those bottles on the edge of the table in a manner that the bottom of the large bottles is little tittled up. ²After the grass grow well, pour water to the soil samples by using three taps. The speed of the flowing should be equal. Or else, pour equal amounts of water on to the soil samples in the same height. Use the tin with holes at the bottom to pour water. ²Observe the colour of water collected in small bottles.
+
+n
+
+n
+
+l
+
+n
+
+d
+
+Figure 15.14 Comparing soil erosion
+
+The water flowing from the open bottle is darker than the other two bottles. The water flowing from the bottle containing water with decaying dried leaves is less darker than the above. The water flowing from the grass grown bottle is the clearest.This Activity reveals us when there is a cover on soil, soil erosion is less. Let us see the devices used to minimize soil erosion in a slopy land.
+
+Science | Soil70
+
+Following are the methods that can be applied to minimize the soil erosion in a land with slopes.
+
+yMake stone ridges against the slope yMake drains according to contours yCultivate according to the contour method yUse cover crops with highly rooted plants e.g. :- grow "savandera"/"vettivear" yPrepare fields according to terraced system (for paddy cultivation) yUse wind breakers
+
+Figure 15.15 Strategies used to minimize soil erosion
+
+Use cover crops with highly rooted plantsPrepare fields according to terraced systemUse wind breakers
+
+Make stone ridges against the slopeMake drains according to contoursCultivate according to the contour method
+
+Substances like polythene, used batteries, chemical fertilizer and used electronic appliances pollute the environment.Soil is one of the most valuable resource on earth. Therefore, it is our duty to protect it.
+
+Assignment 15.2
+
+Identify the locations in the school garden that have undergone soil erosion. Discuss the strategies that can be used to prevent soil erosion in these places. Make a report including these facts.
+
+Science | Soil71
+
+y The outermost layer of the earth crust is soil. Soil is important in different ways for the existence of plants and animals. y The components of soil are minerals, water, air and soil organisms. There are various advantages of them to the soil. y Soil is formed by weathering of bed rock due to various factors for a long period of time. y Soil erosion is the removal of top soil layer of a particular location by water, wind or animals. y Soil erosion takes place due to natural reasons as well as human activities. y Soil conservation is essential for the existence of all life on Earth.
+
+Summary
+
+Exercise01. Select the most suitable answer. I. What is the type of soil most suitable for cultivation? 1) Clay soil 2) Sandy soil 3) Loamy soil 4) Gravel soil
+
+II. A component /components of soil is/are 1) Air 2) Water 3) Minerals 4) All of the above
+
+02. Fill in the blanks using the given words. (Humus, clay, rocks, loamy soil, silt)
+
+The most important part of the earth crust is soil. As a result of weathering ........................, soil is formed. The amount of sand,................................ and clay particles present in the soil is different from place to place. Soil is classified into three groups according to the composition of particles in the soil. They are clay soil, sandy soil and ............................... The inorganic component which has the ability to retain water in the soil is ..................... The organic material present in the soil is ......................... .03. Select words from the given list and complete the concept map.
+
+(sandy soil, clay, soil organisms, outermost soil, soil water, organic materials, bed rock, sand, loamy soil, clay soil, silt, sub soil)
+
+Science | Soil72
+
+soilthe layers to which it can be divided
+
+components
+
+clay soil
+
+sand
+
+sub soil
+
+soil minerals
+
+soil air
+
+particles of which it is made up
+
+Three types
+
+0.002 - 0.02 mm
+
+less than 0.002 mm
+
+0.05 - 2 mm
+
+4) ‘Earthworm is a friend of the farmer’ explain the above idea with your own words.
+
+5) List four activities used to prevent soil erosion.
+
+Technical Terms
+
+Science | Force and Mortion73
+
+16.1 Distance and displacement
+
+Imagine that you have a chance of going on a trip during your school vacation. Can you suggest a method to find the distance to the places, that you expect to visit during that trip? Let us pay attention to Activity 16.1.
+
+Activity 16.1
+
+yFind a road map of Sri Lanka, drawn to scale and identify the scale. yPlace a thin thread along the main road and measure the length between two cities. yCalculate the distance to travel from Colombo to Kandy, Galle, Matara, Kurunegala, Puttalam, Trincomalee and Jaffna. yMeasure the straight length from Colombo to each city mentioned, and calculate the straight distance. yTabulate the findings as below.
+
+Table 16.1 Two citiesDistance to travel between the two citiesStraight distance between the two citiesColombo to KandyColombo to GalleColombo to MataraColombo to KurunegalaColombo to PuttalamColombo to TrincomaleeColombo to JaffnaIt will be clear to you that the straight distance between the two cities is always less than the distance to travel between them.Recall an instance where there is a staircase and an escalator go to the
+
+Force and Motion16
+
+Science | Force and Mortion74
+
+top floor of a multi-storeyed building. It may be clear to you that the path of the escalator is linear and is shorter than the path of the staircase.You may travel from one place to another when you go on a trip. A person may go from one floor to another in a multi-storeyed building. An escalator goes up and down in a straight path. The change of position, with time, of living or non living objects is known as motion.Distance is the total length of the path of a motion. Here, the direction of motion may or may not change from time to time. Therefore, distance has not a definite direction.Displacement is the linear length between the starting and ending positions of a motion. When mentioning displacement, the direction of motion should always be indicated.Recall Activity 16.1 you did above. You may have understood that the length of the road between two cities is known as the distance and the straight distance is known as the displacement. Geographical directions or the direction from one city towards the other can be used to mention the direction between the two cities. The same way, motion along a staircase is the distance and motion of an escalator is the displacement. The direction of the displacement is the direction of the motion of the lift.To find out more about distance and displacement, let us consider the following facts. Recall the 100 metre and 400 metre running events of a sportsmeet.
+
+100 metres400 metresFigure 16.1a
+
+Science | Force and Mortion75
+
+100 metre track400 metre track
+
+START
+
+FINISH
+
+Figure 16.1b Both events are short distance races. But, there are some clear differences between them.Table 16.2 Differences100 metres400 metres01. Direction of motionDirection does not changeDirection changes from time to time02. Total length of the path 100 metres400 metres
+
+03. Linear length between the points of start and end100 metres0 metre (zero)
+
+Thus the distance (distance of the motion) of the runner in the 100 metre event is 100 metres, and the distance (distance of the motion) of the runner in the 400 metre event is 400 metres. The distance between start and end points of the 100 metre runner is 100 metres. Therefore, his displacement is 100 metres. The 400 metre runner ends his event at the same point where he started. So, his displacement is zero.
+
+As both the distance and displacement are lengths, the unit of measuring distance and displacement are the units of measuring length.
+
+You already know that milimetre, centimetre, metre and kilometre are used to measure length. Out of those, the international unit of measuring length is metre. Therefore, the international unit of measuring both distance and displacement is metre (m). Displacement has a definite direction, therefore it has to be mentioned.Let us solve a simple problem to clarify distance and displacement further.
+
+Science | Force and Mortion76
+
+120 m
+
+40 m
+
+A
+
+B
+
+N
+
+Figure 16.2
+
+The route of the motion of an object from A to B is shown in Figure 16.2.The distance travelled from A to B or the total length of the route passed is 120 m.The displacement from A to B or the linear length between the initial and final points of motion is 40 m towards the direction AB (South-east)
+
+Self assessment -1
+
+A route for a child to travel from his home to a tank is shown in Figure 16.3.
+
+i. What is the distance travelled by the child?
+
+ii. What is the displacement of the child?Answer
+
+i. 400 m
+
+ii. 100 m towards north-east
+
+02. Let us consider a man travelling from P to R via Q by a motor vehicle as shown in Figure 16.4.
+
+iii. What is the total distance travelled during this motion?
+
+iv. What is the displacement of the vehicle during this motion?Answer
+
+i. 70 km
+
+ii. 50 km towards north-east
+
+me to a tank is shown in
+
+e
+
+Figure 16.3
+
+400m
+
+100m
+
+Figure 16.4
+
+50 km
+
+30 km
+
+40 km
+
+R
+
+PQ
+
+Science | Force and Mortion77
+
+Now, it is clear to you that distance is a quantity with a magnitude, and displacement is a quantity with both magnitude and definite direction.
+
+16.2 Force
+
+We engage in various actions in our day-to-day life. Some of them are given below.
+
+• Pushing a table• Pulling a table• Riding a bicycle• Applying brakes of a bicycle• Drawing water from a well• Turning a tap• Hitting a ball• Brushing teeth• Erasing pencil lines drawn in a book • Lifting a bag• Writing with a pen
+
+What do we do during these actions? You may have understood that a pull or a push is applied during all these actions.
+
+Pulling a tablePushing a tableRiding a bicycleFigure 16.5
+
+Lifting a bag is an upward pulling. When drawing water from a well, a pull is applied. When riding a bicycle, push is applied by the feet on the paddle.
+
+Let us do Activity 16.2 to find out more about pulls and pushes.
+
+Science | Force and Mortion78
+
+Activity 16.2
+
+Engage in the following activities. Copy table 16.3 in your notebook and mention whether the action done is a pull or a push.Table 16.3
+
+Action doneIs it a pull or a pushPushing a tablePushDrawing water from a wellPullLifting a bagRiding a bicycleTurning a tapHitting a ballWriting with a penBrushing teeth with a tooth brushErasing pencil lines drawn in a bookApplying brakes of a bicycle
+
+Pulling or pushing is known as applying a force.
+
+PullingPushingFigure 16.6
+
+gpgpp y
+
+Pulling
+
+g
+
+Pushing
+
+p y
+
+When pulling a car, the rope attached is pulled and a force is applied on the car. What is done by the child when pushing the trolley, is the forward application of a force. A large force should be applied to push a heavier table than to push a lighter one.
+
+Let us do Activity 16.3 to find out about the amount of force applied on an object.
+
+Science | Force and Mortion79
+
+Activity 16.3
+
+You will need :- Two similar size wooden blocks, a rubber band, a Newton spring balanceMethod :- y Place a wooden block on a table and pull it using a rubber band attached. y Place the other wooden block on the first block and pull again using the same rubber band. y When the motion starts the rubber band will stretch longer. That means the force applied later is larger. y Repeat the activity using a Newton spring balance instead of the rubber band. y Record the readings of the Newton balance in both occasions. The amount of force applied can be obtained numerically.
+
+Figure 16.7 Newton spring balance
+
+occasions. Th
+
+Figure 16 7
+
+The rubber band is stretched less when there is one wooden block and it is stretched more when there are two wooden blocks. That means, more force is applied at the second occasion. When you compare the readings in the spring balance, it can be understand properly.
+
+International unit of measuring force is newton. Symbol of newton is N. The equipment used to measure force is newton spring balance.
+
+Activity 16.4
+
+Take a balance calibrated in grams or kilograms and a spring balance calibrated in newton. Weigh the same object using both balances and record the readings in a table as given below. Develop a relationship between weight and mass with the help of your teacherTable 16.4
+
+Object weightedMass (kg)Weight (N)
+
+Science | Force and Mortion80
+
+Activity 16.5
+
+You will need :- A spring balance, a piece of thread, a wooden blockMethod :- yAttach a newton spring balance using a piece of thread, to a wooden block kept on a polished table. Pull the block using the newton balance.
+
+Figure 16.8 yObserve the direction of the motion of the wooden block and the direction of pulling the thread. yPush the wooden block, while it is on the table. The direction of pushing is the direction of applying the force.
+
+pp y g
+
+Figure 16.9 yObserve the direction of pushing the wooden block and the direction of the motion of it.
+
+The thread in Figure 16.8 shows the direction of the pull. Newton spring balance shows the magnitude of the force.The wooden block has moved to the direction of the force applied in the above pulling and pushing. Thus, it is clear that a force has a magnitude (amount) and a definite direction. There are various effect of a force. Let us find out some of them. • An object can be moved by applying a force. At the same time moving object can be stopped by applying a force.
+
+Figure 16.10
+
+Science | Force and Mortion81
+
+An arrow at rest can be moved by applying a force to a bow. Vehicle at rest can be moved by applying a force by its engine. Ball at rest can be moved by hitting it with a bat. Thus, living as well as non living objects, at rest, can be moved by applying a force. • The speed of an object can be changed by applying a force.
+
+Figure 16.11
+
+The speed of motion of a bicycle can be increased by increasing the force applied on its pedal. The speed of it can be decreased by applying brakes. An animal can change its speed of moving by changing the force applied on its limbs. Speed of a vehicle can be increased by treading on the accelarator and it can be decreased by applying brakes. • Direction of motion can be changed by applying a force.
+
+Figure 16.12
+
+In Figure 16.12 a cricketer can change the direction of the ball by hitting it. In the event of pulling rope, each team tries to change the direction of motion of the rope. Two puppies are applying force to drag the bone towards itself.
+
+Science | Force and Mortion82
+
+• Rotation or a turning effect can be resulted by applying a force
+
+Figure 16.13
+
+When a force is applied to a tap, it turns. A steering wheel also turns when a force is applied. How do you turn a bicycle when you are riding? It is done by applying a force on the bicycle. • The shape of an object can be changed by appling a force.
+
+Figure 16.14
+
+Bending iron bars is done in various displays. Then the shape of the iron bar changes.Various goods are shaped with clay by applying force. The shape of plastic goods can be temporarily changed by pressing them.Changing the shape due to the force applied on it is occurred in such occasions.
+
+Assignment 16.1
+
+Recall instances of applying forces by you today. Prepare a list of uses that you get by applying those forces.
+
+Science | Force and Mortion83
+
+For extra knowledge
+
+A force is exerted by the centre of the earth on all the objects on the earth. This force is known as gravitational force.The weight of an object is the gravitational force exerted on the mass of the object. Though the mass of an object is always constant, its weight may slightly change from place to place because of the change of gravitational force.The gravitational force of the moon is about one sixth of that of the earth. Therefore, the weight of an object on moon is one sixth of the weight of that object on the earth.e.g.:- The weight of a man whose mass is 60 kg, is 600 N on the earth. The weight of the same man on the moon will be 100 N. But, his mass will remain unchanged as 60 kg on the moon.
+
+Assignment 16.2
+
+Collect pictures, photographs and diagrams of the instances of applying forces in day-to-day life and make a collection of information on forces.
+
+²The total length of an object in motion is the distance. ²The straight length between the starting and end points of the motion of an object is the displacement. Displacement has a definite direction. ²A pull or a push is known as a force. Force has a magnitude and a definite direction. ²The standard unit of measuring force is newton. ²An object at rest can be moved by applying a force on it. ²The speed of a moving object can be changed by applying a force. ²The direction of motion of an object can be changed by applying a force. ²Rotation or a turning effect can be done by applying a force. ²The shape of an object can be changed by applying a force.
+
+Summary
+
+Science | Force and Mortion84
+
+Exercise
+
+ySelect the correct or the most suitable answer, for the questions below.01. What is the international unit of measuring distance?
+
+1. Millimetre 2. Centimetre 3. Metre 4. Kilometre02. A moving bicycle is pushed from behind by a child. What will be the change of motion?
+
+1. Speed increases 2. Speed decreases
+
+3. It will rotate 4. Direction changes03. What is the instrument used to measure force?
+
+1. Pan balance 2. Table balance
+
+3. Newton balance 4. Electronic balance04. Which measurements, have a magnitude and a definite direction?
+
+1. Distance and displacement 2. Displacement and force
+
+3. Force and distance 4. Force only05. Which is the correct statement about force?
+
+1. Force has a magnitude only
+
+2. Pulling only can be resulted by applying a force
+
+3. Pushing only can be resulted by applying a force
+
+4. Pulling and pushing can be done by applying a force
+
+• A child goes to the well, which is in the east from his home and returns back along the same route.
+
+10 m
+
+HomeWell7 m
+
+Science | Force and Mortion85
+
+01. Write down in the table, the distance travelled and the displacement for each instance given below.
+
+Table 16.5 MotionDistance travelled (m)Displacement (m)Going from home to the wellGoing from well to the homeGoing from home to the well and returning back
+
+02. There are some instances given below, where a force is applied. Mention whether it is a pull or a push for each instance.
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Technical Terms
+
+Science | Nutrients in foods86
+
+Nutrients in Food17
+
+17.1 Food and nutrients
+
+Air, water as well as food are the most essential for the existence of life.
+
+The Table 17.1 shows the diet taken by a student of grade seven for during 3 days.
+
+Table 17.1 Types of food taken for main dietDateDietBreakfastLunchDinner
+
+WednesdayA glass of milk, String hoppers, Dhal, Coconut sambol
+
+Rice, Green gram seeds, Fried dry fish, A fruit
+
+Rottie with "Lunumiris", Papaw
+
+ThursdayA glass of milk, Bread, "Kiri hodhi"Rice, Dhal, Fried potato, "Pala malluma"Noodles, Potato curry, Egg, Mango
+
+FridayRice, Fish, Coconut sambol, "Kiri hodhi"Rice, Winged bean, Pumpkin, EggRice, Fish, Vegetable salad, Luffa, Banana
+
+There are different types of food mentioned in the above table. Those foods contain five main nutrients in different amounts.
+
+There are five main nutrients required by our body and should be present in the food we eat.
+
+1' Carbohydrates
+
+2' Proteins
+
+3' Lipids
+
+4' Vitamins
+
+5' Minerals
+
+In addition to above mentioned nutrients, certain amount of water and fibre should be present in the diet. Let us consider about type of nutrients and food which they contain.
+
+Science | Nutrients in foods87
+
+CarbohydratesThe carbohydrates we take are in the form of sugar and starch. They give energy for our body. Identify the food rich in carbohydrates.
+
+Bread fruitRiceBread
+
+Noodles
+
+Potato
+
+SugarFigure 17.1 Several food rich in carbohydrates
+
+Other food rich in carbohydrates - Hoppers, String hoppers, Jak, Types of yams, Types of grains
+
+Proteins
+
+Animal food (meat, fish, milk, eggs) as well as plant foods contain proteins. They are used mainly for growth and repair.
+
+For extra knowledge
+
+The growth of 80% of the human brain takes place from the conception of the child in the womb upto 2 years from birth. Therefore, a diet of pregnant woman should contain adequate amount of protein.
+
+Figure 17.2 shows some food items which are rich in proteins.
+
+Science | Nutrients in foods88
+
+lrj,
+
+EggsSoya seedsFish
+
+MeatFigure 17.2 Several food items which rich in proteinsDry fish
+
+Other food rich in proteins - Winged beans, Gram, Milk, Dhal, Mushroom
+
+For extra knowledge
+
+The table given below shows amount of protein recommended daily for different types of age limits.
+
+The minimum amount of protein essential per day
+
+Age (year)Protein grams per one kilogram of body mass 21'240'980'7160'77180'45210'35
+
+Lipids
+
+Nutrients which suppy high amount of energy for body is lipids. Lipids include fats and oils.
+
+Oils which are liquid in nature are mostly found in plants. Fats which are solid in nature are highly abundant in animals. The main function of the lipid is supplying energy for body.
+
+Science | Nutrients in foods89
+
+Assignment 17.1
+
+Inquire about the advantages of having storage of large amount of body lipids, in animals like Camel and Polar bear.
+
+Some food items rich in lipids are shown in Figure 17.3.
+
+Figure 17.3 Different types of food rich in lipids
+
+Egg yolk
+
+Coconut
+
+ButterCurd
+
+Gingerly
+
+Vitamins and mineralsVitamin and minerals are required in small amounts but they are essential nutrients for our body. This group of food protects us from diseases. Therefore, they do protective function and are important in maintaining good health.
+
+Vitamins and their sources are listed in Table 17.2.
+
+Table 17.2 Vitamins and sources of them
+
+VitaminSourcesACod liver oil, Liver, Milk, Butter, Carrot, Yellow coloured fruitsBCereals, Liver, Red-rice, Green leaves, Meat, Fish, Milk, Eggs, Green vegetablesCLime, Orange, 'Naran', 'Nelli', Guava, Papaw, Tomato, VegetablesDButter, Cod liver oil, Eggs, Milk, FishEWheat, Green leaves, Dark green vegetables, CerealsKCabbage, Cauli flower, Spinach, Tomato
+
+Science | Nutrients in foods90
+
+For extra knowledge
+
+Vitamins and functions of them
+
+VitaminFunctionsAImporve the vision, Maintain healthy skin and hairBDevelopment of memory power, Reduce lethargyCMaintain healthy gum, Strength the immunityDDevelopment of bones, Prevent decaying of teethEMaintain cell divisionKInvolve in blood clotting mechanism
+
+Red-ricePapaw
+
+Carrot
+
+CabbageMilkFish
+
+Figure 17.4 Food rich in vitaminsTable 17.3 shows different minerals, their sources and functions of them.
+
+Table 17.3 different minerals and their sourcesMineralSourcesCalciumMilk, Green leaves, Small fish (sprat)PhosphorusMilk, Eggs, Cheese, Meat, Garlic, Small fish, Cowpea, CarrotIronGingerly, Liver, Meat, Dhal, Spinach, ‘Sarana’, ‘Gotukola’SodiumSalt used for cooking, Meat, Milk, EggsIodineIodized salt, Sea food
+
+Science | Nutrients in foods91
+
+For extra knowledge
+
+Different minerals and their functionsMineralFunctionsCalciumMaintain healthy teeth and bones, Blood clotting during injuriesPhosphorusMaintain healthy teeth and bones, Maintain strong musclesIronFormation of haemoglobin which is needed for transportation of oxygen in bloodSodiumTransmission of nerve impulseIodineDevelopment of intelligence and memory power, Synthesis of the hormone thyroxine
+
+Some food items contain minerals and salt are given in Figure 17.5.
+
+Figure 17.5 Food rich in minerals
+
+Garlic
+
+DhalMilk
+
+SpinachSprats‘Gotukola’
+
+Assignment 17.2
+
+Prepare an article on discovery of vitamin B and C by collecting related historical information.
+
+Science | Nutrients in foods92
+
+Activity 17.1
+
+Study Table 17.1. Design and display graphs or tables based on food items and nutrients contain in them. Get the guidence of following chart for your creations.
+
+Figure 17.6 shows the daily food requirments for an individual.
+
+Pr
+
+o
+
+te
+
+i
+
+n
+
+C
+
+a
+
+r
+
+b
+
+o
+
+h
+
+y
+
+d
+
+ra
+
+te
+
+Vi
+
+ta
+
+m
+
+in
+
+a
+
+n
+
+d
+
+m
+
+i
+
+n
+
+e
+
+r
+
+a
+
+l
+
+Li
+
+pi
+
+d
+
+Vegetables
+
+Fruits
+
+Rice Bread 'Pittu'
+
+String hoppers
+
+Fish MeatWinged bean
+
+Egg
+
+Coconut
+
+Butter
+
+Milk
+
+Green leaves
+
+Figure 17.6 An example showing nutrients contain in a daily meal
+
+Activity 17.2
+
+Observe lables on different types of food containers. Study the types of nutrients contain in them and tabulate.
+
+Most of food items rich in different nutrients.e.g. :- Dhal contains carbohydrates, proteins and minerals. Egg contains Proteins, lipids, vitamins and minerals.
+
+Importance of fibre
+
+The fibrous nature of the food is called fibre. Some fibre present in food can be observed by your naked eye. But some are microscopic.
+
+Science | Nutrients in foods93
+
+Food rich in fibre
+
+1. Unpolished food2. Fruits (Ambaralla, Mango, Guava, Banana, Papaw)3. Vegetables (Carrot, ‘Kohila’, Cabbage, Potato, drumstics, Bean, Radish, Luffa)4. Cereal/Grains (‘Kurakkan’)
+
+Advantages of having food rich in fibre
+
+1. Reduce the absorption of fat in the diet to the body2. Decrease the absorption of sugar (Glucose) in the diet to the body3. Prevent the constipation and reduce the risk of causing disease like piles.
+
+Importance of waterWe get water with our meals to a certain extent. But, we should drink enough amount of water to maintain good health. Water is mainly used in to cool the body surface, supply medium for cellular reactions, remove excretory products efficiently from the body and prevent the constipation.
+
+17.2 Tests to identify food
+
+Let us do Activity 17.3 to identify main nutrients in food.Glucose (simple sugar) test
+
+Activity 17.3
+
+You will need :- A test tube, Glucose solution, Benedicts solution, water bath
+
+Method :- ²Add 2 ml of glucose solution to the test tube. ²Add 2 ml of benedict's solution and boil it in the water bath. ²Observe the colour change.
+
+You can observe the colour change in following way.
+
+Science | Nutrients in foods94
+
+Figure 17.7 Colour change in the presence of simple sugars
+
+BlueGreenYellowOrange Brick red precipitate
+
+Glucose can be identified by getting brick red precipitate
+
+Starch test
+
+Activity 17.4
+
+You will need :- Mixture made dissolving a small amount of boiled flour
+
+Method :- ²Boil some flour in water and prepare a solution. ²Add drops of iodine solution to the flour solution.
+
+Iodine mixed flour solution
+
+Figure 17.8
+
+Starch can be identify by getting the colour of purple-blue
+
+Protein test (Biurette test)
+
+Activity 17.5
+
+You will need :- Egg white, water, a test tubeMethod :- ²Make a mixture by dissolving egg white in water.
+
+²Put 2 ml of it, to a test tube
+
+²Add 2 ml of sodium hydroxide solution first and then add a few drops of copper sulphate solution to the test tube.
+
+The solution will turn to purple colour which proves proteins occur in mixture.
+
+Science | Nutrients in foods95
+
+Figure 17.9 Biurette test and its observations
+
+Lipid test
+
+Activity 17.6
+
+You will need :- A food contains lipid, white paperMethod :- Rub some lipid of food on a piece of paper and remove.
+
+If lipids are present, a translucent oily patch can be observed on the paper.
+
+Activity 17.7
+
+Collect different types of food items and test for each nutrients. Tabulate your observation.
+
+The balanced dietThe following descriptions are about food patterns of three children as the description.
+
+Science | Nutrients in foods96
+
+I always eat food which are shown on T.V. They are very tasty. My mother prepares them for me always. Because they are easy to be cooked. I hate taking foods like "Kola kadha" and different types of leaves "Pala". We have our dinner from outside probably 2 or 3 days per week. My father brings food for us from outside. I feel sleepy after having those food.
+
+Student A
+
+My mother prepare a glass of fresh milk for me early morning and all my food are home made foods. Mostly my diet contains of rice, fish, vegetables and fruits. Some days I take cereals like cowpea, gram or green gram. "Kolamalluma" or salad is a frequent essential item in my diet. "Kola kadha" is compulsory on holidays. I rarely take instant foods. I am clever both in study as well as extra curricular activities.
+
+Student B
+
+I normaly don't eat anything after breakfirst until the interval. During the interval I eat from my friends and drink cool drinks out of money given to me from home. I feel sleepy when eating rice. Therefore, I eat bread or buns, for my lunch. I feel very tired after returning home. I eat a little bit of rice as my mother forces me to eat. I feel sleepy.
+
+Student C
+
+Activity 17.8
+
+Form groups and present your ideas regarding diet patterns of above three children.
+
+Compare your findings with following analysis.
+
+A = Use more sugar, starch and fat, artificial flavours, colourings and preservatives are highly collected in the body.
+
+Results:- Can be victims of non infectious diseases like obesity, diabetes, hypertension (high blood pressure), cancer, paralysis and heart attacks in future.
+
+B = Do not consume high amount of sugar, starch and fat, arificial flavours, colourings and preservatives are not collected in the body.
+
+Results:- Healthy. Protect from infectious and non infectious diseases.
+
+Science | Nutrients in foods97
+
+C = Poor immunity due to lack of enough vitamins and minerals in the diet. Further, poor growth due to lack of adequate proteins from the diet.
+
+Results:- Can be easily caused infectious as well as non infectious diseases. Growth is not up to the age.
+
+Student "B" has the correct pattern of diet among above three children. Because he gets a balanced diet.
+
+What is a balanced diet?
+
+The balanced diet contains the essential nutrients and fibre in correct proportions.
+
+Diagrams given below illustrate three balanced diets prepared for a day.
+
+Figure 17.10 Examples for three balanced diet
+
+Li
+
+pi
+
+d
+
+P
+
+r
+
+o
+
+t
+
+e
+
+i
+
+n
+
+Vi
+
+ta
+
+m
+
+i
+
+n
+
+a
+
+n
+
+d
+
+m
+
+i
+
+n
+
+e
+
+r
+
+a
+
+l
+
+C
+
+ar
+
+b
+
+o
+
+h
+
+y
+
+d
+
+r
+
+a
+
+t
+
+e
+
+curry of sprats
+
+BananaString hoppers
+
+Coconut sambol
+
+Li
+
+pi
+
+d
+
+P
+
+r
+
+o
+
+t
+
+e
+
+i
+
+n
+
+Vi
+
+ta
+
+m
+
+i
+
+n
+
+a
+
+n
+
+d
+
+m
+
+i
+
+n
+
+e
+
+r
+
+a
+
+l
+
+C
+
+ar
+
+b
+
+o
+
+h
+
+y
+
+d
+
+r
+
+a
+
+t
+
+e
+
+SoyaCurryDhal
+
+Pala malluma
+
+Beans
+
+GuavaRice
+
+Tempered Onion
+
+BreakfastLunch
+
+Li
+
+pi
+
+d
+
+P
+
+r
+
+o
+
+t
+
+e
+
+i
+
+n
+
+Vi
+
+ta
+
+m
+
+i
+
+n
+
+a
+
+n
+
+d
+
+m
+
+i
+
+n
+
+e
+
+r
+
+a
+
+l
+
+C
+
+ar
+
+b
+
+o
+
+h
+
+y
+
+d
+
+r
+
+a
+
+t
+
+e
+
+Winged bean Curry
+
+Fish
+
+Banana
+
+PumpkinRice
+
+Potatos
+
+Tempered Water spinach
+
+Dinner
+
+Assignment 17.3
+
+Prepare a balanced diet for breakfast, lunch and dinner for your family per day.
+
+Unfavourable conditions due to lack of balanced diet1. The body does not show adequate growth (poor growth) or show over growth.2. Infectious diseases and non infectious disesases are easily caused.3. Become weak and lethargic.4. Suffering from deficiency diseases.
+
+Science | Nutrients in foods98
+
+Goitre due to lack of Iodine
+
+Bitos' spot due to lack of vitamin A
+
+Rickets due to lack of vitamin D
+
+Pellagra due to lack of vitamin B
+
+Scurvy (bleeding gums) due to lack of vitamin C
+
+Figure 17.11 Bad conditions due to lack of having balanced diet
+
+Assignment 17.4
+
+Prepare a booklet on nutrient deficiency diseases.
+
+yCarbohydrates, proteins, lipids, vitamins and minerals act as main nutrients. yCarbohydrates and lipids supply energy for body. yProteins involve in maintain tissues and development of body. yVitamin and minerals protect body from diseases. yFibre in food play many functions in the body. yA diet that contains the essential nutrients and fibre in the correct proportion is called a balanced diet. yMain nutrients can be identified by food tests.
+
+Summary
+
+Science | Nutrients in foods99
+
+Exercise
+
+(01) Fill in the blanks with suitable words.(i) Soya bean is rich in ........................................................(ii) ...................... is the nutrient which supports the growth of the body.(iii) ......................... and ........................... are involved in protecting body from diseases.(iv) ......................... in food, prevent the constipation.(02) Match with the suitable answer.Nutrient Most abundant foodsVitamin A Yellow coloured fruitsVitamin D Red-riceVitamin B Small fishVitamin C Sea foodIodine Lime(03) Discuss the advantages of having a balanced diet
+
+Technical Terms
+
+Science | Rocks And Minerals100
+
+A group of grade 7 students collected some stones when they went on a field trip with their teacher. The teacher said that there are rocks as well as minerals among those stones. It was a problem for students to classify them as rocks and minerals.The figures 18.1a and 18.1b show a piece of granite and a piece of quartz they collected.
+
+Figure 18.1 a A piece of granite
+
+Figure 18.1 b A piece of quartzLet us do Activity 18.1 to inspect the nature of granite and quartz.
+
+Activity 18.1
+
+You will need :- A piece of granite, a piece of quartz, a hammer, a hand lensMethod:-
+
+²Wrap the piece of granite in a cloth. Keep it on a big stone and hit it with the hammer until it is broken into small pieces.
+
+²Check the nature of the pieces with the hand lens.
+
+²Follow the same method with the piece of quartz as well.
+
+²Discuss whether there are any differences according to your observations.Granite is a type of a rock. Quartz is a mineral. Let us find out the differences between rocks and minerals.
+
+Minerals and Rocks18
+
+Science | Rocks And Minerals 101
+
+18.1 Features of minerals and rocks
+
+A mineral is a solid made up of one component. Rock is a mixture of several components. Minerals exist naturally in the earth in a crystalline form with a definite geometrical shape. Graphite, dolemite, feldspar, ilmenite, mica and quartz are some minerals found in Sri Lanka.The Figure 18.2 shows some crystalline shapes.
+
+Figure 18.2 Minerals with different crystalline forms
+
+But, rocks do not have definite geometrical shapes. Granite and gneiss are examples for rocks.
+
+Assignment 18.1
+
+With the help of your teacher get a collection of minerals in your school and fill in the following grid.
+
+Name of the mineralColourSpecial features
+
+Show the grid to your teacher.
+
+18.2 Kinds of rocks and minerals
+
+You have learnt about the structure of the earth in Unit 08. The outermost surface of the earth which is called crust is made up of rocks.Types of rocksRocks can be divided into three categories according to the way they had been naturally formed on the earth. ² Igneous rocks ² Sedimentary rocks ² Metamorphic rocks
+
+Science | Rocks And Minerals102
+
+Igneous rocks
+
+About 30 km below the earth’s crust, the temperature is more than 5000 ◦C. Because of this high temperature, the rocks get molted and exist in liquid form. This liquid form of rocks is called magma. During a volcanic eruption magma flows out. This magma is called “lava”. Lava gets cool and solidifies to form igneous rocks. Igneous rocks are hard. Granite and Basalt are examples for igneous rocks.
+
+Figure 18.3 a Flow of lava during a volcanic eruption
+
+Figure 18.3 b Lava solidifies forming rocksFigure 18.3 c A mountain of Basalt
+
+Sedimentary rocksSun light, rain, and wind affect rocks and they break into small pieces. This process is called rock weathering. The rain and wind carry these pieces of rocks to other places and they settle on land, in rivers or sea as layers. Many other things get deposited on these layers. Because of the weight of the upper layers, the lower layers get tighten and the sedimentary rocks are formed.
+
+Figure 18.4 Sandstone
+
+e.g. :- ² Mudstone² Conglomerate² Siltstone² Sandstone
+
+Figure 18.5 Limestone
+
+Science | Rocks And Minerals 103
+
+Sedimentary rocks are not as hard as igneous rocks. The skeletons of marine animals such as oyster deposit on bottom of the sea. These get subjected to pressure and limestone is made. Limestone is also a sedimentary rock.Metamorphic rocks
+
+Because of many reasons such as earthquakes igneous rocks and sedimentary rocks may deposit deep down the earth. These igneous and sedimentary rocks get subjected to extreme pressure and temperature and turn into metamorphic rocks.e.g. :- ² Limestone which is a sedimentary rock undergoes metamorphism and marble is formed. ² Granite, an igneous rock undergoes metamorphism and gneiss rock is formed.
+
+Figure 18.6 shist rock
+
+The figure shows a metamorphic rock called “shist”. An igneous rock has undergone metamorphism to form the shist. The change of the layers is an evidence for it.
+
+Figure 18 6
+
+shist rock
+
+Figure 18.7 A collection of minerals
+
+1
+
+456
+
+2
+
+3
+
+Types of minerals
+
+A lot of types of minerals can be found in Sri Lanka. The following figure shows some minerals.
+
+Science | Rocks And Minerals104
+
+e.g. :- 1' Feldspar 2' Dolomite
+
+3' Quartz 4' Ilmenite
+
+5' Mica 6' Graphite
+
+Assignment 18.2
+
+Collect some rocks and minerals. Compare them with the collection of rocks and minerals in your school. Name them and show the collection to your teacher
+
+For extra knowledge
+
+There are rocks not only on earth but also on the moon and on the planets such as Mars and Venus.The Sri Lankan scientist Dr.Siril Ponnamperuma was the person in charge in checking the rocks and soil brought from the moon during the space voyages of Apollo.
+
+e
+
+a
+
+18.3 Rock weathering
+
+When the earth is drilled at one point you will find that it is difficult to drill further because of a rock. It is the bedrock. Therefore, we can imagine that this rock has participated in creating soil.Due to many reasons the rocks on earth break into pieces and form soil. This process is known as rock weathering.Rock weathering occurs in three ways. ²Physical/mechanical weathering ² Chemical weathering ² Biological weathering
+
+Physical/mechanical weatheringPhysical weathering is the process of breaking the rocks into small pieces due to physical factors like heat, wind and flowing water. Physical weathering occurs in many ways.
+
+Science | Rocks And Minerals 105
+
+During the daytime rocks get heated because of the heat of the sunlight and during the night time they get cooled. Also, sudden rains will cool down these heated rocks. Rocks break into pieces because of this heating and cooling process. Let us do Activity 18.2 to understand it.
+
+Activity 18.2
+
+You will need :- A glass marble, forceps, a burner, a container with waterMethod :- • Use the forceps and heat the glass marble.• When it gets heated put it into the water basin.• Take out the marble and check it.
+
+You will see that the marble has been cracked.Because of heating and cooling minerals in rocks get expanded and contracted. These expansions and contractions do not happen in to a same extent. Therefore, the pieces in the rock get loosen and removed.
+
+When water flows through rocks they get weathered. Beacuse of this, the rough edges of stones in flowing water streams are softened and shaped.Also, when sand which flows with wind hits the rocks, they get weathered.
+
+There might be water inside the cavities of rocks. In countries where the atmospheric temperature is less than the freezing point 0 ◦C, this water turns into ice. Then the volume increases and rocks can break into pieces.
+
+Figure 18.8 Rocks breaking due to water turning into ice
+
+Temperature is higherthan the freezing point of water
+
+Temperature is lower than the freezing point of water
+
+Temperature is higher than the freezing point of water
+
+Temperature is lower than the freezing point of water
+
+1234WaterWaterIceIce
+
+Science | Rocks And Minerals106
+
+Chemical weathering
+
+The chemicals in the environment cause rock weathering. Let us do Activity 18.3 to find out about it.
+
+Activity 18.3
+
+Test whether acids cause rock weatheringYou will need :- A limestone, vinegar, a glass containerMethod :- ²Fill the glass container with vinegar. ²Put the piece of limestone into that container. ²Record your observations.
+
+You will see that the piece of limestone in the container with vinegar dissolves emitting air bubbles.The conclusion is, limestone got weathered because of acids.Chemical weathering is the transformation of rocks into other forms by reacting with water, acids and oxygen.When carbondioxide dissolves in water it becomes acidic. At present the percentage of sulphur dioxide in atmosphere has been increased. When sulphur dioxide dissolves in water it becomes very acidic. Rocks get weathered when they react with acidic rain water.
+
+Biological rock weatheringRocks get weathered because of plant and animal activities.When a root of a tree enters inside an opening of a rock it grows bigger and bigger and the rock can get cracked.
+
+Figure 18.9 Rock weathering by a plant root
+
+ab
+
+Science | Rocks And Minerals 107
+
+Activity 18.4
+
+Observing how a rock weathers naturallyMethod :- ²Find a big rock near your house or school. ²Find a place where a lichen can be seen on it. ²Check the texture of things near that lichen (check with your fingertips) once in two weeks for about six months. ²Observe them with a hand lens.
+
+Figure 18.10 Lichen on a rock
+
+With time you can observe that the substances tested have small rock particles. Thus, you can conclude that the rock is weathered.On big rocks you can see white and light green patches which are called lichens. Lichens are a combination of algae and fungus. The chemicals and acids produced by lichens are also reasons for rock weathering.Man uses different methods to break rocks. This is another reason for rock weathering. Due to thudding of hoofs and horn fighting, rock weathering occurs.The soil on the earth’s crust is made of these physical, chemical and biological weathering of rocks.
+
+18.4 Rock cycle
+
+Continuous process, in which the three types of rocks are created, changing from one form to another is known as the rock cycle.
+
+The steps of the rock cycle are given below,
+
+1) Magma, released from volcanic eruptions gets cool and igneous rocks are formed.
+
+2) Igneous rocks weather and get deposit in many places of the earth to form sedimentary rocks.
+
+3) The sedimentary rocks go deep down the earth because of earthquakes and they become metamorphic rocks.
+
+Science | Rocks And Minerals108
+
+4) Metamorphic and igneous rocks are subjected to extreme temperature and turn into magma.
+
+Following is the summary of the rock cycle
+
+Magma
+
+Cooling
+
+Igneous rocks
+
+Weathering and sedimentation
+
+Sedimentary rocks
+
+Exposure to temperature and pressure
+
+Metamorphic rocks
+
+Subjecting to extreme temperature
+
+A picture depicting the rock cycle is given below.
+
+Figure 18.11 Rock cycle
+
+Igneous rocks (on earth crust)
+
+Igneous rocks (internal)
+
+Metamorphic rocks
+
+Rocks meltingSedimentary rocks go deep down the earth due to earthquake
+
+Sedimentary rocks
+
+Sea
+
+weathered igneous rocks flowing into sea through rivers
+
+magma
+
+2
+
+3
+
+1
+
+It takes millions of years for a rock cycle to get completed.
+
+Figure 18.12 explains more about the rock cycle.
+
+Science | Rocks And Minerals 109
+
+Figure 18.12 A cartoon picture depicting the rock cycle
+
+We are very hard, aren't we?
+
+Oh! I’m falling down!My rough edges will get smoothed
+
+Oh! The sea. I can be with these friends in the sea.
+
+What’s it? An earthquake. We are sliding downThis extreme pressure and temperature will melt me.
+
+Hey! We are going back.
+
+1
+
+2
+
+3
+
+Assignment 18.3
+
+Making a model which depict the rock cycle
+
+Create a model of a volcano using clay. Use paint and saw dust and make the outflaw of lava and creation of igneous rock. After making it, use gravel, sand and clay to represent the formation of soil through rock weathering from below the igneous rocks.
+
+Sustainable usage of rocks and mineralsRocks and minerals are very valuable resources of a country. Therefore, minerals and rocks should be sustainably utilized in a clever and environmental friendly manner. So, that the future generations may use them too.
+
+There are a lot of minerals that can be found naturally in Sri Lanka.
+
+Science | Rocks And Minerals110
+
+Table 18.1 shows some minerals that can be found in Sri Lanka.Table 18.1 Minerals that can be found in Sri LankaMineralAreas it can be foundUsesApatiteEppawalaProduce Phosphate manureDolomiteKandy, Matale, Badulla, Habarana, RathnapuraProduce limeProduce manureFeldsparKoslanda, ThalagodaFor ceramic industryProduce glassIlemenitePulmudeProduce paintTo get TitaniumGraphiteBogala, Kahatagaha, KolonnaProduce pencils, crucibles and lubricantsMicaWariyapola, Haldummulla, MadampeFor electric and electronic equipmentKaolinBoralasgamuwa, Mitiyagoda For ceramic industrySome minerals are named by Sri Lankan names.
+
+For extra knowledge
+
+Ekanite mineral is named by the name of Sri Lankan scientist F.L.D. Ekanayake.
+
+Exporting minerals brings a lot of foreign exchange to our country. But, somehow if we are able to use these minerals as raw materials to produce different products and exporting those products may bring more foreign exchange to the country.Rocks and minerals are non-renewable resources. Therefore, it is our responsibility to use them very carefully and save for future generations.
+
+Assignment 18.4
+
+Prepare an article about the minerals that can be found in Sri Lanka and their uses. Exhibit it on your wallpaper.
+
+Science | Rocks And Minerals 111
+
+²Minerals are formed with a single components while rocks are made of several components. ²Rocks can be categorized into three groups as igneous rocks, sedimentary rocks and metamorphic rocks. ²Soil is formed from physical, chemical and biological weathering of rocks. ²The process in which three types of rocks changing from one form into other form for a very long time period is known as the rock cycle. ²As rocks and minerals are very valuable resources they have to be conserved.
+
+Summary
+
+Exercise
+
+1. Select the correct answer.
+
+I. Which factors cause rock weathering from the following?
+
+(1) Physical factors (2) Biological factors
+
+(3) Chemical factors (4) All of the above
+
+II. Limestone is,
+
+(1) A mineral (2) An igneous rock
+
+(3) A sedimentary rock (4) A metamorphic rock
+
+2. Match A with B
+
+ABRocksmade with minerals and some other materials. Parts of dead animals and plants can be contained. Igneous rockshas been changed from the original form.Sedimentary rocksmade up with magma deep in the earth.Metamorphic rocksmade up with one material.Mineralsmade up by tightening the rock pieces.
+
+Science | Rocks And Minerals112
+
+3. State whether the following statements are True (√) or False (x).
+
+a) Granite is a mineral ( )
+
+b) Fossils can be seen in sedimentary rocks. ( )
+
+c) Rocks are found near the earth’s crust. ( )
+
+d) Granite is used to build stairs because granite not easily wear away. ( )
+
+e) Extreme pressure and temperature cause the formation of metamorphic rocks. ( )
+
+Technical Terms
+
+Science | Sources of Energy 113
+
+Sources of Energy19
+
+Do you know that to engage in every day-to-day activity you need energy ? We get energy from the sources of energy.The Table 19.1 shows some day-to-day activities and their sources of energy.
+
+Table 19.1 Different activities and energy sources
+
+ActivityEnergy source
+
+Boiling water, cookingFirewood. L.P. gas, electricity
+
+TransportationPetrol, diesel
+
+Drying clothes and different thingsSolar energy (Sun)
+
+Using the T.V, radio, computerElectricity
+
+Operating machines in factoriesElectricity, diesel
+
+Energy sources can be divided into two groups.
+
+²Renewable energy sources
+
+²Non-renewable energy sources
+
+Figure 19.1 Renewable energy sources Figure 19.2 Non-renewable energy sources
+
+Solar power
+
+Bio-mass
+
+Wind powerGeothermal energy
+
+Energy of the flowing water
+
+Fossil fuel
+
+Coal
+
+Nuclear power
+
+Natural gases
+
+Science | Sources of Energy114
+
+To understand the concepts of renewable and non-renewable energy sources engage in Activity 19.1. Do it in groups.
+
+Activity 19.1
+
+Understanding the concepts of renewable and non-renewable energy sourcesYou will need :- Two same sized glass fish tanks, three same sized cups, another cup half in size than the other cups, four bucketsMethod :- ²Name the two tanks as “A” and “B”. ²Ask two of your friends to be near the tank “A” and another two near the tank “B”. ²Fill ¾ of each tank with water. ²Give two same sized cups to the friends near tank “A”. Give the other two cups to the friends near tank “B”. ²Ask one friend near the tank “A” to take out a cup of water from the tank and ask the other to put a cup of water into the tank. Notice the level of water in the tank. ²Ask the friend with the big cup who is near the tank “B” to take out a cup of water from the tank and ask the other friend with the smaller cup to put a cup of water into the tank. Notice the level of water in the tank “B”.The tank “A” represents renewable energy sources while the tank “B” represents non-renewable energy sources.
+
+Renewable energy sources are energy sources that are reproduced during use or within a short period of time after use.e.g. :- ● Sun ● Wind ● Geothermal energy ● Flowing water ● Bio-mass
+
+Non-renewable sources are not reproduced after use. Otherwise it takes a long period of time to be reproduced.e.g.:- ● Fossil fuel ● Natural gas
+
+● Coal ● Nuclear power
+
+Science | Sources of Energy 115
+
+19.1 Renewable energy sources
+
+Solar power
+
+Solar power gives us light as well as heat. The reason for the wind in the atmosphere and waves in the sea is also the solar power. In some houses solar heaters can be seen on roofs. These heaters are used to boil water for purposes such as bathing.
+
+Activity 19.2
+
+Constructing a simple solar heater
+
+You will need:- A water tank, a rubber pipe, plastic pipes, a black coloured coverletMethod:- ²Prepare the set up as shown in the figure. It is a model of a solar heater. ²Record the temperature of the water in the tank.
+
+Water tank
+
+Black coloured pipe
+
+ColdWater
+
+Hot water
+
+Panel
+
+Figure 19.4
+
+There is a longer pipe of which the surface is black in the panel. It is fixed on a black coloured surface too. It should be fixed in a manner as to allow solar heat to fall on the panel. As the black coloured surface absorb more solar heat. The water inside the pipe is heated by solar heat.
+
+The heated water flows the water tank through the pipe above the water tank. Cool water is at the bottom of the tank. That water flows into the coiled pipe through the pipe at the bottom. When that water is also heated, it flows to the tank through the pipe above. As this is a continuous process water can be heated by this process.
+
+Figure 19.3 A solar heater on roof
+
+t.
+
+e
+
+r.
+
+n
+
+r
+
+Figure 19.3
+
+A solar heater on
+
+Science | Sources of Energy116
+
+Activity 19.3
+
+Find the effect of the size of the solar heat cooker on its functionYou will need :- Several torch reflectors of different sizes, several matchsticks, clayMethod :- ²Fix a matchstick in the hole of the torch reflector with the help of clay. Turn the reflector towards sunlight. Place it in a position in which the top of the match is set at the point where sunlight is collected. Measure the time it takes to light the match. ²Do this experiment by using torch reflectors of different sizes. Measure the time at each occasion. (Do this activity as a instructive model)
+
+Figure 19.5 A torch reflector
+
+t
+
+f
+
+h
+
+Figure 19 5
+
+A torch
+
+You will observe that the time taken to light the match is decreased when the size of the reflector increases. A similar process takes place in the solar heat cooker too.
+
+When the area of a solar heat cooker is increased, the amount of heat that can be obtained from it also increased.
+
+Solar energy is transformed to electricity by solar cells. Solar cells were first produced to provide electricity to artificial satellites. At present, they are used in calculators, experimenting electric cars, street lamps and aeroplanes.
+
+Activity 19.4
+
+Generating electricity from solar batteriesYou will need :- Solar batteries, multimeterMethod :- ²Find a solar panel if possible. ²Connect it to a motor and direct the solar panel towards the sunlight. If not remove the solar panel in a calculator with the help of an adult.
+
+Science | Sources of Energy 117
+
+²Connect the connective wires to the multimeter. ²Adjust the multimeter to the scale of milliampere (mA). ²Direct the solar batteries to the sunlight and check the index of the multimeter.
+
+Figure 19.6 a A street lamps operating from solar batteriesFigure 19.6 b A vehicle operating from solar batteries
+
+Eventhough solar power is renewable and profitable, there are some disadvantages of it. ²Solar batteries are very expensive. ²Cloudy sky reduces the effectiveness of solar batteries. ²The electricity generated by solar power can be stored in batteries. However, only small amount of electricity can be stored in batteries and they should be disposed in a proper method after discharging. Improper disposal will cause environmental pollution.
+
+Wind power
+
+Solar power heats different places of the earth unevenly. When the air is more heated, it rises up generating a low pressure area in the atmosphere. The cool air from other places flows into the gap. This
+
+Figure 19.7 A bus stop which lightness up in the night using solar power stored during the day time
+
+Science | Sources of Energy118
+
+circulation of cool air is called the wind. Ancient man has used wind for many purposes.e.g. :- ● for cleaning paddy ● for grinding grain using windmills ● for transportation of sail boatsElectricity can be generated using wind. Do Activity 19.5 to get an idea about it.
+
+Activity 19.5
+
+Generating electricity using wind powerYou will need:- A car cassette motor of 12 V, a LED bulb, a biscuit tin of which the diameter is 14 cm and the height is 10 cm, three plastic water bottles of one litre each (without water), three mega bottle lids, three bolt nails, a small pulley which can be fixed to the axis of the motor, twine or any other thread.Method:- ² Fix the three mega bottle lids at a similar distance to the biscuit tin with the bolt nails. ² Fix three wind blades made by cutting and removing a part of the bottle, to those three bottle lids. ² Do not forget to fix the bottle lids towards corner of the biscuit tin and not in the middle. ² Fix the small pulley to the axis of the motor. ² Connect the car cassette motor of 12 V with the twine thread in a manner as to be able to rotate it. ² Connect a LED to the motor and rotate the turbine with the help of a fan. ² Record your observations. ² Increase the speed of the wind flow and observe the lighting of the LED.
+
+Figure 19.8
+
+It can be decided that electricity is produced thare as the LED is lighting.It is visible that electricity can be generated with the help of wind power. There are advantages as well as disadvantages in the wind power. The
+
+Science | Sources of Energy 119
+
+advantages are that it does not cause any air pollutions, can be obtained free of charge and less environmental damage.But, wind sufficient to generate electricity can be found in limited areas. Sound pollution takes place due to electricity generators powered by wind.
+
+Geothermal energy
+
+Thermal energy generated and stored in the earth is known as geothermal energy. Below earth’s crust there is a hot and molten rock called magma. Because of this high temperature in this layer the water gets heated and turns into steam. This steam is pumped out to turn a turbine. This turbine operates a dynamo and generates electricity.
+
+For extra knowledge
+
+Places where hot water springs in Sri Lanka
+
+Rankihiriya
+
+Kinniya
+
+Galwewa
+
+Kaprella
+
+Mahaoya Marangala
+
+Wahawa
+
+Kiwulegama
+
+Mahapalessa
+
+The hot thermal springs (hot water springs) in different areas in Sri Lanka is an example for an instance where geothermal energy is used.More experiments should be carried out about generating energy from these thermal springs.Using geothermal energy seems very profitable because energy in deep down the earth’s crust is used. But, there are many drawbacks of using geothermal energy.The places of earth with a very
+
+Turbine
+
+Electricity generator (dynamo)
+
+Water
+
+Steam
+
+Magma
+
+Rocks heated by magma
+
+Figure 19.9 Generating electricity using geothermal energy
+
+Science | Sources of Energy120
+
+high temperature are very deep in the earth’s crust. Therefore, to use the geothermal energy the earth has to be drilled very deep. It needs a lot of energy and a high cost. Also many hazardous gases and many chemicals can seep up from the under ground and finding a way to safely dispose of them is very difficult and dangerous.
+
+The energy of flowing water
+
+From ancient time people used the energy of flowing water to rotate water turbines. Those wheels were used to grind grain.
+
+Assignment 19.1
+
+² Use a cork, a bicycle spork, yoghurt spoons, papers, clips and prepare a water wheel ² Hold the wheel to a flow of water and make a thread to coil in the cork. Prepare a method to lift a weight using the thread
+
+Activity 19.6
+
+Generating electricity with a water currentYou will need :- 12V car cassette motor, a LED, a biscuit tin of which the diameter is 14 cm and the height is 10 cm, eight mega bottle lids, eight bolt nails, a small pulley which can be fixed to the axis of the motor twine or any other thread.Method :- ² Fix the eight mega bottle lids at a similar distance to the biscuit tin with the bolt nails. ² Do not forget to fix the bottle lids towards corner of the biscuits tin, not in the middle. ² Fix the small pulley to the axis of the motor. ² connect the car cassette motor of 12V with the twine thread in a manner as to be able to rotate it.
+
+Figure 19.11
+
+Figure 19.10 An old water wheel
+
+Flowing water current
+
+Science | Sources of Energy 121
+
+² Connect a LED to the motor and rotate the turbine with the help of water current. ² Record your observations. ² Increase the speed of the water current and observe the lighting of the LED.
+
+Electricity can be generated by using the energy of the flowing water. A location where electricity is generated using water is known as a hydropower station.
+
+Figure 19.12 A model of a hydropower station
+
+Dynamo
+
+Reservoir
+
+Dam
+
+TunnelTurbineTransformer
+
+Canal
+
+Light wires
+
+A concrete dam is constructed by obstructing the flow of water to generate hydro electricity. An artificial reservoir is created by that. The water thus collected in the reservoir is carried to the power station located in a lower level through tunnels and pipes. That water currents used to rotate the turbines. Dynamos (electricity generators) produce electricity by rotating turbines.
+
+Hydropower is an environmental friendly and profitable source of energy. However, the initial cost of constructing a hydropower station is high. Due to the artificial reservoirs, animals lose their habitats. These reservoirs are filled with sediment which cause an issue as well.
+
+In sri lanka, it is not possible to construct dynamo hydropower stations. All the possible locations have been used so far. If the expected amount of rain is not obtained, it is not possible to operate hydropower stations.
+
+Science | Sources of Energy122
+
+Energy of biomass
+
+Biomass energy is the energy which is contained inside the animals and plant materials. Firewood is also considered as biomass. The amount of heat generates depends on the type of firewood.
+
+In India, dried cow dung is used as a fuel to prepare food. Indian government encourages people to use cow dung to make biogas and use it as a fuel. Fuels produced using plant materials are considered as renewable energy sources. As long as we continue to plant new trees to replace those cut down we will always be able to get those fuels.
+
+For extra knowledge
+
+In some countries Gasohol which is a mixture of petrol (gasoline) and alcohol is used as a fuel for vehicles. Gasohol supply station
+
+Electric rice cooker is used in many homes to cook rice. NERD institute has introduced a cooker that needs pieces of coconut shells as fuel. It can be used instead of the electric rice cooker.
+
+Assignment 19.2
+
+yList out the advantages and disadvantages of renewable energy sources.19.2 Non-renewable energy sources
+
+Mineral oilMineral oil is a fossil fuel. Fossils are made out of plant and animal matter, subjected to different reactions in underground. The fuels extracted from these fossils are called fossil fuels. Mineral oil is trapped among the rocks in the earth’s crust. Metal tubes should be drilled inside these rocks to take the mineral oil. Mineral oil is a very common fuel used in factories and in transportation.The advantages of mineral oil are easy to use (handle) and can be
+
+Science | Sources of Energy 123
+
+converted to energy by modern machines easily.Limited supply and emitting gas pollutants when combust, are the disadvantages.
+
+Crude oildieselkerosenepetrolFigure 19.13 Crude oil and fuels extracted from itCoalCoal is also a fossil fuel similar to mineral oil. Coal mines are found among the inner rock layers of the earth.A lot of heat can be generated by combustion of coal and also it can be handled easily.It is easy to excavate coal mines from earth and easy to combust. There are more coal (mines) occur than mineral oil (mines) in the world. The gases emitted after combustion of coal cause environmental pollution.
+
+Natural gases
+
+The methane gases trapped within the rocks of the earth’s crust are known as natural gases. Natural gases also are a type of fossil fuel. Metal tubes are drilled into the rocks and these gases are taken out. Natural gases are used to cook food and in cold countries they are used to heat the houses.
+
+Natural gases have many advantages; Cheap and easy to use. Pollution is less than coal and mineral oil. But, the supply is limited.
+
+Figure 19.14 A lump of coal with marks of leavesFigure 19.15 An instance of burning natural gases emitted from ground
+
+Science | Sources of Energy124
+
+Nuclear PowerEnergy is generated in the sun by nuclear reactions. During these reactions one type of atoms convert into another type of atoms. Nuclear energy is generated by using Uranium which is a radioactive atom. In nuclear power plant electricity is generated using nuclear power.Very little amount of radioactive atoms such as uranium, plutonium are sufficient to generate a vast amount of energy. This is an advantage of nuclear power.There are mineral ores located in Sri Lanka, which contain uranium.There are some disadvantages occurred when using nuclear energy. High expenditure of installing and maintaining nuclear power plants. Highly toxic materials are released as byproducts. Hence, need to be stored for thousands of years without exposing to the environment. That is again a highly expensive task.It causes hazardous conditions if radioactive substances are leaked by accidents. It will be harmful to man and the environment.The discharge from these reactors are very toxic. They should be stored in a way that they would not expose to the environment for a very long time. Storing these discharge costs a lot. If accidently these radioactive substances expose to the environment it will affect people and the environment which will lead to a tragic end.e.g. :- Explosion at the Chernobyl nuclear plant in Russia Explosion at Fukushima nuclear plant in Japan.
+
+Assignment 19.2
+
+yPrepare a table that shows the advantages and disadvantages of non-renewable energy sources.
+
+pg
+
+Figure 19.16 A nuclear power plant (This is located in Kudankulum in India close to Sri lanka)
+
+Science | Sources of Energy 125
+
+For extra knowledge
+
+The time period of existence of some non-renewable energy sources are given below. Mineral oil - about 50 years Natural gases - about 70 years Coal - about 250 years
+
+19.3 Sustainable usage of energy sources
+
+It is our responsibility to use the non-renewable energy sources in a thrifty manner, as they will disappear one day. So, the future generation will not be able to use these energy sources.
+
+Some strategies are given below for sustainable usage of these energy sources.
+
+²Minimize using domestic electricity ²Walk or use a bicycle for travelling short distances (This will be good for your health too.) ²Use common transportation methods instead of using personal vehicles ²Tune the engine of vehicles to maximize the efficiency of fuel ²Use hybrid or electric vehicles ²Use optional energy sources whenever possiblee.g. :- Solar water heaters can be used to boil water for bathing ²Use fuel that can be found from the nearby environmente.g. :- Using firewood, coconut shells for purposes such as cooking ²Avoid busy hours for travelling ²Minimize using plastic (a lot of fuel is needed to produce plastic) ²Make aware the public the necessity of minimizing the use of fossil fuels ²Fix catalytic converters to vehicles
+
+Science | Sources of Energy126
+
+Activity 19.7
+
+Conduct a debate in the classroom on the topic “using renewable energy sources/non-renewable energy sources help for the country to get long term advantages.”
+
+Assignment 19.3
+
+Make a booklet containing measures that can be taken to reduce the electricity cost at home.
+
+Summary
+
+²Energy sources can be divided into two groups as renewable energy sources and non-renewable energy sources.
+
+²Renewable energy sources must be used as much as possible. Then non-renewable energy sources can be protected.
+
+²There are advantages as well as disadvantages of both renewable and non-renewable energy sources.
+
+²Sustainable usage of energy sources will help for the future generation to use them.
+
+Exercise01) Select the correct answer.
+
+1) “The price of L.P. Gas has been increased.” This is a news. As a remedy for this problem what is the best renewable energy source that can be used by Sri Lankans ? a) Biomass b) Solar power c) Wind power d) Tidal energy
+
+2) A non-renewable energy source is a) Solar power b) Coal c) Energy in flowing water d) Wind power
+
+Science | Sources of Energy 127
+
+3) An energy source that does not fall into biomass category is a) Dry cow dung b) Oil of castor seeds c) Geothermal energy d) Chaff
+
+02) Use the given words/ phrases and fill in the chart.
+
+Hydro power, natural gases, solar power, mineral oil, biomass, renewable energy sources, geothermal heat, nuclear power, non-renewable energy sources
+
+Energy sources
+
+Coal
+
+Wind power
+
+Technical Terms

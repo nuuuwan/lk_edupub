@@ -1,0 +1,3355 @@
+==== BLOCKS ==== 
+
+i
+
+Health and Physical Education
+
+Grade 7
+
+Educational Publications Department
+
+ii
+
+First Print 2015Second Print 2016Third Print 2017Fourth Print 2018Fifth Print 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0112-8
+
+Published by the Educational Publications DepartmentPrinted by Paramount Solutions (Pvt) Ltd. No. 105/1, Lake Road, Ambathale, Mulleriyawa New Town.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha Apa Sri Lanka Namo Namo Namo Namo Matha Sundara siri barinee, surendi athi sobamana Lanka Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye matha Piliganu mena apa bhakthi pooja Namo Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha Oba we apa vidya Obamaya apa sathya Oba we apa shakthi Apa hada thula bhakthi Oba apa aloke Apage anuprane Oba apa jeevana we Apa mukthiya oba we Nava jeevana demine, nithina apa pubudukaran matha Gnana veerya vadawamina regena yanu mana jaya bhoomi kara Eka mavakage daru kela bevina Yamu yamu vee nopama Prema vada sema bheda durerada Namo, Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+v
+
+Message from the Hon. Minister of Education
+
+The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan government and myself, as the Minister of Education, to empower you all.
+
+This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders.
+
+Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence, you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim.
+
+It is your duty to give a proper value to the money spent by the government on your education. Also you should understand that education determines your future. Make sure that you reach the optimum social stratum through education.
+
+I congratulate you to enjoy the benefits of free education and bloom as an honoured citizen who takes the name of Sri Lanka to the world.
+
+Akila Viraj KariyawasamMinister of Education
+
+Being innovative, changing with right knowledge,Be a light to the country as well as to the world.
+
+vi
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you all the textbooks from grades 1-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha WickramanayakaCommissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vii
+
+Monitoring and Supervision - W. M. Jayantha Wickramanayaka Commissioner General of Educational Publications Educational Publications Department
+
+Direction - W. A. Nirmala Piyaseeli Commissioner of Educational Publications (Development) Educational Publications Department
+
+Co-ordination - Amila Rupasinghe Assistant Commissioner Educational Publications Department
+
+Panel of Editors
+
+1. Prof. Pujitha Wickramasinghe - Faculty of Medicine, University of Colombo
+
+2. Wasantha G. N. Amaradiwakara - President (Retired), Ruhuna National College of Education
+
+3. Dhammika Kodithuwakku - Senior Lecturer National Institute of Education
+
+4. Renuka Peiris - Director of Education School Health and Nutrition branch Ministry of Education
+
+5. Anura Abeywickrama - Assistant Director of Education Health, Physical Education and Sports branch Ministry of Education 6. Dr. Neelamani Hewageegana - Consultant (Medical Administration), Health Education Bureau, Colombo
+
+7. Dr. Ayesha Lokubalasooriya - Consultant (Community Medicine), Family Health Bureau, Colombo
+
+8. Amila Rupasinghe - Assistant Commissioner Educational Publications Department
+
+Language Editing
+
+M.A. Kumarasingha
+
+viii
+
+Panel of Writers
+
+1. Dr. Madhubhashini Dayabandara - Faculty of Medicine, University of Colombo
+
+2. B.A.K. Pushpalatha - Lecturer, National College of Education, Hapitigama
+
+3. W.M. Athula Wijenayaka - Teacher Service, C.W.W. Kannangara Vidyalaya, Hunumulla 4. Madhubhashini Dharmawickrama - Nutritionist (SLMC registered)
+
+5. D.M. Gunapala - Teacher Service, Dharmaraja Vidyalaya, Kandy
+
+6. Kamala Gunawardhena - Director of English (Retired) Ministry of Education
+
+7. Nihal Gunawardhena - Teacher (Retired), Richmand College, Galle
+
+8. Thushya Thiruchelvam - In Service Adviser, Zonal Education office, Islands
+
+9. A.M. Saffeek - In Service Adviser, Zonal Education office, Galle
+
+10. S.F.U. Ulfath - Teacher Service, Aligar Maha Vidyalaya, Kal-Eliya Proof Reading
+
+Rasika Jayakody - Teacher Service, St. Pauls College, Milagiriya
+
+Illustration
+
+1. W.S.W. Botheju - Teacher Service, C.W.W. Kannangara Vidyalaya, Hunumulla
+
+2. V.P. Ranaweera - Musaeus College
+
+Cover Page
+
+Indika Gunawardhaena
+
+Technical Assistance
+
+1. Anuththara Mathugama - Educational Publications Department
+
+2. Anusha Vithanawasam - Educational Publications Department
+
+ix
+
+Message from the Editors
+
+You, who are a lucky child of the nation who can contribute to the betterment of your society, are now going to study the subject “Health and Physical Education” which is introduced to pupils in Grade 6. Studying this subject will pave the way for you to live an active, healthy life full of happiness and pride.
+
+If you have a healthy body, a clear mind and are always capable of interacting with others happily, you are spiritually strong. The aim of studying this subject is to develop in you a range of competencies which integrate the knowledge, attitudes, skills and social relationships required for achieving that purpose.
+
+Identify your body to help maintain good health; adopt correct body postures to enhance your appearance. Be co-operative when working with your peers and face the challenges of life with courage. Spend your leisure effectively. Gain love and protection in turn give to others. Have a healthy, balanced diet. Maintain your fitness. The knowledge you gain for achieving all these purposes will be complete only if you experience it practically. Therefore, go outdoors with your teacher specially to engage in activities related to sports. Adopt what you learn from this book in your day-to-day activities to better your life.
+
+This book has been designed under the new syllabus that is to be effective from year 2015. The chapters in this textbook have been lined up following the sequence of teaching the lessons that has been recommended by the National Institute of Education. Therefore you will get the opportunity in the class to learn these lessons in the same order. Use it with love and care. It contains additional information going beyond the syllabus under “Let us learn more”. That has been included simply for the sake of enhancing your knowledge. Answer the questions given under “Let us test our knowledge” to make certain that you have correctly understood the facts taught through each lesson. Develop your skills by engaging in activities given under “Let us put it into practice” following the directions given by your teacher.
+
+We wish with sincere love that this book will pave the way for you to explore knowledge on Health and Physical Education which will be important to you through out your life.
+
+Board of Editors
+
+x
+
+xi
+
+xi
+
+Contents
+
+1 Let us build a healthy family environment 1
+
+2 Let us experience love and protection 13
+
+3 Let us engage in folk games 28
+
+4 Let us play volleyball 39
+
+5 Let us play netball 49
+
+6 Let us play football 56
+
+7 Let us learn correct posture 64
+
+8 Let us train for athletics 75
+
+9 Let us develop healthy eating habits 82
+
+10 Let us discover our body 103
+
+11 Let us balance our emotions 121
+
+12 Let us respect the rules, regulations and ethics in sports 131
+
+13 Let us develop our physical fitness 140
+
+14 Let us get ready for adolescence 156 15 Let us prevent non-communicable diseases 168
+
+xii
+
+1For Free Distribution.
+
+Most of our lives are spent with our family members. We learn our health habits and eating habits also from our family. Most of our leisure time is also spent with the members of the family. Therefore, the family has a great impact on our health.
+
+In grade 6 you learnt about the concept of health and the importance of physical, mental, social and spiritual well-being for a healthy life.
+
+In this lesson you will learn about promotion of family health and the features of a healthy family environment.
+
+Health promotion
+
+Health promotion is the process of enabling people to improve their health by gaining control over factors affecting health.
+
+Promotion of family healthMost often all the members of a family live together, but sometimes either the father or the mother may live separately due to their employment. Children may stay in hostels or in children’s homes either for educational purposes or for other reasons. Although staying at such places is temporary, children will have to live according to the rules and regulations of such institutions. In such places children may not be able to make changes. In a family, parents and children live together. They have the freedom to take their own decisions and have more freedom to act on their own. Therefore, there is both the possibility as well as a responsibility to promote good health within the family.
+
+1Let us build a healthy family environment
+
+In this lesson, you will learn about the promotion of family health and the features of a healthy family environment.
+
+2For Free Distribution.
+
+A family environment must be a place where everyone can be happy.
+
+A healthy physical, mental and social environment is vital for a healthy family environment. Let us learn about the features that are necessary for the promotion of a healthy physical, mental and social environment.
+
+Features of a healthy family environmentPhysical environment
+
+The following features should exist in a good physical environment: 1. Fresh air2. Clean water3. Healthy food4. Sanitary facilities5. Clean environment6. Sufficient space7. Tranquillity8. Being free of the danger of accidents
+
+1.Fresh airWhen building a house, the compound and the doors and windows should be so designed as to allow fresh air in to the house. Growing trees in the compound will provide fresh air and maintain temperature. Burning of substances such as polythene and plastic should be avoided as it produces gases harmful to health. Diseases in the respiratory system can be caused by breathing polluted air. Therefore it is important that we have fresh air in our homes.
+
+2.Clean waterBy drinking clean water infectious diseases such as diarrhoea can be avoided. Boiled and cooled water should be used for drinking. Some toxic chemicals and germs can be removed by using filters.
+
+Figure 1.1
+
+3For Free Distribution.
+
+3. Healthy foodFood containing excessive amounts of sugar, salt and oil should be avoided as far as possible. Greens, fruits and vegetables should be included in our daily meals. In the case of pregnant mothers and children with special requirements, care should be taken to prepare food rich in protein and minerals. You who are now going through your adolescence, should be particularly mindful to eat food containing more iron and protein. Nevertheless, a balanced healthy diet is important for every family member.
+
+4. Sanitary facilitiesThe environment can be kept clean by having good drainage systems, proper sanitary facilities and good garbage disposal systems. Cleaning the toilet daily using an antiseptic will help in preventing diseases.
+
+5.Clean environmentBreeding sites of dengue mosquitoes can be minimized by cleaning the house and the compound at least once a week and destroying sites of water collection. We can also prevent the propagation of rats and destroy places where reptiles could live in. A tidy environment will minimize accidents. A pleasant environment will bring mental satisfaction.
+
+6.Sufficient spaceThere should be a sufficient number of bed rooms and other necessary facilities adequate for the size of the family. This will help to get fresh air and create a pleasant environment.
+
+7.TranquillityIt is always good to maintain a tranquil environment at home, free of unnecessary noise. When listening to the radio and watching television , one should maintain the volume of sound at a suitable level, being mindful not to disturb the neighbours.
+
+8. Being free of the danger of accidentsMost domestic accidents result due to ignorance, carelessness and mistakes. Therefore such accidents can be prevented by acting with awareness and taking proper care. Following are some examples for minimising such accidents:
+
+• Maintaining electric wires and plug bases with proper covering.
+
+4For Free Distribution.
+
+• Constructing safety walls or fences around dangerous places like wells.• Keeping the home environment clean
+
+Mental environment
+
+Creating a pleasant environment free of harassment and exploitation where one can recognize one's talents and face challenges successfully, is important for health promotion. The following factors are necessary for this.
+
+1. Love2. Protection3. Relaxation
+
+LoveLove and strong bonds should exist among the members of a family. Wherever you live, even in a hostel or a children’s home, it is important to maintain strong bonds and love with the fellow members and guardians. Family bonds create an environment where every member of the family treats one another with love, inquires about the needs of other members and treats problems of other members as their own.
+
+ProtectionLove, protection and security are received by all members of a family living together. You need the protection and the security of your parents or guardians during your childhood.
+
+RelaxationWhen leisure is spent in a productive manner, many things such as knowledge, creativity, enjoyment and physical fitness improve significantly. Reading, building a small library at home, watching or
+
+Figure 1.2
+
+5For Free Distribution.
+
+listening to selected television or radio programmes and discussing about them, participating in games and engaging in activities with members of the family are some productive activities which you can engage in, during your leisure. When there is love, protection and relaxation, one will not experience stress. Such an environment will not leave room for harassment.
+
+You will learn more about love and protection in the next chapter.
+
+Social environment
+
+The different groups in our society can be collectively identified as the social environment. Some of these groups are family, hostel, school, friends, work place and village. An environment where people mutually help each other, exchange ideas and have recreational facilities, is important for the promotion of good health.Mentioned below are a few features of a good social environment.
+
+1. Good interpersonal relationships2. Fulfilment of duties and responsibilities 3. Productive communication 4. Discipline5. Unity and respect
+
+Good interpersonal relationshipsThis refers to the maintenance of good relationships with different people we meet in our day to day life while helping each other. Maintaining good relationships with the members of the family, neighbours, relatives, friends and other groups of people, will make us happy.
+
+Figure 1.3
+
+6For Free Distribution.
+
+We must set aside at least half an hour each day to have friendly discussions with all the members of the family. Discussing what took place at school or at the work place, inquiring about matters of interest and mutual understanding will make family ties stronger. Living in such a family environment will bring happiness to every one. You also have a role to play in avoiding arguments and punishments at home. Not only at home, wherever you live, you should try to live in such a way that bring happiness to the others living with you.
+
+Duties and responsibilitiesFulfilling one's duties and responsibilities towards the family and one's neighbours, is a sign of a healthy family. You should also share responsibility and perform duties to the extent you can.
+
+Productive communicationClear communication among members of the family help to avoid or solve disputes.
+
+DisciplineYour parents or guardians lay down simple rules for your conduct in the family. Observing such rules will ensure you a good future. There can be various rules within a family.
+
+Unity and respectWorking together in unity should always be encouraged not only within the family, but also at school and village level. Developing leadership qualities, respecting the leadership and understanding others will facilitate this.
+
+7For Free Distribution.
+
+Let us put it into practice
+
+At a time when all your family members are free, get everyone together and speak to them for three minutes on a chosen topic. Let the others give feedback to your speech referring first to what is good about it, followed by suggestions if any, for improvement. Do the same exercise the next day with someone else. You can do this with your friends as well.
+
+Spiritual environment
+
+A healthy spiritual environment will promote physical and mental health. The following can be observed in the conduct of the people in such a society.• Engaging in religious activities both at home and at religious institutions• Helping the needy• Showing kindness to animals• Engaging in suitable meditation• Engaging in Yoga Exercises• Protecting nature
+
+Steps taken to promote family health
+
+Family health promotion can be done under five main themes. 1. Establishing policies regarding health2. Developing skills and knowledge on good health3. Creating a healthy environment4. Obtaining the support of the community5. Making proper use of the health services provided
+
+Figure 1.4
+
+8For Free Distribution.
+
+Establishing policies regarding healthAll the members of the family should discuss and agree upon establishing policies to promote the family health.
+
+eg: • Use the 3 R concept to manage waste
+
+Figure 1.5
+
+3R
+
+Reduce (the amount of waste)
+
+Reuse
+
+Recycle
+
+• Categorizing and disposal of waste according to its nature• Minimizing the use of polythene• Limiting the intake of sugar and salt A 400g Packet of salt for a family of 4 for 20 days. (5g per person per day) Only 2 tea spoons of sugar per person per day• Instead of carbonated ( bubbling) drinks, consume fresh fruit juice, tea, coffee or herbal drinks.• Washing clothes every other day and ironing clothes altogether once or twice a week in order to save water and electricity • Engaging in an out door game with all the members of the family
+
+Let us put it into practice
+
+Along with your parents, brothers and sisters or guardians decide on some policies suitable to your family which would help to promote health.
+
+9For Free Distribution.
+
+Developing skills and knowledge on good healthThe knowledge gained at school and from books, magazines, papers etc. should be shared with the members of your family or living place.
+
+By getting information from the Public Health Inspector (PHI) and the Public Health Midwife (PHM) of your area and listening to health programmes, you can develop your knowledge and skills on health.
+
+Creating a healthy environmentRecall what you have already learnt about the features of a healthy home environment. By organising the home environment accordingly, you can create a healthy family environment.
+
+Let us put it into practice
+
+Discuss the modifications you should introduce to the existing physical, mental and social environments of your family to improve family health.
+
+Obtaining the support of the community Community support is getting the support of various people in the society. This support is essential to maintain good health of a family and society. Participating in community programmes, sharing joy and grief with neighbours and helping neighbours when they are in distress are very important.
+
+It is also important to maintain contact with religious places, the school and the Grama Niladari (village officer).You can organise shramadana campaigns and public awareness programmes on prevention of alcohol, narcotic drugs and smoking.
+
+Figure 1.6
+
+10For Free Distribution.
+
+Making proper use of health servicesThe community health services are useful in improving the health of the family. The service of the Public Health Midwife (PHM), the Public Health Inspector (PHI) and the Medical Officer of Health (MOH) are useful in this regard. Other than these people, hospital facilities are available to get treatment for various diseases.
+
+To make the best use of the health services available to you, follow the instructions given below:
+
+• If a member of your family has an infectious disease, inform the PHI. • If a member of your family is pregnant, inform the PHM and get her assistance.
+
+• Remember to get vaccinations on time and get information from PHM.
+
+• Provide assistance to organize programmes to solve health problems in the village. eg: Eradication of Dengue Prevention of smoking Obtaining clean drinking water
+
+• Being screened for common illnesses and attending clinics regularly. eg: School medical inspection Well - women clinics Diabetes and high blood pressure clinics
+
+• Obtaining correct health advice
+
+• Getting advice on nutrition, reproductive health, life skills etc.
+
+11For Free Distribution.
+
+Things that you can do as a student to maintain a healthy family environment
+
+1. Fulfil your responsibilities towards the family • Share the day to day work of your household eg: Sweep the compound Arrange your room Help to prepare food• Actively participate in functions• Maintain good relationships with parents, siblings, relations, friends and close associates.• Discuss problems with parents openly.
+
+2. Follow correct food habits • Avoid skipping breakfast• Get into the habit of eating home- made food
+
+3. Avoid smoking, consuming liquor and narcotic drugs• Make family members aware of the ill-effects of these• Guard yourself against attempts by others to get you involve in such acts and if it happens, inform your parents/teachers.• Protect your siblings from getting involved in these types of activities
+
+4. Spend your leisure time constructively • Engaging in aesthetic activities - singing, dancing, playing a musical instrument and drawing• Engaging in literary activities - writing and reading short stories, poetry, etc• Engaging in gardening• Exercising or engaging in sports
+
+Figure 1.7
+
+12For Free Distribution.
+
+5. Convey health messages to the family• Share the latest knowledge with the family• Dispel the wrong ideas and myths entertained by the family members
+
+Now we know....
+
+Promotion of family health is important to build a healthy society.
+
+The features of a healthy family environment can be classified under physical, social and mental environments.
+
+Measures to promote family health can be discussed under five main themes of establishing policies regarding health, developing knowledge and skills on good health, creating a healthy environment, obtaining the support of the community and making proper use of health services.
+
+As a student you must contribute in various ways to build a healthy family.
+
+Let us test our knowledge
+
+1. What is health promotion?
+
+2. List the features of a healthy environment classifying them under the headings of Physical, mental and social environments.
+
+3. What are the five themes under which promotion of family health can be discussed?
+
+4. Mention five of your duties and responsibilities as a student in building a healthy family environment.
+
+13For Free Distribution.
+
+The things that we need, in our day to day life, are known as human needs. Food, water and air are considered as the basic needs. Apart from these, there are many other secondary needs. Out of the many different needs that we come across in our lifetime, mental needs such as love and protection play an important role.
+
+In grade 6 you learned basic needs, other needs and the difference between needs and desires.
+
+In this lesson you will learn about the need for love and protection.
+
+Let's understand what love and protection is
+
+"Akka... Is the principal of your school strict?...Akka ...''
+
+"No Malli, the principal is good. The other teachers also love the students... but if you do bad things, they do get angry and will scold"
+
+This is a part of a conversation between Chamara just getting ready to be admitted to school and his sister Sarojini.
+
+Let us read more of their conversation.
+
+Chamara: Won't they allow mother to stay in school ?
+
+Sarojini: No... Malli, mothers and fathers can't stay in school. Father has to go to work, mother has work at home.
+
+Chamara: Now I feel I can't go to school...Akka...I am afraid I will be lonely. I will tell Amma that I don't want to go to school.
+
+2Let us experience love and protection
+
+14For Free Distribution.
+
+Sarojini: You can't say that Malli. We learn a lot of things in school. The other thing is that the teachers in school love the children. They will not leave you alone either. They look into your problems. A few days ago Nimini slipped and fell. Our teacher carried her and ran to the sick room. It reminded me of the care of our mother. Tears came to my eyes. In the first few days I too felt that I didn't want to go to school. But now I feel that the school is just like home.
+
+Amma:Ah!... I was looking for both of you. What is Chamara saying? Chamara: No mother....I feel I can't go to school. I'm scared. There won't be anybody for me. I am wondering whether the people in school will love me like my mother.
+
+Amma:Son, why do you say that? Aunt Nandani's son is in the same class as you. Not only that your sister is also in the same school. I too will take you to school and come to bring you back. Chamara: Amma...Then you must come early and stay near the gate. Ah!... Amma shall we go to Isuru's house today?
+
+Sarojini: Ha... Ha... That's good. I will come too...I will come too. Then I can play with Nimali. I can get that book of pictures too.
+
+Amma : That's good... When father comes we will all go to Isuru's house. Let's take the guavas we plucked yesterday and some rambutan. We can go to the temple on our way back and stay for the "Bodi Poojawa".
+
+15For Free Distribution.
+
+In the conversation between Chamara, Sarojini and their mother we can see two reasons why Chamara did not like to go to school. " I will be lonely, I will not get the love".
+
+• Fear that Chamara will not get love• Fear that he will lose protection
+
+Love
+
+Do you remember that in the first lesson we learned that love, protection and relaxation are required to have a healthy mental environment?
+
+There we discussed about the love arising out of the strong bonds among the family members. There are times when we don't realise the value of the love that we get from our parents, brothers and sisters. Do you remember the first day you went to school? Your mother, father or guardian may have taken you to school. When you were handed over to the class teacher, how much did you cry?
+
+Yet, while you were crying, they left you in the class and went out, didn't they? In spite of your dislike to stay, your parents left you so that you may learn well and become a good child.
+
+Figure 2.1
+
+These are the ideas that Chamara expressed.
+
+16For Free Distribution.
+
+You may now realise that they did that for your own good. There are certain things that our parents do, that we see differently. We must try to understand what they do and why.
+
+Do you remember an instance when you or your sister or brother fell ill? At such a time your parents or even your guardians would have been near you and looked after you both day and night even without sleeping. They may have sacrificed their time and energy without eating and spent sleepless nights.
+
+The bond, affection and the closeness that exist among each other is known as love. You may have realised by now that when you were a small child, or now during your adolescence or when you are growing older and reaching adulthood, the parents' love, affection and bond won't change.
+
+Such mental bonds are required in our life. So, love can be considered as a mental requirement.
+
+Love is a mental requirement that is essential not only during childhood but also in all ages.
+
+From your childhood you require not only love and affection of your parents, brothers and sisters but you also need the love of friends, teachers and neighbours.
+
+Think about the strong bond, love and affection between your parents which is so important not only for them but also for you. Your grand parents will be very happy if you return the love in the same way that they love and care for you.
+
+17For Free Distribution.
+
+Protection
+
+Not only humans, but even animals make big sacrifices to protect their offspring.
+
+Figure 2.2
+
+In our daily life it is difficult for us to do all our work by ourselves. In the same way there are instances when we can't take decisions on our own. Other than that, problems and obstacles crop up when we least expect. At a time like that we need the help and assistance of others. If there is no one to help you out at those moments, you feel lonely and sad, won't you? Think about how we get the protection of our parents at home. When children have fights with their brothers and sisters, they usually run and hide behind their parents. They do that because they feel that they have protection there. When someone in school scolds you or shouts at you, you run to your class teacher - don't you? That is because they provide you with the necessary protection.
+
+We feel secure when we know that there are others to help and protect us. This is an important mental requirement. It is your responsibility to be honest to your parents and teachers as they provide the necessary protection to you.
+
+You may have seen your parents protecting you saying "My child doesn't do anything wrong." By safeguarding that trust you can maintain the respect of those who provide you protection.
+
+18For Free Distribution.
+
+By now you would have identified two important mental requirements. They are love and protection. You may have understood that both these requirements are provided to you by your parents. Other than our parents let us see who are the others who could provide us these requirements.
+
+Let us put it into practice
+
+Make a list of people who would provide you with love and protection.
+
+People who give us love and protection
+
+The people who give us love and protection can be classified into two main groups.
+
+1. Family members 2. External persons
+
+Family members
+
+The family consists of parents and their children living together as a unit. In ancient times the villagers mainly lived with their extended family, but today we find more of the nuclear family environment. The members of the family give us love and protection.
+
+Figure 2.3
+
+19For Free Distribution.
+
+Let us learn more
+
+Nuclear family
+
+Mother
+
+Father
+
+Brothers elder/younger
+
+Sisters elder/younger
+
+Extended family
+
+Grand mother/father
+
+Uncles and aunts
+
+Earlier in this lesson we learned about love and protection given by family members such as parents. By now you may have understood the members in a family, other than mother and father.
+
+Love, affection, care and protection given to you by your sisters and brothers should be given back to them in the same way.
+
+Sometimes you may be going to school with your elder brother or sister. Or else your younger brother or sister may be going to school with you. Think of the advice given by your mother to your elder brother or sister every morning.
+
+" Look after your younger brother/sister well, all right?"
+
+The same way when your parents go out shopping or elsewhere when you are at home, they may advise you to look after your younger sister as follows
+
+Figure 2.4
+
+20For Free Distribution.
+
+" We will come soon... till then look after your younger sister ..."
+
+You may often hear your parents saying things such as " serve some rice for your younger brother". This kind of love, affection, protection and understanding should prevail within the family, among each other.
+
+Apart from this, in an extended family you may have your grand father, grand mother and your uncles and aunts living together with you in the same house. You receive much love and affection from your grand parents. They give you protection as well. Most parents in our society go for work and return late in the evening. Some parents have gone abroad for employment. In such situations the children very often live under the protection of their grand mother, grand father, an uncle or an aunt. We must look into the requirements of the other members of the family who live with us. Each individual differs from another and their thoughts and feelings too are different. Think of an instance when you watched television in your house. When your parents want to watch the news telecast you may have the desire to watch a teledrama on a different channel. If your grandparents are there, they may want to listen to a religious sermon. Above all of them, your younger brother may be wanting to watch a cartoon series on yet another channel. When complicated issues like this arise, you will have to understand the situation when living together under one roof. You will have to understand the wants and desires of everyone in such situations. There can be differences like this, when it comes to preparing food at home. There can be differences with regard to the type of food each one likes and how it should be prepared. If you learn to appreciate such differences from your young age, the bonds and the love towards each
+
+Figure 2.5
+
+21For Free Distribution.
+
+other will become very strong. Therefore each member of the family has to make some sacrifice for the sake of the others.
+
+External persons
+
+Those who do not live in our home, but have some connection with the daily affairs of the family are known as external persons.
+
+Let us put it into practice
+
+Make a list of those who help you in your daily affairs other than the members of your family
+
+Compare the list made by you with the following list.
+
+NeighboursPeer groupsTeachers Members of the school non-academic staffReligious leaders(priests) Officers of private and government institutes
+
+Neighbours Apart from family members we have to associate with our neighbours frequently. In rural environments most of the people are related with each other. Even if they are not related, they happen to be people closely united and known well by each other.
+
+The situation in urban environments is somewhat different. Sometimes they don't even know who their neighbours are. Even though they may associate with each other, such associations may not be strong.
+
+Figure 2.6
+
+22For Free Distribution.
+
+Whatever it may be, you may have realised that maintaining good relationships with your neighbours is essential for the fulfilment of your psychological needs of love and protection. Therefore, it is important that we help and fulfil our duties towards the elders and others who live around us and treat them with respect.
+
+Peer groupsPeer groups are girls and boys of the same age who associate with us both at school and elsewhere. They are our friends. Those who studied with us at pre-school may still be studying with us in the same or a parallel class. In addition, those who are studying in a grade immediately above or below of yours and children from other schools whom you may have met at Sunday school or any other class or at a place of worship are also regarded as members of a peer group.
+
+Members of a peer group talk freely with each other. We tend to talk with them about our difficulties, problems and things we don't understand. The reason for this is the belief that we find love and protection among the children of the same age group. However it is possible that the advice you receive from members of the peer group may not be correct due to their lack of experience and immaturity.
+
+Therefore it is best that you turn to your parents or an adult in the family or to one of your teachers for advice with regard to any problem.
+
+You may find among your peers that some have wrong views, bad conduct and some are engaged in wrong deeds for various reasons. You have to be intelligent enough to select friends who are sincerely concerned about you. If possible, you should try to get your misguided
+
+Figure 2.7
+
+23For Free Distribution.
+
+peers back on the right path with the assistance of your elders, parents and teachers whenever it is necessary.
+
+Teachers and the non academic staffOther than your home, the main institution that provides you love and protection is your school. You meet many people at school. Those in higher grades and lower grades than you, are like your elder/younger brothers and sisters. Without our knowledge we get protection while in school as there is always some one around. Have you realised that you receive love and protection from such children and that you give it back to them in turn?
+
+TeachersOur teachers love us at school as much as our parents love us at home. The class teacher treats you like his/her own child.
+
+" I will be very proud if my children grow up to be good citizens." You may have heard such statements by your teachers many times. The other teachers of the school and the principal always think about a bright future for you and you always have their love and protection. Therefore you can win their hearts by behaving well without hurting them. Sometimes you may have faced minor punishments at school. You should know that all is for your own benefit.
+
+There are also other people you meet at school. They are the clerks, office employees, janitors and minor employees. They are all part of the school. They also contribute to our education and protection indirectly.
+
+Figure 2.8Figure 2.8
+
+24For Free Distribution.
+
+Various other peopleWe come across many other institutions and people in the society apart from those in the family and school. For example at places of religious worship we meet priests and other clergymen/women who treat us with a lot of love and affection. Do you remember the love and affection shown by them at the Sunday school? They provide you with love and protection while teaching you how to be a good citizen.
+
+There are many institutions that fulfil our daily requirements. Hospital, police station, post office and other government and private institutions and individuals working in those institutes provide a great service to you. They are bound to serve you. You will learn more about these in the upper grades.
+
+Let us put it into practice
+
+Make a list of institutions and people who provide us with services other than those at home and school.
+
+Some duties and responsibilities to be fulfilled by you to receive love and protection
+
+Up to now we discussed about the love and protection we get from others. When we do not get love and protection we expect from them, we feel sad and disappointed. The same way if we fail in our duty or commitment by another, they too feel sad and disappointed.
+
+As members of the society there are many obligations and duties that we have to perform for the benefit of others. When we discharge such duties and responsibilities without failing, we will also get love, affection and protection we require.
+
+25For Free Distribution.
+
+Following is a list of such duties and responsibilities of yours;
+
+• Being obedient to parents and elders• Respecting elders and parents• Being obedient to teachers, the principal and the rest of the staff at school• Observing rules and regulations relating to discipline at school• Treating peers and students in upper and lower grades with respect• Helping others• Respecting the views and ideas of others• Listening to others' view points patiently• Being sensitive to problems of others• Being happy at and appreciating the victory of others• Fulfilling the requirements of other members of the family• Working in harmony with the neighbours• Giving love, affection and protection to others• Protecting public property
+
+Harmful effects of not receiving love and protection
+
+Deprivation of a person of the human need of love and protection can give rise to many harmful consequences both at personal and social levels
+
+Some of those are as follows¦• Unhappiness and disunity in the family • Weakening of relationship between parents and children• Conflicts among brothers and sisters• Living at home becoming unpleasant• Dislike of school• Disruption of education• Becoming unpopular among others• Becoming offenders/convicts
+
+Figure 2.9
+
+26For Free Distribution.
+
+• Losing good qualities• Deterioration of discipline in the country• Living in doubt and fear• Economic losses• Getting addicted to bad habits• Frustration
+
+Let us be vigilant
+
+How can you protect yourself at times when there is no one else to advise you? You will recall what you learnt in grade 6 about what you can do to protect yourself against abuse. Sometimes it is difficult for us to know whom to trust. You must not forget that there can be bad people among those who we may trust, who may pretend to love and care for us. There can be people who may put you in trouble or attempt to get you involved in bad things while pretending that they love you and that you can rely on them. Therefore you have to be always careful, mindful and tactful. Remember that it is your parents or guardian who are/is most suitable and close to you for you to discuss your problems. In case you need further help, contact a recognised social welfare institution set up to help you. eg: Suwa Sariya - 0710107107 Yowun Mithuro - 0112850986
+
+Now we know....
+
+Food, water and air are considered as basic human needs. Other than that out of various other needs, love and protection are two important psychological needs.
+
+Those who are concerned with love and protection can be divided into two groups as family members and external persons.
+
+27For Free Distribution.
+
+As much as love and protection given to you, you in turn must give to others.
+
+There are many duties on your part to maintain love and protection in the society.
+
+Let us test our knowledge
+
+1. Identify if each of the following statements are true () or false (X)
+
+i. Love and protection are psychological needs. ( )ii. Non-fulfilment of psychological needs affects education ( )iii. It is the duty of everyone to respect others ( )iv. Love and protection are limited to one's childhood only ( )v. You must be happy if another gets the victory you didn't get ( )vi. You can provide love and protection to others without an expense ( )vii. Fights at home among family members may result in mental stress ( )
+
+2. List five duties you can perform in order to maintain love and protection in the society
+
+3. List two harmful social effects of not receiving love and protection
+
+28For Free Distribution.
+
+The benefits you get by participating in games and outdoor activities during your leisure, are numerous. Increased physical activity, reduction of stress, freshness of mind, joyfulness, law-abidingness, patience, fairness, having a good sense of responsibility, willingness for team work and leadership are some of these benefits that help in the development of one's personality.
+
+Folk games are games that have been popular within a particular society for many generations. Their development is influenced by the social, religious, cultural and economic backgrounds of the society.
+
+In grade 6 you learned about engaging in minor games in order to enjoy yourselves.
+
+You will get the opportunity to learn some folk games and play a few after this lesson.
+
+Pancha keliya and Nerenchi edimaFigure 3.1
+
+3Let us engage in folk games
+
+29For Free Distribution.
+
+The importance of folk games
+
+Since folk games are in harmony with culture, people naturally find it easy and enjoyable to participate in them. Folk games also strengthen your feelings for your nation and make you value and protect your cultural heritage. Unlike games from foreign countries which may need expensive sports equipment, locally available, inexpensive equipment can be used for folk games.
+
+Common features of folk games
+
+• Simplicity• Brings joy and happiness• Participation is easy• Equipment required is minimum and inexpensive• Competition is much less• Allows group participation• Existence of a religious or cultural background• Makes no discrimination based on gender in most games• Has an aesthetic touch• Brings physical and mental relaxation• Creates unity
+
+Types of folk games
+
+Folk games can be divided into two groups1. Outdoor folk games 2. Indoor folk games
+
+Folk games can be further grouped according to the type of participation,equipment required and other factors.
+
+30For Free Distribution.
+
+• Games without equipment• Games with equipment• Pair games• Group games• Adventurous games• Women's games• Children's games• Youth games• Games associated with agriculture• Games associated with dancing • Games associated with religion• Games associated with invoking blessings
+
+Table 3.1 Outdoor folk gamesIndoor folk gamesWith equipmentMewara keliyaKoppara koppara pipingyaMee kadimaPorapol gasimaMatta keliyaPulliyar gasimaLee keliyaGini pagima(fire walking)Amba eta panima(Hop scotch)
+
+With equipmentOlinda keliyaDolos keliyaPancha keliyaChathuranga keliyaDan edimaGal pelimaSonaru peththaSeega keliyaNerenchi edimaWithout equipmentGudu PanimaThaachchi PanimaEluwan kemaGas kotu PanimaIniweta peralima
+
+Without equipmentAth hangima (hiding hands)
+
+Figure 3.2
+
+Lee keliya
+
+Pora pol gasima
+
+31For Free Distribution.
+
+Let us put it into practice
+
+Write an article to the newspaper about a folk game in your area with the help of an adult
+
+Folk games that can be seen during the new year season
+
+• Pancha damima• Nerenchi edima• Olinda keliya• Eluwan kema• Wala kadju gasima• Kili thattu• Kitti pullu• Vaar ottam• Raban gasima• Onchili pedima
+
+Coppara Coppara Pipingya
+
+This game which can be played by more than ten participants is mostly seen in villages. It's mostly played by children. They sit in a circle and one child carrying a twig walks round the circle.
+
+The seated children and person going round chant alternatively;
+
+Figure 3.3 - Raban gasima
+
+Figure 3.4 - Coppara Coppara Pipingya
+
+32For Free Distribution.
+
+Those seated in the circle : Coppara Coppara PipingyaThe person going round : Passa baluwoth desanya
+
+Those seated in a circle : Ko nano panawa The person going round : Yata leeye panawa
+
+those seated in a circle :Kalagedi? Kalagedi?The person going round : Bothala? Bothala?
+
+The person going round the circle quietly places the twig behind one of the persons who are seated. The person behind whom the twig was left, chases the person who was going round and tries to hit him with the twig. If he is unable to catch the person, the person who was going round will complete the circle and sit down. If any of the persons who are seated look back they too get a blow. The person who gets the blow is the next to walk round.
+
+Iniweta Peralima
+
+This game is like cattle breaking through a strongly built fence. One team forms a fence by holding hands of each other. The other team acting like cattle claps and sings their part of the song given below and moves forward. The children who form the fence give their reply with their part of the song.
+
+Cattle : Ahasata inimang badina gonek atheFence : A lakune gong apa dutuwe natheCattle : Bandiye ralage gong banak athe Fence : A lakune gong apa dutuwe natheCattle : Amberum galayata gombanak atheFence : A lakune gong apa dutuwe natheCattle : Thambili walla gene yanna gonek atheFence : A lakune gong apa dutuwe natheCattle : Karate udin panalaya ada yanne Fence : Avata mokadei yanna no dennei
+
+33For Free Distribution.
+
+After singing the song the cattle team say "ottui"(ready) and simultaneously they try to topple the fence. The fence team tries their best to protect the fence.
+
+If they topple the fence by any chance, the cattle team wins the game.
+
+Mewara keliya
+
+A few of the girls in the game go outdoors and hide a bangle. They huddle around the place while trampling it with their right foot. One or two others come and go round the group singing a song inquiring about a lost bangle. The other group swear that they have not seen any such thing.
+
+Those in round : Sare sadisi pethi pera nelana kala wala giyado mage mewerayaOthers: Nano numba pal numbe daruwan pal ape dutuwe nathe mewarayaThose in round :Koswathukande kos kadana da wala giyado mage mewaraya Others: Nano numba pal numbe daruwan pal ape dutuwe nathe mewerayaThose in round :Mungwathukande mung kadana da wala giyado mage mewarayaOthers: Nano numba pal numbe daruwan pal ape dutuwe nathe mewarayaThose in round : Kahawathu kande kaha kotana da wala giyado mage mewerayaOthers: Nano numba pal numbe daruwan pal ape dutuwe nathe mewerayaThose in round :Kotana polana kala pol ambarana kala wala giyado mage mewerayaOthers: Nano numbe pal numbe daruwan pal ape dutuwe nathe mewareya
+
+34For Free Distribution.
+
+Those in round :Kalei gosilla dara kadana da wala giyado mage mewerayaOthers: Nano numbe pal numbe daruwan pal ape dutuwe nathe mewerayaThose in round :Nanna yana thena naana thenedi wala giyado mage mewarayaOthers : Nano numba pal numbe daruwan pal ape dutuwe nathe mewarayaThose in round :Ala wathukande ala kotana da wala giyado mage mewarayaOthers: Nano numbe pal numbe daruwan pal ape dutuwe nathe mewarayaThose in round : Lindata gohilla wathura adina kala wala giyado mage mewarayaOthers: Nano numba pal numbe daruwan pal ape dutuwe nathe mewerayaThose in round : Gedera wate athugagena yana kala wala giyado mage mewerayaOthers: Nano numba pal numbe daruwan pal ape dutuwe nathe mewerayaThose in round : Menna methanadi me sabayedi wala giyado mage mewerayaOthers: Nano numbe pal numbe daruwan pal ape dutuwe nathe mewaraya
+
+After singing the song one or two of those who were going round shout "Ottui"(ready) and then bend to pick the bangle. At the same time the others bend to pick the bangle. When every one struggles to take the bangle a lot of time is spent. As the others who keep trampling the bangle stay huddled together, they take time to bend. However whichever group is quicker picks up the bangle. Those who get the bangle win.
+
+35For Free Distribution.
+
+Interesting folk songs for some common folk games
+
+Ath hangeema (hiding hands)
+
+This folk game that does not need any materials can be played by two.
+
+Athuru mithuru Dambadiwathuru rajakapuru settiya Alutha gena manamalita hal pathak garala Ihalagetath bedala , pahala getath bedala Kukula kapa dora mulle, Kikili kapa weta mulle Athak ganing settiyo
+
+Olinda keliya
+
+Olinda thibenne koi koi deseiOlinda thibenne Bangali desei
+
+Genath sadanne koi koi desei Genath sadanne sinhala desei
+
+Gasata palachchada bola koi neno Gasata palachchai kiru budu neno
+
+Karal sedichchada bola koi nenoKaral sedichcai kiri budu neno
+
+Ek pethi wechchada bola koi nenoEk pethi wechchai kiri budu neno
+
+Figure 3.5 - Hiding hands
+
+Figure 3.6 - Olinda keliya
+
+36For Free Distribution.
+
+Depethi wechchada bola koi nenoDepethi wechchai kiri budu neno
+
+Thun pethi wechchada bola koi nenoThun pethi wechchai kiri budu neno
+
+Eluwan kema (goat game)
+
+Eluwan kannai mang awe - elu beti kaapang thun deereiSaawun kannai mang awei - sa beti kaapang thun deereiGonun kannai mang awei - a beti kaapang thun deereiMuwan kannai mang awei - a beti kaapang thun deereiMe wela mokado - dam wela,Me wela mokado - kiri wela,Me wela mokado - kinda wela,Me wela mokado - madu wela,Udin panin - thalla kadei,Yatin ringan - timbol anei,Me putu kagei - bandarei Me anda kagei - bandareiMe bath kagei - bandareiMe kande kagei - bandarei
+
+Ge goma gala gath mage eluwaNumbata kohinde mage eluwaDaranuwa deela gath mage eluwaNumbata kohinde mage eluwa
+
+Ilapatha deela numbata koindo Appa deela numbata koindo Aiya deela numbata koindo Ira gala deela numbata koindo Sanda gala deela numbata koindo
+
+Figure 3.7 - Eluwan kema
+
+37For Free Distribution.
+
+Onchili warama (song of the swing)
+
+Mithuru menumba apa ekwa siyallaKathuru leseta benda ran onchillaNathara lamin guwane onchillaMewara padimu api ran onchilla
+
+Thatuwa udin sita benda onchillaPita pita peguwe ek kerakillaWata pita siti aye balaa sitillaAta dena ata kona wadi weyalla
+
+Udama udama weda okkome welleWasina wasina wesi e gala palleDuwana duwana naw samudura elle Apith padimu den ran onchille
+
+Ata dena ata kona wadi w eya llaSita gena dennek polu pagallaWawlan lesa kerakena onchillaApith padimu den ran onchilla
+
+Padina kalata angano onchillaAndina saluwa thada kara enda gallaThadina athin wela alla gallaSondina warala benda gena padapalla
+
+Let us put it into practice
+
+Ask your teacher about the folk games 'pancha dameema', 'walakadju gaseema' and 'thaachchi panima'. Engage in these games with your friends.
+
+Figure 3.8 - Onchili warama
+
+38For Free Distribution.
+
+Now we know....
+
+Folk games are games that have developed in certain religious, cultural and social settings.
+
+Folk games are both simple and aesthetic and can be played in groups thus creating not only fun but also unity.
+
+Folk games can be classified in many ways including indoor and outdoor games, games with equipment and without equipment and in accordance with the composition of the teams taking part in them such as pairs, groups, etc.
+
+Let us test our knowledge
+
+1. Write five common features of folk games.
+
+2. What are the two types of folk games according to the place where they can be played?
+
+3. Name four types of folk games.
+
+4. Name four folk games that are commonly played during the Sinhala Tamil new year.
+
+5. Write four advantages you get by playing folk games.
+
+39For Free Distribution.
+
+Volleyball which is the national game of Sri Lanka is a popular sport in all schools. All over the world both men and women play this game.
+
+In grade 6 you learned about ball handling and footwork in volleyball and many activities connected therewith.
+
+Out of the skills in volley ball, the two skills, serving and receiving take place at the beginning of the game. We will learn about under arm service and under arm receive in this lesson.
+
+Figure 4.1
+
+Skills required in volleyballThere are six main skills in volleyball.
+
+Skills in volleyball
+
+Serving
+
+Receiving Setting Spiking Blocking Field defending
+
+4Let us play volleyball
+
+40For Free Distribution.
+
+Serving
+
+Serving is the sending of the ball, to the opposite side from the serving area in order to start the game.
+
+The two main ways of serving1. Under arm service2. Over arm service
+
+Let's learn the technique of the under arm service
+
+Under arm service
+
+This can be learnt under three stages.
+
+Under arm service
+
+Before touching the ball
+
+Touching the ball
+
+After touching the ball
+
+i. Stage before touching the ball• Place the ball on the palm of your free hand• Place the foot of the same side in front • Move the striking hand slightly behind your body• Balance yourself giving greater weight to the back foot• Look straight while inclining your body forward
+
+ii. Touching stage • Toss the ball a little• Swiftly move the striking hand close to your body and strike the bottom of the ball
+
+41For Free Distribution.
+
+iii. Stage after touching the ball• After striking the ball move the hand forward • Move your back foot forward and keep your balance
+
+Figure 4.2 - Under arm service
+
+Activities related to under arm service
+
+Follow the figures and instructions given below and engage in these activities1. Do the action for under arm service without the ball many times.2. Get into two groups and stand 5 to 6 metres apart from each other. Practise the under arm service by serving the ball to the other team. Move to the back of your line when your chance is over (Figure 4.3).
+
+Figure 4.3
+
+3. The two teams stand about 4 to 5 metres away from the net on either side of it and using the under arm service serve the ball to strike the net (Figure 4.4).
+
+42For Free Distribution.
+
+Figure 4.4
+
+4. The two teams stand on either side of the net, about 5 metres away from it and using the under arm service, serve the ball over the net to the other team and vice versa (Figure 4.5).
+
+Figure 4.5
+
+Let us put it into practice
+
+• Divide one side of the volleyball court into six squares and number them as shown in the figure 4.6• Using the under arm service, aim the ball at the square named by the opposite team.• Repeat after changing sides
+
+43For Free Distribution.
+
+12
+
+56
+
+3
+
+4
+
+Figure 4.6
+
+Receiving
+
+This means receiving the ball served by the opposing team. There are two ways of receiving the ball. 1. Under arm receive 2. Over arm receive
+
+Under arm receive
+
+For easy learning, the under arm receive can be learnt under three stages.
+
+Figure 4.7
+
+44For Free Distribution.
+
+Under arm receive
+
+Before touching the ball
+
+Touching the ball
+
+After touching the ball
+
+i. Stage before touching the ball
+
+• Legs should be kept apart at or about shoulder width and relaxed • Your body weight must be equally borne by both legs• Bend your knees slightly inclining your body forward.• Keep your hands on either side of your body and the eyes on the moving ball• Keep your body relaxed
+
+Figure 4.8 - Before touching the ball
+
+ii. Touching stage
+
+• Fully stretch both hands keeping them together as shown in figure 4.9• The muscle area in the lower part of the hand should be kept completely relaxed• Lower the hands from the wrists• Rise as you make contact with the ball with the hands• Control your hands according to the speed of the ball and hit it upwards.
+
+45For Free Distribution.
+
+Figure 4.9 - Touching the ball
+
+iii. Stage after touching the ball
+
+• After attacking the ball move your hands back to the sides of your body.• Balance yourself by placing in front either of your feet as convenient
+
+Activities related to under arm receive practice
+
+Engage in the following activities with the teacher's guidance.
+
+1' One has to stay ready to receive the ball according to the under arm receive method. When the other presses the ball on his hands he gets up as shown in figure 4.10
+
+Figure 4.10
+
+46For Free Distribution.
+
+As he/she gets up the other releases the ball (figure 4.11)
+
+Figure 4.11
+
+2. Get into pairs and pass the ball to each other as shown in the figure
+
+Figure 4.12
+
+3. Get into two groups and stand 5 meters away from each other in two lines. Using the correct underarm receiving technique, hit the ball at the player at the front of the opposite team. After your chance is over run to the back of your line. (figure 4.13)
+
+4.12
+
+47For Free Distribution.
+
+Figure 4.13
+
+4. Engage in the above activity in a volleyball court where the net is tied, using the correct under arm receive, lined up on either side of the net. (figure 4.14)
+
+Figure 4.14
+
+Let us put it into practice
+
+Think of different activities to practice the correct under arm service and receive.
+
+48For Free Distribution.
+
+Now we know....
+
+Volleyball is the national game in Sri Lanka. The two vital skills serving and receiving should be practised correctly.
+
+Under arm service for serving and under arm receive for receiving can be explained under several stages.
+
+These skills can be developed using various activities.
+
+Let us test our knowledge
+
+1. Name two methods of serving in volleyball.
+
+2. Explain the three steps of underarm service in volleyball.
+
+3. Explain the three steps of underarm receiving in volleyball.
+
+49For Free Distribution.
+
+Netball is popular among women. At present boys too play this game and male competitions are held. In order to become a good netball player, the correct footwork must be mastered. In addition, by identifying the correct skills and developing them you can enjoy the sport and improve your physical fitness.
+
+You learned certain activities related to ball handling in grade 6.
+
+In this lesson you will learn about improving your skills in footwork.
+
+Figure 5.1
+
+Skills in netballThere are five main skills in netball
+
+Skills in netball
+
+Ball handling Footwork Attacking Defending Shooting
+
+5Let us play netball
+
+50For Free Distribution.
+
+Footwork
+
+Footwork is the correct movement of the feet with the ball in hand. Footwork is important to maintain one’s balance, to move in different directions after landing and to take the ball to the goal area.
+
+Let us learn more
+
+For correct training in foot work, you have to concentrate on improving your skills in the following four activities : • landing with one foot• landing with both feet• swivelling on the balls of the landing foot• throwing the ball while raising the foot used for landing
+
+Landing must be practised after warming up by moving in different directions. The following drills will help you to improve your foot work
+
+Activities to improve footwork
+
+Engage in them, under the direction of your teacher.
+
+1. Run on the spot slowly and stop at the command. 2. Run on the spot, on the balls of your feet and stop at the command.3. Run fast on the spot and stop at the command.4. Run fast and stop instantly at the command.5. Walk backwards and stop instantly at the command.6. Run fast, jump up, land and stop at the command.7. Run jumping over a marked line and stop instantly at the command.
+
+51For Free Distribution.
+
+8. Run forward jumping over a few marked lines and stop at thecommand and land on one foot (figure 5.2).
+
+Figure 5.2
+
+Perform the following drills to practise movement in different directions
+
+1. To the command of your teacher run backward, forward and sideways, that is to the right and to the left non-stop.
+
+2. Bend the knees slightly, stand on the balls of your feet and run forward, backwards and side ways (to the left and the right).
+
+3. Place obstacles and run around them in a zig zag manner (figure 5.3).
+
+Figure 5.3
+
+4. Run to a mark placed on the ground, touch the mark with the foot and then run to the left or to the right.
+
+52For Free Distribution.
+
+Figure 5.4
+
+LeftRight
+
+Mark
+
+Perform the following drills to practise landing
+
+Drills done without a ball
+
+1. Do a run-up, take off with one foot and land with both feet over a line.
+
+Figure 5.5
+
+2. Do a run-up, take off with one foot and land with the other foot over the line.
+
+Figure 5.6
+
+53For Free Distribution.
+
+Drills performed with the ball
+
+1. Land on both feet, keep one foot forward and throw the ball. 2. Jump up with both feet and throw the ball.3. Stay at one place holding the ball, rotate your self on the ball of your landing foot. Move or step with the other foot in the direction you need. (This is called pivoting)
+
+Figure 5.7
+
+4. Land on one foot, pivot and throw the ball
+
+Let us learn more
+
+There is a rule in netball that you should not drag, or slip or bounce using the foot that you have landed on and should not step with the ball.
+
+After you land on both feet one foot is called the free foot. If you land on one foot the other foot is called the free foot. After landing you can move with the aid of the free foot while standing on the ball of the foot used for landing. The weight of the body acts on the landing leg.
+
+Figure 5.8
+
+Landed footFree foot
+
+54For Free Distribution.
+
+In addition to activities done individually there are other activities that can be done in pairs and with the participation of more players. Engage in such activities with the guidance of your teacher.
+
+1. Get three players to stand at the corners of a triangle as shown in figure 5.9. A passes the ball to B. B jumps up, catches the ball and lands, pivots and throws the ball to C. C repeats what B did and passes the ball to A.
+
+2. Two players pass the ball to each other while running.
+
+In netball it is vital to maintain your balance when landing and during footwork.
+
+Let us put it into practice
+
+Perform activities other than the ones given above that will help you to improve your footwork in netball.
+
+Figure 5.9
+
+A
+
+BC
+
+55For Free Distribution.
+
+Now we know....
+
+Netball is very popular among women.
+
+Out of the main skills in netball, footwork is very important to maintain the balance.
+
+Many activities should be performed to practise footwork for landing and moving in different directions.
+
+Let us test our knowledge
+
+1. Mention one of the netball skills you have learnt.
+
+2. List four activities to develop this skill in netball.
+
+56For Free Distribution.
+
+Football is the most popular game in the world. Both men and women play this game. Reports show that day by day there is an increase in the number of people playing football.
+
+In grade 6 we learned about footwork and ball handling in football. By now you may have developed those skills.
+
+In this grade you will learn and practise some methods of kicking and controlling the ball.
+
+Skills in football
+
+Figure 6.1
+
+Skills in football
+
+Dribbling Kicking Ball controlling Heading the ball Throw in Field defending Goal Keeping
+
+6Let us play football
+
+57For Free Distribution.
+
+Kicking the ballThis game is known as football as the ball is being kicked all the time. In order to kick the ball in various directions, different sides of the foot are used, and a few such methods are given below.
+
+1. Kicking with the inner side of the foot2. Kicking with the instep of the foot
+
+Kicking with the inner side of the foot
+
+• Kick the ball with the curved inside part (arch) of the foot. • The free leg should be placed parallel to the ball and a little away. • The eyes must be focussed on the ball.• The weight of the body should be borne by the free leg while the leg used for kicking moves towards the ball.• After kicking the ball, the foot used for kicking must move forward with the ball.• Kick slowly for short distance and hard for long distance.
+
+Inner side - curved inside part of the foot (bottom of the big-toe joint area to the bottom half of the arch of the foot)Instep - surface (outside of the foot)
+
+Figure 6.2
+
+ABC
+
+Inner side
+
+58For Free Distribution.
+
+Let us learn more
+
+Instances where the inner side of the foot is used to kick the ball :• A kick at the goal• A corner kick • A penalty kick
+
+Kicking with the instep of the foot
+
+• Kick the ball with the instep of the foot.• The free foot must be placed parallel to the ball a little away from the other.• The eyes must be focussed on the ball.• The weight of the body must be borne by the free foot when kicking the ball.• The hands should be kept free and relaxed at this moment.• The foot used for kicking must move forward after the kick.
+
+Instep
+
+Figure 6.3
+
+59For Free Distribution.
+
+Let us learn more
+
+Instances where the instep of the foot is used to kick the ball:• Penalty kick• To pass the ball to a player at a distance • To kick a stationary ball hard
+
+Ball controlling
+
+In football to kick the ball hard in the correct direction, the ball must be controlled correctly.
+
+Facts to remember when controlling the ball
+
+• The head, chest, abdomen and legs can be used to control the ball • The sole of the foot, the instep, the inside and outside of the foot, the thighs and the shin are frequently used to control the ball• Should control the ball that coming from above, rolling and re-bounding
+
+The following are a few methods to control the ball.
+
+1. Controlling the ball with inner side of the foot2. Controlling the ball with the instep3. Controlling the ball with the sole of the foot
+
+Controlling the ball with the inner side of the foot
+
+• Control the ball with the curved inside part of the foot. • Take the foot a little backwards as the ball comes into contact with the foot.• Keep the free foot near the ball.
+
+60For Free Distribution.
+
+• Keep the hands relaxed.• Keep the head, knees and leg on a straight line.
+
+Controlling the ball with the instep of the foot
+
+• The instep is used to control the ball coming high in the air.• when the ball comes into contact with the foot, the foot must be moved a little backwards to slow down the ball.• Eyes must be focused on the ball.• The weight of the body must be on the free leg• Keep hands relaxed and free.• Move the trunk of the body slightly backwards.
+
+Controlling the ball with the sole of the foot
+
+• When the ball comes at you from the front, the ball must be con-trolled with the sole of your foot.• Slightly bend the free leg at the knee and place it behind the ball.• Press the ball slightly with the foot as the ball makes contact with the foot.
+
+Figure 6.4
+
+Figure 6.5
+
+61For Free Distribution.
+
+• Keep the hands on either side of the body to maintain balance.• The ball must be stopped in front of the player.• The trunk of the body must be slightly bent forward.
+
+Figure 6.6
+
+Activities for practice
+
+1. The player in front, kicks the ball with the inside of the foot and drives the ball to the other player.The player who receives the ball stops the ball with the inside of his foot.Everyone must practice this kicking and controlling technique.
+
+5m
+
+Figure 6.7
+
+62For Free Distribution.
+
+2. The player in front, kicks the ball using his instep driving the ball to the other player. The player receiving the ball, controls the ball using his instep. Everyone must practice this kicking and controlling technique.
+
+5mFigure 6.8
+
+3. Position yourselves in a zig zag pattern.The player at the front, must kick the ball with his instep to the play-er next to him. The player to whom the ball is passed must kick it to the next player using the inside of his foot after stopping the ball with the sole of his foot. Everyone must get an opportunity to practise this.
+
+Figure 6.9
+
+63For Free Distribution.
+
+Let us put it into practice
+
+Go to the playground with your teacher and practise different activities to improve kicking and controlling techniques
+
+Now we know....
+
+Football is the most popular game in the world.
+
+Out of the many skills required in football, developing skills such as kicking and controlling the ball is important.
+
+There are two methods used for kicking, as kicking with the inner side of the foot and kicking with the instep of the foot.
+
+The inner side of the foot, the instep and the sole are used to control the ball.
+
+These skills can be developed using different activities.
+
+Let us test our knowledge
+
+1. Write two skills you have learnt out of the skills required in football
+
+2. Name two things that you should know about controlling the ball in football
+
+3. Name three methods of controlling the ball in football
+
+64For Free Distribution.
+
+Correct posture is important to lead a healthy life and to maintain a pleasant appearance. Correct posture is keeping each part of the body in correct alignment thus avoiding undue strain on supporting muscles and joints. When you maintain correct posture joints and muscles can coordinate the movements without much stress.
+
+In grade 6 you learned about factors that affect your appearance, correct posture and engaging in your daily activities maintaining a correct posture.
+
+In this lesson you will learn about adopting correct postures in sitting, walking and lying down together with their benefits and the harmful effects of bad postures.
+
+Sitting Correctly
+
+In our day to day life we sit in various ways. The sitting posture will vary according to the situation. eg: During studying When relaxing During religious activities During functions While exercising or taking part in games
+
+7Let us learn correct posture
+
+65For Free Distribution.
+
+Various sitting postures
+
+1. Sitting on a chair2. Sitting astride (with legs stretched)3. Crook sitting4. Kneeling5. Sitting on heels6. Sitting cross legged
+
+Practise the above mentioned postures with your teacher's guidance.
+
+1. Sitting on a chair 2 Sitting astride
+
+Figure 7.1
+
+Figure 7.2
+
+3. Crook sitting 4 Kneeling
+
+Figure 7.3
+
+Figure 7.4
+
+5. Sitting on heels 6. Sitting cross legged
+
+Figure 7.5
+
+Figure 7.6
+
+66For Free Distribution.
+
+The correct posture that should be maintained while sitting on a chair
+
+• The head, shoulder and hip should be in a vertical line.• The back should be straight along the back of the chair.• The shoulders should be kept at ease.• Both hands should be resting on thighs.• The weight of the body should act on the buttocks.• The soles of the feet should be placed flat on the ground.
+
+Let us put it into practice
+
+How your body should be kept in correct posture when sitting on a chair is explained above. Explain the correct posture that should be adopted when sitting in the other ways mentioned above and get them reviewed by your teacher.
+
+The advantages of correct posture and disadvantages of bad posture when sitting
+
+Table 7.1The advantages of sitting correctlyThe disadvantages of sitting incorrectlyMinimize discomfort and fatigueDiscomfort and fatigue felt quicklyMental and physical satisfactionFeel clumsyComfort for internal organsFeeling of painMaintenance of balanceSpine ailmentsDevelopment of personality and self esteem Bad appearanceAbility to concentrate better on what you do Waste of energyMuscle injury
+
+67For Free Distribution.
+
+Let us learn more
+
+Maintenance of correct posture in day to day life• When reading a book, seated on a chair
+
+Figure 7.7Incorrect postureCorrect posture
+
+• When playing games such as carom and chess
+
+Incorrect postureCorrect posture
+
+Figure 7.8
+
+• When using a table and writing seated on a chair
+
+Incorrect postureCorrect postureFigure 7.9
+
+68For Free Distribution.
+
+Walking Correctly
+
+Walking is a natural activity. It is also used as an event in Athletics. Do you remember that we learnt the correct way to walk in grade 6?
+
+Different methods of walking can be practiced to improve walking postures
+
+1. Walking on toes and ball of feet - Walk with your heels raised and allow the ball of the foot to touch the ground.2. Walking on heels - Walk on heels without allowing the toes to touch the ground3. Walking with short strides - Walk keeping less space between steps 4. Walking with long strides - Walk keeping greater space between steps 5. Walking sideways - Walking from side to side stepping to the right and then to the left6. Walking backwards - Walking while stepping backwards keeping the body straight7. Walking in a zig zag fashion8. Walking along a straight line keeping the feet on either side.9. Walking on a straight line10. Walking with equal strides
+
+Practise the above mentioned different styles of walking
+
+1. Walking on toes and ball of feet
+
+Figure 7.10
+
+2. Walking on heels
+
+Figure 7.11
+
+69For Free Distribution.
+
+3. Walking with short steps
+
+Figure 7.12
+
+4. Walking with long steps
+
+Figure 7.13
+
+5. Walking sideways
+
+Figure 7.14
+
+6. Walking backwards
+
+Figure 7.15
+
+7. Walking zig zag
+
+Figure 7.16
+
+70For Free Distribution.
+
+8. Walking straight keeping the feet on either side of a line.
+
+Figure 7.17
+
+9. Walking on a straight line
+
+Figure 7.18
+
+10. Walking with equal strides
+
+Figure 7.19Positioning of body when walking
+
+• Body should be kept straight• Feet should be placed with the toes facing the direction of walking• The distance between the steps must be equal.• The weight of the body should gradually move from the heels to the balls to the toe.• Legs should move rhythmically forward and backward at the hip • The hands must be slightly bent at the elbow, and swung lightly and rhythmically forwards and backwards.
+
+71For Free Distribution.
+
+Advantages of correct walking postures
+
+• Reduces tiredness• Less expenditure of energy• Increases efficiency • Minimizes discomfort• Maintains balance• Minimizes accidents• Develops personality
+
+Lying down correctly
+
+According to the place, situation and facilities available, the posture of lying down changes in our daily life. Lying down happens when sleeping, when you are ill and when relaxing. Physical and mental satisfaction can be gained by lying in the correct posture.
+
+Different postures of lying down
+
+1. Lying with face upwards (lying in supine position)2. Lying with face downwards (lying in prone position)3. Lying sideways - facing left or right4. Lying in a crook position (crook lying)
+
+Practise these lying positions with the guidance of your teacher
+
+1. Lying face up
+
+Figure 7.20
+
+72For Free Distribution.
+
+2. Lying face down
+
+Figure 7.21
+
+3. Lying sideways
+
+Figure 7.22
+
+4. Crook lying
+
+Figure 7.23
+
+Let us put it into practice
+
+Describe how the body and limbs should be correctly placed in the lying positions mentioned above. Get it reviewed by your teacher.
+
+Points to remember when lying down correctly
+
+• The surface used to lie down should be strong and flat.• The head, shoulders and the hip should be in a straight line.• Must not lie in a manner likely to cause injury to the spine.• Breathing should not be obstructed.• Must lie in a relaxed position.• Physical discomfort should be avoided.
+
+73For Free Distribution.
+
+Advantages of Lying Correctly
+
+• Minimizes discomfort to the body.• Avoids waste of energy.• Reduces damage to bones and other organs of the body.• Gets physical and mental comfort by getting good sleep.
+
+Causes of wrong posture
+
+Developing wrong postures
+
+Unsuitable environmentUnsuitable equipment Extreme tiredness
+
+Deformities from birth
+
+Mental imbalanceWearing unsuitable clothes and footwear
+
+Getting accustomed to wrong postures
+
+carelessness
+
+Let us put it into practice
+
+Illustrate the correct postures in sitting, walking and lying down that you learnt in this lesson.
+
+74For Free Distribution.
+
+Now we know....
+
+Correct posture means keeping the body in the correct position when engaging in day to day activities.
+
+Correct posture is essential for healthy life. Correct posture also gives you pleasant and attractive appearance. Incorrect posture can cause physical disabilities, pain and discomfort.
+
+There are various factors that cause wrong postures, such as the environment, equipment, clothes, footwear, ignorance, defects from birth, bad habits etc.
+
+We have to get used to sitting, walking and lying down in the correct posture from our young days.
+
+Let us test our knowledge
+
+1. What is correct posture? 2. What are the benefits of maintaining correct posture? 3. What are the disadvantages of getting used to bad postures?
+
+4. Explain the correct posture that should be maintained while sitting.
+
+5. Identify five reasons that cause bad posture.
+
+75For Free Distribution.
+
+In day to day life you engage in natural exercises such as walking, running, jumping and throwing. These activities have been adapted into forms of events for entertainment. By engaging in athletic events you can have a healthy and active life.
+
+In grade 6 you had a few activities on walking, running, jumping and throwing. You have also learnt the correct way of walking, running, jumping and throwing, and how to improve skills in sport through formal training.
+
+In this lesson you will learn more about running, jumping and throwing.
+
+Running
+
+Running takes place in our day to day life and in different sports at different levels of speed. In athletics, running events can be classified according to distance as long, middle and short distance. According to each event, the degree of bending, stretching and raising of the legs change. In short distance running, the movement of the legs will be fast while in long distance running is slower.
+
+While walking when one foot touches the ground the other foot is above the ground. When running, at one point both feet are above the level of the ground.
+
+8Let us train for athletics
+
+76For Free Distribution.
+
+Let us put it into practice
+
+List the differences between walking and running.
+
+Correct leg movements in running• Bend the leg backward. ( figure 8.2 a )• Raise the thigh of the foot parallel to the ground.( figure 8.2 b ) • Stretch the lower part of the leg forward. ( figure 8.2 c )• Land the same leg on the ground.( figure 8.2 d )
+
+Figure 8.2 - Leg movements while running
+
+Correct hand movements in running • The right hand must move with the left leg in the same direction while the left hand must move with the right leg in the same direction.
+
+Walking Running Figure 8.1
+
+Figure 8.2 - Leg movements while runningabcd
+
+77For Free Distribution.
+
+• Bend the arms by 90x at the elbow and swing forward and backwards.
+
+Exercises to improve running• Walking exercises• Skipping exercises• Jogging exercises • Running drills
+
+Let us put it into practice
+
+Practice running using correct leg movement. Do the walking, skipping and running exercises above referred to under the guidance of your teacher.
+
+Jumping
+
+During our day to day life we engage in different types of jumping in various activities. Jumping is also involved in sports such as football, volleyball, netball, cricket and athletics. According to the methods used, jumping can be divided into two main parts.
+
+Jumping
+
+Horizontal jumpeg: long jump,triple jumpVertical jumpeg: high jump, pole vault
+
+Figure 8.3Figure 8.4
+
+78For Free Distribution.
+
+Main stages of jumping
+
+There are three main stages of jumping1. Take off2. Flight3. Landing
+
+In athletics, taking off with one leg is a rule. Jump events have an approach run to jump longer or higher. Jumping and landing can be done with both legs or one leg. But landing on both legs is safer. Landing in the correct posture helps to minimize injuries and accidents.When landing; you must land on the ball of the feet and maintain your balance.Bend your knees and lower your body. Don't straighten your legs when landing.
+
+Exercises to improve jumping techniques
+
+1.Hopping with one leg 2. Jumping with both legs (left and right)
+
+Figure 8.6Figure 8.7
+
+Figure 8.5
+
+79For Free Distribution.
+
+3. Taking off with one leg and landing 4. Jumping over objects on both legs
+
+Figure 8.8Figure 8.9
+
+Let us put it into practice
+
+With the guidance of your teacher, in addition to the activities given above create new activities to practise jumping.
+
+Throwing
+
+Isn't throwing an act you perform in your day to day life? We throw an object from one place to another or to another person.
+
+In team sports as well as athletics, throwing and putting are done as events. In athletics throwing the put, discus, javelin and hammer are found. Throwing the ball takes place even in games such as netball, cricket and Elle.
+
+In these sports objects of different sizes and weight are thrown in different directions. eg. the cricket ball and the net ball differ in both size and weight.
+
+In different types of sports different equipment are thrown in different
+
+80For Free Distribution.
+
+directions, different distances and at different targets. Different postures are required for different throwing events. eg: The javelin is thrown after a run-up When throwing a put or a discus the athlete moves within a circle
+
+Throwing discus Throwing Shot put Throwing JavelinFigure 8.10
+
+Exercises to improve throwing techniques
+
+Practice can improve your throwing skills in different events. Rubber balls, net balls, volleyballs, rings of different sizes and pieces of wood of different lengths can be used for this purpose.
+
+Tyres and cardboard boxes can be used as targets of the throws.
+
+Let us put it into practice
+
+Practise the following activities with your teacher outdoors.1. Throw equipment in different directions2. Throw equipment of different weights3. Throw equipment at a target4. Throw an equipment a distance after a run-up
+
+You have to be concerned about the safety of yourself as well as of oth-ers when performing throws in sports and in daily life.
+
+81For Free Distribution.
+
+Now we know....
+
+From natural activities such as walking, running, jumping and throwing various athletic events have evolved. These activities are used in other organized games as well.
+
+According to distance, running events are grouped into long distance, middle distance and short distance.
+
+According to the direction to which the jump is made, they are categorized into two groups namely horizontal and vertical jumps.
+
+Discus, put shot and javelin come under throwing events.
+
+Apart form these athletic events, running, jumping and throwing are involved in other sports such as netball, volleyball and cricket.
+
+You will have to engage in various exercises to improve your running, jumping and throwing skills.
+
+Let us test our knowledge
+
+1. How should your hands move when running?
+
+2. Name the three main stages in jumping.
+
+3. List three points you should remember when landing.
+
+4. Write two types of jumping events in athletics.
+
+5. Name three throwing events.
+
+6. List three other games that involve throwing.
+
+82For Free Distribution.
+
+A healthy diet is required to grow, get energy and stay healthy. Food not only eases hunger but also gives us satisfaction. Therefore the maintenance of a correct food pattern is essential for your physical and mental well-being.
+
+In grade 6 you learned the necessity for a healthy diet, good food habits and nutritional issues.
+
+In this lesson you will learn about nutrients in a balanced diet, the food pyramid, healthy and unhealthy food and also the traditional values of food and your contribution towards a healthy food pattern.
+
+Nutrients in food
+
+Nutrients received from food are divided into two main parts. 1. Macronutrients - Carbohydrates, protein and lipids (oils and fat)2. Micronutrients - Vitamins and minerals
+
+Given below is how macronutrients and micronutrients contribute to health. The amount of energy you receive from food is measured in calories.
+
+One gram of carbohydrate gives 4 calories, one gram of protein gives 4 calories and one gram of fat gives 9 calories of energy. The macronutrients are needed in substantial quantities for growth and good maintenance of the body.
+
+9Let us develop healthy eating habits
+
+83For Free Distribution.
+
+Vitamins and minerals are required only in minute or small quantities for the growth and functioning of the body. Both types of nutrients are required for the well being of the body
+
+The importance of macro nutrients and micronutrients
+
+Macronutrients Table 9.1NutrientFood sourcesFunctions
+
+1. Carbohydrate rice, jack, bread, string hoppers, pittu and roti,yams (potatoes, sweet potatoes)sweets and sweet foods(sugar, sugar cane, sweets)
+
+Provides energyMaintains blood sugar levels (glucose)
+
+2. ProteinAnimal ProteinPlant protein
+
+meat, fish, eggs, dried fish, sprats.pulses, lentils, soya products
+
+Contributes to the growth and repair of tissues and bones
+
+3. Lipidsoil and fatcoconut, peanuts, cream of milk, dairy food (butter, cheese)meat, oils (coconut and palm oil)
+
+Provides energyHelps in the absorption of vitamins that dissolve in fat
+
+Figure 9.1
+
+84For Free Distribution.
+
+Micronutrients Vitamins Table 9.2VitaminsFood sourcesFunctionsVitamin Ayellow and dark green vegetables, liver, yolk of eggs, milk and milk foods
+
+Night vision improvement Growth of bones Protection of reproductive health and the skinImproves immunityVitamin B (B1, B2, B6, B12)
+
+rice with bran, milk, yolk of eggs, liver, grain, soya beans
+
+Smooth function of heart, nerves and digestive system
+
+Vitamin Cnelli, oranges, mandarin (fruits of citrus family)
+
+Growth and repair of tissue Helps to heal wounds Contributes to the proper functioning of the immune systemVitamin Dcheese, butter, yolk of egg, cream of milk, fish oil. (Vitamin D is produced naturally from sunlight in the morning)
+
+Helps in the growth of bones, teeth and tissue
+
+Vitamin Eliver, yolk of eggs, butter, green vegetables, cereals
+
+Maintains a healthy skin
+
+Vitamin Kspinach, soya beans, broccoli, cabbage, carrot, cauliflower, beans, grapes, pears, plums
+
+Helps in the clotting of blood
+
+85For Free Distribution.
+
+Minerals Table 9.3NutrientsFood sourcesFunctionsCalciummilk and milk products, green leaves, pulses, dried sprats and small fish
+
+Growth of teeth and bones
+
+Phosphorusmilk, cheese, eggs, grains, fish,sea-shells, soya, pulses
+
+Strength of bones and teeth
+
+IronProduction of haemoglobin in the blood Improves memory power
+
+Haem iron meat, liver, fish, dried sprats, dried fish, eggsNon haem iron pulses, lentils, green leaves (sarana, thampala), drumsticksIodinefish, salt with iodine, sea food, eggs, cheese, green vegetables
+
+Prevents the formation of goitres Reduces miscarriagesPrevents mental retardationZincsea food, spinach, pumpkin seeds, cadju, pork, chicken, beans, mushroom, liver, cereals
+
+Improves enzyme activity Helps growth of muscles, bones and skin
+
+Figure 9.2
+
+86For Free Distribution.
+
+Let us put it into practice
+
+Make a poster dividing your daily diet into food with macronutrients and food with micronutrients and put it up in the class room.
+
+Fibre in Food
+
+Fibre is the indigestible part of plant food. This undigested material passes through the intestines and helps in the formation and passing of faeces.
+
+Some food rich in fibre are given below.• Grains with bran• Green leaves, fruits, vegetables • cashew-nuts, peanuts • Soya, gram, cowpea, green gram, dhal
+
+The amount of fibre varies according to the nature and the type of the food. Therefore we should select food types rich in fibre. eg: Mango pieces - rich in fibreMango drink - less fibre
+
+Figure 9.3
+
+87For Free Distribution.
+
+Let us learn more
+
+The benefits we get by including food with fibre in our diet
+
+Reduces eating excess food (as the stomach feels full)
+
+Helps to pass faeces
+
+Helps to control body weight
+
+Reduces the danger of intestinal cancers
+
+Delays absorption of cholesterol, fatty acid, and glucose into the blood stream
+
+Figure 9.4
+
+Let us put it into practice
+
+Look at food labels and see whether the fibre content is indicated. Make a list of food items rich in fibre.
+
+88For Free Distribution.
+
+Water
+
+Water is an essential component for our body. Pure water is a colourless, odourless liquid which does not have any externally visible pollutants. According to the World Health Organization, water with a pH value in the range of 6.6-7 is suitable for drinking.
+
+The use of impure water can infect you with diseases such as cholera, dysentery, yellow fever (jaundice) and typhoid. Therefore boiling the water before drinking is important.
+
+Why is water necessary for us?
+
+1. To control the body temperature2. To remove the waste matter from the body3. To avoid dehydration4. To properly maintain the digestive, circulatory, excretory and absorption processes.
+
+Water balance
+
+An ordinary person requires 1.5 - 2 Litres (7 - 8 glasses) of water every day. But according to the body weight the water requirement could differ.
+
+The body gets water not only in the form of pure drinking water but also from other sources as well. Water also passes out of the body.
+
+The balance of the amount of water consumed and the amount of water lost is referred to as water balance.
+
+water requirement per day (litres) } Weight of body (kg) 30
+
+89For Free Distribution.
+
+Figure 9.5
+
+How body gets water
+
+How body loses water
+
+urine
+
+sweat
+
+secretions
+
+breath
+
+In certain special situations such as participation in sports and in dry weather, more water is lost from the body. In such situations the correct water balance can be maintained by drinking more water.
+
+Water requirement can be fulfilled in different ways.
+
+How can we drink more water?
+
+Figure 9.6
+
+Keep a transparent (measurable) bottle of water on your computer or study table.
+
+Always keep a bottle of water with you when engaging in sports.
+
+Figure 9.7
+
+90For Free Distribution.
+
+Carry a bottle of pure water when you leave your home.
+
+Figure 9.8
+
+Food pyramid
+
+A food pyramid or a diet pyramid is a pyramid shaped diagram representing the optimal number of servings to be taken each day from various groups of food to maintain a healthy body.
+
+Figure 9.9 - Food pyramid
+
+Oil & sugar to be eaten sparingly
+
+Milk & milk products
+
+Meat, fish, eggs, cereals
+
+Fruits
+
+Rice,bread,grains,yams,
+
+Vegetables
+
+Grains with fats
+
+Servings = 1-2
+
+Servings = 3 - 4
+
+Servings = 2-3
+
+Servings = 6-14
+
+Servings = 3-5
+
+Servings = 2-4
+
+rice, bread, cereals and yamsfruits
+
+vegetablesmilk and milk foodsmeat, fish,eggs, pulsesoily grains
+
+Food groupsThe quantity of 1 serving is equal to
+
+1 cup
+
+table spoons
+
+table spoonglass
+
+91For Free Distribution.
+
+Table 9.4Food groupsNutrient contentgrains and yamscarbohydrate, protein, fat, vitamins and mineralsvegetablesvitamins, minerals, carbohydrate, proteinfruits vitamins, minerals, carbohydratemeat, fish, eggs, dried fish, cere-als, greensprotein, fat , vitamin, minerals
+
+milk, milk products (butter, cheese)fat, vitamin, minerals, carbohydrate, proteinsugarcarbohydrateoilfat
+
+In grade 6 you learned about the food plate. Food groups are shown on a plate to understand better the proportions of food that should be taken from each group.
+
+Bread,rice, yams, carbohydrates 1/2
+
+Meat, fish, eggs,protein foods 1/4
+
+Vegetables , fruits 1/4
+
+Figure 9.10 - Food plate (new structure introduced in 2015)
+
+Half of this consists of food containing carbohydrates while the other half consists of other foods.
+
+92For Free Distribution.
+
+Let us put it into practice
+
+Recall what you learnt in grade 6 about eating healthy food and prepare a table setting and list what factors you should be mindful about when selecting the following types of food.
+
+vegetables/fruitsfishmeatcerealspacketed/ tinned foodbottled water
+
+Things you have to keep in mind when planning your meal
+
+• The food must have a certain level of nutrition • Colour, odour, taste• Using different methods of cooking • Variety in food items • Selecting food items that are freely available during that season
+
+Let us avoid unhealthy food
+
+Food containing excessive amounts of oil, sugar and salt as well as food containing harmful flavours and colourings and unclean food can pose a threat to your health.
+
+1. Food having excessive amounts of oil, sugar and salt
+
+This increases the risk of getting non-communicable diseases.
+
+93For Free Distribution.
+
+excessive oil
+
+deep fried food, pork, beef
+
+increases the risk of getting heart attacks/ cancer, obesity
+
+excessive sugar
+
+carbonated drinks, sweet drinks,toffees
+
+increases the risk of getting diabetes, obesity
+
+excessive salt
+
+salty food - potato chips, salty biscuits
+
+increases the risk of getting high blood pressure
+
+• The maximum amount of sugar one should take per day is 6 teaspoons. This includes the sugar we get from food. So you can have only two teaspoons of sugar per day in addition to what you get from food.
+
+• The maximum salt intake per day is 1 teaspoon (5 grams).
+
+2. Food that contains artificial colouring agents and flavours
+
+To improve the colour and taste of food, manufacturers use various flavours and colouring agents to food during production. Some of them are natural and some are artificial.
+
+Long term consumption of food containing even permitted additives can cause harmful health effects. Therefore it is safer to use only natural additives.
+
+3. Unsanitary food
+
+You have to be mindful about the cleanliness of the food you select. Nevertheless, the personal hygiene of the person who prepares the food affects its quality.
+
+94For Free Distribution.
+
+What you can do about this:• People who prepare food must always wear suitable head ware, gloves, shoes, masks and protective dresses. • Use hand wash or disinfectant after using the toilet or before handling food.• If you have a wound in the hand, you must not touch food unless it is properly covered. • You should not touch food if you have an infectious disease such as diarrhoea or a skin infection.• You must not wear jewellery, watches, pins etc. when preparing food.
+
+Figure 9.11
+
+Things to remember when buying food
+
+1. Check the production and expiry dates. 2. Look at the ingredients including flavours and colouring agents 3. Make sure that the SLS logo (Sri Lanka Standards) is there.4. Be mindful about the freshness of food .5. Consider the requirements of the family.6. See whether there are animal bites or other damage. 7. Should be suitable for the person who is eating it. eg: patients, pregnant mothers, infants.
+
+95For Free Distribution.
+
+Figure 9.12
+
+Traditional foods
+
+Let us put it into practice
+
+Prepare a booklet about the food prepared for the following occasions and events with the help of your elders. - "Buddha Pooja" (food offerings to Lord Buddha)- "Deva Pooja" (food offerings to God)- Invoking blessings- Alms giving- Alms to mothers ("kiri amma'' alms) - Weddings - Funeralseg: Deva pooja "Muruthen Rice" Kiri Amma Alms ''Kiria''.
+
+The use of traditional condiments in food preparationFrom ancient times people have been using condiments to improve the taste, nourishment,colour and smell of food.condiments; • improve appetite• help digestionIt is traditionaly believed that there are medicinal value in certain natural additives.
+
+96For Free Distribution.
+
+eg:1. ginger - for indigestion 2. dill seeds - reduce cholesterol in blood 3. turmeric - act as a disinfectant and improve mental functions 4. cinnamon - increase the function of insulin, act as an anti oxidant, reduce body fat.5. garlic - help kill cancer cells, help the immune system
+
+GingerDill seeds
+
+TurmericCinnamon
+
+GarlicFigure 9.13
+
+97For Free Distribution.
+
+Let us put it into practice
+
+Given below are some traditional food items. Ask an elder like your grandmother, mother or aunt and write down how to prepare them.
+
+FoodGood effectsHow to preparePepper water (Rasam/Miris Hodi)Cures indigestion and improves appetite
+
+Porridge (rice,salt,water)Prevents dehydration caused by vomiting and diarrhoea (can be taken with sugar cane jaggery or kitul jaggery).Roasted rice poridgePrevents dehydration, vomiting and diarrhoea. Helps digestion as the rice is roasted.
+
+Preservation of food according to traditional methods
+
+From ancient times people have used different methods of preserving excess food after bountiful harvests. Table 9.5Methods of preserving foodFood that can be so preserved
+
+Drying 1. with sunlight 2. heating (fire)fish, vegetables, meat
+
+Saltingdry fish, jadi, lime pickle, mango
+
+Smokingmeat, fish
+
+Packing - with arecanut leavesjaggery
+
+Chemical methods - soaking in vin-egar, honey and sugarpickle, meat, fruits
+
+98For Free Distribution.
+
+Traditional food produced in our country with high nutritional value
+
+• Mixed green Malluma• Seven vegetable curry (Hath Maluwa)• "Diya bath" - rice with water• "Thalapa" - thick porridge
+
+Let us put it into practice
+
+Collect advertisements in newspapers and magazines about various food items. Find the good and bad qualities of these food items and discuss it in class.
+
+How you can contribute to find nutritional food
+
+1. Advertisements and promotional media campaigns should be viewed discerningly. You should not get misled by puffery used in advertising.
+
+2. Taking nutritional food at the correct time.
+
+3. Eat home made food whenever possible.
+
+4. Selection of short eats full of nutrients (healthy snacks)• boiled gram(chick peas), cowpea, sago.• "Aggala" - sweet meats made of rice flour.• Food made of Ata flour.• Rice flour "Aluwa", "Helapa", other rice flour or ''Kurakkan" products.
+
+5. Proper selection of packeted and tinned food items
+
+99For Free Distribution.
+
+Instances when packeted food must not be used• When it is damaged or crushed • When it has passed its expiry date• When there is discolouration
+
+Instances when tinned food should not be used• When the can or lid is bulging• When the can is dented • When the tin is damaged or leaking• When it has passed its expiry date
+
+Figure 9.14
+
+6. Nutritional problems can be avoided by knowing your nutritional levels.
+
+For this purpose the BMI and the waist circumference that you learnt in Grade 6 can be used.At the same time you must be aware of different nutritional problems.
+
+Using the home garden and school compound for food production
+
+By cultivating food crops in the home or school garden as needed for daily consumption, one can have fresh food. While it is good for health, it will also save your money.
+
+100For Free Distribution.
+
+Let's see how we can effectively use the home garden and the school compound
+
+² Management of space
+
+Figure 9.15
+
+Use of potsUse of discarded sacksUse of discarded wooden boxes
+
+• Use rain water as far as possible for your cultivation
+
+Figure 9.16 - Rain water tanks
+
+• Use carbonic fertilizer for your cultivation
+
+Figure 9.17 - Compost beds / containers
+
+101For Free Distribution.
+
+• Use natural methods to minimize attacks from insects. eg: Grow "Daspethiya" plants (chrysanthemums) - insect repellent Remove weeds by hand Keep the cultivated area clean
+
+Now we know....
+
+Food is necessary for our physical development, energy and the protection of health. The nutrients we get from food are divided into two parts called macronutrients and micronutrients. Both these nutrients are necessary for the proper maintenance of health.
+
+These nutrients are present in different proportions in different food items. Therefore meals should be prepared in such a way that all nutrients are received in due proportion and sufficient quantity. The food pyramid and the food plate will help to understand the food types and the proportion of the food types one should eat.
+
+It is unhealthy to consume food having a high content of sugar, oil and salt and food containing artificial flavours and colouring. Unsanitary food is also harmful to health.
+
+You must be mindful of hygiene when you buy and prepare food.
+
+Natural flavours are used in many traditional foods that have been popular for generations. Many traditional methods are also being used to preserve food and enhance their nutritional value.
+
+You should also take the initiative in choosing a nutritious meal and using home and school gardens for foods cultivation to have fresh and clean food.
+
+102For Free Distribution.
+
+Let us test our knowledge
+
+1. Mention three benefits that our body gets from food.
+
+2. Write the two main types of nutrients we get from food.
+
+3. What are the three macronutrients? Write two types of food that contain each type of macronutrient.
+
+4. Mention two types of micronutrients.
+
+5. List three types of food that are rich in fibre.
+
+6. Why do we need water? Write three reasons.
+
+7. Mention two important factors that we should have in mind when planning our meals.
+
+103For Free Distribution.
+
+Your body is the most valuable asset you own. The body consists of the sense organs such as eyes, ears, nose and skin and various systems to help in its functions. It is your duty and responsibility to protect it and keep it healthy. It is important for you to understand how your body is organized and how it functions.
+
+In grade 6 you learned how to protect your sense organs; eyes, nose, ears and skin.
+
+In this lesson you will learn about the digestive, respiratory, circulatory and excretory systems of your body and their functions.
+
+Different systems in our body
+
+Think of some activities that you may engage in every day. Walking, running, clapping, jumping and breathing are a few of these. What are the systems that help you to engage in these activities?
+
+Because of the muscles and bones in your hands and legs,you are able to walk and run. Have you ever thought how your muscles got the strength to do what they do?
+
+Run round the school premises several times. While running breathe in and out and be conscious about the pulse rate.
+
+Let us discover our body
+
+10
+
+104For Free Distribution.
+
+While you were doing the above activity you must have realised that your breathing and heart beat increased. The nervous system carries the message from your brain to your legs, that you have to run. During running the necessary energy for the muscles is received from glucose and oxygen. These are taken to the muscles through the circulatory system. The digestive system supplies the glucose to the blood and the respiratory system supplies the oxygen to the blood.
+
+You may have realised by now that many systems are involved actively and collectively even in a simple activity like running. In order to maintain the body functions, different systems work jointly and collectively.
+
+What do you mean by 'an organ system'?
+
+Many different organs in the body working together to perform a physiological function or process is known as an organ system.
+
+Think of a car for example. If the car is your body the engine is one of your systems. The different parts of the engine such as the piston and the valves can be compared to our organs. Each of these parts has a special function to fulfil.
+
+But all these parts together that form the engine help it to start. The same way, the various organs in the different systems of the body work together to perform a task. For example, the different organs in the digestive system work together to execute the process of digestion of food.
+
+organ systemorgan body system
+
+105For Free Distribution.
+
+Given below are the functions of some of the different systems in our body.
+
+Digestive system Digestion of food and absorption of nutrients Circulatory system Circulation of blood Nervous system Sensation and transmitting messages for motor activities Respiratory system Breathing Reproductive system Producing offspring Excretory system Discharges body wastes Muscular & skeletal system Enables different movements Immune system Protection from diseases
+
+If the function of any of the above systems is impaired, one will fall ill affecting normal day to day life. Therefore we have to be careful and protect ourselves well.
+
+Digestive system
+
+The function of the digestive system is to break down the solid food into smaller particles and absorb the nutrients such as glucose into the blood stream and thereafter discard the waste matter produced in semi solid form. The food so absorbed is necessary for the growth of the body, to protect us from diseases and to supply energy required for various activities.
+
+Look at figure 10.1. You can see that the digestive system is made up of different organs.
+
+106For Free Distribution.
+
+Mouth
+
+Small intestineLarge intestine
+
+Oesophagus
+
+Figure 10.1 - Digestive system
+
+StomachLiver
+
+Pancreas
+
+Rectum
+
+Salivary glands
+
+Pharynx
+
+Appendix
+
+Gall bladder
+
+Anus
+
+Mouth
+
+The teeth in the mouth are capable of breaking and grinding even hard solid food. In grade 6 we learnt that children have 20 deciduous teeth and adults have 32 permanent teeth.
+
+The food broken down by the teeth into smaller pieces are mixed with saliva produced by the salivary glands. Thereafter the tongue while
+
+107For Free Distribution.
+
+making you feel the taste of food, helps in swallowing it, pushing the food down the pharynx.
+
+The nose cavity and the mouth cavity open into the pharynx. The oesophagus and the larynx start from there. When swallowing the food the epiglottis covers the larynx and prevent food passing into the trachea. The swallowed food moves down the oesophagus. When you talk while eating this process does not happen properly and the food accidentally enters the trachea causing you to choke. This is colloquially referred to in Sinhala as ''Ismolle yama'' or ''pita ugure yama''.
+
+Stomach
+
+The food travels through the oesophagus and enters the stomach. The stomach is a sack made up of muscles that can expand gradually. Muscle action in the stomach causes the food to breakdown further.
+
+The digestive juices secreted by the salivary glands, the wall of the stomach, the liver and the pancreas help to digest the food. The bile produced by the liver is stored in the gall bladder.
+
+Small intestine
+
+The small intestine is a narrow but long tube. The main part of digestion takes place in the small intestine. The digested food is absorbed almost entirely here.
+
+Do you know? The small intestine of an adult is about 7 metres long. You may be amazed to note that there is such a long tube in your body. As the small intestine is so long the food remains there for a long time and most of the absorption takes place here.
+
+108For Free Distribution.
+
+Large intestine
+
+After the absorption of nutrients in the small intestine, the water contained in the food and minerals are absorbed in the large intestine. The semi solid waste left over is known as faeces.
+
+At the place where the small intestine meets the large intestine there is a small tube shaped sac which is known as the appendix.
+
+Rectum
+
+The faeces are temporarily stored in the rectum. The rectum can control the process of defecation
+
+What you should do to keep the digestive system healthy?
+
+1. Take meals at the correct timeSometimes when you are late to school, you may skip your breakfast. When that happens, your brain does not get enough glucose making it difficult for you to concentrate on your work. Therefore it is important that you take your meals at the correct time for the proper function of your body.
+
+2. Take meals with proper nutritional valueYou have learnt the importance of a balanced diet in lesson 12. It is important that you take a meal balanced in nutrition for growth and prevention of disease.
+
+3. Take more natural foods and beverages Preservatives, food colourings, sweeteners and additives are sometimes used in the production of certain instant and precooked foods and beverages. When these are taken in large quantities it can be harmful to the body. Therefore it is advisable that we consume natural fruits and vegetables and avoid artificial food.
+
+109For Free Distribution.
+
+4. Take clean food and drink sterilized waterYou can contract diseases such as diarrhoea, cholera and typhoid if you eat food contaminated by flies or drink polluted water. By eating food stored cleanly and drinking water boiled at least for one minute at the boiling temperature and filtered, these diseases can be minimized.
+
+5. Take food rich in fibreWe can prevent constipation and bowel (intestinal) cancer by eating food rich in fibre.(Fruits, vegetables and greens-leafy vegetables)
+
+6. Minimize the consumption of oil, salt, chillies and wheat flourExcessive consumption of the above mentioned items of food can cause obesity, high blood pressure and discomfort in the stomach.
+
+7. Drink enough water Water is very important for the digestion of food and proper maintenance of blood circulation. You can prevent dehydration by drinking plenty of water. You learnt this in lesson 12 of this book.
+
+8. Protection of your teethTeeth are very important to break food into small pieces, to speak and to have a pleasant appearance. Breaking food into small pieces helps in the digestion of food and prevents choking. You must brush your teeth at least after the three main meals to prevent decaying of teeth. You must use a suitable brush and toothpaste for this purpose. At least every year you must get your teeth examined by a dental surgeon.
+
+9. Develop good bowel habitsConstipation can be prevented by passing stools when the urge arises and having regular bowel habits. Seek medical advice if there is a change in the normal movement of bowels.
+
+110For Free Distribution.
+
+10. Prevention of diseases caused by wormsDiseases caused by worms can be prevented by using toilets with proper sanitary facilities and by developing good health habits. Use footwear when walking outdoors to prevent getting infected by hookworms. Diseases caused by worms can be minimized by taking worm treatment. There is a programme to supply worm treatment annually by the Ministry of Health.
+
+11. Avoid smoking, drinking alcohol and chewing betelTo prevent oral cancers and cirrhosis, you should avoid such things.
+
+Respiratory system
+
+The function of the respiratory system is to transport oxygen from the atmosphere into blood and release carbon-dioxide from blood into the atmosphere.
+
+Oxygen is necessary to produce energy. Although we can live for a day or two without water and food, we cannot live without oxygen for more than a few minutes. The oxygen absorbed by the lungs is taken to various organs and cells of the systems through the blood. The carbon dioxide formed in the process of producing energy, is taken back to the lungs by blood. Respiration is this process of exchanging gases in the lungs and transporting these gases between the lungs and other organs of the body, through the blood stream.
+
+The process of taking air into the lungs is known as inhalation while, the process of exhaling air from the lungs is known as exhalation. Inhalation and exhalation together is known as breathing.
+
+111For Free Distribution.
+
+Nostrils
+
+Right lung
+
+Right bronchus
+
+Bronchioles
+
+Diaphragm
+
+Alveoli
+
+Left lung
+
+LarynxTrachea
+
+Pharynx
+
+Figure 10.2 - Respiratory system
+
+Left bronchus
+
+Nose
+
+In the nose, there are small hair like projections called cilia and a sticky substance called mucus. Cilia trap dust particles and germs contained in the air breathed in. Dust particles and germs also stick to mucus, further purifying the air breathed in. There are many blood capillaries in the nostrils which warm the air taken into the nose before it enters the lungs. The nasal tract opens into the pharynx.
+
+Pharynx and larynx
+
+Pharynx is a space common to both respiratory and digestive systems. The larynx starts from the pharynx. The larynx helps to produce our voice.
+
+112For Free Distribution.
+
+Lungs
+
+The main organ in the respiratory system is the lung. The lungs are protected by the rib cage. The lungs are made up of millions of sacks filled with air known as alveoli which are covered by a delicate membrane.
+
+Trachea
+
+Think of a tree with two branches. If the trunk is the trachea the two branches are the bronchi. The trunk divides further, finally into twigs with leaves at their ends. The bronchus divides further into branches called bronchioles that open into small sacs called alveoli referred to above.
+
+From the air in the alveoli, oxygen diffuses into the blood through the capillaries. The carbon dioxide in the blood capillaries is released into the alveoli.
+
+In the above activity you would have noticed that the rate of your breathing increased after running around the school ground. The normal rate of breathing is about 20 times per minute. One's breathing rate increases when one is doing exercises or when one gets frightened. That is because the respiratory system supplies extra oxygen required to produce extra energy to cope with such situations.
+
+What should be done to maintain a healthy respiratory system
+
+1. Engage in exercisesIt is important to lead an active life to maintain healthy lungs.
+
+2. Stay away from polluted environmentsWhen air polluted with smoke, harmful gases and dust enters the lungs one could fall ill. Therefore it is important to keep your environment,
+
+113For Free Distribution.
+
+home and bed room clean. When necessary, you can wear masks covering your nose and mouth for protection. One should not breathe through the mouth as the air is cleaned only by the nose. It is your responsibility to stay away from others when you have respiratory diseases and you must not stay near others who have respiratory diseases. You must also contribute as far as possible towards minimizing environmental pollution.
+
+3. Avoid using objects to clean your nose
+
+4. Refrain from smoking and staying near others when they smokeThe main reason for respiratory diseases and cancer is smoking. You become a passive smoker when you are present where people smoke. Develop awareness about health hazards caused by smoking. If your parents smoke, explain the harmful effects of smoking to them.
+
+5. Vaccinations such as BCG should be taken at the right time to avoid tuberculosis and respiratory diseasesLook at the top of your left hand and check whether you have the BCG scar. If you have a long standing cough or loss of weight, get medical advice.
+
+6. Those who have allergic conditions such as asthma or allergic rhinitis should refrain from exposing to allergens
+
+Circulatory system
+
+The blood stream transports oxygen and nutrients required to all the organs and cells in the body. It also transports the carbon-dioxide produced in the cells during respiration to the lungs, and all other waste matter to the liver and the kidney. It is the circulatory system that circulates blood in the entire body.
+
+114For Free Distribution.
+
+Vein
+
+Artery
+
+Heart
+
+Figure 10.3 - Circulatory system
+
+Left atrium
+
+Right atrium
+
+Left ventricle
+
+Right ventricle
+
+Figure 10.4 - Heart
+
+Heart
+
+The main organ of the circulatory system is the heart. It is situated in the rib cage, between the two lungs and slightly to the left. The heart acts like a pump and supplies the necessary power to make the blood flow through the blood vessels. The heart is an organ made up of muscles. As the muscles of the heart don't get exhausted, the circulation of the blood continues throughout the life. There are four chambers in the heart namely the right and left atrium and the right and left ventricles.
+
+Blood vessels
+
+The blood vessels that take the blood away from the heart are called arteries. The blood vessels that bring the blood back from the organs to the heart are called veins. The arteries and veins are connected to each other through the capillaries. The capillaries are like fine fibre and when blood travels through them, substances necessary for the cells are
+
+115For Free Distribution.
+
+absorbed into the cells and waste matter is released out of the cells into the blood. Other than transportation of substances the blood circulation helps to maintain body temperature.
+
+Figure 10.5
+
+Feel your pulse by placing your left finger tips a little above the place where your right thumb meets the wrist as shown in figure 13.5
+
+When we do exercises or get excited our heart beat increases and then the pulse rate also increases. The heart beat of an adult is generally 72 beats a minute.
+
+Blood
+
+When you get a wound you may see blood flowing out of it. There are different types of cells in your blood. The red blood cell is one such type. The blood is red because of the red pigment with iron in it. Red blood cells help to transport both oxygen and carbon dioxide.
+
+The white blood cells fight against germs that enter the body.
+
+When you have bleeding the platelets in the blood help to form blood clots and stop bleeding.
+
+The blood cells not only transport different gases and nutrients, but also transports medicines, hormones and a variety of enzymes.
+
+116For Free Distribution.
+
+What you can do to keep the circulatory system healthy
+
+1. Exercise dailyBy exercising the heart muscles and all other muscles can be kept healthy. Controlling the body weight will help to maintain a healthy body.
+
+2. Have a balanced diet dailyIn lesson 12 you learnt the importance of a nutritional diet and the use of less salt, oil and sugar. Iron rich food improves the transportation of oxygen by the red blood cells. When there is a deficiency of iron, the cells will have less oxygen and you will feel tired.
+
+3. Drink enough water
+
+4. Avoid smoking and be mindful about its ill effectsSmoking can cause heart attacks.
+
+5. Take precautions to avoid diseases such as hookworm disease
+
+As hookworms in your intestines suck your blood, it results in deficiencies of iron and other nutrients. Therefore haemoglobin in the blood decreases. This disease can be avoided by maintaining cleanliness, using footwear and the proper disposal of toilet waste.
+
+6. Be stress freeStress can cause high blood pressure.
+
+Excretory system
+
+The excretory system is responsible for the removal of wastes produced in the body.
+
+117For Free Distribution.
+
+Kidney
+
+The main organ in the excretory system is the kidney. The two kidneys shaped like bean seeds, are placed towards the back of the abdomen on either side of the vertebral column. There are about a million nephrons in each kidney that help to filter the urine. Urine is formed in the nephrons when blood travels through the kidney.
+
+Urinary bladder
+
+The urine produced by the kidneys is taken to the urinary bladder through the ureter and it is stored there. The expandable, muscular walls of the urinary bladder can store the urine. The urine is passed out when the need arises.
+
+Not only the kidneys but also the liver, lungs and the skin help in the excretory process.
+
+Right kidneyRenal arteryRenal vein
+
+Pair of ureters
+
+Urethra
+
+Bladder
+
+Left kidney
+
+Figure 10.6 - Excretory system
+
+118For Free Distribution.
+
+How to maintain a healthy excretory system
+
+1. Drink a sufficient amount of clean waterSince a great amount of waste is passed out through urine, it is important to have enough water to make it happen properly. On days where less water is consumed small quantities of dark yellow urine is produced. When, more water is consumed, more light coloured urine is passed.
+
+Reducing the use of chemicals in agriculture and avoiding the release of chemicals into the environment and water, will help us to have clean water. When there is no water sources suitable for consumption, use protection filters to purify water.
+
+2. Pass urine when the need arisesPassing urine when the need arises is important. When urine is stored for a long time it can lead to urinary infections.
+
+3. Keep reproductive organs cleanThe organs in the reproductive and excretory systems must be kept clean to avoid diseases. It is better to use underwear made of cotton rather than artificial material such as nylon in a warm country like ours. Change underwear daily and keep them clean.
+
+4. Don't use any medicines without medical advice
+
+5. Minimize the intake of saltSalt should not be added to the diet of infants from 6 months to one year. You must control the intake of salt right from your childhood.
+
+6. Avoid smoking and the use of alcoholSmoking and alcohol can cause cancer in the excretory system.
+
+119For Free Distribution.
+
+Let us put it into practice
+
+Make a table listing the diseases that could develop in the four systems that you have learnt in this lesson and exhibit it in your classroom.
+
+Now we know....
+
+Different organs together form systems. These systems together perform different functions in the body and help to maintain life. These systems act on their own as well as together. In this lesson you learnt about the digestive system, the circulatory system, the respiratory system and the excretory system.
+
+The digestive system digests the food, absorbs the nutrients and passes out the waste matter.
+
+The respiratory system absorbs oxygen into the blood and removes carbon-dioxide formed during this process.
+
+Various substances are transported throughout the body by the circulatory system.
+
+Wastes produced in the body are eliminated from the body by the excretory system.
+
+Various types of diseases can impair the proper functioning of each of these systems. Therefore we must maintain these systems in good health.
+
+120For Free Distribution.
+
+Let us test our knowledge
+
+1. Mark the following as correct () or incorrect ( )
+
+i. Many systems are important for the proper functioning of the body. ( ) ii. Smoking affects the proper functioning of many systems. ( )iii Eating fibrous food prevents constipation. ( )iv. The nose is the main organ of the respiratory system. ( )v. The respiratory system and the circulatory system will be healthy if you do exercises. ( )vi. Drinking enough water is not important for good health. ( )vii. The excretory system helps to digest food. ( )viii. When you drink less water, light coloured urine passes. ( ) ix. It is unhealthy to consume salt and sugar in excessive amounts. ( )x. Eating at the correct time is important for the proper functioning of the brain. ( )
+
+2. Write five good habits that you should develop to maintain a healthy digestive system.
+
+3. Write three good habits that you should develop to avoid diseases of the respiratory system.
+
+4. Write one function of red blood cells and white blood cells.
+
+5. Name four good habits which help to maintain a healthy excretory system.
+
+121For Free Distribution.
+
+How many thoughts and feelings do you experience each day? You may have acted in different ways depending on whether such feelings bring you happiness, sadness or anger.
+
+Such conditions of mind or feelings that suddenly arise and affect our minds making us react in various ways are known as emotions. Such reactions can be either good or bad.
+
+In grade 6 you learned several ways of maintaining emotional balance.
+
+In this lesson you will learn how to live in harmony with your family, in school and in society by maintaining your emotional balance.
+
+Emotional balance
+
+Emotional balance is the ability to maintain your conduct well by reacting intelligently when you experience an emotion. It is important to maintain a good emotional balance not only when you are sad, angry or jealous but also when you are happy.
+
+Figure 11.1
+
+11Let us balance our emotions
+
+122For Free Distribution.
+
+Let us put it into practice
+
+Get into several groups and discus about various thoughts that occurred to you today, the time you got them, why you felt so and how you reacted to such feelings.
+
+eg. Saman remembered that it was the day of the school sports meet when he woke up early in the morning. He felt happy as he was due to take part in long jump. He got ready to go to school quicker and more actively than on other days.
+
+IncidentThoughtReactionRemembering the sports meet when waking up in the morningHappinessMore active behaviour
+
+When you were doing the above activity, you and your friends may have understood that you had a variety of thoughts and feelings. These are common to everybody. These feelings could be positive feelings like happiness and kindness or negative feelings like sadness, anger and fear.
+
+Let us put it into practice
+
+Take a daily news paper. Read various news items and incidents published in it, relating to emotions of various people, the reasons for them and how they have reacted to them. Discuss the appropriateness of such reactions with your teacher.
+
+All the people get emotions. However different people react to them in different ways. Some react instantly. Some, on the other hand, would not react instantly but react afterwards.
+
+123For Free Distribution.
+
+Eg: Vipula brought a toy car to school. Saman liked it very much and borrowed it to play. He accidentally dropped it and broke a wheel. Vipula got angry and hit Saman. His friends intervened and stopped the fight. Saman didn't react at once, but the next day he brought a new car and gave it to Vipula and apologised. Vipula felt ashamed of the way he reacted the previous day. He too apologised and decided not to react the way he did, thereafter.
+
+Figure 11.2
+
+In the above example Vipula reacted instantly giving way to his emotion. But his reaction was not appropriate. He should have expressed his feelings in a different manner. Eg: " I gave you my car thinking you would look after it. I felt very sad when you broke it".
+
+Some people react inappropriately by screaming, crying and hitting others when they get emotions. You can avoid harm to yourself as well as others by reacting with patience after giving thought to the matter.
+
+Factors affecting emotional balance
+
+1. Situation - In the above example when Saman was hit, he felt angry but he did not react negatively as he knew he shouldn't behave badly in school. Reaction differs according to the situation.
+
+2. Understanding - As you grow older and mature, your ability to cope with emotions will improve with your experiences in life. In the above example, Vipula through his experience, learnt how to react in such situations. Your parents and teachers react with such understanding through their experience.
+
+124For Free Distribution.
+
+3. Personality - The capacity to cope with emotions differs from person to person depending on their personal qualities. Some get angry instantly while others are patient. You would have learnt from the above example that it depends also on such personality traits as kindness, sense of responsibility, patience or short-temper.
+
+4. Behaviour of others - In the above example, the fight did not continue thanks to Saman's patience. If he too had reacted angrily, the fight would have ended causing more harm to both. Therefore the behaviour of others affects our reactions.
+
+5. Experience - The above incident taught Vipula the danger of reacting impulsively. Such experiences teach us how to react patiently. A person who has experienced attending funerals before, would know better how to cope with grief resulting from the loss of a relative.
+
+6. Life style - We react to our feelings according to the things we learn from the environment. If the people around a child always react in anger when a problem arises, then the child too will react in the same manner.
+
+7. Age groups - When in discomfort or in hunger an infant cries. During childhood some frown or cry when they want to show their displeasure. When they reach adolescence, they either walk away or argue. Thus we can see that age, too, has an effect on controlling one's emotions.
+
+In day-today life, how many challenges do you face? Everyone will face situations of sadness and distress due to factors such as sickness, separation from friends, competitive exams and financial difficulties. The same way there will be happy occasions as well such as meeting
+
+Figure 11.3
+
+125For Free Distribution.
+
+friends, attending functions and receiving gifts. Therefore both sad and happy occasions are common to everyone. By learning to react calmly to both positive and negative emotions, we can avoid stress.
+
+Some skills that help in maintaining emotional balance
+
+1. Empathy
+
+The ability to understand another's emotions or feelings in the exact manner is empathy. Then you can understand why the other person reacted in the manner he/she did and respond accordingly. This helps us to develop good qualities of helping others and not ridiculing them.
+
+2. Good interpersonal relationships
+
+In our day to day life we meet different types of people, such as parents, teachers, friends, other students, passengers in buses etc. We can minimize problems if we learn to tolerate others' weaknesses and be co-operative and flexible. This helps us to minimize unpleasant situations we come across in society. You will become a pleasing personality to the society as a whole. In the process you will get the co-operation of others to solve problems that you face.
+
+3. Effective communication
+
+Effective communication means listening to others' views patiently and expressing your ideas clearly. By exchanging ideas clearly we can minimize problems and work efficiently when working as a team.
+
+Figure 11.4
+
+126For Free Distribution.
+
+4. Minimize mental stress
+
+You may remember learning in grade 6, what you should do when you have unpleasant or stressful emotions.
+
+What you can do when you have unpleasant emotions
+
+Figure 11.5
+
+• Avoid such situations• Listen to a song or play a game• Count from 1 to 10 slowly• Take deep breaths quietly• Drink a glass of water slowly• Engage in a method of meditation that you know
+
+Let us put it into practice
+
+Imagine that you found that someone had eaten your lunch when you returned from the play ground during the interval. Discuss with your teacher your emotions and what you should do to get over such emotions.
+
+When you feel emotions such as anger, sadness or jealousy, try to divert your attention to something else and later think about it and identify the reason for it.
+
+Meditation helps you to avoid unpleasant emotions and helps you to relax.
+
+127For Free Distribution.
+
+The importance of emotional balance
+
+1. Avoiding unpleasant feelings that arise with stressful emotions.2. Developing self esteem.3. Developing good interpersonal relationships and becoming a person with a pleasant personality.4. Developing your capacity to cope with challenges by enhancing your efficiency.
+
+Maintaining emotional balance within the family
+
+Man has various needs. Beside basic needs like food, water and air, man also has needs such as housing, clothes and accessories, education, security and love. If these needs are not fulfilled, one develops negative emotions.
+
+eg. Saman noticed that his friend Nirodha was sad. That day Nirodha was inattentive in class. He had his head down on the desk. When Saman inquired as to why he was sad, Nirodha told him that his father had lost his job and that they had financial difficulties. He had not had his breakfast that day. Saman immediately shared his food with Nirodha. After the meal Nirodha became active again. He attended to his school work happily.
+
+In the above example you would have understood that Nirodha became unhappy because he couldn't fulfil his basic need of food. When a basic need is not satisfied, it is difficult to pay attention to other vital needs such as education.
+
+The members of your family contribute in different ways to fulfil your needs and requirements. Your parents work hard to provide your food, clothes, accessories and other requirements. You also have a duty and responsibility to help them in this regard.
+
+128For Free Distribution.
+
+Let us consider the various requirements that should be fulfilled within the family:
+
+Figure 11.6
+
+1. Basic needs and requirements2. Self esteem3. Good interpersonal relationships4. Team work5. Equality6. Control of stress7. Creation of opportunities8. Mental and physical development9. Fairness
+
+To fulfil these requirements of the family, the members of the family work hard together. The money required for the basic needs like food for the family is earned by the father and the mother. Your parents do their best to provide you with well prepared food and clean water. They also strive to provide you with clothes and accessories and a house with fresh air. They try their best to give you a good education. They also look into your security and protection and give you love and affection. They keep you healthy and look after you and provide you with medicine when you are ill and keep you fit mentally and physically. The family lays a good foundation for you to develop self esteem and be a good citizen. Your parents and other members of the family identify your talents and skills while appreciating your achievements, so that you will achieve your targets. In a family it is important that food, clothes and other accessories are shared equally by all, according to their requirements. You begin to learn the basic concept of treating everybody equally from your parents and other adults in the family.
+
+129For Free Distribution.
+
+You spend most of your life with the members of your family. In the same way that the members of your family contribute a lot towards your upbringing and welfare, you too must help them whenever possible. You too must help them to fulfil their needs by giving them love and kindness, helping each other when working as a team and by controlling your stress without being a burden to others.
+
+Maintaining your emotional balance when you work with the other members of the family will help to enhance happiness, unity and welfare within the family. It is important to understand others' ideas and act patiently: respect others' points of view and take correct decisions. Discuss with your parents when you come across problematic situations and when a member of the family faces a problem, help them to solve it and listen to their problems and grievances. When you have financial problems the whole family must work together as a team. Then you will be able to solve the problems successfully. This will enable you to maintain peace, happiness and good moral standards within the family. The way you acted in various situations in your home, whether they were successful or not could be discussed later and it will prepare you to face such problems better in future.
+
+Now we know....
+
+Emotions are feelings or states of mind that arise suddenly and trigger changes in your mind or behaviour.
+
+Emotional balance means one's ability to react well by thinking intelligently at emotional moments.
+
+Factors such as situation, understanding, personality, others' behaviour, experience, life styles and age, affect one's ability to maintain emotional balance.
+
+130For Free Distribution.
+
+Skills that help in maintaining emotional balance include empathy, good interpersonal relationships, productive communication and minimizing mental stress.
+
+We will benefit in many ways by maintaining our emotional balance.
+
+Fulfilment of basic needs and other requirements will help us maintain emotional balance in the family environment.
+
+By taking correct decisions within the family, respecting others' views, understanding others' feelings and balancing our emotions, we can have peace and harmony at home.
+
+Let us test our knowledge
+
+1. Name five factors affecting emotional balance.
+
+2. Write three skills required to balance your emotions.
+
+3. Write three benefits of maintaining your emotional balance.
+
+131For Free Distribution.
+
+The most important duty of a sportsman/woman is to respect the rules, regulations and ethics in sports and abide by them. A sportsman/woman should have a basic understanding of the rules and regulations of the sport. A player should be trained to accept the decisions of umpires with respect. Such sportsmen and women are considered well behaved and self disciplined and earn the respect of the public.
+
+Last year you learned about the importance of being law abiding and courteous in sports as well as in your day to day life. You also learned that sport fosters mutual respect and tolerance of, and respect for, different views.
+
+In this lesson you will learn the importance of abiding by the rules, regulations and ethics in sport and your duties and responsibilities in that regard.
+
+Rules and regulations in sport
+
+Rules and regulations are an agreed set of conventions in accordance with which a sport has to be conducted.
+
+Figure 12.1
+
+12Let us respect the rules, regulations and ethics in sport
+
+132For Free Distribution.
+
+Although the origin of sports rules and regulations is not known exactly it is reported that certain rules and regulations had been in place during the first Olympic games in 776 BC. With the development of sports and the increase of competition in it, the rules and regulations have evolved to their present status undergoing change from time to time.
+
+Sports are governed by rules and regulations. Any game has a set of rules that tell us how it is played. Rules applicable in organized games and athletics are formulated by the relevant international sports bodies.
+
+Rules are necessary to ensure fairness and equality to all in sports. Regulations are to form terms and conditions being within the frame of rules.
+
+Ethics in sport
+
+Figure 12.2
+
+Moral principles and values that govern a person's conduct are referred to as ethics. In sports, ethics call for good behaviour, observing traditions so that the sport can be conducted in accordance with its rules and regulations.
+
+Your elders may have taught you what is accepted by the society as
+
+133For Free Distribution.
+
+ethical. Ethics are essential to have a good society. How far do you observe them?
+
+Why are rules, regulations and ethics required in sports?
+
+1. For the existence of sports2. To protect the rights of the participants3. To minimize accidents4. To encourage participation in sports with enthusiasm5. To obtain fair victory at competitions6. For fair play7. To maintain the dignity of sports8. To minimize disputes 9. To develop good personal values
+
+Figure 12.3
+
+If every individual in this society is law abiding, the entire society will be law abiding. You can contribute to building such a society.
+
+Let us consider how adhering to the rules, regulations and ethics in sports are important to you, your family, your school and the society.
+
+134For Free Distribution.
+
+The benefits that you and your family will get by adhering to rules, regulations and ethics in sports
+
+• To be a law abiding citizen • To develop your personality • To engage in sports without disputes and clashes • To ensure fair results and accept victory and defeat • Avoidance of penalties, negligence and insult • Inculcation of self discipline • You can earn respect and praise from your parents, teachers, elders and the society• Your friends and people in the society will like you more • Can develop good social relationships • Become a sociable individual• Your family will be proud of you• Develop self esteem
+
+Therefore you should try to be an individual who follows rules, regulations and ethics in sports. Then you will be accepted in the field of sports and in the society as a law abiding and respected person.
+
+Let us put it into practice
+
+Write down some rules, regulations and ethics that are observed in your family and the benefits that are gained thereby.
+
+135For Free Distribution.
+
+The benefits that a school enjoys by adhering to rules, regulations and ethics in sports
+
+• Having well disciplined and competent sports teams is good for the reputation of a school. • Your school will be recognized as a law abiding and disciplined school.• Your school will become, and be recognised as, a school with good organizational ability.• Personal qualities of students will develop.• Students will be recognized and respected in the society.• The school will have amiable students with good team spirit.• Law abiding and self-disciplined students can be produced by the school for the society.• Clashes and disputes at sports events can be avoided or minimized.• Inter-school co-operation will improve.
+
+Other than the ones mentioned above, there are many more benefits as well. If respect for rules and regulations and due observance of ethics can be ensured at individual, family and school levels, the society you belong to will automatically become a law abiding and disciplined society.
+
+The benefits derived by the society by adhering to rules, regulations and ethics
+
+• Active, honest and law abiding citizens can be produced • Clashes and disputes in the society can be minimized• Crimes such as robbery, stealing and corruption will be minimized• Team spirit will be developed• Unity, friendship and co-operation will foster in the society• Victory and defeat can be taken in the correct spirit
+
+136For Free Distribution.
+
+Let us put it into practice
+
+Get together with your classmates and list down several ways in which rules, regulations and ethics contribute to the creation of a law abiding and disciplined society.
+
+Your duty and responsibility in relation to rules, regulations and ethics in sports
+
+1. Honour the decision of the umpire/referee
+
+As a sportsman/woman it is important that you honour the decision or the ruling of the umpire or referee. You should always;
+
+• Appreciate the services rendered by umpires and referees.• Treat them with respect from the beginning to the end of the game.• Humbly and courteously acknowledge when a fault is pointed out.• Avoid arguing with, insulting or being sarcastic of an umpire/ referee.• If you think that a decision is wrong, present your case through the captain of your team in a lawful manner.
+
+Figure 12.4
+
+137For Free Distribution.
+
+2. Develop qualities of good sportsmanship
+
+It is important to know good qualities of sportsmanship when participating in sports. It includes;
+
+• Acting with team spirit• Acting with a sense of fairness• Accepting victory and defeat equally well• Act as a leader when required• Accept the captain's decisions• Be courteous, friendly, patient and courageous.
+
+Figure 12.5
+
+3. Encourage others to abide by rules and regulations
+
+As much as you develop sportsmanship qualities, encourage others to do so too. Other school children, people in the society and spectators will then be encouraged to respect rules and regulations and observe ethics. Don't approve of the conduct of those who undermine rules, regulations and ethics. Even if you lose the game, avoid violating rules and regulations.
+
+138For Free Distribution.
+
+Figure 12.6
+
+Let us put it into practice
+
+Get together with all your classmates and draw a poster, to create awareness among the school children about the rules, regulations and ethics in sports. Put it up on the notice board.
+
+Now we know....
+
+Rules and regulations are prescribed to conduct a sport well.
+
+Ethics in sports are the moral principles and values that govern the conduct of sportsmen and women. Ethics help in conducting the sport according to its rules and regulations.
+
+Respecting rules and regulations and observing ethics in sports will make you, your family, your school and the society benefit in day to day activities.
+
+Your co-operation is necessary to maintain respect for rules and regulations and encourage ethical conduct in sports.
+
+139For Free Distribution.
+
+It is your duty to respect decisions of umpires or referees, develop good qualities of sportsmanship and encourage others to obey rules and regulations in sports.
+
+Acting with due regard for rules and regulations and behaving ethically in sports will earn you the recognition of being a well-mannered individual and pave the way to become a law abiding citizen in the future.
+
+Let us test our knowledge
+
+1. Write five reasons why rules, regulations and ethics in sports are necessary.
+
+2. List three benefits you get by observing rules, regulations and ethics in sports.
+
+3. Name four benefits your school will receive when its students conduct themselves with respect for rules and regulations in sports.
+
+4. Mention three ways in which you can safeguard rules, regulations and ethics in sports.
+
+5. List four ways the society will benefit by observing rules, regulations and ethics in sports
+
+6. Write five good qualities that you will develop by participating in a sport.
+
+140For Free Distribution.
+
+We must maintain our physical, mental and social fitness in order to lead a healthy life. By taking part in sports and aesthetic activities from your childhood and thereby leading an active life, you maintain not only physical fitness, but also mental and social fitness.
+
+Do you remember that in grade 6, you learnt how to live a healthy life by maintaining your physical fitness, doing physical fitness tests and engaging in rhythmic exercises to develop physical fitness?
+
+In this lesson you will learn about physical fitness factors and how to develop your physical fitness through natural activities and get to know about physical fitness tests.
+
+Factors connected with physical fitness
+
+Physical fitness is a combination of factors we can improve, for the maximum and correct performance of physical activities. These factors are known as physical fitness factors. Physical fitness can be developed by engaging in exercises, training programmes and sports. These factors are important to perform different movements in sports. Developing physical fitness factors you would get many other benefits, such as loss of weight, being healthy and efficient, ability to act swiftly during an emergency and experiencing less fatigue during physical activities.
+
+13 Let us develop our physical fitness
+
+141For Free Distribution.
+
+The following are the physical fitness factors
+
+1. Speed2. Strength3. Flexibility4. Coordination5. Endurance
+
+Speed
+
+Speed, refers to doing an activity in the shortest possible time. Speed is an important factor in sports like volleyball, netball, football and athletic events.
+
+• In volleyball when the ball is hit, the player should move at a great speed to the place where the ball would possibly land. To defend the attack the attacking point must be covered speedily with both hands. • In netball speed is required when passing the ball, running to get the ball and defending a player.
+
+Figure 13.1
+
+• In football, speed is required to take the ball quickly to the goal. • In athletic events such as running, jumping and throwing speed is very important for successful completion of the action.
+
+142For Free Distribution.
+
+Let us put it into practice
+
+Choose a sport that you can engage in, with the available facilities in your school, and find where speed is required in that sport.
+
+Strength
+
+Strength, is one's ability to do something.
+
+Strength is an important factor in sports such as volleyball, football netball and athletic events. • In volleyball strength in the arms is required to spike the ball. Strength in the legs is also required for the players playing near the net to jump up. • In netball strength in the hands is required to throw the ball correctly. The defenders of the shooters need strength in the legs in order to jump up and defend the ball.
+
+Figure 13.2
+
+• In football strength in the legs is required in order to kick the ball far. Strength is also required in the hands in order to throw the ball. •
+
+143For Free Distribution.
+
+• Strength is required in athletic events such as put shot, discus and javelin throwing.
+
+Let us put it into practice
+
+Find the instances where strength is required in a sport that can be engaged in with the facilities available in your school.
+
+Flexibility
+
+Flexibility is the ability to move parts of your body such as your hands and legs bending and stretching them freely at joints. The greater is your flexibility, the greater the extent to which you can bend and stretch your limbs in various activities.
+
+Flexibility is an important factor in sports such as football, volleyball, netball and athletic events. • Sometimes in volleyball to defend the court, a player will have to bend low almost touching the ground. At the same time you may have seen players bending their body, arms and legs when playing volleyball. • In netball, flexibility is important to develop skills. The defender of the shooter will have to be very flexible in order to defend her. According to the movements of the player with the ball, the defending player will have to bend and stretch her hands, legs and body. • In football the goalkeeper have to be active bending and stretching his body in order to defend the goal.• Flexibility is very important for various postures in gymnastic.
+
+144For Free Distribution.
+
+Figure 13.3
+
+Let us put it into practice
+
+Find instances where flexibility is required in a sport that you can play with the facilities available in your school.
+
+Co-ordination
+
+Co-ordination means the ability to coordinate the functions between different parts of the body efficiently. For example, your hands and legs move in coordination with your sense organs such as your eyes, ears and the skin.
+
+Co-ordination is an important factor in sports such as football, volleyball, netball and athletic events.
+
+• In volleyball your muscles and nerves should provide good co-ordination to take your hands to the correct place when the attack from the opposite side is spotted by your eyes.• Co-ordination is necessary among the players in netball to pass the ball to the correct place and the correct player.
+
+145For Free Distribution.
+
+Figure 13.4
+
+• Co-ordination is also important in football to take the ball forward avoiding the opponents. • Co-ordination is also important when throwing javelin with a run-up.
+
+Let us put it into practice
+
+According to the facilities available in your school, select a sport and find instances where co-ordination is required.
+
+Endurance
+
+The ability to engage in an activity with ease for a long period of time is endurance.Endurance is required in athletic events, football, volleyball, netball and many other sports. • In volleyball, endurance is important to maintain fitness for a long period of time if the game goes into several sets. • In netball, endurance is necessary to play competently till the end of the game. • In football, the players have to engage in running all over a large area of the field. For this reason football players have to develop endurance to a great extent.
+
+146For Free Distribution.
+
+Figure 13.5
+
+The above factors of physical fitness are important not only for sports men and women but for everyone. They are important to perform day to day activities effectively and maintain proper physical fitness. Therefore you must engage in activities that would help to improve these factors.
+
+Let us put it into practice
+
+Make a list of activities that you can do daily, to develop your physical fitness factors by re-calling the lessons learnt in grade 6.
+
+Physical fitness development through natural activities
+
+Natural activities are activities such as running, jumping and throwing. It is important that you improve your physical fitness by engaging in such activities. Let us look into some suitable activities for this purpose.
+
+By participating in minor games we can develop a few factors of physical fitness. Therefore by participating in sports daily, physical fitness can be developed.
+
+147For Free Distribution.
+
+Activities to improve speed
+
+Certain minor games will help to improve speed. The victory depends on the speed in which the game is completed. Take part in these minor games with the guidance of your teacher.
+
+1. Shuttle relay• Fall into 4 teams as A,B,C & D. Line up as given in the figure 13.6• In all teams the first player takes the baton and runs round anti-clockwise.• The first player runs round and gives the baton to the second player in the team.• The first player must go to the back of the line and stand there.• The second player does the same and gives it to the third player.• In this way the team that finishes first wins.
+
+B
+
+A
+
+D
+
+C
+
+v
+
+v
+
+v
+
+v
+
+xxxx
+
+xxxx
+
+xxxx
+
+xxxx
+
+Figure 13.6
+
+2. Fishing net game • Mark a square on the play ground.• One student runs into the square to catch the other students.• The student he catches joins hands with him, forming a net.• After that they jointly run to catch the others.• The students thus caught join the net.
+
+148For Free Distribution.
+
+3 . "Ambili Penima" ( jumping & changing circles)• An 'Ambilya' is a circle drawn by your foot on the ground. • Four students draw their 'Ambili' (circle) and stand in them as in figure 13.7 • One student stands in the middle.• When the 4 students exchange their places, the one in the middle tries to conquer one circle.• The one who does not have a circle goes to the middle one.• Go on playing this game.
+
+Figure 13.7
+
+12
+
+34
+
+5
+
+When doing this game, one has to run back and forth at a great speed. Through this, you can develop your speed.
+
+Let us put it into practice
+
+Design minor game to improve speed.
+
+Activities to improve strength
+
+Strength can be improved by engaging in physical activities, against a force or a weight.
+
+1. Escape a trap • Four can take part in this game. • Three stand in a circle holding hands.• The one in the middle tries to escape and go out of the circle.
+
+149For Free Distribution.
+
+2. Jump Standing Broad ("hiti dura panima")• Fall into several teams of equal strength and line up.• The one at the front of each line leaps forward.• Measure the distance jumped.• From there the second player in the line jumps in the same manner.• Measure each jump and get the total distance jumped by the team.• The team that jumped the furthest is the winner.
+
+3. Cock fight• Two stand on one leg inside a circle.• Their hands should be behind their backs.• Push the other player with the shoulder.• The one who moves out of the circle is out.• Or the one who puts the leg down is out. • This must be done carefully.
+
+Let us put it into practice
+
+Design a minor game to develop strength.
+
+Activities to develop flexibility
+
+Flexibility can be developed by engaging in minor games and activities that involve bending and stretching of parts associated with the joints, muscles and tendons.
+
+eg: Engaging in games that have originated from gymnastics such as rolling forward, rolling backwards etc.
+
+150For Free Distribution.
+
+Let us put it into practice
+
+Design a minor game to improve flexibility
+
+Activities to develop co-ordination
+
+Co-ordination is necessary in order to complete various complex movements fast, correctly and efficiently. Breaking the tail• Draw a square or a circle on the ground large enough for the number of students. • Place a handkerchief at the back of the waist of every child. That is the tail.• Every child must try to break the tail of others while protecting his/ her own.
+
+Let us put it into practice
+
+Design a minor game to develop co-ordination
+
+Before starting physical fitness exercises one must engage in warming up exercises. After the physical fitness exercises one must do warming down exercises too.
+
+When participating in physical fitness exercises, one must be mindful of safety. One can lead an efficient and healthy life by doing these activities regularly.
+
+151For Free Distribution.
+
+Let us test physical fitness factors
+
+Do you remember the tests you did to assess physical fitness in grade 6? Do you have the results of those tests with you? After one year you can see how your physical fitness has improved, when we do the physical fitness tests again.
+
+A suitable playground is necessary in order to minimize accidents and injuries while doing physical fitness exercises. Warming up is important before starting physical fitness exercises. After these tests warming down exercises must be done.
+
+Your teacher will do the following tests for you. Tests to measure speed
+
+Figure 13.8Measure the time taken to run 50 metres. After that calculate the speed using the following method.
+
+DistanceTimeSpeed}
+
+50 metresTime taken (seconds)speed }
+
+152For Free Distribution.
+
+Tests to measure strength
+
+1. Skill of Jumping up
+
+abFigure 13.9
+
+As in the figure 13.9a lean against the wall and raise your hand. Mark the point at which you touched the wall. Now using all your strength jump up and touch the wall (figure 13.9b). Mark that point too. Measure both heights and see.The greater the height jumped, the stronger your legs are.
+
+2. Throwing skill
+
+Figure 13.10
+
+153For Free Distribution.
+
+Hold the ball as in the figure 13.10
+
+Hold the ball close to the chest in front of you. Throw the ball forward with both hands from the starting point. Mark the point at which it landed and measure the distance. The greater the distance the ball is thrown, the stronger your hands are.
+
+Test to measure flexibility
+
+Test on bending forward
+
+Figure 13.11
+
+As in the figure 13.11 place the measuring tape on a small strong table. Stand on the table, bend the trunk as shown and try to touch the lowest point possible. If you can touch the centimetre +1 mark, your flexibility is good.
+
+154For Free Distribution.
+
+Test to measure co-ordination
+
+Figure 13.12
+
+Activity coordination test1. Stand up. 2. Bend knees and touch the ground.3. Stand up again.4. Clap.5. Bend down again and touch the ground.Count how many times you can do this within 20 seconds. The greater the number of times you do within the time, the better your co-ordination is.Test to measure endurance
+
+Figure 13.13
+
+155For Free Distribution.
+
+600 meter sprintFrom the starting point run 600 meters and measure the time taken to complete the distance. The lesser the time taken, the better your endurance is.
+
+Now we know....
+
+Physical fitness is important for a healthy life.
+
+We have five physical fitness factors namely: speed, strength, flexibility, co-ordination and endurance.
+
+We can create physical fitness activities through natural activities such as running, jumping and throwing.
+
+We can maintain our physical fitness factors by checking them with various types of tests.
+
+Let us test our knowledge
+
+1. Name the five factors of physical fitness you learnt.
+
+2. Describe a test to measure each physical fitness factor.
+
+156
+
+For Free Distribution.
+
+This wonderful period in your life between the ages of 10-19 years during your transition from childhood to adulthood is known as adolescence. Puberty coincides with adolescence. During this period the secondary sexual characteristics begin to appear. With these changes many psychological, physical and social changes take place. Some of these changes are common to both males and females and some are different. Although these changes are natural, being aware of them can help you to cope with them successfully.
+
+Do you remember learning about how to cope with diseases, accidents, disasters, abuse, exploitation and ambitions, in grade 6?
+
+In this lesson you will learn about the structure and function of the female and male reproductive systems, the changes that take place during puberty and how to face challenges during adolescence.
+
+Reproductive health
+
+You are a united creation of your mother and father. They brought you to this world. In the future you will become a father or a mother. Producing children helps in the preservation of mankind. All living beings produce the young in order to preserve their kind. The human reproductive system is designed to produce children.
+
+Reproductive health is defined as physical, mental and social well-being in matters related to reproduction at all stages of life.
+
+14Let us get ready for adolescence
+
+157For Free Distribution.
+
+Let's study the structure and functions of the female and male reproductive systems.
+
+Female reproductive system
+
+The embryo formed by the fusion of the father's sperm and the mother's ovum (egg) develops into a foetus inside the uterus (womb). Thereafter until birth takes place after nine months, it is nourished and protected in the uterus. As the uterus is a muscular organ, when the embryo grows the uterus also expands.
+
+Sperm ejected by the penis inside the vagina during sexual intercourse, travels through the vagina into the uterus. Thereafter, the sperm fuses with the ovum in the oviduct. If a child is not conceived in this process some parts of the inner lining of the uterus collapses and passes out through the vagina together with blood. This process that happens every 28 days is known as menstruation.
+
+The different functions of each organ of the female reproductive system
+
+1. Ovary -Production of female reproductive cells (ova- eggs)2. Fallopian tubes - Transportation of the ovum produced in the ovary to the uterus
+
+Figure 14.1 - Female reproductive system
+
+Fallopian tube
+
+Uterus
+
+Vagina
+
+Ovaries
+
+Cervix
+
+158
+
+For Free Distribution.
+
+3.Uterus - Nourishing and protecting the embryo until birth4. Vagina - Provides a passage for the sperm to pass from the penis to the cervix, facilitation of menstruation and child birth
+
+Male reproductive system
+
+The male reproductive system consists of a few organs externally visible. The male sperms required to produce an embryo are produced inside the testes. In order to maintain the low temperature for the formation of sperms, the scrotal sac is formed outside the body.
+
+A liquid secreted by the seminal vesicle mixes with sperm. The penis ejects semen into the vagina during sexual intercourse.
+
+penis
+
+The different functions of each organ of the male reproductive system.
+
+1. Testes - Produces sperms2. Scrotal sac - Holding the testes outside the body keeping the temperature low3. Penis - Ejects semen into the female reproductive system
+
+Seminal vesicles
+
+TestisScrotal sacUrethra
+
+Penis
+
+Prostate gland
+
+Bladder
+
+Vas deferense
+
+Figure 14.2 - Male reproductive system
+
+159For Free Distribution.
+
+4. Prostate glands - Nourishes the sperms and produces the secretion necessary for the sperms to swim
+
+Appearance of secondary sexual features
+
+Around the age of 10-11 years the physical growth in girls is faster than that of boys. During this age girls appear to be bigger than boys. That is the beginning of puberty in girls. In the case of boys the rate of growth between the ages of 16-18 is greater than that of girls of the same age.
+
+The reproductive systems that remained dormant during childhood in both males and females become active during adolescence. The main physical changes that take place during this period is the beginning of the menstrual cycle in girls and the production of sperms in the testes in boys. These changes are due to the production of certain hormones in the body. These hormones are oestrogen and progesterone in the case of girls and testosterone in the case of boys. These hormones are responsible not only for physical changes, but also for certain psychological and social changes.
+
+Physical features Table 14.1FemaleMale• Increase in weight and height• Growth of breasts• Nice skin complexion• Hips getting broader• Growth of thighs• Growth of pubic and axillary hair• Occurrence of pimples• Production of vaginal fluid• Beginning of menstrual cycle
+
+• Increase in weight and height • Prostate glands, testes and penis getting larger• Increase in shoulder breadth• Growth of thighs and biceps• Developing chest, pubic and axillary hair• Occurrence of pimples• Enlargement of larynx• Change of voice • Growth of moustache• Ejaculation
+
+160
+
+For Free Distribution.
+
+Psychological features• Beginning to think logically. • Tendency to think scientifically.• Desire to experiment on new things.• Desire to come up with inventions.• Showing interest in the figure, looks, clothes, hair styles etc.• Showing bravery.
+
+Social features• Desire to associate with the opposite sex.• Association of peers.• Interest in group activities.• Revolt against injustice and wrong doing.• Desire to be involved in community service.• Desire to attain adulthood.• Desire to identified as a competent person.• Interest in leadership.
+
+Although the physical changes are different, the social and psychological changes are often the same among both boys and girls.
+
+Let us get ready for adolescence
+
+Although the secondary sexual characteristics you learnt are natural, you have to be ready to face them.
+
+How do we get ready for these changes? What are the skills that we should develop?
+
+Figure 14.3
+
+161For Free Distribution.
+
+Physical readiness
+
+1. Develop awareness about the following facts:• The structure and function of the reproductive system.• Menstrual cycle.• Ejaculation of sperms.• Secondary sexual characteristics.
+
+2. Have nutritious food It is vital that you take a nutritious diet since, during your adolescence you undergo a speedy growth, both physically and psychologically. Nutritional deficiencies at this stage retards growth while making the child less active. During this period additional amounts of iron, calcium and protein are necessary. Malnutrition in girls at this stage can lead to low birth weight in their babies later in life.
+
+3. Engage in exercises and sports Both physical and mental well-being can be achieved by engaging in exercises or outdoor activities for at least one hour a day. This will help you to cope better with the changes that take place during adolescence and also maintain good health.
+
+Figure 14.4
+
+4. Refrain from wrongful sexual conduct and avoid unwanted pregnancies
+
+162
+
+For Free Distribution.
+
+Refraining from wrongful sexual conduct both during your adolescence and adulthood will lead to a healthy life. You will also avoid venereal diseases (sexually transmitted diseases). By engaging in good hobbies like reading books, doing sports,listening to songs and drawing, you can balance your life style.
+
+5. Maintenance of personal hygiene Keeping your reproductive organs clean is important to avoid diseases of the reproductive system. It is the responsibility of girls to properly dispose used sanitary towels during menstrual period.
+
+Mental readiness
+
+1. Try out good and new things2. Identify and develop ones skills3. Engage in creative activities eg: singing writing of poetry and articles drawing (art)4. Personality development through sports5. Don't allow yourself to get misled by commercial advertisements.6. Refrain from smoking, using narcotic drugs and obscene books, films and literature. Be strong enough to keep away from what is not good for you and resist attempts by others to persuade you to do such things. You should also help your friends to do the same.
+
+Social readiness
+
+You must be a well disciplined, good person if you wish to be recognised as a pleasant young man or a woman.
+
+Figure 14.5
+
+163For Free Distribution.
+
+The above mentioned matters about mental and physical readiness are important for that purpose.
+
+In addition the following factors are important for social readiness.
+
+1. Share both sorrow and joy2. Discuss and find out the views of others on different things in society3. Engage in sports, aesthetic activities and good hobbies4. Join the scout and guide troops and the cadet platoon5. Be a member of different clubs and societies in your school6. Shoulder responsibilities on your own
+
+Myths about the reproductive system
+
+Menstruation - A girl's first menstruation is known as attaining menarche. All girls do not attain menarche at the same age. Different factors such as nutritional level, genetic factors and environmental factors can have a bearing on this. Menstruation can be irregular in the first two or three years but usually it takes place every twenty eight days in a cycle.
+
+It is a myth that bathing during the menstrual period will make the blood travel upwards and make the individual ill. Hygiene is compulsory during this period.
+
+Although the menstruation period is considered unclean (kili) it is ones own blood that passes out of the body. The difference with the blood that seeps from a wound and menstruation is that it has mucus and some tissues of the uterus lining passing with it.
+
+Figure 14.6
+
+164
+
+For Free Distribution.
+
+There is a myth that girls should not consume fish and meat ('pilee food') during the menstrual period. The requirement of protein is high as this is a period of growth. During this period food containing protein such as fish, meat, eggs and milk is important.
+
+There can be minor aches and pains in the stomach and in the back. If there is no discomfort you do not have to keep away from sports activities. It is good to follow your daily routine.
+
+Ejaculation of semen - The production of semen in the testes starts during puberty. The passing out of semen during one's sleep at night is known as nocturnal ejaculation which is a natural occurrence. It is a myth that the passing out of semen makes the body weak.
+
+Factors that influence reproductive health Different factors influence reproductive health. Among these, a few important factors are mentioned below. 1. Healthy habits2. Peer pressure3. Harmful sexual acts 4. Hormones
+
+Healthy habits
+
+This includes; Getting proper nourishment Maintaining personal hygiene Engaging in sports and exercise Getting rest and exerciseThese healthy habits will have an influence on reproductive health.
+
+Figure 14.7
+
+165For Free Distribution.
+
+Peer pressure
+
+It is natural during adolescence to desire association with the opposite sex and the society. It is important to take correct decisions without allowing yourself to get misled by bad influence. Your peers are more or less of the same level as you as far as mental development and intelligence are concerned. Therefore when you have a problem, get used to seeking advice from a decent adult like a teacher or your own parents.
+
+There is a danger of getting used to smoking, taking liquor and narcotic drugs during this period. There can be friends and some adults who may encourage you to indulge in these activities. You or even others can meet with accidents while bathing in rivers and the sea or even cycling at high speed. Get used to resisting and avoiding such things. Do not associate with such individuals and keep away from such situations. Even adults if they care for you, should not encourage you to do such things nor should they do any harm to you. Get advice from parents and teachers before taking decisions in such situations. Don't take decisions with your friends without informing your parents and teachers.
+
+Harmful sexual acts
+
+Getting sexual desire and feelings is natural with the emergence of secondary sexual characteristics. But the body developing during adolescence is not yet the same as that of an adult. The uterus is not ready for child birth till you are at least 19 years old. In Sri Lanka you have to reach the age of 18 in order to get married. It is only after reaching the right age and after marriage, one should indulge in sex. That will account for one's physical and mental well-being. That way, unnecessary childbirths and sexually transmitted diseases can be avoided. Since motherhood and fatherhood are noblest of attainments in the world, it should be undertaken only at the proper time, happily, and when you are ready for it.
+
+166
+
+For Free Distribution.
+
+Sexually transmitted diseases are those that get transmitted through sexual activity. eg: AIDS, syphilis, genital herpes, gonorrhoea and genital warts.
+
+These diseases pose a threat to good health and cause one to be cornered in the society.
+
+Hormones
+
+Hormones are chemicals produced by various glands in the body necessary for its functions. These hormones are transported from the glands to various parts of the body by the blood. The hormones oestrogen and progesterone in females and testosterone in males help in the growth and maintenance of the reproductive system. These hormones also influence emergence of secondary sexual features during adolescence.
+
+Now we know....
+
+In order to facilitate reproduction, the male and female reproductive systems are differently adapted in structure and function.
+
+The secondary sexual characteristics of both males and females emerge during the ages between 10-19 (adolescence). Hormones, hereditary and environmental factors influence this process.
+
+During this stage, it is important to successfully cope with the physical, psychological and social changes experienced, by having correct awareness and the necessary skills and being ready to face it physically, mentally and socially. You should not be misguided by myths.
+
+Reproductive health is affected by healthy habits, peer pressure, harmful sexual acts and hormones.
+
+167For Free Distribution.
+
+By improving reproductive health you can avoid unnecessary child birth and sexually transmitted diseases and achieve physical, social and mental well-being.
+
+Let us test our knowledge
+
+1. Name the parts of the female reproductive system.
+
+2. Write the main parts of the male reproductive system and the functions of each part.
+
+3. Write three secondary sexual characteristics common to both males and females.
+
+4. Write two skills you should develop in order to be prepared physically, mentally and socially to face adolescence.
+
+5. Write four factors that influence reproductive health.
+
+168
+
+For Free Distribution.
+
+Can you remember an instance when you suffered from fever, cough or a cold? It is difficult to find a person who has not suffered one of these. In the same way you may have wondered from whom you contracted the disease. Most probably you may have been infected with a communicable disease. This is a disease that is transmitted by a germ which can be a bacteria or a virus. There are also diseases which not transmitted by vectors. Very often you will have to face the challenge of avoiding various diseases. Therefore you should be aware of such diseases.
+
+Can you remember in grade six you learned about methods to prevent diseases and harmful effects of diseases.
+
+In this lesson you will learn about non-communicable diseases and how to avoid them by adopting a suitable life style.
+
+Non-communicable Diseases
+
+Non-communicable diseases are illnesses that are non-infectious or do not get transmitted from person to person. They are caused by changes in certain process of the body. These diseases can be avoided by following a healthy life style.
+
+Let us put it into practice
+
+Name the diseases you know and list them under two headings as communicable and non-communicable diseases with the help of your teacher.
+
+15Let us prevent non-communicable d iseases
+
+169For Free Distribution.
+
+Non-communicable diseases can be categorized into acute and chronic illnesses
+
+Acute illnesses are illnesses that are caused by accidents and are not permanent. We can get completely cured but according to the severity we may have residual complications later on.
+
+Chronic diseases are long lasting illnesses involving changes that take place in the physical functioning of the body. We need long term treatment for these. Chronic diseases may be brought under control by taking regular treatment.
+
+PoisoningSnake biteAnimal biteElectrocutionWounds and complications caused by accidents
+
+DiabetesHigh blood pressureCancerHeart diseasesStrokeKidney problemsMental illness
+
+Non-communicable
+
+AcuteChronic
+
+Figure 15.1Figure 15.2
+
+170
+
+For Free Distribution.
+
+Factors that cause non-communicable diseases
+
+Factors that cause non-communicable diseases can be classified into two groups, namely changeable and unchangeable factors.
+
+Take for example high blood pressure. With age, the possibility of getting this disease is greater. Age is a factor that we cannot change. Other factors like obesity, inactive life style due to lack of exercise, instant food and the excessive intake of salt can be easily avoided.
+
+Table 15.1 - The factors that cause non-communicable diseases
+
+Changeable factorsUnchangeable factors • Unhealthy food patterns• Unhealthy food types (instant food, fatty food, excess salt)• Lack of exercise• Smoking• Use of alcohol and drugs• Mental stress
+
+• Age• Sex• Genetic reasons (Hereditary)
+
+Figure 15.3
+
+171For Free Distribution.
+
+The importance of preventing non-communicable diseases
+
+The patient, the family and the country as a whole will have to face economic and social problems when a person is affected by disease. When one is suffering from disease the individual and the family suffer mentally.
+
+Chronic non-communicable diseases require long term treatment as they cannot be completely cured. A large amount of money is spent on medical treatment, medical tests and medicines. This affects the economy of the family. The dependants of these patients will face difficulties if the patient can't work or faces premature death because of the disease.
+
+The country spends a large sum of money on the treatment of non-communicable diseases. When such patients are unable to work the country losses its work force and that will affect the income of the country.
+
+When we take the social factors into consideration, the other members of the family will have to sacrifice their time and energy on such patients. As an example, if the patient has to go weekly to get treatment or requires looking after when the patient's condition deteriorates the other members of the family will have to spend their time on such a patient. Then other responsibilities such as employment, looking after small children will get neglected.
+
+Due to above reasons it is important to avoid non-communicable diseases and you must adopt a healthy life style and be vigilant about these diseases and take treatment at the right time.
+
+172
+
+For Free Distribution.
+
+Precautions that can be taken, to avoid non-communicable diseases
+
+1. Take a healthy diet• eat fresh and natural food whenever possible • consume less sugar, salt and fat• minimize artificial and instant food• take at least five types of vegetables and fruits daily• drink clean water2. Engage in exercises daily. 3. Maintain your weight according to your height (correct BMI for age).4. Get sufficient rest and sleep.5. Manage Stress.6. Avoid smoking and alcohol.7. If there are elders in the family with hereditary non-communicable diseases, you must adapt a healthy life style to avoid risks as early as possible. 8. Members of families with a history of non-communicable diseases must get themselves examined regularly from early days of their lives.9. If there is a history of non-communicable diseases in your family or if there are any factors that would lead to such diseases (eg:obesity) seek medical advice at least once a year.10. As non-communicable diseases often do not show any signs or symptoms, it is advisable to get yourself medically examined from time to time.
+
+173For Free Distribution.
+
+Figure 15.4
+
+Now we know....
+
+Non-communicable diseases are diseases caused by changes in the different processes of the body and are not transmitted from one to another.
+
+These can be grouped as acute and chronic non-communicable diseases.
+
+These diseases can be caused by factors that cannot be changed like age and genetic conditions as well as those that can be changed like harmful life styles.
+
+Such diseases can cause the patient and his family various problems.
+
+To prevent non-communicable diseases you must lead a good life style.
+
+174
+
+For Free Distribution.
+
+Let us test our knowledge
+
+1. Name five chronic non-communicable diseases.
+
+2. List three acute non-communicable diseases.
+
+3. Write four factors that cause non-communicable diseases but can be changed.
+
+4. List three factors that cause non-communicable diseases that cannot be changed.
+
+5. Write four ways in which you can prevent non-communicable diseases.

@@ -1,0 +1,1793 @@
+==== BLOCKS ==== 
+
+i
+
+Information and Communication Technology
+
+WorkbookGrade 7
+
+Educational Publications Department
+
+ii
+
+First Print - 2018
+
+Second Print - 2019
+
+All Rights Reserved
+
+ISBN 978 - 955 - 25 - 0116 - 6
+
+Published by : The Educational Publications Department
+
+Printed by : Printed by Napco (Pvt) Ltd. No. 17, Makola Road, Pathima Mawatha, Kiribathgoda.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha Apa Sri Lanka Namo Namo Namo Namo Matha Sundara siri barinee, surendi athi sobamana Lanka Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye matha Piliganu mena apa bhakthi pooja Namo Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha Oba we apa vidya Obamaya apa sathya Oba we apa shakthi Apa hada thula bhakthi Oba apa aloke Apage anuprane Oba apa jeevana we Apa mukthiya oba we Nava jeevana demine, nithina apa pubudukaran matha Gnana veerya vadawamina regena yanu mana jaya bhoomi kara Eka mavakage daru kela bevina Yamu yamu vee nopama Prema vada sema bheda durerada Namo, Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldak
+
+xU jha; kf;fs; ehkhNthkxd;Nw ehk; thOk; ,y;yk; ed;Nw clypy; XLk;xd;Nw ek; FUjp epwk;
+
+mjdhy; rNfhjuu; ehkhNthk;xd;wha; thOk; tsUk; ehk;ed;wha; ,t; ,y;ypdpNyeyNk tho;jy; Ntz;Lkd;Nwh
+
+ahtUk; md;G fUizAld;xw;Wik rpwf;f tho;e;jpLjy;nghd;Dk; kzpAk; Kj;Jky;y - mJNtahd;W kopahr; nry;tkd;Nwh.
+
+Mde;j rkuf;Nfhd;ftpijapd; ngau;g;G.
+
+v
+
+Message from the Hon. Minister of Education
+
+The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan Government and myself, as the Minister of Education, to empower you all.
+
+This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders.
+
+Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence, you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim.
+
+It is your duty to give a proper value to the money spent by the government on your education. Also you should understand that education determines your future. Make sure that you reach the optimum social stratum through education.
+
+I congratulate you to enjoy the benefits of free education and bloom as an honoured citizen who takes the name of Sri Lanka to the world.
+
+Akila Viraj Kariyawasam Minister of Education
+
+Being innovative, changing with right knowledge Be a light to the country as well as to the world.
+
+vi
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you all the textbooks from grades 1-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha Wickramanayaka,Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vii
+
+Monitoring and Supervision W. M. Jayantha Wickramanayaka - Commissioner General of Educational Publications
+
+Educational Publications DepartmentDirection W.A. Nirmala Piyaseeli - Commissioner of Education Publications (Development)
+
+Educational Publications Department Co-ordination H.A.I.P. Upathissa - Assistant Commissioner
+
+Educational Publications Department Board of Editors
+
+Dr. Prasad Wimalarathna - Head,
+
+Faculty of Communication & Media Technology
+
+University of Colombo School of Computing
+
+Dr. V.G.N. Vidanagama - Senior Lecturer,
+
+University of Wayamba
+
+Dr. Senaka Amarakeerthi - Senior Lecturer,
+
+University of Sri Jayawardenapura
+
+W.W.M.D.C.B. Piyasiri - Instructor,
+
+Technical College, Hasalaka
+
+Dr. K. Thabotharan - Senior Lecture
+
+Faculty of Communication & Media Technology /
+
+University of Jaffna
+
+H.A.I.P. Upathissa - Assistant Commissioner
+
+Educational Publications Department
+
+E.N. Boralugoda - Assistant Commissioner
+
+Educational Publications Department
+
+Board of Writers
+
+Oshani Rodrigo - Teacher, Chi/ Madagama Abhaya Maha Vidyalaya PanirendawaA. Sunil Samaraweera - Center Manager Zonal Computer Resource Center KegalleL.G.I. Priyadarshani - Teacher CP/ Vidyartha Vidyalaya Kandy
+
+viii
+
+V.A. Kodithuwakku - Teacher
+
+Zonal Education Office
+
+Gampaha
+
+S.M.D.T. Sinhabahu - Teacher
+
+CH/St. Sebesthiyan M.M. Vidyalaya
+
+Katuneriya
+
+J.A.A. Chinthaka Jayakodi - Teacher
+
+Ke/Mawa/Parakrama Maha Vidyalaya
+
+Katuneriya
+
+N. Vagisamurthi - Director of Education
+
+(Retired)
+
+T. Mathiwadanan - In Service Advicer
+
+Zonal Education Office
+
+Piliyandala
+
+M.T. Mohammad Ilham - Teacher
+
+Sahira Collage
+
+Colombo
+
+H.L. Surjudeen - Deputy Principal
+
+Ameena Girl's College
+
+Matale
+
+H.A.I.P. Upathissa - Assistant Commissioner
+
+Educational Publications Department
+
+Language EditingD.R.N.K. Gamage - Assistant Commissioner Department of Examination
+
+W. Indumini Darshika - Assistant Commissioner
+
+Educational Publications Department
+
+Cover Page
+
+Chaminda Hapuarachchi - Computer Assistant
+
+Educational Publications Department
+
+Technical Assistance
+
+Chaminda Hapuarachchi - Computer Assistant Educational Publications Department
+
+ix
+
+Content
+
+Central Processing Unit
+
+Operating System
+
+Security of the Computer System
+
+Word Processing
+
+Program Development
+
+Presentation Software
+
+Internet for information and communication
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+01
+
+04
+
+12
+
+20
+
+28
+
+37
+
+50
+
+x
+
+Free distribution only
+
+1
+
+Activity 1.1
+
+01. What is mean by the term CPU? A. Operating System B. Central Proccessing Unit C. Application Software D. Arithmetic and Logic Unit 02. What is central proccessing unit?
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Activity 1.2 01. Name the main parts of central processing unit and briefly describe the
+
+function of those. ² '''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Central Processing Unit
+
+01
+
+Free distribution only2
+
+² '''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Consider the following sentences Put tick zz  ZZ for correct sentences and cross zz ZZ for incorrect sentences.
+
+(i) Central processing unit holds all the Information, that is currently using in memory registers. ^ &
+
+(ii) Operating system is a main part of central processing unit. ^ &
+
+(iii) Central processing unit is running on the background when ever any task is performed by the computer. ^ &
+
+(iv) Clock speed is measured in hertz ^ &
+
+(v) Control unit is a part of central processing unit ^ & (vi) Central processing unit is a digital ciruit ^ &
+
+(vii) Control unit performs arithmetic operations ^ & (viii) Central processing unit is located on the computer mother board ^ &
+
+Free distribution only
+
+3
+
+Activity 1.3
+
+01. Complete the following table related to evolution of the central processing unit
+
+Technology usedElectricity Consumption
+
+Unit which measures processing speedFirst Generation Vacuum tube
+
+Second Generation Third GenerationFourth Generation 02. Name the technology used to construct the central processing unit for following computers
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+4
+
+Activity 2.1
+
+01. List five tasks performed by the operating system. ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Match the following operating systems with its commercial Logo.
+
+Microsoft Dos
+
+Microsoft Windows
+
+Apple Macintosh / MC OS
+
+Ubuntu
+
+Fedora
+
+Android
+
+Blackberry OS
+
+A.
+
+B.
+
+C.
+
+D.
+
+E.
+
+F.
+
+G.
+
+Operating System
+
+02
+
+Free distribution only
+
+5
+
+Computer screen of the Ubuntu operating stystem
+
+Computer screen of the iOS operating system
+
+Free distribution only
+
+6
+
+Computer screen of the Blackberry operating system
+
+Computer screen of the Fedora operating system
+
+Free distribution only
+
+7
+
+Computer screen of the Windows operating system
+
+Computer screen of the Mac operating system
+
+Free distribution only
+
+8
+
+Computer screen of the Android operating system
+
+Free distribution only
+
+9
+
+Activity 2.2
+
+01. What are computer storage devices? '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. What are the things that can be stored in computer storage device? (List five examples) ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03' ² Magnetic Media Devices ² Optical Media Devices ² Solid State Media Devices are the three categories of computer storage devices. Above categorization is based on which factor? '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' 04. Consider the following storage devices. hard disk CD external hard disk DVD magnetic tape zip
+
+Correctly insert the above devices into following table.
+
+Magnetic media devices Optical media devices Solid state media devices
+
+Free distribution only
+
+10
+
+Activity 2.3
+
+01. List files and folders separately in the computer screen shown in the following diagram.
+
+Start
+
+School images
+
+Agenda
+
+Sceince dayvedio
+
+Officebudget
+
+Sheet 1
+
+Classroom
+
+Scan document
+
+File Folder
+
+Ex: ''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+11
+
+Activity 2.4
+
+01. Consider the following files and write them under the suitable folder to store.
+
+Term test mark list of students in a class Video of the school drama which participated in all island drama competition Agenda of the sportmeet National anthem Picture of the sport meet
+
+Term test
+
+Songs
+
+DramaVideo
+
+MS Word
+
+Free distribution only
+
+12
+
+Security of the Computer System
+
+03
+
+Activity 3.1
+
+01. What are Computer Hardware? ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Write ten examples for Computer Hardware. i. ''''''''''''''''''''''''''''''''''''''''''''''''''''' vi. ''''''''''''''''''''''''''''''''''''''''''''''''''''' ii. .''''''''''''''''''''''''''''''''''''''''''''''''''''' vii. .''''''''''''''''''''''''''''''''''''''''''''''''''''' iii. ''''''''''''''''''''''''''''''''''''''''''''''''''''' viii. '''''''''''''''''''''''''''''''''''''''''''''''''''''' iv. ''''''''''''''''''''''''''''''''''''''''''''''''''''' ix. '''''''''''''''''''''''''''''''''''''''''''''''''''''' v. ''''''''''''''''''''''''''''''''''''''''''''''''''''' x. '''''''''''''''''''''''''''''''''''''''''''''''''''''' 03. Inset above mentioned hardware devices into the suitable column in the table
+
+Externally visible hardwareHardware inside the system unit
+
+Free distribution only
+
+13
+
+Activity 3.2
+
+01. Briefly describe three instances when the security of the computer hardware is threatened .
+
+A '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+B '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+C '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+14
+
+02. Write two procedures that can be followed to be secured from each threat mentioned above
+
+ThreatProtection method
+
+A.
+
+B.
+
+C.
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+15
+
+Activity 3.3
+
+01. What are Computer Software?
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Write five examples for computer software
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. List five instances when the security of the computer software In threatened Write the precautions to avoide each threat mentioned above.
+
+ThreatProtection method
+
+² ''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+16
+
+Activity 3.4
+
+01. What is Malware?
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. List three examples for Malware and briefly describe them.
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. Write five issues created in the computer by malware
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+17
+
+04. Write five precautions to avoid or minimize damages created by malware
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+18
+
+Activity 3.5
+
+01. What is a backup copy?
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. List three advantages of keeping backup copies.
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. What you mean by access control?
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+19
+
+04. Why an access control should be done?
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+05. Write the main two methods used in access control and briefly explain them.
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+20
+
+Activity 4.1
+
+01. Consider the following statements. Put zz  ZZ for correct statements and zz ZZ for incorrect statements. (i) Word processing is a computer hardware based operation ^ &
+
+(ii) Open office write is a word processing software ^ & (iii) MS Word is the very first word processing software created ^ & (iv) Linux is not a word processing software ^ & 02. What is word processing?
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Activity 4.2
+
+01. Clearly explain the term word processing software.
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Word Processing04
+
+Free distribution only
+
+21
+
+02. List five advantages of using a software for word processing.
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. Identify the following word processing software
+
+A. Microsoft Office Word
+
+B. Open Office Writer
+
+C. Corel Word Perfect
+
+D. iWork Pages
+
+E. Libre Office Writer
+
+Free distribution only
+
+22
+
+Activity 4.3
+
+01' I am a rabbit. I like CARROTS.
+
+What are the keys used to type the above sentences?
+
+Example (- '''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''
+
+02. What are the outputs obtained when typing the following keys?
+
+Shift
+
+ShiftShift
+
+Enter
+
+Caps
+
+Caps
+
+D
+
+H
+
+EB
+
+B
+
+M
+
+K
+
+D
+
+IG
+
++
+
++
+
+= ...............................
+
+= ...............................
+
+= ...............................
+
+= ...............................
+
+= ...............................
+
+Key A Character A
+
+Free distribution only
+
+23
+
+Activity 4.4
+
+01. List the advantages of using the keyboard appropriately. ² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Write five steps to be followed when using the keyboard correctly ² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+24
+
+Activity 4.5
+
+01. Write the English letter/letters according to the finger/ fingers used to type
+
+the following keys.
+
+A
+
+BCD
+
+EP
+
+QRS
+
+T
+
+JS
+
+?
+
+Space bar
+
+..............................................
+
+..............................................
+
+..............................................
+
+..............................................
+
+Shift
+
+TB
+
+%
+
+02. What is touch typing ?
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. List three advantages of practicing the touch typing
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Left Right
+
+Free distribution only
+
+25
+
+Activity 4.6
+
+01. Write the importance of using a software for touch typing
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Write five softwares used for touch typing. (Get the help from your teacher)
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. Create a model of a keyboard and practice the touch typing Count the number of keys are typed within a minute with the help of your teacher in the computer lab or using the model of the keyboard created above. (Practice this as a game with your friends during your free time)
+
+04. Practice following sentences by touch typing
+
+i' I am in Grade Seven ii' This is my new Book iii. We will play Basketball iv. I come to school by car v. How's the weather
+
+Free distribution only
+
+26
+
+Activity 4.7
+
+01. Draw a image of a sinhala keyboard in your exercise book. (Get the help of your teacher for this task)
+
+02. Write the key or key combination used in English keyboard to type the following sinhala letters based on the sinhala keyboard.
+
+Example : WI
+
+uj
+
+ol=
+
+KR
+
+,M
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+ShiftW+
+
+03.Practice the following sentences given in sinhala by typing i' wfma cd;sl mlaIshd j,sl=l=<d h' ii' wOHdmk wud;HdxYh iii' WoEik wdydrh iv' l%Svd W;aijfha kHdh m;%h v' m,;=re fyd`Èka fidaod wdydrhg .kak
+
+Free distribution only
+
+27
+
+04. Draw a image of a Tamil keyboard in your exercise book.
+
+05. Write the key or key combination used in English keyboard to type the following tamil letters based on the tamil keyboard
+
+Example : A,
+
+ur;
+
+qrh
+
+wx
+
+zb
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+A
+
+06. Practice the following sentences given in tamil by typing
+
+i' ,yq;if vq;fs; ehL ii' fy;tp mikr;R iii' fhiy Mfhuk; iv' tpisahl;Lg; Nghl;bfs; eilngWk; v' goq;fis ed;whff; fOtp rhg;gpLq;fs;
+
+07. If you have internet facility in your school, type the sentences mentioned in question 03 and 06 using (Get help from your teacher)
+
+Free distribution only
+
+28
+
+Activity 5.1
+
+01. Decompose the following problem into simple parts and fill in the blank using mathematical relations in order to solve the problem easily.
+
+3 x 8 = 245 + 6 = 1124 ÷ 4 = 6
+
+5 + 12 x 8
+
+11Solution
+
+Problem
+
+3 x 2 = 65 + 6 = 118 ÷ 4 = 2
+
+5 + 34 x 8
+
+11Solution
+
+Problem
+
+5 x 6 = 110.75 + 8 = 6.03 ÷ 4 = 0.75
+
+5 + 34 x 8
+
+11Solution
+
+Problem
+
+Note : Several solutions for above problem, there may be several solutions for other problem
+
+Program development
+
+05
+
+Free distribution only29
+
+Activity 5.2
+
+01. (i) We can use the following flow chart to show the steps of making a kite
+
+Most of the people like to fly kites in As their hobby leisure. Which sentences in blanks in order to show the process to make a balanced kite, arranging statements in order Fill in the blank and write the methords step up step according to make a kite properly
+
+Paste the tissues to the frame of the kite
+
+Attach the string and take the suitable length to fly
+
+Take the three quarter length from the longest stick and attach the short stick in the middle point to that point like a cross
+
+Start
+
+End
+
+Take two not unequal coconut sticks or wooden stick
+
+Tie the four corners of the sticks using string and bend the sticks from the middle little bit
+
+Paste the other decorations as the kite to be balanced
+
+Free distribution only
+
+30
+
+(ii) Write suitable algorithm in order to switch on the computer system according to the diagram given below.
+
+Free distribution only31
+
+Activity 5.3
+
+Answer the following questions using the flow chart 1
+
+01. Write the input, process and output of flow chart
+
+(a) Input = ''''''''''''''''''''''''''''''''''''''''''''''''
+
+(b) Process = '''''''''''''''''''''''''''''''''''''''''''''''' (c) Output = ''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. The control structure of flow chart 1 is ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+(Selection, Sequence, Interation)
+
+03. Insert the following statements into the appropriate places in the flow chart 2 in order to calculate the total of two numbers
+
+Total = A+B Display total Input A,B
+
+Start
+
+End
+
+Get two numbers
+
+Display total
+
+Add two number
+
+Flow chart 1
+
+Start
+
+End
+
+Flow chart 2
+
+Free distribution only
+
+32
+
+04. Draw a flow chart to calculate the multiplication of two numbers and display the output.
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+05. Fill in the blank using flow chart 3
+
+Start
+
+output No
+
+Yes
+
+A
+
+B
+
+CD
+
+Flow chart 3
+
+Identify the statements denoted in the symbols A,B and C in the above flow chart
+
+End = '''''''''''''''''''''''''''''''
+
+Input = '''''''''''''''''''''''''''''''
+
+Process = '''''''''''''''''''''''''''''''
+
+Decision = '''''''''''''''''''''''''''''''
+
+D
+
+Free distribution only33
+
+Activity 5.4
+
+01. Fill in the circle using the statements given from A to J according to the related instruction given below.
+
+A Play the sound for 0.25 seconds
+
+B Move to 0.0 position in the stage
+
+C Reduce the volume by 10
+
+D Display the word "good" for 2 seconds
+
+E Rotate the angle to 15 degree in clock wise
+
+F Change the pen size to 3
+
+G walk 10 steps
+
+H Change pen color to red
+
+I Express the word "good"
+
+J Start to draw using the pen
+
+H
+
+Free distribution only
+
+34
+
+02. Fill in the blank using only the given words in the brackets.
+
+(i) Instruction are ……………..………. to develop a scratch programme (used/ not used)
+
+(ii) Instructions ……………..………. be connected to each other in order to develop a programme (can/ cannot)
+
+(iii) Variables are ……………..………. to store a values in a programme (used/ not used)
+
+(iv) Scratch programme ……………..………. be downloaded from internet for free of charge (can/ cannot)
+
+(v) ……………..………. control structure decides the flow direction according to the decision (Sequence/ Selection)
+
+(vi) Sequence control structure programme instructions are executed ……………..………. given order (in / not in)
+
+Free distribution only35
+
+Activity 5.5
+
+01. Following programme is developed to play the first two lines of the national anthem
+
+Y%S ,xld ud;d wm Y%S ,xld" kfuda kfuda kfuda kfuda ud;d
+
+Here three instruction are used To select the instrument (2nd instrument )
+
+To change tempo (change to 120)
+
+To select the tone
+
+To change tone and time
+
+You can develop this programme further if you can obtain the tone of national anthem completely.
+
+Free distribution only
+
+36
+
+Activity 5.6
+
+01. Complete the following set of instructions and connect three variables (Num1, Num2, Sum) to each other using the arrows in order to calculate the total of two numbers
+
+02. Similar to the above, develop a programme to divide one number from the other.
+
+Free distribution only37
+
+Let’s create a presentationLet’s learn how to use Microsoft Office PowerPoint software create a presentation. Now blank presentation can be opened using ‘blank presentation’. The, below shown interface will appear
+
+Step Start → All Programs → Microsoft Office → Microsoft Office PowerPoint
+
+Figure 6.1 – Open power point
+
+06Presentation Software
+
+Free distribution only38
+
+When a new presentation is opened, topic slide would appear as shown in figure 5.2. Here include a topic for the presentation you are going to prepare
+
+Figure 6.2 – New presentation slide
+
+Free distribution only39
+
+Adding a New Slides to a presentation To add new slide to a presentation, following steps should be followed. Here several types of slides appear as shown below. By selecting the slide according to the need, you have to click on the selected slide.
+
+Steps to add New SlidesHome → New Slide
+
+Figure 6.3 – New slide dialog box
+
+Select the ‘blank’ if you can need a blank slide, ‘title and content’ if you can nee to present facts with a title or ‘title slide’, if you want a slide to include a title.
+
+Free distribution only40
+
+Inserting a Clip Art and Word Art to slides
+
+To add title to a presentation click on the Click to add title place holder box, then type the text
+
+To add sub title to a presentation click on the Click to add sub title place holder box then type the text
+
+To add description in details click on the Click to add text area and type the text
+
+Figure 6.4 – Add Title
+
+Figure 6.5 – Add Title and Sub Title
+
+Free distribution only41
+
+To insert shapes/ objects, clip art or pictures, you should use insert barThe insert ribbon can be used to add shape/ object, Clip Art, Picture into presentation
+
+Figure 6.6 – Insert bar
+
+Insert bar will appear as in above figure. (Figure 6.6)
+
+Through ‘pictures’ pictures can insert
+
+Picture can insert by using ‘picture’ option
+
+Shape can be inserted by using ‘shapes’ option
+
+By using Word Art Text can be decorated
+
+Also we can use to add multimedia
+
+Video can insert by using ‘video’ option
+
+Audio can insert by using ‘Audio’ option
+
+Free distribution only42
+
+Insert a Table Follow the steps given below to insert a tableSelect ‘Insert’ then select ‘table’ after than The insert table dialog box will appear on the screen. Now specify the required number of rows and columns and click ok
+
+Figure 6.7 – Insert a Table
+
+Free distribution only43
+
+Formatting Text on SlidesAs shown in the figure 6.8, the text formatting tools are in ‘home’ menu
+
+Figure 6.8 - Text Formatting tools
+
+Steps for change the font type 1. Select text 2. Select ‘font face’ by clicking on the arrow below the font face
+
+Steps for change the font size 1. Select text 2. Clicking on the arrow which is in near to font size change the font size
+
+Steps for change the font color 1. Select text 2. Click on the arrow which is here to font color cage then select a color
+
+Slide TransitionWith choosing a suitable effect from ‘transition to this side’ of transition bar you can create an attractive slide.
+
+Open, store, close a presentationIf you want to open a presentation which is already created If you want to open a presentation which is already created you have to go to the ‘file’ menu. Then you can see a window as shown in figure 6.9
+
+To pen an existing presentation you can use ‘browse’ to go to the place where the presentation is saved.
+
+Free distribution only44
+
+Steps to Open file → open → browse
+
+Figure 6.9 – File menu
+
+For closer store current presentation, follow the below given instruction
+
+Steps to store a presentationfile → save
+
+Steps to store a presentationfile → close
+
+Libre office Impress software
+
+When open Libre office Impress software open a windows as shown above. With this software, we can create a presentation as above.
+
+Free distribution only45
+
+Activity 6.1
+
+Complete the following activity
+
+1st slide - Name the presentation as “Solar System” 2nd Slide - Insert picture of sun and write down two sentences about sun. 3rd Slide - Insert a table and write down detail description of other planet is inside table
+
+.%y jia;=jtla N%uKhlg .;jk ld,h
+
+nqOÈk 88isl=reÈk 225mDÓúhÈk 365w.YreÈk 687n%yiam;swjqreÿ 12fikiqrewjqreÿ 29hqf¾kiawjqreÿ 84fkmapQkawjqreÿ 165maÆfgdwjqreÿ 247
+
+wfkl=;a .%y jia;=
+
+wfkl=;a .%y jia;=
+
+.%y jia;=jtla N%uKhlg .;jk ld,h
+
+nqOÈk 88
+
+isl=reÈk 225
+
+mDÓúhÈk 365
+
+w`.yreÈk 687
+
+n%yiam;swjqreÿ 12
+
+fikiqrewjqreÿ 29
+
+hqf¾kiawjqreÿ 84
+
+fkmapQkawjqreÿ 165
+
+maÆfgdawjqreÿ 247
+
+Solar System
+
+n Situated in center of the solar system
+
+n It is very hot
+
+Other Planets
+
+Sun
+
+Free distribution only46
+
+Use a design templateA design template help you to decide on a design for your presentation Ms power point given you the option to select a design templates that the presentation’s design but doesn’t include content the design template contains elements such as color schemes. Background and fours. The steps to creating a presentation are as follows
+
+Design → select design
+
+Figure 6.10
+
+Figure 6.11
+
+Free distribution only47
+
+Formatting the slides(a) Moving a Slide Slide can be moved from one place to another place (i) Select slide → drag and drop (ii) Select slide → right mouse click → cut → select the new place → right mouse → click paste
+
+(b) Copying a Slide Select slide → right mouse click → copy → select the new place → right mouse → click paste
+
+(c) Hiding a slide Select slide → hide slide (with right click the mouse)
+
+(d) Deleting a slide Select slide using left mouse button → press delete button in the keyboard or select slide →right click the mouse select ‘cut’
+
+Free distribution only48
+
+'Activity 6.2
+
+01. Create a presentation to display “Kingdom of Sri Lanka”
+
+1st slide – Name as “Kingdom of Sri Lanka” and insert your name 2nd slide – Anuradhapura 3rd slide – Dambadeniya 4th slide – Polonnaruwa
+
+1st Practical – Move 4th slide after a 2nd slide position (Polonnaruwa slide should come after Anuradhapura)
+
+2nd Practical – Create 5th slide by taking a copy of 4th slide
+
+3rd Practical – Rename the 5th slide name as “Yapahuwa”
+
+4th Practical – Delete the picture of 5th slide insert picture of “Yapahuwa”
+
+5th Practical – Create 6th slide and type the word “Thank you”
+
+6th Practical – Hide the 6th slide
+
+7th Practical – Display again 6th slide and delete it
+
+Free distribution only49
+
+'
+
+Finally the slides should be appearing as below. Then do the presentation in the class
+
+Free distribution only
+
+50
+
+Use of Internet for Information and Communication
+
+07
+
+'Activity 7.1
+
+Select the correct answer
+
+(1) What is the activity that cannot do by using the Internet (a) Send an e-mail to a friend who is in another country (b) Download images of animals who lives in the sea (c) Get a reply to an e-mail sent to a friend an another country (d) Search details of “SARCC” countries
+
+(2) What is the device which does not use to access Internet? (a) A computer (b) Internet Service Provider (c) Web browser (d) Printer
+
+(3) Who is the creator of world wide web? (a) Charles Babbage (b) Jone Von Newman (c) Tim berners lee (d) Joseph Jackword
+
+(4) What is ment by the abbreviation URL
+
+(a) Uniform Resources Locater (b) Uniform Resources Location (c) United Resources Locater (d) Uniform Research Locater
+
+Free distribution only51
+
+'(5) Select the most appropriate answer regarding the Uniform Resource Locator (a) Display a video in a website (b) Identify various resources which are available in websites uniquely (c) Screen through a web browser (d) Display web page in a computer Answer the following questions
+
+06. What is Internet?
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+07. What is the Main service provided by Internet? Explained it
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+08. List four web browsers available at present
+
+l '''''''''''''''''''''''''''''''''''''''''''''''''''' l '''''''''''''''''''''''''''''''''''''''''''''''''''' l '''''''''''''''''''''''''''''''''''''''''''''''''''' l ''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+52
+
+' 09. Label following web browsers
+
+i ii iii iv
+
+i. '''''''''''''''''''''''''''''''''''''''''''''''''''' ii. '''''''''''''''''''''''''''''''''''''''''''''''''''' iii. '''''''''''''''''''''''''''''''''''''''''''''''''''' iv. ''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+10. Write two methods to identify a trusted website
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' 11. Write three advantages and three disadvantage of ontline shopping
+
+advantagesdisadvantage
+
+² '''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only53
+
+' 12. What is video conferencing?
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+13. Write down three advantages of video conferencing? l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+14. Write three software which is used for video conferencing?
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+15. Write down four services which is provided by the internet?
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+54
+
+' 16. Three are good and bad impacts on person by using Internet. Briefly explain this with three examples
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only55
+
+'Activity 7.2
+
+01. What is e-mail?
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Write down three features of e-mail
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. Write down two software which are use to create e-mail account freely
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+04. Write down username and password of following e-mail address. nayana@yahoo.com User Name - ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Password - ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+56
+
+'
+
+05. Following are parts of the e-mail account match A column with B column
+
+AB
+
+1' BccCan send Images
+
+2' CcIt is a carbon copy
+
+3' AttachmentIt is used to mention receiver’s e-mail address
+
+4' ToIt is used to mention the no. of other receiver’s e-mail address
+
+06. Mention the following statements are “true” or “false”
+
+Statementstrue $false
+
+Deleted Documents are saved inside trash It will store 20 days in this folder
+
+All receiving e-mail S of the particular e-mail address will be saved inside inbox
+
+The Documents than are already sent and not yet send will be saved inside sent
+
+Can Send any document through Attachment
+
+Free distribution only57
+
+'
+
+07. What is the difference between CC and Bcc in e-mail account ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+08. Explain the terms spam, trash and draft in the e-mail account
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+09. How many days close the documents will be saved inside Trash
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+10. List four things that can be send attachment in e-mail
+
+l '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+58
+
+'Activity 7.3
+
+Fill in the blanks 01. What is the long term of HTML? ..............................................................
+
+(a) hyper text management language (b) hyper tag markup language (c) hyper text markup language (d) hybrid text markup language
+
+02. The content of the web page display inside ............................ tag
+
+(a) <title>
+
+(b) <head> (c) <body>
+
+(d) <H1>
+
+03. The ............................ tag used to inside images into the web page (a) <H1>
+
+(b) <img src> (c) <br>
+
+(d) <image>
+
+04. The ............................ tag used to insert a number list into the web page
+
+(a) <H1>
+
+(b) <ol> (c) <ul>
+
+(d) <li>
+
+Free distribution only59
+
+'
+
+05. The ....................... tag used to inside background color into the web page
+
+(a) <background>
+
+(b) <ol> (c) <H2>
+
+(d) <bgcolor>
+
+06. Every HTML tag is should be written between the symbol …………………. a ………………….
+
+07. Part of a web page is given below Write down the HTML code for this
+
+08. Create a web page to your school. Insert a image and five sentences about the school.
+
+This is our School
+
+My school is :-…………………………..
+
+Free distribution only
+
+60
+
+'Activity 7.4
+
+01. Mention 2 ways the virus inserted into computer system l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Match the correct icon shown in Colum A with the relevant antivirus scanner shown in column B
+
+Items Software Name
+
+1.
+
+AVAST
+
+2.
+
+McAfee
+
+3.
+
+bitdefender
+
+4.
+
+AVIRA
+
+5.
+
+AVG Anti-Virus
+
+Free distribution only61
+
+'
+
+03. A person bought licensed software to install it in his computer system. Then he copied it into a CD and give it to his friend Nimal.
+
+Amal said the above action is illegal and it is come under software piracy
+
+(a) Do you agree with Amal's statement?
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+(b) Justify your answer
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+04. “Cyber crime” is common issue now a days. List five such issues you identified.
+
+l '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' l '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' l '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' l '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+05. Mention two social web sites which are mostly affected by cyber crimes.
+
+l '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Free distribution only
+
+62
+
+'
+
+06. Write down two methods of online safety
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+l ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+07. What are the things which is not used as a password when creating a
+
+strong password
+
+i. '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ii. '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' iii. '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' iv. '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' v. ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''

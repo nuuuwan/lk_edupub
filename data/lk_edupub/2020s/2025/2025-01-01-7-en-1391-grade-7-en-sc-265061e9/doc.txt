@@ -1,0 +1,3897 @@
+==== BLOCKS ==== 
+
+i
+
+SCIENCEPart - I
+
+Educational Publications Department
+
+Grade 7
+
+ii
+
+First Print 2015Second Print 2016Third Print 2017Fourth Print 2018Fifth Print 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0106-7
+
+Published by Educational Publications DepartmentPrinted at Neo Graphics (Pvt) Ltd.No. 44, Udahamulla Station Road, Gangodawila, Nugegoda.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka MathaApa Sri Lanka Namo Namo Namo Namo MathaSundara siri barinee, surendi athi sobamana LankaDhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye mathaPiliganu mena apa bhakthi pooja Namo Namo MathaApa Sri Lanka Namo Namo Namo Namo MathaOba we apa vidya Obamaya apa sathyaOba we apa shakthi Apa hada thula bhakthiOba apa aloke Apage anupraneOba apa jeevana we Apa mukthiya oba weNava jeevana demine, nithina apa pubudukaran mathaGnana veerya vadawamina regena yanu mana jaya bhoomi karaEka mavakage daru kela bevinaYamu yamu vee nopamaPrema vada sema bheda dureradaNamo, Namo MathaApa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+xU jha; kf;fs; ehkhNthk;xd;Nw ehk; thOk; ,y;yk;ed;Nw clypy; XLk;xd;Nw ek; FUjp epwk;
+
+mjdhy; rNfhjuu; ehkhNthk;xd;wha; thOk; tsUk; ehk; ed;wha; ,t; ,y;ypdpNyeyNk tho;jy; Ntz;Lkd;Nwh
+
+ahtUk; md;G fUizAld;xw;Wik rpwf;f tho;e;jpLjy;nghd;Dk; kzpAk; Kj;Jky;y - mJNtahd;W kopahr; nry;tkd;Nwh.
+
+Mde;j rkuf;Nfhd; ftpijapd; ngau;g;G.
+
+v
+
+Message from the Hon. Minister of Education
+
+The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan government and myself, as the Minister of Education, to empower you all.
+
+This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders.
+
+Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence, you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim.
+
+It is your duty to give a proper value to the money spent by the government on your education. Also you should understand that education determines your future. Make sure that you reach the optimum social stratum through education.
+
+I congratulate you to enjoy the benefits of free education and bloom as an honoured citizen who takes the name of Sri Lanka to the world.
+
+Akila Viraj KariyawasamMinister of Education
+
+Being innovative, changing with right knowledgeBe a light to the country as well as to the world.
+
+vi
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you all the textbooks from grades 1-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha Wickramanayaka,Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vii
+
+Monitoring and Supervision W. M. Jayantha Wickramanayaka - Commissioner General of Educational Publications Educational Publications DepartmentDirection W. A. Nirmala Piyaseeli - Commissioner of Educational Publications (Development) Educational Publications Department Co-ordination K. D. Bandula Kumara - Deputy Commissioner Educational Publications DepartmentW. Suvendra Shyamaleen Jayawardhana - Assistant Commissioner Educational Publications DepartmentY. M. Priyangika Kumari Yapa - Assistant Commissioner Educational Publications DepartmentPanel of Editors 1. M. P. Vipulasena - Director (Science) Ministry of Education2. Premalal Uduporuwa - Senior Lecturer National Institute of Education3. Dr. Pushpa Vitharana - Senior Lecturer Department of Education University of Peradeniya4. Dr. Nilwala Kottegoda - Senior Lecturer Department of Chemistry University of Sri Jayawardanapura5. P. Rajudevan - Assistant Lecturer National Institute of Education6. K. D. Bandula Kumara - Deputy Commissioner Educational Publications Department7. W. Suvendra Shyamaleen Jayawardana - Assistant Commissioner Educational Publications Department8. Y. M. Priyangika Kumari Yapa - Assistant Commissioner Educational Publications DepartmentPanel of Writers
+
+1. P. I. Wijesundara - In-Service Advisor (Science) Zonal Education Office, Udugama2. Gamini Jayasooriya - In-Service Advisor (Science) Divisional Education Office Wennappuwa
+
+viii
+
+3. Shirani Disanayaka - Teacher Service Visaka Vidyalaya, Colombo4. H. T. C. Gamini Jayarathne - In-Service Advisor (Retired) 5. R. M. P. Bandara - Teacher Service Neluwa National School, Neluwa6. K. Indika Jayawardhana Peiris - Teacher Service Methodist High School Moratuwa7. Suyama Kottegoda - Teacher Service Bandaragama Central College Bandaragama8. Chamila Ukwatta - Teacher Service D.S. Senanayaka College, Colombo 079. A. M. T. Pigera - Assistant Educational Director (Retired)10. K. Santha Kumara - In-Service Advisor (Science) Zonal Education Office, Haliela11. H. M. F. Rafaka - Principal Dummaladeniya Muslim College Dummaladeniya12. T. Balakumaran - Teacher Service (Retired) Language Editing
+
+1. W. Indumini Darshika - Assistant Commissioner Educational Publications Department2. M. R. S. K. Ganegoda - Teacher Service Sri Jayawardanapura Balika Vidyalaya Kotte Illustrations, Cover Page and Page layout
+
+1. Malaka Lalanajeewa - Graphic Designer
+
+Technical Assistance1. M. D. Tharindu Samarasinghe - Educational Publications Department 2. A. Asha Amali Weerarathna - Educational Publications Department3. P. Naveen Tharaka Peiris - Educational Publications Department
+
+ix
+
+Introduction
+
+This textbook was compiled by the Educational Publications Department in accordance with the syllabus prepared by the National Institute of Education for the use of Grade seven students in the Sri Lankan school system with effect from 2016.An effort has made here to arrange the subject content to suit the national educational goals, common national competencies, the objectives of teaching science and the content of the syllabus.The subject of science directs the student towards a more active learning process in a manner as to develop knowledge, skills and attitudes needed for a developmental scientific thought.In the compilation of this textbook, subject content is largely arranged based on experiences of daily life. It has contributed to prove the fact that the subject of science is very much closer to the day to day life.The compilation of this textbook based on activities is a distinctive feature. The activities are prepared based on the scientific method in order to develop knowledge, skills and attitudes. Activities that can be performed individually at home as well as in school are incorporated here. We believe that learning through activities would contribute to create a liking and an interest in the child towards learning science. At the end of each chapter, a summary, a series of exercises and a glossary were included. It enables the student to identify the important details of the chapter as well as to self evaluate the achievement of learning outcomes.For the purpose of directing the student to study further about the subject matter, more information is included in the "For you extra Knowledge". It is given only to broaden the subject area of the child and certainly not to ask questions at term tests.Assignments and projects are given with the purpose of directing the student towards an explorative study. It enables the students to develop the higher order skills such as application, analysis and synthesis of the concepts achieved from the lesson.We strongly believe that the duty of the teachers who teach science is to direct the student for self learning instead of teaching the student using traditional teaching methods. This textbook can be utilized by the teachers as a learning tool to execute their teaching role properly. We would like to bestow our sincere thanks on the senior lecturer Asoka De Silva of the National Institute of Education and the professional writer Dr. K. Ariyasinghe.We kindly request you to forward your comments and suggestions on this textbook to the Educational Publications Department.
+
+Board of Writers and Editors
+
+x
+
+xi
+
+Contents
+
+page
+
+2. Static Electricity 22 2.1 Charging an object 22 2.2 Types of static electric charges 23 2.3 Generation of static electric charges 26 2.4 Phenomena associated with static electricity 28 2.5 Capacitors 30
+
+3. Generation of Electricity 34 3.1 Sources of electricity 35 3.2 Direct current and alternating current 49
+
+4. Functions of Water 54 4.1 Water as a solvent 54 4.2 Water as a coolant 58 4.3 Water as a medium of life 60
+
+5. Acids and Bases 63 5.1 Identification of acids and bases 63 5.2 Acids and bases available in school laboratory 64 and home
+
+1. Plant Diversity 01 1.1 Morphological features of flowering plants 01 1.2 Main parts of a flowering plant 03 1.3 Diversity of the parts of flowering plants 04 1.4 Monocotyledonous and dicotyledonous plants 17
+
+6. Animal Diversity 72 6.1 Vertebrates and invertebrates 72 6.2 Adaptations of organisms to environment 78 6.3 Use of dichotomous key for classification of organisms 83
+
+xii
+
+7. Forms of Energy and Uses 87 7.1 Kinetic energy 90 7.2 Potential energy 92 7.3 Electrical energy 94 7.4 Sound energy 96 7.5 Light energy 97 7.6 Heat/thermal energy 99 7.7 Chemical energy 101
+
+8. The Nature of the Earth 105
+
+8.1 The structure of the earth 105 8.2 Tectonic plate and plate tectonics 109
+
+9. Light 115 9.1 Formation of umbra and penumbra 115 9.2 Images formed by plane mirrors 121 9.3 Images formed by curved mirrors 129
+
+10. The Correct Use of the Microscope 138 10.1 The simple microscope 139 10.2 Magnification of a microscope and resolving power 139 10.3 Compound light microscope 141 10.4 The electron microscope 147
+
+Science | Plant Diversity1
+
+Plant Diversity01
+
+1.1 Morphological features of flowering plantsFlowers and fruits naturally come to our mind when we state about plants. Do all plants produce flowers? Pay your attention to the ornamental plants in the garden given in Figure 1.1.
+
+Figure 1.1 View of a garden
+
+You can observe plants with flowers and without flowers. There are different varieties of plants in our environment. Engage in Activity 1.1 to find out whether all the trees bear flowers.
+
+Activity 1.1
+
+Names and the pictures of several plants are given below. Although most of them are familiar to you, certain plants may not be familiar to you.
+
+FernGardeniaʻBalsamʼʻKasiththumbaiʼRoseʻIddaʼʻNanthiavattaiʼ
+
+Science | Plant Diversity2
+
+LotusWater Lily(ʻOluʼ / ʻAlliʼ)Moss'Sal''Nagalingam'
+
+Curry leaves(Karapincha)Drynaria(Beduru)ʻKataroluʼʻKakkattanʼ
+
+Shoe flowerCycas
+
+JasmineCyperusCoconut
+
+Long bean
+
+Salvinia
+
+Prepare a table by grouping all the plants in Figure 1.2 into plants which bear flowers and plants which do not bear flowers. Compare your table with the following table.
+
+Figure 1.2 Several different types of plants
+
+Table 1.1
+
+Plants which bear flowers Plants which do not bear flowersRose, ʻIddaʼ, Gardenia, Balsam, Water lily, ʻSalʼ, Lotus, Shoe flower, Curry leaves, ʻKataroluZ, Jasmine, Coconut, Long bean
+
+Cycas, Moss, Salvinia, Cyperus, Drynaria, Ferns
+
+Now, it is clear to you that there are plants which produce flowers and that do not produce flowers in our environment. Plants which produce flowers are called flowering plants and plants which do not produce flowers are called non flowering plants.
+
+Assignment 1.1
+
+² Observe plants in your home garden or in your school premises. ² Identify them as flowering plants and non flowering plants. ² Tabulate the plants you identified as flowering plants and non-flowering plants.
+
+Science | Plant Diversity3
+
+1.2 Main parts of a flowering plant
+
+Observe the flowering plants in your surroundings. They are of different sizes. You will observe small palnts as well as big trees among them. Their stems, roots, flowers and fruits are also different from each other. Therefore, plants show a great diversity in their size and morphological features, but all flowering plants have some common parts. Let's do Activity 1.2 to identify the main parts of a flowering plant.
+
+Assignment 1.2
+
+Identification of main parts of a flowering plant ² Select a small plant that produces flowers and fruits. e.g.:- ʻMonara Kudumbiya’, / ʻSeethaviyar Selugkalunerʼ ʻKuppameniyaʼ / ʻKuppaimaniʼ ² Add some water to the root and uproot it from the soil carefully without breaking roots. ² Remove soil around roots carefully ² Press it between pages of newspapers, by adding a weight. Let it dry. ² Prepare a field book and paste the specimens in it after about one week.
+
+Activity 1.2
+
+Figure 1.3 Parts of a flowering plant
+
+The Figure 1.3 shows the parts of a flowering plant. The main parts are labelled from 1 to 11.
+
+01. Tap root02. Lateral roots03. Root system04. Stem05. Lateral buds (Axillary buds)06. Leaves07. Apical bud
+
+08. Branches09. Fruits10. Flowers11. Shoot system
+
+2
+
+4
+
+13
+
+7
+
+9
+
+10
+
+11
+
+85
+
+6
+
+Science | Plant Diversity4
+
+Identify the main parts of a plant in Assignment 1.2 referring to Figure 1.3. Compare the pressed plant you have, with the pressed plants your friends have. Observe similarities as well as dissimilarities among the main parts of them.
+
+1.3 Diversity of the parts of flowering plants
+
+The characteristic feature of the flowering plant is formation of flowers. Almost all parts such as stem, leaves, roots, buds, flowers and fruits can be seen in most of the plants. Plants show a great diversity among these parts.
+
+Diversity among roots of plants
+
+Assignment 1.3
+
+² Select a small grass plant and a ʻKuppameniyaʼ / ʻKuppaimaniʼ plant. ² After adding water uproot them carefully without damaging roots. ² Wash the soil of the roots. Press it between pages of newspaper and dry. ² Paste it in the field book after one week.Normally root system remains underground in the soil. There are two types of root systems. ² Some plants have a single large root which originates from the base of the stem. It is called the tap root. Large number of roots are originated from the tap root. They are called lateral roots. This type of root system is called a tap root system.
+
+e.g.:- ʻKuppameniyaʼ/ ʻKuppaimaniʼ, Mango, Cashew
+
+² Some plants have a large number of small roots which are originated from base of the plant stem. This type of root system is called a fibrous root system.
+
+e.g.:- Coconut, Arecanut, Bamboo, Grass, ʻKitulʼ
+
+Science | Plant Diversity5
+
+Figure 1.4 (a) Tap root system Figure 1.4 (b) Fibrous root system
+
+Tap root
+
+Lateral roots
+
+Fibrous roots
+
+Activity 1.3
+
+ Look at the root systems of two plants you pasted in your fieldbook.
+
+ Observe the differences between root systems of those two plants.You will notice that plants like 'kuppameniya', mango, cashew have a tap root system whereas grass, coconut, arecanut, and bamboo trees have a fibrous root system.
+
+Functions of roots of plants
+
+²Fix the plant to the soil
+
+²Absorb water and minerals dissolved in water (absorption)
+
+²Give rise to new plants through vegetative propagation e.g.:- Curry leaves, ʻBeliʼ/ ʻVilvamʼ, Bread fruitIn addition there are some roots adapted for different functions. Let's do Assignment 1.4 to identify such roots.
+
+Assignment 1.4
+
+² Uproot a Mimosa plant without breaking its roots and wash the roots carefully. ² Draw the root system of it on a white drawing paper. ² Paste it in the fieldbook. ² Observe the yams of beetroot, carrot, sweet potato and manioc. ² Draw them on a white drawing paper and paste it in your fieldbook.
+
+Science | Plant Diversity6
+
+Manioc Beetroot Carrot Sweet potato MimosaFigure 1.5 Different types of roots
+
+Small nodules like structures can be seen in the root system of Mimosa plant. Such nodules are known as root nodules. There are micro organisms called bacteria live inside them. These bacteria supply nitrogen nutrients required for the growth of Mimosa plant and root system supplies nutrients for the bacteria which live inside the nodules. Such nodules are present in plants such as ʻkathurumurungaʼ, beans and winged beans which belong to family Leguminosae.
+
+The other roots shown in Figure 1.5 are generally called as yams because food is stored in those roots. Such roots are known as storage roots. Food can be stored in tap root as well as lateral roots.Naturally, roots grow downward into the soil, but you may observe some roots that grow above the soil. Figure 1.6 shows different types of roots that grow above the soil level.
+
+Aerial roots - orchid
+
+Prop roots - banyan
+
+Stilt roots - pandanus
+
+Climbing roots - betel
+
+Respiratory roots - ʻKiralaʼ/ ʻKinnaiʼ Figure 1.6 Roots adapted for various functions
+
+Science | Plant Diversity7
+
+Activity 1.4
+
+Identify the different types of roots shown in Figure 1.6 through a field study.
+
+Study Table 1.2 and try to understand various functions of root types'Table 1.2 Different types of roots and their functionsType of rootExampleFunctionsProp rootsBanyanSupport the branchesStilt rootsPandanus, ʻRampeʼSupport the stemAerial rootsOrchidAbsorb water vapour from the atmosphereSome aerial roots carryout photosynthesisClimbing roots Pepper BetelHelps to climb the stem by attaching to another stemRespiratory rootsʻKadolʼ/ʻKandalʼʻKiralaʼ / ʻKinnaiʼExchange of air with the atmosphere
+
+Storage rootsCarrotBeetrootManiocSweet potato
+
+Store food
+
+Roots with root nodulesMimosaLegumes (eg: Beans, Long beans, Winged beans)
+
+Bacteria live inside root nodules add nutrients to the soil. Thus make the soil fertile.
+
+For extra knowledge
+
+Corks used as stoppers of bottles are taken from respiratory roots of ʻKiralaʼ/ʻKinnaiʼ plant. The porous or sponge nature of ʻKiralaʼ / ʻKinnaiʼ corks occur due to presence of very tiny pores and spaces in their roots.
+
+Science | Plant Diversity8
+
+Diversity among stems
+
+Recall the nature of plant stems that you have observed in your surrounding. You may have observed very strong stems, stems with thick bark as well as stems with various colours. There are plants that grow up with the help of supporters and run on the ground due to their weak stems. The basic difference in any type of the stem is that whether the stem divides into branches or not.
+
+Figure 1.7 A plant with unbranched steme.g.:- Coconut, Arecanut, Kitul, Palmyrah, Paddy, Bamboo
+
+Figure 1.8 A plant with branched steme.g.:- Mango, Rambutan, Cashew, Guava, Shoe flower
+
+Functions of plant stem ² Bears flowers, leaves, buds, fruits and seeds. ² Supports the plant, by keeping rigid. ² Transports water and food through plant body ² Many plants produce new plants by stems. (vegetative propogation)
+
+e.g.:- Shoe flower, Jasmine/ 'Saman pichcha' / 'Sadimalligai', Sweet potato, Manioc
+
+² Some plants with green coloured stems carryout photosynthesis
+
+e.g.:- ʻNawahandiʼ / ʻKallyʼ, ʻHeeressaʼ / ʻPirattaiʼ, ʻHathawariyaʼ/ ʻSathavariʼ ² Some aerial stems store food.e.g.:- Sugar cane, Kitul
+
+Eventhough most stems grow above the soil, some stems grow inside the soil. They are called underground stems.
+
+Science | Plant Diversity9
+
+Examples for underground stems are given in Figure 1.9
+
+ColocasiaPotatoLeeksGingerOnion
+
+Figure 1.9 Plants with underground stems
+
+Diversity of leaves
+
+Plant leaves also display a great diversity similar to other parts of the plant; based on shape, size and colour. Let's engage in Activity 1.5 to learn about diversity of leaves.
+
+Activity 1.5
+
+y Collect about ten different types of leaves from your home garden. y e.g.:- Manioc, Curry leaves, Jak, Grass, Croton,
+
+ʻAkkapanaʼ / ʻSadaikaraichchanʼ , Pumpkin, ʻHathawariyaʼ/ ʻSathavariʼ, ʻKaturumurungaʼ/ ʻAgathiʼ. Study their similarities as well as differences, by observing them.
+
+Figure 1.10 Arrangement of plant leaves in plants to absorb maximum amount of sunlight
+
+Photosynthesis mainly occurs in a leaf of a plant. Plant leaves get energy from sunlight to do photosynthesis. Therefore, leaves are arranged on the stem in a way to get maximum amount of sunlight.Eventhough leaves have different shapes, sizes and different colours, they all have common parts. Those common parts are shown in Figure 1.11.
+
+Science | Plant Diversity10
+
+Leaf base
+
+Petiole
+
+MidribVeinlets
+
+Leaf tip
+
+Leaf bladeLeaf margin
+
+Figure 1.11 Parts of a leaf
+
+Veins
+
+Activity 1.6
+
+• Select a leaf of a plant you pressed and paste it on the fieldbook.• Identify all parts given in Figure 1.11 and label them.
+
+Leaf venation
+
+The arrangement of veinlets in the leaf is called leaf venation. There are two main venation patterns occur in plants. ² Reticulate venation ² Parallel venation
+
+The branches initiated from the mid rib spread as a net through out the leaf.eg:- Shoe flower, Mango, Jak, ‘Gotukola’/ ‘Vallarai’
+
+Figure 1.12 Reticulate venationVeinlets parallel to the midrib spread in the leaf.eg:- Grass, Bamboo, Coconut, Arecanut
+
+Figure 1.13 Parallel venation
+
+You can observe leaf venation by observing lower surface of the plant leaf clearly.
+
+Science | Plant Diversity11
+
+Assignment 1.5
+
+Apply paint on the lower surfaces of some leaves and get copies of them to a white paper. Identify the type of leaf venation and classify them as reticulate venation or parallel venation. Finally paste them in your fieldbook.
+
+f
+
+Shoe flower
+
+GrassʻKoboleelaʼʻThiruvaththiʼ
+
+Part of palmyrah leaf
+
+Part of Cocounut leaf
+
+MangoʻIddaʼJak
+
+Simple and compound leaves
+
+When the leaf blade of a leaf is not divided into segments it is called a simple leaf.e.g.:- Shoe flower, JakThe leaf blade of some simple leaves are partially divided into segments.e.g.:- Manioc, Papaw
+
+Shoe flowerJakPapawFigure 1.14 Several simple leavesLeaf blade of a compound leaf is completly divided into small leaf like parts called leaflets. These types of leaves with leaflets are called compound leaves.
+
+e.g.:- Coconut, ʻKaturumurungaʼ/ ʻAgathiʼ, Tamarind
+
+Figure 1.15 Several compound leavesCoconutTamarind‘Katurumurunga’/ ‘Agathi’
+
+Science | Plant Diversity12
+
+Functions of plant leaves
+
+²The main function of a plant leaf is photosynthesis. Through photosynthesis plants produce food in leaves. ²Some leaves are adapted to store water. e.g.:- Aloe, ʻAkkapanaʼ / ʻSadaikaraichchanʼ
+
+Figure 1.16 Aloe
+
+Figure 1.17 Bryophyllum / ʻAkkapanaʼ/ Sadaikaraichchanʼ ²Some leaves produce new plants (vegetative reproduction). e.g.:- ʻAkkapanaʼ, Begonia
+
+Assignment 1.6
+
+² Place a leaf of Bryophyllum in between two blotting papers and keep it between the pages of a book for few days. ² Observe it after few days. ² Identify the roots arising from leaf margin. They are called adventitious roots. ² Cut the leaf into pieces and get new plants by planting those pieces.
+
+Parts of a flower and diversity of flowers
+
+The main function of flowers is to produce fruits. The seeds inside the fruits produce new plants. These seeds are dispersed by various methods (by animals, wind, water, explosive mechanism)
+
+Flowers bear male and female reproductive structures. They combine and form seeds by sexual reproduction.
+
+Science | Plant Diversity13
+
+The most attractive part of the plant is the flower. They differ greatly in size, smell, shape and colour.
+
+Assignment 1.7
+
+² Collect different types of flowers. ² Draw their external appearance on a white paper. ² Write the name of the plant below the diagram. ² Identify the parts of flowers and name them, by using Figures 1.18 and 1.19.
+
+Figure 1.19 Half flower of shoe flower
+
+Stigma
+
+Pedicel (flower stalk)
+
+Petal
+
+Sepals
+
+Stamen
+
+Style
+
+Ovary
+
+Stigma
+
+Stamen
+
+Petal
+
+Pedicel (stalk)
+
+Sepals
+
+Figure 1.18 External appearance of shoe flower
+
+Ovules
+
+Flowers show great diversity among them, but they have a common structural plan. A typical flower consists of the following three parts. ² Sepals ² Petals ² Gynoecium/ Androecium
+
+All these parts can be easily observed in a shoe flower. Let's identify parts of a flower by observing half flower of a shoe flower. (Figure 1.19)
+
+Activity 1.7
+
+²Select a bigger flower. (e.g.:- Shoe flower, Thunbergia) ²Cut and separate the flower into two parts longitudinally by carefully cutting it from the pedicel using a sharp blade. ²Use Figure 1.19 to show a diagram of the longitudinal section of a flower. Identify its parts and name them.
+
+Science | Plant Diversity14
+
+SepalsSepals are generally green in colour. The main function of sepals is the protection of flower buds.
+
+PetalsPetals are brightly coloured. They attract insects for pollination as well as protect the internal parts of the flower.
+
+Androecium
+
+The male part of a flower is called androecium which consists of stamen. Each stamen is made up of two parts.
+
+y anther
+
+y filament
+
+The function of androecium is production of pollen.
+
+Different shapes of stamens can be seen in flowers
+
+Lotus
+
+‘Sal’/ ‘Nagalingam’
+
+‘Niyagala’ /‘Karthikaipoo’
+
+Lily
+
+Figure 1.21 Different shapes of stamens in flowers
+
+Gynoecium
+
+Stigma
+
+Style
+
+OvaryOvules
+
+Figure 1.22 Gynoecium of a flower
+
+Gynoecium contains following parts.
+
+² Stigma
+
+² Style
+
+² Ovary
+
+Ovules are present within the ovary. The function of gynoecium is the production of seeds.
+
+Figure 1.20 A stamen of shoe flower
+
+anther
+
+filament
+
+Science | Plant Diversity15
+
+Activity 1.8
+
+Using maximum number of examples complete Table 1.3 further with the help of the features of flowers that you have observed. One example is given for each section.
+
+White coloured flowers‘Idda’ / ‘Nanthiavattai’,Flowers with colourful petalsRose, ........................Flowers that bloom at night‘Sepalika’ / ‘Pavala mallikai’ Flowers with sweet smell (fragrance) Jasmine/ ‘Samanpichcha’/‘Sadimalligai’ Flowers with nectar‘Kathurumurunga’ / ‘Agathi’
+
+Table 1.3
+
+Diversity of fruits and seedsFruits are formed from the flowers of flowering plants. Seeds are found inside the fruits. Seeds produce new plants.
+
+Assignment 1.8
+
+² Collect fruits and seeds that are fallen near trees in the school garden. (Collect the seeds into a seed box) ² Collect fruits and seeds that are fallen under trees in your home garden. ² Collect different types of fruits and seeds that are not found regularly.(Try to find the names of those plants)
+
+Fruits and seeds are naturally adapted for dispersion.
+
+e.g.:- Cotton, ʻWaraʼ / ʻErukuʼ, ʻHoraʼ / ʻEnnaiʼ, ʻGammaluʼ / ʻThanakkuʼ
+
+CottonʻWaraʼ/ʻErukuʼʻHoraʼ/ʻEnnaiʼʻGammaluʼ/ ʻThanakkuʼFigure1.23 Fruits and seeds which are dispersed by wind
+
+Science | Plant Diversity16
+
+Assignment 1.9
+
+Collect fruits and seeds as shown in Figure 1.23. List out the adaptations shown for wind dispersal . Get assistance from your teacher.
+
+Figure 1.24 Fruits and seeds which are dispersed by water
+
+Arecanut
+
+Coconut
+
+ʻKottambaʼ, ʻKottankachchiʼ
+
+ʻDiya kaduruʼʻKulliththyʼ
+
+Lotus
+
+Assignment 1.10
+
+Collect fruits and seeds as shown in Figure 1.24. List out the adaptations they show to be dispersed by water. Get assistance from your teacher.
+
+TomatoPapawChilliesCastorʻNagadaranaʼʻPulinagamʼFigure 1.25 Fruits and seeds which are dispersed by animals
+
+Assignment 1.11
+
+² Collect fruits and seeds as shown in Figure 1.25. List out the adaptations they show to be propagated by animals. Get assistance from your teacher.
+
+Science | Plant Diversity17
+
+1.4 Monocotyledonous and dicotyledonous plants
+
+Flowering plants are mainly divided into two groups as monocotyledonous (monocots) and dicotyledonous (dicots).
+
+Do Assignment 1.12 to identify differences between two types of plants.
+
+Assingnment 1.12
+
+² Collect many seeds as far as possible from your kitchene.g.:-Gram, Paddy/Rice, Green gram, Tamarind, Cowpea, Beans, Long beans, Cashew, Arecanut, Maize, Jak seeds ² Take about five seeds from each type and soak them in water ² Take the seeds out of water after about 24 hours carefully ² Divide them according to number of cotyledons (seed leaves) inside the seed and add to Table 1.4Table1.4 - monocot and dicot seedsSeeds with single seed leafSeeds with two seed leavesArecanut, Paddy, MaizeBean, Long Beans, Cashew, Gram, Green gram, Tamarind, Cowpea, Jak seeds
+
+You may have seen that certain seeds can be divided easily into two seed lobes whereas other seeds cannot be divided easily like that. There are two seed lobes. These seed lobes are called seed leaves (Cotyledons). Seeds with two cotyledons are called dicot seeds.Some seeds cannot be divided into two seed lobes because they have only one seed leaf (cotyledon). This type of seeds are called monocot seeds. Germination of monocot and dicot seeds are different from each other.
+
+Assignment 1.13
+
+² Observe the plants/ trees found in your school garden and group them as monocots and dicots.
+
+Let's do Activity 1.9 to learn more about nature of those seeds.
+
+Science | Plant Diversity18
+
+Activity 1.9
+
+² Take bean seeds and paddy seeds which were soaked for about 24 hours and keep them on a wet cloth for about three days. Add a little bit of water every day. ² When bean seeds are about to break into two, separate the seed lobes in one seed and observe them. ² Plant other seeds in pots with wet soil. After few days you can observe that there are two leaves different from the other leaves of the germinated bean seeds. They are called seed leaves. ² Seed leaf cannot be observed in paddy seeds. Because the seed leaf does not come out during germination.
+
+Figure 1.26 Germination of monocot seedFigure 1.27 Germination of dicot seed
+
+Figure
+
+1.26
+
+Germination of monocot
+
+Figure
+
+1.27
+
+Germination of dicot
+
+Leaves
+
+Cotyledons
+
+Cotyledon
+
+You have learnt about the variations of the basic parts of plant throughout this lesson. Now study the differences of basic parts of monocot plants and dicot plants that you have observed. Compare the differences you observed with Table 1.5.
+
+Table 1.5PartMonocot plantDicot plantSeedsOnly one seed lobeTwo seed lobes StemNot branchedBranchedLeavesParallel venationReticulate venationFlowersThree petals or its multiplesFour/ Five petals or its multiples
+
+Science | Plant Diversity19
+
+RootFibrous root system
+
+Figure 1.28 A monocot plant
+
+y
+
+Tap root system
+
+Activity 1.10
+
+² Create a model to show the basic differences between main parts of dicot and monocot plants that you have already observed.
+
+Now you must have a proper understanding about the vast diversity of members of the plant world, upon observing and studying morphological variations of them.
+
+The field book that you prepared would display the diversity of plants very well.
+
+² Plants which produce flowers are called flowering plants whereas plants do not produce flowers are called non flowering plants. ² The main parts of the flowering plants are roots, stem, leaves, flowers, fruits and seeds. ² Although main parts of a plant usually perform one specific function, sometimes they are adapted for several other functions. ² A vast variation can be seen among main parts of the plants. ² Flowering plants can be divided into two groups as monocotyledonous (monocot) plants and dicotyledonous (dicot) plants.
+
+Summary
+
+Figure 1.29 A dicot plant
+
+Science | Plant Diversity20
+
+Exercise1. The table below indicate several kinds of plants with numbers identified by a group of students in a field trip to a forest.
+
+Name of the plant ʻKitulʼ Cashew ʻDanʼ/ʻNavalʼ ʻKottambaʼ ʻBeduruʼ Cycas ʻMadu welʼMimosa
+
+Number of plant2344211012
+
+I. Display the data in a bar chart. II. What is the most abundant plant found in this forest?III. Name a plant/plants in the above forest, that found with following features(a) A weak stem(b) An unbranched stem(c) No flowers/non-flowering(d) A fibrous root system(e) Compound leaves(f) Fruits with fibrous outer layer(g) Having root nodulesIV.
+
+(a) Select a monocotyledonous and a dicotyledonous plant out of the plants given above.
+
+(b) Write one major difference of (a) leaves (b) Stem (c) roots and (d) seeds of above two plants.
+
+Science | Plant Diversity21
+
+Technical Terms
+
+Monocotyledonous &talîcm;%S Ydl &J¸ Âzvø»z uõÁµ®Dicotyledonous&oaùîcm;%S Ydl&C¸Âzvø»z uõÁµ®eFlowering plants&imqIam Ydl&§US® uõÁµ[PÒ
+
+Non floweringplants
+
+&wmqIam Ydl&§UPõz uõÁµ[PÒ
+
+Gynoecium&cdhdx.h&ö£snP®
+
+Androecium&mqux.h&BnP®
+
+Petals&o,m;%&AÀ¼PÒ
+
+Corolla&uql=gh&AÀ¼ Ámh®
+
+Sepals&uKsm;%&¦À¼PÒ
+
+Stigma&l,xlh&SÔ
+
+Style&lS,h&u®£®
+
+Ovary&äïn fldaIh&`»P®
+
+Venation& kdráúkHdih
+
+&|µ®£ø©¨¦
+
+Science | Static Electricity22
+
+02
+
+2.1 Charging an object
+
+Cut several small pieces of dry paper and place them on a table. Rub a plastic pen against your dry hair and hold the pen close to the pieces of paper. What can you observe ?You can observe how the pieces of paper are attracted to the pen. ²Are there any other objects that can be used instead of a pen to attract pieces of paper?
+
+Do you know the reason for the attraction of light things towards an object which is rubbed against some other material ?Let's do Activity 2.1 to find the reason.
+
+Activity 2.1
+
+You will need :- A glass rod, a piece of PVC pipe, an ebonite rod, a sheet of polythene, a piece of silk cloth, a piece of woolen cloth, some small pieces of paperMethod :-Hold the objects given in Table 2.1 close to the tiny pieces of paper. Observe what happens before and after rubbing them and complete the column of the table according to your observations.
+
+InstanceObjectObservation when held close to the pieces of paper
+
+Before rubbing• Glass rod• PVC pipe• Ebonite rod
+
+...........................................................................
+
+After rubbing• Glass rod rubbed with the silk cloth• PVC pipe rubbed with the polythene sheet• Ebonite rod rubbed with the woolen cloth
+
+...........................................................................
+
+Table 2.1
+
+Figure 2.1 How the pieces of dry paper are attracted to the pen
+
+Static Electricity
+
+Science | Static Electricity23
+
+It is observed that the objects mentioned in Table 2.1, do not attract the pieces of paper before rubbing. But they do attract them after rubbing. Accordingly, it is clear that rubbing an object can make a certain change on it. The scientist William Gilbert (1600 AD) was the first to reveal that light things are attracted to rubbed objects.
+
+For extra knowledge
+
+Scientist William Gilbert observed that when a piece of solid amber is rubbed with a silk cloth, light objects like tiny pieces of paper and feathers are attracted to it
+
+Gilbert said that electric charges are generated on the surface of objects, when they are rubbed. So, light objects are attracted to them.
+
+a
+
+,
+
+s
+
+n
+
+• When some objects are rubbed, electric charges are generated on them.• Electric charges generated on the surface of objects by rubbing, are called static electric charges.
+
+2.2 Types of static electric chargesLet's do Activity 2.2 to study further about the static electric charges.
+
+Activity 2.2
+
+You will need :- Two rods of glass, two rods of ebonite, a piece of silk cloth, a piece of woolen cloth, few pieces of thread, two standsMethod :-• Hang one glass rod rubbed with the silk cloth, on one stand.
+
+Science | Static Electricity24
+
+• Hang one ebonite rod rubbed with the woolen cloth, on the other stand.• Rub the other glass rod with the silk cloth to charge it. Then bring the charged glass rod separately towards the rods hung.• Record the observations.• Rub the other ebonite rod with the woolen cloth and charge it. Then bring it separately towards the rods hung.• Tabulate your observations.
+
+Figure 2.2 Attractions and repulsions
+
+glass rod
+
+glass rodebonite rod
+
+glass rod
+
+Hanging rodRod brought towardsObservations
+
+GlassGlassRepelledEboniteGlassGlassEboniteEboniteEbonite
+
+Compare the observations of your group with those of the other groups.Discuss the reasons for the observations.It is observed that there are attractions as well as repulsions between charged rods.
+
+Attractions and repulsions between charged rods are illustrated in Figure 2.3 and 2.4.
+
+glass rod, rubbed with silk
+
+ebonite rod, rubbed with wool
+
+glass rod, rubbed with silk
+
+Figure 2.3 Repulsion Figure 2.4 AttractionThe reason for the attraction and the repulsion between charged rods is the existence of two types of static electric charges.
+
+Table 2.2
+
+Science | Static Electricity25
+
+They are as follows. 1. Positive (+) static electric charges. 2. Negative (-) static electric charges.
+
+²Objects with like electric charges repel each other. ²Objects with unlike electric charges attract each other.
+
+Therefore, a glass rod rubbed with silk gains positive (+) static electric charges and ebonite rod rubbed with wool gains negative (-) static electric charges.
+
+Exercise
+
+A PVC rod, rubbed with a polythene sheet is hung with a thread. When a glass rod rubbed with silk is brought towards the PVC rod, it is attracted. What is the type of static electric charge on PVC rod ?
+
+For extra knowledge
+
+• There are various equipment to identify static electric charges. One of them is the gold leaf electroscope.
+
+When a charged object is brought towards the metal plate of this electroscope, the gold leaf deflects.
+
+Let us do the Activity 2.3 to summarise what we have learnt so far.
+
+Activity 2.3
+
+You will need :- Clean and dry drinking straws, drawing pins, a glass, sheet of polytheneMethod :- • Charge the drinking straw by rubbing it with the sheet of polythene.
+
+Science | Static Electricity26
+
+• Balance the charged drinking straw on an upturned glass using a drawing pin as showing in the Figure 2.5 (a)
+
+drinking straw
+
+upturned glass
+
+Drawing pin
+
+(a) (observed from side)(b) (observed from above)Figure 2.5 • Keep a finger near the charged drinking straw (about 1 cm away). Figure 2.5 b, shows how it in seen when observed from above• Now, keep the polythene used to charge the drinking straw near it.• Then, keep another charged straw near the charged straw.
+
+Figure 2.7
+
+• Discuss the reasons for the observations.
+
+Figure 2.6
+
+2.3 Generation of static electric charges
+
+The amounts of positive and negative particles are equally distributed on an object before it is rubbed. Therefore, the object does not show any net charge.When the objects are rubbed against each other negatively charged particles (electrons) remove from one object and transfer to the other object.The object from which negatively (-) charged particles are removed, is charged positively, and the object that gained negatively (-) charged particles is charged negatively.The process that takes place when a pair of objects are rubbed against each other can be illustrated as follows.
+
+Science | Static Electricity27
+
+1& Before rubbing 2)While rubbing3) After rubbing
+
+Figure 2.8 Figure 2.9 Figure 2.10
+
+Glass rod
+
+Cloth
+
+Positively (+) and negatively(-) charged particles are scattered uniformly. Therefore, objects do not show any net charge.
+
+Negatively (-) charged particles removed from one object and they are gathered on surface of the other.
+
+One object is negatively (-) charged, because more negetively (-) charged particles are collected on it. The other object is positively (+) charged, because nagatively (-) charged particles are removed from it.
+
+It is clear to you when two objects are rubbed with each other, one object is positively charged while the other is negatively charged.
+
+Accordingly, positively charged and negativly charged objects contact each other, two objects become neutral. Therefore, objects do not possess any net charge.
+
+Let us do activity 2.4.
+
+Activity 2.4
+
+Testing the neutralization of charged objects due to the exchange of static electric chargesYou will need :- A glass rod and an ebonite rod of equal size, a piece of silk cloth, a piece of woolen cloth, two stands, pieces of thread
+
+Science | Static Electricity28
+
+Method:- ²Rub the silk cloth against the glass rod and rub the woolen cloth against the ebonite rod. Hang the two rods separately on two stands with pieces of thread. ²Bring two rods close to each other slowly. ²Record the observations. ²Repeat the previous step several times and observe what happens ²Can you observe the same observation as in the previous occasion? ²Discuss the reasons for your observations.
+
+++++++++++--- -- -- -- -- ---
+
+Occasion 1
+
+Occasion 2
+
+It is observed that positively (+) and negatively (-) charged rods attract at the first time when they are brought close to each other. But they neither attract nor repel when they are brought together repeatedly.The reason for this is that they are neutralized because of exchange of charges at the first attraction.
+
+Assignment 2.1
+
+Briefly explain how charges are transferred when a piece of woolen cloth is rubbed against an ebonite rod.
+
+2.4 Phenomena associated with static electricity
+
+There are many occasions in our day-to-day life when we experience incidents associated with static electricity. Let us consider some of them.
+
+Science | Static Electricity29
+
+• Lightning
+
+Figure 2.11 Lightning
+
+You can recall instances of lightning with or without rain. Sometimes lightning can damage property as well as lives. Lightning occurs because of the generation of static electric charges on clouds.Scientists have not come to an exact decision on how static electricity occurs in clouds. It is believed that static electric charges occur by rubbing particles of ice and water one another. Thus, static electric charges collect on the cloud and the cloud becomes charged. A sudden spark of these static electric charges either inside the cloud or between two clouds or between a cloud and the earth is called lightning.
+
+For extra knowledge
+
+Benjamin Franklin
+
+Benjamin Franklin carrying out an experiment on lightning
+
+The scientist Benjamin Franklin was the first to carry out experiments on lightning. Once he sent a kite upto a cloud, while there was lightning and static electric charges in the cloud was discharged to the earth.
+
+• Emitting ‘tic’ sound when ironing clothesSometimes you may have observed that the hair on your arm is attracted to silk clothes giving a “ tic” sound, when you iron them. The reason for this phenomenon is the generation of static electric charges, when iron comes into contact with the silk clothes.
+
+Science | Static Electricity30
+
+• Attraction of hair on the arm towards the TV screen
+
+Sometimes you may have experienced that hair on your arm attracts to the TV screen when TV is switched off. The reason for this, is the accumulated static electric charges on the TV screen.
+
+Some other instances associated with static electricityStatic electricity is used in the electronic circuits in equipment like photocopy machines, radio and television.
+
+2. 5 Capacitors
+
+Activity 2.5
+
+You will need :- Two aluminium sheets approximately of 15cmx15cm, two pieces of wires, a galvanometer, a polythene sheet, two dry cells, cellotape or rubber bandsMethod :-• Connect the two pieces of wire to each aluminium sheet.• Place the polythene sheet between the aluminium sheets. Then hold aluminium sheets securely without letting them touch each other, using cellotape or rubber bands.• Connect the free ends of the wires to dry cells and keep for some time.• Remove the cells, connect the wires to the galvanometer and observe instantly.• Discuss reasons for your observations.
+
+Figure 2.12 A simple capacitor
+
+Figure 2.13 A circuit with a simple capacitor and dry cells
+
+Aluminium sheet
+
+polythene sheet
+
+What you made in Activity 2.5 is a simple capacitor. When connected to dry cells, static electric charges are stored in the capacitor. When it is connected to the galvanometer, releasing of charges can be observed.The appliance that can store static electric charges is known as the capacitor.
+
+Science | Static Electricity31
+
+Figure 2.14 A capacitor
+
+Storage of static electric charges in the capacitor is known as charging, and releasing the charges from the capacitor is known as discharging.When discharging occurs through the galvanometer, it get deflected.The amount of electric charges that can be stored in a capacitor is measured in Farads (F). Microfarad (µF) is used as a subunit.
+
+Figure 2.15 Symbol of capacitor
+
+There are more efficient types of capacitors are made in various sizes.
+
+Details like chargeable voltage, positive terminals (+) and negative terminals (-), maximum capacity that can be stored are mentioned on most of them.
+
+Assignment 2.2
+
+Observe the electronic circuits and identify the types of capacitors in radios, televisions and CFLs.
+
+Activity 2.6
+
+Identification of charging and discharging of a capacitor
+
+You will need :- 1000 µF capacitor, three dry cells, a small LED, pieces of wireMethod :- Connect pieces of wire to the terminals of the capacitor.Connect the other ends of the wires to dry cells correctly. After few seconds, remove the dry cells and connect the LED correctly to the capacitor and observe (Positive terminal of the dry cell should connect with the positive terminal of LED). Discuss the reasons for your observations.
+
+Science | Static Electricity32
+
+Figure 2.16 Charging and discharging of a capacitor
+
+The reason for the lighting of the LED is the discharging of charges stored in the capacitor through LED. The capacitor can be recharged by connecting it correctly to the dry cells.
+
+Repeat the above activity several times.
+
+²Static electricity is generated when one object is rubbed against another. ²There are two types of static electric charges, which are positive (+) and negetive (-) ²When objects are rubbed, negatively (-) charged particles in one object are removed from it and are transferred to the other. ²Repulsions occur between likely charged objects and attractions occur between unlikely charged objects. ²Lightning is a natural phenomenon caused by static electric charges. ²Static electricity is used in televisions, photocopy machines etc. ²Capacitor is an appliance that can be used to store static electric charges.
+
+Summary
+
+- + - + - + - +
+
+- + - +
+
+Science | Static Electricity33
+
+Exercise
+
+1. Mention two instances where static electric charges are used.
+
+2. A student hung a PVC rod charged by rubbing with a piece of thread. He brought a glass rod rubbed with silk towards the PVC rod. The PVC rod was repelled. I. What is the reason for the repulsion of the PVC rod ?II. What is the type of static electric charges occur on the PVC rod ?
+
+3. An electrical circuit prepared by a student is given in Figure 2.16. The indicator of the milliammeter deflects, when terminal X is connected to point A. When X is connected to B, the indicator deflected again. Clarify the above observation. Mention another observation, that can be made in this occasion.
+
+Figure 2.17
+
+0
+
+AX
+
+B
+
+mA
+
+Technical Terms
+
+Static Electricity- iaÓ;s úoHq;h- {ø»ªß
+
+Charge- wdfrdamKh lsßu - ªß÷ÚØÓÀ
+
+Discharge- úi¾ckh lsßu- ªßÛÓUPÀ
+
+Positive charges- Ok wdfrdamK- ÷|÷µØÓ®
+
+Negative charges- RK wdfrdamK- ©øÓ÷¯ØÓ®
+
+Capacitor- Odß;%lh- öPõÒÍÍÂ
+
+Science | Genaration of Electricity34
+
+Generation of Electricity03
+
+From dawn to dusk, we are engaged in various tasks. Various equipment are used to carry out these tasks. As you know, most of these equipment that ease our work function by electricity.
+
+Let us carry out Assignment 3.1 bearing in mind the facts we learnt on electricity in grade six.
+
+Assignment 3.1
+
+Complete Table 3.1, which gives information on electrical equipment used frequently.Table 3.1
+
+Name of the electrical equipmentUse
+
+Method that electricity is supplied to the equipment1. ClockTo know the timeElectric cells2. Rice cookerTo cook rice3. Head lamp of bicycle
+
+4'5'6'
+
+Science | Genaration of Electricity35
+
+3.1 Sources of electricity
+
+Let us pay our attention to the last column of the Table 3.1. There are equipment that supply electricity for our day-to-day electrical needs.Equipment or appliances that generate electricity are called sources of electricity.Let us carry out Activity 3.1 in the classroom as groups, to study further about the sources of electricity.
+
+Activity 3.1
+
+There are some sources of electricity given in Figure 3.1, which are important to generate electricity in various occasions.
+
+Figure :- 3.1 Various sources of electricity
+
+²Discuss how electricity is generated in each equipment. ²Classify those sources of electricity, based on the way of generating electricity in them. ²Present the findings of your group to the class
+
+²Electricity is generated by a chemical process in some sources of electricity. There are various chemicals in them.e.g.:- Dry cells, simple cells, car batteries etc.
+
+Let us do Activity 3.2 to identify the chemicals in a dry cell.
+
+Science | Genaration of Electricity36
+
+Activity 3.2
+
+Examine the contents in a dry cellYou will need :- Some used dry cells, hacksaw blade, a pair of pliers, a sheet of paper, a pair of glovesMethod :- • Cut a dry cell longitudinally using the hacksaw blade.• Observe the longitudinal section of the cell carefully.• Remove the contents of the dry cell and place them separately on the sheet of paper.• Note that there are chemicals in the dry cell. • Carefully dispose the chemicals with the assistance of your teacher.
+
+Figure :- 3.2 Contents of the dry cell
+
+ppy
+
+It is clear through the activity, that dry cells contain various chemicals.Thus, all the electric cells and batteries contain chemicals.
+
+• Some sources generate electricity by rotating or moving them. e.g.:- bicycle dynamo, electric generators
+
+Equipment that generate electricity can be grouped as given below, according to the way they generate electricity.1. Electric cells and batteries :- Equipment that generate electricity by a chemical reaction.2. Dynamo :- Equipment that generate electricity by rotating or moving.3. Solar cell :- Equipment that generate electricity by using solar energy
+
+Cells and batteries
+
+Generating electricity is an easy task. You can do it yourself even at home. Let us do Activity 3.3 for this.
+
+Science | Genaration of Electricity37
+
+Activity 3.3
+
+Generating electricity using a lime fruitYou will need :-A lime fruit thoroughly pressed, so as not to come the juice out, a plate of copper, a plate of zinc, connecting wire, musical circuit in greeting cards or a milliammeterMethod :- ²Insert the pieces of copper sheet and zinc sheet into the lime fruit (without contacting each other). ²Connect a wire to each sheet. ²Remove the cell of the musical circuit in the greeting card, and connect the free ends of the above mentioned wires to the circuit or you can connect those wire ends to the milliammeter (copper sheet and zinc sheet should be taken as positive (+) and negative (-) terminals, respectively) ²What can you observe?
+
+Figure :- 3.3
+
+mA
+
+copper (Cu) sheet zinc (Zn) sheet
+
+lime fruit
+
+Now let us consider a more developed set-up.
+
+Activity 3.4
+
+Construction of a simple cellYou will need :- A small beaker (250 ml), copper and zinc sheets (3 cm x 5 cm), a torch bulb, a bulb holder, a small motor, an iron or nichrome wire which is about 30 cm long, a centre-zero ammeter, dilute sulphuric acid, few pieces of connection wire
+
+Science | Genaration of Electricity38
+
+Method :- ²Clean the copper and zinc sheets thoroughly and connect a piece of wire to one end of each sheet. ²Fill half of the beaker with dilute acid. ²Dip copper and zinc sheets into the acid without letting them come into contact with each other. ²Connect the torch bulb to the free ends of the wires and observe what happens. ²Connect the centre-zero ammeter to one end of the bulb as shown in the Figure 3.4 and observe. ²Connect the small motor instead of the bulb and observe.(Fig. 3.5) ²Wind the nichrome/iron wire round a plastic rod and connect this coil instead of the motor. (Remove copper and zinc sheets from the acid and brush them before connecting each item to the set-up)
+
+Figure 3.4 Figure 3.5
+
+mA
+
+mA
+
+²Tabulate your observations in Table 3.2
+
+Observations when the bulb is connected
+
+Observations when the motor is connected
+
+Observations when the coil is connected
+
+Observations when the ammeter is connected
+
+Any other observations
+
+²The set-up you have constructed is a simple cell. ²Illumination of the bulb and the moving of the indicator of the ammeter reveal that electricity is generated in the set-up.Heating of the coil also indicates the flow of electric current.
+
+Table 3.2
+
+Science | Genaration of Electricity39
+
+Do the Activity again using any other acid instead of dilute sulphuric acid.
+
+For extra knowledge
+
+Centre-zero ammeterAn ammeter or a milliammeter with zero at centre, is used to detect the amount as well as the direction of electric current, flowing through a conducter.Ampere (A) is the standard unit to measure electric current. The subunit, milliampere (mA) is also used to measure small current.
+
+Activity 3.5
+
+²Place all the simple cells, made by your groups on a table. ²Connect the copper sheet of one cell to the zinc sheet of the other and so on. Finally, you will get a set of cells connected together as shown in the Figure 3.6.• Connect separately the torch bulb, the motor and a coil to the free wire ends ( A and B) of the set of cells.• Observe what happens and discuss reasons for your observations• Suggest a name for this set-up.
+
+Figure :- 3.6
+
+AB
+
+You will observe that the illumination of the bulb, the speed of the motor and heating effect of the coil are increased when several cells are
+
+Science | Genaration of Electricity40
+
+connected as above.
+
+Let us make another set-up, using several dry cells.
+
+Activity 3.6
+
+You will need :- Four dry cells, connecting wire, a piece of card board, cellotape or rubber bands.Method:-• Connect four dry cells as shown in the Figure 3.7.• Cellotape or rubber bands can be used to connect wires to dry cells.• Wrap the set of dry cells round using a piece of cardboard, to make it a handy pack.• Take out the terminals from the pack.Figure :- 3.7
+
+(+)(-)
+
+A set-up constructed using several cells is known as a battery. More electric current can be obtained from a battery, than from a cell.
+
+Now, can you tell the difference between a battery and a cell? Self-assesment
+
+1. Mention three weaknesses of simple cells.2. Write an advantage of a battery, compared to a cell3. Give examples for instances when cells and batteries are used in day-to-day life.
+
+Today, simple cells are not in use because of some weaknesses in them. Some of them are mentioned below. ▪Difficulty of using them, because it contains liquids. ▪Inability to obtain current for a longer period of timeToday there are cells and batteries which are easy to use and can supply more current.
+
+Science | Genaration of Electricity41
+
+For extra knowledge
+
+Information on several types of cells and batteries, available in the market are given below.
+
+Table 3.3 - Various types of chemical cells and batteriesNameMaterial of makeInstances of usesDry cellszinc sheet, carbon rod, carbon powder and other chemicals
+
+Electric torches, Radio sets, wall clocks etc.
+
+Alkali cells
+
+Metals like nickel and cadmium, alkaline componentsTelephones, cameras
+
+Button cells
+
+Substances like lithium and mercurywrist watches, calculators etc
+
+Lead - acid accumulator(car battery)
+
+(y)
+
+Lead and dilute sulphuric acid
+
+Cars, buses, motor cycles and in rechargeable electric torches
+
+For your special attention
+
+Batteries and cells disposed after use should be directed for recycling, without throwing them into the environment.
+
+Disposed batteries and cells
+
+Science | Genaration of Electricity42
+
+Terminals of an electric sourceYou may have heard that the terminals of dry cells should be connected correctly, when they are put to an electric torch or to a toy car. ²There are terminals on an electric source to draw out electricity ²In most electric sources, there are two main terminals. 1. (+) ve terminal 2. (-) ve terminal
+
+Activity 3.7
+
+²Find various types of cells and batteries. ²Observe the data mentioned at their terminals. ²Discuss how their (+) ve and (-) ve terminals are marked.
+
+Figure :- 3.8 How the terminals of various cells and batteries are marked
+
+Now, it may be clear to you that (+) ve and (-) ve terminals are marked in various ways on various types of cells and batteries.It is very important that terminals of cells and batteries should be connected correctly to the electric appliances.
+
+For extra knowledge
+
+Terminal on the copper sheet is considered as (+) ve and the one on zinc sheet is considered as (-) ve in a simple cell.
+
+simple cell
+
+(+)Copper sheet (-) Zinc sheet
+
+Dilute Sulphuric acidSimple cell
+
+Science | Genaration of Electricity43
+
+Standard symbol to denote a cell
+
+Fig:- 3.9
+
+Direction of current flowing from an electric source
+
+Fig:- 3.10 Running an electric motor by electric current
+
+Let us connect the external wires of an electric source to an electric appliance (bulb).Electric current flows from source through the wire and the appliance. Then the appliance starts to work.
+
+Activity 3.8
+
+mA
+
+mA
+
+You will need:- Two dry cells, pieces of wire, an electric motor, a centre-zero milliammeterMethod:- ²Prepare the circuit as shown in Figure 3.11. ²Note the direction in which the motor turns, and the direction in which the indicator of milliammeter deflects. ²Change the terminals connected to the circuit and observe. Note down the observations
+
+Fig:- 3.11 (a)
+
+Fig:- 3.11 (b)
+
+It is accepted that the electric current flows from the (+) ve terminal to (-) ve terminal of the source through the circuit.
+
+Science | Genaration of Electricity44
+
+Direction of the current flowing
+
+Fig:- 3.12 The direction of the current flowing from a dry cell
+
+When the terminals of cells were changed the direction in which the motor turns and the direction in which the indicater of milliammeter above changed. The reason for this is the change of direction of current. Figure 3.12 shows the direction of the current flowing from a dry cell. Thus, it is clear that, there is a definite direction for the current to flow.
+
+Solar panelsSolar energy reaches the earth as heat and light. Modern man uses solar energy for various purposes. The generation of electricity is one of those uses. Solar panel consists of several solar cells.The equipment used to generate electricity using sunlight, is known as a solar panel. Have you ever seen wrist watches, calculators and various toys powered with solar cells?Let us do the Activity 3.9 to study the function of a solar cell.
+
+Activity 3.9
+
+Studying the function of a solar panelYou will need:- A solar panel, a small electric motor, a torch bulb, connection wireMethod:-• Connect the terminals of the electric motor to the terminals of the solar panel.• Expose the solar panel to light and observe.• Change the terminals of the solar panel, which are connected to the motor. Observe whether the direction of turning of motor changes.• Keep the solar panel in the dark and observe the running of motor.• Repeat the activity using the torch bulb instead of the motor.• Tabulate the observations.
+
+Fig:- 3.13
+
+Science | Genaration of Electricity45
+
+Instance Electrical MotorTorchbulb
+
+When solar panel is exposed to light
+
+When solar panel is kept in dark
+
+When the terminals of solar panels are changed
+
+Positive (+) and negative (-) terminals are marked on solar cells also. Therefore, the terminals should be connected correctly, when solar panels are used.
+
+Today solar panels are used for electrical needs in houses as well as in vehicles.
+
+Electricity is generated in a solar panel, only when there is light. Electricity, thus generated should be stored in cells or batteries to use when there is no light'
+
+For extra knowledge
+
+Solar cells are manufactured using elements like silicon. A single solar cell can generate a minute current. Therefore, a large number of solar cells should be connected together to obtain a large electric current. Such a connection is known as a solar panel.
+
+Dynamo
+
+Fig:- 3.14 How a dynamo is fixed to a bicycle
+
+Bicycle dynamo is used in most of the bicycles to light lamps at night. Dynamo is another source used to generate electricity.
+
+Table 3.4
+
+Science | Genaration of Electricity46
+
+Assignment 3.2
+
+List other instances where dynamo is used to obtain electricity, other than for bicycles.Other than in bicycles, various types of dynamos are used in fuel-driven electric generators, hydropower stations, thermal power stations and vehicles to generate electricity.
+
+Various types of dynamos
+
+A fuel - driven electric generatorAn electric generator in a hydro-power station
+
+Fig:- 3.15
+
+For extra knowledge
+
+An equipment called dynamo model is used in laboratories to study about dynamos.
+
+Dynamo model in laboratory
+
+Science | Genaration of Electricity47
+
+Let us consider how electricity is generated in a dynamo.
+
+Activity 3.10
+
+Identifying how electricity is generated in a dynamoYou will need:- One metre long insulated copper wire, a bar magnet, a galvanometerMethod:- ²Wind the insulated copper wire around a cylindrical tube to make a coil. ²Clean both ends of the coil well and connect them to the galvanometer. ²Move one end of the bar magnet into and out of the coil. ²Observe how the indicator of the galvanometer moves. ²Discuss the reason for the observation in the class.
+
+Fig:- 3.16
+
+Generation of electricity in a conductor when magnetic field is cutting with the conductor is known as electromagnetic induction.
+
+There is a conducting coil and a permanent magnet in between in a bicycle dynamo. The magnet in the dynamo rotates when the rear wheel of the bicycle rotates. Then, elecricity is generated in the conducting coil.Thus, it will be clear to you, that electricity is generated in the bicycle dynamo, according to the principle of electromagnetic induction.
+
+Let us carry out Activity 3.11 to study how a bicycle dynamo functions.
+
+Turning wheel
+
+Metal rodMetal rod
+
+Permanent magnet
+
+Insulatedcopper coil
+
+TerminalFig:- 3.17 Inner view of a bicycle dynamo
+
+Science | Genaration of Electricity48
+
+Activity 3.11
+
+Generation of electricity in a bicycle dynamo You will need:- A bicycle dynamo or a laboratory dynamo model, a torch bulb, a few pieces of wireMethod:- ²Connect the torch bulb to the terminals of the dynamo. ²Turning the dynamo slowly and faster, observe the brightness of the bulb. ²Discuss the reason for the observation.
+
+y
+
+e
+
+e
+
+Figure 3.18
+
+It will be clear that the amount of electricity generated increased with the rotating speed of the dynamo.
+
+Activity 3.12
+
+Making a simple dynamoYou will need:- About 4 m of insulated copper wire (32 SWG), a bar magnet, a large cork, about 10 pieces of iron wires (each 15 cm long), a galvanometer, cellotape, a bicycle spoke
+
+Method:- ²Bend all the 10 iron wires in U shape, where each arm is about 2 cm long. ²Keep all the bent wires in a single pile to make a bundle of them. ²Wind the insulated copper wire around the bundle of iron rods, as shown in the Figure 3.19, to make a coil. ²Clean both ends of the coil and connect them to the galvanometer ²Place the bar magnet, fitted to the large piece of cork, near the coil and turn it. ²Observe the movement of the indicator of galvanometer.
+
+Figure 3.19
+
+mA
+
+Science | Genaration of Electricity49
+
+What you have made, is a simple dynamo. Let us consider how to develop it further.
+
+Make the following changes in the dynamo you made.1. Increase the number of turns of the coil. Turn the magnet and note down the amount of movement of the galvanometer indicator.2. Use a more powerful magnet and repeat the activity.
+
+Can you give reasons for your observations?
+
+The efficiency of the dynamo can be increased by increasing the number of turns of the coil and the power of the magnet.
+
+3.2 Direct current and alternating current
+
+Activity 3.13
+
+You will need:- Two dry cells, a small fan, a bicycle dynamo, a few pieces of connecting wire, a small DC motor
+
+Method:- ²Connect the dry cell to the small DC motor as shown in the Figure 3.20. Fit the small fan to the motor. ²Record the observations. ²Connect the dynamo instead of the dry cell. ²Record the observations.
+
+Figure 3.20
+
+You may observe that the small fan rotates when dry cells are connected. When the dynamo is connected the fan vibrates only (does not rotate).
+
+Let us do Activity 3.13 to study what happens when a motor and a dynamo is connected to a motor
+
+Science | Genaration of Electricity50
+
+Activity 3.14
+
+You will need :- Two dry cells, two LEDs of different colours, a center-zero milliammeter, a bicycle dynamo, a few pieces of connecting wire
+
+Method:- ²Connect two LEDs and the milliammeter as shown in the figure 3.21. ²Connect two dry cells to X and Y ends as shown in the figure. ²Record the observations. ²Change the terminals of the dry cells. ²Record the new observations. ²Instead of the dry cells, connect the dynamo to X and Y ends. ²Record the observations when the dynamo is rotated. ²Discuss the conclusions that you can arrive, according to the observations.
+
+Figure 3.21
+
+mA
+
+mA
+
+mA
+
+x
+
+Yx
+
+Y
+
+xY
+
+Discuss the answers for the following questions, based on the Activity 3.14.1. Why only one LED illuminates and the indicator of milliammeter deflects only in one direction in all instances when dry cells are connected?2. Discuss the reason, why two LEDs illuminate alternately and the direction of the movement of milliammeter indicator changes constantly, when dynamo is connected and in rotating?
+
+Science | Genaration of Electricity51
+
+The current flows to the same direction only, when dry cells are connected. But the direction of the current has changed alternately, when dynamo is connected.
+
+²The current that flows to one direction is known as direct current (DC). ²All types of electrical cells and batteries generate direct current (DC). ²The current that changes the direction with time is known as alternating current (AC). ²Most of the dynamos and electric generators generate alternating current (AC).A center-zero ammeter or a galvanometer can be used to identify the direction of the current.
+
+For extra knowledge
+
+The pattern of the graphs, when direct current and alternating current are plotted against time are given below.
+
+Current
+
+Time
+
+Direct current (DC)
+
+Graph (A)
+
+0
+
+Current
+
+Time
+
+Alternating current (AC)
+
+Graph (B)
+
+0
+
+Summary
+
+²Various types of electric sources are used in day-to- day life to obtain electricity. They can be mainly named as chemical cells (batteries), dynamos and solar cells. ²Simple cells, dry cells and alkali cells are examples for chemical cells. ²A battery can be constructed by connecting several cells.
+
+Science | Genaration of Electricity52
+
+²More current can be drawn from a battery than from a single cell. ²Terminals of an electric cell are named as (+) ve and (-) ve. Current flows from (+) ve terminal to (-) ve terminal. ²Dynamo consists of a magnet and a conducting coil. ²Current is generated in the dynamo according to the principle of electromagnetic induction. ²Various types of dynamos are used to generate electricity in motor vehicles, bicycles, electric generators and hydro-power stations. ²Electricity that flows to the same direction is known as direct current (DC) and that change direction with time is known as alternating current (AC). ²Electric cells generate direct current (DC) while dynamos generate alternating current (AC). ²The toxicity of disposed chemical cells create a number of issues to man and environment. ²Therefore, it should be directed for proper recycling.
+
+Copper plate
+
+Zinc platepaper soaked in
+
+dilute sulphuric acid
+
+Exercise
+
+1. A student constructed the following set-up using copper and zinc sheets of same size. A piece of paper soaked in dilute sulphuric acid was kept between the copper sheet and zinc sheet. Pairs made thus, were placed one over the other as shown in figure above.(I) Suggest a name for this set-up.(II) Name the (+) ve and (-) ve terminals of this.(III) What can be observed when a coil is connected to terminals A and B ? Give reason for the observations.(IV) Is it a direct current or an alternating current, that can be obtained from the set-up?(V) Describe briefly, an experiment to confirm your answer for part IV(VI) Draw the diagram in figure above, using symbols.
+
+BA
+
+Science | Genaration of Electricity53
+
+2. (I) Mention three sources of electricity that can be used to overcome present electricity crisis.(II) Is the main electricity supplied to houses, a direct current or an alternating current?(III) Complete the following table which is about electric sources.
+
+InstanceSource
+
+Type of current suppliedDirect currentAlternating current1Lighting the head lamp of a bicycleDynamo
+
+2Wall clock working on electricity
+
+3Generating electricity in a hydropower station4Calculator that works when light falls on it
+
+5Starting a car
+
+Technical Terms
+
+Cell- fldaIh- P»®
+
+Battery- negßh- £ØÓ›
+
+Dynamo- vhskfudaj- øhÚ÷©õ
+
+Electric current- úoHq;a Odrdj- ªß Kmh®
+
+Electric generator- úÿ,s ckl hka;%h - ªß ¤Ó¨£õUQ
+
+Direct current (D.C) - ir, Odrdj- ÷|º ªß÷Úõmh®
+
+Alternating current (A.C)- m%;Hdj¾;l Odrdj- Bh÷»õmh®
+
+Bulb holder- n,an fyda,avrh- ªßSªÌ uõ[Q
+
+Electromagnetic induction- úoHq;a pqïnl fm%arKh- ªßPõ¢uz yshÀ
+
+Lines of magnetic force- pqïnl n, f¾Ld- Põ¢u Âø\U ÷PõkPÒ
+
+Solar cell- iQ¾h fldaIh- `›¯U P»®
+
+Coil- o`.rh- _¸Ò
+
+Science | Functions of water54
+
+Functions of Water04
+
+4.1 Water as a solvent
+
+You already know that the sea water has a salty taste. Do you know the reason for this taste? It is because many salts are dissolved in sea water. All living beings need oxygen to breathe. How do fish get oxygen to breath in water? They use oxygen that is dissolved in water.Water acts as a solvent. All the above phenomena are connected with this special function of water.
+
+Figure 4.1 Sea waterFigure 4.2 Fish living in water
+
+Let’s do Activity 4.1 to find out how water is important as a solvent.
+
+Activity 4.1
+
+Take the following materials given in Table 4.1 in equal quantities and dissolve them separately in 5 ml of water in test tubes. Record your observations in the Table 4.1.
+
+Science | Functions of water55
+
+SubstancesObservationsWhite sugarSugar crystals disappear. Solution is colourless.Glucose
+
+Kondis crystals
+
+Surgical spirit
+
+Coconut oil
+
+Laundry blue
+
+Paraffin wax
+
+Kerosene
+
+Common salt
+
+Vinegar
+
+Turmeric powder
+
+Camphor balls
+
+Sodium bicarbonate
+
+Most of the above substances dissolve in water. But some dissolve a little and some do not dissolve in water. Through this activity we examined how some solids and liquids dissolve in water. Do gases dissolve in water? Let’s do Assignment 4.1 to find it out.
+
+Assignment 4.1
+
+²Observe and record the positions of fish in a fish tank in which the water is bubbled with air (oxygen). ²Now observe the positions of fish when the air supply is stopped.
+
+The gases such as oxygen, carbondioxide are soluble in water. Fish use oxygen, dissolved in water for respiration.Water is considered as a solvent because many things dissolve in water. Similarly, we can separate the things that are dissolved in water. Therefore, this solvent property of water helps us in day-to-day life as well as in industrial activities.
+
+Imagine how “water as a solvent” is important in your day-to-day activities.
+
+Table 4.1
+
+Science | Functions of water56
+
+Let’s do Assignment 4.2 to find out how water is important as a solvent.
+
+Assignment 4.2
+
+y List the difficulties that you face when there is no water supply in your kitchen. y Record the methods of supplying nutrients for hydroponic cultivation
+
+It is clear that this special property of water; acting as a solvent, is important not only for us but also for the aquatic organism to live and for the plants to grow.
+
+Following are some instances where water is important as a solvent. ²To make drinks by dissolving sugar, colourings and flavours in water ²To dissolve salt and flavours to make food tasty ²To dissolve concentrated acids in water to prepare battery acid, artificial vinegar etc ²To dissolve medicine in water ²To produce vaccines and saline for purposes of health ²Aquatic animals use oxygen that is dissolved in water to breathe ²To remove dirts on clothes and body ²Use coloured water for decorating purposes.
+
+Assignment 4.3
+
+Prepare another list of instances where water is used as a solvent.
+
+For extra knowledge
+
+²Dilute sulphuric acid is prepared by dissolving concentrated sulphuric acid in water. Battery acid contains dilute sulphuric acid. ²Artificial vinegar is prepared by dissolving acetic acid in water. ²A type of saline solution is prepared by diluting sodium chloride solution to a standard concentration.
+
+Science | Functions of water57
+
+Assignment 4.4 ²Prepare some coloured solutions by dissolving different colours of dye in water. ²Pour them into glass containers with different shapes. ²Prepare a list of instances where such colourful solutions are used in our day-to-day life.
+
+Figure 4.3
+
+Assignment 4.5 ²Collect some labels of different kinds of soft drinks. ²List out the substances that are dissolved in water to prepare them.
+
+Uses of separating materials dissolved in water
+
+Activity 4.2
+
+You will need :-A common salt solution, spirit lamp, a candle, a lid of a tinMethod:-Put some common salt solution on to the lid and heat it as shown in Figure 4.4.Use a tripod and a wine spirit lamp or an empty box of milk powder with a ventilator at the side and a lighted candle to heat it. Record your observations.
+
+Figure 4.4
+
+Science | Functions of water58
+
+You will observe salt remains on the lid as a white powder.
+
+Different types of salts of minerals are dissolved in water, when rivers, streams and water ways are flowing towards the sea. When this happen for long period of time, sea water become salty. Thus, sodium chloride is the mineral salt that dissolved most in the sea water. Salt is produced from sea water, by evaporating water exposing to solar heat.
+
+Figure 4.6 A sugar cane tree
+
+The juice in sugar cane contains sucrose dissolved in water. Sugar is produced by removing the water in sugar cane.
+
+A sugary solution can be extracted from coconut flower which is known as sweet toddy. Treacle can be produced by removing some amount of water from this sweet toddy. If water is totally removed from sweet toddy jaggery can be produced. Jaggery and treacle can also be produced from palmyra and kitul trees.
+
+Assignment 4.6
+
+Design a poster to illustrate the use of water as a solvent.
+
+4.2 Water as a coolant
+
+Why do buffaloes wallow in water on hot days?
+
+Why do we feel cool when we wash our hands, legs and face with water at a time of sweating?
+
+p
+
+e
+
+s
+
+e
+
+f
+
+m
+
+d
+
+m
+
+Figure 4.5 A saltern
+
+Figure 4.7 A coconut tree used to get sweet toddy
+
+Science | Functions of water59
+
+How do you explain the cooling ability of water?
+
+Water can bear a large amount of heat. It absorbs the heat and reduces the heat of objects. Because of this feature water is considered as a good coolant.Let’s do Activity 4.3 to observe the coolant property of water.
+
+Activity 4.3
+
+You will need :- Two beakers of similar size, cotton, two thermometers ²Get two beakers of similar size. Put same amount of cotton wool into both beakers. ²As shown in the Figure 4.8 keep two thermometers inside the beakers and get the readings. ²Put a little amount of water on to cotton wool in one beaker and keep for a few minutes. ²Get the readings of the thermometers and compare the readings.
+
+Figure 4.8
+
+You can observe that the temperature of the thermometer in wet cotton wool has been reduced.Uses of coolant property of water
+
+Figure 4.9
+
+²The energy generated by burning fuel helps a vehicle to run. At this process of burning fuel the engine of the vehicle gets heated a lot and stops functioning. The heat of the engine is absorbed by water or by a coolant in the radiator and prevents the engine from faltering due to overheat.
+
+²Water is used as a coolant in factories to avoid overheating of machines while operating.
+
+Assignment 4.7
+
+List out some other instances where water is used as a coolant.
+
+Science | Functions of water60
+
+4.3 Water as a medium of life
+
+Can a fish live out of water?It will die in a few minutes, if it is taken out of water. Why is it?Fish use oxygen dissolved in water for respiration. When water pass through their gills, oxygen enters into blood vessels.Fish cannot obtain oxygen if there is no water. Lots of fish die during a drought period because they cannot get oxygen without water.
+
+²Many aquatic organisms use water as their living environment (Habitat)e.g.:- Fish - Tilapia, Tuna Amphibian - Toad Reptile - Watersnake, Turtle Mammals - Dolphin, WhaleDuring the Winter season, although the surface water gets frozen, water remains in liquid state under the ice layer, so that fish can survive without any harm during the Winter.
+
+Some people break these ice layers and do fishing during this season.Water acts as a medium for biological activities taking place in all living beings which live in water and land. ²Digestion of food and producing energy through reaction of glucose and oxygen and many other chemical reactions take place in a medium of water. ²The nutrients absorbed to the body after the digestion of food, are transported to the cells by dissolving in blood. So this process too takes place in a medium of water. ²Vitamins, minerals, medicine are transported through our body by using a medium of water in blood.
+
+f life
+
+s
+
+er
+
+ss
+
+rs
+
+Figure 4.10
+
+g
+
+Figure 4.11 Fishing by breaking ice layers
+
+Science | Functions of water61
+
+²Also the excretory materials such as urea produced in our cells, are transported to the excretory organs with the help of blood.
+
+For extra knowledge
+
+²The excess protein taken to our body is decomposed to urea in the liver. ²This urea is mainly excreted as urine which has a watery medium. Little amount of urea is also excreted as sweat.Therefore, it is obvious that water plays a major role in the existence of life.
+
+Assignment 4.8
+
+Prepare a wall paper about the living beings that use water as a medium of life. Divide them as plants, animals and micro organisms.
+
+Assignment 4.9
+
+Design a poster to illustrate the use of water as a medium.
+
+Summary
+
+²The main functions of water are as a solvent, as a coolant and as a medium of life. ²The solvent property of water is helpful to dissolve things in water and to separate things from water. ²Heat is generated in our body during the biological processes. ²Heat is also generated in machines when they are operated. This heat can be removed by using water because water act as a coolant. ²Water is the medium of life for aquatic organisms. ²Water is an essential medium to maintain the biological processes in all living beings.
+
+Science | Functions of water62
+
+Exercise
+
+01) Select the correct answers for the given questions.I. What is the most soluble substance in water? 1. Laundry blue 2. Table salt 3. Sand 4. Coconut oil
+
+II. Which property of water is used to cool the engine of a vehicle? 1. As a solvent 2. As a medium 3. As a coolant 4. As an insulator
+
+02) Fill in the blanks using the correct answer.I. Sea water has become salty due to dissolving ………………… in it.II. ………………… can be produced by evaporating sea water.III. ………………… property of water, makes it easy to absorb minerals by plants.IV. When we take an ice cube into our hand we feel cold. The reason for this is flowing of heat from ………………… to …………………V. ………………… acts as the medium for biological processes that take place in the human body.
+
+Technical Terms
+
+Solvent- ødjlh- Pøµ¨£õß
+
+Solution- ødjKh- Pøµ\À
+
+Solute- ødjHh- Pøµ¯®
+
+Coolant- isis,kldrlh- SÎµõUQ
+
+Medium- udOHh- FhP®
+
+Science | Acids and Bases63
+
+Acids and Bases05
+
+5.1 Identification of acids and basesDid you ever think why fruits have different tastes?
+
+Figure 5.1 Different types of fruitsFruits have different tastes because they contain different chemical compounds. Fruits such as oranges, pineapples, lemon, tamarind and flavours such as vinegar, lime, tomatoes are sour in taste. The reason for this sour taste is containing acids in them.
+
+Sodium bicarbonate is used as a treatment for bee sting. Milk of magnesia tablets are taken for gastritis. Lime is added to reduce the acidity of soil.Sodium bicarbonate, milk of magnesia and lime water contain chemical compounds called bases. Bases can be used to reduce the problems occurring due to acids. Bases have a soapy nature.
+
+Water, alcohol, salt solution, kerosene do not show the properties of acids or bases. They are called neutral substances.
+
+Science | Acids and Bases64
+
+5.2 A cids and b ases available in school laboratory and homeThe substances, we use at home as well as the chemicals we use in the laboratory can be classified as acids, bases and neutral substances according to their properties.Let’s do Activity 5.1 to identify substances as acids, bases and neutral substances.
+
+Activity 5.1
+
+You will need :- Some shoe flowers, lime juice, vinegar, soapy water, lime water, ash dissolved water, common salt solution, waterMethod :- ²Boil the shoe flowers and prepare a solution. ²Put equal volumes (2 ml) of solutions given in the table below into separate test tubes. ²Put two drops of shoe flower boiled water into each test tube and shake well. ²Record your observations in the Table 5.1.Table 5.1 SolutionAcid/base/neutralColour given with shoe flower solutionLime juiceacidVinegaracidSoap waterbaseLime waterbaseAsh mixed waterbaseCommon salt solutionneutralWaterneutral
+
+Figure 5.2
+
+You will observe that acids give one colour while bases give another colour with shoe flower solution.
+
+Science | Acids and Bases65
+
+The solutions/things that give different colours with acids and bases are known as indicators.Litmus is such an indicator that can be found in the laboratory. There are two types of litmus. They are red and blue.Let’s do Activity 5.2 to identify acids, bases and neutral substances using litmus.
+
+Figure 5.3 Red and blue litmus
+
+Activity 5.2
+
+Use red litmus and blue litmus instead of shoe flower solution with the solutions you used in activity 5.1. Record your observations in a table. Compare your observations with the following colours'
+
+Type of litmusColour with acidsColour with basesColour with neutral substances
+
+Red litmus
+
+Blue litmus
+
+In the presence of, ²acids, blue litmus turns into red and red litmus does not change the colour. ²bases, red litmus turns into blue and blue litmus does not change the colour. ²neutral substances, both blue and red litmus do not change the colour.
+
+Science | Acids and Bases66
+
+You can prepare indicators by using some materials in the natural environment. Given below are some of them.
+
+² Shoe flower boiled water ² Extraction of “Girithilla” / “Seendukodi” flowers ² Extraction of “Nil katarolu” / “Nela Kakkattan” flowers ² Arecanut boiled water ² Turmeric boiled water ² Red cabbage boiled waterLet’s do Activity 5.3 by using some of the above indicators.
+
+Activity 5.3
+
+Liquids/SolutionsIndicators prepared
+
+Turmeric boiled water
+
+Lime juice
+
+Vinegar
+
+Lime water
+
+Soap water
+
+Shampoo
+
+Soda water
+
+Colourless soft drink
+
+Common salt solution
+
+Sugar solution
+
+Glucose solution
+
+Kerosene
+
+Prepare some of the above indicators. Add some drops of those indicators to the solutions given in the following table and record the colour you observe.Table 5.2
+
+Classify the liquids/solutions as acids, bases and neutral substances depending on the colour change with the indicators.Let’s do Assignment 5.1 to identify the acidic and basic substances in the school laboratory.
+
+Science | Acids and Bases67
+
+Assignment 5.1
+
+With the help of your teacher observe the labels of the containers with acids and bases. Collect the information given in the labels. Then prepare a list of acids and bases that can be seen in the laboratory. Do not touch any acid or base. If touched accidently wash yourself well with cool water.
+
+Some acids that are used frequently in the laboratory are given below.
+
+Sulphuric Acid
+
+Nitric AcidFigure 5.4 Some acidsHydrochloric Acid
+
+Some strong bases that are used frequently in the laboratory are given below.
+
+Sodium Hydroxide Potassium HydroxideFigure 5.5 Some bases
+
+Apart from litmus the following indicators can be used to identify acidic, basic and neutral substances in the laboratory.
+
+1. pH papers 2. Phenolphthalein indicator 3. Methyl orange indicator
+
+Science | Acids and Bases68
+
+Table 5.3 shows the colour changes of the indicators with acids and bases.
+
+Table 5.3 Colour changes of the indicators with acids and basesIndicatorNature of the indicatorColour with acidic substances
+
+Colour with basic substancesBlue litmusa kind of blue coloured paper strips
+
+redblue ( no colour change)
+
+Red litmusa kind of red coloured paper strips
+
+red ( no colour change)blue
+
+pH papersA kind of yellow coloured paper strips
+
+Red, orange, yellowDark green, blue, violet
+
+Phenolphthalein A kind of white powder. This powder is dissolved in ethanol or surgical spirit. The solution is colourless.
+
+colourlesspink
+
+Methyl orangeA kind of yellow powder. This powder is dissolved in water. The solution is yellow in colour.
+
+redyellow
+
+²pH papers
+
+acidsbases
+
+neutral
+
+Figure 5.6
+
+1234567891011121314
+
+Science | Acids and Bases69
+
+Figure 5.7
+
+Figure 5.8
+
+²Phenolphthalein powderPhenolphthalein solutioncolour with acidscolour with bases
+
+²Methyl orange powder
+
+Methyl orange solutionscolour with acidscolour with bases
+
+Let’s do Activity 5.4 to identify acidic, basic and neutral substances using pH papers.
+
+Activity 5.4
+
+g
+
+You will need :-pH papers, solutions used in Activity 5.3.Method: - ²Dip the pH papers in the solutions and compare the colours with the given code. Arrange the solutions according to the consequent numbers. ²Acidic substances show in the range of 1-6 colours ²Bases or basic substances show in the range of 8-14 colours ²Neutral substances show the colour 7 of the pH paper
+
+Science | Acids and Bases70
+
+Activity 5.5
+
+You will need :-Dilute hydrochloric acid, dilute sulphuric acid, dilute sodium chloride solution, dilute calcium hydroxide solutionMethod :-Use pH papers, red litmus, blue litmus, phenolphthalein, methyl orange indicators with above solutions to identify the acids and bases. Get the help of your teacher.
+
+² We use acidic, basic and neutral substances regularly in our day-to-day activities and also in the laboratory. ² Identifying acidic and basic substances is useful in day-to-day activities. ² Different kinds of indicators are used to identify acidic, basic and neutral substances. ² Lemon, vinegar, tamarind, gamboge are some of the acids that can be found at home. ² Sulphuric acid, hydrochloric acid, acetic acid are some of the acids that can be found in the laboratory. ² Soap, lime water, shampoo, ash are some of the basic substances that we use at home. ² Sodium hydroxide, calcium hydroxide are some of the basic substances that can be found in the laboratory. ² Sugar, common salt, kerosene, glucose are some neutral substances that are used at home.
+
+Summary
+
+Exercise
+
+² Select the correct answer for the questions given below.
+
+(01) Which answer contains only acidic substances?
+
+1) Lemon, soap,common salt 2) Lime water, common salt, vinegar
+
+3) Vinegar, lemon, tamarind 4) Common salt, vinegar, lemon
+
+Science | Acids and Bases71
+
+(02) …………………..turns red litmus into blue.
+
+1) Common salt solution 2) Lime water 3) Orange juice 4) Water
+
+(03) An indicator that is used in the laboratory is
+
+1) Sodium hydroxide 2) Methyl orange
+
+3) Sulphuric acid 4) Calcium hydroxide
+
+(04) What is the colour of the pH papers found in the laboratory?
+
+1) Yellow 2) Blue 3) Red 4) Violet
+
+(05) What is the solution that turns phenolphthalein into pink?
+
+1) Dilute Sulphuric acid 2) Sodium hydroxide
+
+3) Dilute Nitric acid 4) Soda water
+
+²Three containers named as A, B and C contain an acidic, a basic and a neutral solution. The following table shows the resulting colours of red litmus and blue litmus when they are dipped in these solutions.
+
+Solution ASolution BSolution C
+
+Blue litmusblueblueredRed litmusredbluered
+
+1) Which solution shows acidic properties?
+
+2) Which solution shows basic properties?
+
+3) Which solution shows neutral properties?
+
+4) If one vessel contained water, what is the letter given for the solution?
+
+Technical Terms
+
+Acid- wï,h- Aª»®
+
+Base- Niauh- Põµ®
+
+Neutral substance - WÞiSk øjH- |k {ø»¨ £uõºzu[PÒ
+
+Indicator- o¾Ylh- Põmi
+
+Medium- udOHh- FhP®
+
+Science | Animal Diversity72
+
+Animal Diversity06
+
+6'1 Vertebrates and invertebrates
+
+Animal world consists of millions of different animals with a wide diversity.
+
+Assignment 6.1
+
+²Observe the school garden and identify 10 different animals and name them. ²Group them based on different features you observed in them. ²Compare the way you grouped with the way your friends in the class did.
+
+You and your friends may have grouped animals based on different criteria. Mode of locomotion, body shape, body colour, size of the body and mode of nutrition are some of the criteria you can use to group animals. Therefore you will learn that there is a vast diversification in animals. Human is also a member of this diversified animal world.
+
+HumanTurtleSnail
+
+Worm
+
+CrowCrab
+
+ElephantFrog
+
+Science | Animal Diversity73
+
+Millipede
+
+PythonDuckButterfly
+
+Star fishFishBat
+
+Figure 6.1 Several species of animals
+
+Backbone
+
+Figure 6.2 Skeleton of human
+
+As there are many different species of animals living in the animal world, they are grouped in order to make it easy for naming, identification and to study about them. Recall how you grouped the animals using different criteria.
+
+Considering the mode of locomotion, bat, butterfly and crow can be grouped into one group as 'flying' animals, but these animals display a huge diversity with regard to other features. Therefore, a scientific way of classification is essential to group animals. Observe a human skeleton in your school laboratory.
+
+The central line of bones is known as backbone. Many animals including human being have a backbone. Observe the skeletons given in Figure 6.3 and identify the nature of backbone of the animals.
+
+Science | Animal Diversity74
+
+Figure 6.3 Skeletons of vertebrates
+
+Skeleton of fish
+
+Backbone
+
+Skeleton of frogSkeleton of ostrich
+
+Skeleton of ostr
+
+Skeleton of Crocodile
+
+Skeleton of an elephant
+
+Backbone
+
+Backbone
+
+Some animals do not have a backbone. The Figure 6.4 shows several species of animals, without a backbone.
+
+LeechButterflyBeetle
+
+PrawnSnailSpiderFigure 6.4 Several species of invertebrates
+
+Animals can be divided into two groups as animals with a backbone and animals without a backbone.
+
+Animals with a backbone are called vertebrates; and animals without a backbone are called invertebrates.
+
+Science | Animal Diversity75
+
+Animals with backbone (vertebrates)Animals without backbone (invertebrates)Animals
+
+Engage in Assignment 6.2 to identify vertebrates and invertebrates in our environment
+
+Assignment 6.2
+
+The picture given below shows some species of animals living in sea shore. Group them into vertebrates and invertebrates.
+
+Figure 6.5 Animals observed in the sea shore
+
+5
+
+2
+
+7
+
+3
+
+4
+
+8
+
+6
+
+9
+
+10
+
+1
+
+1. Sea gull 6. Bivalve
+
+2. Turtle 7. Star fish3. A species of fish 8. Sea anemone4. Prawn 9. Snail 5. Hermit crab10. Worm
+
+Compare the way you grouped them with the table given below.
+
+Science | Animal Diversity76
+
+Table 6.1 VertebratesInvertebratesSea gullFish speciesTurtle
+
+Hermit crabStarfishBivalveSnailPrawnWorm Sea anemone
+
+Vertebrates can be further divided into following groups; ² Fish ² Amphibians ² Reptiles ² Birds ² Mammals
+
+For extra knowledge
+
+C - Reptiles
+
+Turtle
+
+Lizard
+
+Snake
+
+Crocodile
+
+'Bulath hapaya'
+
+Halmal DandiyaShark
+
+Tuna
+
+A - Fish
+
+B - Amphibians
+
+Toad
+
+Frog
+
+Ichthyophis
+
+Salamander
+
+Science | Animal Diversity77
+
+D- Birds
+
+E- Mammals
+
+Hawk
+
+Squirrel
+
+Kingfisher
+
+Bat
+
+Magpie
+
+Dolphin
+
+Oriole
+
+Deer
+
+Engage in Activity 6.1 and classify the vertebrates mentioned in it.
+
+Activity 6.1
+
+g g
+
+A picture of a forest drawn by a student is given in Figure 6.6. Identify organisms in the picture.
+
+Figure 6.6 Several species of animals
+
+Science | Animal Diversity78
+
+Classify above animals as vertebrates and invertebrates.
+
+Vertebrates Invertebrates......................................................
+
+...............................................................
+
+6.2 Adaptations of organisms to environment
+
+Organisms live in various environments like water, land, atmosphere, on other organisms and also inside other organisms. Other than that there are organisms who live in snow, deep sea, in deserts as well as hot water springs. They have conquered such difficult environmental conditions due to their ability to adapt for these environments.
+
+The ability of organisms adapt to their environment is called adaptation. These adaptations are useful for them to fulfil their needs (e.g.:- food, shelter, protection). Thereby the organisms ensure their existence in the environment.
+
+Usefulness of colour for the existence of animals
+
+Most of the time colour of the animal blend with their living environment; thereby an animal cannot easily be identified by the predators and they will be protected.
+
+Activity 6.2
+
+You will need :- 100 small pieces of ekels/tooth picks, colours (red, green, white, brown)Method :- ²Colour the pieces of ekel/tooth picks (25 in one colour) ²Spread the wrapped pieces of ekel in a lawn randomly. ²Appoint 4 students to pick up the pieces of ekel.
+
+Science | Animal Diversity79
+
+²What colour ekels were picked up at first? What colour was completed picking up at last? ²Next spread the above ekel on a gravel floor. Which pieces of ekel will be collected at last if they were asked to pick up as before. ²Do this activity in different environments in the above manner.
+
+It is obvious that you might have collected the green colour ekel sticks last. Due to the similar colour of the grass and the green colour wrapped ekels sticks make difficult to separate them when picking.
+
+Then, disperse all these ekel sticks on a gravel floor. When you make the students to pick them once again which colour of ekel sticks would be picked by them last.
+
+Some of the animals who show camouflage are shown in the Figure 6.7.
+
+Moth
+
+Figure 6.7 Camouflage among different animals
+
+Leaf insect
+
+Grass hopper
+
+Butterfly
+
+Whip snakeCaterpillar
+
+Science | Animal Diversity80
+
+Assignment 6.3
+
+Complete the following table using Figure 6.7.
+
+Table 6.2 Name of the animalEnvironmentColour of the EnvironmentColour of the bodyGrasshopperLeaf insectButterflyCaterpillarWhip snakeMoth
+
+Plant leavesLeaves of guavaFlowersPlant leavesTwigs of plantsStem
+
+..............................................................................................................................
+
+............................................................................................................
+
+The colour of these animals are properly blended with their environment. Therefore, the predators cannot identify them at once.
+
+Presence of the same colour in the environment and the body of many animals will help them to protect themselves from the predators.
+
+The difficulty to identify animals separately from their surroundings due to blending of body colour to particular environments is called camouflage.
+
+Animals get the following benefits due to camouflage.
+
+Figure 6.8 Leopard seeking for prey
+
+As the skin colour of animals blend with the environment they live in, predators find difficult to catch them on sight at once. Most of the animals do not become victims to predators due to their adaptations to the environment.
+
+Skin colour of the animals helped them not only to protect themselves from predators but also to find prey for them.
+
+e.g.:- The leopard with spotted skin and dusty colour helps them to catch preys without been seen.
+
+Science | Animal Diversity81
+
+For extra knowledge
+
+Biston betularia, a moth species lived in Manchester town in England. They were in two colours as white and black. The black coloured moths easily became the preys of predators as they were clearly visible. After industrial revolution the environment became grey and the black moths were safe due to their black colour.
+
+Figure 6.9 Species of Lizard showing camouflage
+
+Some kinds of lizards change their colour according to the environment they live.
+
+Assignment 6.4
+
+Find the animals who show camouflage. Prepare an album with a collection of photographs of them.
+
+How shape helps the existence of animalsIt is important to change the body colour of animals for their own protection. Similarly the body shape of them is also very important for locomotion. Let us engage in Activity 6.3 to examine that.
+
+Activity 6.3
+
+Showing how the body shape helps in locomotionYou will need :-
+
+Method :-
+
+Some pods of ladies fingers, two pieces of thread about 50 cm, two small balls of clay, pinsCut the ladies fingers according to the illustrated picture.
+
+AA
+
+B
+
+C
+
+CB
+
+CellotapeA
+
+A
+
+Science | Animal Diversity82
+
+Two balls of clay in same size equal length of threadPin
+
+Pin
+
+A
+
+BC
+
+A
+
+Make the two forms of prepared ladies fingers to move on a tray filled with water.
+
+Lumps of claywater
+
+pieces of ladies fingers
+
+Observe whether both the structures move with a similar speed or their speed differs. Both the ends of the A-A form of ladies fingers get a circular shape whereas the B-C form gets pointed shape (Tapering ends).
+
+When the two balls of clay lower down two forms of ladies fingers float along the tray.You will be able to see that streamlined shaped (B-C) form reaches the end of the tray faster than the other form (A-A) of ladies fingers.
+
+streamlined shapeFigure 6.10 Streamlined body shape of fish and birds
+
+Fish
+
+Bird
+
+Name few streamlined shape animals.You will observe several kinds of birds and fish possess streamlined shape.
+
+Science | Animal Diversity83
+
+The body shape of birds and aquatic animals helps to overcome the difficulties they have in their environment.
+
+The body shape of birds and fish is mainly of streamlined shape because they need to have efficiency in their locomotion.
+
+6.3 Use of dichotomous key for classification of organisms
+
+Assume that you remember how several plant leaves were classified using the dichotomous key. Dichotomous key is used to classify living organisms based on the presence and the absence of characteristics. It is more appropriate if the characteristics chosen for this purpose is easily observable.
+
+Features of dichotomous key• Select a feature that could be differentiated easily.
+
+• Consider one feature at a time and separate that feature as present
+
+or absent.
+
+• Finally, separate the items so that only one item will remain at the
+
+end.Some examples of categorisation using dichotomous key
+
+Absence of legsSnail, Fish, CobraPresence of legsFrog, Lizard, Cock
+
+Presence of 4 legsFrog, Lizard
+
+Absence of 4 legsCock
+
+Presence of tailLizard
+
+Absence of tailFrog
+
+Presence of finsFish
+
+Absence of finsSnail, Cobra
+
+Presence of shellSnail
+
+Absence of shellCobra
+
+Cock, Snail, Fish, Frog, Lizard, Cobra
+
+Animals
+
+Similarly, a dichotomous key can be prepared for the classification of plants.
+
+Science | Animal Diversity84
+
+Mango, Cycas, Guava, Coconut, Mimosa
+
+Not having a branched stemCoconut, CycasHaving a branched stemMango, Guava, Mimosa
+
+Plants with thornsMimosa
+
+Plants without thornsMango, Guava
+
+Having more seedsGuava
+
+Non flowering plantsCycas
+
+MangoNot having more seeds
+
+Plants
+
+Flowering plantsCoconut
+
+You might have realised that plants and animals can be identified separately by classifying them with the use of a dichotomous key.
+
+Assignment 6.5
+
+² Observe the birds in your school premises/in your garden. ² Based on the various features of those observed birds, prepare a dichotomous key.
+
+Summary
+
+²Animals can be grouped into two as animals with a backbone and animals without a backbone. ²Animals with a backbone are named as vertebrates and animals without a backbone are named as invertebrates. ²Similarities and differences can be seen among vertebrates. ²Various changes occur in organisms to suit and survive in their habitat is called adaptation. ²Organisms are well-adapted to live in their environment with body colour and shape.
+
+²Dichotomous keys are used to classify organisms mainly based on their external features.
+
+Science | Animal Diversity85
+
+Exercise1. Choose the correct answer. i). Select the group of animals consists of only vertebrates. a. Bull, Snail, Crow b. Butterfly, Sparrow, Bat c. Gecko, Iguana, Crocodile d. Crab, Prawn, Shark ii). Select the invertebrate; a. Toad b. Sea horse c. Prawn d. Rat snake2. A list of animals is given below.Iguana, Mosquito, Squirrel, Fish (Snake head), Whale, Crow, Bat, Crab, Bull, Butterfly, Bee, Scorpion, Millipede i) Group the animals in the above list as vertebrates and invertebrates ii) Make a dichotomous key for the above vertebrates3. i). Name three animals showing camouflage. ii). State three advantages of camouflage with examples. 4. Write two adaptations shown by the below mentioned animals, to their living environment. e.g.:- Fish - presence of fins - streamlined shape Whip snake - ...................... - ...................... Bird - ...................... - ...................... Millipede - ...................... - ...................... Mantis - ...................... - ...................... Caterpillar - ...................... - ......................
+
+Science | Animal Diversity86
+
+Technical Terms
+
+Vertebrates- mDIaGjxYSka- •ÒÍ¢uskÎPÒ
+
+Invertebrates- wmDIaGjxYSka- •ÒÍ¢usi¼PÒ
+
+Adaptation- wkqj¾;k- Cø\ÁõUP®
+
+Camouflage- fõYdka;rh- ö£õ´U÷Põ»®
+
+Streamlined shape - wkdl+, yevh- A¸ÂU÷Põmk ÁiÁ®
+
+Dichotomous key- fofnÿï iqÑh- C¸ QøÍa \õÂ
+
+Science | Forms of Energy and their uses87
+
+Forms of Energy and Uses07
+
+We do various types of work in our day-to-day life. Animals and machines also do work. Some examples for such instances are given in Figure 7.1.
+
+Running a vehicleLifting a weightRotatinga fanRunning
+
+Figure 7.1 Different types of work
+
+In addition to those mentioned above, people engage in different types of work in day-to-day life. Can you give some examples for such work?
+
+Assignment 7.1
+
+² Give five examples for instances of doing work in day-to-day life.
+
+It is clear that man, as well as animals and machines do a lot of work. Now, let us consider what is needed for man as well as other objects to do work. Let us engage in Activity 7.1 and 7.2 for studying this.
+
+Activity 7.1
+
+You will need :- A piece of bicycle tube (2 cm x 30 cm) or any other stretchable thing of that size, a metre ruler
+
+Science | Forms of Energy and their uses88
+
+Method :- ²Give the strip of rubber tube to each student and tell to stretch it as much as possible. ²Note down the maximum length, that each student stretched.
+
+Table 7.1NameMaximum length stretched
+
+²The maximum length of the stretched rubber strip was different from student to student. Discuss the reason for this difference. ²What have they applied/used to stretch the rubber tube?
+
+Figure 7.2
+
+t
+
+Figure 7.2
+
+Activity 7.2
+
+You will need :- One metre long thread, a laboratary stand, a small piece of stone
+
+Method :- ²Tie one end of the thread to the piece of stone.
+
+²Tie the other end of the thread on the stand.
+
+²Give the hanging stone a push.
+
+²Observe the motion of the stone for a long period of time. ²What did you apply on the stone to move? ²Can you tell the reason for the gradual decrease of motion of the stone? ²Discuss in the classroom,
+
+* What do you do to start the motion of stone?
+
+* What does the stone gain to start its motion?
+
+Figure 7.3 Motion of a hanging stone
+
+Science | Forms of Energy and their uses89
+
+Work can be simply explained as a push or a pull, resulting a movement of an object. It is clear that work is done when stretching the strip of rubber tube in Activity 7.1 and moving the stone in Activity 7.2. ² Ability to do work is known as energy. ² International unit of measuring energy is Joule (J).
+
+Energy is necessary to perform work. To increase the amount of work done, the amount of energy applied should be increased. For example, you should supply more energy to move the stone further in Activity 7.2.Energy exists in different forms. Now, let us consider the different forms that energy or the ability to do work can exist. Let us pay our attention to some different types of work done and different forms of energy used.
+
+Carry out Activity 7.3 to find out the different forms of energy used to do different types of work.
+
+Activity 7.3
+
+Identify various forms of energy
+
+Collect following items.
+
+You will need :- A torch bulb, dry cells and some pieces of wire, a battery powered wall clock, a greeting card which produce music, a bicycle dynamo, a radio set, various types of winding and battery-powered toys, an electric motor, winding table clock
+
+Method :-
+
+• Study as groups how the given equipment work.
+
+• Identify the main forms of energy that made each equipment work.
+
+• Identify other forms of energy created, when functioning the equipment.
+
+• Complete the following table according to your observations.
+
+Science | Forms of Energy and their uses90
+
+Figure 7.4
+
+EquipmentMain form of energy that made the equipment workOther forms of energyCreatedElectric bulbElectricityLight energy, Heat energy
+
+Table 7.2
+
+By doing Activity 7.3 you may have identified several forms of energy found in most instances. Most of them are used in various tasks. Main forms of energy identified in Activity 7.3 can be listed as given below.
+
+1. Kinetic energy 5. Light energy
+
+2. Potential energy 6. Thermal or heat energy
+
+3. Electrical energy 7. Chemical energy
+
+4. Sound energy
+
+Let us study further about some forms of energy you identified.
+
+7.1 Kinetic energy
+
+In most instances, we see moving things. Wind, a moving vehicle, flowing water and a moving pebble can be given as examples.
+
+Let us find out whether the moving objects have some sort of energy.
+
+Science | Forms of Energy and their uses91
+
+Activity 7.4
+
+You will need :- A turbine made by fixing metal blades to a cork stopper, a metal rod, a ball, a moving toy car, a piece of stone, a bowl of water
+
+Method :-
+
+²Hold the turbine under an opened water tap ²Keep the ball on a table and send the toy car towards it. ²Drop the piece of stone into still water.
+
+²Lead a discussion, based on your observation.
+
+Figure 7.5
+
+You may have observed that some work is done in each of the above activities. Can you say from where the energy was obtained for the work done?The energy for above work is gained from the moving objects.e.g.:- flowing water, moving stone
+
+This activity reveals us that moving objects have energy.Energy that a moving object contains is called the kinetic energy.
+
+Electricity can be generated by kinetic energy of sea waves. grinding grains, pumping water and generating electricity can be done using kinetic energy of wind.
+
+Electricity is generated in a hydropower station using kinetic energy of water.
+
+Science | Forms of Energy and their uses92
+
+Assignment 7.2
+
+List out five objects which contain kinetic energy
+
+Energy transformation
+
+When work is done using different forms of energy, it is converted to another form of energy.
+
+Let us consider the generation of electricity by kinetic energy of wind. Here kinetic energy is converted to electrical energy by the dynamo fixed to the wind mill.
+
+Conversion of one form of energy to another form of energy is called energy transformation.
+
+Energy transformation that occurs when electricity is generated by wind can be given as below.
+
+Kinetic energy Electrical energy
+
+Write the energy transformation associated with the following instances? Obtaining light from an electric bulb Generating electricity by a dynamo
+
+Self-assesment 1
+
+Figure 7.6 Water flows from higher elevation
+
+amo
+
+Figure
+
+7 6 Water flows from
+
+7.2 Potential energyLet us consider a water stream. We already know that it contains kinetic energy and it can do work.e.g.:- turning a turbineHow did that water get energy for flowing? Does water in any place have the potential to flow?Always water in a higher position can be subjected to flow.
+
+Science | Forms of Energy and their uses93
+
+e.g.:- water in a tank or reservoir at a higher elevation.It is clear that water at a higher elevation contains energy and it has the ability of doing work.
+
+Let us consider a toy car operates by winding a spring.
+
+When winding the spring energy is stored and the shape of the spring is also changed. The instrument operates using the stored energy of the wound spring.
+
+Energy stored in an object because of the change of positions or the change of shape is known as potential energy.
+
+Now, it may be clear to you that the energy stored in water of a reservoir at a higher elevation and a wound spring is potential energy.
+
+When a spring is being unwound, potential energy stored in it is gradually converted to kinetic energy. Thus, unwound spring does not contain potential energy.
+
+Activity 7.5
+
+Making a toy cart
+
+You will need :- An empty tin can or a thread bobbin, a rubber band, a strong metal wire of 20 cm long
+
+After windingBefore windingFigure 7.7 Spiral spring
+
+Figure 7.8 Inside a clock, that works by potential energy stored in a spring
+
+Science | Forms of Energy and their uses94
+
+Method :-
+
+²Make two holes in the tin can, as shown in Figure 7.9, and send the rubber band through the holes.
+
+²Bend the metal wire and tie the rubber band to its ends.
+
+²Turn the wheel of the toy cart you made, to wind the rubber band.
+
+²Now place the toy cart on a table and observe. Think of a way to construct your toy cart more creatively.
+
+²How did the toy cart gained energy to move?
+
+Figure 7.9
+
+Figure 7 9
+
+1' Name five instances, where there is potential energy.
+
+Self-assesment 2
+
+Potential energy and kinetic energy are commonly known as mechanical energy.
+
+7.3 Electrical energy
+
+You may have learnt electricity as a useful energy form. Let us do Activity 7.6 keeping what you have already learnt in mind.
+
+Activity 7.6
+
+²List out instances where electricity is used, recalling the work done using electricity. ²Discuss the facts that your group listed out in the classroom.Check whether any of the points you noted down are illustrated in figures given below.
+
+Science | Forms of Energy and their uses95
+
+Figure 7.10
+
+Rotating a motor
+
+Running a toy car
+
+Lighting a bulb
+
+Ironing clothes
+
+You will not hesitate to mention electricity as a form of energy used to do various types of work. Electrical energy can be used for various purposes like rotating electric fans, pumping water, lighting and heating.
+
+Some appliances that work using electricity are given in Table 7.3 below. Complete the table.Table 7.3ApplianceUsage of applianceSmall electric motor
+
+Computer
+
+Electric iron
+
+Activity 7.7
+
+Making a bell functioned by electricity
+
+You will need :- A cork or rubber stopper, a piece of wooden plank (10 cm x 10 cm), an electric motor, a bell cover, a piece of metal sheet, two dry cells, iron nails, pieces of wire
+
+Science | Forms of Energy and their uses96
+
+Method :-
+
+²Fix the bell cover on the wooden plank using nails. ²Fix the stopper to the end of motor. ²Fix the electric motor to the wooden plank using the piece of metal sheet, in such a way that the stopper just touches the bell cover. ²Supply electricity to the motor using dry cells. ²Adjust the positions of motor and bell cover to make the bell ring ²Write down the energy transformation that occurs when the bell is working ²Discuss the ways you can follow to develop this set-up you made.
+
+ppj
+
+l
+
+n
+
+o
+
+Figure 7.11
+
+7.4 Sound energyYou may have experienced that, doors and windows of your house vibrate when thundering. High tones of vehicles are unbearable to ears. We like the sounds like chirps of birds and sweet melody of music. But we do not like to hear unbearable sounds. Energy contains in pleasant and unpleasant sounds also. Let us do Activity 7.8 to understand this property of sound.
+
+Activity 7.8
+
+Figure 7.12
+
+You will need :- A radio set, a sheet of paper, small pieces of polystyrene
+
+Method:- ²Place the front side of the radio set upside and increase the volume. ²Put few pieces of polystyrene on the sheet of paper and hold it above the radio. ²Note down the observations.
+
+Science | Forms of Energy and their uses97
+
+²You can observe the vibration of the sheet of paper and the motion of polystyrene particles. Thus, it is clear that sound also contains energy.
+
+²Energy contained in sound is scientifically known as sound energy. Energy transformation that occours when a radio set operates is given below. Electrical energy Sound energy
+
+For extra knowledge
+
+When addressing a mass gathering, sound energy produced by human voice is not sufficient. Therefore, sound is amplified using electricity. Appliance used for this purpose is called loud speaker set.
+
+Assignment 7.3
+
+Name four instances where sound energy is used
+
+7.5 Light energyLight is very important for vision. Therefore, since ancient days various methods were used to produce light. Green plants use light energy for the process of manufacturing food, called photosynthesis.
+
+Figure 7.13
+
+Assignment 7.4
+
+Tabulate the materials used in various light sources to produce light.
+
+Source of lightMaterials used to produce lightElectric torchDry cellsCandle.............................................................Torch made of dried coconut leaves/ ('Hulu aththa').............................................................Kerosene lamp.............................................................
+
+Table 7.4
+
+Science | Forms of Energy and their uses98
+
+In addition to get sight there are other purposes received from light. One of them is the generation of electricity.
+
+Activity 7.9
+
+You will need:- A solar panel, an electric motor, a torch bulb
+
+Method:- ²Connect the electric motor to the solar panel and expose to light. ²Note down the observations.
+
+²Remove the electric motor and connect the torch bulb. ²Discuss what is revealed by the observations.
+
+Figure 7.14
+
+The electric motor and the torch bulb were opearated by light energy. Thus, it is clear that light energy can be used for various purposes.
+
+The main source of light to the earth is the sun.
+
+Though a large amount of light energy, falls on the earth from the sun, only a very small amount of light energy is utilized. So, there is an increasing interest to use light energy of sunlight (solar energy) in large scale today.
+
+Energy transformation that occurs when electricity is generated in a solar cell is given below.
+
+Solar energy Electrical energy
+
+Green plants maufacture food using light energy. This process is known as photosynthesis. Here, light energy is stored in plant as food. Energy is supplied to the whole living world by this food, produced by plants.
+
+Do you know?
+
+Self-assesment 3List out some other instances where light energy is used
+
+Science | Forms of Energy and their uses99
+
+7.6 Heat/thermal energy
+
+What do you feel when you bring your hand close to a flame? What you feel is the heat energy.
+
+Heat is a form of energy, which is very important in doing various types of work like cooking food.Let us do Activity 7.10 to understand more about heat energy.
+
+Activity 7.10
+
+You will need :- A glass bottle (750 ml), vessel to dip the bottle, a balloon
+
+Method :-
+
+²Fix the balloon to the empty bottle.
+
+²Take hot water to the vessel and dip the bottle into it slowly. ²Note down the observations. ²Discuss the reasons for the observations.
+
+Figure 7.15
+
+The balloon is inflated because of the increase of the volume of air inside the balloon due to heat energy.
+
+More things can be done by heat. This will be clear to you by carrying out Activity 7.11'
+
+Activity 7.11
+
+You will need :- A candle, PVC tube/pipe, a piece of paper, a boiling tube with water, a test tube holder, a pair of crucible tongs
+
+Method:-
+
+²Light the candle.
+
+²Hold the piece of paper to the flame of the candle. Observe what happens.
+
+,pg
+
+r
+
+.
+
+Figure 7.16
+
+Science | Forms of Energy and their uses100
+
+²Heat and fold the PVC tube. ²Heat the boiling tube with water. ²Note down the observations of each instance. ²Discuss the reasons for the observations.
+
+Deformation of things, melting, burning and evaporation can be caused by heat. The reason is the energy contained in heat.
+
+Today heat energy is used to generate electricity, to drive steam engines and many other purposes. Let us construct a set-up that works by energy of heat.
+
+Making a steam turbine
+
+You will need :- A small tin can, a sheet of aluminium, a cork stopper, few pieces of thick wire, a tripod, a burnerMethod:-
+
+²Bore a small hole at the middle of the lid of tin can.
+
+²Put a small amount of water into the can and close the lid.
+
+²Make a turbine fixing pieces of aluminium blades to the cork stopper. Using the pieces of thick wire, hold the turbine above the hole of the tin can. ²Place the set-up on the tripod and heat it using the burner. ²Discuss the reasons for what you observe.
+
+Activity 7.12
+
+Figure 7.17
+
+Electricity is generated in thermal power stations by rotating dynamos, connected to large turbines, which are driven by steam.
+
+Science | Forms of Energy and their uses 101
+
+Figure 7.18 :- Parts in a thermal power station
+
+Self-assesment 4Write down the energy transformation that occurs in a thermal power station
+
+It is heat energy, that is responsible for occuring winds, driving water cycle, drying of clothes and so on.
+
+Assignment 7.5
+
+List out five occasions where heat energy is used.
+
+7.7 Chemical energyChemicals can exist as solids, liquids or gases. Large amount of energy is stored in most of the chemicals.Energy stored in chemicals is known as chemical energy.
+
+Let us carry out Activity 7.13 to understand facts about chemical energy.
+
+Activity 7.13
+
+You will need :- A candle, a box of matches, dilute hydrochloride acid, a piece of magnesium ribbon, a test tube
+
+Science | Forms of Energy and their uses102
+
+Method:-
+
+²Light the candle and fix it on the table. Observe it for a few minutes and note down the observations.
+
+²Put the piece of magnesium ribbon into the test tube with dilute hydrochloric acid. Note down the observations.
+
+Figure 7.19
+
+The candle, dilute hydrochloric acid, the piece of magnesium ribbon are all chemical substances. There are chemical substances in the dry cell also. What is released, in the Activity 7.13 is the energy stored in chemicals.
+
+Assignment 7.6
+
+Write down instances where chemical energy converts to other forms of energy.
+
+It is the chemical energy, that is stored in the food, kerosene oil, fuels like fire wood, fire crackers and match sticks. It is also the chemical energy, that is stored in destructive objects such as bombs.
+
+The energy transformation that occurs in a dry cell is given below.
+
+Chemical energy Electrical energy
+
+There are more forms of energy, other than those we have studied so far. They may be considered in the future.
+
+Science | Forms of Energy and their uses 103
+
+² Energy is necessary to do work. ² There are various forms of energy, which are utilized to do various types of work. Some of them are mechanical energy (potential and kinetic), electrical energy, light energy, heat energy, sound energy and chemical energy. ² Conversion of one form of energy to another form is called energy transformation. ² Most of the appliances we use, work by various forms of energy.One form of energy is transformed to other forms during the operation of various appliances.
+
+Summary
+
+1. Chandrakantha comes to school by bus. Its horn has a high tone. There are electric bulbs to illuminate the bus. When the bus runs for a long time, the engine is heated.
+
+I. Write four forms of energy you identified in the bus.
+
+II. What is the basic form of energy used for generation of various forms of energy in the bus?
+
+III. List out three uses of each form of energy you mentioned above.
+
+2. Complete the table given below.
+
+EquipmentForm of energy given to the equipmentOther forms of energy generated in the equipmentElectric bulbElectrical energy'''''''''''''''''''''''''''''''''''''TV set''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''Electric bell''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''Winding clock''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''Hydropower stationKinetic energy of water'''''''''''''''''''''''''''''''''''''
+
+Exercise
+
+Science | Forms of Energy and their uses104
+
+Technical Terms
+
+Work- ld¾hh- ÷Áø»
+
+Energy- Yla;sh- \Uv
+
+Heat energy- ;dm Yla;sh- öÁ¨£ \Uv
+
+Electrical energy- úoHq;a Yla;sh- ªß \Uv
+
+Kinetic energy- pd,l Yla;sh- C¯UP \Uv
+
+Potential energy- úNj Yla;sh- AÊzua \Uv
+
+Light energy- wdf,dal Yla;sh- JÎa \Uv
+
+Chemical energy- ridhksl Yla;sh- Cµ\õ¯Úa \Uv
+
+Sound energy- Yío$ èjks Yla;sh - J¼a \Uv
+
+Science | The nature of the earth 105
+
+The Nature of the Earth08
+
+8.1 The structure of the earthThe earth we live on is the third planet from the sun in the solar system.
+
+UranusNaptune
+
+Saturn
+
+Mars
+
+Earth
+
+Sun
+
+Jupiter
+
+Venus
+
+Mercury
+
+Figure 8.1 Solar System
+
+When compared to other planets of the solar system, the earth looks more beautiful because there are mountains, rivers, oceans, flora and forests on it. Because of these favourable environmental conditions, there is life on earth. The other planets are lifeless because of the non-existence of such environmental conditions.
+
+Figure 8.2 Different types of environments on the earth
+
+What is the nature of the inner part of this beautiful earth?
+
+Geologists obtain information about the nature of the inner part of earth using different methods.
+
+Science | The nature of the earth106
+
+In times of volcanic eruptions, different types of rocks are brought to the surface of the earth. By examining them, geologists obtain information about the inner part of the earth.
+
+Geologists receive more information about the nature of the inner part by examining earthquakes. During earthquakes huge rock movements within the earth give rise to seismic waves. These waves reach the surface of the earth by running through various layers of the earth.
+
+Seismometers are installed in different stations of the earth. Seismic waves are automatically marked by these seismometers. (A Seismometer is installed in Pallekelle, Sri Lanka.) The speed of seismic waves running through various layers of the earth are different. Information about internal layers of the earth can be obtained by measuring those speeds.
+
+That information has helped to
+
+Core
+
+Mantle
+
+Figure 8.3 Cross section of the Earth
+
+Figure 8.4 Cross section of a hard boiled egg
+
+Crustdiscover that the inner part of the earth consists of several layers different from each other.
+
+As shown in Figure 8.3, the inner part of the earth can be divided into three layers. They are core, mantle and crust.
+
+It is a replica of a hard boiled egg cut across from top to bottom. The inner parts of earth can be compared to this replica of an egg.
+
+Egg york Core
+
+Egg white Mantle
+
+Egg shell Crust
+
+Information on the structure of the earth from its surface to the core are given below.
+
+Science | The nature of the earth 107
+
+CrustThe surface of the earth where life exists is the crust. When compared with the size of the earth, it is a thin layer. Mountains, plains and oceans are found on the crust. Its thickness varies from place to place. At the bottom of the oceans its thickness is about 5 km. On land its thickness is about 35 km. The earths crust consists of rocks and soil. It is made up of basic elements like oxygen, silicon and aluminium.
+
+The earths crust provides most of the elements necessary for our sustenance. e.g.:- Construction materials Metals Fossil fuel Soil for agriculture
+
+Mantle
+
+Figure 8.5 a Inner nature of the earth
+
+CrustMantle
+
+Outer CoreInner Core
+
+Underneath the earths crust lies the mantle. Its thickness is about 2900 km. It consists of rocks. These rocks contain oxygen, silicon, magnesium and iron. The upper part consists of solid rocks. The lower part is made up of molten rocks due to extreme hot environment.
+
+Core
+
+Figure 8.5 b Thickness of the inner layers of the earth
+
+1100 km
+
+2400 km
+
+2900 kmThe innermost part of the earth is the core. Its thickness is about 3500 km. The upper part of it is made up of molten iron and nickel metals. The temperature of this area is between 4400 oC - 5000 oC.
+
+Due to high pressure, the lower part of the core remains hard. Its temperature is more than 5000 oC which is as high as the temperature on the surface of the sun.
+
+Science | The nature of the earth108
+
+Table 8.1 Layers of the earthPart of the earthThicknessCompositionElements presentSpecial InformationCrustDeep bottom of oceans 5kmLand 35km
+
+RocksSoilOxygen SiliconAluminium
+
+Very thin layer
+
+Mantle2900kmSolid Rocks and Molten Rocks
+
+Oxygen SiliconMagnesiumIron
+
+Upper part consists of solid rocksdue to high temperature Molten rocks are in the lower partCore3500kmUpper part consists of molten iron and nickel metals
+
+Molten iron and nickel
+
+Temperature between 4400-5000 oC
+
+Activity 8.1
+
+Preparation of a replica of the internal structure of the earth
+
+You will need :- 35 x 35 cm piece of cardboard, saw dust, paint in three colours, glue
+
+Method :- ●Draw a circle with a radius of 1 cm at the centre of the cardboard. ●Draw a circle with a radius of 7 cm which is concentric with the above circle. ●Draw another circle with a radius of 13 cm which is concentric of above two circles. ●Now you will get a Figure like 8.5 b. ●Put saw dust in three colours. ●Paste them on three layers and name them. ●Now show your creation to the classroom.
+
+Science | The nature of the earth 109
+
+Activity 8.2
+
+Preparation of a three dimensional replica of the internal structure of the earthYou will need :-Clay in three colours, a sharp knife
+
+Method :- ●Make a globe of the size of a lime using clay of one colour. ●Taking a half of the diameter of the previous globe, paste a separate coloured layer of clay on the top of the globe. ●On the top of the second clay layer, paste a different colour of clay layer which is thin as much as possible.
+
+ayer which is thi
+
+in as much as po
+
+in
+
+ossible.
+
+o
+
+Figure 8.6 Model of the internal structure of the earth ●Use a sharp knife and cut the clay globe you made into two equal halves. ●The above cross section of the clay globe shows how inner layers are placed.
+
+Assignment 8.1
+
+Prepare the model made in Activity 8.2 using clay/ Polystyrene/ paper pulp. Cut them into two equal halves and examine the cross section of the models.
+
+8.2 Tectonic plate and plate tectonics
+
+Figure 8.7 shows an earth map of a strong earthquake on 25th April 2015 in Katmandu, Nepal. Thousands of people died and thousands of
+
+Science | The nature of the earth110
+
+people got injured, while thousands of people were left homeless. This earthquake occurred on the Eurasian and Indian plate margins. Two destructive earthquakes have been recorded in the year 1905 and 1934 in this area.-News on Internet-
+
+China
+
+Tibet
+
+Pokhara
+
+Bangaladesh
+
+Mount Everest
+
+BhuthanKathmandu
+
+Nepal
+
+India
+
+Figure 8.7 Location of earthquake on 25-04-2015
+
+The surface layer of the earth is the crust. The crust is divided into sections called tectonic plates. These tectonic plates move relatively to each other.
+
+Assignment 8.2
+
+Study the map in Figure 8.8. It shows the tectonic plates of the earth. Find tectonic plates near Sri Lanka, India and Nepal.
+
+Europian tectonic plate
+
+Phillipine tectonic plate
+
+A f r i c a tectonic plateAustrailian-Indian tectonic plate
+
+Antartica tectonic plate
+
+North American tectonic plate
+
+Pacific tectonic plateSouth American tectonic plate
+
+Figure 8.8 Tectonic plates of the earth
+
+Science | The nature of the earth 111
+
+Tectonic plates move relatively to each other in three ways.
+
+(a)
+
+(b)
+
+(c)
+
+Figure 8.9
+
+a) According to the Figure 8.9 a two plates move apart. As a result, a deep gulf could occur.b) According to the Figure 8.9 b one plate moves upward by pressing down the other. An earthquake could occur in this instance.c) According to Figure 8.9 c two plates slide past each other. Earthquakes could occur in this instance too.Tectonic plates move very slowly. It is 1 - 2 cm per year.
+
+Plate movements can be recognized on plate margins. Most of the plate boundaries or margins are at the bottom of the sea. When they occur on land they can be easily recognized.One such plate margin is located in North America. It is known as San Andreas Fault. It is visible in a birds eye view/an aerial view as a fracture of 1000 km in length in the state of California.
+
+g
+
+Figure 8.10 San Andreas Fault
+
+The North American Plate and the Pacific Plate are situated on either side of this tectonic boundary. These two plates slide past each other for about 2.5 cm per year. On these tectonic boundary earthquakes occur frequently.
+
+Science | The nature of the earth112
+
+Tectonic plates float on the molten rocks
+
+Figure 8.11 How tectonic plates slide
+
+Fig re 8 11
+
+Hotectonic
+
+of the lower mantle. Because of the movement on the molten rocks plate, tectonics also move.
+
+Assignment 8.3
+
+Do a literature search to find out the geological history of the earth and prepare a report. Use the internet, reports on geological findings and geographical books.
+
+Activity 8.3
+
+Demonstrating the activity of plate tectonics You will need :-A yellow coloured orange with a thick skin, a knife
+
+Method :- ●Cut the orange with the skin into different shapes. ●Keep the orange between the two palms. ●Then slowly press the orange while observing the movement of parts of the peels.
+
+Figure 8.12 Replicate plate tectonics using an orange
+
+For extra knowledge
+
+In 2004, Tsunami brought severe destruction to the coastal areas of Sri Lanka. This happened because of an earthquake occurred near the Sumatra Island due to collision of tectonic plates.
+
+Science | The nature of the earth 113
+
+Now you can understand that the earth's crust where we live is not an immovable thing.
+
+Summary
+
+●In the solar system, the earth is the most suitable planet for the living beings. ●The inner part of the earth consists of three layers; the core, the mantle and the crust. ●The earths crust consists of tectonic plates which move relatively to each other. ●Tectonic plate margins consist of volcanoes and constant earthquakes occur near them.
+
+Exercise
+
+1. A cross section of an avocado is shown here. A cross section of the earth consists of core, mantle and crust. Which sections of the avocado corresponds with above three areas?2. I) Name four resources obtained by man from the earth crust.II) On which tectonic plate Sri Lanka is situated? Why severe earthquakes do not occur in Sri Lanka?III) State two methods used by geologists to obtain information about the internal structure of the earth.IV) State three countries where earthquakes occur frequently.
+
+Science | The nature of the earth114
+
+Technical Terms
+
+Core- yrh- APo
+
+Mantle- m%djrKh- ö©ß‰i
+
+Crust- lfnd,- Kk
+
+Rocks- mdIdK- £õøÓPÒ
+
+Tectonic plates- N+ ;eá- ¦ÂzuPkPÒ
+
+Plate tectonics- N+ ;eá p,kh- ¦Âz uPmi¯UP®
+
+Earthquakes- N+ lïmk- {»|kUP®
+
+Seismic waves- N+ lïmk ;rx.- {»|kUP Aø»PÒ
+
+Seismometer- N+ lïmkudkh- {»|kUP©õÛ
+
+Volcanoes.sks l÷G›©ø»PÒ
+
+Science | Light115
+
+Light09
+
+9.1 Formation of umbra and penumbra
+
+Pay your attention to Figure 9.1. It shows some instances where umbrae or shadows are formed.
+
+Figure :- 9.1 Some instances where umbrae / shadows are formed
+
+In our day-to-day life, umbrae or shadows can be seen frequently. How do umbrae or shadows form? Let us do the Activity 9.1 to investigate this.
+
+Activity 9.1
+
+You will need :- A candle, a white screen, a small ballMethod :- ●Place the lighted candle on a table, keep the ball infront of it and obtain the umbra of the ball on a screen or on a wall.Figure 9.2
+
+Here the shadow or the umbra of the ball can be clearly observed on the screen'An umbra of the ball is formed on the screen, because the light emitted from the candle does not pass through the opaque ball.Let us do Activity 9.2 to study about umbrae further.
+
+Science | Light116
+
+Activity 9.2
+
+You will need :- An electric torch, a screen, a small ball, a translu-cent glass sheet, a cardboard sheet, a transparent glassMethod :- ●Place the lighted electric torch, the transparent glass sheet and the ball as shown in the Figure 9.3 and obtain the umbra of the ball on a screen or on a wall. ●Observe the nature of the umbra. ●Then replace the transparent glass sheet with the translucent glass sheet and observe the umbra formed. ●Finally replace the translucent glass sheet with the cardboard sheet and see whether an umbra of the ball can be obtained.
+
+c
+
+s
+
+n
+
+n
+
+a
+
+e
+
+Transparent glass sheet
+
+ScreenFigure 9.3
+
+Compare your observations with those given below.
+
+Figure 9.4
+
+Transparent glass sheet
+
+Cardboard sheet
+
+Translucent glass sheet
+
+Screen
+
+Screen
+
+Screen
+
+A sharp umbra is formed on the screen when transparent glass sheet is placed before the ball. A blurred umbra is formed when translucent glass sheet is placed.No umbra is formed when cardboard sheet is placed, because light does not travel through a cardboard sheet.
+
+Science | Light117
+
+The length and the direction of shadows differ due to the angle and the direction of sunlight falling on objects. In ancient times, the length of umbrae or shadows were used as arbitrary units to measure time.e.g.:- Sun dial
+
+Various artistic creations can be done with umbrae or shadows. Some such creations done with hand and fingers are shown below.
+
+Figure 9.6 Some creations done with umbrae
+
+Assignment 9.1
+
+Test whether you can do creations like those shown in Figure 9.6. Present a collection of such creations with your friends.
+
+f
+
+e
+
+t
+
+t
+
+r
+
+y
+
+Figure :- 9.5 Sun dial
+
+Science | Light118
+
+In concerts creations done using shadows are popular in the field of art today. Some such instances are shown in Figure 9.7.
+
+Figure 9.7 Artistic creations of shadows
+
+Assignment 9.2
+
+Enjoy watching artistic creations of shadows on the internet or in video clips.
+
+Let us do Activity 9.3 to study further about umbrae.
+
+Activity 9.3
+
+You will need:- An electric torch, a screen, a small ballMethod:- ●Place the ball infront of the lighted electric torch and obtain its umbra on a screen or on a wall. ●Identify the dark brown/light brown umbra and penumbra of the ball. ●Change the distance between the ball and the electric torch and observe how the umbra and penumbra are changing.
+
+Figure 9.8
+
+Science | Light119
+
+Compare your observations with those given in Figure 9.9
+
+Penumbra
+
+umbra
+
+umbra
+
+Screen
+
+Screen
+
+Figure 9.9 When the ball and the electric torch are closer, the umbra on the screen is not sharp and clear. There is a penumbra also around the umbra.When the distance between the ball and the electric torch is increasing, the penumbra gradully disappears. When the electric torch is kept at a considerable distance from the ball, only the umbra can be observed.
+
+So, the light source should be far from the object to obtain a clear and sharp umbra.
+
+Let us study further about penumbra
+
+Activity 9.4
+
+You will need:- A piece of polythene, red and blue cellophane sheets, a torch, red and blue marker pens, platignum, a small ball, a screenMethod:- ●Tie the piece of polythene on to the face of the torch and divide it into two semi-circles. ●Colour one of the semi-circles in blue and the other in red or use red and blue cellophane to cover face of the torch. ●Light the torch and focus it until you observe mixed colours on the screen.
+
+Figure 9.10
+
+Science | Light120
+
+Compare your observations with the following.
+
+Figure 9.11
+
+The upper part of the penumbra is seen in one colour (blue) and the lower part in the other colour (red).
+
+For extra knowledge
+
+To describe Activity 9.4 further.
+
+umbra
+
+penumbra
+
+penumbra
+
+Umbra is formed on the screen, because light does not pass through the ball. Penumbra is formed because of the light rays emitted from the edges of the light source.
+
+Thus, it is clear that penumbra is formed by the light emitted from one part of the light source.
+
+Science | Light121
+
+Solar and lunar eclipses occur due to umbrae or shadows.
+
+When the moon is between the sun and the earth, and all three are in a straight line, the umbra of the moon falls on the earth. So, the sun cannot be seen from the earth. This incident is known as a solar eclipse.
+
+When the earth is between the sun and the moon, and all three are in a straight line, the umbra of the earth falls on the moon, causing a lunar eclipse.
+
+Sun
+
+MoonEarth
+
+Sun
+
+Moon
+
+Earth
+
+9.2 Images formed by plane mirrors
+
+Look at your face through a mirror. You can see your image inside the mirror. How is it formed? Can you recall instances where sunlight is directed on to a wall in the house from outside using a mirror?
+
+Figure 9.12 Reflection of light
+
+Here, the light that falls on the mirror is turned back to the house.
+
+Science | Light122
+
+Figure 9.13 Reflection of light
+
+The phenomenon of returning the light rays in the same medium after falling on a surface is called reflection of light.
+
+Light reflects well from smooth polished shining surfaces.
+
+Polished shining surfaces act as mirrors. Forming images by mirrors is a result of the reflection of light. The Figure 9.14 shows an image formed by a mirror.
+
+A polished shining plane surface is known as a plane mirror. A plane mirror is drawn in a diagram in the following manner (Figure 9.15).
+
+Figure 9.15 plane mirrorFigure 9.16 How light is reflected by a plane mirror
+
+Figure 9.14 Reflection seen in a plane mirror
+
+Science | Light123
+
+The image of a candle, placed in front of a plane mirror is shown in Figure 9.17.Let us do Activity 9.5 to find out about images formed by plane mirrors.
+
+Activity 9.5
+
+Figure 9.18 An image seen through a plane mirror
+
+You will need:- A plane mirror, a candle, a rulerMethod:- ●Place the ruler perpendicular to the mirror as shown in Figure 9.18. Place the lighted candle at the far end of the ruler. ●Observe the image of the candle formed through the plane mirror. ●Record your observations of the nature of the image in the following table. Table 9.1 Properties of the imageObservationCan/Cannot be obtained on to a screenUpright / InvertedSize of the image
+
+If the image can be obtained on to a screen the image is termed as “real”. If it cannot be taken on to a screen, then the image is known as “ virtual”.
+
+Figure 9.17
+
+Image Object
+
+Figure 9.19
+
+Science | Light124
+
+Activity 9.6
+
+You will need :- A sheet of glass, two candles which are same in size and shape, a ruler, a screen Method :- ●Place the ruler perpendicular to the sheet of glass and place a lighted candle at the far end of the ruler as shown in figure 9.20 ●Observe the image of the candle formed through the sheet of glass (It is more suitable to carry out this activity in a dark place) ●Place the other candle, where you see the image as shown in the figure. ●Compare the size of image with the candle. ●Measure the distances between the first candle and the sheet of glass (object distance) and between the second candle and the sheet of glass (image distance) ●Record your observations in the following table.
+
+Properties of the imageObservationSize of the imageDistance between the first candle and the sheet of glassDistance between the second candle and the sheet of glass
+
+ImageObject
+
+Figure 9.20
+
+Sheet of glass
+
+Features of an image formed by a plane mirror are given below.
+
+●Cannot be obtained on to a screen (virtual), erect. ●Size of the image is equal to the size of the object. ●Image is formed behind the mirror (Distance from the mirror to the object is equal to the distance from mirror to the image.) ●Left and right sides of the image are inter changed. (lateral inversion)
+
+Let's do Activity 9.6 to find out about images formed by a sheet of glass.
+
+Table 9.2
+
+Science | Light125
+
+Figure 9.21
+
+Image
+
+Image distance
+
+Object
+
+Object distance
+
+Lateral inversion
+
+Activity 9.7
+
+You will need :- A plane mirror, letters O, B, D and P (Write letters on a paper). Method :- Place each letter cut from a cardboard sheet in front of the plane mirror and observe.Figure 9.22 (a)
+
+igure 9 22 (a)
+
+Figure 9.22 (b) It is observed that the right and left sides of the letters B, D and P are inversed. The right and left side of the letter O is also inversed, but it is not observable because the letter O is symmetrical.
+
+This phenomenon of inversing right and left sides of an object, when observed through a plane mirror is known as lateral inversion.
+
+The phenomenon of lateral inversion is further illustrated in Figure 9.23.
+
+Think of the reason for painting the word AMBULANCE on ambulances as shownin this figure.
+
+Figure 9.23 Lateral inversion of an image
+
+Science | Light126
+
+Assignment 9.3
+
+Tabulate the letters of english alphabet as those which can be identified as laterally inverted and cannot be identified as laterally inverted.
+
+Multiple imagesTo show the number of items as increased in jewellery shops, plane mirrors are kept behind the items and parallely on either sides. Light is reflected by those mirrors and a large number of images can be observed.
+
+When two or more plane mirrors are kept at an angle or parallel to each other and an object is kept in between more than one image are formed. Such a formation is known as multiple images.Let us carry out Activity 9.8 to find out more about this phenomenon.
+
+Activity 9.8
+
+You will need :- A candle, two plane mirrors, a protractorMethod :- ●Keep two plane mirrors at an angle of 900 and place a lighted candle between them. ●Count the number of images formed. ●Change the angle between the plane mirrors as 600, 450 and 300 and count the number of images formed in each instance ●Tabulate your observations as indicated below.
+
+Figure 9.25
+
+Table 9.3 Angle between the two plane mirrors (degrees)Number of images formed90
+
+60
+
+45
+
+30900
+
+Figure 9.24 Jewellery shops where multiple images are formed
+
+Figure 9 24
+
+Jewellery shops where
+
+Science | Light127
+
+Compare your observation with those in the table below.
+
+Table 9.4
+
+Angle between the two plane mirrors (degrees)Number of images formed9036054573011
+
+Figure 9.26 How multiple images are formed
+
+The number of images formed are increased when the angle between the two plane mirrors decreases.
+
+Assignment 9.4
+
+●Observe the number of images formed, when the angle between two plane mirrors are decreased. ●Mention the number of images formed/the nature of images when an object is kept between the two parallely placed plane mirrors. ●Discuss your answer with your teacher.
+
+Assignment 9.5
+
+Multiple images formed by plane mirrors are used in day-to-day life. Find out and report several such instances.
+
+Instances where plane mirrors are used
+
+●As mirrors in dressing rooms ●To illuminate various objects in cinematography ●To direct light on to the slide of microscopes ●To construct kaleidoscopes ●To construct periscopes
+
+Kaleidoscope is an instrument in which the formation of multiple images is used. Let us carry out Activity 9.9 to construct a kaleidoscope.
+
+Science | Light128
+
+Activity 9.9
+
+You will need :- Three strips of plane mirrors with equal dimensions (6 cm x 2 cm), black paper, gum tapeMethod :- ●Keep the strips of plane mirrors triangularly as shown in Figure 9.27. Cover one end with the piece of tissue paper. ●Cover the mirrors with black paper and stick securely with gum tape. ●Put small coloured items like beads, petals into this and observe through the open end. Turn round the instrument to see how the coloured patterns change.
+
+Figure 9.27
+
+Strips of plane mirror
+
+Tissue paper
+
+You will be able to observe various patterns. These patterns are formed by the reflection of light from several mirrors. Vivid patterns formed in a kaleidoscope are used to create designs for textile, floor tiles and wall tiles.Periscope is another instrument made using the phenomenon of reflection of light through plane mirrors. Let us carry out the Activity 9.10 to make a periscope.
+
+Figure 9.28 Vivid patterns formed in a kaleidoscope
+
+Science | Light129
+
+Activity 9.10
+
+You will need:- Two identical plane mirrors, pieces of cardboard sheet, gum tapeMethod:- ●Make tubes of appropriate size, using the piece of cardboard sheet construct the equipment as shown in the Figure 9.29. Place the pieces of mirrors at an angle of 450 at each bend. Get the assistance of your teacher for this construction. ●Observe objects through the instrument you made.
+
+Figure 9.29
+
+An observer positioned in a low level, can use a periscope to observe incidents that occurs in a higher level. This is commonly used in submarines and bunkers.
+
+Assignment 9.6
+
+Find out and record other instances where periscope is used.
+
+Assignment 9.7
+
+Mention other instances where plane mirrors are used in day-to-day life. 9.3 Images formed by curved mirrors
+
+Figure 9.30 Some objects with curved surface
+
+Concave surfaceConvex surface
+
+Science | Light130
+
+Have you ever seen the image of your face on a metal spoon? The image is seen differently on inner surface and on outer surface of the spoon. This happens because the surfaces of spoon act as curved mirrors.
+
+Mainly there are two types of curved mirrors, named as convex mirrors and concave mirrors. Reflecting surface of a concave mirror is curved inwards and that of a convex mirror is curved outwards.
+
+A ray of light is denoted by a straight line and the direction is indicated by an arrow head drawn on the straight line.
+
+A beam of light is made up of a bundle of light rays.
+
+Figure 9.32 light rays and light beams
+
+Parallel beam of light Ray of lightDiverged beam of lightConverged beam of light
+
+Concave mirrors
+
+What happens when a narrow, parallel beam of light falls on a concave mirror? Let us do Activity 9.11 to find out this.
+
+Activity 9.11
+
+You will need :- A concave mirror, a plane mirrorMethod :- ●Direct a narrow, parallel beam of light on to the reflecting surface of a concave mirror. (This can be done by using a plane mirror) ●Record your observations.
+
+Concave surface Convex surface
+
+Figure 9.31
+
+Science | Light131
+
+You can observe that the light beam collects to a spot infront of the concave mirror.
+
+This collection of a parallel light beam to a single spot in front of the mirror is known as convergence of light. Therefore, concave mirrors can be used to converge light.What happens when a narrow, parallel beam of light falls on a convex mirror? Let us do Activity 9.12 to find out this.
+
+Activity 9.12
+
+You will need :- A convex mirror, a plane mirrorMethod :- ●Direct a narrow, parallel beam of light onto a convex mirror. ( A plane mirror can be used for this purpose.) ●Record your observations.
+
+It can be observed that light which falls on a convex mirror, “ spreads out” after re-flection. This spreading out of light after reflection is known as divergence of light. Therefore, convex mirrors are considered as divergent mirrors.
+
+Images formed by concave mirrors Let us do Activity 9.13 to observe the nature of images formed by concave mirrors.
+
+Figure 9.33
+
+Parallel beam of light
+
+Place where the spot of light is formed
+
+Figure 9.34
+
+Science | Light132
+
+Activity 9.13
+
+You will need :-A concave mirror, a mirror holder, a candle, a screen, a metre rulerMethod :- ●Place a lighted candle on point A, in front of a concave mirror. The candle should be placed close to the mirror. ●Try to obtain the image formed, onto a screen. ●Observe the nature of the image, with the assistance of your teacher. ●Then, place the lighted candle on points B, C and D respectively and observe the nature of the images formed. ●Tabulate your observation as follows.
+
+Table 9.5
+
+Point where candle is keptImage can/ cannot be obtained onto a screenUpright/ InvertedSize of the imageABCD
+
+ABCD
+
+Figure 9.35
+
+Screen
+
+Compare your observations with those given below.
+
+Figure 9.36 Instance of forming images from a concave mirror
+
+Table 9.6
+
+Point where candle is kept
+
+Image can/ cannot be obtained onto a screen
+
+Upright/ InvertedSize of the image
+
+AImpossibleUprightLarger than the object
+
+BpossibleInvertedLarger than the object
+
+CpossibleInvertedEqual to the object
+
+DpossibleInvertedSmaller than the object
+
+Science | Light133
+
+Instances where concave mirrors are used in day-to-day life ●As mirrors used for shaving ●For dentists to examine teeth of patients ●Used in reflecting telescopes ●To construct solar cookers
+
+Figure 9.37
+
+Assignment 9.8
+
+Make a list of other instances where concave mirrors are used in day-to-day life.
+
+Convex Mirrors
+
+Let us do Activity 9.14 to observe the nature of images formed by convex mirrors.
+
+Activity 9.14
+
+You will need :-A convex mirror, a mirror holder, a candle, a screen, a metre rulerMethod :- ●Place a lighted candle on point A, infront of convex mirror.
+
+ABC
+
+Figure 9.38
+
+Instances where concave mirrors are used in day-to-day life ●As mirrors used for shaving ●For dentists to examine teeth of patients ●Used in reflecting telescopes ●To make solar cookers ●To direct light to the glass side of microscope.
+
+Figure 9.37
+
+Assignment 9.8
+
+Make a list of other instances where concave mirrors are used in day-to-day life.
+
+Convex Mirrors
+
+Let us do Activity 9.14 to observe the nature of images formed by convex mirrors.
+
+Activity 9.14
+
+You will need :-A convex mirror, a mirror holder, a candle, a screen, a metre rulerMethod :- ●Place a lighted candle on point A, infront of convex mirror.
+
+ABC
+
+Figure 9.38
+
+Screen
+
+Science | Light134
+
+●Place the candle close to the mirror. ●Try to obtain the image formed, onto a screen. ●Observe the nature of the image with the assistance of your teacher. ●Get the assistance of the teacher to select points B and C. ●Then place the lighted candle on points B and C respectively and observe the nature of the images formed. ●Tabulate your observations as follows.
+
+Table 9.7
+
+Point where candle is kept Image can/ cannot be obtained onto a screenUpright/ InvertedSize of the imageABC
+
+Compare your observations with those given below.
+
+Point where candle is kept
+
+Image can/ cannot be obtained onto a screen
+
+Upright/ InvertedSize of the image
+
+ACannotUprightSmaller than the object
+
+BCannotUprightSmaller than the object
+
+CCannotUprightSmaller than the object
+
+Figure 9.39 Images formed by a convex mirror
+
+Table 9.8
+
+It is clear that the nature of the image does not change when the distance between the object and convex mirror changes.
+
+Let us engage in the Activity 9.15 and study about the images formed by curved mirrors.
+
+Science | Light135
+
+Activity 9.15
+
+You will need:- Two candles which are same in size and shape, watch glass, a screen, mirror holderMethod:- ●Place a lighted candle on point A, infront of convex surface of the watch glass as shown in Figure 9.40. ●Observe the image formed. ●Try to obtain the image on to a screen (it is appropriate to use a dark place for the above activity) ●Place the other candle, where you see the image and compare the size of the image with the candle. ●Observe the changes of the images placing the candle at B and C. ●Tabulate your observations
+
+ABC
+
+Figure 9.40
+
+watch glassScreen
+
+Instances where convex mirrors are used in day-to-day life
+
+●As side mirrors of vehiclesThe driver can view a large rear area of a vehicle in the side mirror because convex mirror forms smaller, upright images.
+
+Assignment 9.9
+
+Make a list of other instances where convex mirrors are used in day-to-day life.
+
+Figure 9.41 How rear side of a vehicle is viewed in a side mirror
+
+Science | Light136
+
+Summary
+
+●Umbrae or shadows can be observed frequently in day-to-day life. ●Umbrae are formed when light does not travel through opaque objects. ●Clear and sharp umbrae are formed, when the object is far from the light source is kept close to the object. ●Smooth, shining surfaces act as mirrors. ●Returning light rays back in the same medium, after striking on a surface is known as reflection of light. ●Images are formed in mirrors due to the reflection of light. ●Images formed in plane mirrors are always upright, equal to the size of object and cannot be obtained on to a screen. ●Parallel beam of light can be converged by a concave mirror, and can be diverged by a convex mirror. ●The nature of images formed by concave mirrors differs according to the distance between the object and the mirror. ●The nature of the images formed by convex mirrors does not differ according to the distance between the object and the mirror. ●Mirrors are used for various purposes in day-to-day life.
+
+Exercise1) Select the appropriate word from the brackets and fill in the blanks. 1. Clear umbra can be obtained by ................................. ( a candle/ an electric torch bulb) 2. A ..................................... mirror is used to diverge a parallel beam of light. (Convex/ Concave) 3. Images formed by plane mirrors are always ......................... the object. (equal to/ smaller than) 4. Images formed by convex mirrors are always ....................... (upright/ inverted) 5. ...................................... mirrors should be used to obtain inverted images. (concave/ convex)
+
+Science | Light137
+
+2) Select the correct answer. 1. Which one of the following is not a property of an image formed by a plane mirror? i. Ability to take onto a screen ii. Upright iii. Equal to the size of object iv. Laterally inverted 2. A property of an image, formed by a convex mirror is; i. Inverted ii. Ability to take onto a screen iii. Smaller than object iv. Larger than object 3. The angle between two plane mirrors, to obtain three images, should be; i. 600 ii. 450 iii. 900 iv. 300
+
+4. The type of mirrors that should be used to form an inverted image on a screen is; i. Convex ii. Concave iii. Plane iv. All given above
+
+Technical Terms
+
+Umbra- Pdhdj- {ÇÀPenumbra- WmPdhdj- A¯À{ÇÀImage- m%;sìïnh- Â®£®Reflection- mrdj¾;kh- öuÔ¨£øhuÀConvex mirror- W;a;, o¾mKh- SÂÁõiConcave mirror- wj;, o¾mKh- SÈÁõiPlane mirror- ;, o¾mKh- uÍÁõiConvergent- wNsidÍ- Â›PØøÓDivergent- wmidÍ- SÂPØøÓPeriscope- mßlaIh- Pø»²¸UPõmiKaleidoscope- nyqrEfmalaIh- `ÌPõmi
+
+138 Science | The Correct Use Of the Microscope
+
+Many measures have been taken from ancient times to observe small things by magnifying them. Different equipment have been produced and used for this purpose.Do Activity 10.1 by using instruments or materials that can be supplied from your home environment easily.
+
+Activity 10.1
+
+You will need :-A closed glass bottle filled with water, a glass sphere, a glass slide with a drop of water, a sealed transparent polythene bag filled with water, a water filled filament bulb sealed with waxMethod :-Observe small letters by using each of the above instruments or substances.
+
+Figure 10.1 Letters are magnified when seen through a glass sphere
+
+You can observe that small letters are magnified in size.
+
+One common feature of above mentioned instruments is the presence of water. Did you find out another feature common to the all instruments?
+
+You must have observed that the other common feature of the above instruments was the curved surface or the protruded surface. You might now understand that these curved surfaces can be used to magnify small items. Convex lens is an instrument with these features, which is found in school laboratory.
+
+The Correct Use of the Microscope10
+
+Science | The Correct Use Of the Microscope 139
+
+10.1 The simple microscopeA hand lens/simple microscope can be produced by fixing a handle with a frame to a convex lens.
+
+Figure 10.3 Hand lens made by using convex lenses
+
+Figure 10.2 Convex lens
+
+Activity 10.2
+
+Observe the letters that you used in the above activity using a hand lens. Make sure to adjust only the object (letters) and do not change the distance between the lens and the eye.
+
+Figure 10.4 Observing an object through a lens
+
+You will observe that when the distance between hand lens and letters are increased gradually the letters will appear more and more larger. At a particular limit the letters will be seen with a maximum size. When the distance is increased further, the letters will become unclear.Therefore, you will realize that there should be a constant distance kept between the object and the lens when an object is observed by a hand lens.
+
+10.2 Magnification of a microscope and resolving power
+
+MagnificationYou might have observed that the size of the letter will be increased by several times. The number of times a specimen is magnified is known as the magnification of the lens or the magnifying power.
+
+140 Science | The Correct Use Of the Microscope
+
+Activity 10.3
+
+Observe different things by using a hand lens. Use a table to record your observations. Try to separate things which cannot be seen through your naked eye clearly.
+
+Materials observedObservation
+
+1' Soil sampleSand particles with different sizes, gravel and several insects are observed.
+
+2'3'
+
+ResolutionResolution is the minimum distance by which two points must be separated in order to be seen as two distinct points.
+
+There should be at least a minimum distance of 0.1mm between two adjacent points to distinguish between them by the naked eye. Now you will realize that the resolution of the naked eye is around 0.1mm.
+
+Activity 10.4
+
+You will need :- Colourful picture from a paper, a hand lensMethod :- Observe a picture from the paper by a hand lens.Present your observations to the class.
+
+You will observe that the respective image is composed of a large number of small dots seen by the naked eye. You will see these dots very clearly by a hand lens. Now you will realize that the resolving power of the hand lens is higher than the resolving power of the naked eye.
+
+Table 10.1
+
+Science | The Correct Use Of the Microscope 141
+
+Activity 10.5
+
+You will need :- A white paper, a pencil or a pen, two hand lensesMethod :- ●Mark two dots with a minimum distance of not touching each other. ●Observe the distance between the two dots and their magnification by using a hand lens.
+
+●Now use two hand lenses to observe the distance between two dots and their magnification.
+
+It must be clear to you that the distance between the two dots is maximum and magnification is maximum when two lenses are used for the observations. Accordingly two hand lenses or two convex lenses can be used to obtain a higher magnification and high resolution.
+
+Similarly, the compound light microscope is produced using two convex lenses with a high magnification power.
+
+10.3 Compound light microscopeThe compound light microscope is made of at least two convex lenses. Therefore, it is called the compound microscope and it is also called the light microscope because light is used.
+
+Although micro organisms cannot be observed through a hand lens, they can be observed through the compound light microscope.The maximum magnification of a developed compound light microscope is 2000 times and the maximum resolution is about 0.2µm (0.0002mm).
+
+142 Science | The Correct Use Of the Microscope
+
+(The resolving power of the compound light microscope is 500 times than the naked human eye.)
+
+Activity 10.6
+
+Let us identify the parts of a compound light microscope
+
+●Observe the compound light microscope in your school laboratory. ●Identify its main parts and functions with the assistance of your teacher.
+
+Check whether you have identified all the parts of it.
+
+Figure10.5 Parts of a compound light microscope
+
+Coarse adjustmentknob
+
+Stage clip
+
+Fine adjustmentknob
+
+Body tube
+
+Stage
+
+Base
+
+Objective lenses
+
+Mirror
+
+Diaphragm
+
+Eye piece
+
+Arm
+
+Science | The Correct Use Of the Microscope 143
+
+Part of the microscopeDescription
+
+Eye pieceThe closest lens to the eye. It is a convex lens. Magnification is shown as x5, x10 or x15. The specimen is magnified by using them.Objective lensThe closest lens to the specimen. They are made of convex lenses. It magnifies the specimen. Mostly there are 3 objective lenses that can be identified. They are1. Low power objective lensThe lens with the least magnification (x4,x5 or x8)2. Mid power objective lensThe lens with the medium magnification (x10)3. High power objective lensThe lens with the highest magnification (x40)Coarse adjustment knobTo adjust the body tube to get a clear image of the specimen
+
+Fine adjustment knobTo adjust the body tube finally to get a more clear image of the specimenStageTo keep the slide of the specimen
+
+ClipTo keep the slide of the specimen on the stageDiaphragmControl the amount of light obtained by the specimen MirrorContains concave and flat surfaces. Focuse light on to the diaphragmBaseKeeps the microscope on the supporting surface steadily
+
+For extra knowledge
+
+A bit from the history.......The compound light microscope was first made by Zacharias Janssen. The magnification power of it was 9 times.
+
+ge
+
+ge
+
+ht
+
+e
+
+e
+
+it
+
+Zacharias Janssen and his microscope
+
+Table 10.2 Parts of a microscope
+
+144 Science | The Correct Use Of the Microscope
+
+But the honour of making a microscope first goes to the Dutch scientist Anton Van Leeuwenhook (1632-1723). The reason is that a world not seen from a naked eye was revealed by this instrument.
+
+a
+
+h
+
+k
+
+a
+
+e
+
+Anton Van Leeuwenhook and his microscope
+
+Assignment 10.1
+
+Prepare a report on the history of the microscope.
+
+The correct method to use a compound light microscope.
+
+1. First, keep the microscope on a horizontal table steadily (in a place where strong sunlight will not fall).2. Use the coarse adjustment knob to bring the low power objective lens down.3. Adjust the mirror and the diaphragm to obtain a clear spot of light by keeping the eye open on the eye piece.4. Fix the prepared slide on the stage using clips.5. Bring the low power objective lens upward using the rough adjustment until a clear image is obtained. Make sure that both the eyes are open during the process, keep the comfortable eye at a distance of 1 cm to the eye piece.6. Try to obtain a clear image using fine adjustment.7. A sharp and clear image could be obtained by adjusting the middle and high power objective lens if necessary.8. Use the rough adjustment to bring the low power objective lens upward after the observation.9. Remove the specimen from the stage. Use a dry piece of cotton cloth to wipe the stage.
+
+Science | The Correct Use Of the Microscope 145
+
+Factors to be considered in the use of microscope 1. When the microscope is carried from one place to another, the arm of the microscope should be held by your familiar hand and the other hand should be kept below the base of the microscope. Then hold the microscope towards your body.
+
+Figure 10.6 2. Wipe the stage using a clean piece of cotton after using the microscope.3. If the microscope is not used for a long period of time, the lenses should be removed and place inside a desiccator with silica gel or anhydrous calcium chloride.4. The microscope should be stored in an upward position to minimise the accumulation of dust.5. Use clear slide and coverslips in the observation.6. Do not change the lenses of one microscope to another.
+
+Calculation of the magnification power of a microscopeThe magnification power means the number of times that the speciman is subjected to be magnified. The number of times is obtained by multiplying the magnification of the eye piece with the magnification of the objective lens.
+
+Magnification of microscopeMagnification of eye pieceMagnification of objective lens˭
+
+Question :-The magnification of eye piece was x10 and the magnification of the objective lens was x40 in a particular microscopic observation.What is the magnification of the microscope?
+
+Magnification of the microscopeMagnification of the eye piece
+
+10
+
+400
+
+40
+
+Magnification of the objective lens˭
+
+˭
+
+˭The magnification should be stated in the following way when linear (line) diagrams are drawn upon observing a specimen.
+
+146 Science | The Correct Use Of the Microscope
+
+Magnification of the eye pieceMagnification of the objective lensThe number of times the visual image is magnified when drawn««
+
+Observation of plant and animal tissue with a compound light microscope.
+
+Activity 10.7
+
+You will need :- A compound light microscope, slides, cover slips, a leaf of betel, a leaf of Rhoeo, a bulb of onion, a slide made of cheek cellsMethod :-Observe above mentioned types of plant and animal cells/tissues by various magnification powers. Draw line diagrams and mention the magnification of each of them.
+
+The Figure 10.8 show the linear diagrams of the Rhoeo lower epidermal tissue observed through a light microscope.
+
+Figure 10.8 The linear diagram of the Rhoeo lower epidermal tissue (10 x 4 x 3)
+
+Figure 10.7 The Rhoeo lower epidermal tissue under low power of microscope(10 x 4)The Figure 10.10 show the linear diagrams of the human cheek cells observed through a light microscope.
+
+Figure 10.10 The linear diagram of the human cheek cells (10x40x2)
+
+Figure 10.9 The stained human cheek cells under high power of light microscope (10x40)
+
+Science | The Correct Use Of the Microscope 147
+
+Assignment 10.2
+
+List the differences between the simple microscope and the compound light microscope. 10.4 The electron microscope
+
+Figure10.11 The electron microscope
+
+An electron beam is used in the electron microscope instead of light rays. The maximum magnification power of an electron microscope is 500 000 times. The maximum resolution of it is about 0.0005µm. This is 200 000 times than a healthy human eye. Although virus cannot be observed by a light microscope, they can be observed by an electron microscope.
+
+Instances where the electron microscope is used,
+
+●To observe the activity of pathogenic microorganisms (virus, bacteria) during research. ●To learn about internal structure of the cell in detail. ●To use in genetic research. ●To get information on crime investigation.
+
+Figure10.12 Image of a AIDS virus under the electron microscope
+
+Figure10.13 Image of a Bacteria under the electron microscope
+
+148 Science | The Correct Use Of the Microscope
+
+Summary
+
+●Transparent objects with a convex nature can be used to observe small things in a large scale. ●Hand lens, light microscope, and electron microscope are three optical instruments used to observe small things in a large scale. ●The magnification of a light microscope is obtained by multiplying the magnification of the eye piece with the magnification of the objective lens. ●The minimum distance that should be present to clearly distinguish between two adjacent points or objects is called resolution. ●The electron microscope has a higher magnification and a higher resolving power than the light microscope.
+
+Exercise1. Name the parts labelled as A to D in the picture of the microscope.
+
+2. The magnification of the eye piece was x5 and the magnification of the objective lens was x40 in a particular microscopic observation. What is the magnification of the microscope?
+
+3. Write two factors to be considered when a microscope is used.
+
+A
+
+B
+
+C
+
+D
+
+A
+
+D
+
+A
+
+Technical Terms
+
+Simple microscope- ir, wKaùlaIh- GÎ¯ ~qUSU Põmi
+
+Magnification- úYd,kh- E¸¨ö£¸UP®
+
+Resolution- úfNaokh- ¤›Á¾z ußø©
+
+Resolving power- úfNaok n,h-Compound light microscope- ixhqla; wdf,dal wKaùlaIh- JÎ ~qUSU Põmi
+
+Eye piece- Wmfk;- £õºøÁz xsk
+
+Objective lens- wjfk;- ö£õ¸Ò ÂÀø»
+
+Electron microscope - bf,lafg%dak wKaùlaIh- C»zvµß ~qUSU Põmi

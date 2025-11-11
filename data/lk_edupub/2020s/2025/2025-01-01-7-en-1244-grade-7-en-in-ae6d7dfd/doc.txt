@@ -1,0 +1,3757 @@
+==== BLOCKS ==== 
+
+i
+
+Information & Communication Technology
+
+Reading Book
+
+Grade 7
+
+Educational Publications Department
+
+To obtain textbooks in electronic mediumwww.edupub.gov.lk
+
+ii
+
+First Print - 2018Second Print - 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0114-2
+
+Published by Educational Publications DepartmentPrinted by Neo Graphics (Pvt) Ltd.No. 44, Udahamulla Station Road, Gangodawila, Nugegoda.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha Apa Sri Lanka Namo Namo Namo Namo Matha Sundara siri barinee, surendi athi sobamana Lanka Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye matha Piliganu mena apa bhakthi pooja Namo Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha Oba we apa vidya Obamaya apa sathya Oba we apa shakthi Apa hada thula bhakthi Oba apa aloke Apage anuprane Oba apa jeevana we Apa mukthiya oba we Nava jeevana demine, nithina apa pubudukaran matha Gnana veerya vadawamina regena yanu mana jaya bhoomi kara Eka mavakage daru kela bevina Yamu yamu vee nopama Prema vada sema bheda durerada Namo, Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+xU jha; kf;fs; ehkhNthk;xd;Nw ehk; thOk; ,y;yk;ed;Nw clypy; XLk;xd;Nw ek; FUjp epwk;
+
+mjdhy; rNfhjuu; ehkhNthk;xd;wha; thOk; tsUk; ehk; ed;wha; ,t; ,y;ypdpNyeyNk tho;jy; Ntz;Lkd;Nwh
+
+ahtUk; md;G fUizAld;xw;Wik rpwf;f tho;e;jpLjy;nghd;Dk; kzpAk; Kj;Jky;y - mJNtahd;W kopahr; nry;tkd;Nwh.
+
+Mde;j rkuf;Nfhd; ftpijapd; ngau;g;G.
+
+v
+
+Message from the Hon. Minister of Education
+
+The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan Government and myself, as the Minister of Education, to empower you all. This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders. Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence, you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim. It is your duty to give a proper value to the money spent by the government on your education. Also you should understand that education determines your future. Make sure that you reach the optimum social stratum through education. I congratulate you to enjoy the benefits of free education and bloom as an honoured citizen who takes the name of Sri Lanka to the world.
+
+Akila Viraj Kariyawasam
+
+Minister of Education
+
+Being innovative, changing with right knowledge Be a light to the country as well as to the world.
+
+vi
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you all the textbooks from grades 1-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha Wickramanayaka,Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vii
+
+Monitoring and Supervision W.M. Jayantha Wickramanayaka - Commissioner General of Educational Publications
+
+Educational Publications DepartmentDirection W.A. Nirmala Piyaseeli - Commissioner of Educational Publications (Development)
+
+Educational Publications Department Co-ordination H.A.I.P. Upathissa - Assistant Commissioner Educational Publications Department
+
+Board of Editors
+
+Dr. Prasad Wimalarathna - Head,
+
+Faculty of Communication & Media Technology
+
+University of Colombo School of Computing
+
+Dr. V.G.N. Vidanagama - Senior Lecturer,
+
+University of Wayamba
+
+Dr. Senaka Amarakeerthi - Senior Lecturer,
+
+University of Sri Jayawardenapura
+
+W.W.M.D.C.B. Piyasiri - Instructor,
+
+Technical College, Hasalaka
+
+Dr. K. Thabotharan - Senior Lecturer,
+
+Faculty of Communication & Media Technology
+
+Faculty of Jaffna
+
+H.A.I.P. Upathissa - Assistant Commissioner
+
+Educational Publications Department
+
+E.N. Boralugoda - Assistant Commissioner
+
+Educational Publications Department -
+
+Board of Writers
+
+Oshani Rodrigo - Teacher, Chi/ Madagama Abhaya Maha Vidyalaya
+
+Panirendawa
+
+A. Sunil Samaraweera - Center Manager Zonal Computer Resource Center
+
+Kegalle
+
+L.G.I. Priyadarshani - Teacher
+
+CP/ Hoorikaduwa Balika Vidyalaya
+
+Kandy
+
+V.A. Kodithuwakku - Teacher
+
+Zonal Education Office
+
+Gampaha
+
+viii
+
+S.M.D.T. Sinhabahu - Teacher
+
+CH/St. Sebesthiyan M.M. Vidyalaya
+
+Katuneriya
+
+J.A.A. Chinthaka Jayakodi - Teacher
+
+Ke/ Mawa/ Parakrama Maha Vidyalaya
+
+Rambukkana
+
+N. Vagisamurthi - Director of Education
+
+(Retired)
+
+T. Mathiwadanan - In Service Advicer
+
+Zonal Education Office
+
+Piliyandala
+
+M.T. Mohammad Ilham - Teacher
+
+Sahira Collage
+
+Colombo
+
+H.L. Surjudeen - Deputy Principal
+
+Ameena Girl's College
+
+Matale
+
+M.F.M. Jarjoon - Assistant Director of Education
+
+Ministry of Education
+
+D.R.N.K Gamage - Assistant Commissioner
+
+Department of Examinations
+
+H.A.I.P. Upathissa - Assistant Commissioner
+
+Educational Publications Department
+
+Language Editing
+
+W.I. Darshika - Assistant Commissioner
+
+Educational Publications Department
+
+Illustrations
+
+Lalith Gunathilake - Teacher
+
+WP/Jaya/ Vidyakara Balika Vidyalaya
+
+Maharagama
+
+Cover Page
+
+Chaminda Hapuarachchi - Computer Assistant
+
+Educational Publications Department
+
+Technical Assistance
+
+B.T. Chathurani Perera - Computer Assistant
+
+Educational Publications Department
+
+ix
+
+Index
+
+Central Processing Unit
+
+Operating System
+
+Security of Computer System
+
+Word Processing
+
+Programme Development
+
+Presentation Software
+
+1
+
+8
+
+21
+
+33
+
+46
+
+69
+
+Using Internet for Information and Communication87
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+x
+
+For free distribution
+
+1
+
+Central Processing Unit
+
+01
+
+Have you seen the Central Processing Unit?
+
+What is the Central Processing Unit? Where is it located?
+
+Yes, I have.
+
+CPU can't be observed from the outside.
+
+• Computer is like a kitchen in a hotel, and the Central Processing Unit is like a chef in that kitchen.
+
+• As a chef prepares food, the Central Processing Unit processes data in the computer and converts them into information.
+
+• As the food preparation speed depends on the speed of the chef, the speed of the computer depends on the speed of the Central Processing Unit.
+
+• A dual-core processor is like having a kitchen with two chefs preparing two meals, so two things can be prepared at the same time.
+
+For free distribution2
+
+Let’s identify the Central Processing Unit1.1
+
+The Central Processing Unit – (CPU) can be identified as a digital circuit that processes data according to given instructions. Whatever task performed by the computer, in all such instances, the Central Processing Unit runs in the background.
+
+The main function of the processor is to execute instructions stored in a computer programme. That is, it gets data and processes them according to given instructions.
+
+Figure 1.1 - Central Processing Unit
+
+While the Central Processing Unit can’t be observed from the outside, it is positioned (fixed) on the motherboard, inside the system unit.
+
+System UnitMotherboard
+
+Central Processing Unit
+
+Figure 1.2 - Location of the Central Processing Unit
+
+For free distribution
+
+3
+
+Let’s identify the Components of the Central Processing Unit1.2
+
+The Central Processing Unit consists of three main components.
+
+A L UArithmetic & Logical Unit
+
+Control Unit
+
+Memory Registers
+
+CU
+
+Memory Register
+
+Figure 1.3 - Main components of the Central Processing Unit
+
+Arithmetic and Logical Unit1.2.1 Mathematical and logical functions are performed in the Arithmetic and Logical Unit. The functions of this unit can be further divided into two main sub-functions.
+
+Mathematical calculations such as addition, subtraction, multiplication and division. Eg : 2 + 3 = 5
+
+Logical operations such as comparison of two numbers. Eg : 3 > 2
+
+Mathematical Functions
+
+Logical Functions
+
+Control Unit1.2.2
+
+The Control Unit communicates between manipulates and controls the hardware connected to the computer. It also performs tasks such as controlling input and output data, ensuring that data is sent to right place at the right time and being alert whether relevant signals are successfully received.
+
+For free distribution4
+
+Memory Registers1.2.3
+
+It temporarily stores data and instructions that are being used by the Central Processing Unit. The storage capacity of the memory registers is very low when compared with other memory devices like hard disk. However its data access speed is very high.
+
+Activity 1 - see Workbook 1.1
+
+Let’s learn about the evolution of Central Processing Unit1.3
+
+The Central Processing Unit of a computer system can be divided into four generations based on the electronic technology used to manufacture it.
+
+1. First Generation (vacuum tubes) 2. Second Generation (transistor) 3. Third Generation (integrated circuit) 4. Fourth Generation (microprocessor)
+
+While the above classification of the Central Processing Unit is a simple classification only for your understanding in grade 7, in many cases, the evolution of the Central Processing Unit has been shown in different generations in diverse ways too.
+
+First Generation
+
+Duration (time period)1940-1956
+
+Electronic technology used: Vacuum tube
+
+Size of the computer : As large as a room
+
+Power consumption: A large amount of vacuum tubes (about 18000) were used and they emitted a lot of heat was required. A cooling system to control the heat. So, it led to a heavy power consumption.
+
+Execution speed: Measured in millsecond
+
+Figure 1.4 - Some vaccume tubesFigure 1.5 - A computer of the first generation
+
+Cost : It cost a lot for production and maintenance
+
+e.g.: ENIAC, UNIVAC, EDVAC
+
+For free distribution
+
+5
+
+Second Generation
+
+Duration (time period) 1956 – 1963
+
+Electronic Technology used: Transistor
+
+Size of the computer : Smaller size when compared with the first generation
+
+Power consumption: Less power consumption when compared with the first generation computers.
+
+Execution speed: Measured in micro second
+
+Cost : It costs a lot for purchasing
+
+e.g.: IBM 7030, CDC 1604
+
+Figure 1.6 - Some transistorsFigure 1.7 - A computer of the second generation
+
+Third Generation
+
+Duration (time period) 1964 – 1971
+
+Electronic Technology used: Integrated circuit
+
+Size of the computer : Smaller size when compared with the second generation
+
+Power consumption: Less power consumption when compared with the second generation
+
+Execution speed: measured in Nano secondCost : It cost less for purchasing when compared with the second generation
+
+e.g.: IBM 360, CDC 6600
+
+Figure 1.8 - An intergrated circuitFigure 1.9 - A computer of the third generation
+
+Fourth Generation
+
+Duration (time period) from 1971 to date
+
+Electronic Technology used: Microprocessor
+
+Size of the computer : Smaller size when compared with the third generation
+
+Power consumption: Less power consumption when compared with the third generation
+
+Execution speed: MIPS – Million of Instructions Per Second and picosecond.Cost : It costs less for purchasing when compared with the third generation
+
+e.g.: Modern computers that are in use.
+
+Figure 1.10 - A microprocessorFigure 1.3 - Some computers of the fourth generation
+
+For free distribution6
+
+mille second 1 = 0.001 second
+
+micro second 1 = 0.000001 second
+
+nano second 1 = 0.000000001 second
+
+pico second 1 = 0.000000000001 second
+
+Speed of the Central Processing Unit
+
+Speed of the Central Processing Unit also known as clock speed is the number of instructions executed in a second. The unit used to measure the speed of the Central Processing Unit is hertz (Hz).
+
+In modern computers, the unit megahertz (MHz) or gigahertz (GHz) is used to measure the speed of the Central Processing Unit.
+
+Kilo hertz 1 Kz = 1000 Hz
+
+Mega hertz 1 Mz = 1000 000 Hz
+
+Giga hertz 1 Gz = 1000 000 000 Hz
+
+Activity 2 - see Workbook 1.2
+
+For free distribution
+
+7
+
+³ (CPU) can be considered as the brain of the computer.
+
+³ There are two main components of the Central Processing Unit. • Arithmetic and Logical Unit (ALU) • Control Unit (CU)
+
+Additionally, memory registers too belong to the Central Processing Unit.
+
+C P UCentral Processing Unit
+
+CU
+
+Controls all the devices of a computer system /(Controls all the operations of a computer system)
+
+Memory Registers
+
+Functions as a temporary memory store
+
+A L U
+
+Performs all mathematical and logical functions (operations) of the computerEx (- ^«" -¡ " ¬ " − " < >
+
+³ Speed of the Central Processing Unit increased gradually with the evolution of the computer. ³ Computer can be divided into four generations based on the electronic technology used in the Central Processing Unit. 1. First Generation (vacuum tubes) 2. Second Generation (transistors) 3. Third Generation (integrated circuits) 4. Fourth Generation (microprocessors)
+
+Summary
+
+For free distribution
+
+8
+
+Operating System
+
+O
+
+02
+
+How do you work with the computer?
+
+Ah... That's why an operating system is there as a mediator.
+
+Operating system...? What is that?
+
+Let's learn about the Operating System2.1
+
+The operating system is a software. This software is necessary to fulfil the tasks using a computer. Many tasks are such as controlling hardware and software and providing a user interface are performed by it.
+
+Tasks performed by the operating system
+
+Provides a user interface to work easily with the computer.
+
+Controls the activities related to storage devices.
+
+Performs the tasks related to processing files and folders correctly.
+
+Manages the computer memory efficiently.
+
+Controls the functions of the Central Processing Unit (CPU)
+
+Helps to protect the computer through usernames and passwords.
+
+Manages the hardware.
+
+For free distribution9
+
+Different Types of Operating Systems2.2
+
+Some examples for operating systems used in computers.
+
+Microsoft DOS(MS DOS)
+
+Microsoft Windows
+
+Apple Macintosh or Mac OS
+
+Operating systems produced using Linux
+
+Ubuntu
+
+Fedora
+
+Some examples for operating systems used in mobile phones.
+
+Android
+
+Used in smart mobile phones
+
+iOS or iPhone OS
+
+Used in Apple mobile phones such as iPhone, iPad, iPod
+
+Blackberry OS
+
+Used in Blackberry mobile phones
+
+Windows Mobile OSUsed in mobile phones like Lumia, HTC
+
+For free distribution
+
+10
+
+Activity 1 - see Workbook 1.1
+
+Computer Storage Devices2.3
+
+I should video my dance and watch it later.
+
+I should record my song and listen to it later.
+
+I need to keep this drawing and essay to use later.
+
+All these can be stored in computer storage devices.
+
+Data and information are in different forms such as doucments, photos, videos, animations, voices and sounds.That data and information can be stored in computer storage devices. Similarly, computer programmes which give instructions to the computer can be stored too.
+
+voice & sounds
+
+video & animations
+
+word processingsoftware
+
+documents
+
+photos
+
+operating systems
+
+Figure 2.1 - Examples for data, information and programmes that can be stored in storage devices
+
+For free distribution11
+
+Earlier, stone inscriptions and ola leaves were used to permanently store information. Now, we use papers
+
+Then, how to store information in a computer?
+
+In computers, storage devices are used to store information.
+
+Computer Storage Devices
+
+Devices which are used to store data, information and programmes that belong to computer are known as computer storage devices.
+
+Computer storage devices can be divided into several parts, according to their manufacturing technology.
+
+1. Magnetic Media Devices. Eg: Hard Disk2. Optical Media Devices Eg: Compact Disk3. Solid State Media Devices Eg: Pen Drive Functions and technology of each of the above media devices are different.
+
+Magnetic Media Devices2.3.1
+
+Magnetic tapes" floppy disks and hard disks are known as magnetic media devices. They consist of a magnetic surface or a magnetic tape.
+
+• Hard Disk
+
+Magnetised platter and metal head
+
+The hard disk consists of a magnetised platter and a moving metal head. There are two different types of hard disks, internal hard disks and external hard disks.
+
+For free distribution
+
+12
+
+hard disk
+
+portable external hard disk
+
+A large amount of data can be stored permenently in the internal hard disk. It is a magnetic media device which is in the system unit. The external hard disk is a portable storage device. It can be chosen in various capacities such as 500 GB, 1 TB, 2 TB.
+
+• Magnetic Tapes
+
+Magnetic Tape
+
+A magnetic tape is a thin plastic tape covered with a magnetic substance. It is used for recording sounds, images or computer data etc. The magnatic tape which was used often in the past has now become obsolete.
+
+• Floppy Disk
+
+A floppy disk is a magnetic media device that can be used to store small files. It contains a capacity of 1.44 MB. It is used to carry data because it is an external storage device. But is becoming obsolete.
+
+At present, there are disks which are produced by using the same technology used to produce the floppy disks such as zip disks and jazz disks. The capacity of these disks is greater than that of the floppy disks. But they are not used often.
+
+floppy disk 1.44 MBzip disk250 MB jazz disk 2 GB
+
+Optical Media Devices2.3.2
+
+In optical media devices, data is read and written by laser beams. Optical disks are of several types. They all are portable.
+
+• CD - Compact Disks
+
+Compact DisksCD-R and CD-RW
+
+There are two types of disks such as recordable (CD-R) and rewritable (CD-RW). The capacity of these disks are 650MB and 700MB.
+
+For free distribution13
+
+² Digital Versatile Disks (DVD)
+
+Digital Versatile DisksDVD-R and DVD-RW
+
+They are of two types; DVD-R (data can be written once) and DVD - RWC (rewritable). The capacity of these disks are 4.7 GB, 8.5 GB, 15 GB and 30 GB.
+
+² Blue Ray Disks
+
+blue ray disks
+
+In these disks, data can be stored on several levels as 25 GB on each level.
+
+Solid State Media Devices2.3.3
+
+Solid state media devices are a type of device which write and read data electronically at a high speed. As they do not have moving parts as in hard disks and compact disks to write and read data, they are known as solid state media devices.
+
+Pen Drive
+
+Figure 2.2 - Examples for Solid state divices media
+
+Solid state Drrive(SSD drive)
+
+Memory Card
+
+Activity 2 : See Workbook 2.2
+
+For free distribution
+
+14
+
+Let's Learn about File and Folder2.4
+
+There are a lot of different types of files in a computer, aren't there?
+
+Yes, you can group them and store in folders.
+
+What are folders?
+
+FileFolder
+
+myself.docmyfiles
+
+What is a File?2.4.1
+
+A file is anything that is saved in the computer such as a letter, a song or a photo. A file has two parts.
+
+File
+
+File Name File Extension
+
+File name : Used to identify the file.File Extension : Used to indicate the application software of the file.
+
+Wod( sportmeet.docx
+
+File nameFile Extension
+
+This is a file named 'sportmeet', created by a word processing software.
+
+For free distribution15
+
+Let's learn about Folder2.4.2
+
+Name of the Folder
+
+Folder
+
+chapter 1
+
+Files
+
+The palce where files are stored is a folder. They are used to store files that are related to each other. It helps to keep files in order and to retrieve them easily and fast.
+
+Sub -FoldersMain Folder
+
+workbookchapter 1chapter 2
+
+Let's create and edit a Folder2.5
+
+Creating a Folder
+
+The methods used to create a folder can be different according to the operating system. Figure 2.3 shows one such method.
+
+Figure 2.3 - Steps of creating a folder
+
+Activity 3 : See Workbook 2.3
+
+For free distribution
+
+16
+
+Saving Files in a Folder
+
+Files created should be saved to reuse them later. To save a file, save or Save As commands are used.
+
+When saving a file for the first time, despite the window selected, Save As command window will open.
+
+File
+
+NewOpenCloseSaveSave asPrint
+
+EditViewWindowHelpFile
+
+Save
+
+X
+
+Start
+
+Figure 2.4 - Saving a file
+
+File
+
+NewOpenCloseSaveSave asPrint
+
+EditViewWindowHelpFileil
+
+SaveSave
+
+X
+
+Start
+
+Save changes to the document 'My Pet' before quitting?
+
+YesNoCancel
+
+After selecting the folder in which the file is to be stored, by giving the save command, the file is stored in the folder.
+
+Opening a created Folder
+
+The folder can be opened by taking the cursor on to the folder and double clicking on it.
+
+File
+
+NewOpenCloseSaveSave asPrint
+
+EditViewHelpFile
+
+Open
+
+X
+
+Start
+
+Figure 2.5 - Opening a file
+
+Coping and Moving a Folder
+
+A folder can be copied or moved to another location. It can be internal location or an external storage device.
+
+First, take the cursor to the location of the folder and select it.
+
+For free distribution17
+
+To CopyStep 1 • Firs, select the Copy command in the tool bar or the Copy command shown when the right button of the mouse is clicked.
+
+Step 2 • Then, go to the location where it should be pasted and select Paste command.
+
+To MoveStep 1 • First, select the Cut command in the tool bar or the Cut command shown when the right button of the mouse is clicked.
+
+Step 2 • Then, go to the relevant location and select Paste command.
+
+Changing the Name of a Folder
+
+Step 1 To change the name of a folder, take the mouse pointer on to the folder, Then select Rename command after clicking the right button of the mouse.
+
+Step 2 Type the required name.
+
+For free distribution
+
+18
+
+Deleting a Folder
+
+Delete temporarily
+
+x
+
+DeleteStep 1 Select the folder that needs to be deleted.
+
+Step 2 Press the Delete button on the keyboard.
+
+Important
+
+³ If you delete a folder that is in an internal location such as in a hard disk, it is deleted temporarily. That means, it can be retrieved when needed.
+
+³ If you delete a folder that is in an external storage device such as a pen drive, it is permanently deleted. It cannot be retrieved again.
+
+Delete Permanently
+
+Step 1 To delete a file or a folder permanently, press Shift and Delete keys together.
+
+Step 2 Select Yes command in the dialog box.
+
+Activity 4 : See Workbook 2.4
+
+Delete File
+
+Are you sure you want to permanently delete this ?
+
+Letter 01.txt
+
+YesNo
+
+For free distribution19
+
+Let's identify the Characteristics of a File and a Folder2.6
+
+There are characteristics in a file or a folder such as size, type and date modified. When the mouse pointer is taken on to the relevant file or folder and when right button is clicked a menu is displayed. Select the Properties command and you can see these characteristics.
+
+File type
+
+When naming a file the method of showing the file type File Extension
+
+Location of the file
+
+Size of the file
+
+file• Date and Time created
+
+• Date and Time modified
+
+• Date and Time accessed
+
+Figure 2.5 - Identifying the characteristics of a File
+
+Doc3.docx Properties
+
+General Security Details
+
+Doc3.docx
+
+Type of file
+
+Opens withMicrosoft Word
+
+C:\Users\22\Documents
+
+Change...
+
+Location
+
+Size
+
+36.0
+
+35.4
+
+KB
+
+KB
+
+Size on disk
+
+Created
+
+Modified
+
+Accessed
+
+Attributes
+
+OkCancel
+
+HiddenRead-only
+
+Thursday, October 27, 2016, 5:32:34 PM
+
+Thursday, October 27, 2016, 5:32:34 PM
+
+Thursday, October 27, 2016, 5:32:34 PM
+
+Apply
+
+Advanced...
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+Previous Versions
+
+(36,332 bytes)
+
+Microsoft Word Document (.docx)
+
+(36,864 bytes)
+
+For free distribution
+
+20
+
+³ The operating system is the main software in a computer that enables communication between man and the computer and that controls the computer hardware and other software.
+
+³ Operating systems like Microsoft Windows, Apple Macintosh, Linux are used in computers and operating systems like Android, IOS, Blackberry OS, Windows Mobile OS are used in mobile phones.
+
+³ Data in various forms such as documents, photos, videos, animations, voice and sounds as well as programmes that give instructions to the computer are stored in computer storage devices. ³ Storage devices can be divided into three categories according to the technology used. They are magnetic media devices such as hard disks optical media devices such as compact disks and solid state media devices such as pen drives.
+
+³ Several managements activities such as creating files and folders, editing, saving, copying and moving can be performed.
+
+Summary
+
+For free distribution21
+
+Security of the Computer System
+
+S
+
+S
+
+03
+
+Children … do you know how to protect our computers?By locking the computer laboratory
+
+By locking the system unit
+
+Well.., all your answers are about the physical security of computers.As you know, a computer system has both hardware and software components. We should protect both of them.
+
+Let’s protect Computer System3.1
+
+It is essential to have adopted various prior protective measures for the safety and the durability of computers. The security of the computer system can be divided into two parts.
+
+Security of computer system
+
+Hardware Security Software security
+
+For free distribution
+
+22
+
+Let’s protect Computer Hardware3.2
+
+Computer Hardware
+
+Any physical component of a computer that you can touch and see is called hardware. It has a definite shape. As there are hardware devices outside of a computer, there are hardware devices inside the system unit too.
+
+monitor
+
+keyboardmouse
+
+motherboard
+
+power supply
+
+DVD drive
+
+cooling fan
+
+hard disk
+
+CPU
+
+Figure 3.1 - Some hardware devices that can be seen externally
+
+Figure 3.2 - Some hardware devices inside the system unit
+
+RAM
+
+Exercise 1: See Workbook 3.1
+
+Possible Hardware Security Issues3.2.1
+
+Some main factors that may cause physical damage to hardware devices;
+
+Sudden flow of high voltage current
+
+Sudden power failure
+
+Overheat inside the system unit.Dust gathering on computer hardware accessories (devices) and insects
+
+Issues related to theft
+
+S
+
+po
+
+Figure 3.3 – Some ways that cause damage to hardware devices
+
+Main ways that cause damage tohardware devices
+
+For free distribution23
+
+Precautionary Methods to protect Physical Components of a Computer3.2.2
+
+Steps that can be taken to minimize damages caused to
+
+the computer by
+
+electricity
+
+During sudden power failure, UPS continues to supply power to computer without interruption for a while.
+
+So, it enables to give sufficient time to save the current work and shut down the computer.
+
+Prevents damages caused to computer due to sudden flow of high voltage current
+
+It is widely used in power supply units and etc.
+
+However, at present Mini Circuit Breakers-MCB are used in place of fuse due to easy use.
+
+Protects the computer from high voltage current and lightning
+
+Controls the flow of high voltage current to the devices and sends it to earth
+
+Using UPS
+
+(Uninterupted power supply - UPS)fuse
+
+Using Fuse Using surge protection
+
+1
+
+
+
+
+
+
+
+
+
+surge protection
+
+Fixing cooling fans on devices which get heated highly inside the computer
+
+Installing air conditioners in the computer laboratory to control the heat
+
+Steps that can be taken to minimize overheating inside
+
+the computer
+
+2
+
+For free distribution
+
+24
+
+It is essential to keep the computer laboratory clean and tidy in order to protect it from physical harm such as dust gathering,high moisture and insects’ menace. For that, some steps that we can follow can be shown as follows.
+
+Steps that can be
+
+taken to protect the computer from
+
+physical harm
+
+3
+
+Let’s make use of air conditioners whenever possible
+
+Let’s remove the shoes when entering the computer lab
+
+Let’s avoid taking food and drink inside the labLet’s prevent insects and rats from entering the lab
+
+Let’s keep the lab clean and tidy
+
+Let’s keep the lab without moisture (wetness)
+
+Let’s protect the computer from physical harm
+
+x
+
+Figure 3.4 – Some steps that can be taken to protect the computer from physical harm
+
+- By entering the lab without footwear, the computer lab can be kept free of sand and dust.
+
+- Dust gathering on computer circuits (devices) can be prevented by cleaning all the computers in the lab at least once in every three months.
+
+- Taking food in the lab can attract insects like ants to the food particles fallen on the ground
+
+- Moisture in the laboratory may cause short circuit.
+
+NO FOOD ORDRINK IN THISAREA
+
+For free distribution25
+
+Steps that can be
+
+taken to protect
+
+from theft
+
+Protecting system unit by locking it
+
+Using CCTV camera
+
+Making doors and windows of the laboratory in such a way as to be locked Property.4
+
+Exercise 2 : see Workbook 3.2
+
+Let’s protect Computer Software Components 3.3
+
+Computer Software
+
+Data and information in the computer and programmes used for various tasks come under the category of software.
+
+Example: Operating System Word processing software Files containing documents Files containing pictures / images
+
+For free distribution
+
+26
+
+Possible Software Security Issues 3.3.1
+
+Some instances that may cause possible threat to software are mentioned below.
+
+Unexpected deletion of files or overwriting
+
+complications in the operating systemNatural disasters, terrorist attacks, etc..
+
+unauthorized access
+
+Sudden power failure
+
+threat of malware
+
+Some instances that may cause possible threat to software
+
+N
+
+Figure 3.4 – Some instances that may cause possible threat to software
+
+Precautionary methods to protect Software Components of a Computer 3.3.2
+
+Protection of computer
+
+software components
+
+Protection against
+
+malware
+
+Protection against power failure, natural disasters, complications in the operating system, deletion of files or overwrite and etc.
+
+Controlling unauthorized access
+
+using anti-virus software
+
+Keeping backups
+
+providing software solutions(logical security)
+
+using locks and door bolts (physical security)
+
+Figure 3.5 – Some steps that can be taken to protect software components
+
+Exercise 3 : see Workbook 3.3
+
+For free distribution27
+
+Providing Protection against Malware
+
+1
+
+Malware is a main factor that can couse a threat against the security of computer software.
+
+What is malicious software (malware)?Malicious software can be defined as any man-made software or part of a software that functions against the requirements of the computer user and designed to intentionally cause damage to
+
+• software installed in the computer • data, information stored in the computer • computer networks • and perhaps computer hardware devices as well.
+
+There are several types of malware. Some of them are hybrid in nature, that is, they take different forms. From time to time they operate in different forms.For example, A malware that behaves as a computer virus at a time, behaves as a Trojan horse at another time.
+
+Types of malwareComputer virus
+
+Computer wormsTrojan horse
+
+Spyware
+
+Figure 3.6 – Some types of malware
+
+For free distribution
+
+28
+
+1. Computer virus
+
+A computer virus is a main malicious software that gains entry to computer software and files and which is capable of replacating itself and designed to spread from computer to computer through portable devices. It can delete or modify data / information and it can corrupt software as well.
+
+2. Computer worms
+
+It causes damages similar to those of viruses. However, the main difference is that it spreads across computer networks or internet without the support of a host program or any human interaction.
+
+3. Trojan horse
+
+While it seems a useful software at first sight, it will cause damage to the user secretly once he begins to use it.
+
+4. Spyware
+
+It is a malicious software that secretly collects data about a person’s computer usage, internet usage and etc.., and sends them to the relevant party without his knowledge. Data and information too can be provided to the other party secretly through this software.
+
+Damages caused
+
+by malicious
+
+software
+
+Deletion, hiding or modification of data / information.
+
+Creation of new files and folders that do not belong to the user.
+
+Deletion, mal-function or alteration of the software behaviour.
+
+Decrease efficiency of the computer.
+
+Unusual behaviour in computer networks such as sudden disconnection or malfunction of network and the inability to work with the network as usual.
+
+Unusual reduction in the capacity of storage devices
+
+Shutdown the computer or restart again and again.
+
+For free distribution29
+
+Possible solutions to
+
+avoid or minimize the harm caused by
+
+malware
+
+Install an antivirus software and update it regularly.
+
+Open an external storage device only after scanning it for possible viruses.
+
+Activate firewall and make right settings.
+
+If using internet, always access secure websites only.
+
+Do not open black listed websites shown by antivirus software.
+
+Do not click on pop-ups that suddenly appear on the screen.
+
+Do not open suspicious emails or attachment.
+
+For daily use, normally maintain a Limited User Account which can allow only a limited number of tasks.
+
+Update all software installed in the computer including the operating system
+
+Use only the original copy of licensed software. Use of pirated software may lead to the spread of malicious software.
+
+Exercise 5 : see Workbook 3.5
+
+For free distribution
+
+30
+
+Keeping Backups
+
+2
+
+Keeping backups can be defined as a process of keeping copies of software components.
+
+Copies kept as backups can be used in case the original copy is misplaced or damaged. Several storage techniques can be applied to keep backups.
+
+eg: Compact disks (CD) Digital Video Disks (DVD) external hard disks Different location in the same computer (another folder or another drive)
+
+Access Control
+
+3
+
+Providing software solutions for access control
+
+It means the methods and services provided by several software to control access to computer and safeguard its resources.
+
+• Using strong and difficult to guess password• Creation of suitable user accounts• EncryptionBy following the above mentioned methods, not only access to computer can be controlled but also data and information can be protected from sudden loss.
+
+Encryption is another way of protecting data. Encrypted data cannot be read and understood even if it falls into wrong hands. This method is adopted especially when sensitive data is to be communicated.
+
+For free distribution31
+
+Use of physical locks for access control
+
+The computer system, data and information stored in the computers and software are protected by using devices and methods that are in the form of hardware in this method.
+
+For this, following methods are used.
+
+1. Keeping the computer at a secure place.
+
+It is advisable to keep the computer that contains sensitive and valuable data, information at a secure place, so that it will be protected from thieves and unlawful entry of people.
+
+2. Use of CCTV cameras and alarms
+
+Tasks such as monitoring movements when necessary, provision of automatic urgent messages are done by this system.
+
+3. Use biometric passwords
+
+At present, finger prints and voice recognition methods are widely used to access computer systems and to open doors of the computer laboratory.
+
+Unlike a conventional password, using biometric passwords is somewhat a modern method. Permission to access the system is granted only after recognizing authorized person’s identity through finger prints, voice, face or iris.
+
+Figure 3.7 Use of biometric passwords in mobile phones and laptop computers
+
+For free distribution
+
+32
+
+Exercise 5 : see Workbook 3.5
+
+³ When providing security to the computer system, both hardware and software components should be given equal attention.
+
+³ Some possible hardware security issues; • sudden power failure • flow of high voltage current • overheating inside the computer system • dust gathering on computer hardware and insects menace • theft menace
+
+³ For the protection of hardware, precautionary methods such as, • minimizing harm caused to the computer by electricity • minimizing overheating inside the computer • protecting computer from physical damage • protecting from thieves can be used.
+
+³ Some possible software security issues; • attack of malware • unauthorized access • sudden power failures • natural disaster, terrorism etc.., • complications in the Operating System • unexpected deletion of files, or overwrite
+
+³ For the protection of software, precautionary methods such as, • providing protection against malware • keeping backups • access control can be used.
+
+Summary
+
+For free distribution33
+
+Word processing
+
+04
+
+Is there any word processing software in your computer?
+
+I have to prepare a letter. Do you know how to prepare a letter using a computer?
+
+Word processing software?What’s that?
+
+Let’s identify Word Processing4.1
+
+Composing, editing (manipulating) and/or storing a text based document in any style is called word processing.
+
+A word processor can be any tool from a simple pencil to a complicated computer software.
+
+Exercise 1 : see Workbook 4.1
+
+For free distribution
+
+34
+
+History of Word Processing
+
+Composing letters and documents started a long time ago. It started with writing using objects such as leaves, stone chips and skin and developed so rapidly as to use a computer software to prepare a document by now.
+
+Writing using various objects that were available in the environment.(leaves, skin, stone chips etc..)
+
+Invention of paper and composing books by copy writing manually
+
+Use of wood blocks and clay blocks for printing
+
+Invention of the printing machine
+
+Invention of the manual typewriter
+
+Invention of the electric/electronic typewriter
+
+Use of computer for word processing
+
+Special landmarks in the use of computer for word processing
+
+Invention of the first computer for word processing (Decade 1960)Creation of the first word processing programme (1979)
+
+For free distribution35
+
+Let’s learn about Word Processing Software4.2
+
+Word processing software can be defined as a computer programme capable of creating a document, editing its content, modifying (formatting) its colour or style and sometimes printing it in different styles.
+
+Examples for word processing software
+
+Microsoft OfficeWord Open OfficeWriter
+
+Libre Office WriteriWork Pages
+
+Corel Word Perfect
+
+Benefits of using a Word Processing Software
+
+Benefits of a word
+
+processing
+
+software
+
+Creating a documentSaving (storing) for future retrieval
+
+Printing a documentSearch text in the document
+
+Display spelling & grammar errors and give a chance for correction
+
+Word Count
+
+Formatting (editing) of document
+
+Printing a several copies
+
+Exercise 2 : see Workbook 4.2
+
+For free distribution
+
+36
+
+Let’s learn about the Keyboard4.3
+
+It is essential to know how to use a keyboard when preparing a document with a word processing software. By practising to use the computer keyboard correctly, computer typing can become very easy and more efficient.
+
+Typical Keyboard
+
+The keys in the keyboard can be divided into several groups based on the function.
+
+Control keys
+
+Navigation keys
+
+Function keys
+
+Numeric keypad
+
+Character keys
+
+Figure 4.1 Key arrangement on a typical keyboard
+
+Control Keys)
+
+These keys are used alone or in combination with other keys to perform certain actions. The most frequently used control keys are Ctrl, Alt and Esc.
+
+Character Keys
+
+Function Keys
+
+These keys are used to type in letters, numbers, punctuation marks and symbols when preparing a document.
+
+The function keys are used to perform a specific task. The functionality of these keys may differ from programme to programme.
+
+Navigation Keys
+
+These keys are used for moving around on a webpage and for editing text. They include the arrow keys, Home, End, Page Up, Page Down, Delete and Insert keys.
+
+Q W E R T Y U I O P A S D F G H J K L Z X C V B N M < , . >
+
+>
+
+/ ?
+
+: ;
+
+{ }
+
+@ ' # ~
+
+shift shift \
+
+Enter
+
+Back space
+
+Tab
+
+1"!$%&*()_+-234567
+
+EscF1F2F3F4F5F6F7F8F9F10F11F12
+
+InsertHome
+
+DeleteEnd
+
+PageUp
+
+PageDown
+
+NumLock
+
+PrintScreenSys RqScrollLockBreakPause
+
+Home
+
+End
+
+Ins0
+
+1
+
+456
+
+987
+
+23
+
+Del
+
+Pg Dn
+
+Pg Up
+
+Enter
+
+890
+
+Caps Lock
+
+Ctrl Ctrl AltSpacebarAlt Gr
+
+] [
+
+£=
+
+For free distribution37
+
+Numeric Keypad
+
+The numeric keypad is used to enter numbers quickly.
+
+How the keys are arranged in a typical keyboard is shown in Figure 4.1. It is also known as QWERTY keyboard considering the design for alphabets. In some cases, keyboards that are slightly different from this type of keyboard are also available.
+
+Use of Caps Lock key
+
+When the Caps Lock key is pressed once capital letter's are typed. When it is necessary to type normal letters, press the caps lock key again.
+
+• Press Caps Lock key once space , C, D
+
+• Press Caps Lock key again space a, c, d
+
+Use of Shift Key
+
+There are two shift keys on the right and left sides of the keyboard. When letter keys are pressed while keeping the shift key pressed, English capital letters are typed. Similarly when other keys are pressed while keeping the shift key pressed, the symbol on the top of the key is typed.
+
+Caps Lock key
+
+shift
+
+shift shiftkeyshiftkey
+
++
+
+A
+
++
+
+?
+
+A
+
+?/
+
+For free distribution
+
+38
+
+Space bar – It is used to create an empty space between two words. If pressed once, a single space is created and if pressed twice, two spaces are created and so on. eg:- Pressing once Thank you Pressing twice Thank youTab key – It creates a somewhat big space between two words. Pressing the tab key once creates a single space and pressing it twice creates two spaces and so on.eg: Pressing once Thank you Pressing twice Thank youEnter key – Pressing the enter key once, moves the cursor down to the next line.eg: Pressing once Thankyou
+
+Arrow keys – It moves the cursor up, down, left or right on the screen.Backspace key – When pressed once, it deletes any character, space, number or any other object to the left of the cursor. (cursor’s current position)
+
+Exercise 3 : see Workbook 4.3
+
+Let’s use the Keyboard correctly4.4
+
+As you learned in Grade 6, computer typing can be more successful, when you sit with the correct posture in front of the computer. Improper sitting will cause pain in the hands, neck, back and in other joints.
+
+When sitting for typing, it is essential to keep the body right in front of the space bar of the keyboard. So that, it will enable the user to manipulate all the keys in the keyboard more conveniently.
+
+It is to be noted that while typing on the keyboard, both hands should be raised above the keys of the keyboard. (hands should not touch the keyboard or the table). So that, it will prevent numbness and pain in the fingers. Typing with the habit of resting the palm or wrist on the table may cause prolonged pain or injury in the fingers in the long run.
+
+Sitting with the correct posture
+
+Placing the Keyboard in the right place
+
+Refrain from keeping the wrist or palm on the table
+
+For free distribution39
+
+Normally it is sufficient to press a key softly to type any character, number or symbol. Pressing a key with force is an unwanted action. By doing so, fingers may experience inconveniences and the keys in the keyboard may warn out sooner as well.
+
+While working on the computer, it is essential to give a rest to both hands in circumstances where you are not engaged in typing. In such occasions, both hands can be kept freely on the table or the lap.
+
+Pressing the keys softly
+
+Giving rest to both hands while not engaged in typing
+
+Exercise 4: see Workbook 4.4
+
+Let’s create a Document using the Keyboard4.5
+
+How to find a letter that we need out of many letters on the keyboard?
+
+Before creating a document, it is necessary to know how to use a computer keyboard correctly
+
+Before creating a document, one should have a good understanding about how hands should be kept on the keyboard and manipulate keys.
+
+For free distribution
+
+40
+
+It is essential to follow the measures given below in order to gain correct computer keyboard skills.
+
+• While starting typing is started, keep the left hand fingers on keys A, S, D and F and right hand fingers on keys J, K, L.
+
+right hand left hand
+
+• Use fingers of both hands and always start typing having placed both hands on the correct row of the keyboard.(as shown in the picture)
+
+• Use appropriate keys for the appropriate fingers.
+
+Q Tab
+
+1 ! ` ~ @ # $ % & * ( ) _
+
+=
+
++ - 2 3 4 5 6 7 8 9 0
+
+Caps
+
+Shift Shift
+
+Enter
+
+Delete
+
+Ctrl Ctrl Alt Alt
+
+A
+
+A s D F G H J K L
+
+Z X CVBNM<,.>
+
+>
+
+?
+
+/
+
+S D F G HJKL
+
+WERTUIOP
+
+:{}l[]\
+
+";,
+
+Q W
+
+ASDFGHJ
+
+I
+
+KL
+
+ZXCVBNM>.,<
+
+ERTYUOP}{ []I \
+
+enter
+
+shift shift
+
+ctrl opt ent
+
+?
+
+;:",
+
+/
+
+delete
+
+tab
+
+` 1 2 3 4 5 6 7 8 9 0
+
+( * & % $ # @ !
+
+>
+
+) _ + = - ~
+
+caps lock
+
+Y
+
+For free distribution41
+
+Touch typingThe act of typing quickly and accurately without looking at the keys is called touch typing.
+
+Use of typing Tutor Software4.6
+
+There are a lot of benefits in learning touch typing. For this, use of a typing tutor software can be shown as the most suitable and the easiest way (method) to learn touch typing.
+
+So, you can search and find several software by browsing the internet.
+
+speed – can type very quickly
+
+accuracy – minimize errors in the document
+
+edit documents easily
+
+time – time can be saved.
+
+decrease fatigue – it reduces both mental and physical fatigue
+
+job prospects – typing speed is required for some positions
+
+health – it prevents prolonged bone diseases (illnesses)
+
+Benefits of learning touch typing accurately.
+
+Figure 4.2 Some benefits of learning touch typing accurately
+
+Exercise 5: see Workbook 4.5
+
+For free distribution
+
+42
+
+Meanwhile, some examples for typing tutor software that can be downloaded freely from the internet and their web addresses (URLs) are shown below.
+
+SoftwareDownloadable web address
+
+Rapid Typing Tutor
+
+http://www.rapidtyping.com/downloads.html
+
+TIPP10
+
+https://www.tipp10.com/en/download/getfile/4/
+
+Typefaster
+
+http://www.typefastertypingtutor.com/
+
+Exercise 6 : see Workbook 4.6
+
+Basically the keyboard has been produced for English language. However, various techniques have been introduced into this keyboard for different nationals to type (in) their own language through this keyboard. In our country, Sinhala and Tamil keyboards are widely used.
+
+For free distribution43
+
+Using Sinhala and Tamil Keyboard
+
+Using Sinhala keyboardSinhala keyboards can be seen in two types based on the manner of entering Sinhala letters.
+
+Sinhala keyboard
+
+Standard Sinhala Keyboa rd Phonetics Keyboard
+
+Sinhala characters can be entered to the computer both by character keys located in the keyboard and by phonetics keys too.
+
+• Use of Standard Sinhala Keyboard
+
+In this model, it is essential to remember the location of keys on the keyboard. This Sinhala keyboard is used (operated) in present computers and other data communication devices as well. This model is used in Unicode system too.
+
+Figure 4.3 – Standard Sinhala Keyboard (Wijesekara Sinhala Keyboard)
+
+• Phonetics Keyboard
+
+This is somewhat an easy method and the keyboard can be used according to Sinhala sounds (based on Sinhala sound). Therefore it is not necessary to know the location of the appropriate letters. You can send SMS messages in mobile phone using this method. Therefore, you are already familiar with this method.
+
+Q W E R T Y U I O P
+
+A S D F G H J K L
+
+Z X C V B N M < >
+
+>
+
+{ }
+
+\ Tab
+
+Lock
+
+ShiftShift
+
+Space
+
+Enter
+
+Bk Spc
+
+1
+
+!$#@%&*()_+
+
+-234567890
+
+] [
+
+=
+
+?/
+
+For free distribution
+
+44
+
+Figure 4.4 - Sinhala Phonetics Keyboard
+
+Use of Tamil Keyboard
+
+Unicode keyboard is mostly used when typing in Tamil letters.
+
+yyyp g
+
+Figure 4.5 - Tamil Phonetics Keyboard
+
+To read a letter prepared by using Unicode font, it is not necessary to have installed Unicode font in the computer of the user. However, to read a letter prepared by using a font other than Unicode font, the relevant font should have been installed in the computer of the user (user’s computer).
+
+The Unicode font is an open source software. So it can be downloaded freely from the internet.
+
+In addition to Unicode font, several other fonts such as FMBindumathi, FMAbhaya etc.. can be used to type in Sinhala letters while several other fonts such as Bamini, Kalaham etc.., can be used to type in Tamil letters.
+
+For free distribution45
+
+Exercise 7 : See Workbook 4.7
+
+³ Creation of letters and documents needed in day to day life easily is called word processing.
+
+³ Skill to use the keyboard correctly is essential in word processing through the computer.
+
+³ The keyboard that we use normally (day to day) is identified as QWERTY keyboard.
+
+³ The QWERTY keyboard can also be used for other languages such as Sinhala and Tamil.
+
+³ The Typing Tutor software can be used to practice the use of keyboard correctly.
+
+Summary
+
+For free distribution
+
+46
+
+Programme Development
+
+05
+
+Decomposing the Problems 5.1
+
+A problem can be simple or complex according to its nature. It is rather difficult to perceive and understand a complex problem when compared with a simple problem. It is essential to understand a problem thoroughly before going to solve it. So it will be easier to find a solution to a complex problem after decomposing it into smaller sub-problems.
+
+Decomposition according to shape
+
+Decomposition according to background colour A complex object (figure) with several shapes and colours
+
+Figure 5.1 - Decomposition of a complex object
+
+Likewise, a complex problem that seems difficult to solve at once can be broken into several smaller sub-problems as much as possible. Then these sub-problems can be solved easily one by one.
+
+Advantages of decomposing a problems
+
+• Easy to solve• Easy to understant• Easy to describe• Easy to analyze
+
+Complex problem
+
+sub-problem 1
+
+sub-problem 2
+
+sub-problem nDecomposition
+
+Figure 5.2 - Decomposition of a complex problem into sub-problems
+
+eg:- In grade o6, you have learnt about the basic mathematical function which include addition, substraction, multiplication and division of a whole number. Additionally in the first term of graded 07, you have learnt about solving sums when more than one mathematical functions are used with a whole number.Consider the following sum (Refer Figure 5.3).
+
+For free distribution47
+
+Solution17
+
+Since it is hard and complicated to solve this sum at once (in one step), it would be simple and easy to find a solution after decomposing the sum into three sub-problems as multiplication, addition and division involved in the sum. The final solution can be reached easily by logically integrating the answers obtained in each sub-problem.
+
+sumMultiplication
+
+Addition
+
+Division
+
+5 x 6 + 4
+
+5 x 6 = 30
+
+30 + 4 = 342
+
+3417= 2
+
+Figure 5.3 - Breaking a mathematical sum into sub-problems
+
+Activity 1 : See Workbook 5.1
+
+Use of Flow Chart to represent Algorithm 5.2
+
+Symbols in flow chart to represent algorithm have been explained in grade six. An algorithm may include one or more control structures out of three. Three types of control structures are shown below.
+
+sequenceselectionrepetition
+
+Figure 5.4 – Types of control structures shown in flow chart
+
+For free distribution
+
+48
+
+Activity 2 : See Workbook 5.2
+
+Sequence 5.2.1
+
+Execution of instructions in an algorithm sequentially from top to the bottom is called sequence. Let’s see how it is represented in a flow chart.
+
+e.g. : Covering a textbook
+
+Let's represent covering a textbook in a flow chart.
+
+Start
+
+Stop
+
+Cut the paper required to cover the textbook in a suitable size
+
+Place the textbook on the paper
+
+Fold the outer cover inward
+
+Paste the inside close to the edge of the outer cover
+
+Label your textbook in front for identification
+
+Figure 5.5 - Flow chart: Covering a textbook
+
+For free distribution49
+
+Activity 3 : See Workbook 5.3
+
+e.g. 2 :Finding the area and perimeter of a rectangle
+
+Start
+
+Stop
+
+Get the length and width
+
+Display area and perimeter
+
+Area = length x widthPerimeter = (length + width) x 2
+
+Length
+
+Problem AnalysisInput : length and widthProcess :Perimeter = (length + width) x 2Area = length x widthOutput : area, perimeter
+
+Width
+
+Figure 5.6 – Flow chart: Finding area and perimeter of a rectangle
+
+Activity 4 : See Workbook 5.4
+
+Selection 5.2.2
+
+Here it is expected to make a making decision on which step to follow depending on the condition given by the algorithm. In a selection, the condition is checked first and the flow direction is chosen based on whether the condition is true or false.
+
+For example, let's consider an instance where a ceiling fan is operated. When the switch is on, the ceiling fan operates if there is power. If there is no power, the ceiling fan does not operate.
+
+For free distribution
+
+50
+
+Start
+
+Stop
+
+switch on
+
+Fan is not functioning
+
+Fan is functioning
+
+No
+
+Yes
+
+Is power available
+
+Accordingly, if power is available, the fan will function. If power is not available, the fan will not function.
+
+Figure 5.7 - Flow chart funtioning of a font
+
+Repetition 5.2.3
+
+Execution of an instruction or several instructions in an algorithm repeatedly until a condition is satisfied is called repetition. A repetition will take place depending on whether a condition is satisfied or not satisfied. For example, natural water cycle is a process that takes place repeatedly.
+
+As an example, do you know that since your childhood, you used to save moneyby using a till to put money? The one who is used to save money in a till, will always put money (again and again) repeatedly until the till fills.So, here the process of putting money is repeated until the condition that is ‘till becomes full’ is satisfied.
+
+For free distribution51
+
+Start
+
+Stop
+
+Take a till to put money
+
+Put money
+
+No
+
+Yes
+
+Is till full?
+
+Figure 5.8 - Flow chart: Putting money into a till
+
+Checking of condition for repetition can take place in two ways. 1. Check the condition before repetion starts.2. Check the condition after functioning once.
+
+Start
+
+Write
+
+Finish
+
+Take a pen
+
+Yes
+
+No Is ink available?
+
+Start
+
+Stop
+
+Take a pen
+
+Write
+
+Yes
+
+No
+
+Is ink finished ?
+
+Checking whether ink is available before writing
+
+check whether ink is finished every time after writing act of writing until inkfinishes takes place againand again (repeated)
+
+Figure 5.9 - Flow chart: Writing with a pen until ink finishes
+
+For free distribution
+
+52
+
+Introduction to Scratch Programming and Programme Development 5.3
+
+Scratch which is a visual programme development software is an interactive, attractive and a simple programme with command blocks. This is a Free and Open Source Software (FOSS) and therefore it can be downloaded freely from the following website. http://www.scratch.mit.edu
+
+Scratch 2.0 introducing Interface with Visual Development Environment 5.3.1
+
+Menu BarStageCursor Tools
+
+Sprite ListBlock PaletteScript Area
+
+Cursor Tools
+
+DuplicateblockDeleteblockGrow SpriteShrink SpriteSprite and blocks control tools
+
+Sprite and blocks control tools
+
+Note: All these interfaces are in Scratch 2.0 (version 2).
+
+For free distribution53
+
+The Stage
+
+Stage where sprites move around and diagrams are drawn
+
+Stage maximize tool
+
+Sprites X, Y coordinates
+
+Start / Run
+
+Stop
+
+X, Y coordinates plane of the stage
+
+- 240"180 240"180
+
+- 240" -180240" -180
+
+Sprite List
+
+Changing Sprite and backdrop
+
+Spritecamera toolSprite Files toolSpritelibrary toolThumbnail view
+
+Backdrop library toolBackdrop Files toolBackdrop camera toolSprite camera tool
+
+The view behind the stage is called backdrop.
+
+For free distribution
+
+54
+
+Block and the classified tab within it
+
+Blocks palette
+
+The blocks categories are all colour coded and the relevant block is displayed under the relevant tab.
+
+A list of blocks that shows the action on the stage is displayed.
+
+Blocks Tabs
+
+Blocks
+
+Looks
+
+Events
+
+Control
+
+Sensing
+
+Operators
+
+Sound
+
+Pen
+
+Data
+
+For free distribution55
+
+This is the area where you apply blocks and create (develop) programmes.
+
+Creating a programme by dragging a block onto the ScriptsArea
+
+Script Area
+
+Block classificationBlockExample
+
+Includes command blocks pertaining to move the sprite on the stage.
+
+Sprite moves 100 steps from the position 0, 0
+
+Includes command blocks pertaining to communication among the Sprites.
+
+Sprite, after saying “Hello!, Can you win” thinks “No, I’m the winner”
+
+Looks
+
+MotionEvents
+
+Control
+
+Sensing
+
+Operators
+
+More Blocks
+
+Pen
+
+Data
+
+For free distribution
+
+56
+
+Includes musical instruments and basic notes to create sound and sound patterns
+
+When any key pressed drum sound is played and then “s” note is played
+
+Includes colour and tools needed to draw lines and various shapes on the stage.
+
+draws a line 50 units long in red colour
+
+Includes command block pertaining to make a variable and assign value.
+
+Count variable value is changed by 1 and then the value is shown
+
+Give instructions pertaining to the execution (running) of all other blocks
+
+When run tool (green flag) clicked, the total of variables a and b is shown
+
+For free distribution57
+
+Includes command blocks with selection and repetition to control execution of other blocks(scripts)
+
+According to the input, only one output out of the two is displayed.
+
+Receive input
+
+size of the sprite changes
+
+handles mathematical operations
+
+display the total of numbers from 1 to 10
+
+Activity 5 : See Workbook 5.5
+
+For free distribution
+
+58
+
+Programs Development of Programmes5.3.2
+
+Follow the instructions given bellow to create a programme using scratch
+
+• Double click on scratch icon• Run scratch software
+
+• Click on script tab and select block types• Select types of command blocks under Script Tab
+
+• Drag the blocks to script area• Drag the command block and drop on Script Area
+
+• Develop the programme
+
+• Save as a file
+
+• Run the programme
+
+The location where the new block to be joinedblinks (glitters) in white coloror
+
+ScriptsCosturnes
+
+Data
+
+Sprite1Stage1 backdrop
+
+New backdrop:
+
+Pen
+
+LooksControl
+
+Sensing
+
+Operators
+
+More Blocks
+
+Motion
+
+Sounds
+
+For free distribution59
+
+Managing Command Control Blocks
+
+פֿךּ ٍנּ ץ‎ ˁ‏Ē⅛ ן רּדּηנּבּĪ
+
+Ćг צּ
+
+פֿךּ ٍנּ ץ‎ ˁ‏Ē،צּ רּדּć צּ
+
+Right Click on Block
+
+copying command block
+
+deleting command bockadd comment help
+
+duplicatedelete
+
+Right Click on Block
+
+Development of programme with a Sequence5.3.3
+
+1. Playing basic notes with pianoConnect the control blocks (scripts) shown below sequentially. Then change the values of the control blocks as shown in the figure below. Run the programme and check the voice.
+
+Click on arrow head on the right to No.1 and select an instrument
+
+Click on arrow head on the right to No.60 and select a note
+
+(1) Piano(2) Electric Piano(3) Organ(4) Guitar(5) Electric Guitar(6) Bass
+
+select an instrument
+
+play note 60
+
+start
+
+stop
+
+play note 62
+
+play note 64
+
+play note 65
+
+play note 67
+
+play note 69
+
+play note 71
+
+play note 73
+
+Figure 5.10 – Flow chart: Playing note
+
+For free distribution
+
+60
+
+Activity 6 : See Workbook 5.6
+
+2. Expressing days of the week in order by Sprite
+
+insert day of the week
+
+Start
+
+Stop
+
+Say Sunday
+
+Say Monday
+
+Say Tuesday
+
+Say Wednesday
+
+Say Thursday
+
+Say Friday
+
+Say Saturday
+
+Use of a variable5.4
+
+In programming, variables are used to store a value in memory temporarily. Let’s study the following activity to understand the nature of a variable.
+
+Let’s consider a situation where two types of coloured liquid have been poured into two separate glass vessels.
+
+A vessel B vessel
+
+Now let’s consider changing liquid in A vessel into B vessel and liquid in B vessel into A vessel.
+
+For free distribution61
+
+In this way, in order to change the liquid from one vessel to the other, it is necessary to have an extra vessel.Let’s name that vessel as C vessel.
+
+C vessel
+
+step 1 : Changing liquid in A vessel to C vessel
+
+A vessel B vesselC vessel
+
+step 2 : Changing liquid in B vessel to A vessel
+
+A vessel B vesselC vessel
+
+step 3 : Changing liquid in C vessel to B vessel
+
+A vessel B vesselC vessel
+
+As a vessel can store liquid, so a variable can store a value. The above vessels named as A, B and C can be considered as variables and the liquid poured into them can be considered as values of the variables.
+
+For free distribution
+
+62
+
+Assign Values to Variables
+
+When assigning values to variables, variable name is written on the left to the equal sign and the value is written on the right to the equal sign.
+
+e.g. name = Amara
+
+nameage
+
+Amara12
+
+age = 12
+
+Changing values of variables
+
+e.g.
+
+Let’s change the values of variables maths and science.
+
+maths = 68
+
+science = 79
+
+marks = mathsmaths = science science = marksmaths sciencemaths science
+
+68797968
+
+marks
+
+Building variable in scratch
+
+• Double click on scratch icon• Run Scratch Software
+
+• Select data block• Select Data command block
+
+• Select make a variable
+
+• Type name the variable
+
+• Click OK
+
+For free distribution63
+
+variablevariable name
+
+assign value to a variable
+
+(assign marks 67 to the variable marks)
+
+change value of a variable
+
+(change the value of the variable marks by 10)
+
+Develop programme with variables5.4.1
+
+1. Multiplication of two numbers
+
+Create two variables (n1, n2) to store values of two numbers and another variable to store the multipication of the two numbers.Then join the control blocks shown below one by one sequentially in the given order. Change the value of control blocks as shown.
+
+Motion
+
+Looks
+
+Sound
+
+Pen
+
+Events
+
+Control
+
+Sensing
+
+Operators
+
+More Blocks
+
+Make a Variable
+
+New Variabl
+
+Variable name:marks1
+
+10
+
+67
+
+For all spritesFor this sprite only
+
+OK Cancel
+
+Make a List
+
+For free distribution
+
+64
+
+Variablesstart
+
+create variables n1, n2 and mul
+
+enter first value
+
+assign first value to n1
+
+assign second value to n2
+
+multiply variables n1, n2 and assign answer to mul
+
+display value of variable mul
+
+stop
+
+enter second value
+
+Enter First Value
+
+Figure 6.12 – Flow chart: Multiplication of two numbers
+
+Activity 7 : See Workbook 5.7
+
+2. Find Perimeter and Area of a Rectangle
+
+The length and width of a rectangle is needed to find the perimeter and the area of that rectangle. Accordingly, four variables should be used in order to develop this programme. The length, width, perimeter and the area are shown as variables L, W, perimeter and area respectively.
+
+For free distribution65
+
+to change variable
+
+start
+
+stop
+
+display area
+
+display perimeter
+
+area = length x width
+
+perimeter = length x 2 + width x 2
+
+enter width of the rectangle
+
+enter length of the rectangle
+
+Figure 5.13 – Flow chart: Area and perimeter of a rectangle
+
+3. Change the size of the Sprite from 10 to 100 at random
+
+Develop the following programme to randomly change the normal size of the Sprite that we see. A value randomly chosen from one to ten is stored in the variable X. The size of the Sprite changes up to the value obtained by multiplying the value of variable X by 10. In addition, the colour too changes in proportion to the value of variable X.
+
+For free distribution
+
+66
+
+Assign a value randomly from 1 to 10 to variable X
+
+Stop
+
+Play sound
+
+Change colour of the Sprite by value X and display
+
+Display multiplication of variable X by 10 as size of the Sprite
+
+Set size of the sprite to 100%
+
+Start
+
+Figure 5.14 - Flowchart: Changing size of the Sprite
+
+Bugs5.4.2
+
+Bugs may occur when developing a programme. Errors in a programme are called bugs, while the elimination of such bugs is called debug. In such a situation, unexpected problems are to be faced when a program with bugs run. Programmes with bugs may not run properly. Therefore before running a programme, bugs that may occur in that program should be eliminated.
+
+Elimination of Bugs
+
+Bugs may occur in such situations as change of order in the instructions (block), omission of instructions (block) or non-mentioning of correct variables and their values. Bugs in a programme can be eliminated by correcting bugs in the instructions(block) or arranging the order of the instructions (block) sequentially.
+
+Let’s compare the following programme with bugs and the programme without bugs developed to draw a rectangle with length and width 200 and 100 respectively.
+
+For free distribution67
+
+incorrect
+
+Incorrect outputCorrect output
+
+order changed
+
+an instruction omitted
+
+correct
+
+Programme without bugsProgramme with bugs
+
+The above programme on the left has been developed to draw a rectangle. However the expected output cannot be achieved due to bugs in the programme. Therefore there is a possibility to get an erroneous output. It is proved by the programme on the right that a correct output can be achieved after eliminating those bugs.
+
+For free distribution
+
+68
+
+A program with bugs may not run properly. After eliminating the bugs, the programme can run properly.
+
+³ Program development can be made easy by decomposing a complex problem
+
+³ There are three control structures used to develop a programme. They are sequence, selection and repetition.
+
+³ Execution of instructions (sequentially) step by step in an algorithm is called sequence.
+
+³ Making decision as to which step to follow based on the condition given by the algorithm is called selection.
+
+³ Flow direction in a flow chart is determined based on the condition of the flow chart.
+
+³ Scratch open source programme can be used for visual programme development.
+
+³ Command blocks are used in the development of Scratch program
+
+³ Following command blocks can be used to display the decision ² The block to be used to show steps to follow only if the condition becomes true
+
+² The block to be used to show steps to follow if the condition becomes true or not
+
+³ In programming, variable is used to store value in memory.
+
+³ Error in a programme is called bug.
+
+³ Elimination of bug in a programme is called debug.
+
+Summary
+
+For free distribution69
+
+06Presentation Software
+
+Your presentation can be made fruitful and attactive if a presentation software is used.
+
+Teacher asked me to find information on kingdoms of Sri Lanka and present to the class.
+
+Let's learn about Presentation6.1
+
+Presentation is a method used to communicate information and ideas to a certain person or a group. There is more liveliness in this method than other methods because a quick interaction between the specker and speetators takes place.
+
+Electronic Presentation
+
+Electronic presentation is a tool used to make a presentation attractive and fruitful.
+
+Electronic Presentation like a book
+
+An electronic presentation like a book. But it is not totally similar.Why do you say so?
+
+For free distribution70
+
+Activity 1 : See Workbook 6.1
+
+• A book is composed of pages.
+
+• Pages can be turned.
+
+• Words, pictures are included in the book.
+
+• Videos, songs, links cannot be included in books. Liveliness of them cannot be included in books.
+
+• After a book is printed, changing the content is difficult.
+
+• Presentation is composed of slides.• Can move from slide to slide.• Words, pictures, etc. are included in slides.• Videos, songs, links can be included in a presentation. Liveliness of them can be included.• Even after presenting several times, content of a presentation can be changed again and again.
+
+Examples for Presention Software
+
+Microsoft PowerpointApple KeynoteOpenOffice Impress
+
+Corel Presentations
+
+For free distribution71
+
+There are many advantages in an electronic presentation
+
+Students
+
+TeacherBlackboard/chalk
+
+▪ Should use so many words.▪ More effort is needed to expain facts.▪ More chances to change concentration.▪ More effort should be made to acquire information.
+
+Teaching in normalway
+
+Students
+
+▪ No need of using so many words.▪ Less effort to explain facts.▪ Less chance to chang the concentration.▪ Less effort to acquire facts.Presentation/ ProjectorTeacher
+
+Teaching using a presentation
+
+Let's design a Presentation6.1.1
+
+In order to design a new presentation, presentaion software in the computer should be opened.
+
+Design a presentation using a blank presentation
+
+When you open the electronic presentation software in the school computer, you will get a blank presentation as show in Figure 6.1.
+
+Figure 6.1- A blank presentation
+
+When you click on that blank presentation, you will get blank slides which you need to prepare the presentation.
+
+For free distribution72
+
+AB
+
+Figure 6.2 - A Presentation window
+
+The Slide in Figure 6.2 A indicates a slide related to the content which is open on the slide pane (In Figure 6.2 B indicates a slide pane) is highlighted, Eg: The content of the slide indicated by A in Figure 6.2 is displayed on slide pane.
+
+Start designing presentations using presentation models provided by Presentation Software
+
+You will get blank slide when you open the presentation software, to be designed. Or if you wish, you can select from pre-designed slide templates which have being saved. They are designed with various shapes, colours, designs.
+
+Figure 6.3 - Some presentation templates
+
+If the slide matches your need, one of the slides can be selected.
+
+After opening a presentation, it appeas as shown in Figure 6.4.
+
+For free distribution73
+
+Title bar Tool bar
+
+Slide pane
+
+Slides
+
+note pane
+
+Figure 6.4 - Basic features of a Presentation window
+
+Your presentaion can be prepared using tools in the tools bar. The prepared pesentation can be saved in any place for reuse when needed.
+
+Activity 2 : See Workbook 6.2
+
+Closing Presentations6.1.2
+
+X
+
+Start
+
+To close a presentation, the mark x which appears on the right hand side should be clicked.
+
+If the pesentation was not saved, a dialoge box relevant to save it will open.
+
+For free distribution74
+
+File
+
+NewOpenCloseSaveSave asPrint
+
+EditViewWindowHelpFileil
+
+CloseClose
+
+X
+
+Save changes to the document 'My Pet' before quitting?
+
+YesNoCancel
+
+Start
+
+Figure 6.5 - Close a Presentaion
+
+If you want to save the presentation select Yes command. If not, select Nocommand.
+
+Activity 3: See Workbook 6.3
+
+Saving a Designed Presentation6.1.3
+
+After designing a presentation, it should be saved in the computer for late use.
+
+Figure 6.6 - Save a Presentation
+
+It is good to use a name of your own to save it rather than using a common name given by the presentation software. It helps to find it easily among the other files.
+
+For free distribution75
+
+Activity 4: See 6.4 Workbook
+
+Opening a Saved Presentation 6.1.4
+
+There are several ways to follow in opening a presentation.
+
+• Select the name of the presentation using presentation software.• Click twice on the presentation file.
+
+Figure 6.7 - Open an existing Presentation
+
+Activity 5: See Workbook 6.5
+
+For free distribution76
+
+Let's add New Slides to a Presentation6.2
+
+There are several slides which can be used in preparing a presentation.
+
+Title
+
+Title
+
+Content
+
+Title Slide Title and content slide
+
+Sub-title
+
+Title
+
+12
+
+Sub-title Slide Comparision or double content slide
+
+Empty Slide Picture Slide
+
+Figure 6.8 - Examples for types of slide In addition to these, different slides can be used using a blank slide according to the need.
+
+Activity 6 : See Workbook 6.6
+
+For free distribution77
+
+Designing a Slide6.3
+
+Understanding about how to insert texts and pictures to a slide, how to draw sketches using shapes and add multimedia and tables to a slide is needed to design a slide.
+
+Including Words and Word Art6.3.1
+
+There is a sepecific place in a slide to include words in a slide. It is shown as dotted lined boxes on a slide.
+
+Space provided to insert text
+
+Figure 6.9 - Space Provided to insert text
+
+Following tools should be used to prepare letters as needed.
+
+Change the font colour
+
+Size of the font
+
+Bold the font
+
+Italicize the font
+
+Underline
+
+Activity 7 : See Workbook 6.7
+
+For free distribution78
+
+Inserting Pictures to a Slide6.3.2
+
+Presentation software facilitates inserting pictures to a slide.
+
+Figure 6.10 - Insert pictures to a slide
+
+There are two ways to insert pictures.
+
+One way is to copy a saved picture and paste it on the slide. The other way is using clip art provided by presentation software.
+
+Clip Art is a type of pre-designed images
+
+Activity 8 : See Workbook 6.8
+
+Inserting Shapes6.3.3
+
+We can insert shapes like circles, squares, as well as triangles lines, arrows, shapes for flow charts and stars in to presentation slides.
+
+Figure 6.11 - Inserting shapes to a slide
+
+Activity 9 : See 6.9 in Workbook
+
+For free distribution79
+
+Inserting Multimedia to a Slide6.3.4Video and audios can be inserted to a slide. It makes the presentation more interesting rather than inserting pictures.
+
+Inserting saved audios in the computer is allowed Some presentation software allows to record audios at the time it is being designed. There are persentation software which provide library facilites with pre-recorded sounds.
+
+yp
+
+Figure 6.12 - Insert multimedia to a slide
+
+Activity 10 : See Workbook 6.10
+
+Inserting Tables in to a Slide6.3.5
+
+Table designing tools are provided in presentation software.
+
+Tables drawn in Ms words or Ms excel can be inserted in presentation slides.
+
+p
+
+Figure 6.13 - Inserting tables in a slide
+
+Table can be drawn giving the number of rows and columns needed. Even after designing changes can be done.Insert table
+
+Number of columns
+
+Number of rows
+
+OK
+
+3
+
+5
+
+AUDIO
+
+VIDEO
+
+For free distribution80
+
+Activity 11 : See Workbook 6.11
+
+Using Slide Designs6.4
+
+Slide designs are given in order to design the background of slides colourful and attractive. When slide designs are used, it is possible to change the size of the slide to fit to the screen or to standard sizes to suit the screen size.
+
+Figure 6.14 - Several Slide designs
+
+Background and colour of letters should match. It is better if the font or the content can be highlighted with a background. In slide designs font colour and backgrounds are suitably designed. There fore, by using slide designs in a presentation no extra time is wasted to match font colour and background.
+
+Activity 12 : See Workbook 6.12
+
+Silde Transition6.5
+
+Slide transition can be used to move from slide to slide. The objective of this is to make it attractive. But if it is desigad in a way which takes more time, it would be tiresome for the audience.
+
+There are methods to control speed, select slide transition type and making selected sounds in transition in presentation software.
+
+For free distribution81
+
+Slide 1
+
+Slide 2
+
+Slide 3
+
+Slide 4
+
+Slide 5
+
+Figure 6.15 - Slide transition
+
+Activity 13 : See Workbook 6.13
+
+Deleting, Coping, Moving and Hiding of Slides 6.6
+
+In order to delete, copy, move or hide, a slide the particular slide should be selected. Using a suitable Slide view provided by the presention software to select slides is easy. The slide view presents slides in an organized way.
+
+Slide 1
+
+Slide 2
+
+Slide 3
+
+Slide 1
+
+Figure 6.16 - A Normal slide view
+
+For free distribution82
+
+Slide 1
+
+Slide 5
+
+Slide 2Slide 3Slide 4
+
+Figure 6.17 - Slide sorter view
+
+Activity 14 : See Workbook 6.14
+
+Deleting Slides
+
+Deleting slides can be done using the following methods.
+
+• Using the delete key on the keyboard • Using the back space key on the keyboard
+
+For this, relevant slide should be selected using the mouse head.
+
+Slide 1
+
+Slide 2
+
+Slide 3
+
+Slide 2
+
+figure 6.18 - Deleting Slides
+
+For free distribution83
+
+In addition to this, you can use other methods provided by the software to delete slides. (Your teacher will guide you).
+
+You can delete multiple slides at once.
+
+5Activity 15 : See Workbook 6.15
+
+5
+
+Coping Slides
+
+You may need to use a slide of a presentation more than once. Or else you may need to design another slide using none slide. You will have to change a copy of a slide in doing so.
+
+If you want to copy the slide, you can copy and paste the slide by the facilitiy provided by presentation software.
+
+Slide 1
+
+Slide 2
+
+Slide 1
+
+Slide 2
+
+Figure 6.19 - Copying Slides
+
+For this you have to take the mouse pointer to the relevant slides. There you have to click paste command from the tools bar or the menu you get when you right click the mouse.
+
+Activity 16 : See Workbook 6.16
+
+For free distribution84
+
+Moving Slides
+
+It is not necessary to prepare slides in the same order you want to present. Presentation software allows to change the order after designing. For that, you have to move slides.
+
+To move a slide, selected slide should be dragged and dropped in the relevant place. You can cut and paste the slide too. For this, you can use cut and paste command in tools bar or in the menu you get when you right click the mouse.
+
+Slide 1
+
+Slide 2
+
+Slide 1
+
+Slide 1
+
+Figure 6.20 - Moving Slides
+
+Activity 17 : See Workbook 6.17
+
+Hiding Slides
+
+You may not need to show all the prepared slides in a presentation. You can hide a slide without deleting in such a situation. When a slide is hidden, it does not appear but you when need you can prepare it in such way that it can be seen.
+
+For this you have to select hide slide command in the menu bar of file menu or in the menu you get when the mouse is right clicked.
+
+For free distribution85
+
+Slide 1
+
+Slide 2
+
+Slide 3
+
+Slide 2
+
+Figure 6.21 - Hiding Slides
+
+Activity 18 : See Workbook 6.18
+
+For free distribution86
+
+³ Presentation software is a software that can make presentations attractively by using words, images, pictures and sounds.
+
+³ Presentations can be made using blank slides or pre-designed presentation slide templates. To open, save and close presentations, open save and close buttons are provided respectively in the software.
+
+³ When inserting slides to the presentation, special types of slides are provided. Topic slide, topic and content, sub-heading slide, comparison or double content slide, empty slide, image slide are examples for different types of slides.
+
+³ When inserting text into a presentation, different tools are provided to change the font colour, change the font size, to bold, to italic and to underline.
+
+³ Images, shapes, video sound tracks and tables can be inserted to the slides. In a presentation, to change from slide to slide. attractive slide change mehods are provided by many presentation software.
+
+³ When using presentation software, deleting, copying, moving and hiding of slides can be done.
+
+Summary
+
+For free distribution87
+
+Using Internet for Information and Communication
+
+U
+
+C
+
+07
+
+Nimal what is called as internet?A computer network that consists of a large number of inter-connectedcomputers.
+
+Let's learn about the Internet7.1
+
+A network that consists of two or more computers can be considered as a computer network. The internet is an extra-large network with a large number of such computer networks. There are millions of computers on the internet.
+
+Figure 7.1 - Computer Network
+
+Figure 7.2 - Internet
+
+At present, students can expand their knowledge by using resources like information, videos, images about any subject area by connecting to the internet.
+
+For free distribution
+
+88
+
+Send emails Listen to music
+
+Video conferencing
+
+Computer games Map observation
+
+Buy goods and services
+
+through internet
+
+Watch videos
+
+They are many service rendered by the internet apart from providing educational knowledge. The ability to obtain information quickly on any incident in the world is one such service.
+
+World Wide Web and Uniform Resource Location7.2
+
+Have you heard about theWorld Wide Web?
+
+World Wide Web is a main service provided by the internet.
+
+What's that?
+
+For free distribution89
+
+A website is formed with many web pages. The world wide web is formed with many websites. There are millions of websites in the world wide web. The world wide web is also known as www.
+
+webpages webpageswebpages
+
+website
+
+webpages
+
+Figure 7.3 - How a website is created
+
+website websitewebsite
+
+world wide web
+
+Figure 7.4 - How a world wide web is formed
+
+Let's learn abouts Uniform Resource Locator7.3
+
+There are millions of websites in www. How can we identify one from the rest of the websites?
+
+You can identify it with uniform resource locator.
+
+The uniform resource locator is the address used to identify one resource among the huge number of resources in the World Wide Web. The uniform resource locator is also known by its short name URL. e:g: https:www.moe.gov.lk
+
+Given above is the uniform resource locator or the address of the website of the ministry of Education.
+
+With this website address, the Ministry of Education of Sri Lanka can be identified among many websites in the www.
+
+For free distribution
+
+90
+
+Let's identify Secured and Unsecured Websites7.3.1
+
+Hello, friend, how can we find whether a website is secured or unsecured?
+
+We can use several methods for that.
+
+In order to identify secured and unseceered websites separately different methods are used. The main two methods are given below.
+
+The address of the website starts with https. e:g:
+
+After logging in to a website
+
+symbol is displayed on the address bar. e:g:
+
+https://moe.gov.lk
+
+https://moe.gov.lk
+
+Video Conferencing7.3.2
+
+Video conferencing is known as conducting discussions using video technology on the internet between two persons or a two groups who are geographically located at a distance from each other.
+
+Advantages of conducting video conferencing
+
+• The initaial cost of conducting conferences can be minimized.• There is no need to travel to the location of the conference and therefore there is no tranport cost or waste of time.• It can be quickly arranged.
+
+For free distribution91
+
+What are the software and hardware required to conduct a video conference?
+
+• A computer• A web camera
+
+• Internet connection and a software to conduct a video conference are required.
+
+Examples for software used for video conferencing
+
+³ Zoom
+
+³ Skype
+
+³ GoToMeeting
+
+³ Webex
+
+Activity 1 : See workbook 7.1
+
+E-mail7.3.3
+
+It's easy if you send an e-mail.
+
+E-mail means an easy way of sending a letter on the internet.
+
+Brother, I need to send this letter to one of my friends. Can you post it?
+
+What is e-mail?
+
+For free distribution
+
+92
+
+E-mail is electronic letters which are electronically exchanged between two people or among several people who have an e-mail address. Many things such as letters, photos, videos and documents can be sent as messages through e-mail.
+
+E-mail Account
+
+First, a suitable service providing website should be selected to create an e-mail account. In most cases such websites provided free e-mail accounts.
+
+Examples for e-mail account services
+
+The characteristics of E-mail
+
+The characteristics
+
+of Email
+
+The ability to send copies of one e-mail message to several people at once.When the letter couldn't be sent properly to the relevant e-mail account, it is notified with a reply message.
+
+The ability to save e-mail addresses and retrieve them with the address book.
+
+The time and date of the sent e-mail is automatically entered to the copy of the e-mail.The ability to forward an e-mail message to another person.
+
+The ability to attach data or information file easily into the e-mail (a photo, a document).
+
+For free distribution93
+
+E-mail Window7.3.4
+
+Given below is a model of an e-mail window.
+
+New
+
+AttachCover page.jpg
+
+saman@edupub.gov.lk
+
+FW: Text Book
+
+Inbox
+
+Sent
+
+Junk
+
+Trash
+
+Contacts
+
+DeleteSend
+
+To:Cc:Bcc:Subject
+
+E-mail address
+
+1
+
+2
+
+38
+
+9
+
+10
+
+11
+
+12
+
+4
+
+5
+
+6
+
+7
+
+saman@edupub.gov.lk
+
+usernamedomainname
+
+In the e-mail address saman@edupub.gov.lk, saman in the user name.@ symbol is used to connect the username to the other part.edupub.gov.lk after @ symbol is the domain name. .lk means it is an e-mail address in Sri Lanka.
+
+Bcc (Blind Carbon Copy)
+
+The e-mail addresses in this section are not visible to people whose e-mail addresses are in To and Cc. But all the addresses in To and Cc are visible to pepole whose e-mail addresses are in Bcc.
+
+5
+
+Cc (Carbon Copy)The e-mail addresses of the people to which the copies of this letter should be sent, are mentioned.
+
+4
+
+A new e-mail window can be obtained by clicking on Compose or New after logging on to the e-mail account
+
+compose/new2ToHere, the e-mail address of the receiver is mentioned
+
+3
+
+For free distribution
+
+94
+
+Examples ³ E-mail address of Amara - amara@yahoo.com ³ E-mail address Nayana - nayana@gmail.com ³ E-mail address Meena - meena@yahoo.com
+
+Given below are e-mail addresses mentioned in To, Cc and Bcc of an e-mail message created to send a greetings message.
+
+To: amara@yahoo.com Cc: nayana@gmail.com Bcc: meena@yahoo.com
+
+Here, Meena can see both e-mail addresses of Amara and Nayana. Nayana can only see the e-mail address of Amara. Similarly, Amara can only see Nayana's is e-mail address.
+
+SubjectHere, the topic related to the e-mail address is mentaionedEg: Grade 7 student details)
+
+6
+
+Attachment
+
+If there are files that should be attached to this e-mail address, it can be done by clicking on this tool.Eg: photos, videos, sound tracks
+
+7
+
+Inbox
+
+This contains the e-mail messages sent by other people. Unopened e-mail messages are shown in a dark colour. The person who has sent the message and to whom it has been sent can be seen.
+
+8
+
+SentE-mails sent by you are contained here.
+
+9
+
+Junk/Spam
+
+Unnecessary or spam e-mails are contained here.
+
+10
+
+TrashDeleted e-mails are temporarily stored here. If needed, emails in the folder can be deleted.
+
+11
+
+Contacts
+
+This contains the e-mail addresses and contact information.
+
+12
+
+Activity 2 : See Workbook 7.2
+
+For free distribution95
+
+Let's develop Webpages using HTML7.4
+
+Sister, our teacher told that she would teach us how to create web pages in the next lesson.
+
+For that, first you must know what html is.
+
+What's html ?
+
+Html is the language used to create web pages.
+
+HTML Codes7.4.1
+
+HTML (hyper text markup language) is the language used to create web pages. It has its own codes and a webpage is created by using these codes. Given below are several basic codes used in html.
+
+For free distribution
+
+96
+
+<html> - Beginning of a web page<head> - The first part of the web page<title> - The topic of a web page<body> - The part in which the items that should appear on a web page are shown <br> - Go to the next line (break line)<h1> - Get larger font for the heading (heading 1)<h6> - Get smaller font for the heading (heading 6)<center> - Centering the letters on the page<p> - Start a paragraph<bgcolor > - Use a background colour in the web page<background> - Use a background images in the web page<img src> - Use an image in the web page<A href> - Link another file to the web page<font face> - Change the font style<b> - Bold the font<i> - Italicize the font<u> - Underline text
+
+Let's create a Simple Web Page7.4.2
+
+A simple text editing software could be used to enter html codes to create web pages. E:g:. notepad
+
+There are occsions where complex software is used to create web pages. Here, we will not focus on that.
+
+For free distribution97
+
+<title>
+
+Start
+
+Topic name of the web page
+
+Content
+
+end
+
+}
+
+Here, among the <title> codes, a suitable name for the web page should be used.
+
+It appears on the title bar of the web page. Here what is mentioned in <body> _ <body> section is visible in the web page.
+
+All codes should be written between '<' and '>' symbols. In most html codes, there is a beginning and an end. To indicate an ending code '/' symbol should be used.
+
+e:g: <title> beginning end - <title>
+
+The following table contains examples of how html codes are used to create a web page. The first column indicates the use of html codes and the second command indicates how it is visible in the web page.
+
+Usage of html codesHow it appears on the web page
+
+center a line (center) <center>
+
+change size of text <h1> <h2> ......<h6>
+
+For free distribution
+
+98
+
+add underline, italic and bold <u>,<i>,<b>
+
+change font colour and font style <Font color> yd <Font style>
+
+ms<s.ksuq
+
+add background colour<bgcolor>
+
+g
+
+insert a paragraph <p>
+
+insert a background image<background>
+
+Welcome to Sri Lanka
+
+For free distribution99
+
+insert a picture <img src>
+
+change the height and width of a image<center><h1> Baby Girl </h1><img src="baby.jpg" width="300" bheight="200">
+
+insert a numbered list <ol>
+
+ICT
+
+ICT
+
+Subject
+
+Subject
+
+Word
+
+ExcelPower PointMathematics
+
+Mathematics
+
+Science
+
+Science
+
+Arts
+
+Arts
+
+1.
+
+1.2.3.4.
+
+2.
+
+a.b.c.
+
+3.4.
+
+For free distribution
+
+100
+
+insert a bulleted list<ul>
+
+link an external web page, website or a file
+
+Office package
+
+MS-WordMS- ExcelMS- Power Point
+
+For mare information Click here
+
+click on the 'click here' to open the internet. html web site. <a href>
+
+<body> office p ackage <br><br> MS-Word <br> MS-Excel <br> MS-Power Point
+
+<br><br> For mare information <a href="internet.html">Click here</a></body>
+
+Activity 3 : See Workbook 7.3
+
+<ul>
+
+<li> word
+
+ICT
+
+Subject
+
+WordExcelPower PointMathematicsScienceArts
+
+Excel
+
+ArtsScienceMathematics
+
+Power Point<li><li>
+
+<li><li><li>
+
+<ul>
+
+< /ul>
+
+< /ul>
+
+<li>lCT
+
+For free distribution101
+
+Let's use the Internet Safely and ethically7.5
+
+Let's use the Internet safely7.5.1
+
+We obtain different advantages by using the internet. However, we mustuse the internet safely and carefully.
+
+Can you explain that to me, brother?
+
+Let's protect ourselves from hacking
+
+Hacking is accessing data and information in a computer or in a computer network without permission.
+
+Actions that can be taken to protect from
+
+hacking
+
+Safeguarding the accounts on the internet by using usernames and passwords.Protect the computer or the mobile phone used to enter the internet by using a username and a passwords.
+
+Protect the files, folders and programmes by using passwords.
+
+Encrypt the hard disk of the computer.
+
+Service used to access internet should be protected by using a username and a password.
+
+Keep back ups of data and information in the computer.
+
+Update the facilities such as antivirus software used for safety.
+
+For free distribution
+
+102
+
+Protection from Virus Attacks
+
+A virus is a type of malware software. (Revise the facts you learnt about malware software in lesson three).
+
+You look unwell, why is that?
+
+A virus has gotten into me. I work with difficulty.
+
+Computer viruses distupt the activities in a computer. When a virus enters a computer, it duplicates the virus inside the computer. It reduces the efficiency of the computer. It also corrupts data and sometimes deletes them.
+
+Actionst that can be taken to protect
+
+from virus attacks
+
+Install antivirus software and update it regularly.
+
+If the internet is used, use safe websites.
+
+Refrain from using black listed websites shown by antivirus software.
+
+Refrain from clicking on pop-up windows.
+
+Refrain from opening suspected emails and attachments.
+
+For free distribution103
+
+Protection from Software Piracy
+
+Amal what is software piracy
+
+That is obtaining pirate copies of software which do not have the right to be copied by the user.
+
+Software Piracy
+
+Software piracy is copying or keeping duplicate copies or selling them without legal permission.
+
+(Here, we have paid our attention to several measures that can be taken when using software)
+
+Measures that
+
+can be taken to protect from
+
+software piracy
+
+Study the licence agreement before installing a software.
+
+When buying a software, purchase them from a trusted company.
+
+If you download a software, use the website of the production.
+
+Obtain the help and advice of a knowledgable person when purchasing, downloading or installing a software.
+
+For free distribution
+
+104
+
+Let's use the Internet ethically7.5.2
+
+Cyber bullying
+
+Cyber bullying is releasing false information which can make a person or an institution uncomfortable and that which can cause harassment and insult.
+
+Ways in which cyber
+
+bullying can be
+
+caused
+
+On websites such as Facebook, Instagram, Snapchat and Twitter.By short messages sent via SMS.
+
+Through instant messages : Applications and social media websites that provide instant message services.By e-mails
+
+Cyber bullying caused by posting insulting photos, making comments on them, uploading videos are categorized under unlawful crimes.
+
+Stealing data which shows the identity of a person
+
+When using the computer we may have to face hazards such as stealing data that indicate the personal identify of a person. If you use the internet, that risk is high.
+
+Examples for data that indicate the identity of a person. Name Address Telephone Brithday
+
+When the internet is used most of these stealings are done by accessing the computer or the tasks done by the user without his or her permission.
+
+Examples for the misuse of data related to personal identity.
+
+Obtain the information related to the computer and the user without permission and use them for frauds.
+
+Misuse the infromation provided when entering websites. e:g: Use for business aims without permission.
+
+For free distribution105
+
+Precaution on Online Security7.5.3
+
+Precaution is important when working online using the internet. Several measures that can be taken are given below and they are already discussed under different topics.Update the antivirus software installed in the computer.
+
+Install the latest edition of the web browsers and update them regularly.
+
+Set the settings as to turn on automatic updates so that new updates of malware software and operating systems (windows 8 and 10) are enabled in the computer.
+
+Use a strong password: A password with at least eight letters should be used. Here it's better to contain simple letters, capital letters, numbers and special characters, ($, *, # ,@) eg: kanDY#4599
+
+Protect the wifi router with a password to provide security to the internet connection.
+
+Be careful about phishing attacks.
+
+Phishing attacks are obtaining information on bank account details and e-mail account details by appearing to be trustworthy and cheating the users. To protect from those, we should refrain from clicking on suspected e-mail messages, pop-up messages and hyperlinks.
+
+Activity 4 : See Workbook 7.4
+
+For free distribution
+
+106
+
+³ The internet is a collection of networks formed by a large number of computer networks. By connecting to the internet, we can expand our knowledge by obtaining information on any subject area, and resources such as photos and videos.
+
+³ Among the services provided by the internet, e-mails, video conferencing, world wide web, file sharing, search engine facilities and downloading videos, songs and photos are the most common.
+
+³ The main service provided by the internet is world wide web. ³ The uniform resource locator is the method used to identify different resources in each web site separately.
+
+³ A web browser is an application software used to make a web site visible on the computer screen.
+
+³ Electronic mail or e-mail is a type of letters sent to a person or several people by a person who has an e-mail address by using the internet.
+
+³ Software with which free e-mails can be created - Gmail, Yahoo Mail, Outlook Mail.
+
+³ An email address is mainly divided into two parts; username and domian name.
+
+³ E-mails can be divided into inbox, sent, draft, trash and spam.
+
+³ HTML (hyper text markup language) is a basic language used to create web pages.
+
+³ To change the font colour and style,< font colour>, and <font face> codes are used. To use a background colour <by colour> code and to insert a picture < img scc> code are mainly used.
+
+Summary
+
+For free distribution107
+
+³ Hacking is stealing information and data in a computer without permission. ³ Viruses duplicate in a computer. The memory time which is used to perform other activities is used for this and therefore the computer becomes slow.
+
+³ Mainly viruses enter a computer through the internet, computer, networks, compact disks and USB drives.
+
+³ Software piracy is obtaining unlawful copies of software which do not have the right to be copied by a user.
+
+³ Cyber bullying is releasing negative and fales information which can cause uncomfort, harassment and insult to a person through social media, forums, computer games using digital tools.
+
+³ Phishing attacks are obtaining information on bank account details and e-mail account details by appearing to be trustworthy and cheating the users.
+
+For free distribution108
+
+For free distribution
+
+109
+
+For free distribution110
+
+For free distribution
+
+111
+
+For free distribution112
+
+For free distribution
+
+113
+
+For free distribution114
+
+For free distribution
+
+115
+
+For free distribution116
+
+For free distribution
+
+117
+
+For free distribution118
+
+For free distribution
+
+119
+
+For free distribution120
+
+For free distribution
+
+121
+
+For free distribution122
+
+For free distribution
+
+123
+
+For free distribution124
+
+For free distribution
+
+125
+
+For free distribution126
+
+fuu mdßNdIsl Yío ud,dj ;jÿrg;a f.dvkef.ñka mj;S'
