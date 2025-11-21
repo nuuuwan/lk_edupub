@@ -1,0 +1,1387 @@
+==== BLOCKS ==== 
+
+Information and Communication
+
+Technology
+
+Workbook
+
+Grade 6
+
+Educational Publications Department
+
+First Print - 2018Second Print - 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0090-9
+
+Published by Educational Publications Department
+
+Printed by Savinda Grapic Systems (Pvt) Ltd,No. 145, UDA Industrial Estate, Katuwana Road, Homagama.
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha Apa Sri Lanka Namo Namo Namo Namo Matha
+
+Sundara siri barinee, surendi athi sobamana Lanka Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya
+
+Apa hata sepa siri setha sadana jeewanaye matha Piliganu mena apa bhakthi pooja Namo Namo Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha Oba we apa vidya Obamaya apa sathya
+
+Oba we apa shakthi Apa hada thula bhakthi
+
+Oba apa aloke Apage anuprane
+
+Oba apa jeevana we Apa mukthiya oba we
+
+Nava jeevana demine, nithina apa pubudukaran matha Gnana veerya vadawamina regena yanu mana jaya bhoomi kara
+
+Eka mavakage daru kela bevina Yamu yamu vee nopama
+
+Prema vada sema bheda durerada Namo, Namo Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+J¸ uõ´ ©UPÒ |õ©õ÷Áõ®Jß÷Ó |õ® ÁõÊ® CÀ»®|ß÷Ó Eh¼À Kk®Jß÷Ó |® S¸v {Ó®
+
+AuÚõÀ \÷Põuµº |õ©õ÷Áõ®JßÓõ´ ÁõÊ® ÁÍ¸® |õ®|ßÓõ´ CÆ CÀ¼Û÷» |»÷© ÁõÌuÀ ÷Ásk©ß÷Óõ
+
+¯õÁ¸® Aß¦ P¸øn²hß JØÖø© ]ÓUP ÁõÌ¢vkuÀ ö£õßÝ® ©o²® •zx©À» & Ax÷Á ¯õßÖ ©È¯õa ö\ÀÁ©ß÷Óõ.
+
+BÚ¢u \©µU÷Põß PÂøu°ß ö£¯º¨¦.
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along
+
+with the economic, social, cultural and technological development. The learning and teaching
+
+process too is changing in relation to human experiences, technological differences, research
+
+and new indices. Therefore, it is required to produce the textbook by including subject related
+
+information according to the objectives in the syllabus in order to maintain the teaching
+
+process by organizing learning experiences that suit to the learner needs. The textbook is not
+
+merely a learning tool for the learner. It is a blessing that contributes to obtain a higher
+
+education along with a development of conduct and attitudes, to develop values and to obtain
+
+learning experiences.
+
+The government in its realization of the concept of free education has offered you all the
+
+textbooks from grades 1-11. I would like to remind you that you should make the maximum
+
+use of these textbooks and protect them well. I sincerely hope that this textbook would assist
+
+you to obtain the expertise to become a virtuous citizen with a complete personality who
+
+would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as
+
+well as on the staff of the Educational Publications Department who have strived to offer this
+
+textbook to you.
+
+W. M. Jayantha Wickramanayaka,
+
+Commissioner General of Educational Publications,
+
+Educational Publications Department,
+
+Isurupaya,
+
+Battaramulla.
+
+2019.04.10
+
+Monitoring and Supervision W.M. Jayantha Wickramanayaka - Commissioner General of Educational Publications
+
+Educational Publications DepartmentDirection W.A. Nirmala Piyaseeli - Commissioner of Educational Publications (Development)
+
+Educational Publications Department Co-ordination H.A.I.P. Upathissa - Assistant Commissioner
+
+Educational Publications Department Board of Editors
+
+Dr. Prasad Wimalarathna - Head,
+
+Faculty of Communication & Media Technology
+
+University of Colombo School of Computing
+
+Dr. V.G.N. Vidanagama - Senior Lecturer,
+
+University of Wayamba
+
+Dr. Senaka Amarakeerthi - Senior Lecturer,
+
+University of Sri Jayawardenapura
+
+W.W.M.D.C.B. Piyasiri - Instructor,
+
+Technical College, Hasalaka
+
+S. Shanmugalingam - Senior Lecturer,
+
+National Institute of Education
+
+H.A.I.P. Upathissa - Assistant Commissioner
+
+Educational Publications Department
+
+E.N. Boralugoda - Assistant Commissioner
+
+Educational Publications Department
+
+Board of Writers
+
+Oshani Rodrigo - Teacher, Chi/ Madagama Abhaya Maha Vidyalaya
+
+Panirendawa
+
+Subhani Ranathunga - Teacher, WP/WTH/ Hurikaduwa Balika Vidyalaya
+
+Menikhinna
+
+Sanjeewani Daluwaththa - Teacher, President College Maharagama
+
+E.M.Kusum Udayakanthi - Teacher WP/Ke/ Sri Dharmaloka Maha Vidyalaya
+
+Kelaniya
+
+S.M.D.T. Singhabahu - Teacher
+
+Chi/ St. Sebastian Central College
+
+Katuneriya.
+
+L.G.I. Priyadarshani - Teacher
+
+CP/ Hoorikaduwa Balika Vidyalaya
+
+Kandy
+
+H.A.I.P. Upathissa - Assistant Commissioner
+
+Educational Publications Department
+
+N. Vagisamurthi - Director of Education
+
+(Retired)
+
+T. Mathiwadanan - In Service Advicer
+
+Piliyandala
+
+A.M. Vaseer - Center Manager
+
+Zonal Computer Resource Center
+
+Kahagolla
+
+M.F.M. Jarjoon - Assistant Director of Education
+
+Ministry of Education
+
+Language Editing
+
+W. Indumini Darshika - Assistant Commissioner
+
+Educational Publications Department
+
+Cover Page
+
+Chaminda Hapuarachchi - Computer Assistant
+
+Educational Publications Department
+
+Technical Assistance
+
+Chaminda Hapuarachchi - Computer Assistant
+
+Educational Publications Department
+
+Content
+
+Importance of Computers
+
+Let's use the Computer Laboratory Safely
+
+Operating System and File Management
+
+Using Mouse and Keyboard to use Application Software
+
+Algorithm and Flow Charts
+
+Using the Internet for collecting Information and Communication
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+
+9
+
+18
+
+28
+
+46
+
+52
+
+1For free distribution
+
+Importance of Computers1
+
+Activity 1.1
+
+1. complete the following diagram which shows basic functions of
+
+computer.
+
+2. Select the correct answer and write the relevant English
+
+alphabetical letter in the space given.
+
+i.What is known as input in a computer ?
+
+......................................................................................................ii. What is known as output in a computer ?
+
+......................................................................................................iii. What is known as storage in a computer ?
+
+......................................................................................................
+
+A). Any method which is used to send out data processed by the
+
+computer system
+
+B). Any method which is used to feed data into a computer system
+
+C). A method which can be used to store data
+
+A
+
+A - .............................B - .............................C - .............................
+
+BC
+
+2For free distribution
+
+Input
+
+Entering data into the computer is known as input and the devices which are used for that purpose are known as input device as or input methods
+
+Process
+
+The procedure of executing data in a computer according to the instructions is known as process
+
+Output
+
+Output is sending out processed data and devices used for this purpose are known as output devices or output methods
+
+Activity 1.2
+
+1.Write three examples for input devices
+
+•.........................................................•.........................................................•.........................................................
+
+2.Write three examples for output devices.
+
+•.........................................................•.........................................................•.........................................................
+
+3For free distribution
+
+3.Identify storage devices in the picture.
+
+A - '''''''''''''''''''''''''''''''''''''''''''''''''' B - ''''''''''''''''''''''''''''''''''''''''''''''''''C - ''''''''''''''''''''''''''''''''''''''''''''''''''D - ''''''''''''''''''''''''''''''''''''''''''''''''''
+
+E - ''''''''''''''''''''''''''''''''''''''''''''''''''
+
+4. Name the devices shown below.
+
+4For free distribution
+
+5. Categorise the devices correctly and write in the following grid.
+
+InputOutputOther
+
+6. Prepare a list of devices which can be seen in a school computer
+
+laboratory in addition to the above devices.
+
+•.................................................
+
+•.................................................
+
+•.................................................
+
+•.................................................
+
+•.................................................
+
+7. Enter the list of the items you've prepared.
+
+InputOutputOther
+
+5For free distribution
+
+in day to day life
+
+•.........................................................
+
+•.........................................................
+
+•.........................................................
+
+•.........................................................
+
+•.........................................................
+
+9. Mention three advantages of using embedded computer devices
+
+•.........................................................................................
+
+•.........................................................................................
+
+•.........................................................................................
+
+6For free distribution
+
+Activity 1.3
+
+1. Describe a computer software.
+
+•.........................................................................................•.........................................................................................
+
+•.........................................................................................
+
+2. Which of the following is a software?
+
+a. Monitorb. Operating systemc. Moused. Printer
+
+•.........................................................................................•.........................................................................................•.........................................................................................
+
+•.........................................................................................•.........................................................................................
+
+4. What is a computer hardware?
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+5. Which of the following is an example for computer hardware?
+
+a. Monitorb. Operating systemc. Web browserd. Data
+
+7For free distribution
+
+•............................................................................
+
+•............................................................................
+
+•............................................................................
+
+•............................................................................
+
+•............................................................................
+
+7. Write three examples for occasions where the computer is used in
+
+day to day activities.
+
+•...............................................................................................
+
+•...............................................................................................
+
+•...............................................................................................
+
+8. Explain two ways in which the computer can be used for
+
+agriculture ?
+
+01' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+8For free distribution
+
+Activity 1.4
+
+These activities should be organized with the assistance of the teacher.
+
+1.Divide the students into three groups. Prepare three cards as given below. Randomly distribute one to each group.
+
+List the input devices and output devices that are related to thetype of computer you have on the card. Then compare the resultsof each group and verify the accuracy with the teacher.
+
+2. Prepare a poster on the topic of the ''computer in day to day life".
+
+9For free distribution
+
+Activity 2.1
+
+01' Identify the following devices and see whether they are located
+
+in your computer laboratory (put a tick in front of the devices that are in your computer laboratory)
+
+In addition to the above, mention other devices that should be installed in a school computer laboratory
+
+•.................................................
+
+•.................................................
+
+•.................................................
+
+•.................................................
+
+2Let’s use the Computer Laboratory Safely
+
+10For free distribution
+
+02. Say if it is correct or wrong to do this following actions in a
+
+computer laboratory by marking ( ) or ( ).
+
+1) Keeping the equipment in proper order after use ^ &2) Try to put your pen in to all the ports ^ &3) Playing by rotating chairs ^ &
+
+teacher ^ &5) Entering the lab after keeping water bottles and removing shoes outside ^ &
+
+without any virus scan ^ &7) Supply electricity to the multimedia projector without the knowledge of teacher ^ &8) Dusting the keyboard ^ &
+
+03. Set up a notice board to display safety measures you can follow
+
+in a computer laboratory. (Draw a sketch of that board in your
+
+11For free distribution
+
+Activity 2.2
+
+01. Number the following pictures as 1 2 3 4 to show the sequential
+
+order of turning on a computer correctly. Write each action in words.
+
+'''''''''''''''''''''''''' '''''''''''''''''''''''''''''' '''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''' '''''''''''''''''''''''''''' '''''''''''''''''''''''''''''Now operate the computer in front of you correctly. (For that, follow
+
+02. Write the correct sequential order of shutting down a computer.
+
+Switching off the UPS A....................... Turn off the monitor B........................ Leaving from running programmes C........................ Select the command of shut downD........................ Turn off the wall switch E........................
+
+03. Discuss in your group about the damages caused to the computer
+
+by not shutting down the computer properly. List out some of the
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+12For free distribution
+
+Activity 2.4
+
+01. Observe the following image carefully.
+
+i. What's wrong with the boy’s posture in this picture? '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Activity 2.3
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. Write a list of computer ethics to put on your school Information
+
+13For free distribution
+
+ii.Several problems that could be caused by not working in the computer with a correct posture are given below. What measures should be taken to prevent them?
+
+Pain in the eye
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Pain along the hand from the shoulder
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Frequent pain in backbone
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Wrist pain
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+14For free distribution
+
+Activity 2.6
+
+01. Have a discussion about an instance where you reused electric
+
+in your book.
+
+Activity 2.5
+
+1' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''2' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''3' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''4' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''5' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Write the method of managing the above waste according to the
+
+3R system.''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+15For free distribution
+
+02. Write an instance where you reused an electronic waste in your
+
+school.''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. Name some of the materials that you sent for recycling?
+
+at school at home
+
+'''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''''''''''''''''''
+
+04. Write down names of several institutions that collect electronic
+
+waste for recycling.
+
+1' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+2' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+3' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+4' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+5' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+16For free distribution
+
+Activity 2.7
+
+password.''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Write three facts to be considered when setting a password?
+
+²'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''²'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''²'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. Mention two features of a strong password.
+
+²'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''²'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+²'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''²'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''²'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''²'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''²'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+17For free distribution
+
+05. Say whether the following passwords are strong or not. Put ^& if it is strong and put ^& if it is weak.
+
+school123
+
+Nam2005ab#
+
+claSS@21
+
+amara abc
+
+18For free distribution
+
+Operating system and File management3
+
+Activity 3.1
+
+01. The following image is a model of a computer screen.
+
+A - iconsB - desktopC - start menuD - quick launch barE- task bar
+
+(With the help of your teacher, open an operating system and identify the components of a computer screen.)
+
+A desktop home screen with Microsoft Windows 10 operating system
+
+A desktop home screen with Ubuntu operating system
+
+A - iconsB - desktopC - start menuD - quick launch barE- task bar
+
+19For free distribution
+
+2. The column A contains trademarks of some operating systems.
+
+Match those trademarks with the correct name in the column B.
+
+Linux
+
+Apple
+
+Android
+
+Ubuntu
+
+Windows
+
+AB
+
+Activity 3.2
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+20For free distribution
+
+2. Select a computer in your computer laboratory and write the names
+
+i. ............................................................................................ ii. ............................................................................................ iii. ............................................................................................ iv. ............................................................................................ v. ............................................................................................ vi. ............................................................................................vii. ............................................................................................ viii. ............................................................................................ ix. ............................................................................................ x. ............................................................................................
+
+listed out in question 2.
+
+extension
+
+type of software
+
+name of the
+
+softwareGrade6Adocxword processing
+
+software
+
+MS Word
+
+ex : Grade6A.docx
+
+ex:
+
+21For free distribution
+
+Activity 3.3
+
+1. Let’s draw a picture using the computer.
+
+Given below is how the MS Paint software is used in a computer with windows 10 operating system. According to operating system used, these steps could vary slightly
+
+2. Tools used to draw a picture according to the software
+
+a. Click the START
+
+buttonb. Select All Programmesc. Click on Accessoriesd. Select Paint and double click it then a working screen similar to the following will be opened
+
+01. paint buttons02. quick access toolbar03. ribbon04. drawing area
+
+0103
+
+02
+
+04
+
+22For free distribution
+
+iconsdetails
+
+Can start a text or a picture that is drawn
+
+Can select and cut the required portion of a picture or a text
+
+Can enlarge or reduce the picture that is drawn or text
+
+Can rotate the picture to a necessary direction
+
+pencil
+
+Can draw a picture like drawing by a pencil
+
+paint basket
+
+text tool
+
+Can insert necessary text
+
+eraser tool
+
+Can erase writings and drawings
+
+brush tool
+
+Can draw with Brushes of various Sizes
+
+23For free distribution
+
+4. Use of different shapes
+
+icondetails
+
+line tool
+
+can be used to draw straight lines
+
+curve tool
+
+Closed images that are available in addition to the above are brown as ready-made shapes
+
+oval
+
+rectangle
+
+roundedrectangle
+
+triangle
+
+righttriangle
+
+diamond
+
+pentagon
+
+hexagon
+
+arrows
+
+star
+
+callouts
+
+heart
+
+lightningbolt
+
+24For free distribution
+
+Activity 3.4
+
+1. Open a graphic software with the help of your teacher and draw a
+
+picture. Type your name and the school in the picture.
+
+MS PaintTux Paint
+
+i. ............................................................................................ ii. ............................................................................................ iii. ............................................................................................
+
+Activity 3.5
+
+Select
+
+File location
+
+25For free distribution
+
+2. Give the command ‘copy’ to be copied. Click the right mouse button for that. At the same time the short cut of Ctrl+C can be used on the keyboard.
+
+26For free distribution
+
+3. Select a location to be copied and give ‘Paste’ command. At the same time the short cut of Ctrl+V can be used on the keyboard.
+
+2. Use the ‘cut’ command or
+
+icon to cut. (At the same time the short cut of Ctrl+X can be used on the keyboard.)3. Follow the procedure of pasting shown earlier.
+
+button shown on the top
+
+alternatively.
+
+27For free distribution
+
+5. Maximize a window :
+
+shown on the
+
+6. Minimize a window :
+
+shown on the
+
+table.
+
+ActivityGiving commandShort cut keys Other method
+
+File open
+
+28For free distribution
+
+Activity 4.1
+
+01. Describe application software ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Find out the type of software that is appropriate for each task given
+
+below. Word processing software, search engine, web browser, spreadsheet software, graphic software
+
+² Prepare documents - ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² Finding information on the internet - ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² Drawing picture - ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² Preparation of budget reports - ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ² Preparation of invitation cards - '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. Prepare a list of ten tasks you can perform using the computer. (In
+
+addition to the example in the above question 2)
+
+² ............................................................................ ² ............................................................................ ² ............................................................................ ² ............................................................................ ² ............................................................................ ² ........................................................................... ² ........................................................................... ² ........................................................................... ² ........................................................................... ² ............................................................................
+
+Using Mouse and Keyboard to use Application Software 4
+
+29For free distribution
+
+04. List ve instances where special purpose software is used.
+
+²...........................................................................
+
+² ...........................................................................
+
+² ...........................................................................² ...........................................................................
+
+² ...........................................................................
+
+Activity 4.2
+
+01. The following screenshots show how the mouse appears on a computer screen on different occasions. Describe when each mouse pointer appears on screen
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Name the parts of the picture given below.
+
+A - ...................................... B - ...................................... C - ......................................
+
+pointer appears on sc
+
+''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''
+
+30For free distribution
+
+Activity 4.3
+
+01. Types of keys that can be seen on a keyboard are illustrated here.
+
+Write three examples for each type of keys.
+
+A
+
+ED
+
+C
+
+B
+
+A - (i) .................................................................. (ii) .................................................................. (iii) ..................................................................
+
+B - (i) .................................................................. (ii) .................................................................. (iii) ..................................................................
+
+C - (i) .................................................................. (ii) .................................................................. (iii) ..................................................................
+
+D - (i) .................................................................. (ii) .................................................................. (iii) ..................................................................
+
+31For free distribution
+
+E - (i) .................................................................. (ii) .................................................................. (iii) ..................................................................
+
+02. Write down the tasks performed by the following keys.
+
+1' - .............................................................................
+
+2' - .............................................................................
+
+3' - .............................................................................
+
+4' - .............................................................................
+
+5' - .............................................................................
+
+Activity 4.4
+
+01. Mention three difculties and complexities which can arise when
+
+the mouse is not properly used.
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''02. Mention three difculties and complexities which can arise when
+
+the keyboard is not properly used.
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+32For free distribution
+
+03. Write ve examples for graphic software.
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+04. Write ve examples for word processing software.
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+² '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Activity 4.5
+
+01. Get the teacher¶s assistance since the steps for the following activity
+
+may differ according to your version of operating system installed in your computer. Let¶s draw a picture of a clear blue sky with the sun using MS Paint software.
+
+33For free distribution
+
+Use the blank drawing area to draw.
+
+Step 1
+
+Take the mouse pointer to shapes and click the left mouse button on the circle shape. (selecting the circle shape is shown below)
+
+Step 2
+
+Take the mouse pointer to the drawing area and drag the mouse by clicking the left mouse button. Then a circle shape will be drawn in the drawing area.
+
+34For free distribution
+
+Step 3
+
+To select the pencil, click the left mouse button on the pencil symbol. When you take the mouse pointer to the drawing area, the arrow head will change to a pencil.
+
+Now, to draw small lines around the circle, click the left mouse button and drag in necessary directions. In case of errors, click the left mouse button on the eraser icon, and erase casually as you use a real eraser.
+
+35For free distribution
+
+Step 4
+
+Again draw two small circles for eyes and cheeks inside the circle using the mouse pointer by selecting the circle shape.
+
+Again draw a suitable shape for the mouth by selecting the pencil icon.
+
+Step 5
+
+Select black colour in the paint basket to colour the eyes.
+
+36For free distribution
+
+Then, take the mouse pointer on the eyes and click the left mouse button. Click left mouse button on red colour, take the mouse pointer on the face and click the left button.
+
+Click the left mouse button on the white background by selecting the blue colour to draw the blue sky.
+
+Follow the Following steps to store your picture in the computer.
+
+Step 1
+
+Go to the le menu and select Save.
+
+37For free distribution
+
+Step 2
+
+Select a suitable location for storage.
+
+Step 3
+
+Choose an appropriate name and click µsave¶.
+
+Let¶s use the Tux Paint software
+
+We can create different coloured shapes and designs as shown above by using the Tux Paint software too.
+
+38For free distribution
+
+A screen as shown below will appear when we use Tux Paint software. Beautiful creations like we did earlier can be made by using tools, brushes and colours in this software too.
+
+01. Let¶s use the MS Word application a. Click
+
+b. Select All Programmes c. Click on MS Ofce d. Select MS Word
+
+Now you will see a screen as shown below.
+
+Activity 4.6
+
+39For free distribution
+
+Identify the characters shown on the screen by pressing various keys on the keyboard. To type capital or simple letters, use CAPS LOCK key or type with shift key. Get your teacher¶s assistance for that. Now let¶s type numbers (1 2 3 4 5 6 7 8 9 10) using that software.
+
+Press number 1 key on the keyboard to type number 1. Number 1
+
+Use the space bar key to keep a distance between 1 and 2.
+
+1 (space bar) 2 Now, 1 and 2 are typed as 1 2 Then type the remaining numbers. Now you will see 1 2 3 4 5 6 7 8 9 10 Press the Enter key to go to the next line.
+
+40For free distribution
+
+Use letters on the keyboard to type characters.
+
+To type capital letters user the Caps Lock key
+
+Let¶s type the word µcomputer¶. When you type after pressing the Caps Lock key you will get COMPUTER and if you press the same key again, you can type as µcomputer¶.
+
+To type only one letter in capital, press the shift key with that letter key Now on your screen, you will see as follows; 1 2 3 4 5 6 7 8 9 10 Computer
+
+Now let¶s store the document you prepared in the computer. For that, follow the steps given below
+
+41For free distribution
+
+Step 1
+
+Go to the le menu and select save.
+
+Step 3
+
+Let¶s select a suitable location to store.
+
+42For free distribution
+
+Step 3
+
+Let¶s save by giving a suitable name.
+
+02. Let¶s use the LibreOfce Writer software.
+
+1. Click
+
+2. Select All Programmes. 3. Select LibreOfce Writer.
+
+You will get the screen as shown below
+
+We can type our documents using LibreOfce Writer software same as word processing software that we studied earlier. At the same time, type characters and numbers shown in the activity by using previous knowledge you got and store it in the computer.
+
+43For free distribution
+
+01. Explain what is meant by an audio ± tape?
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Write ve examples for audio editing software
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. Explain what is meant by a video - tape '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Activity 4.7
+
+44For free distribution
+
+01. Write ve ethics that should be followed when recording and editing
+
+audio and video tapes
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02' Take the assistance of the teacher for this activity. Twinkle, twinkle, little star, How I wonder what you are. Up above the world so high, Like a diamond in the sky. Propose a suitable software to record the singing of the above poem
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Write the step clearly from beginning that software recording and saving it ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' If you have facilities in your school, sing that verse, record it and practice
+
+Activity 4. 8
+
+04. Write ve example for video ± editing software
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+45For free distribution
+
+03. With the assistance of the teacher, divide the class in to two groups.
+
+Prepare a short drama of three minutes to explain the advantages of using application software
+
+If you can have facilities in school, record the two short dramas prepared by the two groups, give a suitable name and store in the computer
+
+46For free distribution
+
+Algorithm and Flowcharts 5
+
+Activity 5.1
+
+01. What are the three main components of a 'problem'?
+
+A - ..............................................................B - ..............................................................C - ..............................................................
+
+Explain them briefly.
+
+A - ...............................................................................................................
+
+...............................................................................................................
+
+B - ...............................................................................................................
+
+...............................................................................................................
+
+C - ...............................................................................................................
+
+...............................................................................................................
+
+02. Write the input, process and output to find the perimeter of a
+
+rectangle.
+
+Input- '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Process- '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Output- '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+47For free distribution
+
+03. Given below are the steps related to making a cup of tea by a grade
+
+6 student. select the steps related to input, process and output.
+
+Write the relevant English alphabetical letter against input, process and output
+
+A. Take water, tea leaves, sugar and milk powder B. Boil water C. Add tea leaves to boil waterD. Mix milk powder and sugarE. Add plain tea to the above mixture F. Prepare the cup of tea mixing all
+
+Input- '''''''''''''''''''''''''''''''''''''
+
+Process- '''''''''''''''''''''''''''''''''''''
+
+Output- '''''''''''''''''''''''''''''''''''''
+
+Activity 5.2
+
+01. What is algorithm? Explain it briefly.
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Write suitable algorithm to find the perimeter of rectangle which
+
+is mentioned in question 2 of activity 5.1.
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+48For free distribution
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+03. Write suitable algorithm for preparing tea which is mentioned in
+
+question 3 of activity 5.1
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+Activity 5.3
+
+01. What is a flowchart? Explain it briefly.
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+49For free distribution
+
+02. Fill the gaps in the table.
+
+NameSymbolUsage01 Start/ endShowing Start and End of flowchart
+
+02 Input/output
+
+''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''
+
+03
+
+''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''
+
+To show the steps of the procedure
+
+04
+
+''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''
+
+To show making decision
+
+05 Flow linesTo show the flow of instructions
+
+50For free distribution
+
+Activity 5.4
+
+01. Draw flowcharts for question 02 and 03 of activity 5.2
+
+Part 02
+
+51For free distribution
+
+Part 03
+
+52For free distribution
+
+Using the Internet for collecting Information and Communication6
+
+Activity 6.1
+
+01. Explain what is meant by Internet.
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+02. Explain what do you mean by web browser and search engine.
+
+a. Web browser''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+b.Search engine''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+53For free distribution
+
+Google Search engine and type ‘education websites’ and look
+
+.................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+05. Imagine that you need to look up information about mammals
+
+Prepare a list of keywords you use for that.
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+54For free distribution
+
+Activity 6.2
+
+assistance of your teacher.)
+
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+ServiceInstances of threatsWays of safeguardingi) .......................
+
+.......................
+
+.......................
+
+ii) .....................
+
+.......................
+
+.......................
+
+iii) ....................
+
+.......................
+
+.......................

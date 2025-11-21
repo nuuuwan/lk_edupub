@@ -1,0 +1,2311 @@
+==== BLOCKS ==== 
+
+Information & Communication
+
+Technology
+
+Reading Book
+
+Grade 6
+
+Educational Publications Department
+
+First Print - 2018Second Print - 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0088-6
+
+Published by Educational Publications Department
+
+Printed by: Karunaratne & Sons (Pvt) Ltd.65 C, Thalgahavila Road, Midellamulahena, Horana.
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha Sundara siri barinee, surendi athi sobamana Lanka
+
+Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye matha
+
+Piliganu mena apa bhakthi pooja Namo Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha
+
+Oba we apa vidya Obamaya apa sathya Oba we apa shakthi
+
+Apa hada thula bhakthi Oba apa aloke
+
+Apage anuprane Oba apa jeevana we
+
+Apa mukthiya oba we Nava jeevana demine, nithina apa pubudukaran matha
+
+Gnana veerya vadawamina regena yanu mana jaya bhoomi kara Eka mavakage daru kela bevina
+
+Yamu yamu vee nopama Prema vada sema bheda durerada
+
+Namo, Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+xu jha; kf;fs; ehkhNthk;xd;Nw ehk; thOk; ,y;yk;ed;Nw clypy; XLk;xd;Nw ek; FUjp epwk;
+
+mjdhy; rNfhjuu; ehkhNthk;xd;wha; thOk; tsUk; ehk; ed;wha; ,t; ,y;ypdpNyeyNk tho;jy; Ntz;Lkd;Nwh
+
+ahtUk; md;G fUizAld;xw;Wik rpwf;f tho;e;jpLjy;nghd;Dk; kzpAk; Kj;Jky;y - mJNtahd;W kopahr; nry;tkd;Nwh.
+
+Mde;j rkuf;Nfhd; ftpijapd; ngau;g;G.
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you all the textbooks from grades 1-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha Wickramanayaka,Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+Monitoring and SupervisionW. M. Jayantha Wickramanayaka - Commissioner General of Educational Publications
+
+Educational Publications DepartmentDirection W. A. Nirmala Piyaseeli- Commissioner of Educational Publications (Development)
+
+Educational Publications Department Co-ordinationH. A. I. P. Upathissa - Assistant Commissioner
+
+Educational Publications Department Board of Editors
+
+Dr. Prasad Wimalarathna - Head,
+
+Faculty of Communication & Media Technology
+
+University of Colombo School of Computing
+
+Dr. V. G. N. Vidanagama - Senior Lecturer,
+
+University of Wayamba
+
+Dr. Senaka Amarakeerthi - Senior Lecturer,
+
+University of Sri Jayawardenapura
+
+W. W. M. D. C. B. Piyasiri - Instructor,
+
+Technical College, Hasalaka
+
+S. Shanmugalingam - Senior Lecturer,
+
+National Institute of Education
+
+H. A. I. P. Upathissa - Assistant Commissioner
+
+Educational Publications Department
+
+E. N. Boralugoda - Assistant Commissioner
+
+Educational Publications Department
+
+Board of Writers
+
+S. N. O. Rodrigo - Teacher, Chi/ Madagama Abhaya Maha Vidyalaya
+
+Panirendawa
+
+R. M. S. K. Ranathunga - Teacher, CP/ Hoorikaduwa Balika Vidyalaya
+
+Menikhinna
+
+Sanjeewani Daluwaththa - Teacher, President's College Maharagama
+
+E. M. Kusum Udayakanthi - Teacher WP/Ke/ Sri Dharmaloka Maha Vidyalaya
+
+Kelaniya
+
+S. M. D. T. Singhabahu - Teacher
+
+Chi/St. Sebastian Central College
+
+Katuneriya
+
+L. G. I. Priyadarshani - Teacher
+
+Vidyartha Balika Vidyalaya
+
+Kandy
+
+H. A. I. P. Upathissa - Assistant Commissioner
+
+Educational Publications Department
+
+N. Vagisamurthi- Director of Education
+
+(Retired)
+
+T. Mathiwadanan - In Service Advicer
+
+Piliyandala
+
+A. M. Vaseer- Center Manager
+
+Zonal Computer Resource Center
+
+Kahagolla
+
+M. F. M. Jarjoon - Assistant Director of Education
+
+Ministry of Education
+
+Language Editing
+
+W. Indumini Darshika - Assistant Commissioner Educational Publications DepartmentD. R. N. K. Gamage - Assistant Commissioner
+
+Department of Examinations
+
+Illustrations
+
+Lalith Gunathilake -WP/Jaya/ Vidyakara Balika Vidyalaya
+
+Maharagama
+
+Cover Page
+
+C. Hapuarachchi - Computer Assistant
+
+Educational Publications Department
+
+Technical Assistance
+
+B. T. Chathurani Perera - Computer Assistant
+
+Educational Publications Department
+
+J. H. Manorika Priyangani - Computer Assistant
+
+Educational Publications Department
+
+Index
+
+Importance of Computers
+
+Use the Computer Laboratory Safely
+
+Operating System and File Management
+
+Using Mouse and Keyboard to use Application Software
+
+Algorithm & Flow Charts
+
+Using the Internet for collecting Information and Communication
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+1
+
+14
+
+27
+
+41
+
+55
+
+64
+
+We would be grateful if you could send your suggestions and comments on the content of the grade 6 - 11 Information and Communication Technology textbooks and on the development of the creativity of the students tofeedbackicttextbook@gmail.com
+
+Editorial Board
+
+1For free distribution
+
+Importance of Computers 1
+
+Let's get to know the Computer1.1
+
+My name is Computer. Dear kids, would you like to get to
+
+know about me? I am your friend who is coming closer to your day to day life.
+
+schools etc.
+
+accurately with my help. At the same time I don't get tired as you. I can perform tasks for a long time with
+
+the same speed.
+
+Functions of a Computer1.1.1
+
+The basic functions of a computer are entering data, processing them and producing processed data (information).
+
+InputProcessOutput
+
+Figure 1.1 - Basic Functions of a Computer
+
+2For free distribution
+
+InputOutput
+
+Data & Instructions
+
+Process Data
+
+Information
+
+Activity 1 - See 1.1 in the Workbook.
+
+1.1.2
+
+(It can perform billions of tasks in a second.)
+
+It can provide correct information when correct instructions and data are given.
+
+You can rely on the process and the output.
+
+It produces consistent output when the same input is given.
+
+3For free distribution
+
+It can store a large amount of
+
+data. It can obtain them at any given time for any process.
+
+It can act according to the given instructions. But it cannot take decisions on its own like a human being.
+
+Though the initial cost is high, the maintenance cost is not so.
+
+Devices with Embedded Computers1.1.3
+
+Grandpa, do you know? There is a washing machine at Amal's
+
+house. When we put clothes into it, it automatically washes
+
+and dries them.
+
+It works with the help of a
+
+computer programme.
+
+How is that, son?
+
+4For free distribution
+
+Equipment like washing machines, mobile phones, modern motor vehicles and modern televisions are operated by computer programmes. Computer programmes included in such equipment are known as Embedded Computer Systems.
+
+Smart Phones Washing Machines Modern Cars Smart Televisions
+
+Figure 1.2 - Some Devices with Embedded Computers
+
+Figure 1.3 - Components of a Computer
+
+Internet RouterKeyboard
+
+Speaker
+
+Display
+
+System Unit
+
+Mouse
+
+Let's identify the Components of a Computer1.2
+
+5For free distribution
+
+A computer is a unit which consists of many parts. We can categorise those parts into components according to the nature of the functions they do. ² Input Devices ² Output Devices ² Central Processing Unit ² Main Memory ² Storage Devices² Communication Devices
+
+² Input Devices
+
+The devices which are used to enter data and instructions to computers are called input devices.
+
+Scanner
+
+Microphone
+
+Web Camera Barcode Reader
+
+Keyboard
+
+Mouse
+
+Figure 1.4 - Some Input Devices² Output DevicesThe devices which are used to retrieve the data and information are called output devices.
+
+Computer MonitorPrinterSpeakerMultimedia Projector
+
+Figure 1.5 - Some Output Devices
+
+6For free distribution
+
+² Central Processing Unit (CPU)
+
+Controlling the computer and processing data according to the given instructions are done by the Central Processing Unit.
+
+The Central Processing Unit is located inside the system unit. It cannot be seen from outside.
+
+System Unit Mother Board Central Processing Unit
+
+Figure 1.6 - Location of the Central Processing Unit
+
+² Main Memory
+
+The device which is used to store data, information and instructions
+
+is also called the Random Access Memory (RAM).
+
+Figure 1.7 - Random Access Memory -RAM
+
+7For free distribution
+
+² Storage Devices
+
+The devices which are used to store data, information and instructions are called storage devices.
+
+Internal StorageExternal Storage
+
+Storage
+
+Internal Hard Disk
+
+CD DVD Blue Ray
+
+External Hard disk
+
+Pen Drive
+
+Figure 1.8 - Some Storage Devices
+
+² Communication Devices
+
+The devices which are used to exchange the processed data and information are called communication devices.
+
+Network Interface Card
+
+(NIC)
+
+Modem Router
+
+Figure 1.9 - Wired/Wireless Communication Devices
+
+8For free distribution
+
+Importance of Software1.3
+
+Activity 2 - See 1.2 in the Workbook.
+
+Hey, what do you mean by Software and
+
+Hardware?
+
+Then who is a user?
+
+The person who operates me is called a
+
+'user'.
+
+All the things that you can touch in me are called
+
+hardware.
+
+Things that cannot be touched such as programmes with data
+
+and instructions are called
+
+software.
+
+A user can do different tasks by using software.There are various types
+
+A software is a set of programmes designed to execute certain tasks by using a computer.
+
+9For free distribution
+
+MS WordWord Processing software to prepare
+
+documents
+
+Computer
+
+Games
+
+software
+
+Paintingsoftware to draw
+
+pictures
+
+to listen to
+
+songs and watch videos
+
+Media Player
+
+Video editing
+
+Figure 1.10 - Some Examples for Software
+
+You can study more about software in the forthcoming chapters.
+
+Application of Computers in Various Sectors1.4
+
+Activities in all sectors have become easy by the use of computers. Several examples for such sectors are given below.
+
+Banks
+
+Agriculture
+
+Schools
+
+Factories
+
+Hospitals
+
+Figure 1.11 - Various Sectors that use Computers
+
+10For free distribution
+
+Schools1.4.1
+
+Today, we learnt the History
+
+lesson in a new way. All the children in the class learned
+
+attentively.
+
+How was that?
+
+Today we learnt using computers.
+
+Buddy, you know, a lot of
+
+work can be done using
+
+computers in school.
+
+Figure 1.13 - Computer enabled
+
+Learning Situation
+
+Figure 1.12 - Working in the school
+
+Computers simplify work and bring
+
+school system.
+
+Computers are used instead of blackboard and books in the learning process.
+
+11For free distribution
+
+Figure 1.14 - Getting knowledge from the internet
+
+Obtain additional knowledge related to subjects by accessing the internet.
+
+Banking1.4.2
+
+Computer has become an essential tool in the banking activities.
+
+Figure 1.17 - Internet
+
+Banking
+
+Use of Automated Teller Machine (ATM) to deposit and withdraw money.
+
+Using electronic cards to settle bills when purchasing goods.
+
+Internet banking and mobile banking arelatest trends in the banking system.
+
+Figure 1.15 - An ATM
+
+machine
+
+Figure 1.16 - Paying bills by electronic cards
+
+12For free distribution
+
+Hospitals1.4.3
+
+There are many examples of using computer systems in hospitals.
+
+Figure 1.19 - Use of computers and computer embedded devices in ICU
+
+Figure 1.18 - Thermometer
+
+Figure 1.20 - Use of computers and computer embedded devices in an operation theatre
+
+Digital thermometer is an embedded computer device which can be used at home.
+
+Use of computer and embedded computer devices in Intensive Care Unit (ICU).
+
+Use of computers and computer embedded devices in an operation theatre.
+
+Factories1.4.4
+
+Figure 1.21 - Use of Robotic Technology
+
+² Human labour is replaced by computer
+
+devices. As a result, production can be increased.
+
+² The use of robotic technology is a
+
+latest improvement in industrial work. Activities in industrial sector have become easier by that.
+
+13For free distribution
+
+Agriculture1.4.5
+
+Figure 1.22 - Supplying Water and Fertilizer using Modern Technology in Agriculture
+
+Embedded computer devices are used in various activities such as harvesting,weeding and water supplying. Thus, the productivity can be increased by minimising expenditure.
+
+Summary
+
+³ The main tasks of the computer are input, processing and
+
+output.³ Input devices, memory, CPU, output device, communication
+
+devices are identified as the main parts of a computer.
+
+³ Software is essential to do different tasks of the user.
+
+³ Computer is used for various activities of day to day life.
+
+³ Smart phones, modern televisions and washing machines can
+
+be identified as equipment with embedded computer systems.
+
+Activity 3 - See 1.3 in the Workbook.
+
+14For free distribution
+
+Let's Identify the Computer Laboratory2.1
+
+Computer Laboratory
+
+Wait... Let's read those notices and go
+
+inside.
+
+Alright, let's
+
+go in.
+
+Remove footwear before enteringKeep your bags and other
+
+instruments outside.
+
+Do not bring in CD or pendrives without
+
+permission.
+
+Hello,children.
+
+I welcome all of you to the computer lab. This computer lab is a valuable resource in our school. Since you all are new to this place, you need to know about this computer lab and
+
+how to use it well.
+
+2 Use the Computer Laboratory
+
+Safely
+
+15For free distribution
+
+Computers and other accessories have been installed in the computer laboratory. Printers" scanners" multi-media projectors are some of them. Computers and other accessories in a lab are expensive and valuable. A large amount of money have to be spent to repair a device, if it is damaged or to replace a new one. Therefore, it is your responsibility to use them properly and keep them safe.
+
+Figer 2.1 - A Computer laboratory
+
+Let's use the Computer Laboratory Correctly2.1.1
+
+Guidelines for your safetyGuidelines for the safety of the
+
+devices
+
+Using the computer laboratory correctly and
+
+safely
+
+16For free distribution
+
+Be careful when you
+
+touch devices such as wires and sockets that are connected to electricity.
+
+extinguishers if any.
+
+Avoid running and playing inside the computer laboratory.
+
+Should be aware of the exit doors of the laboratory.
+
+For your safety
+
+For the safety of the devices
+
+Do not supply power
+
+to devices without correct instructions.
+
+All the equipment must be switched off
+
+properly after use.
+
+Virus scanning should be done
+
+when connecting external
+
+drives to the computer.
+
+The used equipment should
+
+be placed in the
+
+proper place.
+
+Avoid taking food, water or other liquid into the laboratory because
+
+they may damage the
+
+equipment.
+
+Footwear should be removed and placed outside the laboratory.
+
+The laboratory and
+
+all the equipment should be kept clean
+
+and dust-free.
+
+17For free distribution
+
+Activity 1 - See 2.1 in the Workbook.
+
+Let's operate the Computer2.2.1
+
+We must practise to operate the computer correctly from our childhood. For that follow the guidelines given below.
+
+4
+
+First, supply electricity to the computer by turning on the switch connected to the computer.
+
+If the computer is connected to an uninterrupted power supply (UPS), turn it on.
+
+Finally, the monitor should be turned on.
+
+Next, the system unit should be switched on.
+
+1
+
+2
+
+3
+
+Anyhow, the above steps may differ in modern computers (like laptop computers) which come with a single power button.
+
+Please follow your teacher's instructions at all times since the above steps might be different in your laboratory.
+
+18For free distribution
+
+Selva, how to turn off this
+
+computer now?
+
+No, no, don't do harmful things to computer. Let's ask
+
+the teacher.
+
+Don't know. Let's check by pressing all
+
+the buttons.
+
+How to shut down the computer?The functioning computers should be shut down in a proper way. Otherwise, the life span of the computer may be shortened.
+
+First, we should close any programmes that we have opened.
+
+Then, select the command ''Shutdown'' and click on it.
+
+Switch off the power on/off button of the monitor
+
+when it's screen becomes dark.
+
+Then, switch off the UPS and the wall switch respectively.
+
+Let's learn Computer Ethics2.2.2
+
+zzuy;a fi;a jvjk isß;a u,aoï n,ñk isß;a fyd| oekf.k uy;a hiisß ,nkq fof,dúkZZ - isß;a u,aou
+
+zzMahath seth wadawanaSirith maldam balaminaSirith honda denagenaMahath yasasiri labanu delowinaZZ - Sirith Maldama Meaning :Read Sirith maldama. It brings you peace. Learn and practise good values from it and it will bring you good fortune in this life and lives to come.Dear children, you always get advices to be a good child at home and at school. These advices are called ethics, values, or good customs.
+
+19For free distribution
+
+Good practices help to lead a good life. Similarly, there is a set of ethics that should be followed to use the computer properly.
+
+Activity 2 - See 2.2 in the Workbook.
+
+This code of ethics can be considered as a set of guidelines that help you to use the computer properly.
+
+When we use the computer laboratory...
+
+we must use computers without
+
+disturbing others.
+
+Software which should
+
+be used by paying money should not be fakely used or copied.
+
+we must not
+
+repair any computer devices
+
+without proper
+
+instructions.
+
+we must not
+
+access the
+
+internetwithout the supervision of
+
+teachers.
+
+we should not uninstall/
+
+change/ delete any programmes without the permission of the
+
+teacher.
+
+we must avoid hacking computer activities
+
+of others.
+
+we must refrain from
+
+accessing computer
+
+of others without
+
+permission.
+
+20For free distribution
+
+In additon, there can be some other rules and regulations related to your laboratory.
+
+The above regulations are for grade 6 students like you. You will learn more on computer ethics in the forthcoming grades.
+
+Activity 3 - See 2.3 in the Workbook.
+
+Let's use Correct Postures when using Computers2.2.3
+
+Nizam, why are you looking at
+
+the monitor so closely?
+
+Why are you bending towards the monitor? Piyal, keep that chair properly and sit facing the front. Children stop your work and listen to me carefully.
+
+It is common for various health problems to occur when using computers constantly. Most of the illnesses occur due to the lack of maintaining a correct posture. So we need to practise maintaining a correct posture from our childhood.
+
+21For free distribution
+
+A
+
+C
+
+B
+
+E
+
+DFigure 2.2 - Maintaining a Correct Posture when using a Computer
+
+Correct postures to be followedWhen correct postures are
+
+not maintainedA. Always keep the computer screen
+
+at the level of your eyes or little below.
+
+Pain in the eye, problems in eyesight and tearful eyes can occur.B. The distance between your eyes
+
+and the computer screen should be between 18 and 28 inches.C. Sit straight by leaning on to the
+
+back of the chair.
+
+Pain in backbone.
+
+D. Keep your legs vertically and place
+
+your feet on the ground.
+
+Strain in feet.
+
+E. Keep the keyboard and the mouse
+
+at the level of your elbow.
+
+22For free distribution
+
+In addition, adjust the brightness and the contrast of the computer screen to suit your eye. Often give a rest to your eye if you are working on your computer for a long period of time.
+
+Although an incorrect posture can cause health issues, the computer is not a device that can be discarded. Therefore, we must use the computer properly to avoid such problems.
+
+Activity 4 - See 2.4 in Workbook.
+
+Let's dispose Electronic Waste Safely 2.2.4
+
+LeadDamage the brain, kidneys and disorders in blood circulation
+
+Barium Brain swelling, muscle weakness, damage to heart
+
+MercuryDamage to kidneys and nervous system
+
+BerylliumLung Cancer
+
+All computer hardware is considered as electronic waste when they become out of use or
+
+when the user discards them.
+
+When these harmful substances enter
+
+the human body. They can cause various diseases. They can cause various day-to-day inconveniences and gradually lead to d evelop various long-term non-curable diseases such as
+
+cancers and kidney diseases.
+
+When we dispose these tools improperly to the environment it can cause great damage to the environment as well as to human
+
+beings, since they have been manufactured from various harmful
+
+metals such as Copper, Aluminum
+
+and Lead as well as from plastic.
+
+Figure 2.3 - Illnesses that can be caused due to
+
+electronic waste
+
+23For free distribution
+
+Since, these hazards can cause damages for generations, they must be disposed properly. For that, the 3R system can be used.
+
+Figure 2.4 - 3R Method
+
+1' Reduce
+
+It is not necessary to upgrade to new equipment periodically if we maintain existing equipment properly as to use them for a long time.
+
+This reduces the amount of waste that is released to the environment.
+
+One day, there was a problem in our computer. My sister told father to buy
+
+a new one. But he brought necessary
+
+parts and repaired the computer.
+
+Activity 5 - See 2.5 in the Workbook.
+
+2' Reuse
+
+When purchasing new equipment, consider donating or selling the old equipment if they are in working condition, without discarding them.
+
+24For free distribution
+
+Figure 2.5 - Uses of Discarded
+
+Computers
+
+If it is not in working condition, then it can be utilized for other purposes.
+
+For instance, as shown in the picture, an
+
+pot and a casing of the system unit can be used as a garbage bin.
+
+The amount of waste that is released to the environment is therefore minimal.
+
+3' Recycle
+
+Equipment which are not repairable or reusable, should be recycled without discarding them. It should be handed over to a electronic waste recycling company.
+
+Recycling is a process of transforming the waste to a new product. Waste is separated into small parts and new material is produced through machinery.
+
+Activity 6 - See 2.6 in the Workbook.
+
+Let's use Passwords to protect Computers2.2.5
+
+Computers should be safeguarded
+
+physically as well as logically.
+
+25For free distribution
+
+You must have read in fairy tales that a door is opened with a secret word. Also, there is a key to open main door of your house. Can you open the door without a key?
+
+To protect the information stored in the computer from outsiders, a secret word can be set in the computer. That is known as a password.
+
+Then you must enter the password before entering the computer. If the password is incorrect, the computer does not allow you to enter.
+
+Follow the guidelines given below when setting a password
+
+The password must be a collection of letters (A-Z), numbers (0 - 9),
+
+and symbols (@, #, $). It should have a minimum of 8 characters including at least one of the above types.
+
+The password must not include some simple information like your
+
+name, birthday, etc. which can be easily guessed.
+
+You can give a password hint.
+
+In case you forget the password, you can give a word or a statement as a hint that will help you to recall it again.
+
+By giving an e-mail address, the password can be restored.
+
+Activity 7 - See 2.7 in the Workbook.
+
+26For free distribution
+
+It's our responsibility to avoid damaging any equipment in the laboratory.
+
+Passwords can be used to protect the computers.
+
+Electronic waste should be disposed properly without harming the environment.When using the computer, maintain a correct posture to
+
+and from long term health issues.
+
+Summary
+
+Turn on the computerTurn off the computer
+
+Electric Supply
+
+UPS
+
+System Unit
+
+Monitor
+
+Opened programmes
+
+Start
+
+Operating System
+
+Start
+
+Monitor
+
+UPS
+
+Electric supply
+
+³
+
+³
+
+³
+
+³
+
+³
+
+27For free distribution
+
+3
+
+An operating system is essential to run a computer.Similarly, file management
+
+can be done through an
+
+operating system.
+
+What do you mean by
+
+file management?It means...
+
+window, etc.
+
+3.1
+
+between the user and the hardware. It also helps to manage other software in the computer.
+
+User
+
+28For free distribution
+
+What do you mean by an
+
+I will make it clear to you. I too
+
+Please, say it, so that we
+
+Other players are like software and hardware.
+
+Captain
+
+PlayersSoftware, Hardware
+
+Eg: Windows" "
+
+29For free distribution
+
+O/S O/S
+
+O/S
+
+3.2
+
+interface is displayed on the screen when the computer is turned on.
+
+30For free distribution
+
+3.2.1
+
+We can keep a lot of documents in the computer as we keep drawings
+
+Hello Sahan, what
+
+are you doing?
+
+Gayan, I drew
+
+an art on the
+
+computer.
+
+Not only art, a lot of other
+
+it.
+
+On the computer?
+
+How is that?
+
+Can you bring your
+
+art?
+
+Yes, let's go to our computer laboratory in the school. Then, I'll show you.
+
+How does an operating
+
+You mAean, can a
+
+commands?
+
+* To edit documents.
+
+preferred place.
+
+31For free distribution
+
+competition
+
+will get a broader knowledge about them in higher grades.
+
+or a programme, it is displayed on the user interface.
+
+You can use the icons which are shown on the user interface to
+
+programme.
+
+a folder or a programme.
+
+32For free distribution
+
+It is used to
+
+application software to
+
+''Kamal".
+
+kamal.
+
+Let's see how certain tasks are done using a graphic software to learn more
+
+draw images, charts, shapes, diagrams,
+
+33For free distribution
+
+3.2.2
+
+The working window is displayed once you open a software.
+
+and closed X .
+
+EditViewWindowHelpEditViewWindowHelp
+
+X
+
+Start
+
+EditViewWindowHelpEditViewWindowHelp
+
+X
+
+Start
+
+an Art
+
+EditViewWindowHelpEditViewWindowHelp
+
+X
+
+Start
+
+StartMy Pet
+
+Here the window is hidden. The window you opened disappears and is kept on the task bar. It is shown by words or an icon.
+
+Eg: My Pet or
+
+For free distribution
+
+the working window.
+
+EditViewWindowHelpEditViewWindowHelp
+
+My PetX
+
+EditView Window HelpEditView Window Help
+
+X
+
+My Pet
+
+StartStart
+
+It will shrink when you re-click the button again.
+
+that appears on the screen. When the mouse pointer is brought to the edge of the window, arrow shapes are shown. By dragging these arrow
+
+EditViewWindowHelpEditViewWindowHelp
+
+My PetX
+
+EditView Window HelpEditView Window Help
+
+X
+
+My Pet
+
+StartStart
+
+For free distribution
+
+XClick the X button on the top right hand corner to close a window.
+
+EditViewWindowHelpEditViewWindowHelp
+
+My PetX
+
+X
+
+Start
+
+When you click the X button, you
+
+not.
+
+NewOpenClose
+
+Print
+
+EditViewWindowHelp
+
+CloseC
+
+X
+
+YesNoCancel
+
+Start
+
+to use it later, Select 'Yes' command
+
+the ''No'' command.
+
+3.2.3
+
+File of the sportsmeet agenda
+
+sportsmeetFile of the sportsmeet images of the sportsmeetFile of sportsmeet videos
+
+to you.
+
+For free distribution
+
+Symbols like ; < > ... can be used to name a
+
+A folder
+
+like documents, images, etc.
+
+When you double
+
+folder, its content is displayed on a working window.
+
+You can use scroll
+
+document up and down as well as from left to right.
+
+The name of the
+
+programme will be shown on the title bar.
+
+The menu bar contains commands to carry out tasks in a folder, a document or a programme.
+
+The tool bar contains
+
+menu bar.
+
+37For free distribution
+
+Multiple working windows can be opened simultaneously.
+
+in front of the other windows and its title bar is highlighted.
+
+The opened windows are displayed as buttons on the task bar. The button related to
+
+is displayed in another colour.
+
+To switch between windows, click on
+
+the task bar.
+
+NewOpenClose
+
+Print
+
+EditViewWindowHelp
+
+CloseClose
+
+X
+
+Start
+
+38For free distribution
+
+NewOpenClose
+
+Print
+
+EditViewWindowHelp
+
+CloseC
+
+X
+
+YesNoCancel
+
+Start
+
+despite the selected command, the
+
+opened.
+
+NewOpenClose
+
+Print
+
+EditViewWindowHelp
+
+X
+
+Start
+
+39For free distribution
+
+are created by the same software in the same folder. The operation
+
+NewOpenClose
+
+Print
+
+EditViewHelp
+
+Open
+
+X
+
+Start
+
+location and the name. Then, click on it.
+
+CutCopy
+
+Clear
+
+EditViewWindowHelpEditEdi
+
+CopyCopy
+
+X
+
+Start
+
+For free distribution
+
+³
+
+computer.
+
+³
+
+³
+
+³
+
+³
+
+contains only a name.
+
+screen click the
+
+the top right hand corner of the screen.
+
+window, click the
+
+the task bar.
+
+button to enlarge the
+
+window to the entire screen.
+
+To close the window, click the close button.
+
+41For free distribution
+
+Using Mouse and Keyboard
+
+to use Application Software4
+
+There's a computer.
+
+to listen a song, to type a letter, to draw
+
+a picture, what else
+
+do you need?
+
+Application Software4.1
+
+Teacher, I would like to draw a picture.
+
+Teacher, I would like to
+
+type a letter.
+
+Teacher, I would like to
+
+listen to a song.Yes, children, we can do all those things. There are separate tools (programmes) fo that.
+
+We should know about the keyboard and the
+
+mouse to do those things.
+
+42For free distribution
+
+Examples for Tasks that can be done by a Computer4.1
+
+Editing pictures
+
+Sending e-mails
+
+Watching a video
+
+Searchinginformation in
+
+internet
+
+Computer Games
+
+Preparing budget reports and expenditure estimates, etc.
+
+Preparing documents (letters, reports, lesson notes, etc.)
+
+Figure 4.1 - Several Tasks that can be done through a Computer
+
+Various programmes which execute such requirements of the
+
+user are called application software.
+
+Types of Application Software4.1.1
+
+Application software is mainly divided into two parts. They are;
+
+Application Software
+
+General Purpose Application SoftwareSpecial Purpose Application Software
+
+Software which is used in computers for general requirements of day to day work. eg:- Word processing software to prepare letters
+
+and documents.- Spreadsheets software to prepare budget
+
+reports, etc.- Web browsers to search information on
+
+the internet.- Drawing software to draw pictures.
+
+Software customized only for user
+
+eg:- Computer games.- School management systems- Library management systems- Banking management systems
+
+Figure 4.2 - Categorizing Application Software
+
+43For free distribution
+
+I downloaded a new
+
+App.
+
+An app is a type of application software.
+
+What do you mean by
+
+an App?
+
+App
+
+Application Software
+
+Google Map Eg:
+
+Basic Tools needed to use Application Software4.2
+
+When using application software, basically the keyboard and the mouse
+
+of the mouse and the keyboard to accomplish various tasks using application software. You should properly train yourself to use them.
+
+Using the Mouse4.2.1
+
+Controlling the pointer on the screen can be done by moving the mouse.
+
+by clicking the buttons on the mouse.
+
+The arrow mark shown on
+
+mouse pointer or the cursor.
+
+44For free distribution
+
+Activity 1 - See 4.1 in the Workbook.
+
+Main Parts of a Mouse
+
+Normally, the mouse has a left and a right button and a small wheel in the middle.
+
+Scroll Wheel
+
+to move up
+
+and down
+
+Right ButtonLeft Button
+
+Figure 4.3 - Main Parts of a Mouse
+
+Activity 2 - See 4.2 in the Workbook.
+
+Let's identify several types of mouse that are in use.
+
+Mouse
+
+Wireless MouseTouch Pad
+
+Figure 4.4 - Examples for Mouse Types
+
+45For free distribution
+
+Functions of the MouseMany tasks can be performed on the computer screen with a mouse. They can be divided into following three categories. Eg: ² Selecting necessary items ² Opening necessary items ² Moving necessary items
+
+Selecting necessary items
+
+Start
+
+To do this, bring the cursor on to the item and click the left button once. Then the item is highlighted.
+
+Opening necessary items
+
+Method I
+
+By double-clicking the left button, you can
+
+corresponding icon.
+
+Method II
+
+CutCopyPasteDelete
+
+OpenOnce you click the right button on the icon, select the 'open' command from the sub menu.
+
+46For free distribution
+
+Moving necessary items
+
+Click the left button, then drag and drop it.
+
+In addition, a mouse scroll is used to move the working window up and down. Here, a wheel in the mouse is rotated to move the page up and down.
+
+Let's use the Mouse Properly
+
+Figure 4.5 - Using the
+
+mouse properly
+
+When we use the mouse, we need to learn to
+
+hold it properly. Holding the mouse inproperly
+
+Figure 4.6 - Using the mouse inproperly
+
+47For free distribution
+
+Keyboard4.2.2
+
+There are various keyboards such as wired keyboards, wireless keyboards and touch keyboards.
+
+Figure 4.7 - Keyboard Figure 4.8 - Wireless Keyboard
+
+Figure 4.9 - Touch Keyboard
+
+Types of Keys in the Keyboard and Their Functions
+
+To select the way of typing and formatting
+
+The numeric keys are located at the top of the keyboard and at the right corner.
+
+letter keys arrow keys
+
+The question mark/fullstoplocated at the right side of the
+
+characters can
+
+be used.
+
+Figure 4.10 - Parts of the Keyboard
+
+48For free distribution
+
+There is a vertical line that appears and disappears when you are about to start typing on a document or a box. It is the cursor.
+
+Letter keys are used to type letters. Letter-keys are not located in the order of the English alphabet. The manner in which the letter keys are located on the keyboard is known as 'QWERTY' layout.
+
+The cursor shows the location where the typing starts.
+
+Use the Caps Lock key
+
+After pressing the Caps lock key once, you can type in capital letters. When you need to type normally, press the Caps lock key again.
+
+” Pressing Caps Lock key once
+
+A, C, D
+
+” When you press Caps Lock
+
+again a, c, d
+
+Use the Shift key
+
+There are two Shift keys on the right and left hand on a keyboard. When letter keys are pressed while pressing on the shift key, letters are typed in capital letters. Similarly, while pressing the Shift key, if you press other keys, the symbol at the top of the key is typed.
+
++
+
+A
+
++
+
+?
+
+caps lock
+
+shift key
+
+shift
+
+key
+
+A
+
+?/
+
+Activity 3 - See 4.3 in Workbook.
+
+49For free distribution
+
+Space bar - It is used to insert space between words. By pressing this key once, you can get one
+
+space and by pressing it twice, you can get two spaces. Likewise, you can press it several times to get the needed space. Eg:- Pressing once. Pressing twice.
+
+Tab key - It is used to insert a large space between words. If you press it once, one space is kept
+
+and by pressing it twice, two spaces can be kept. Eg:- Pressing once. Pressing twice.
+
+Enter key - This key is used to take the cursor one line below. Eg:- Pressing once
+
+Arrow keys - These keys are used to move the cursor up and down and from right or left.
+
+Backspace key - By pressing this once, one letter, space or a number on the left side is deleted.
+
+Let's use the Keyboard Correctly
+
+When we fail to use the keyboard correctly, it will cause inconvenience
+
+Figure 4.11 - The method of keeping hands on the keyboard correctly
+
+Let's learn how to use the Application Software4.3
+
+It is intended to provide an understanding about some of the application software and we look forward to discuss audio and video software in the forthcoming chapters.
+
+50For free distribution
+
+Graphic Software
+
+Later, software was produced to draw pictures using the computer.
+
+Figure 4.12 - A hand drawn painting Figure 4.13 - An art drwan using a computer
+
+Activity 4 - See 4.4 in the Workbook.
+
+Different software is used to create graphics and to draw arts. This software is known as graphic software.
+
+Adobe IllustratorMicrosoft Paint
+
+Figure 4.14 - Examples for Grapic Software
+
+Activity 5 - See 4.5 in the Workbook.
+
+51For free distribution
+
+Word Processing Software
+
+The software we use to create and store documents that are needed in everyday life is called word processing software.
+
+Figure 4.15 - Examples for Word Processing Software
+
+Activity 6 - See 4.6 in the Workbook.
+
+Audio and Video Editing Software
+
+Today, our school's media club showed us
+
+the video of the Prize Giving ceremony. They have removed the unnecessary parts
+
+and edited it beautifully. Do you know
+
+how to do it?
+
+Audio-visual editing
+
+software? What is
+
+that?
+
+Yes, you need audio-visual editing
+
+software for that.
+
+52For free distribution
+
+Software has been developed to edit audio and video recordings. Many tasks can be done using this software.
+
+Audio
+
+Hearing
+
+- Audio Has voiceEg: Radio Programmes
+
+Visual
+
+Sight
+
+- Video Has voice and imagesThat means, audio-visual Eg: Television programmes
+
+Among several software which is designed to create and edit audio-video material, software created to edit audio recordings is known as audio editing software and software created to edit video recordings is known as video editing software.
+
+Openshot
+
+AudacityAdobe AuditionAdobe Premiere Pro
+
+Figure 4.16 - Examples for Audio Editing
+
+Software
+
+Figure 4.17 - Examples for Video Editing
+
+Software
+
+Activity 7 - See 4.7 in the Workbook.
+
+53For free distribution
+
+Creating Audio-Video Files
+
+Do you mean that by
+
+using a software we can record what we are talking now and edit it as
+
+required?Yes, we can edit
+
+it using suitable
+
+software.
+
+But, we have to think about a lot of things when
+
+we edit the sound tracks and videos. We cannot
+
+do it as we wish.
+
+It is very important to comply with the ethics in editing audio and video recordings.
+
+When we record voices and images of others, their permission must be obtained. (In case of small children, the
+
+permisson of their parents or
+
+school must be obtained.)
+
+When editing recordings
+
+of voices and images of others, they should not be done in a manner
+
+as to make them
+
+uncomfortable.Editing should not be done in a manner as to give
+
+a false idea or a
+
+message.
+
+If edited audio or video files are made available, it must be done by protecting the identity of you or relevant people.
+
+You should not use
+
+the knowledge of editing software for fraudulent purposes.
+
+Activity 8 - See 4.8 in the Workbook.
+
+54For free distribution
+
+Summary
+
+³
+
+called application software. Eg: graphics software, word processing software, audio-
+
+video software
+
+³ Knowledge of the keyboard and the mouse is important to
+
+use application software.
+
+³ Right button, left button and scroll wheel are the main parts
+
+of a mouse.
+
+Scroll wheel
+
+Right buttonLeft button
+
+To select the way of typing and formatting
+
+The numeric keys are located at the top of the keyboard and at the right corner.
+
+letter keys arrow keys
+
+The question mark/fullstoplocated at the
+
+right side of the characters
+
+can be used.
+
+55For free distribution
+
+Algorithm and Flow Charts5
+
+Process of Solving Practical Problems5.1
+
+Imagine that a group of relatives have arrived when you were alone in the house. You need to serve them some tea. Here, you should prepare a cup of tea by following different steps.
+
+On another occasion, you will have to make a fruit salad for a dessert or make a birthday cake. On all these occasions, you need to solve problems. Compare it with calculating the area of a rectangle during your mathematics lesson.
+
+When we have a certain aim, we do certain activities to achieve it. In our day to day life, we often solve problems.
+
+Problem Solving5.1.1
+
+The problem needs to be analyzed well before solving it. Then you can get a good understanding of how to solve the problem. The process of problem solving has an input, an outcome and a process.
+
+Input - Things to be included to solve the problem.Process - Guidelines to be followed to solve the problem.Output - The result you get after solving the problem.
+
+Thus, you will understand that processing content according to a recipe is known as solving problems.
+
+56For free distribution
+
+Example: 1The input, process and output of preparing a fruit salad is as follows.
+
+Input - a variety of fruitsProcess - washing fruits, cutting fruit, mixingOutput - Fruit salad
+
+Example: 2
+
+follows.
+
+Input - the length and the width of the rectangleProcess - length x widthOutput - area of the rectangle
+
+Activity 01 - See 5.1 in the Workbook.
+
+Algorithm 5.2
+
+If you are able to prepare a cup of tea, tie the shoe lace correctly, or put on the school uniform correctly, then you know how to use an algorithm.
+
+Preparing a
+
+cup of tea
+
+Making a cakePreparing a
+
+fruit salad
+
+Put on schooluniform correctly
+
+Figure 5.1 - Some instances in daily life where we use algorithms
+
+57For free distribution
+
+What is an algorithm?5.2.1
+
+AlgorithmA method that includes all the steps of solving a problem in order is known as an algorithm.
+
+Example 1 Steps to create a fruits salad are as follows.
+
+Step 01
+
+Finding various kinds of fruits
+
+Step 02
+
+Washing all the fruits well
+
+Step 03
+
+Cutting fruits into small pieces
+
+Step 04
+
+Putting the pieces of fruit into a bowl
+
+Step 05Add sugar and mix
+
+Step 06
+
+Serve the fruit salad in bowls
+
+It's important to write the steps sequentially in an algorithm. Think about what will happen if the sixth step is done as the second step. All the fruits mixed with sugar should be washed again.
+
+58For free distribution
+
+Therefore, it is important to write the steps of an algorithm sequentially.
+
+Writing Algorithm5.2.2
+
+When writing an algorithm in a standard way, every algorithm must have a start and an end. Therefore, it is compulsory to include an initial
+
+steps.
+
+Example 1
+
+The algorithm for making a chocolate cake
+
+Step 01StartStep 02Clean and wash the baking tray and other bowlsStep 03Dissolve chocolateStep 04
+
+Step 05Beat butter until it gets creamy. While beating, add sugar little by littleStep 06Add the eggs one by one to the sugar and butter mixture
+
+Step 07Add the dissolved chocolate
+
+Step 08Add milkStep 09Put the mixture into the baking tray and bake it
+
+Step 10Let it cool after bakingStep 11Decorate as you wish and serve it
+
+Step 12End
+
+59For free distribution
+
+Example 2
+
+Steps 01StartSteps 02Get the length of the rectangle
+
+Steps 03Get the width of the rectangleSteps 04Area = length x width
+
+Steps 05Get the area of the rectangleSteps 06End
+
+Activity 02 - See 5.2 in the Workbook.
+
+Flow Chart 5.3
+
+Here, standard symbols are used to show each action.
+
+SymbolUsageUsed to indicate the start and the end.
+
+Eg:End
+
+Used to indicate the input and the output.Eg:
+
+Entering student's marks
+
+Serving Fruit Salad
+
+60For free distribution
+
+Used to show an action/a process
+
+Eg: Adding eggs one by one to the mixture of sugar
+
+and butter and beating it.
+
+Area = length x width
+
+Yes
+
+No
+
+Used to indicate an instance of decision making.
+
+greater than second
+
+number?
+
+Yes
+
+No
+
+It is used to indicate the direction of
+
+Activity 03 - See 5.3 in the Workbook.
+
+61For free distribution
+
+Example 01
+
+is given below.
+
+Here the symbols related to start, end input out and process are used.
+
+Start
+
+End
+
+Getting various fruits
+
+Serve the prepared fruit salad
+
+Wash fruits well
+
+Cut fruits into small pieces
+
+Put the fruit pieces into a bowl
+
+Add sugar and mix
+
+62For free distribution
+
+Example 02
+
+Start
+
+End
+
+Get the length of the rectangle
+
+Get the width of the rectangle
+
+Multiply length and width to obtain the area
+
+Find the area
+
+Activity 04 - See 5.4 in the Workbook.
+
+63For free distribution
+
+Summary
+
+³ Before the problem is resolved, it needs to be analyzed well.
+
+³ There is an input, output and a process when solving a problem.
+
+³
+
+'input', the steps to be followed when solving a problem are
+
+the problem is named as the 'output'.
+
+³ A method set out in order including all the steps needed to
+
+solve any problem is identified as an algorithm.
+
+³ A standard algorithm must have a start and an end.
+
+³
+
+³ shape is used to indicate the start and the end.
+
+³ shape is used to indicate the input and the output.
+
+³ shape is used to indicate the process.
+
+³ shape is used to indicate the decision taken.
+
+64For free distribution
+
+Using the Internet for collecting Information and Communication6
+
+Let's learn about the Internet6.1
+
+Brother, our teacher said that
+
+internet?The internet is a large
+
+interconnected
+
+Computer
+
+NetworkInternet
+
+65For free distribution
+
+Accessing Internet 6.2
+
+we use the internet to
+
+Figure 6.1 - Model of a Web Page
+
+66For free distribution
+
+Web Browser6.2.1
+
+Eg:
+
+Use of Web Browsers6.2.2
+
+Start
+
+Address bar
+
+67For free distribution
+
+Eg:
+
+Figure 6.2 - Website of the Ministry of Education
+
+Figure 6.3 - Address Bar
+
+File Edit View Favorites Tools Help
+
+Address
+
+Back
+
+Figure 6.4 - Web Address of the Educational Publications Department
+
+68For free distribution
+
+You can access the
+
+You can return to the
+
+By clicking the
+
+you clicked the By clicking the
+
+access the directory
+
+Back
+
+Figure 6.5 - Some Buttons in a Web Browser
+
+Back
+
+Obtaining Information from Educational Websites6.3
+
+Brother, now you know a
+
+sea creatures too?
+
+69For free distribution
+
+Let's learn about Search Engines 6.4
+
+search engines as we
+
+Brother,
+
+70For free distribution
+
+Use of Search Engines
+
+Book Rack
+
+1
+
+3
+
+2
+
+6
+
+71For free distribution
+
+²
+
+Figure 6.6 - Search Engines
+
+Opening and Using Search Engines
+
+key on the
+
+72For free distribution
+
+use 'History Sri Lanka'
+
+Tips for making Search Results more effective
+
+•
+
+•
+
+Figure 6.7 - Search Information using a Search Engine
+
+73For free distribution
+
+Activity 1 - See 6.1 in Workbook
+
+Kandy,
+
+4&
+
+74For free distribution
+
+Let's use the Internet Safely6.5
+
+do you know why we need
+
+internet?
+
+those when we use the
+
+75For free distribution
+
+Provide Usernames and Passwords when Accessing Websites6.5.1
+
+76For free distribution
+
+Use E-mail Safely6.5.2
+
+Doing Safe Online Transactions6.5.3
+
+77For free distribution
+
+Activity 2 - See 6.2 in the Workbook.
+
+Summary
+
+³
+
+³
+
+³
+
+78For free distribution
+
+³
+
+³
+
+³
+
+³
+
+³
+
+Web BrowserSearch Engine
+
+For free distribution
+
+79
+
+For free distribution
+
+80
+
+For free distribution
+
+81
+
+For free distribution
+
+82
+
+For free distribution
+
+83
+
+For free distribution
+
+84
+
+For free distribution
+
+85
+
+For free distribution
+
+86
+
+For free distribution
+
+87
+
+For free distribution
+
+88
+
+For free distribution
+
+89
+
+For free distribution
+
+90
+
+For free distribution
+
+91
+
+For free distribution
+
+92
+
+For free distribution
+
+93
+
+For free distribution
+
+94
+
+For free distribution
+
+95
+
+For free distribution
+
+96
+
+For free distribution
+
+97
+
+For free distribution
+
+98
