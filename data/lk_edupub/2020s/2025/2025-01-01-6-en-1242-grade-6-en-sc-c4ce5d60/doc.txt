@@ -1,0 +1,4301 @@
+==== BLOCKS ==== 
+
+SCIENCE
+
+Grade 6
+
+Educational Publications Department
+
+ii
+
+First Print 2014Second Print 2015Third Print 2016Fourth Print 2017Fifth Print 2018Sixth Print 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0079-4
+
+Published by Educational Publications DepartmentPrinted by Paramount Solutions (Pvt) Ltd.No. 105/1, Lake Road, Ambathale, Mulleriyawa New Town.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha
+
+Sundara siri barinee, surendi athi sobamana Lanka
+
+Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya
+
+Apa hata sepa siri setha sadana jeewanaye matha
+
+Piliganu mena apa bhakthi pooja Namo Namo Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha
+
+Oba we apa vidya
+
+Obamaya apa sathya
+
+Oba we apa shakthi
+
+Apa hada thula bhakthi
+
+Oba apa aloke
+
+Apage anuprane
+
+Oba apa jeevana we
+
+Apa mukthiya oba we
+
+Nava jeevana demine, nithina apa pubudukaran matha
+
+Gnana veerya vadawamina regena yanu mana jaya bhoomi kara
+
+Eka mavakage daru kela bevina
+
+Yamu yamu vee nopama
+
+Prema vada sema bheda durerada
+
+Namo, Namo Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+v
+
+Message from the Hon. Minister of Education
+
+Akila Viraj Kariyawasam
+
+Minister of Education
+
+Being innovative, changing with right knowledgeBe a light to the country as well as to the world.
+
+The past two decades have been significant in the world history due to changes that took
+
+place in technology. The present students a lot of new challenges along with the rapid
+
+development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an
+
+environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan
+
+government and myself, as the Minister of Education, to empower you all.
+
+This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free
+
+textbooks to you, as a result of the commitment and labour of your parents and elders.
+
+Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the
+
+technological world. Hence, you have to dedicate yourselves to become productive citizens.
+
+I believe that the knowledge this book provides will suffice your aim.
+
+It is your duty to give a proper value to the money spent by the government on your
+
+education. Also you should understand that education determines your future. Make sure that
+
+you reach the optimum social stratum through education.
+
+I congratulate you to enjoy the benefits of free education and bloom as an honoured
+
+citizen who takes the name of Sri Lanka to the world.
+
+vi
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you all the textbooks from grades 1-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha WickramanayakaCommissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vii
+
+Monitoring and Supervision
+
+W. M. Jayantha Wickramanayaka - Commissioner General of Educational Publications Educational Publications DepartmentDirection
+
+W. A. Nirmala Piyaseeli - Commissioner (Development) Educational Publications Department
+
+Co-ordination
+
+K. D. Bandula Kumara - Deputy Commissioner Educational Publications DepartmentW. Suvendra S. Jayawardhana - Assistant Commissioner Educational Publications Department Panel of Editors
+
+1. Dr. Nilwala Kottegoda - Senior Lecturer Department of Chemistry University of Sri Jayawardanapura2. Dr. Pushpa Vitharana - Senior Lecturer Department of Education University of Peradeniya3. Dr. Peratheepan - Senior Lecturer Eastern University4. M. P. Vipulasena - Director (Science) Ministry of Education5.Premalal Uduporuwa - Senior Lecturer National Insitute of Education6. M. L. S. Piyathissa - Assistant Lecturer National Institute of Education7. K. D. Bandula Kumara - Deputy Commissioner Educational Publications DepartmentPanel of Writers
+
+1. P. I. Wijesundara - In-Service Adviser Zonal Education Office, Udugama 2. S.Wijithapala - In-Service Adviser Zonal Education Office, Ibbahamuwa
+
+viii
+
+3. Sandya Vithanachchi - In-Service Adviser Zonal Education Office, Elpitiya4. Shirani Disanayaka - Teacher Visaka Vidyalaya, Colombo5. H. C. T. Jayarathna - In-Service Adviser (Retired)
+
+6. H. Indrani - Teacher Dankotuwa Balika Vidyalaya, Dunktuwa7. R. A. P. Bandara - Teacher Neluwa National School, Neluwa8. Jayarathna Ihalakodippily - In-Service Adviser Zonal Education Office, Homagama9. Suyama Kottegoda - Teacher Bandaragama Madya Maha Vidyalaya10. Swarna Ganegoda - Teacher Sri Jayawardanapura Balika Vidyalaya, Kotte 11. Laxme Nettikumara - Teacher Ave Mariya Convent, Negombo12. J. Emmanual - In-Service Adviser Zonal Education Office, Colombo13. H. M. F. Rafaka - Principal Dummaladeniya Muslim Vidyalaya14. T. Balakumaran - Teacher (Retired) Language Editing
+
+1. W. Indumini Darshika - Assistant Commissioner Educational Publications Department
+
+Illustrations, Cover Page and Page layout
+
+1. Malaka Lalanajeewa - Graphic Designer
+
+Technical Assistance
+
+1. Asanka Aravinda Mahakumarage - Educational Publications Department2. A. Asha Amali Weerarathna - Educational Publications Department3. P. W. Lahiru Madushan - Educational Publications Department4. P. Naveen Tharaka Peiris - Educational Publications Department
+
+ix
+
+Introduction
+
+This textbook was compiled by the Educational Publications Department in accordance with the syllabus prepared by the National Institute of Education for the use of Grade six students in the Sri Lankan school system with effect from 2015.An effort has made here to arrange the subject content to suit the national educational goals, common national competencies, the objectives of teaching science and the content of the syllabus.The subject of science directs the student towards a more active learning process in a manner as to develop knowledge, skills and attitudes needed for a developmental scientific thought.In the compilation of this textbook, subject content is largely arranged based on experiences of daily life. It has contributed to prove the fact that the subject of science is very much closer to the day to day life.The compilation of this textbook based on activities is a distinctive feature. The activities are prepared based on the scientific method in order to develop knowledge, skills and attitudes. Activities that can be performed individually at home as well as in school are incorporated here. We believe that learning through activities would contribute to create a liking and an interest in the child towards learning science. At the end of each chapter, a summary, a series of exercises and a glossary were included. It enables the student to identify the important details of the chapter as well as to self evaluate the achievement of learning outcomes.For the purpose of directing the student to study further about the subject matter, more information is included in the "For your extra Knowledge". It is given only to broaden the subject area of the child and certainly not to ask questions at term tests.Assignments and projects are given with the purpose of directing the student towards an explorative study. It enables the students to develop the higher order skills such as application, analysis and synthesis of the concepts achieved from the lesson.We strongly believe that the duty of the teachers who teach science is to direct the student for self learning instead of teaching the student using traditional teaching methods. This textbook can be utilized by the teachers as a learning tool to execute their teaching role properly. We would like to bestow our sincere thanks on the Senior Lecturer Asoka De Silva and the Chief Project Officer (Retired) W.D.Wijesinghe of the National Institute of Education and the Retired Principal H.S.K. Wijethilake.We kindly request you to forward your comments and suggestions on this textbook to the Educational Publications Department.
+
+Board of Writers and Editors
+
+x
+
+xi
+
+Contents
+
+Page
+
+1. Wonders of the Living World 1
+
+2.1 Matter and Energy 23
+
+2.2 States of Matter 24
+
+2.3 Specific Properties of Solid Matter 29
+
+2. Things Around Us 21
+
+3. Water as a Natural Resource 35
+
+4. Energy in Day to Day Life 49
+
+5. Light and Vision 67
+
+3.1 States of Water 36
+
+3.2 Types of Water based on Availability 38
+
+3.3 Types of Water based on Salinity 40
+
+3.4 Importance of Water 42
+
+3.5 Water, a Limited Resource 44
+
+4.1 Energy Sources and Their Applications 53
+
+5.1 How can we see ? 67
+
+5.2 Sources of Light 69
+
+5.3 Transmission of Light through Objects 70
+
+5.4 Light Rays and Light Beams 74
+
+5.5 Applications of Light 78
+
+1.1 Characteristics of Organisms 6
+
+1.2 Differences between Plants and Animals 13
+
+xii
+
+6. Sound and Hearing 87
+
+6.1 Producing Sounds 88 6.2 Hearing of Sounds 896.3 Diversity of Sounds 916.4 Music and Noise 926.5 Creating Equipment to Produce Sound 93
+
+7.1 Effects of Magnets 100 7.2 Different Type of Magnets 1007.3 Magnetic Poles 1017.4 The Behaviour of a Magnet 1027.5 Interactions between the Poles of Magnets 1037.6 Magnetic Forces 105
+
+7. Magnets 99
+
+8.1 Electricity for Day - to - day Life 110 8.2 Generating Electricity 1118.3 Preparation of Circuits 1178.4 Conductors and Insulators 1218.5 Electronic Appliances 1228.6 Conservation of Electricity and Prevention of Accidents 128
+
+8. Electricity for a Comfortable Life 110
+
+9. Heat and Its Effects 133
+
+9.1 Heat Generation 135 9.2 Effects of Heat 1379.3 The Effects of Heat to the Environment 144
+
+10. Food Related Interactions 148
+
+xiii
+
+11.1 Weather 159 11.2 Climate 16111.3 Studying Data Related to Weather 16111.4 Designing Apparatus to Measure Weather 16211.5 Natural Disasters Occured Due to Climatic Changes 170
+
+11. Weather and Climate 159
+
+xiv
+
+Let's Enter The world of Science ....Why is the sky above us blue? How do fluffy white clouds float in it?During the dark nights, do the twinkling stars keep moving around? If not, how do they create different patterns at different instances? The moon is same too…on some days it isn’t even there!Even though the earth is brown, plants that grow in it are mostly green. But there are different coloured plants as well. Even the green trees sometimes change colour from season to season! And their leaves, flowers, fruits are all varied in colour, fragrance and taste! How does that happen?Different animals eat different things…some eat plants, some eat other animals, and some eat both! And there are even plants that trap and devour animals! How curious! The black cow eats green grass and feeds the newborn brown calf white milk! But the blood that runs in their veins is red! This is definitely something worth looking into!Iron nails on my chair rust away so fast that the chair falls apart…But grandma’s gold ring still shines like new! Why are the two metals different?The mist covers us with a damp blanket and raindrops moisten the earth…which gives birth to tiny fountains. They join the river that flows serenely through snow topped mountains,creating giant waterfalls…and again calmly continuing its path towards the sea…where foam-topped sea waves crash ashore…while the pool and the lake only ripple gently. With all this cool water on earth, it also gives rise to boiling geysers! Why does the same water play so many roles?You and I live in an amazing world…there are thousands of mysteries surrounding us!But…Science is a tool that uncovers all these secrets. It is the key to the hidden world!If we sharpen our senses and skills when we learn science, we can uncover many more things…and we can gift the world new inventions and innovative creations. We can even contribute to the development of the entire human race. Anyhow all of you who learn science are little scientists. So let’s get ready to explore the miraculous world! The future scientists of our world, we wish you all the best of luck!
+
+xiv
+
+1Science | Wonders of the living world
+
+You can observe many different things in the environment as well as in the classroom. Different environments consist of different components.Find out the things that you can see in the following environments. (Fig. 1.1)
+
+Fig. 1.1 Different environments
+
+Wonders of the Living World
+
+Activity 1.1
+
+yyObserve your classroom & the environment outside the class
+
+room (school garden).
+
+yyThen, list out what you could see in the environment.
+
+The environment is our surrounding including us. It consists of land, water bodies, houses, plants, animals etc. Let’s do the following activity to find out the components of the environment.
+
+01
+
+Science | Wonders of the living world2
+
+Activity 1.2
+
+Let’s identify the nature of the components of the environment. Can you wear a pair of shoes that you used when you were a baby ? No, you can’t. Why is that ?
+
+Now, the size of your body is larger than earlier. The increase in size, height or amount is called growth.
+
+Can you see a growth in everything in the environment? Let's do the following activity to find about it.
+
+It is clear that there is a growth in some components while there is no growth in some components.
+
+Components with a growth are called living things or living organisms.
+
+The components without a growth are called non-living things.
+
+² Complete the following grid using the things you listed in Activity 1.1.
+
+Things that growThings that do not grow
+
+child pencil
+
+Fig. 1.2
+
+3Science | Wonders of the living world
+
+Let’s do the following activity to study more about living things/organisms.
+
+It is easily understood that the two categories are plants and animals.Therefore, it's clear that living things can be divided into two main groups as plants and animals.
+
+Assignment 1.1
+
+yyObserve your house and the garden. List out what you can see and categorize them as living and non-living things.
+
+Activity 1.3
+
+yyDivide the living things listed in Activity 1.1 and Assignment 1.1 into two more categories.
+
+Living thingsNon-living things
+
+Fig. 1.3 Living and non-living things
+
+The components of the environment can be categorized under two main groups ; living things and non-living things
+
+Science | Wonders of the living world4
+
+Are there any other organisms except plants and animals?
+
+Fig. 1.5 Some animals
+
+Fig. 1.4 Some plants
+
+CoconutJakBambooPapaya
+
+DeerButterfly
+
+Fish
+
+Snail
+
+Parrot
+
+Activity 1.4
+
+You will need -: some water taken from a pond, water rotted with hay, a compound microscope, slides and cover slipsMethod -: Put the water taken from a pond on to one slide and water rotted with hay on to another slide. With the help of your teacher, observe them under the compound microscope.
+
+5Science | Wonders of the living world
+
+Assignment 1.2
+
+When you observe the two water samples under the microscope, you will be able to observe some tiny organisms. These organisms that cannot be observed with the naked eye, are called micro-organisms.Some micro-organisms that can be observed in the water taken from a pond are shown in Fig 1.6.
+
+Fig. 1.6 Some micro-organisms in a drop of water
+
+Fig. 1.7 Compound microscope
+
+The compound microscope is used to observe things that cannot be seen with the naked eye.
+
+A large number of micro organisms can be seen in water, soil, air and in rotten food.
+
+Make a booklet including
+
+yy information about micro-organisms,
+
+yy uses of micro-organisms,
+
+yy harms of micro-organisms.
+
+Accordingly, organisms can be divided into three main groups. They are plants, animals and micro-organisms.
+
+Science | Wonders of the living world6
+
+The above photographs show how the size of plants and animals is increased with age. This increase in size, height or amount is called growth. Growth is a common feature of organisms. There is no growth in non-living things.Let’s do the following activity to understand further about the growth of organisms.
+
+Fig. 1.9
+
+1.1 Characteristics of Organisms
+
+Growth
+
+Assignment 1.3
+
+With the help of your teacher design an experiment to show that there are micro organisms in soil.
+
+Fig. 1.8
+
+7Science | Wonders of the living world
+
+Fig. 1.9 Germination and growth of a seed
+
+You can observe the growth of the plants with time. (Fig 1.9)
+
+Activity 1.5
+
+Method (
+
+yySoak the seeds in water for one day.
+
+yyPlant the seeds in the yoghurt cups with wet soil (make some holes at the bottom of the yoghurt cups).
+
+yyWhen the seeds are germinated and grown up to a certain height, start measuring the height of the plants and observe the nature of the leaves daily. (Get the help of your teacher)
+
+yyRepeat it for two weeks.
+
+yyFill in the following grid with your observations.
+
+DateHeight of the green gram plantsNumber of leaves
+
+You will need ( few yoghurt cups with wet soil, some green gram seeds, a measuring tape
+
+Science | Wonders of the living world8
+
+Nutrition
+
+All organisms including humans need food for survival. Satisfying the food requirements of organisms is called nutrition.
+
+Most green plants produce food within themselves. Hence, these plants are called autotrophic.
+
+They use carbon dioxide from air, soil water and sun light to produce food. This process is called photosynthesis.
+
+Animals can’t produce their own food. They depend on plants directly or indirectly. Therefore, animals are considered as heterotrophic.
+
+Animals such as deer, cows etc. take plants as food. They depend on plants, directly. But animals such as tiger, lion take flesh as food. So, they depend on plants indirectly.
+
+Fig. 1.10 Photosynthesis
+
+Sunlight
+
+Oxygen
+
+Carbon dioxide
+
+Water
+
+9Science | Wonders of the living world
+
+For your extra knowledge
+
+A cow eating grass
+
+SwimmingCreepingRunning
+
+A lion eating an animalFig. 1.11
+
+During the process of photosynthesis, plants absorb carbon dioxide and release oxygen. So, the amount of these two gases in the air can be kept constant.
+
+Movement
+
+Showing different movements is a common feature of living organisms. Apart from movements, some animals can move from place to place. Animals moving from one place to another place is called locomotion. There are special appendages for animals for locomotion. Several locomotions of animals are shown in fig 1.12 below.
+
+Science | Wonders of the living world10
+
+There are some animals that cannot move, but they show different movements. Sea anemone, Coral polyp living in oceans are such animals.(Fig 1.13)
+
+When a Mimosa plant is touched, the leaves of the Mimosa plant shows a sleeping movement. Also, Albesia, Sesbenia (Kathurumurunga/ Agaththy), Tamarind leaves show sleeping movements in the evening. These are some examples of movements of plants.
+
+Assignment 1.4
+
+Mention different types of appendages used by animals for their locomotion and write names of animals as examples.
+
+Fig. 1.14 Touch me not plant (Mimosa)
+
+Fig. 1.13 Sea anemoneCoral polyp
+
+Fig. 1.12
+
+FlyingWalking
+
+11Science | Wonders of the living world
+
+Although, plants show many other movements, they cannot be observed during a short period of time.
+
+Respiration
+
+When a person is lying in a relaxed position, you will see that his chest and the stomach move up and down. Why?
+
+It is because we take air in (inhale) and release air out (exhale). Oxygen in the air, once breathed in, reacts with the food stored in the body and produces energy. This process is called respiration. In the process of respiration, oxygen is used and carbon dioxide is released.
+
+Oxygen needed to breathe is taken in by inhaling while the produced carbon dioxide is released by exhaling.
+
+The chest moves up and down because of the process of inhaling and exhaling. These movements are called respiratory movements.
+
+Plants too breathe. But, they do not show respiratory movements as animals.
+
+Respiration is a common feature of every organism. There is no respiration in non-living things.
+
+Fig. 1.15 Plant bending towards sunlight
+
+Non-living things do not move on their own. Non-living things will move only when an external force is applied.
+
+When a plant is kept on a window sill, after some days the stem of the plant bends towards the sunlight. This too is a movement of a plant.
+
+Science | Wonders of the living world12
+
+Activity 1.6
+
+Assignment 1.5
+
+Observe and report the respiratory movements and respiratory organs of different animals.
+
+For your extra knowledge
+
+The patients with respiratory difficulties are given oxygen artificially. Also, mountain climbers and divers use artificial oxygen.
+
+Let’s do the following experiment to find out whether exhaled air contains carbon dioxide.
+
+You will need ( a straw, a test tube, colourless lime waterMethod (
+
+yy Put some colourless lime water into a test tube.yy Then bubble the exhaled air
+
+into the test tube as shown in the Fig.1.16.yy Record your observations.
+
+You will see that the colourless lime water changes into off white. This happens due to the presence of carbon dioxide. Hence, the exhaled air contains carbon dioxide.
+
+Reproduction
+
+It is obvious that every organism dies one day or the other. So, for the continuation of the living world it is essential to have new generations.
+
+A matured living being producing new members of the same species is known as reproduction.
+
+Fig. 1.16
+
+13Science | Wonders of the living world
+
+Fig 1.17 shows the reproduction of some plants and animals.
+
+Reproduction of organisms occurs in different methods. Reproduction is essential for the existence of living organisms. It's common for all organisms. Reproduction does not occur in non-living things.
+
+Diversity of Plants
+
+There is a vast diversity among plants and animals in the environment.
+
+yy Based on the nature of plants, they can be categorized as plants, trees, shrubs and creepers.
+
+yy Also there is diversity among plants in relation to morphological features such as roots, stem, leaves, flowers, shape, size and colour of fruits and seeds.
+
+yy Plants grow not only on the terrestrial environments but also, on aquatic, coastal and mangrove environments.
+
+Fig. 1.17 Types of reproduction seen in some plants and animals
+
+1.2 Differences between Plants and Animals
+
+Science | Wonders of the living world14
+
+Assignment 1.6
+
+Observe the plants in the environment. Categorize them as plants, shrubs, trees and creepers. Draw their flowers, leaves, seeds, fruits etc. To identify the diversity of plants.
+
+Diversity of Animals
+
+The following figure shows that there is a vast diversity among animals too.
+
+Based on morphological featuresroots, stem, leaves, flowers, seeds,fruits
+
+Based on natureplants, shrubs, trees, creepers
+
+Based on living environment(habitat)terrestrial, aquatic, mangrove,coastal
+
+Diversity among plants
+
+Based on living environment (habitat)terrestrial, aquatic, air
+
+Based on the feeding mechanism chew & swallow, swallow without chewing, chew, suck
+
+Based on the type of foodcarnivores, omnivores, herbivores
+
+Based on external characteristicscolour, shape, appendages
+
+Based on the mode of locomotionwalking, swimming, flying, creeping
+
+Diversity among animals
+
+15Science | Wonders of the living world
+
+Activity 1.7
+
+You will learn more about the diversity among animals and plants in your upper grades. Diversity among animals and plants is a very important factor for the environment. It increases the beauty of the nature too. So, it is our responsibility to care for and conserve the animals and plants. You must not discharge harmful materials to the environment. Hence, you too can take part in protecting the wonder of the nature.
+
+yy Study some plants and animals and identify the differences between them.
+
+yy Fill in the following grid using the data you gathered.
+
+Characteristics of plantsCharacteristics of animals
+
+Plants grow fixed to the ground. They do not show locomotion, but show movements.Animals show locomotion.
+
+Produce their own food by photosynthesis. Hence, they are autotrophic.
+
+Do not produce their own food. Depend on other plants and animals for food. Hence, they are heterotrophic.
+
+Chlorophyll is present within the cells.Chlorophyll is absent within the cells.
+
+Growth is visible during the entire life span. Thus, growth is unlimited.
+
+Compare the following table with the table you completed above.
+
+Characteristics of plantsCharacteristics of animals
+
+Table 1.1
+
+Growth in animals visibly stops after a certain period of time.
+
+Science | Wonders of the living world16
+
+Growth in animals visibly stops after a certain period of time.
+
+Growth is visible during the entire life span.
+
+Dichotomous Keys
+
+It is very easy to use dichotomous keys to classify and identify organisms.
+
+Categorization of organisms using the presence or absence of a characteristic feature is known as a dichotomous key. It is more suitable to use external features that can be easily observed.
+
+Following figure shows how a dichotomous key is used to classify and identify some leaves.
+
+17Science | Wonders of the living world
+
+leaves with leaflets
+
+leaflets are dividedat one placeleaflets are divided at different places leaves with a pointed tip
+
+leaves with wavyblades leaves without
+
+wavy blades
+
+leaves without a pointed tip
+
+leaves without leaflets
+
+Following dichotomous key shows a classification of some animals.
+
+Parrot, earthworm, dog, centipede, deer, crow
+
+with four legsdog, deerwithout four legsparrot, earthworm, centipede, crow
+
+with antlersdeerwith wingscrow, parrot
+
+with a curved beakparrot
+
+with legscentipedewithout legsearthwormwithout a curved beak-crow
+
+without wingsearthworm, centipedewithout antlersdog
+
+Science | Wonders of the living world18
+
+Assignment 1.7
+
+Select 6 plants from the school garden and prepare a dichotomous key to classify them. Show your dichotomous key to your teacher.
+
+• There are living things (organisms) as well as non - living things in our environment.
+
+• Organisms can be classified into three major groups as plants, ani־mals and micro-organisms.
+
+• Growth, nutrition, respiration, movements and reproduction are the main characteristics of living organisms.
+
+• There are many differences between plants and animals.
+
+• There is a vast diversity among animals as well as among plants.
+
+• Dichotomous key can be used to classify and identify plants and animals.
+
+Summary
+
+Exercise01. Select the most suitable answer.^i&' A characteristic that is not common to all living organisms. a) respiration b) photosynthesis c) growth d) reproduction
+
+^ii&' The process that creates energy in organisms is
+
+a) growth b) nutrition c) reproduction d) respiration
+
+^iii&' The chemical that can be used to identify carbon dioxide in the laboratory is
+
+a) condis b) lime water c) water d) coconut oil
+
+19Science | Wonders of the living world
+
+(iv)' The gas emitted during the process of photosynthesis is a) oxygen b) carbon dioxide c) nitrogen d) hydrogen(v)' The most suitable equipment to observe the micro-organisms in water is a) telescope b) compound microscope
+
+c) magnifying glass d) binocular
+
+02' Select the most suitable word and fill in the blank.
+
+^i&' The energy needed for photosynthesis is supplied by '''''''''''''''''''''''''''''' (sun / man).
+
+(ii)' There '''''''''''''''''''''''''''''' (is / isn’t) a limit of growth within plants.^iii&' Most of the animals are ................................. (autotrophic/ heterotrophic).^iv&' A characteristic which can be seen in animals but cannot be seen in most plants is '''''''''''''''''''''''''''''' ^locomotion $ reproduction&'^v&' An essential requirement for photosynthesis is '''''''''''''''''''''''''''''' ^oxygen $ carbon dioxide&'
+
+03' Use a dichotomous key to classify the given plants.
+
+grass, mango, guava, hibiscus, coconut
+
+04' Use a dichotomous key to classify the given animals.
+
+cat, butterfly, cock, cow, rat snake, leech
+
+Science | Wonders of the living world20
+
+Living organisms - Ôùka - E°µ[QPÒ Non living things - wcSù øjH - E°µØÓøÁEnvironment - mßirh - `ÇÀ Micro-organisms - CIqø cSùka - ~sn[QPÒ Growth - j¾Okh - ÁÍºa]Nutrition - fmdaIKh - ÷£õ\øn Movement - p,kh - Aø\ÄLocomotion - ixprKh - Ch¨ö£¯ºa] Reproduction - m%ckkh - CÚ¨ö£¸UP®Respiration - Yajikh - _Áõ\®Photosynthesis - m%NdixYaf,aIKh - JÎzöuõS¨¦Diversity - úúO;ajh - £ÀÁøPø©Dichotomous key - fofnÿï iqÑ - CønUPÁºa_miAutotrophic - iajhxfmdaIS - uØ÷£õ\oHeterotrophic - úIufmdaIS - ¤Ó÷£õ\o
+
+Technical Terms
+
+Project
+
+Go on a field trip to study further about the characteristics and diversity of organisms which you have studied in the lesson "Wonders of the Living World."Make a plan with your teacher to organize the trip.
+
+Science | Things Around Us21
+
+Observe your home garden or school garden and any other calm environment during the day time. You will be able to see many things such as trees and animals etc. Also, you will hear many sounds. Not only that you will feel the heat of the sun and the soft breeze.
+
+Things Around Us
+
+Assignment 2.1
+
+List what you see, hear or feel in your environment.
+
+Copy the following table into your writing book. Fill in the table with your findings. Having a mass -  Have not -  Occupying space -  Doesn’t occupy - 
+
+Things around usHaving a massOccupying space1' pen2' water3' sunlight4' air5' 6' 7' 8' 9' 10'
+
+Does air has a mass? Does it occupy space? Let’s find it.
+
+Let's do the following activity to find out whether air occupies space.
+
+02
+
+Table 2.1
+
+Science | Things Around Us22
+
+You will observe that the handkerchief is not wet. This is because there was air in the glass. So, water cannot enter the glass . The conclusion is that air occupies space.
+
+Let’s do the following activity to find out whether air has a mass.
+
+Activity 2.2
+
+You will need : two balloons filled with air, a metre ruler, several pieces of thread
+
+yySet up the balloons as shown in the figure 2.2.yyBalance the ruler until it lies horizontally.yyMake a hole in one balloon and let the air out.yyObserve what happens to the ruler.
+
+What are your conclusions?
+
+Activity 2.1
+
+You will need : a basin, a dry handkerchief, a dry glassDoes air occupy space?
+
+² Place the handkerchief tightly at the bottom of the glass and keep the glass upside down vertically in the water basin as shown in the figure 2.1.² Take out the glass vertically from the water basin and check whether the handkerchief is wet. What is your conclusion?
+
+HandkerchiefWater basin
+
+Handkerchief
+
+WaterGlass
+
+Fig. 2.1
+
+Does air have a mass?
+
+Metre ruler
+
+Balloonswith air
+
+Thread
+
+Fig. 2.2
+
+Science | Things Around Us23
+
+When the air in one balloon is out, you will observe that the meter ruler looses its balance. This happens because the air in the balloon goes out. Hence, you can come to the conclusion that air has a mass.
+
+The things around us can be categorised as
+
+••Things with a mass and occupy space E.g : pen, water, air, table, milk••Things without a mass and do not occupy space
+
+E.g : light, heat, sound
+
+Things with a mass and occupy space are known as matter.
+
+We normally refer to things in daily life as matter.
+
+Fig. 2.3 Some examples of matter
+
+2.1 Matter and Energy
+
+yyThe amount of matter in an object is referred to as the mass of the object.yyKilograms (kg), grams (g), milligrams (mg) are some units used to measure mass.yyThe international unit of measuring the mass is kilograms (kg).
+
+Science | Things Around Us24
+
+Things without a mass and do not occupy space are known as energy.
+
+The things around us can be dived into two main categories as matter and energy.
+
+Assignment 2.2
+
+Categorise the things you listed in Assignment 2.1 as matter and energy.
+
+2.2 States of Matter
+
+In our day to day life, we use matter such as firewood, kerosene, liquid petroleum gas (L.P. gas).
+
+These matters can be categorised as follows.
+
+yy Firewood is a matter in solid state.
+
+yy Kerosene is a matter in liquid state.
+
+yy L.P. gas is a matter in gaseous state.
+
+Think about the things you use in your day to day activities and try to categorise them as solid, liquid and gas.
+
+Assignment 2.3
+
+Categorise the following into solid, liquid and gas according to the physical states. Jaggery, water, sugar, brick, pen, coconut oil, air, table, water vapour, cotton wool, rice, milk, oxygen, king coconut water, coal, diamond, gems, gold, sand
+
+The states of matter are solid, liquid and gas.
+
+Characteristics of Solids
+
+Observe some solids. What can you say about their shapes and volumes?The shape of solids does not change easily. They have a definite shape. Also, there is a definite volume for solids.
+
+Science | Things Around Us25
+
+Fig. 2.4 Some examples of solids
+
+A solid has,
+
+² a definite shape² a definite volume
+
+Characteristics of Liquids
+
+Let's do the following activity to find out the characteristics of liquids.
+
+BatBrickStone
+
+Activity 2.3
+
+Let's find out the characteristics of liquidsYou will need :- a measuring cylinder, coloured water, transparent
+
+containers of different shapes
+
+² Measure 25 ml of water using the measuring cylinder.
+
+² What is the shape of the water in the measuring cylinder ?
+
+² Measure 25 ml of water and put into the containers of different shapes. Fig. 2.5
+
+Science | Things Around Us26
+
+In this activity, though you put the same volume of water into the containers, water takes the shape of the container. Hence, a liquid has:
+
+yya definite volume
+
+yy no definite shapeWater, petrol, liquid milk, coconut oil are some examples for liquids.
+
+Water (liquid)Milk (liquid)Coconut oil (liquid)
+
+Fig. 2.7 Some examples of liquids
+
+Characteristics of Gases
+
+Do you think that the empty bottle in figure 2.8 contains any matter? Let’s do the following activity to find the answer.
+
+Fig. 2.8
+
+How to measure a liquid using the measuring cylinder.The measuring cylinder is used to measure liquids in the laboratory.
+
+The correct method of measuring a volume is: When you put a liquid into the measuring cylinder you will see a curved surface at the top as shown in the figure. Get the reading of the lowest curved point.
+
+Fig. 2.6
+
+Science | Things Around Us27
+
+When the bottle is in the position as in figure 2.9(a), water doesn’t enter the bottle. But when the bottle is in the position as shown in figure 2.9 (b), bubbles come out and water enters the bottle. First, water didn’t go into the bottle because there was something in the bottle. At the next position, water entered the bottle because the air blocked in the bottle came out. So, it is clear that air occupies space.
+
+Activity 2.4
+
+You will need :- an empty bottle, a water basin
+
+Method :-yyPut the bottle (upside down) in the water basin as shown in figure 2.9 (a) and then tilt the bottle as shown in figure 2.9 (b). Observe what happens.
+
+2'9 (a) 2'9 (b)
+
+Activity 2.5
+
+Find out whether there is a definite volume for air
+
+You will need :- two gas jars, a joss stick,
+
+a piece of cardboard
+
+² Light the joss stick and send the smoke into the gas jar turned upside down.² Now, get another gas jar and keep it as shown in the figure 2.10.² Observe well.² What are your conclusions?
+
+Figure 2.10
+
+Gas jar turned upside down
+
+Joss stick
+
+Find out whether air occupies space
+
+Science | Things Around Us28
+
+You will see that the smoke in the first gas jar goes to the second gas jar as well. The conclusion is that gases do not have a definite volume and they spread throughout the container.A gas has:- ² no definite volume ² no definite shape
+
+Air around us, oxygen, carbon dioxide, water vapour are some exam-ples for gases.
+
+An oxygen tank containing oxygenA balloon containing gas
+
+Figure 2.11 Some examples of gasesThe characteristics of solids, liquids and gases can be compared as follows.Table 2.2 - Comparing solids, liquids and gasesForm of mattershapevolumesolidhas a definite shapehas a definite volumeliquidhas the shape of the containerhas a definite volume
+
+gasno definite shapeno definite volume
+
+Assignment 2.4
+
+Categorise the things in your kitchen as solids, liquids and gases. Write them in a table.
+
+Science | Things Around Us29
+
+Activity 2.6
+
+There are different properties in different solid materials.
+
+Therefore, the properties of solid matter should be considered when they are used.
+
+Let’s do the following activity to find out the properties of solids.
+
+You would have identified that solids have their own properties.The following table shows some physical properties of solids with examples.
+
+Specific Properties of Solid Matter2.3
+
+Let's find out the properties of solidsYou will need :- iron sheets, copper sheets, aluminium sheets, iron nails, chalk, a rubber band, cotton wool, clay, wheat or rice flour, some wood pieces, a piece of elastic, sand, powder, charcoal, some pieces of plastic, paper, cardboard, polythene, sand papers, iron wire, copper wire, a hammer
+
+Use the above objects for following activities.
+
+Method :- I) Touch the materials with your hand.When you touch them, you will feel that some materials are smooth and some materials are rough. Write the smooth materials and rough materials separately.II) Beat the materials with the hammer.Write the materials that break into pieces and the materials that do not break into pieces separately.III) Take the rubber band, elastic, wires and papers. Pull each material to either side with your hands. Write the materials that stretch.
+
+Science | Things Around Us30
+
+Physical proper-ties of solids
+
+MeaningExamples
+
+01 Hardness The property of resistance to scratch, abrasion and cutting is known as hardness. Hardness differs depending on material.
+
+Diamond , Iron( materials with a high hardness)
+
+02Mallea-bilityThe ability of a metal to be drawn into thin sheet without breaking by hammering or rolling is know as malleability.
+
+CopperIron(metals)
+
+03 Ductility The ability of a metal to be drawn into thin wires without breaking, is called ductility.
+
+CopperAluminumGold(metals)
+
+04Elastic natureThe property of increasing the length of a material by a force of stretch.
+
+RubberElastic
+
+05Brittle-nessTendency of a material to break under a small force. Glass Coal
+
+06TextureFeel of surface; rough or smooth Baby talc
+
+Cotton
+
+Sand paper - Rough
+
+Table 2.3 - Physical properties of solids
+
+Smoooth
+
+Science | Things Around Us31
+
+Can you imagine the amount and types of solids used to build up the above house in fig 2.12 ?The properties of materials used differ depending on the shape of each part, strength, and the area that should be covered. Also, building materials differ according to the area, location, climate, necessity of the person, space and income etc.Think about the materials that are used to build doors, roofs, windows, floor, walls and grills of the above house. Think about their physical properties.Gold, silver and copper are used to make jewellery because of their property of malleability and ductility. Due to these properties, these materials can be made into different shapes.Teats and gloves are made of rubber because of their property of elastic nature.
+
+Figure 2.12 Different types of solids used to build houses
+
+Applications of Solids
+
+Science | Things Around Us32
+
+² Our environment consists of different things.
+
+² The components of the environment can be categorised as
+
+matter and energy.
+
+² Things with a mass and occupy space are known as matter.
+
+² Things without a mass and do not occupy space are known as energy.
+
+² Matter can be classified as solids, liquids and gases.
+
+² A solid has a definite shape and a definite volume.
+
+² A liquid has a definite volume but no definite shape.
+
+² A gas has no definite shape or a definite volume.
+
+² The properties of solids are important in our day to day
+
+needs.
+
+Summary
+
+Table 2.4
+
+Assignment 2.5
+
+ApplicationMaterialProperty
+
+1. Tyres of a vehicle2. Cutting glass3.4.5.6.7.8.9.10.
+
+RubberDiamondElastic natureHardness
+
+Identify the applications of solids. Copy Table 2.4 into your exercise book and fill it with the applications you identified.
+
+Science | Things Around Us33
+
+01. Fill in the blanks with suitable words. i. Things with a mass and occupy space are known as ……………………. ii. Light is an example for ………………………….
+
+iii. The three states of matter are ……….., ……….., ……….. iv. A solid has a definite ………………………. and a definite
+
+…………………..' v. A ………………….has a definite volume but no definite shape. vi. A …………………… occupies the whole volume of the container.02. Underline the correct answer. i. A material with the property of brittleness is (glass, rubber, copper). ii. A material with a higher hardness is (clay, diamond, rubber). iii. A material with soft texture is (gravel, clay, coal). iv. A material suitable to make wires is (rubber, copper, graphite). v. A material with an elastic nature is (plastic, cotton clothes, sevap rubber).
+
+03' Write down the materials used to make the parts of a vehicle. Then, write the physical property of each material.
+
+Exercise
+
+Science | Things Around Us34
+
+Technical Terms
+
+Matter - mod¾:h - \h¨ö£õ¸ÒPÒ Solid - >k - vs©® Gas - jdhq - Áõ² Volume - mßudj - PÚÁÍÄ Hardness - oDv nj - Áßø©zußø© Ductility - ;kH nj - }ÒuPÄ Brittleness - Nx.=r;dj - ö|õ¸[Sª¯À¦ Energy - Yla;sh - \Uv Liquid - øj - vµÁ®Shape - yevh - ÁiÁ® Mass - ialkaOh - voÄMalleability - wdykH;dj - ÁõmhØÓPÄElasticity - wefokiq¨ nj - «Òußø©Texture - jhkh - CøÇ¯ø©¨¦
+
+35Science | Water As A Natural Resource
+
+Water is the most important natural resource given to us by nature. As soon as you hear the word “water”, you will think of rivers, streams, ponds, wells, etc. Water is commonly found in liquid state.Does water exist only in the state of liquid ? Let’s do the follwing activity to find it.
+
+Water as a Natural Resource
+
+Activity 3.1
+
+It can be observed that when ice cubes are heated, they turn into liquid water. When further heated, water turns into vapour. Hence water exists in three physical states as ice, liquid water and water vapour.
+
+Ice ^solid& liquid water water vapour ^gas& ^liquid&
+
+Identifying the states of waterYou will need :- some ice cubes
+
+a test tube
+
+a burnerMethod (-
+
+²²Put the ice cubes into the test tube.
+
+²²Then heat the test tube as shown in the figure.
+
+²²Record your observations.
+
+²²What are your conclusions?
+
+Test tube
+
+Burner
+
+Test tube holder
+
+03
+
+Fig. 3.1
+
+Science | Water As A Natural Resource36
+
+3.1 States of Water
+
+Water exists in the states of solid, liquid and gas in the natural envi-ronment.
+
+Water in Solid State
+
+Ice, snow, glaziers are some examples for the solid state of water. Glaziers can be seen in the Southern and Northern poles of the world. In some countries, snow can be seen in the winter season. Snow is also a solid state of water.
+
+Fig. 3.3 Water in solid state Glaziers
+
+Ice
+
+Snow
+
+Ice ^solid&Liquid water^liquid&
+
+Water vapour^gas&
+
+Fig. 3.2 Physical states of water
+
+37Science | Water As A Natural Resource
+
+Water in Liquid State
+
+The liquid state of water can be seen in lakes, streams, rivers, tanks, ponds, wells and seas. The word “water” in our language normally refers to water in liquid state.
+
+River
+
+Well
+
+Sea
+
+Tank
+
+Fig. 3.4 Water in liquid state
+
+Water in Gaseous State (water vapour)
+
+Steam and water vapour are examples for the gaseous state of water. Water exists in the atmosphere as water vapour. Let’s do the following activity to find out whether there is water vapour in the atmosphere.
+
+Science | Water As A Natural Resource38
+
+Activity 3.2
+
+Activity 3.3
+
+Testing whether there is water vapour in the atmosphere
+
+Method (-
+
+² Fill half of the glass with water.
+
+²²Observe the outer surface of the glass after some time.
+
+²²Put some ice cubes into the same glass and close it with the piece of cardboard.
+
+²²Observe the outer surface of the glass after some time.
+
+²²Record your observations.
+
+²²What are your conclusions?
+
+Water vapour in the atmosphere condenses and can be seen on the outer surface of the glass. Hence, there is water vapour in the atmosphere.
+
+3.2 Types of Water Based on Availability
+
+What happens to the rain drops when they fall on to earth? Sometimes they flow, sometimes they are absorbed by the soil and sometimes they gather in muddy puddles. Let’s do the following activity to find out what happens to the rain drops when they fall on to earth.
+
+Find out the behaviour of rain drops when they fall downYou will need (- a glass tank, clay, sand, stones, gravel in soil, a tin
+
+with small holes
+
+Ice cubes
+
+Water
+
+Fig. 3.5
+
+You will need (- a glass, some ice cubes, water, a piece of cardboard
+
+39Science | Water As A Natural Resource
+
+water
+
+Sand
+
+Clay
+
+Stones
+
+Glass tank
+
+Gravel
+
+Method (-
+
+yyPut the components of soil into the glass tank as shown in the figure.
+
+yyThen pour some water on to the components using the tin with holes.
+
+yyObserve the flow of water.
+
+yyWhat are your conclusions?
+
+The water comes through the tin and falls on soil is called precipitation/rain. The water which flows through the components of soil is called ground water and the water remaining on soil is called surface water.
+
+Accordingly, precipitation / rain, ground water and surface water are the ways in which water exists.
+
+Precipitation
+
+The types of precipitation are rain, snow, hail, sleet etc.
+
+Surface water
+
+The types of surface water are oceans, seas, rivers, streams,
+
+tanks, ponds, lakes, waterfalls.
+
+Ground water
+
+The water in wells and springs are the types of ground water.
+
+The tin with small holes
+
+Fig . 3.6
+
+Science | Water As A Natural Resource40
+
+3.3 Types of Water Based on Salinity
+
+Why does sea water taste salty ? Dissolution of different things in water is a special property of water. Many things are dissolved in sea water. Sodium chloride is a one type of salt dissolved in sea water. This is the reason for sea water to taste salty. Based on salinity, water can be further categorized as fresh water, marine water and brackish water.
+
+Salt (Sodium chloride) is produced in salterns by vapourzing sea water.
+
+Fresh water (river)Marine water (ocean)Brackish water (lagoon)
+
+Freshwater
+
+The water in wells, ponds, rivers, streams, waterfalls is known as fresh water. The amount of salt dissolved in fresh water is very low.
+
+Marine water
+
+The water found in seas and oceans is known as marine water. The amount of salt dissolved in marine water is very high.
+
+Brackish water
+
+The water found in lagoons is known as brackish water. The amount of salt dissolved in brackish water is less than marine water but higher than fresh water .
+
+Fig. 3.7 Classification of water according to salinity
+
+41Science | Water As A Natural Resource
+
+Activity 3.4
+
+Let’s find the salinity in waterYou will need (-10 g of salt, drinking water, a 50 ml beaker, a triple beam balance Method (-² Put 25 ml of water into 50 ml beaker and measure the weight.
+
+yy Remove the water from the beaker.yy Put 2 g of salt and a little amount of water into the same beaker and dissolve well. Add water into the beaker till the volume of the salt solution becomes 25 ml.
+
+yy Measure the mass.yy Remove the solution.yy Put 6 g of salt and a little amount of water to the beaker and dissolve well. Add water into the beaker till the volume of the salt solution becomes 25 ml.
+
+yy Measure the mass.yy Record your readings in the given table.
+
+Here, water without salt can be assumed as fresh water, 2 g of salt dissolved water as brackish water and 6 g of salt dissoved water as marine water. You can observe that the water with more dissolved salt has higher mass. Accordingly, when the mass of an equal volume is considered, it can be concluded that the mass of water is high with salinity. Based on this, we can separately identify fresh water, marine water and brackish water.
+
+Assignment 3.1
+
+Try to find a sample of brackish water/ marine water and design an experiment to compare the mass of it with a sample of fresh water.
+
+²² What is your conclusion according to the readings?
+
+SituationBeaker with water...........................Beaker with 2 g of salt dissolved water............................
+
+Beaker with 6 g of salt dissolved water............................
+
+Mass (g)
+
+Science | Water As A Natural Resource42
+
+3.4 Importance of Water
+
+Importance of Water for Human Activities
+
+Water is very important not only for the existence of life but also for many human activities.Think how many times you use water for different activities during the day.
+
+Assignment 3.2
+
+Find the uses of water and draw a picture or design a poster or prepare an album with a collection of photographs.
+
+To drinkFor agricultureTo wash clothes
+
+To bathe
+
+Fig. 3.8 Some uses of water
+
+For transportation
+
+To produce hydro electricity
+
+43Science | Water As A Natural Resource
+
+Categorise your findings in Assignment 3.2 under the following head-lines.
+
+1. For industries including agriculture
+
+2. For sanitary purposes
+
+3. For household activities
+
+4. For transportation
+
+5. For leisure
+
+6. For water related sports
+
+7. To generate electricity
+
+Importance of Water for the Existence of Life
+
+A person who is suffering from diarrhea has a risk of facing dehydration, may even face death. Also, if a plant doesn’t get sufficient water, it gets withered. So, you can now understand that water is a very essential factor for the existence of living beings.
+
+The following figure shows how water is important for life.
+
+To transport nutrients throughout the body
+
+As an excretory medium of animals
+
+To digest food
+
+As a medium of living (habitat)For cooling the body
+
+For photosynthesis
+
+For the rigidity of plants
+
+For plants to ab-sorb minerals
+
+The ways how water is important
+
+Science | Water As A Natural Resource44
+
+3.5 Water, a Limited Resource
+
+There are many gifts of nature. They are called natural resources. Water is a very important gift of nature. But it is a limited natural resource. The reason is most of the sources of water are not in a condition to use directly.
+
+Water covers more than 70% of the earth surface but the percentage of water that can be consumed is 0.01%.
+
+Water in seas and oceans ^97'41]&
+
+Water that can be consumed ^0'01]&
+
+Fig. 3.9 Water on the earth surfaceEven though water is a natural resource, most of the people use it in a very careless manner. Think about the amount of water you waste daily.
+
+Assignment 3.3
+
+Identify the occasions where water is wasted in your school and at your home. Find out the ways to minimize the wastage of water and fill in the following table.
+
+Occasions of water wasteWays to minimize the wastage of water
+
+Solid state of water ^2'58]&
+
+45Science | Water As A Natural Resource
+
+Water Pollution
+
+There are some water bodies with different types of waste materials, bad smell and de-colourization. Addition of waste materials to water till it becomes unsuitable for consumption is known as water pollution. Even though there is only about 0.01% of water suitable for consumption, due to unawareness and carelessness of people, this limited amount of water is getting polluted.
+
+Fig 3.10 A river with polluted water
+
+Assignment 3.4
+
+Prepare a report about the human activities that cause water pollution.
+
+The following figure shows some methods of water pollution.
+
+addition of agrochemi-cals and chemicals
+
+Washing and bathing in water bodies
+
+Releasing of waste mate-rials and impure water to water bodies
+
+Releasing of chemicals and impure water from factories
+
+Addition of poly-thene and plastics to water bodies
+
+Some methods of water pollution
+
+Science | Water As A Natural Resource46
+
+Releasing of waste materials and impure water to water bodies
+
+Emission of chemicals and washing materials (alkali) to waterReleasing of polythene andplastics to water
+
+Releasing of household waste materials to water
+
+Fig. 3.11 Some methods of water pollution
+
+Pollution of surface water affects ground water too. The poisonous chemicals in surface water are added to the ground water too. As ground water is used to drink, these poisonous chemicals enter the human body. This causes many serious illnesses such as cancers, kidney failures, etc.
+
+Precautions should be taken as soon as possible to prevent water pollution. Otherwise, we will also lose the limited amount of water that is suitable for consumption.Taking necessary steps to stop water pollution is a timely need.
+
+47Science | Water As A Natural Resource
+
+²²Water is an essential factor for the existence of life.
+
+²²Water exists in three physical states. They are solid, liquid and gas.
+
+²²Solid state of water -ice
+
+Liquid state of water -water
+
+Gaseous state of water -water vapour
+
+²²The ways in which water exists are precipitation/rain, surface water and ground water.
+
+²²The types of water based on salinity are fresh water, marine water and brackish water.
+
+²²Water is important for human activities.
+
+²²The amount of consumable water has been limited due to water pollution.
+
+²²It is our duty and responsibility to minimize water pollution and conserve water.
+
+Summary
+
+01) . Select the correct answer.
+
+i. Which one of the followings do not appear in the solid state of water? a. ice b. snow c. glaziers d. steam ii. Water with high salinity is known as
+
+a. marine water b. fresh water c. brackish water d. muddy water
+
+iii. Consumable percentage of water on earth is @
+
+a. only 10% b. only 1% c. only 0.1% d. only 0.01%
+
+iv. Water in lagoons is known as
+
+a. marine water b. fresh water c. brackish water d. muddy water
+
+Exercise
+
+Science | Water As A Natural Resource48
+
+Project
+
+²² Identify the instances where water is wasted in the school and at home. Design a poster to give the message to minimize water wastage and display it in school.²² Calculate the per capita water consumption and prepare a report.²² Calculate the domestic water consumption and prepare a report.²² Prepare a report on how the water in a certain water body gets polluted.
+
+02). Fill in the blanks with a suitable word/ words.
+
+i. Water in rivers, streams, lakes, tanks is known as ……………
+
+ii. Brackish water can be seen in ……………………………..
+
+iii. Rain and hail are the examples of .............................................
+
+iv. Many ………………..are dissolved in sea water.
+
+Fresh water - ñßÈh - |ßÜºBrackish water - lsjq,aÈh - \Áº}ºMarine water - lrÈh - EÁº}ºGround water - N+.; c,h - {»URÌ }º Surface water - u;=msg c,h - ÷©Ø£µ¨¦ }ºWater vapour - c, jdIam - }µõÂ Sleet - whsialeg jeiai - £ÛUPmi©øÇ Snow - ysu - £ÛHail - ysu leg jeiai - B»[Pmi ©øÇWater pollution - c, ¥IKh - }º ©õ\øhuÀPrecipitation - j¾IKh - £iÄÃÌa] Rain - j¾Idj - ©øÇ
+
+Technical Terms
+
+Science | Energy in day to day life49
+
+Energy in Day-to-Day LifeSome events of the Sinhala-Hindu New Year festival and a procession are given in the following pictures.
+
+Assignment 4.1
+
+List the different games and special activities taking place in
+
+these events.
+
+Now, think about these activities. It is clear, that some work is done in all these activities. Now, let's focus on some activities done in our day-to-day life. Pulling a log using a rope, carrying a heavy load of soil by a wheel barrow, loading of goods to a vehicle are some common examples. We understand that energy is needed to do all these activities. What is energy ? Energy is defined as the ability to do work.
+
+04
+
+Use of energy to do work
+
+Let’s do Activity 4.1 to understand how energy can be utilized to do work.
+
+Fig. 4.1 Events of the Sinhala-Hindu New year festival and a procession
+
+50Science | Energy in day to day life
+
+The wind propeller rotates when there is wind. When the wind speed is higher, the propeller rotates faster.
+
+The rotation of the wind propeller indicates a task. How did the wind propeller get the energy ? It was provided by the blowing wind.
+
+Activity 4.1
+
+Fig. 4.2Fig. 4.3
+
+Let’s make a wind propellerYou will need (- Oil papers with different colours, a thin wire, a used ballpoint pen, a small piece of cardboard, a pair of scissors
+
+yyCut 10 pieces of coloured oil papers into triangles as shown in Fig. 4.2.
+
+yyMake two holes in each piece as shown in Fig. 4.2.
+
+yyInsert the wire into one hole of each paper and fix all pieces to the wire.
+
+yyAfter fixing the pieces insert rest of the holes into the wire to make the wind propeller (Fig. 4.3).
+
+yyNow, insert two small cardboard circles from top and bottom of the wire.
+
+yyNow, bend the top edge of the propeller.
+
+yyFinally, fix the other end of the wire tightly to the barrel of the ballpoint pen.
+
+yyNow hold it to the blowing wind. See what happens.
+
+Science | Energy in day to day life51
+
+Now let's focus on a "solar thermal stove / cooker" shown in Fig. 4.4. What is a solar thermal cooker? It can be used to cook food and boil water. Do you know how does the cooker get energy ? To find the answer let's do the following activity.
+
+Fig. 4.4 Solar thermal stove / cookerActivity 4.2
+
+Demonstrate the function of a solar thermal box stoveYou will need :- A piece of cardboard of the size 30x30 cm, a pair of scissors, binder gum, a piece of aluminium foil of the size 30x30 cm, two beakers of 50 ml, a thermometer, some pieces of paper, a sheet of glass of the size 20x20 cmMethod :-
+
+• Fold the parts of the cardboard and make a box as shown in Fig 4.5. Paste the edges with paper stripes.(The aluminium foil should go inside the box)• Put 30 ml of water into each beaker and record the temperature of water.• Keep the box at a place with good sunlight and keep one beaker inside the box and the other outside the box. Close the box with the sheet of glass.• Remove the sheet of glass and measure the temperature of water in the two beakers after 15 minutes.
+
+20 cm
+
+20 cm
+
+30 cm
+
+30 cm
+
+10 cm
+
+10 cm
+
+• Paste the aluminium foil one side of the cardboard with binder gum.• Draw lines on the cardboard as shown in Fig 4.5 and cut off the four shaded parts.
+
+20 cm
+
+20 cm
+
+2Fig 4.5
+
+20 cm
+
+Picture 01Picture 02
+
+52Science | Energy in day to day life
+
+The beaker inside the cooker absorbs more solar energy than the beaker kept outside due to the special arrangement of the cooker. Therefore, the temperature of the beaker inside the box is higher than the beaker kept outside the box. This happens due to solar energy.
+
+Thermometers are used to measure the temperature. Temperature is measured in Celcius or Fahrenheit. Temperature is measured in Celcius (0C) in day-to-day applications.
+
+e.g : Sun, biomass, fossil fuel, wind, running water, sea waves, tidal waves, geothermal and nuclear power
+
+Table 4.1 summarises the examples of different activities that use energy and the respective energy source.
+
+ActivitySource of EnergyDrying of chillies SunRunning a vehicle Petrol /diesel(fossil fuel)Cooking a mealFire-wood (biomass) / L.P. gasIroning clothesCoconut shell (biomass) / Electricity
+
+Heating water Liquid petroleum (L.P gas) / Electricity/ biomass / fossil fuelNow, let’s study about other sources of energy.
+
+Table 4.1- Examples of use of energy and respective energy source.
+
+When you cook using a solar thermal stove / cooker, solar energy is used. Solar enenrgy is used in many day-to-day activities. For example, drying of chillies / clothes, grains and for making “Lunu dehi”.
+
+Activity 4.1 demonstrates the use of wind energy to rotate a wind propeller. Activity 4.2 shows the use of solar energy to heat water and cook food. There are a large number of enenrgy sources.
+
+Science | Energy in day to day life53
+
+4.1 Energy Sources and Their Applications
+
+Sun
+
+Think of some of the activities you did today. If you do not have sufficient energy, can you do them ? How did you get the energy? Energy needed for these activities are supplied from food you eat.
+
+Food for all living beings is produced in green plants. Sunlight is needed for the process of producing food in green plants.
+
+Fig 4.6 Sun
+
+Therefore, energy in food is derived from solar energy.
+
+Sun is the main natural energy source on the earth . It is essential for the existence of life on earth. This energy can be utilized in many ways as in drying grains and drying wet clothes.
+
+Fig. 4.7 Solar water heaterFig. 4.8 Solar panel
+
+Fig. 4.7 shows a solar water heater which is located on the roofs of some houses. This can be used to heat water. Solar panels are used in some occasions where electrcity cannot be obtained from the main electricity supply to power some electric appliances. Solar panels obtain
+
+54Science | Energy in day to day life
+
+their energy from sunlight. Even satellites obtain power from solar panels containing many solar cells.
+
+Assignment 4.2
+
+Prepare a list of instances where solar energy is used.
+
+Biomass
+
+Living materials can produce energy. Think of a wild fire which occurs commonly during drought seasons. Controlling of such fire is very difficult because dried leaves catch fire easily. Such fires release large
+
+Fig. 4.9 Biomass (Firewood)
+
+amount of heat. This proves that living parts can be used to produce energy. Such plant or animal materials which can be used as a fuel, are known as “biomass”.
+
+Firewood is one of the commonly used biomass. Other examples of biomass are coconut shells, coal,
+
+rotten vegetables, hay, saw dust, rice bran, rotten food materials and agricultural waste. Biomass also contains solar energy.
+
+Saw dust stove or "kudu lipa" / "thool aduppu" is one example, where biomass is used. Here, rice bran or saw dust is used as biomass. Make a saw dust stove with the help of your teacher .
+
+Activity 4.3
+
+Let's make a saw dust stove or “kudu lipa”/ "thool aduppu".You will need (- A tin without a lid, long nail or alis bodkin, tin cutter, PVC tube (4 cm diameter and 30cm long), hacksaw blade, saw dust or rice brans
+
+Science | Energy in day to day life55
+
+This is a very simple economical hearth which can be used to cook meals and to boil water.
+
+Method (
+
+yyMake a circular hole of 4cm diameter close to the bottom edge of the tin.
+
+yyInsert the PVC tube from the prepared hole into the tin as shown in the figure. Push it to the centre of the tin and cut it leaving 4 cm outside the tin.
+
+yyThen, put another PVC tube vertically inside the tin and fill the tin with saw dust or rice brans.Fig. 4.10 yyThis should be packed thoroughly by using a piece of wood.
+
+yyNow, remove the two PVC tubes carefully.
+
+yyAn “L” shaped hole is made inside the tin. Light the stove by inserting a flame from the lower end.
+
+Assignment 4.3
+
+BiomassInstances where it is used to obtain energy Firewood Coal Hay Sugar caneWaste matter from the kitchen
+
+Let’s find examples where biomass is used to obtain energy. Copy the table given below into your writing book. Complete it with more examples.
+
+56Science | Energy in day to day life
+
+Fossil Fuel
+
+Do you know how did the old train engines get energy? It was produced by burning coal. The heat emitted during the burning of coal was used to convert water to steam. The energy generated by steam was used to operate engines. Coal, petroleum oil and petroleum gases are considered
+
+Fig. 4.11 Petroleum oil well
+
+as fossil fuel. These fossil fuels are accumulated under different parts of the inner earth. These fuels are made from the buried plants and animals. They are produced when this buried matter is subjected to high pressure and temperature. This process takes millions of years. Solar energy is the stored energy in the fossil fuel too.
+
+Assignment 4.4
+
+Some examples for the use of fossil fuels are given below. Name a fuel / fuels used in each of these occasions.
+
+1
+
+4
+
+2
+
+5
+
+3
+
+6
+
+Science | Energy in day to day life57
+
+Activity 4.4
+
+Let's use wind energy to do work
+
+Assignment 4.5
+
+Petroleum is imported to Sri Lanka from foreign countries. Prepare a list of countries where fossil fuel is available. You can get this information from the world wide web or from any other source.
+
+Wind Have you seen how farmers separate unfilled or half filled rice grains from the harvest ? Wind power is used for this purpose even today in rural areas. Wind power can also, be used to dry different materials. Let’s do the following activity to see whether we can use wind energy to do work.Fig 4.12 Winnowing paddy
+
+Materials (- two “spoke” wires, used ballpoint pen, a pair of scissors/paper cutter, a small round shaped metal (with a diameter of 5 cm), twine thread, a small weight
+
+Method (² Prepare a wind propeller from the circular metal piece as shown in the figure.
+
+Fig 4.13
+
+58Science | Energy in day to day life
+
+yyNow, make a hole in the middle of the wind propeller.yyNow, remove the ink rod of the pen and pass the spoke wire through the barrel of the pen. Then, fix the wind propeller to the barrel of the pen as shown in the figure. yyTie the weight with a thread and fix the other end of the thread to the pen tightly.
+
+yyAfter that, use the other spoke wire to hang the prepared equipment and take it to a place where wind is available.
+
+Observe how the weight is lifted with the help of the wind.
+
+You will observe the rotation of the wind propeller and the lifting of the weight,when wind blows. Thus, it is obvious that we can do work with the help of wind. Large wind mills are operated using
+
+Fig. 4.14 A wind mill used to grind grains
+
+Fig. 4.15 Generation of electricity using wind energy
+
+grains and to pump water. When the wind mill operates, we can rotate the parts of a generator. This can be used to generate electricity, too. These types of energy power plants are available in Sri Lanka as well. (Hambanthota, Puththalam)
+
+Assignment 4.6
+
+Prepare a list of activities where wind energy is used.
+
+wind energy. In ancient times, people used this energy to grind
+
+Science | Energy in day to day life59
+
+Energy Stored in Water
+
+During ancient times, people used running water to do certain work such as to grind grains and to operate saw mills. They used water to rotate a turbine and thereby generate energy. Let's do Activity 4.5 to make a turbine.
+
+Activity 4.5
+
+Let’s make a model of a turbine
+
+You will need :- A small plastic bottle, cork stopper, spoke wires, few yoghurt spoons, a cardboard circle and binder gum.
+
+Method :-
+
+yyPaste the cardboard circle at the bottom of the plastic bottle.yyMake a small hole at the centre of the bottom which is similar to the size of the spoke wire.yyMake another hole at the centre of the cork stopper also.yyNow fix the yoghurt spoons to the cork at similar distances.yyFix the cork to the bottle.You have completed making a model of a turbine. Now, testwhether it rotates by holding it to running water. E.g:- You may also draw, designs on the cardboardcircle and see how they move.
+
+Energy stored in running water is utilized in hydropower stations to generate electricity. When water is at a higher position, it contains more energy. It is called potential energy. Normally power stations are located at a lower position. The running water is carried in pipes at a high speed. This water is used to rotate the fans of the turbine and operate the generators.
+
+Fig. 4.16
+
+60Science | Energy in day to day life
+
+Fig. 4.17 Structure of a hydropower station
+
+turbine
+
+generator
+
+penstock
+
+tank
+
+Assignment 4.7
+
+Let's make a mini hydropower station
+
+For this activity, you can use the turbine model which you have already prepared. Fix a 2 cm long ballpoint pen to the axis of the spoke wire. Then, fix an axel of a small motor to the other end of the pen and connect a circuit of a birthday card (available only in some cards) to the terminal of the motor. Now, you can activate the turbine.
+
+Fig. 4.18 Circuit of a Birthday card
+
+dam
+
+Science | Energy in day to day life61
+
+Sea Waves
+
+Sea waves are strong. They can generate a large quantity of energy. This will be a very valuable source of energy in the near future. This energy can be converted into electrical energy by building floating power plants in the sea. A flow
+
+Fig. 4.19 A power station operated by sea waves
+
+Tidal WavesThe water level of the sea changes due to the effects of the sun and the moon. It is called as the occurrence of the high tides and the low tides.
+
+Fig. 4.20 A power station operated by tidal waves
+
+of air is used to rotate the blades of the turbine. In some instances, the stored energy of the sea waves causes destructions. One good example is the occurrence of Tsunami in 2004. Due to this situation, we lost millions worth properties and invaluable lives of humans. It also caused great harm to nature.
+
+The rise of the sea water level is named as the high tide, and the fall of the sea water level is named as low tide. When there is high tide, sea water can flow into a tank on the land. When there is low tide, water can flow back to the sea. During both these actions, energy is generated. This tidal energy can be used to rotate the plates of a turbine, thereby it is possible to generate continuous supply of electricity. To use tidal energy efficiently, it is essential to have a significant difference of heights of the water levels of the sea. In some countries, this difference is more than 3m.
+
+62Science | Energy in day to day life
+
+Geothermal Energy
+
+The temperature of some regions of inner earth crust is very high. This high temperature can be used to generate electricity. Steam is generated by sending water through pipes to such high temperature regions. This steam is subsequently brought to the surface of the earth and is used to rotate the turbines of the power plants. This source of energy is used in some countries of the world to generate electricity.
+
+Nuclear Energy
+
+Have you ever thought how does the sun generates its energy? The energy of the sun is generated due to nuclear reactions. A very high amount of energy is emitted during these reactions. If nuclear reactions are performed under controlled conditions, nuclear energy can be generated. This energy is emitted as heat or thermal energy. Heat is thusgenerated used to produce steam. Steam produced by this process is then used to rotate turbines and to produce electricity. Some countries use this technique to produce electricity.
+
+Fig 4.22 Nuclear power plant
+
+Organize a field trip to see hydropower stations, wind mills , thermal power plants and hot water springs to get a better understanding about the sources of energy and their uses.
+
+Fig. 4.21 A plant functions by Geothermal Energy
+
+Science | Energy in day to day life63
+
+Assignment 4.8
+
+Sustainable Use of Energy Sources
+
+Now you are aware that energy is needed to do work. Energy helps us in many ways. It helps us to maintain our body temperature, provides light, and helps to cook your meals. It is also used to operate television and radio. Not only that, energy supplies power to move vehicles and for body functions and movements.
+
+In ancient times (200 years ago), the major energy sources were the sun, fire-wood and wind. People used solar energy to dry things, and fire wood to cook meals. Wind energy was utilized for sailing boats.
+
+With the increasing complexity in lifestyle, new energy sources were discovered. Many of them are now used to generate electricity.
+
+The world population increases day-by-day. Energy requirements also, increase accordingly. The use of some energy sources are increasing at a high rate. For example, fossil fuel is a non renewable energy source.What will happen when all sources of coal, petroleum gases and petroleum oil are over? It will take millions of years for them to regenerate. Therefore, it is our responsibility to use these energy sources wisely, without wasting.
+
+We have to protect them for our future generations.
+
+Make a small booklet containing images and information on different energy sources and their uses.
+
+64Science | Energy in day to day life
+
+Assignment 4.9
+
+Assume that you are born in an era, where no more fossil fuels are available. List the problems that you will encounter and suggest remedies.
+
+We can conserve energy sources by using them carefully. Our ancestors used them carefully and protected them for us.Therefore, it is our responsibility to protect these sources for future generations, too.
+
+We have to concern about taking necessary action to avoid this crisis in future.
+
+For your extra knowledge
+
+Bio gas can be produced by using biomass. All types of waste matter gathered in urban areas and agricultural waste can be used to make biomass.
+
+Ethanol is a kind of alcohol which is produced as a bio-product in sugar cane industry. It can be used as a fuel to run vehicles.
+
+Some countries in the world use maize plants to produce fuel.
+
+Fig. 4.23 - An aeroplane which uses alcohol as a fuel
+
+Science | Energy in day to day life65
+
+yy Energy is needed to do work.
+
+yy The ability to do work is referred to as energy.
+
+yy Energy is produced by energy sources.
+
+yy The sun is the primary source of energy.
+
+yy Wind, biomass, fossil fuel, water, tidal waves, geothermal energy and nuclear energy are some of the examples of energy sources.
+
+yy Some of them are non-renewable.
+
+yy Energy sources should be conserved for future generations.
+
+Summary
+
+Exercise
+
+01' i. What is biomass?
+
+ii. What is the similarity between bio mass and fossil fuel?
+
+02' i. What are the energy sources suitable to generate electricity in Sri Lanka?
+
+ii. What are the fossil fuels that are used in power stations in Sri Lanka?
+
+03' i. Suggest some measures to minimize the energy consumption in your home?ii. What are the energy sources that will be used to a large extent in the future?
+
+66Science | Energy in day to day life
+
+Project
+
+Mention occasions of energy waste in your home and make a report of your suggestions to minimize the wastage.
+
+Technical Terms
+
+Energy - Yla;sh - \Uv Work - ld¾hh - ÷Áø» Bio mass - ffcj ialkaO - E°ºzvoÄSea waves - uqyqÿ r< - PhÀ Aø»PÒ- Tidal waves - Woï r< - ÁØÖ¨ö£¸US Aø»PÒGeothermal - N+ ;dmh - ¦ÂöÁ¨£® Nuclear power - kHIaál n,h - P¸a\Uv Fossil fuels - f*dis, bkaOk - _Ámk G›ö£õ¸Ò- Wind mill - iq<x fuda, - PõØÓõø»Sources of energy - Yla;s m%Nj - \Uv •uÀ
+
+Science | Light and Vision67
+
+Light and Vision
+
+5.1 How can we see ?D
+
+uring the day time, we can see things clearly. But we switch on the lights to see them at night. If we close our eyes we cannot see anything even during day time or at night with lights on.So, let us find what requirements should be fulfilled to have "vision".
+
+05
+
+Activity 5.1
+
+You will need : A cardboard box with a lid, one rupee coin, a torch, a small object which can be kept inside the box (a dice, a flower, a key etc).Method :-
+
+yyCut a hole at the centre of the lid similar in size of a 50 cent coin.yyCut another small hole on one side of the box as shown in the figure.yyNow, keep the small object in the middle of the box and close the lid.
+
+Large hole
+
+Cardboard box
+
+Small hole
+
+Fig. 5.1
+
+yyThen, close the hole on the top of the lid with the one rupee coin.yyFirst, observe the object through the hole at the side of the box.yyNow, tell one of your friends to identify the object by looking through the same hole.yyNow, take away the coin and direct the light of the torch through the hole.
+
+Science | Light and Vision68
+
+Discuss with your friend about the differences of the observations taken down when the hole was closed and when the torch light was directed in.
+
+From the above activity, you can understand that light is needed to see something clearly.
+
+Is only light enough to see an object ? Are there any other needs to be completed to see an object clearly ?
+
+Activity 5.2
+
+Even though you close your eyes, the hand still gets light. Then, why didn’t you see the lines on the palm which you observed when your eyes were opened? To have a good vision, not only light but also the eye is important. The main factors which are needed to see are a source of light and the eye.
+
+yyThen, observe the object through the hole at the side of the box again.
+
+² Tell your friend to do the same.
+
+² Ask whether he/ she can identify the object.
+
+² Go to a place with plenty of light.² Unfold your hand.² Now, observe the lines on your palm well.² Then, close your eyes and keep the hand unchanged.² Can you see the same observations which you had when the eyes were opened?
+
+Science | Light and Vision69
+
+5.2 Sources of Light
+
+The main natural source of light is the sun. At night, we use bulbs, lamps, candles and other artificial sources to get light because there is no sunlight. Other than that, we get light even from the moon and stars at night.
+
+We get light from these objects because they emit light. Such objects which emit light are known as sources of light.
+
+Luminous and Non Luminous Objects
+
+We can’t see anything when we enter a dark room. But if we light a bulb or a candle we will be able to see the candle and the bulb as well as other objects in the room. The reason is that the light emitted by the candle or the bulb enters our eye. The objects which can produce their own light is called luminous objects.
+
+Lighted lamp
+
+Lighted bulbFig. 5.2 a Luminous objects
+
+Science | Light and Vision70
+
+You may have observed organisms like glow-worm and firefly produc-ing their own light. There are also some types of mushrooms which emit light.
+
+Think of the same dark room which was mentioned before. We are able to see not only the bulb but also other things such as bed, chair and table after the blub was lit. But if the bulb was not lit, we won’t be able to see them. The reason for this is that those objects do not emit light.
+
+Such objects which do not emit light are known as non luminous objects. To get a vision of such an object, a light ray of a luminous object must fall on it.We can see the bright moon in the night sky. Because of this you must have thought that it is a luminous object. But the moon does not emit its own light. We see it as a bright object because the rays of light emitted by the sun fall on the surface of the moon. So, we consider it as a non luminous object. Not only the moon but also the planets are non luminous too.
+
+Fig. 5.2 b Luminous objects
+
+5.3 Transmission of Light through Objects
+
+Glass is used in windows of many houses to get light into the house. But sometimes curtains are used to limit the amount of light fallen in. In some bathrooms decorative glasses are used to get light.
+
+We use the property of light transmission through objects in different ways. Let us investigate further on this.
+
+FireflyLight emitting mushrooms
+
+Science | Light and Vision71
+
+Record your observations in the following table.
+
+Used objectsObservations
+
+1' Black colour paperLight and the flame of candle cannot be seen.
+
+2' Decorative glass
+
+3' Thin piece of glass
+
+4'
+
+5'
+
+Table 5.1
+
+Activity 5.3
+
+You will need :a piece of cardboard, a candle and the following
+
+objects
+
+² a metal sheet ² an oil paper² a piece of decorative glass ² a small piece of wooden sheet² a thin piece of glass
+
+² different types of polythene sheets ² a black colour paper ² tissue papers of different colours ² a piece of newspaperMethod :-² Cut a square of the size 3 cm x 3 cm in the middle of the cardboard.² Then, light the candle.² Now keep each of the things you have gathered in the middle of the hole to cover it.² Next, move it towards the flame of the candle and observe the flame through the objects.
+
+Piece of card-board
+
+hole
+
+Observed object
+
+CandleFig 5.3
+
+Science | Light and Vision72
+
+Light can be clearly seen when looked through some objects, even the flame of the candle can be clearly seen.
+
+A
+
+B
+
+C
+
+Decide to which group (A,B,C) do the objects used in the above activity belong. Accordingly, fill in the following table with the relevant objects.
+
+AThe objects through which both the light and the flame are clearly seen
+
+The objects through which the light is seen but the flame is not clearly seen.
+
+CThe objects through which both light and the flame cannot be clearly seen
+
+Thin piece of glassDecorative glassBlack colour paper
+
+Table 5.2
+
+We used only solid objects for the above activity. But, the way light transmits through liquids differs from other. Light transmits through air very easily and therefore, we can see the things around us clearly. But, when there is fog in the atmosphere, it is not possible to see things clearly.
+
+On the other hand, we can observe different coloured fish in a tank with clear water. But, if the water is dirty and unclear, we cannot see fish clearly. This happens because light travels in different ways through
+
+Now according to the observations, categorize the objects into three groups as follows.
+
+Both the light and the flame of the candle cannot be seen through some objects.
+
+Light can be seen but flame cannot be clearly seen.
+
+B
+
+Science | Light and Vision73
+
+Activity 5.4
+
+You will need:- Some large transparent glass bottles, a candle, water, honey, used engine oil, soft drinks, kerosene oil
+
+Method:-² Fill the bottles with the liquids.² Then light the candle.² Keep the bottle in front of the candle and observe the flame through the bottle. Now fill the columns A,B,C of Table 5.2 with relevant objects according to your observations.
+
+When we look through some liquids, we can see both the objects and the light clearly. The reason is that light is transmitted well through such liquids. They are called transparent objects. Glass and transparent colourless polythene are examples for transparent objects.When we look through oil papers, unclear water, coloured cellophane papers, although the light can be seen, the objects cannot be clearly seen. Such objects are known as translucent objects.
+
+When we look through most of the objects we cannot see either the light or the object. For example, cardboard, wood, metal, paper, tar and etc. They are known as opaque objects.
+
+Now you can identify the objects in the table categorized under A, B and C as transparent, translucent and opaque objects respectively.
+
+water and air. Let us do the following activity to investigate how light travels through liquids.
+
+Fig. 5.4
+
+Science | Light and Vision74
+
+Assignment 5.1
+
+The following table shows some instances where we use transparent, translucent and opaque objects in daily life. Observe some other in-stances and add them to the table.
+
+5.4 Light Rays and Light Beams
+
+You may have observed the light filtering through clouds or trees on a foggy morning or light emitting from headlights of a vehicle on a rainy night. They are known as light beams. Let's do the following activity to learn about light beams.
+
+Activity 5.5
+
+You will need : a candle, some same sized pieces of cardboard, a pair of scissors, a box of matches, a stand, some clay, a needle, a string
+
+Method:² Make holes in the pieces of cardboard as shown in the figure.² Then light the candle and fix it.² As shown in the figure, fix the pieces of cardboard to the stand with clay. You should be able to see the flame through all the cardboard pieces.
+
+Objects
+
+Whether it is transparent, translucent or opaque
+
+Instances used
+
+01. GlassTransparent In a framed photo02. Tissue papersTranslucentIn a Vesak lantern03. CardboardOpaqueIn a shoe box04.05.
+
+Science | Light and Vision75
+
+² Take the needle with a string and send it through the holes carefully.² Fix the string in a straight line and observe the flame through the holes. ² Change the string and observe the flame again through holes.
+
+When the string is in a straight line, we can observe the flame. But, when we change its position, we cannot observe the flame through the holes.
+
+Here, you are able to observe the flame because the light travelled from the flame to the eye through the holes. When the holes are in a straight line, the flame could be observed and when they are not in a straight line, flame couldn't be seen. Now, you can understand that light is transmitted only in a straight line.
+
+In the above activity, the string which was put through the holes shows the path of the light ray.
+
+The narrow path in which light is transmitted known as a light ray. To show a light ray, we use a straight line with an arrow.
+
+A light beam is made up of a collection of light rays. You have seen the light beam which is emitted from a torch when it is switched on. We use
+
+Fig. 5.5
+
+several straight lines with arrow heads to show a light beam.
+
+Science | Light and Vision76
+
+A light rayA light beam
+
+Activity 5.6
+
+You will need : a torch, a white colour paper, a comb with thin teeth
+
+yyChoose a desk kept in a dark place and keep the comb as shown in the figure on the white paper, perpendicular to the desk and the teeth directed downwards.
+
+yyDirect the torch towards the comb and light it up.
+
+yyYou will be able to see the beam of light emitted by the torch and the light rays which travel through the teeth of the comb.
+
+yyMark those rays on the white paper with a pencil.
+
+yyYou will see that the rays drawn by you are straight lines. They are considered as light rays.
+
+Method :-
+
+Fig. 5.6
+
+Science | Light and Vision77
+
+Activity 5.7
+
+You will need : A large transparent glass bottle, some joss sticks, a laser beam torch or a torch covered with a black colour paper with a hole in the middle, a piece of cardboard
+
+Method :
+
+² First, make a hole in the piece of cardboard and insert the joss sticks through it.² Then, light the joss sticks.² Now, as shown in the figure, close the top of the bottle with
+
+the piece of cardboard. The lighted end of the joss sticks should be put inside the bottle.² Let the bottle to fill with smoke and direct the laser beam
+
+torch or the torch covered with the black colour paper towards the bottle and light it up.² Change the direction of the torch and observe the differences.
+
+You can observe the path in which light transmits from the torch through the smoke in the bottle.
+
+Laser beam torch
+
+Lighted joss sticks
+
+Smoke
+
+Piece of cardboard
+
+Fig. 5.7
+
+Science | Light and Vision78
+
+Light is a major need for proper vision. With the development of tech-nology, we have changed the behaviour of light and obtained many uses.
+
+Activity 5.8
+
+You will need :a large transparent glass bottle, water, a small cake of soap, a laser beam torch or a torch covered with a black colour paper which has a hole in the middleMethod :-² Take some water and add the cake of soap and stir it well until it dissolves in the water.² Now, fill the bottle with the soap solution.² Then, keep the torch near the bottle and light it. Direct it towards the bottle.² Now, change the direction of the torch and observe the changes.You can see the path of the light ray through the bottle of water.
+
+Laser beam torch
+
+Fig. 5.8
+
+Glass bottle
+
+Soap dissolved water
+
+Applications of Light5.5
+
+From Activities in 5.7 and 5.8, we can understand that light rays trans-mit in a straight line.
+
+To give a clear vision
+
+For illumination
+
+To give signals
+
+For communication
+
+In the medical field
+
+For entertainment
+
+For the production of food in plants
+
+Some applications of light
+
+Science | Light and Vision79
+
+Let us categorize the applications of light as follows.
+
+For the production of food in plants
+
+Unlike other living organisms, green plants can produce their own food. The energy needed for the process of food production is obtained from the sunlight.
+
+You all know that all other animals directly or indirectly depend on plants for food. Because of this, we consider that production of food in plants is the main advantage of light.Let us find more instances where we use these advantages of light.
+
+To give a clear vision
+
+Earlier, people received light from natural objects such as the sun, the moon and stars. But after the invention of fire, man was able to produce light from various sources.
+
+With the development of technology, the light bulb was invented to get light. Today there are many types of bulbs in the market.
+
+Fig. 5.9 Different types of bulbs
+
+Science | Light and Vision80
+
+Illumination
+
+At present, most of the countries in the world use different coloured and patterned bulbs to illuminate various occasions. Large light sources are used in market places, populated streets and shopping complexes for advertisements. You must have seen that not only at night but also during the day time, the lights are kept on.
+
+Vesak pandolDeepavali
+
+Christmas
+
+Fig. 5.10 Using lights for different occasions
+
+As signals
+
+An instance where light is used to give signals is the light used in light houses. They release a powerful beam of light which gives the signal to the sailors that the land is close.
+
+In traffic lights, you may have seen the colours red, green and yellow. They individually give a message to the drivers and pedestrians. More attention is gained through the use of light to give such signals. Red is a colour which shows a danger.
+
+Science | Light and Vision81
+
+Fig. 5.11 Light signals
+
+Colours in a traffic lightA light house
+
+For communication
+
+Communication in the modern world is well developed. For this, different types of light rays are used. Telephone messages are transmitted through optic fibers.Telephone connection networks across the main cities of Sri Lanka have been built using optic fibers. Optic fibers are used to connect computer networks and high standard audio visual equipment. They use optic fibers and laser rays to send telephone messages and to maintain internet connections.
+
+In the medical field
+
+At present, doctors use laser rays to treat eye patients, in heart operations and to treat wounds in the digestive system. This has increased the efficiency of treatments.
+
+With the use of optic fibers, the interior parts of the body are easily observed. Here, the equipment used to lighten the interior of the body is called the endoscope.
+
+Science | Light and Vision82
+
+For entertainment
+
+In musical shows and fairs, light is used in a large scale. They use spot lights of different colours to light up the stage.
+
+Even lights are used, in toys designed for children.
+
+Fig. 5.13 Light emitting toys
+
+To produce light artifically we have to spend money. Therefore, unnecessary usage of light is a wastage of energy and money. So, we must always be cautious enough to stop the wastage of light and at the same time we must use it without making a disturbance to others.
+
+Fig. 5.12 An Endoscope
+
+Do you know?
+
+In some countries, optic fibers are used to light the rooms in tall buildings during the day time. Here, the sunlight is sent through these fibers and the rooms are lighted up.
+
+Science | Light and Vision83
+
+Do you know?
+
+When there is a lot of fog, it is very difficult to travel on roads as we can't see anything. But light beams of headlights could be seen through fog. The reason is that air is transparent on normal foggy conditions but air becomes translucent on foggy conditions. When the humidy is high in air, air becomes translucent.
+
+There is a new type of lamp in modern vehicles as “fog light” to be used when the atmosphere becomes translucent because of the mist.
+
+Optical fibers are a type of flexible fibers which are made up of special type of glass or plastic. An optic tube is called a collection of such fibers. The use of such tubes to transport light is called optic fiber technology.
+
+The first bulb with carbon fil-aments in the United States of America was invented by Thomas Alva Edison in 1879.
+
+Science | Light and Vision84
+
+Summary
+
+Exercise
+
+01.Select the correct answer.
+
+i. Choose the correct statement.
+
+a.The moon is a luminous object.
+
+b.The sun is a source of light.
+
+c. Planets are non luminous objects. i. Only a and b
+
+ii. Only b and c
+
+iii. All are correct
+
+iv. All are wrong ii. The correct statement of the followings is, a. Water, glass and decorative glass are transparent.
+
+² The main factors that must be satisfied to have complete vi-sion are light and the eye.
+
+² The objects we use to get light are known as sources of light.
+
+² Objects which emit their own light are known as luminous objects while the ones which cannot emit light are known as non luminous objects.
+
+² The way light transmits through objects differs from object to object. According to that, we categorize them as transparent, translucent and opaque.
+
+² Light transmits in straight lines.
+
+² The combination of light rays is called a light beam.
+
+² There are many applications of light, apart from giving vision.
+
+Science | Light and Vision85
+
+b. Water, polythene and oil papers are translucent.
+
+c. Oil papers, decorative glass and colourless polythene are transparent.
+
+d. Cardboards, metal and papers are opaque.
+
+iii. Why can we see a light ray travelling through the roof of a kitchen which is filled with smoke? a. Because the kitchen becomes translucent when filled with smoke.
+
+b. Because the kitchen becomes transparent when filled with smoke.
+
+c. Because light transmits through air.
+
+d. Because smoke absorbs light.
+
+02. Fill in the blanks with the correct word. Light is a type of '''''''''''''''''''''''''''''''' It travels in a '''''''''''''''''''''''''' '''''''''''''''''''''''''' Light does not travel through some objects. Such objects are known as......................... To indicate the direction in which light transmits, ........................... is used.In most of the road signals,........................... is used to gain more attention. ( an arrow, energy, sun light, opaque, transparent, straight line, signals, light)03' Describe the following sentences in one word or two words.
+
+i. Objects which emit their own light.......................
+
+ii. Objects which do not emit their own light..........................
+
+iii. Objects which allow light to travel through and the object on the other side can be seen clearly..........................
+
+iv. Objects which allow light to travel through but cannot see the object on the other side clearly.............................................
+
+v. Collection of light rays.....................................
+
+Science | Light and Vision86
+
+-Technical Terms
+
+Science | Sound and Hearing87
+
+Sound and Hearing06Sounds of animals, human voices, noise of horns can be heard in our day-to-day life.T
+
+To observe those sounds, let's do the following activity.
+
+Activity 6.1
+
+² Go out of the class and pay your attention to the sounds that you hear.² Then identify the sounds.² List out the sounds you heard.² Come to the class and compare the sounds you heard
+
+with those of your friends.
+
+Activity 6.2
+
+You may have heard many sounds in the environment. For a better understanding, let’s do the following activity.
+
+You will need (- Bristol boards, a pair of scissors and
+
+glueMethod (² Make two equipment using the bristol boards as given in the figure. ² Keep them on your ear and listen to what you hear.² Compare the intensity of sounds that you heard during the activity 6.2 with the sounds that you heard in the activity 6.1 and report the difference.² You must have understood that the intensity of sounds heard are in the environment are clearer than in the earlier activity.Fig:- 6.1
+
+Science | Sound and Hearing88
+
+6'1 Producing Sounds
+
+Let’s do the following activity to identify how sound is produced.
+
+Activity 6.3
+
+Activity 6.4
+
+You will need (- a bicycle bellMethod (² Ring the bicycle bell.² While it is ringing, keep a finger on it.² Report what you felt.
+
+You may feel a vibration when the bell rings.
+
+Let's engage in the following activity to learn some ways in which sound is produced.
+
+You may observe that the pieces of paper are moving here and there. That is because the hide of the drum is vibrated when it is beaten. This movement is called a vibration.
+
+Fig:- 6.2
+
+Fig:- 6.3
+
+You will need (- A small drum and some small pieces of paper Method (-² Keep the small pieces of papers on the drum and play it.² Observe what happens to the pieces of paper when the drum is beaten.
+
+Science | Sound and Hearing89
+
+6'2 Hearing of Sounds
+
+Therefore it is clear that sound is produced by vibrating something. The objects that produce sound are called sources of sound. Animals, various types of objects, musical instruments are examples for sources of sounds.
+
+To produce different types of sounds, let’s do the following activity.
+
+Activity 6.5
+
+² Tap the desk with a pen or a pencil.² Clap your hands. ² Put some marbles or some green gram into a yoghurt cup and shake it.² Crush a piece of paper with hand.² Burst a balloon.
+
+As mentioned above, we can produce sounds even by using simple methods.
+
+Assignment 6.1
+
+Try some more simple ways of produing sound.
+
+Now let's find out how do we hear sounds.
+
+Activity 6.6
+
+² Tell your friend to close his/her ears and beat a drum. Then ask whether he/she could hear the sound clearly.² Ask your friend to open and close his/her ears while listening to the sound of the drum.² Ask him/her whether he/she noticed any difference in hearing when the ears are opened and closed.
+
+Science | Sound and Hearing90
+
+Fig:- 6.4
+
+For your Extra Knowledge
+
+Ear can be damaged by putting external objects to itch the ear. If the ear is damaged, hearing will be weak.
+
+Assignment 6.2
+
+² Observe the different shapes of ear lobes of different types
+
+of animals and identify the diversity of ear lobes and draw them.² Identify and report the changes that can be seen in the ear lobes
+
+of various animals when they hear sounds.
+
+Now, you can understand that when the ears are closed, you can’t hear the sound of the drum. We can hear the sound of the drum only when the sound enters to our ear. Ear is the organ which senses sound. Ear lobes help to direct the sound into the ear.
+
+Fig:- 6.5
+
+Science | Sound and Hearing91
+
+6'3 Diversity of Sounds
+
+Some sounds that we hear in the environment are produced naturally.For example:- ² Sound of wind ² Sound of a waterfall ² Sound of birds ² Barking of a dog
+
+Fig 6.6 Examples of natural soundsThere are artificial sounds that are made by man using equipment. Following are some examples. ² Sound of a car ² Sound of a school bell ² Sound of an aeroplane ² Sound made by a guitar
+
+fig 6.7 Examples of artificial sounds
+
+Science | Sound and Hearing92
+
+6'4 Music and NoiseSounds that are sung or played rhythmically are known as music.For example:- Sound created by violin, sound created by flute
+
+Sounds that are not rhythmic are known as noise.
+
+For example:-
+
+Noise of traffic, noise of machines in a factory, noise in a fair
+
+When the sound of music is increased, it too can be a disturbance.
+
+Fig 6.8 Examples of noisesAssignment 6.3
+
+² List out the noises that you can hear in a town.² Write the source of sounds in front of the listed sounds.
+
+Science | Sound and Hearing93
+
+6'5 Creating Equipment to Produce SoundLet's make some equipment to produce sound.
+
+Activity 6.7
+
+Activity 6.8
+
+You will need (- Several caps of soft drink bottles,
+
+a strong wireMethod (-² Crush the bottle caps and make them as tablets'² Make a hole in the middle of the caps and send the wire through the holes. ² Now, shake it.
+
+Let's make a clapper boardYou will need (- A fairly large tin, a strong wire, a
+
+nylon thread, an iron rodMethod (-² Make a hole at the bottom of the tin.² Send the wire through the hole and hang the iron rod as given in the figure.² Tie the nylon thread at the end of the iron rod and shake it.
+
+Activity 6.9
+
+You will need (- A cardboard box, 6 thin rubber bands, 2 pencils, a piece of cardboard Method (² Cut a circular part out of the cardboard box.² Then make a simple guitar as given in the figure and play it.
+
+Fig 6.9
+
+Fig 6.11
+
+Fig 6.10
+
+Science | Sound and Hearing94
+
+Activity 6.10
+
+You will need (- Thin wires, a small tin, some nails, a thin wooden plank
+
+Given below are some other equipment which produce sound in the same way as the tin guitar you made.
+
+Fig 6.13 Some instruments that produce music
+
+Activity 6.11
+
+² Search how the bugle produces sound.
+
+You will need (- 6 pen tubes, gum tape, cardboard
+
+stripMethod (² Cut the pen tubes as shown in the figure.(11.5 cm,
+
+10.2 cm, 8.9 cm, 7.6 cm, 5.3 cm, 4 cm)² Then make the bugle as given in the figure.² Practise to play it in the ascending order and in the descending order.
+
+Fig 6.14
+
+Fig:- 6.12
+
+Method (-² Fix 6 nails each at one end of the wooden plank and inside the tin which is fixed at the other end of the wooden plank.(They should be fixed in a straight line )² Then tie the wires tightly around the nails as shown in the figure.² Practise to play the tin guitar.
+
+Science | Sound and Hearing95
+
+Activity 6.12
+
+Assignment 6.4
+
+Make a flute using tender coconut leaves and try to play it.
+
+Figure 6.15 shows some other instruments which produce sound in the same way as a flute.
+
+Fig 6.15 Some instruments that produce sound
+
+Given below are some instruments that are played as same as a drum.
+
+Fig 6.17 Some instruments that produce sound
+
+you will need (- a tin with a large opening, a balloon membrane, a rubber bandMethod (
+
+²²As shown in the figure keep the balloon membrane stretched on the opening of the tin and make a drum.²²Beat it to a rhythm.Fig:- 6.16
+
+Science | Sound and Hearing96
+
+Assignment 6.5
+
+Activity 6.13
+
+Activity 6.14
+
+You will need (- 6 equal glasses, a spoon, waterMethod (-² Take 6 equal glasses and put different amounts of water as shown in the figure.² Strike each glass with a spoon in the ascending and
+
+descending orders.² Play it rhythmically.
+
+Let us make a xylophone.You will need (- Pieces of metal pipes with 1.5 cm diameter, thin wooden plank, glue, a pair of scissors, cellotapeMethod (² Cut the pieces of metal pipes as shown in the figure.(17 cm, 15 cm, 13 cm, 11 cm, 9 cm, 7 cm)² Then paste the cylinders on a wooden plank which has 5 cm
+
+width and 20 cm length as shown in the figure 6.19.² Take 2 sticks and tap the cylinders rhythmically.
+
+Fig 6.18
+
+Fig 6.19
+
+² Take 6 wooden planks with a width of
+
+2.5 cm as shown in activity 6.14. ² Cut them according to the sizes in
+
+activity 6.14. ² As shown in the diagram, keep two strips of cloth on the two pieces of wood and nail wooden planks on it.² Then take two sticks and play it to a
+
+rhythm.Fig:- 6.20
+
+Science | Sound and Hearing97
+
+Assignment 6.6
+
+² Make any amount of equipment that can produce sounds.² Play the instruments with friends in the class and perform a musical band in the class.
+
+Listening to loud sounds is a disturbance. Those sounds are also a disturbance to others. We must use television, radio, loud speakers and other equipment without disturbing others.
+
+For your extra knowledge
+
+By using ear protectors we can protect our ears from loud noises.
+
+Summary
+
+² We can hear different types of sound when we are in the environment.² Ear is the sense organ that helps hearing.² Sound is produced by sources of sound.² Sound is produced by vibrations.² The sound sung or played rhythmically is known as music.² Unrhythmic sound is known as noise. ² Musical instruments can be classified into many groups
+
+according to the way they produce sounds. ² Loud noises are harmful for our ears.² It is our duty and responsibility to use sounds without disturbing others.
+
+Fig:- 6.21 Ear protectors
+
+Science | Sound and Hearing98
+
+Exercise
+
+01. Fill in the blanks with the given words. Sound is produced by .................... of an Object. Objects that produce sound are known as ............................ . Ear is an organ which is......................... to sounds. Rhythmic sounds are known as ...................... and unrhythmic sounds are known as ........................ . By hearing .................noises, ................can get affected. It is our duty to use .................... without disturbing others.(sources of sound, noises, sensitive, vibration, music, sounds, loud,
+
+ears )
+
+02.If the following sentences are true, put a () and if wrong put a ()
+
+within the brackets. i. Ear lobes help to direct sounds to the ear. ^ & ii. The sound of a Tabla is produced in the same way as in a violin.^ & iii.The sound of a flute is produced in the same way as in a trumpet. ^ & iv. Most of the time, rhyhmic sounds are not a disturbance to the ear. ^ &v. It is suitable for people who work in places of loud noises to wear ear protectors.^ &
+
+Technical TermsSound - Yíoh$èjksh - J¼Hearing - weiSu - ÷PmhÀEar - lk - ö\Â Vibrations - lïmk - AvºÄ Music - ix.S;h - Cø\ Noises - f>daId - \zu®Sources of sounds - Yío m%Njh - J¼ •uÀPÒ Natural sounds - iajdNdúl Yío - C¯ØøP J¼Artificial sounds - lD;%su Yío - ö\¯ØøP J¼ Ear protectors - lka wdrlaIl - ö\ÂUPõ¨¦ E£Pµn®Environment - mrsirh - `ÇÀ Sense organs - ixfõo bkaøsh - Enº vÓÝÒÍ A[P®
+
+Science |Magnets99
+
+Magnets07
+
+Assignment 7.1
+
+Make a report of other instances where you can find magnets in day-to-day life.
+
+A file clip has fallen into a glass of water (Fig. 7.1). Can you suggest a way to get it out without either spilling the water or putting your hand in ?
+
+As shown in the figure 7.1 you can get it with the use of a magnet. It is possible to do so because the magnets have the special property of attracting things towards its direction. Fig.7.1
+
+Fig.7.2 Some examples where magnets are used
+
+There are magnets in many things which we use in our day-to-day life. For instance small motors, pencil boxes, some toys etc.
+
+Science |Magnets100
+
+7'1 Effects of Magnets
+
+Let us do the following activity to observe the effect created by magnets on other materials.
+
+Activity 7.1
+
+Things which got attracted towards the magnet
+
+Things which did not get attracted towards the magnet
+
+Through this activity we can understand that some materials get attracted towards the magnet while some others do not.
+
+The magnets differ from each other due to their shapes. Also they are used for different purposes.
+
+Bar magnet Horse shoemagnet RingmagnetU magnet TabularmagnetFig.7.3 Different types of magnets
+
+Assignment 7.2
+
+Take a magnet to your compound and findout the things that get attracted to it.
+
+7'2 Different Types of Magnets
+
+You will need (- a magnet, some iron nails, some brass nails, a piece of Copper wire, a piece of Aluminum sheet, a coin, a piece of plastic, a piece of wood, a piece of paper, a needleMethod (-² Keep each of the above items near the magnet and observe the changes. ² Then list them in the grid given below.
+
+Science |Magnets 101
+
+7'3 Magnetic Poles
+
+Assignment 7.3
+
+Collect some magnets from equipment where magnets are used or discarded and categorize them according to their shapes.
+
+Through the activity in 7.1 you have understood that some materials get attracted to magnets. Let's do the following activity to observe whether the materials get attracted equally to each and every spot of a magnet.
+
+Activity 7.2
+
+Let's identify the poles of a magnet.You will need (- some file clips, a bar magnet, a piece of cardboard.Method (² Spread the file clips evenly on the piece of cardboard.² Then slowly lower the magnet towards the piece of cardboard.² Now observe what happens and report the observations.
+
+You will observe that there are more file clips near the two ends of the magnet.
+
+So you must understand that the attractive power of the magnet is more at the ends than the middle. The two ends where the power of attraction is more are called the magnetic poles.
+
+Fig.7.4 Magnetic poles
+
+Science |Magnets102
+
+7'4 The Behaviour of a Magnet
+
+Activity 7.3
+
+Activity 7.4
+
+Fig.7.5
+
+WoodStand
+
+You can see that the magnet lies still between the North and South.
+
+Further more you can engage in the following activity too.
+
+Fig.7.6
+
+Let's identify the poles of a magnet.You will need (- a wooden stand, a compass, a string, a magnet without poles marked Method (-² Use the compass and mark the North and South on the table with the help of the teacher.² Then hang the magnet steadily from the string to the stand as shown in the figure. ² After that let the magnet to be still. ² Now find the direction to which the magnet has stopped according to the marked directions on the table.² Do the activity for several times and observe.
+
+Let's identify the poles of a magnetYou will need (- a water bath, a piece of regifoam, a bar magnet.Method (² Do this activity on the same desk which was used for the activity 7.3.'² Cut the piece of regiform as shown in the figure.² Then keep the bar magnet on the piece of regiform and let it float on the water.
+
+Piece of regiformMagnet
+
+Compass
+
+String
+
+Science |Magnets 103
+
+For your extra knowledge
+
+² Identify the direction to where the magnet is heading after it goes still'² Repeat the activity and get observations.
+
+From these experiments you can understand that the magnet always stay still in between North and South. We can identify that the North pole of the magnet is the North of the compass and the South pole of the magnet is the South of the compass. We mark the North pole of a magnet as "N" and the South pole as "S".
+
+Fig.7.7 a compass
+
+The pilots, sailors, explorers and soldiers use the compass to find their direction.
+
+7'5 Interactions Between the Poles of Magnets
+
+Activity 7.5
+
+You will need (- two bar magnets with poles marked (Name the magnets as A and B), a wooden stand, stringsMethod (² Fix the magnet "A" as shown in the
+
+figure.² After it becomes still bring the magnet "B" towards it according to the following instructions.Fig.7.8
+
+Wooden Stand
+
+String
+
+Bar MagnetsAB
+
+Science |Magnets104
+
+North pole of B towards the North pole of ASouth pole of B towards the North pole of ASouth pole of B towards the South pole of ANorth pole of B towards the South pole of A
+
+Fig 7.9The same poles do not get attracted but get repelled and the different poles get attracted.
+
+Assignment 7.4
+
+When you are provided with an unmarked magnet, identify and mark the poles of it by using a marked magnet.
+
+Activity 7.6
+
+SubstanceWhen moved near the North poleWhen moved near the South pole Iron nailPencilSmall bar magnet
+
+N
+
+NS
+
+SS
+
+N
+
+Let's identify a magnet from different objects. You will need (- a small unmarked bar magnet, an iron nail, a
+
+pencil, a marked bar magnetMethod (-² Take the above mentioned things near the North pole of the marked magnet and observe.² Then move them near the South pole of the magnet and note down the observations.² Now tabulate your observations in the following grid.
+
+SN
+
+Science |Magnets 105
+
+Activity 7.7
+
+Now compare your observations with the following observations.
+
+Only an attraction is seen
+
+Neither an attraction nor a repulsion is seen
+
+When moved towards the N pole it repels and when it is moved towards the S pole it gets attracted.
+
+The power of repulsion of magnets can be used to identify a magnet among some other objects.
+
+Assignment 7.5
+
+You are provided with an iron nail, a magnet and a piece of plastic wrapped in pieces of paper separately. Suggest a way to identify them using a marked bar magnet.
+
+7'6 Magnetic Forces
+
+You will need (- a bar magnet, iron fillings, a white paperMethod (-² Keep the magnet under the paper and spread the iron fillings on the sheet of paper.² Now tap the paper slowly.² Observe carefully.
+
+Science |Magnets106
+
+For your extra knowledge
+
+You will see that the iron fillings are arranged according to a pattern. The iron fillings fallen a little bit away from the magnet are seen in an irregular manner. Accordingly we can understand that the magnetic forces are spread around a limited area of the magnet.
+
+Fig. 7.10 Spread of magnetic force
+
+The area which the magnetism is spread around the magnet is called the magnetic field.
+
+Demonstrating the Magnetism
+
+Activity 7.8
+
+You will need (- some magnets and some small nails (you can
+
+use either file clips or pins)Method (-² Take one magnet at a time and hang each of the nails as shown in the figure.² Now count the number of nails hung on each magnet.² Through this you will be able to identify the most powerful magnet.
+
+We can conclude that the magnet which bears the most number of nails has the highest magnetic power.
+
+Assignment 7.6
+
+List out the events where we use magnets in our day-to-day life.
+
+Fig.7.11
+
+Science |Magnets 107
+
+Activity 7.9
+
+Let's row a boat.You will need (- a piece of wooden plank, a small magnet, a file clip, a water basin, a small stick, some clay, an iron rod, a triangular piece of paper
+
+Method (-² Make a small boat using the above materials and keep it on water.² Fix the magnet to the iron rod.² Then move it near the boat.² What can you observe now ?
+
+Assignment 7.7
+
+² Engage in some other enjoyable activities using magnets.² Organize an exhibition with your friends’ creations too.
+
+For your extra knowledge
+
+Having powerful magnets closer by may cause damages to computers, televisions, mobile phones and land phones.
+
+Fig. 7.12
+
+clay
+
+wooden plank
+
+file clipmagnetiron rod
+
+water
+
+For your extra knowledge
+
+The magnetic poles of tabular magnets and barium ferrite magnets are on top and bottom sides and not at the two ends.
+
+Science |Magnets108
+
+Summary
+
+² Only some materials are attracted to a magnet.² The area with a higher magnetism is known as the poles of a magnet.² There are two poles of a magnet, namely North pole and South pole.² We can easily find the North and South poles of a magnet with the help of a compass.² Same magnetic poles repel each other.² Different magnetic poles attract each other.² We use magnets for various purposes in our day-to-day life.
+
+01. Choose which of the given materials will get attracted to a magnet. iron nails, lead wire, marbles, a glass rod, a blade, a gold ring
+
+02. Mark true () or false () ² Brass is a material which gets attracted to magnets ' ^ & ² All the spots of a magnet have the same power of magnetism' ^ & ² We can find the North pole of a magnet with the help of a compass' ^ & ² Any metal is attracted to a magnet' ^ & ² When a magnet is being hung freely it always lies in the direction of North- South' ^ &
+
+Exercise
+
+Science |Magnets 109
+
+Technical Terms
+
+03' Fill in the blanks using the appropriate word from the words given in the brackets. The .................... is higher at the poles of the magnet. Same types of poles are named as .................... . These type of magnetic poles .................... each other. The different types of poles are named as .................... . These types of magnetic pole .................... each other. (attract, repel, magnetism, like poles, unlike poles) 04' Suggest a way to find the most powerful magnet out of two given magnets.05' What will happen if the two toy cars are kept as above? Give reasons.
+
+Magnets - pqïnl - Põ¢u® Bar magnets - oKav pqïnl - \mhUPõ¢u® Magnetic poles - pqïnl O%ej - Põ¢u •øÚÄ North pole - W;a;r O%ejh - Áh•øÚÄSouth pole - olaIsK O%ejh - öuß•øÚÄ Attraction - wdl¾IKh - PÁºa] Repulsion - úl¾IKh - uÒÐøPCompass - ud,sudj - vø\Põmi
+
+Science | Electricity for a Comfortable Life110
+
+Electricity for a Comfortable Life08
+
+Assignment 8.1
+
+8'1 Electricity for Day-to-Day LifeWe need energy to do our daily activities. In the past people used human labour to do many work. Today we use different types of energy sources to make our work easier. Electricity is one such type.
+
+Fig. 8.1 and 8.2 show how people do different household activities in different ways.
+
+Fig 8.1Fig 8.2²² Prepare two separate lists to show the different activities done by people in each figure.²² Which figure shows the easiest ways of doing work? Discuss the reason with your friends.
+
+²² Prepare a small booklet about commonly used electrical appliances including their photos, pictures and other details.
+
+Science | Electricity for a Comfortable Life 111
+
+Electricity is used in some vehicles to operate machines in factories, operate air conditioners and communication purposes etc.
+
+Uses of electricity are unlimited.
+
+8'2 Generating Electricity
+
+Simple ways of generating electricity
+
+Electricity is very useful to human beings. Let’s find out the ways of generating electricity. People use different methods to generate electricity in different instances. Now let’s do the following activity to find out ways of generating electricity.
+
+Assignment 8.2
+
+Mention the methods of generating electricity in following instances.² Operate a wall clock² For solar powered calculators² Operate fans at home² Light bulbs in an area where there is no electricity.
+
+Dynamo, solar cells and dry cells are commonly used methods of generating electricity.
+
+A bicycle dynamo A solar cellFig 8.3Dry cells
+
+Let's find more about methods of generating eletricity.
+
+There are so many other day-to-day activities where electricity is used.
+
+Science | Electricity for a Comfortable Life112
+
+Activity 8.1
+
+Generating electricity with a lime fruitYou will need (- A musical birthday card, a pieces of copper and
+
+zinc sheets, a lime, a galvanometer.Method (-
+
+yy Fix the two sheets of copper and zinc to the lime fruit as shown in the figure.
+
+yy Remove the circuit in the birthday card carefully. Then remove the battery from it.Fig 8.4
+
+You can do the above activity easily even at home. You will understand that electricity can be generated easily from it. Electricity is generated in electric cells through a similar process as above.
+
+Galvanometer is a sensitive device used to identify and measure a small current in the laboratory.
+
+Fig. 8.5 Galvanometer
+
+yy Next connect the copper sheet to the place where the positive terminal and the zinc sheet to the negative terminal of the battery.
+
+yy Record your observations.
+
+yy Connect the galvanometer instead of the circuit and record your observations.
+
+Science | Electricity for a Comfortable Life 113
+
+For your extra knowledge
+
+Activity 8.2
+
+Let's generate electricity with a coil of wire.You will need (- Insulating copper wire / 3 m of winding wire, a
+
+bar magnet, a galvanometer
+
+Method (-² Wind the insulated copper wire as a coil around a cardboard / PVC tube with a diameter of 3 cm.²² Scratch well and clean the two ends of the coil. Fix two wires to the ends of the coil and connect it to the galvanometer.²² Move the bar magnet inside the coil and record your observations.
+
+You may have understood that an electric current was generated by moving magnet inside the coil of wire in the above activity. In bicycle dynamo, generators, hydropower stations, wind power stations, electricity is generated in the same manner as above.
+
+An eletric current is generated by moving a magnet inside a coil of wire. The scientist Michael Faraday was the first to discover this.
+
+Fig. 8.7 Michael Faraday
+
+Let’s do another activity to generate electricity.
+
+We obtain electricity from hydropower stations. Let’s simply demonstrate the process that takes place in a hydropower station.
+
+Fig. 8.6
+
+Science | Electricity for a Comfortable Life114
+
+The simple activity we did above is used in power stations to generate electricity at a large scale. Following are some methods used to generate electricity at a large scale.
+
+Power Stations Table 8.1.shows different types of power stations and methods they use to generate electricity in Sri Lanka.
+
+Activity 8.3
+
+Type of power stationMethod of ProductionLocation
+
+1. Hydropower station
+
+Fix a dynamo to a large turbine and rotate the turbine with the help of a stream of water.
+
+KothmaleLaxapanaVictoriaRantambeRandenigala
+
+2. Wind power stationRotate a dynamo with the help of a wind vaneHambanthotaPuttalam
+
+3. Coal power plantFix a dynamo to a turbine and rotate the turbine with the help of steam.Norochchole
+
+4. Fuel power plantsRotate a dynamo with an engineKelanitissa
+
+In this activity the motor operates as a simple dynamo.
+
+Fig 8.8
+
+Table 8.1
+
+Let's make a small hydropower stationYou will need :- a small electric motor, a galvanometer, a cork, yoghurt spoons, an empty pen tube, a small bulb.Method :- • Prepare the set up as shown in the figure.
+
+Open the tap and hold the turbine to the running water. Do not wet the motor.• Fix the galvanometer and then the bulb to the terminals of the motor. Record your observations.• Then fix a wind vane instead of the turbine and hold it to the
+
+wind. • Record your observations.
+
+Science | Electricity for a Comfortable Life 115
+
+For your extra knowledge
+
+Fig 8.10 A wind power plant
+
+Mr. D.J. Wimalasurendra was the first to find that it was possible to generate hydropower in Sri Lanka. One of the hydro power station in Sri Lanka was named by his name.Fig 8.11 Mr. D.J. Wimalasurendra
+
+Some countries in the world use nuclear power, solar power and sea waves to generate electricity.
+
+Electric cells
+
+Activity 8.4
+
+Let’s make a simple cell.You will need (- copper and zinc sheets, dilute sulphuric acid (battery acid), several pieces of wire, a beaker, a bulb or a small electric motor
+
+Method (-● Prepare the set up as shown in the figure with the help of your teacher.● What can you see happening immediately after fixing the bulb to the circuit ? Record your obsevations.
+
+Copper sheet
+
+Fig. 8.12 A simple cell
+
+Zinc sheet
+
+Dilute SulphuricAcid
+
+Fig 8.9 Structure of a hydropower station
+
+Science | Electricity for a Comfortable Life116
+
+The above set up demonstrates a simple cell. Here, the bulb lights up. But after sometime the brightness of the bulb decreases.
+
+To overcome the weaknesses of the simple cell various types of cells were invented.
+
+There are two types of chemical cells.
+
+a. Primary cells
+
+b. Secondary cells
+
+a. Primary cells
+
+Chemical in these cells are exhausted in use and after a certain period of time, they become inactive. This type of cells cannot be recharged. The simple cell used in activity 8.4 belongs to this type.
+
+Eg:- dry cells, wrist watch batteries, certain camera batteries
+
+b. Secondary cells
+
+Chemical of these cells too get exhausted and become inactive after a certain period of time. They can be recharged by supplying electricity to them. So, we can use them for a longer period.
+
+Eg:- car batteries (lead acid accumulator), mobile phone batteries, certain torch batteries
+
+1 Chemical Cells
+
+● Discuss the weaknesses of the simple cell in the classroom.
+
+Fig. 8.15 Mobile phone batteries and Torch batteries
+
+Fig. 8.14 Lead-Acid accumulator
+
+Fig. 8.13
+
+Science | Electricity for a Comfortable Life 117
+
+2. Solar cellsWhen sunlight falls on solar cells, electricity is generated. Large solar panels are made out of a collection of small solar cells.
+
+Fig. 8.16 A solar panel
+
+For your attention
+
+The improper disposal of lead-acid accumulators and other rechargeable cells is harmful to the environment. It is very important to recycle them and dispose them correctly.
+
+8'3 Preparation of Circuits
+
+Let's connect an electric appliance to an electric cell with conductive wires.
+
+Activity 8.5
+
+You will need (- Two dry cells, several pieces of wire, a switch, a torch bulbMethod (- ² First draw a rough sketch of each of the above materials. ² Prepare a suitable circuit with the above objects to light up the bulb. ² Then draw the circuit in your book. ² Can you explain why does the bulb light up? Fig. 8.17
+
+For your Extra Knowledge
+
+Volt (V) is the unit used to measure electricity. The domestic current is about 230 V and the voltage of a dry cell is 1.5 V.
+
+Science | Electricity for a Comfortable Life118
+
+When we switch on the circuit, an electric current flows through conductive wires that lights up the torch bulb.
+
+A system which allows to flow an electric current through it, is known as an electric circuit.How long did you take to draw the sketch in activity 8.5 ?
+
+Find out an easy way to draw this circuit by discussing with your friends.
+
+The accessories you used to prepare the circuit are known as electrical appliances. Apart from them, there are various other appliances used in different types of circuits.Fig. 8.18 shows some different types of electric appliances used in electric circuits.
+
+Fig. 8.18 Different types of electric appliances
+
+dry cell connective wiresswitch
+
+bulb ammeter a milliammetera galvanometer
+
+Science | Electricity for a Comfortable Life 119
+
+Using symbols for electric appliances in circuits
+
+Let’s pay our attention to activity 8.5 again.You must have taken a lot of time to draw this circuit in your book. To overcome this problem, we can use standard symbols for electric appliances.
+
+Table 8.2 shows some of the common standard symbols used to draw electric circuits.
+
+Table 8.2 Electric appliances and their standard symbols
+
+ApplianceUseSymbol
+
+WireTo conduct electricity
+
+SwitchTo brake the connection when necessary
+
+BulbTo get light/to identify the presence of electricity
+
+ammeter/milliammeterTo measure the current
+
+GalvanometerTo identify a small flow of current
+
+Electric cellsTo supply electricity
+
+You can draw the same circuit in activity 8.5 as below, by using the standard symbols.
+
+Activity 8.6
+
+You will need (- A dry cell, connective wires, a switch and two similar bulbsMethod (-
+
+yy Prepare circuits in different ways to light up the two bulbs at the same time. Draw each circuit using the standard symbols.
+
+yy Check the brightness of bulbs at each time.
+
+yy Was the brightness of the bulbs similar at each time?
+
+A
+
+G
+
++-
+
+Fig. 8.19
+
+Science | Electricity for a Comfortable Life120
+
+Activity 8.7
+
+Check whether the circuits you made in activity 8.6 were as the diagram 8.20
+
+Fig 8.20
+
+The terminals of cells and batteries are named as positive (+) and negative (-). A current always flows from the positive terminal to the negative terminal. When fixing an ammeter to a circuit, the positive terminal of the ammeter should be fixed to the positive terminal of the battery / cell.
+
+Fig 8.21
+
+Identify the symbols in the circuit. Find the neccessary appliances and construct the given circuit. Draw the way that you can see the circuit in your book. Record two observations that you can see when the switch is on.
+
+For your extra knowledge
+
+Ammeter shows the amount of current that flows through the circuit. Ampere is the unit used to measure the amount of current. To get an accurate measurement, you have to connect the positive and negative terminals of the ammeter or milliammeter correctly.
+
+Science | Electricity for a Comfortable Life 121
+
+Activity 8.8
+
+You will need (- a dry cell, a small bulb, a milliammeter, several
+
+pieces of wireMethod (-
+
+● Prepare the circuit as shown in the figure.
+
+yyThen connect the materials given in the below table between the terminals A and B.
+
+yyCheck whether the bulb lights up.
+
+yyTabulate your observations.
+
+yyRemember to clean the materials before use.
+
+You can divide the materials in activity 8.8 into two categories. ² Materials which carry electricity ² Materials which do not carry electricity
+
+MaterialBulb lights up /does not light upOuter casing of the wireWire in the core of the wireA coinDry papers
+
+Carbon rod of a dry cellDry wooden logsRod of a pencilPlasticPolythene
+
+Shiny wrapping of a slab of chocolate
+
+A
+
+B
+
+Fig 8.22
+
+Assignment 8.3
+
+Divide the materials in the table of activity 8.8 into two categories as above.
+
+8'4 Conductors and Insulators
+
+Science | Electricity for a Comfortable Life122
+
+For your extra knowledge
+
+Mercury which is a metal in liquid, is a good conductor. Salt water, lime juice are also conductive liquids. But electricity does not flow through kerosene oil and petrol. As there is salt mixed in drinking water, electricity conducts slightly through water.
+
+8'5 Electronic appliances
+
+Have you ever seen the interior of a computer, a radio or a DVD player ? Figure 8.23 shows an internal view of a such appliance. These are called electronic circuits. Can you identify the things inside it ?
+
+Fig 8.23
+
+Aluminium, silver and copper are some examples for good conductors. Ceramic, mica, ebonite, glass, plastic and rubber are some good insulators.
+
+yy Materials that conduct electricity, are known as conductors.yy Materials that do not conduct electricity, are known as insulators.
+
+Activity 8.9
+
+Find some discarded circuit parts of a radio, CD player and circuits of decorative bulbs. Find and list the appliances in them in groups.
+
+Science | Electricity for a Comfortable Life 123
+
+The accessories used in electronic circuits are called electronic appliances.Now let's learn about some electronic appliances that are used in day to day life.01. Diode Let's do the following activity to learn about diodes.
+
+You will observe that the bulb lights up only when the diode is kept in a specific way. Accordingly, we can say that the current flows through a diode only in a particular direction.
+
+There are various types of diodes available in the market. Rectifying diodes are the most commonly used type. Given below is the outer appearance of a rectifying diode.
+
+The main function of a diode is to let the current flow in one direction only.In a diode, the current flows from the positive terminal of the diode to the negative terminal. Therefore, a diode’s positive terminal must be connected to the positive terminal of the dry cell and the negative terminal to the negative terminal of the dry cell.Fig. 8.25 Rectifying diodes
+
+Activity 8.10
+
+You will need (a rectifying diode, a small
+
+²²Make the circuit as shown in the figure. Observe the illumination of the bulb by changing the terminals A, B of the diode. ²²What is your conclusion?
+
+bulb, a dry cell, some pieces of wire
+
+Fig 8.24
+
+AB
+
+The standard symbol of the diode
+
+Science | Electricity for a Comfortable Life124
+
+Activity 8.12
+
+2' Light emitting diode
+
+You may have seen a small bulb lighting up in radios, televisions etc, when they are switched on. They are not really bulbs. They are called light emitting diodes(LED).
+
+You will need (- an LED, two dry cells, connective wires
+
+²²Arrange the circuit as shown in the figure.²²Connect the LED between A and B.
+
+Fig. 8.27A B
+
+Assignment 8.4
+
+Draw the circuit in Fig. 8.26 in Activity 8.12 using the standard symbols.
+
+² Repeat the activity by changing the terminals. Record your observations.²² Discuss the reasons with your friends.
+
+Activity 8.11
+
+You will need (- Two dry cells, two torch bulbs, pieces of wire, a
+
+switch, two rectifying diodes² Prepare the circuit as in Fig.
+
+8.26.² Do the activity by changing the
+
+terminals of the battery. Record your observations. Discuss the reasons with your friends.
+
+Fig. 8.26
+
+Science | Electricity for a Comfortable Life 125
+
+You will observe that the LED illuminates only at one occasion. LED is also a type of a diode. It emits light when there is a small current passing through it. Therefore, it is named as light emitting diode.
+
+Out of the two terminals of the diode one is longer than the other. The longer terminal is the positive terminal of the diode and the shorter one is the negative terminal. Fig. 8.28 shows some different shapes of LEDs.Fig. 8.28 Light emittng diodes
+
+Standard symbol of LED
+
+Activity 8.13
+
+3. Resistors There is a loss of current when lengthy electric wires are used in circuits . That is because of the barrier to the flow of current in the conductor.Let's do the activity 8.13 to observe how this can happen in a conductor.
+
+Fig. 8.29
+
+You will need ( Two dry cells, connective wires, a LED, three carbon
+
+rods taken from used dry cells, a switch
+
+The barrier to the flow of current is named as electric resistance. The unit used to measure resistance is Ohm (Ω).
+
+You can buy resistors of different values from the market.
+
+Method (-
+
+yy Prepare the circuit as shown in the figure. yy First keep one carbon rod between A and B. Observe the brightness of the bulb. Then, increase the number of carbon rods and repeat the experiment. yy Discuss the reasons for your observations with your friends.
+
+AB
+
+Science | Electricity for a Comfortable Life126
+
+You will understand that the flow of current decreases with the increase of resistance.
+
+Activity 8.14
+
+You will need ( two resistors of 10 Ω and 5 Ω, a torch bulb, two dry
+
+cells, a switchMethod (-
+
+yy Prepare the circuit as shown in the figure.yy Keep resistors one at a time between A and B and continue the experiment. yy Observe the brightness of the bulb.yy Discuss the reason for your observations.
+
+Fig. 8.30
+
+The standard symbol of Resistors
+
+There are various types of resistors with different shapes in the market. Following are some of them.
+
+yy Permanent resistors - Value cannot be changed.
+
+yy Variable resistors - Value can be changed.
+
+yy Light sensitive resistors - Resistance depends on the amount of light falling on it.
+
+Fig. 8.31 Various types of resistors
+
+AB
+
+For your extra knowledge
+
+In the laboratory for different experiments, we need to change the current flowing through a circuit. Rheostat is a kind of variableresistor which helps to changethe resistance.
+
+Fig. 8.32 A rheostat
+
+Science | Electricity for a Comfortable Life 127
+
+When light falls on LDR, a high current flows through the circuit. By shading the light, the flow of current through the circuit reduces gradually. Can you suggest the reason for this?
+
+When the light falls on the LDR the resistance of it reduces, and when there is less light falling on the LDR the resistance increases.
+
+Therefore, light depending resistors (LDR) are resistors, that change based on the amount of light falling on it.
+
+Activity 8.15
+
+You will need (- LDR, LED, two dry cells, connective wires, a
+
+switch, a milliammeter
+
+Method (-
+
+yyPrepare the circuit as shown in the figure.
+
+yySwitch it on.yyExpose the LDR to the sun light.yyGet the reading of the milliammeter.
+
+● Then, cover the LDR with the hand
+
+and get the reading again.
+
+yy Repeat the experiment by using an LED instead of the
+
+milliammeter.
+
+yyConduct a discussion about the observations. It is necessary to fix the positive and negitive terminals of the LED correctly.
+
+Fig. 8.33
+
+4' Light Depending Resistors (LDR)
+
+By doing the following activity, you can understand the function of an LDR.
+
+The standard symbol of LDR
+
+Science | Electricity for a Comfortable Life128
+
+Conservation of electricity It's time to use electricity economically. Here are some ways of conserving electricity.1' Use efficient bulbs.
+
+The amount of current used in CFL and LED bulbs is even less than
+
+1/5th of the current used in normal bulbs. Also, their life span is ten times more than a normal bulb.
+
+Assignment 8.5
+
+List out the ways of minimizing the amount of current used for bulbs in your home.
+
+2' Switch off the appliances when they are not in use. Keeping televisions, Computers, telephone chargers in by stand mode is a waste of electricity.3' Do not increase the sound of televisions and radios unnecessarily.
+
+4 At present, there are televisions and computers with LCD and LED
+
+screens. They minimize the consumption of electricity.
+
+The highest usage of electricity is from 7.00 p.m. to 9.00 p.m.
+
+8'6 Conservation of Electricity and Prevention of Accidents
+
+The consumption of electricity is increasing day by day. At present, the generated electricity is not sufficient. Therefore, there is an energy crisis in the world.
+
+For your extra knowledge
+
+There is mercury in many CFL bulbs and this can harm the environment when CFL bulbs are disposed.
+
+Science | Electricity for a Comfortable Life 129
+
+5' At present, there are refrigerators which minimize the consumption of electricity. We can save electricity according to the way we use the refrigerator at home. ² Minimize the number of times you open the door of the refrigerator. ² Cool the warm food items before putting them into the refrigerator. ² Place the refrigerator in a place without light. ² Keep a space between the wall and the refrigerator. ² Avoid putting unnecessary things in the refrigerator.6' By ironing many clothes at once than ironing one at a time, we can minimize the wastage of electricity.
+
+Prevention of accidents cause by electricity
+
+Electricity is sometimes a good servant but sometimes a bad lord too. Careless use of electricity may cause damages to the property, serious accidents and sometimes even death.
+
+Do not use electrical circuits and appliances in places where there is water. Follow protective measures when necessary.
+
+Disconnect the electricity supply of the circuit before any maintenance related to electric circuits.
+
+Do not cut trees in a manner as to fall on current wires.
+
+Do not fly kites or toy planes near current wires. Do not spray water towards current wires.
+
+Science | Electricity for a Comfortable Life130
+
+If a broken current wire is found on the ground, do not touch it although it is insulating. Inform an adult immediately.
+
+Without permission do not try to get electricity using common electric wires.
+
+Do not plug several electric appliances to one socket.
+
+Do not draw unprotected electric wires in your premises.
+
+Do not fix antennas near current wires.
+
+If ladders are used near electric wires use wooden ladders or ladders made up of non conductive materials.
+
+Apart from the above facts, we must pay attention to these facts as well.• Keep electric wires and extension cords out of reach of childern.• Do not let children to go near electric sockets.• Unplug multi sockets when not in use.• Do not let childern to use electric appliances without the inspection
+
+of an adult.
+
+Science | Electricity for a Comfortable Life 131
+
+Assignment 8.6
+
+Prepare a booklet including the ways that accidents may occur due to electricity and how to prevent them.
+
+Summary
+
+² Electricity makes our day to day activities easier. ² At different occasions, we use different appliances to generate electricity. ² Electro chemical cells, solar cells and dynamo are some of the ways of generating electricity.² A circuit is a system in which a current flows.² Some of the simple components of electric circuits are bulbs, switches, ammeters, wires and dry cells.² Materials that allow to flow current through them are called
+
+conductors and ones that do not allow to flow a current are known as insulators.² There are many electronic appliances used in circuits too. Some of them and their uses are given below. ² Diode – allows the current to flow only in one direction. ² Light emitting diode – emits a light when a current flows through it.
+
+• Do not touch electric circuits & appliances with wet hand.• When using electric irons or other appliances, wear rubber slippers or stand on a rubber door-mat.• If you notice some unusual nature of an electric appliance or a circuit, call your electrcity service provider immediately. • Disconnect the main switch in your house during flood.• It is compulsory to fix a trip switch to the domestic electric circuit.
+
+The damages caused by accidents related to electricity can be prevented by the automatic function of this switch.
+
+Science | Electricity for a Comfortable Life132
+
+01' Match the appropriate way of generating electricity with the things used for it. Way of generation Things used Hydropower stations chemicals Coal power stations sunlight Dry cells coal Solar cells flowing water
+
+02' Draw a sketch of a wire and show how the conducting and
+
+insulating parts are placed.03' Why is it not safe to touch electric equipment with wet hands?
+
+Exercise
+
+² Resistor - controls the current which flows through a circuit. ² Light sensitive resistors – changes the resistance according to the amount of light. ² We can make small electronic circuits using electronic appliances.² The careless use of electricity may cause serious accidents.² It is our responsibility to use electricity efficiently and productively.
+
+Technical Terms
+
+Electricity-úÿ,sh-ªß÷Úõmh®
+
+Circuits-mßm:-ªß_ØÖ
+
+Symbols-ixfla;-SÔ±k
+
+Insulators-mßjdrl-PõÁ¼
+
+Conductors-ikakdhl-Phzv
+
+Diode-Èfhdav-C¸Áõ°
+
+Light Emitting Diode-wdf,dal úfudapl Èfhdav-JÎPõ¾® C¸Áõ°
+
+Light Depending Resistor -wdf,dal ixfõ§ m%;sfrdaOl-JÎ²nºzuøh°
+
+Electronic Circuits-bf,lafg%daksl mßm:-C»zvµÛ¯À _ØÖ
+
+Science| Heat And Its Effects 133
+
+Heat and Its Effects09Go to a place where sunlight falls abundantly. Stay there for about five minutes. What do you feel? You will feel a warmth. During the day time the surrounding gets warm because of the sunlight. Does everything in the environment get warm equally? Let’s do the following activity to find about that.
+
+Think about the reasons for the variation of the temperature recorded in the thermometer.
+
+The environment gets heated during the daytime due to sunlight and it gets cool during the night. This process is one of the major factors which affects the existence of life on earth.
+
+In some countries people die of extreme cold and in some other countries people die of extreme heat. This tells us that there is a limit in the temperature that affects our existence.
+
+Activity 9.1
+
+You will need(- A thermometerGo to some different places in your school garden with your teacher and measure the temperature. Note down the temperature shown in the thermometer. ² A place where there is plenty of sunlight² Under the large tree² A sample of soil taken from a dry place ² A sample of soil taken from a wet place.² Water gatherd in a certain place.
+
+Fig 9.1 Measuring the temperature of water
+
+Science| Heat And Its Effects134
+
+The normal body temperature of a human being is 37 oC. Though the temperature in the environment is changed our body temperature doesn’t change. When the environment gets cold our body produces more heat. But some animals such as reptiles, frogs, lizards and insects can’t do so. The body temperature of those types of animals is changed according to the temperature of the environment.
+
+The body of some animals is covered with fur. In some animals, there is a thick fat layer too. These types of adaptations help those animals to maintain the body temperature.The type of energy that is used to increase the temperature of some objects, is heat. Our main source of heat is the sun.
+
+Fig 9.2 Extremely cold areasFig 9.3 Extremely hot areas
+
+Fig 9.4
+
+Science| Heat And Its Effects 135
+
+Activty 9.3
+
+Activity 9.2
+
+We can generate heat even by rubbing two surfaces of some substances. Now rub your palms. In the past man used to rub two stones together to light fire. From this, we can understand that the friction between two surfaces can generate heat.
+
+Fig 9.5
+
+Heat is not used only for the existence of living organisms. We have to use heat in many instances. Now let’s learn about it.
+
+Solar power can be used to heat water. Have you seen solar panels fixed on top of roof of some houses?
+
+● Make two holes as shown in the figure on one side of the box. (They must be equal in size to the plastic tube) ● Paste the aluminum foil inside the box.Fig 9.6
+
+tube ( about 3 m ), a paper cutter/ a pair of scissors, a sheetof transparent glass or plastic which is a little bit bigger than the lid ofthe box, binder gum/ cello tape, an aluminum foil, black paint and apaint brush, a PVC pipe(about 25 cm long and the diameter about 4 cm.)
+
+Let's make a model of a solar water heaterYou will need (- A cardboard box without a lid (the length of a side must be at least 30 cm), a flexible plastic
+
+9.1 Heat Generation
+
+Science| Heat And Its Effects136
+
+Assignment 9.1
+
+List out the instances where the solar power is used at your home.
+
+Assignment 9.2
+
+Find such an appliance which is not in use and examine it well. You will find that there is a heating coil in it to generate heat.
+
+● Wind the plastic tube around the PVC tube and apply black paint on the PVC tube, plastic tube and aluminum foil in the box. ● Paste the PVC tube vertically in the box.● Keep the glass sheet instead of the lid of the box and fix it with gum tape. Now you have finished making the solar water heater. Let's check how it works. ● Keep it under direct sunlight.● Fix the rare end of the plastic tube to a tap and let some water pour in.● Now check whether the water which comes out of the other end is hot.
+
+Other than the sun, there are a number of other sources of energy. We can produce heat even by combusting fossil fuels. Wood, coal, kerosene oil, natural gases are commonly used as fuels. Look for some sources of heat that you can find at home. You will find that apart from combusting fuel, heat is generated in electrical appliances.
+
+Science| Heat And Its Effects 137
+
+Activity 9.4
+
+Let's make a heating coilYou will need ( A thin enameled copper wire (about 30 cm long), a paper cutter, two dry cells, a pencil
+
+Method (-² Wind the wire around the pencil overlapping one another.² Connect the cells to the two ends of the wire for about one minute.² Check carefully whether the coil is heated.
+
+Fig 9.7
+
+Assignment 9.3
+
+We all have seen many instances where heat is produced by rubbing two substances. It is sometimes a disadvantage. List out such instances where we consider this as a disadvantage.
+
+During day time the environment becomes hot. At night, it becomes cold. When we take an ice cube out of the refrigerator, it turns into water. Before fixing a rim to a cart wheel rim is heated well. All these are phenomena which are related to heat. We can observe changes in an object, not only when we supply heat to it, but also when the heat is removed from the particular object. Now let us learn more about effects of heat.
+
+9.2 Effects of Heat
+
+Science| Heat And Its Effects138
+
+Activity 9.5
+
+1' Increase of temperature
+
+Let’s observe how temperature of water is changed You will need :- A beaker with water, a tripod, a spirit lamp, a thermometer
+
+Fig 9.8
+
+Thermometer
+
+Water
+
+Method (-² Prepare the setup as shown in Fig 9.8. ² Light up the spirit lamp and observe the change of temperature mentioned in the thermometer.² Then, blow out the spirit lamp and observe how temperature changes.
+
+When heat is supplied, temperature of water increases. Although, the heat is provided while water is boiling temperature doesn’t change. When heat is supplied to an object, it becomes hot.
+
+The amount of heat of an object is known as temperature. Heat can be measured by using a thermometer. You know that the temperature of food increases when it is cooked. In the same way, when the heat is released the temperature reduces. According to this, we can come to a conclusion that when heat is supplied the temperature increases, when heat is released, the temperature decreases.
+
+Assignment 9.4
+
+Take two equal sized beakers and put equal volume of water to one beaker and coconut oil into the other beakers. Heat them using two equal sized candles. Both the vessels should be heated for an equal period of time. Identify what is heated more. Even though both beakers are heated equally their temperatures have not increased in equal amounts.
+
+Science| Heat And Its Effects 139
+
+Activity 9.6
+
+2' Expansion
+
+Have you observed that rails of a railway track have been fixed keeping a gap between them? What is the reason for this. You can find the answer to it by doing the following activity.
+
+Let's learn about the expansion of solidsYou will need (- A marble, a small loop made using an iron wire (it should be smaller than the marble), a wooden handle that can be fixed to the other end of the wire
+
+Fig 9.9
+
+How can we remove a metal lid from a bottle? Heat the lid for a few minutes. You will be able to remove the lid easily. It was easy because the lid is expanded. If something becomes larger in size after heating, it is called as expansion. When the heat is taken off (cools) the things get contracted. Now you can also understand the reason for heating the rim of the wheel of a cart before fixing it and keeping a gap between rails.
+
+Method (-² Fix the iron wire with the loop to the wooden handle as shown in the figure.² Heat the loop using a flame.² Now check whether the marble can be sent through the loop.
+
+Science| Heat And Its Effects140
+
+Activity 9.7
+
+You will need (- A glass bottle, a rubber cork that can be fixed to the bottle, a tube of a pen, a beaker with hot water,small amount of ink. Method (-• Take a rubber cork and make a hole in the middle.• Put the tube of pen through the hole.Fig 9.10
+
+You can observe the level of ink increases in the tube of pen during the activity 9.7. That means water has expanded as it has obtained heat.
+
+Thermometer consists of alcohol or mercury. What happens to the liquid when the temperature increases? We can explain using the expansion of liquids.
+
+• Put ink into the bottle with water.• Fix the cork to the bottle.• Place the bottle in the hot water beaker.
+
+For further study :- This setup can be used to observe the expansion of different types of liquids. You can use bottles which are similar to the bottle to which a pen is fixed. Put equal amounts of coconut oil, kerosene oil, alcohol to bottles and keep them in hot water for the same time.
+
+Let's investigate the expansion of liquids
+
+Fig 9.11
+
+Tube of a pen
+
+Hot water
+
+InkBottle
+
+Science| Heat And Its Effects 141
+
+Activity 9.8
+
+Let’s learn about expansion of gases You will need (-A glass bottle, a coin and a beaker with hot waterMethod (-
+
+yyTake a bottle without a lid and apply some
+
+Fig 9.12
+
+You will observe that the coin moves due to the expansion of gas.
+
+Blow a balloon and tie the mouth of it tightly. Then, keep it in a place where sunlight falls. See what will happen to the balloon. Explain about your observation.
+
+Assignment 9.5
+
+Search the instances where the expansion takes place. List out the instances in the given table.
+
+ObjectHow did you identify that it is expanded.
+
+3' Change of states of matter
+
+Heat changes the nature of objects. Ice is changed into water because of the heat. What happens when water is boiled? Water is changed into water vapour. Here water has turned to the gaseous state. These type of changes are known as changes of state.
+
+water in the mouth of the bottle.yyThen keep the coin on the mouth of the bottle and close the mouth.yy Place the bottle in the beaker with hot water.yyObserve what happens to the coin.
+
+CoinBottle
+
+Hot water
+
+Science| Heat And Its Effects142
+
+Icewaterwater vapoursupplying heatsupplying heat
+
+Icewaterwater vapourreleasing heatreleasing heat
+
+Change of state can occur due to release of heat. When water vapour is cooled, it turns into water. When water becomes cold, it turns into ice.
+
+Assignment 9.6
+
+Given below are some instances of changes of state. Write the change of state in front of it.
+
+Instances Change of stateWater converting to water vapourliquid air
+
+Lead turning to liquidIron turning to liquidFrostProducing ice cubes
+
+SolidLiquidGas
+
+SolidLiquidGas
+
+Science| Heat And Its Effects 143
+
+Assignment 9.7
+
+Assignment 9.8
+
+Activity 9.9
+
+Let’s observe changes of stateYou will need : a candle, a box of matches, a piece of white cardboard, a small metal tubeMethod :-
+
+yy Candle is made up of solidified wax.yy Liquid wax can be observed when the candle is lighted up.yy Wax vapour is seen in the dark region which is in the middle of the flame. Enter one end of the metal tube into middle of the flame and keep another flame near the other end of the tube. (Get the help of teacher)yy Keep the piece of cardboard on the flame for a short period of time.yy Then, check the piece of cardboard carefully.
+
+Hold a plate to the steam that goes out from a spout of a kettle.Report your observations.( Get the help of an adult)
+
+Take some wax, camphor balls, jak latex and tar. Keep them in a lid of a tin and heat. What melts quickly?
+
+(Get the help of an adult)
+
+Fig 9.13
+
+Fig 9.14
+
+Fig 9.15
+
+Science| Heat And Its Effects144
+
+4' Colour change
+
+In a smithy, when a piece of metal is heated, first it turns to red and then to orange. When it is heated further, it turns to yellow. A similar phenomenon occurs when electric energy is provided to a filament of a bulb. Supply electric energy to a small torch bulb and observe the colour of its filament. First it will turn to red, orange, yellow respectively and at last it will turn to white. The reason for this colour change is the transformation of electric energy to heat energy.
+
+Activity 9.10
+
+² Prepare a circuit using above materials² Control the current with the variable resistor and increase the current gradually and observe the change of colour of the filament.
+
+Activity (Teacher Demonstration)You will need( A filament bulb of 2.5 V, two dry cells of 1.5 V, a variable resistor, a switch.
+
+9.3 The Effects of heat to the Environment
+
+You may have seen the effect of sunlight during a drought. Think of the changes that occurred in your environment. Tanks dry out. The water level of wells go down. The land gets dry severely. The whole environment gets covered with dust. Forest fires also may occur due to severe heat. These forest fires spread very easily as the tress are dry.
+
+Assignment 9.9
+
+Take some clay and spread it on a lid of a tin. Leave it at a place where plenty of sunlight falls. Observe the changes.
+
+Science| Heat And Its Effects 145
+
+Fig 9.16 Occurrence of a droughtFig 9.17 Occurrence of a forest fire
+
+Assignment 9.14
+
+Assignment 9.10
+
+List out the enviromental changes that take place during a drought.
+
+You know that water is recycled on the earth. This process is called the water cycle. The heat of the sun affects the water cycle. Water on the earth evaporates due to sun's heat. The evaporated water in the atmosphere gets cool and falls back on the earth as rain.
+
+It is identified that there are currents in oceans which are almost similar to large rivers. They are also occurred due to heat. Water in oceans near the equator is warmer than the water in oceans in Nothern and Southern poles. Warm water flows towards the poles as well as cold water flows towards the equator.
+
+Scientists have revealed that the temperature of the earth is rising gradually. They have found many reasons for this. The main reasons are too much combustion of fossil fuels and deforestation. (Emission of CO2 increase the temperature of the environment) Due to such human activities many serious problems may occur in the future.
+
+Science| Heat And Its Effects146
+
+Assignment 9.11
+
+Find out how Global warming occurs. Write an article to a Science magazine about Global warming.
+
+When the temperature rises, the glaziers of the poles start melting which results in the rise of the sea level. And you know that water gets expanded when it is heated. It is also one of the reasons for the rise of the sea level. Because of this many of the small islands face the threat of being drowned in the sea.
+
+Summary
+
+yyHeat is needed for the existence of life and for various phenomena to take place in the environment.
+
+yyThe main source of heat is the sun.
+
+yyWe can obtain heat from combusting fossil fuels.
+
+yyWe can use heat to generate electricity.
+
+yyHeat can be obtained from electricity.
+
+yyHeat is the reason for increase and decrease of the temperature of substances.
+
+yyThe reason for expansions and contractions of substances is heat.
+
+yyChange of states of matter occurs due to heat.
+
+yyHeat affects the properties of substances.
+
+yyHeat affects the colour change of substances.
+
+yyHeat must be used efficiently and with caution.
+
+Science| Heat And Its Effects 147
+
+01' Underline the most appropriate word to fill in the blank. i) The warmth of an object is called ............. (heat, temperature) ii) When we heat up a container with boiling water its temperature ......................... (rises, does not change) iii) .............. (Ice, steam) forms when heat is released from water. iv) When heat is released from a solid substance, it ..................... (expands, contracts) v) When iron is heated thoroughly it turns ............ (red, white) first. vi) In room temperature mercury is in the ................ (liquid, solid) state. vii) (Currents, Tsunami) ................. occurs as a result of the changes in the temperature of sea water.02' i) What is our main source of heat? ii) What are the instances where we use heat in our day-to-day life?03' i) What is the reason to leave a little space among the rail tracks when they are made? ii) What is the strategy used in electric irons to control the heating?
+
+Exercise
+
+Technical Terms
+
+Heat - ;dmh - öÁ¨£® Temperature - WIaK;ajh - öÁ¨£©õÛ Expansion - m%idrKh - Â›ÄColour - j¾K - {Ó® Friction - >¾IKh - Eµõ´ÄThermometer - WIaK;ajudkh - öÁ¨£{ø» Sources of heat - ;dm m%Nj - öÁ¨£•uÀ Change of state - wjia:d úm¾hdi - {ø»©õØÓ®
+
+Science | Food Related Interactions148
+
+Activity 10.1
+
+Food Related Interactions10
+
+Table 10.1
+
+Table 10.2
+
+O
+
+n your way to school have you ever noticed the behaviours of animals in the environment? Animals satisfy their needs one self or in teams. Security, food, habitats are some of their needs. Let’s do the following activity to find out about the food that animals consume.
+
+²²Select a suitable place of your home garden or school garden. ²²Observe the animals and their food. ²²Tabulate your findings in the following table.
+
+AnimalFood
+
+1'
+
+2'
+
+3'
+
+A grade 6 student observed a guava tree in his home garden for several days. The following table shows his findings.
+
+Animal Food
+
+SquirrelGuavaParrotGuavaCaterpillarGuava leavesLizardCaterpillarRat-snakeLizardRat-snakeSquirrelCoucalLizardCoucalSquirrel
+
+Science | Food Related Interactions 149
+
+According to the data in the above table there are different connections between animals and plants for food. They can be displayed using arrows.
+
+Caterpillar
+
+Guava Parrot
+
+Squirrel
+
+Connections between animals for food can be displayed in the same method.
+
+Caterpillar Lizard
+
+Squirrel
+
+Parrot Rat-snake
+
+Lizard
+
+CoucalSquirrel
+
+Lizard
+
+10'1 Food WebsThe above interactions between plants and animals and animals and animals can be shown as follows.
+
+guava plant
+
+squirrel
+
+coucal
+
+rat-snake
+
+lizard
+
+caterpillar
+
+parrot
+
+Fig 10.1
+
+Science | Food Related Interactions150
+
+Assignment 10.1
+
+Study the table in activity 10.1 and using arrows, show the interactions among plants and animals, animals and animals for food, as in fig.10.1.
+
+The following figure shows the interactions among plants and animals in a piece of grassland.
+
+Figure 10.2 shows that there are a lot of interactions among plants and animals for food. Also, it shows that they are inter- connected. They are connected as a web.
+
+A diagram that shows the inter relationships among animals and plants for food is known as a food web.
+
+Fig 10.2
+
+caterpillar
+
+grass
+
+cow
+
+grass hopperlizard
+
+magpierat-snakecat
+
+Science | Food Related Interactions 151
+
+10'2 Mode of Nutrition of Animals
+
+According to the figure 10.2 there are many animals that feed on grass. Cow, grass hopper, caterpillar are some of them. Grass is the staple food of cows. Leaves and tender leaves of grass are eaten by caterpillar and grass hopper. The animals that consume only plant materials are known as herbivores. Cow, rabbit, deer, giraffe, grass hopper, caterpillar, elephant are some of the herbivorous animals.
+
+Identify the food consumed by magpie, lizard, and rat-snake in figure 10.2.They feed on herbivores. Animals that consume flesh of other animals are known as carnivores. Wolf, leopard, lion, tiger, rat-snake are some examples for carnivorous animals.
+
+Fig 10.3 Some herbivores
+
+Science | Food Related Interactions152
+
+10'4 rEmh - udxYNlaIl i;=ka
+
+Find out the food materials consumed by the animals such as crow, hen, cat, dog, cockroach, pig etc.They consume both plant materials and flesh. Animals that consume both flesh and plant materials are known as omnivores. Black bear too is an omnivore.
+
+Fig 10.5 Some omnivores
+
+Fig 10.4 Some Carnivores
+
+Science | Food Related Interactions 153
+
+Animals can be categorized based on the modes of nutrition. They are● Herbivores :- Animals that consume only plant materials.● Carnivores : - Animals that consume only flesh of other animals.● Omnivores : - Animals that consume both flesh and plant materials.
+
+Assignment 10.2
+
+Have a visit to a zoological garden or observe the animals in your environment and find out the food material they consume. Categorize them as herbivores,carnivores and omnivores. Note the special features adapted for their food habits. Insert the details and prepare a booklet.
+
+Sometimes problems occur when the animals are categorized distinctly as herbivores, carnivores and omnivores. So, the feeding mechanisms of such animals have to be observed for a long time period.
+
+Some carnivorous animals have become omnivorous because they live with human beings.
+
+E.g. : dog, cat
+
+10'3 Food ChainsFigure 10.6 shows a food web in a forest.
+
+plants
+
+rabbitrat
+
+goat
+
+owl
+
+foxleopard
+
+Fig 10.6 A food web in a forest
+
+Science | Food Related Interactions154
+
+A connection that can be seen within animals for food in the above food web is shown below.
+
+plant
+
+rabbit
+
+leopard
+
+plant
+
+goat
+
+leopard
+
+plant
+
+rat
+
+owl
+
+According to the above connection the plant supplies food for the rabbit. Then, the rabbit becomes a food for the leopard.So, the interactions for food start with a plant or part of a plant and connect with each other as in a chain.
+
+A linear sequence that starts from a green plant and shows the flow of energy from one living organism to other is known as a food chain.
+
+The followings are some food chains taken from the food web in figure 10.6.
+
+Now it is clear that a food web is created by inter connections of several food chains.
+
+Links of a Food Chain
+
+green plantrabbit leopard
+
+2nd unit3rd unit1st unit
+
+^Producer&^consumer&^consumer&
+
+Fig 10.7
+
+Science | Food Related Interactions 155
+
+Fig 10.8Accordingly, the energy stored in the food produced using solar power by the green plants, is transferred to other consumers of the food chain. Fig. 10.8 shows this process.
+
+Green plants use solar power and provide energy to all the living beings on earth to live. So, the service rendered by green plants to the world is immense.
+
+Assignment 10.3
+
+Build up food chains that can be seen in a pond, a tank (wewa), a forest, a grassland and a decaying log. Prepare them in a creative way and exhibit them in your class room.
+
+The first link of a food chain is a green plant. It supplies food to the other links of the food chain directly or indirectly.
+
+Green plants use water, carbon dioxide and sun light to produce food within themselves. This process is known as photosynthesis. As the green plant produces food on its own, it is known as the producer.
+
+The herbivores consume the leaves, tender leaves, flowers, fruits, yams and other parts of green plants. Then, the energy stored in green plants is transferred to herbivores. When the canivores consume the herbivores the energy stored in herbivores is transferred to carnivores.
+
+Science | Food Related Interactions156
+
+The number of leopards in a jungle decreased due to some reason. So, the number of deer increased. Due to the increase of deer, their food was not sufficient. Therefore they had to compete with each other for food. Due to lack of food the number of deer decreased again.
+
+The number of plants and animals in the environment is controlled and remained balanced due to this mutual relationship that exists between the links of food chains. All the links of a food chain render a great service to maintain the balance of the environment. Therefore, if an animal which belongs to a particular link in a food chain is destroyed or removed, it affects the existence of other links of the food chain. This may lead to a decrease or an increase of the number of other links. Therefore, you can understand that all the living beings are important to maintain the balance of the environment.
+
+Have you heard about pandas that live in the forests of China? Panda is a herbivorous animal. This animal has faced a threat of extinction because their only food is bamboo. Now, steps to conserve these animals have already been taken. Animals feed on a variety of foods. When there is a large diversity in food consumed by animals, their existence is more established.
+
+Fig 10.9 Panda
+
+Every animal has a right to live free in the environment. You as well as the other living organisms are an important part in the environment. So it is your duty not to harm animals or plants.
+
+Science | Food Related Interactions 157
+
+Summary
+
+²²Animals are categorized into three major groups according to their feeding habits. They are herbivores, carnivores and omnivores.
+
+²²Animals that consume only plant or plant materials are known as herbivores.
+
+²²Animals that consume only flesh of other animals are known as carnivores.
+
+²²Animals that consume both plant materials and flesh of other animals are known as omnivores.
+
+²²Green plants that produce food within themselves are known as producers.
+
+²²A linear sequence that starts from a green plant and shows the flow of energy from one living organism to other is known as a food chain.
+
+²²A diagram that shows the inter relationships among animals and plants for food, is known as a food web.
+
+²²The existence of every living organism is very important for the balance of the eco system.
+
+²²The green plants produce food using the energy of sun light. This energy is transferred among animals through food chains and food webs.
+
+01' Choose the best answer.i' Animals that consume only plants or plant materials are known as a) herbivores b) carnivores
+
+c) omnivores d) plant eatersii' Plants do not use in producing food. a) sun light/solar power b) water
+
+c) carbon dioxide d) oxygen
+
+Exercise
+
+Science | Food Related Interactions158
+
+iii' Select the false sentence.a) A food web is created by inter connecting number of different food chains.b) The first link of a food chain is known as a producer.
+
+c) The second link of a food chain may be an animal that consumes plants.d) The third link of a food chain is always an omnivore.
+
+iv. plantgrass hoppermonitor
+
+What is the most suitable sentence about the animal that should be in the blank? a) It is definitely an omnivore.
+
+b) It is not a herbivore.
+
+c) It is definitely a carnivore.
+
+d) all the above are incorrect.02) Build up three food chains that can be seen in fresh water pond.03) Answer the given questions referring to the following food chain.
+
+Technical Terms
+
+Herbivore - YdlNlaIlhd - Carnivore - udxiNlaIlhd - Omnivore - i¾jNlaIlhd - Food chain - wdydr oduh - Food web - wdydr cd,h - Food habits - fmdaIK l%u - Producer - ksIamdolhd - Consumer - hefmkakd - Link - mqrel -
+
+i. Name the producer of the food chain.ii. Name a herbivore in the food chain.iii. How many links are there in the food chain?iv. How many consumers are there in the food chain?
+
+grass grass hopper frog cobra
+
+Science | Climatic Changes159
+
+Weather and Climate11
+
+11'1 Weather
+
+The following is a weather forecast telecast on a particular day in November.
+
+Fig 11.1 Telecasting weather reports
+
+"Showers will occur in Western and Eastern provinces. Thunder showers will occur in Western, Southern and Sabaragamuwa provinces during the evening. There will be brief strong winds with thunder showers. The Meteorological Department requests the people to take necessary steps to prevent from damages caused by lightning and thunder."
+
+Assignment 11.1
+
+The following table shows some details of weather that a grade 6 student recorded.
+
+You may have heard weather reports as above, in different media.Listen to a weather forecast in a particular channel for a week and record the details.
+
+You can also get information about the day’s weather from the following web address of the Meteorological Department www.meteo.gov.lk
+
+Science | Climatic Changes160
+
+Table 11.1
+
+Date CityRainfall mmAverage temperature 0CHumidity ]
+
+2013.09.17
+
+Anuradhapura1.827.880Badulla0.030.150Batticaloa0.032.485Colombo0.928.080Galle0.327.585Hambanthota0.628.975
+
+2013.09.18
+
+Anuradhapura0.026.485
+
+Badulla0.021.090Batticaloa0.026.685Colombo8.425.290Galle18.026.695Hambanthota47.626.290(Humidity is a measure of the amount of water vapour in the environment)Study the above table and answer the given questions. 1' What is the unit used to measure the rain fall? 2' What is the unit used to measure the temperature? 3' Which city recorded the highest rainfall on 17.09.2013? 4' Which city recorded the highest temperature on 17.09.2013? 5' Which city recorded the highest difference in the rainfall from 17.09.2013 to 18.09.2013 ? 6' Which city recorded the highest difference in temperature from 17.09.2013 to 18.09.2013 ? 7' Which city recorded the lowest humidity on 17.09.2013? 8' What was the humidity in that city on 18.09.2013? The factors that determine the weather are:- ² Rainfall ² Temperature ² Humidity ² The speed and the direction of the wind These factors change very often. So, the word weather can be defined as follows:-
+
+Weather is an atmospheric conditions at a specified place during a short time period.
+
+Science | Climatic Changes161
+
+11'2 Climate
+
+11'3 Studying Data Related to Weather
+
+The Meteorological Department collects the daily weather reports of certain cities in Sri Lanka. The following table shows some data prepared using the weather reports for 30 years.
+
+CityAverage daily temperature 0CAverage annual rainfallmmMaximumMinimum
+
+Colombo30.624.12519.7
+
+Nuwara-Eliya20.211.61709.2
+
+Hambanthota30.024.01045.0
+
+Study the above table and answer the given questions. 1' Which city has the highest average temperature? 2' Which city has the lowest average temperature? 3' Which city has the highest rainfall? 4' Which city has the lowest rainfall? After studying the weather conditions of a certain area for a long period of time (at least for 30 years) the climate of that area can be decided.
+
+Table 11.2
+
+Climate is the prevailing weather condition in an area for a long time period.
+
+The Meteorological Department keeps daily records about weather.
+
+The following graph shows the rainfall in Colombo during the 12
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+JanFabMarchAprMayJunJulyAugSepOctNovDec
+
+mm
+
+Fig 11.2
+
+months of a
+
+particular year.
+
+Science | Climatic Changes162
+
+Study the graph and answer the following questions. 1' What is the month with the highest rainfall? 2' What was the rainfall? 3' What is the month with the lowest rainfall? The following graph shows the average temperature in Colombo city during the 12 months of a particular year.
+
+Fig 11.3Study the graph and answer the following questions. 1'What is the month with the highest temperature? 2'What is the month with the lowest temperature?
+
+11'4 Designing Apparatus to Measure Weather
+
+Measuring the temperature
+
+The temperature of the atmosphere is a very important factor in determining the weather conditions.The figure 11.4 shows a thermometer used to measure the temperature in the atmosphere.Fig.11.4 A thermometer
+
+32.53231.53130.53029.529
+
+0CTmperature
+
+Jan
+
+Feb
+
+MarApr
+
+May
+
+Jun
+
+JulyAug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+Temprature (oC)
+
+Science | Climatic Changes163
+
+If data about the weather is recorded continuously, the validity becomes higher.
+
+Assignment 11.2
+
+Measure the temperature using a thermometer during different times of the day. Prepare a table as follows.
+
+DateTimeTemperature (0C)
+
+7.30 a.m.
+
+9.30 a.m.
+
+11.30 a.m.
+
+1.30 p.m.
+
+DateTimeTemperature (0C)
+
+2014-03-157.30 a.m.25
+
+2014-03-159.30 a.m.29
+
+2014-03-1511.30 a.m.30
+
+2014-03-151.30 p.m.32
+
+Table 11.3
+
+Table 11.4
+
+Fig.11.5
+
+The temperature changes from time to time during the day. The following table shows some recordings taken by a grade 6 student using this instrument from 7.30 a.m. to 1.30 p.m. on a particular day.
+
+These data can be shown in a graph.
+
+7.30 a.m.9.30 a.m.11.30 a.m.1.30 a.m.
+
+Temperature /
+
+Time
+
+0C0C
+
+Science | Climatic Changes164
+
+Activity 11.1
+
+Through the above graph, we can understand that the temperature changes from time to time even at a same place.
+
+Fig. 11.6 A rain gauge
+
+The rainfall is a very important factor in determining the weather.So, the rainfall during 24 hours, is measured using a rain gauge. The data collecting centers use standard rain gauges to measure rainfall. You too can make a simple rain gauge and measure the rainfall.
+
+Let’s make a simple rain gaugeYou will need :- A flat bottomed plastic bottle of one liter, A tall glass with a ¼ of diameter of the bottleMethod (-² Cut the plastic bottle as shown in figure (a).² Place the removed upper part on the bottom part of the bottle as shown in figure (b).² Pour water up to a height of 1cm of the bottle.
+
+Fig.11.7(a)(b)(c)
+
+Measuring the rainfall
+
+Cut here
+
+Science | Climatic Changes165
+
+DateRainfall (mm)
+
+The Meteorological Department forecasts daily weather. This weather report includes the places of minimum and maximum temperature and the places of maximum rainfall during the last 24 hours. The following table shows some such records collected during several days.
+
+DateMaximum temperature and the cityMinimum temperature and the city
+
+Maximum rainfall and
+
+the city
+
+2013.08.2136.1 0CPolonnaruwa12.8 0CNuwara Eliya4.6 mmNeboda
+
+2013.08.2236.0 0CPolonnaruwa13.8 0CNuwara Eliya9.2 mmKalutara
+
+2013.08.2336.4 0CPolonnaruwa13.5 0CNuwara Eliya27.4 mmGuruluwana
+
+2013.08.2436.8 0CPolonnaruwa13.1 0CNuwara Eliya7.5 mmHiniduma
+
+2013.08.2537.10CPolonnaruwa12.3 0CNuwara Eliya3.8 mmBaddegama
+
+² Pour the water in the bottle to the glass.² Paste a strip of paper on the glass.'² Mark the level of water on the paper strip'² Divide the height into 10 similar parts from the bottom of the glass to the mark.² One part denotes 1mm of rainfall.² Keep the bottle with the funnel in an open area. ² Measure the amount of water collected in the bottle daily at 7.00 a.m. Use the glass to measure the amount of water. Record your findings in a similar table given below.² By pasting a numbered strip on the bottle in fig.(b), the rainfall can be measured by the reading on it. ² If there is little rainfall, it can be measured by putting it to the bottle in fig.(b) with the numbered strip.
+
+Table 11.5
+
+Science | Climatic Changes166
+
+Activity 11.2
+
+Assignment 11.3
+
+● Prepare a weather report using media reports on weather and show it to your teacher.● Sometimes there may be a place in your area that measures the rainfall. Pay a visit to that place with your teacher and get an idea of how rainfall is measured.
+
+The speed and the direction of wind are very important factors in determining the weather. An anemometer is used to measure the speed of wind and a wind vane is used to find out the direction of the wind.
+
+Let’s make a wind vaneYou will need :- a piece of card board or a file cover, A long pin, A pencil with an eraser, A plastic straw, ClayMethod :-² Cut an arrow head of 5 cm and the back of arrow of 7 cm. ² Have a cut of 1cm on either side of the plastic straw.² Insert the arrow head and the back of arrow into the cuts at the two sides of the straw.² Find the balance point of the straw and fix it to the eraser of the pencil using the long pin.
+
+Fig. 11.8 A wind vaneFig.11.9 An anemometer
+
+Measuring the speed and direction of wind
+
+Science | Climatic Changes167
+
+² Cut a circle with the card board and mark the four directions² Keep the clay ball in the middle of the card board circle and fix the pencil on it. ² Use the instrument to find the direction of the wind.² The arrow head is pointed to the direction of the wind.Eg: If the arrow head is pointed to East, the direction of the wind is from East to west.
+
+Activity 11.3
+
+You will need :- four spoke wires of a bicycle, two balls with a diameter of 6 cm (in 2 colours), a rubber cork, ignition tube
+
+Fig 11.10
+
+Let’s make an anemometer
+
+Method :-² Make a hole in the middle of the rubber cork.² Insert the ignition tube into it.² Cut each of the 3 spoke wires to a length of 20 cm. (They should be with parts that are fixed to the rim.) Point the ends without screws.² Cut the plastic balls into two halves each. Two halves of same colour and one half of a different colour are needed. ² Make a hole in each half of the balls to insert the spoke wires. (See figure 11.9)yy Use the screws of the spoke wires and fix them into the halves of the balls.
+
+Science | Climatic Changes168
+
+Measuring the humidity of atmosphere
+
+The amount of water vapour in the atmosphere is known as humidity. This differs daily from time to time. The hygrometer is used to measure the humidity. At weather centers standard hygrometers are used.
+
+Rubber Cork
+
+Spoke wires
+
+Ignition tube
+
+Spoke wire
+
+Wooden stand
+
+Half of the palstic ball
+
+Fig 11.11² Fix the pointed end of the spoke to the cork with an angle of 120o (See figure 11.11)² Insert the other spoke wire to the ignition tube and with the help of it fix the anemometer to a pole.² Observe the anemometer well when it rotates to the wind. Count the number of times that the different coloured half of the ball passes a certain point. Measure the time taken for ten turns in minutes. You can calculate the speed of wind using it. Eg:- If it takes 2 minutes for ten turns, what is the speed of the anemometer? Speed of the wind = number of turns Time taken
+
+= 10 2
+
+= 5 turns per minute
+
+Science | Climatic Changes169
+
+Activity 11.5
+
+You too can design a simple hygrometer to measure the humidity in atmosphere.
+
+Fig. 11.12 A hygrometer
+
+Let’s design a simple hygrometerYou will need : A long strand of hair (about 50 cm length), a wooden plank, a long ekel, a pin, a nail (1 inch long), Thin wooden strip (60 cm length)
+
+Fig. 11.13 A hygrometer
+
+² Wash the strand of hair with shampoo and dry it. Tie the strand of hair to the nail and the ekel as shown in the figure. Fix a scale to the free end of the ekel as shown in the figure.² Mark the end of the ekel on the scale at a time when there is less humidity in the atmosphere. Mark as ''less'' at that point. When the humidity is increased (when it is going to rain), mark the end of the ekel on the scale. Mark as ''more'' at that point.² When the water vapour in the atmosphere is increased or decreased, the length of the hair is increased or decreased. We can measure the humidity with the scale.
+
+Method (-² Fix the wooden strip on the wooden plank as shown in the figure.² Fix the nail at the upper end of the thin wooden strip.² Fix the ekel to the thin wooden strip with the help of the pin as shown in the figure.
+
+wooden plank
+
+scale
+
+Strand of hair
+
+index
+
+wooden strip
+
+Science | Climatic Changes170
+
+11'5 Natural Disasters Occured Due to Climatic Changes
+
+Wind is a very important factor in determining the weather. Although wind is very important to us, sometimes it causes disasters. Cyclone is one such disaster.
+
+A cyclone occurs when the pressure in some area decreases compared to other areas of the atmosphere. A pressure depression is created in a place with a low pressure. Then the air around that place is blown at a very high speed towards the pressure depression. This causes a cyclone.
+
+Fig.11.14 A satellite pictureof a cycloneMost of the cyclones that affect our country originate in the Bay of Bengal. Rain with storms, huge sea waves, thunderbolts occur due to cyclones. The destruction of lives and property caused by cyclones is very high.
+
+The Meteorological Department is alert about cyclones during 24 hours of the day. As it is equipped with high technological instruments, it has the ability to warn about a cyclone before 48 hours. You can get details about cyclones on 0112686686 or from their web site.
+
+Cyclones
+
+Science | Climatic Changes171
+
+Rain is a major factor that determines the weather. As Sri Lanka is an agricultural country, rain is very important for us. But heavy rains may cause disasters. Due to heavy rains, streams, rivers, reservoirs etc. are filled with a huge amount of water in a very short time period and they overflow. As a result of this overflow a large area of land is temporarily covered with water.This is known as flood. Although flood is a natural disaster, it can cause greater damage. Flood can occur due to human activities such as reclamation of lands, improper construction activities and sand mining.
+
+Fig. 11.15 Flood
+
+Flood
+
+Drought
+
+Certain area gets less than 75% of expected rainfall at a certain time period a dry weather condition may occur in that area. The dry period that occurs due to lack of rain can be simply called as drought.
+
+For your extra knowledge
+
+Fig. 11.16
+
+Wet zoneIntermediate zoneDry zoneArid zoneConsidering the annual rainfall ,Sri Lanka has been divided into four zones. ² Wet zone ² Intermediate zone ² Dry zone ² Arid zone There is an expected amount of rainfall and a pattern of rainfall for all these zones.
+
+Science | Climatic Changes172
+
+Fig. 11.17 An occasion of a drought
+
+Landslide is a natural disaster related with rain.
+
+Having a continuous rain for three days or over 200 mm of rainfall, may cause landslides. Sliding down a large amount of soil and stones in a higher area (with trees, creepers and everything on it) to a lower area is known as a landslide. The gravity of the earth affects landslides. Landslides mostly occur in hilly areas, especially lands used by man.
+
+Landslides are a natural process. But due to some human activities, landslides can occur.
+
+Eg: cultivation on slope areas, cutting trees, clearing forests
+
+A landslide becomes a disaster when it occurs in a populated area destroying lives and property.
+
+Landslides
+
+Collecting water during the rainy season is an action that can be taken to minimize the effect of a drought. Ancient kings built tanks for this purpose.Today many people make water collecting tanks to collect water during rainy seasons.
+
+Fig. 11.18 An occassion of a landslide Fig. 11.19 An occassion of a landslide
+
+Science | Climatic Changes173
+
+Badulla, Nuwara Elliya, Kegalle and Rathnapura are the districts that record more about land slides. National Building Research Organization collects data about areas where landslides occur. It also gives instructions to prevent landslides and re-constructs lands that have already facedlandslides.Their web address is www.nbro.gov.lk
+
+We can’t stop natural disasters such as cyclones, flood droughts etc. What we should do is be alert about these disasters. It is our responsi-bility to listen to the announcements and instructions given by media and minimize the effects of these disasters.
+
+Summary
+
+² Atmospheric condition at a specified place during a short time period is known as weather.² Climate is the prevailing weather condition in an area for a long time period.² The Meteorological Department records weather conditions and also forecasts weather.² Temperature, rainfall, speed of wind and humidity are some factors that determine the weather.² Many standard instruments are used to get information about weather. You too can make some simple instruments to measure the factors that affect weather.² Natural disasters such as cyclones, flood, droughts, landslides occur due to changes of weather conditions.² We can minimize the effects of these natural disasters by being alert about the changes in weather.
+
+Science | Climatic Changes174
+
+Exercise
+
+1' Fill in the blanks. I. The unit used to measure the temperature is '''''''''''''''' II. Wind blown horizontally at a very high speed is known as '''''''''''' III.If the arrow head of the wind vane is pointed to North, wind blows from ''''''''''' to'''''''' IV. The unit used to measure the rainfall is '''''''''' 2. What do you mean by ‘‘ weather’’ ?
+
+3. What is the difference between weather and climate?
+
+I. What are the days with the same maximum temperature ? II. What are the days with the same minimum temperature ? III. What is the day with the least maximum temperature ? IV. What is the day with the least minimum temperature ? V. What is the day with the maximum rainfall ?
+
+DateMaximum Temperature 0C
+
+Minimum Temperature 0C
+
+Rainfall (mm)Humidity ]
+
+131.327.9080231.628.1081331.328.2081430.926.82.2982531.326.40.2577630.725.21.2989730.525.022.3583831.326.90.2580931.328.10821031.128.0080Answer the following questions using the information about the above 10 days.
+
+4. Study the table and answer the given questions. Month : June 2012 Colombo
+
+Science | Climatic Changes175
+
+Project
+
+² Have a visit to the Meteorological Department in Bauddhaloka Mawatha, Colombo or meteorological Department in your area and observe the process of collecting data.² Find the methods of collecting data on weather. Collect information and prepare a report.² Prepare a booklet about the methods used by our ancestors to forecast weather.
+
+Technical Terms
+
+Weather - ld,.=Kh - ÁõÛø» Climate - foaY.=Kh - Põ»{ø»Rainfall - j¾Idm;kh - ©øÇÃÌa]Temperature - WIaK;ajh - öÁ¨£{ø»Humidity - wd¾ø;dj - Dµ¨£uß Rain Gauge - j¾Idudkh - ©øÇ©õÛ Thermometer - WIaK;ajudkh - öÁ¨£©õÛHygrometer - wd¾ø;dudkh - Dµ©õÛ Anemometer - wks,udkh - PõØÖ÷ÁP©õÛ Wind vane - iq<x ÈYd o¾Ylh - PõØÖzvø\Põmi Cyclone - iq<s iq<x - `ÓõÁÎFlood - .xj;=r - öÁÒÍ®Drought - kshÕh - Áµm]Landslide - kdh hdu - ©sn›¨¦

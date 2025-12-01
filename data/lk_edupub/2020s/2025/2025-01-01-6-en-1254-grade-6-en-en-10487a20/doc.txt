@@ -1,0 +1,2927 @@
+==== BLOCKS ==== 
+
+i
+
+Grade 6
+
+ENGLISH
+
+Pupil's Book
+
+Educational Publications Department
+
+ii
+
+First Print - 2014
+
+Second Print - 2015
+
+Third Print - 2016
+
+Fourth Print - 2017
+
+Fifth Print - 2018
+
+Sixth Print - 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0072-5
+
+Published by Educational Publications DepartmentPrinted by: Karunaratne & Sons (Pvt) Ltd.65 C, Thalgahavila Road, Midellamulahena, Horana.
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha Apa Sri Lanka Namo Namo Namo Namo Matha Sundara siri barinee, surendi athi sobamana Lanka Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye matha Piliganu mena apa bhakthi pooja Namo Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha Oba we apa vidya Obamaya apa sathya Oba we apa shakthi Apa hada thula bhakthi Oba apa aloke Apage anuprane Oba apa jeevana we Apa mukthiya oba we Nava jeevana demine, nithina apa pubudukaran matha Gnana veerya vadawamina regena yanu mana jaya bhoomi kara Eka mavakage daru kela bevina Yamu yamu vee nopama Prema vada sema bheda durerada Namo, Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+xu jha; kf;fs; ehkhNthk;xd;Nw ehk; thOk; ,y;yk;ed;Nw clypy; XLk;xd;Nw ek; FUjp epwk;
+
+mjdhy; rNfhjuu; ehkhNthk;xd;wha; thOk; tsUk; ehk; ed;wha; ,t; ,y;ypdpNyeyNk tho;jy; Ntz;Lkd;Nwh
+
+ahtUk; md;G fUizAld;xw;Wik rpwf;f tho;e;jpLjy;nghd;Dk; kzpAk; Kj;Jky;y - mJNtahd;W kopahr; nry;tkd;Nwh.
+
+Mde;j rkuf;Nfhd; ftpijapd; ngau;g;G.
+
+v
+
+Being innovative, changing with right knowledgeBe a light to the country as well as to the world.
+
+Message from the Hon. Minister of Education
+
+The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan Government and myself, as the Minister of Education, to empower you all.
+
+This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders.
+
+Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence, you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim.
+
+It is your duty to give a proper value to the money spent by the government on your education. Also you should understand that education determines your future. Make sure that you reach the optimum social stratum through education.
+
+I congratulate you to enjoy the benefits of free education and bloom as an honoured citizen who takes the name of Sri Lanka to the world.
+
+Akila Viraj KariyawasamMinister of Education
+
+vi
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in relation to human experiences, technological differences, research and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has offered you about 91 textbooks from grades 6-11. I would like to remind you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as well as on the staff of the Educational Publications Department who have strived to offer this textbook to you.
+
+W. M. Jayantha Wickramanayaka,Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+vii
+
+Monitoring and Supervision - W. M. Jayantha Wickramanayaka Commissioner General of Educational Publications Educational Publications Department Direction - W.A. Nirmala PiyaseeliCommissioner of Educational Publications(Development) Educational Publications Department
+
+Co-ordination - Ranjith Iluppitiya Deputy Commissioner Educational Publications Department
+
+- W. Indumini Darshika Assistant Commissioner Educational Publications Department
+
+Panel of Editors
+
+1. Dilini Chamali Walisundara - Senior Lecturer Department of English University of Sri Jayawardenepura
+
+2. B. Maheshi Weerasuriya - Director of Education (English and Foreign Languages)Ministry of Education
+
+3. W. M. Gamini Gunathilake - Senior Lecturer Wayamba National College of Education
+
+4. T. Chandrika Peiris - Lecturer National Institute of Education
+
+Panel of Writers
+
+1. R.W.P.L.K. Rambukwella - Teacher WP/Pili/ Lankasabha Vidyalaya
+
+2. N. Nadeeka Liyanagamage - Teacher WP/Jaya/ Kottawa Dharmapala Maha Vidyalaya 3. Esala Erangi Malawithanthri - Master Trainer Kalutara Zonal Education Office
+
+viii
+
+4. D.R. Jeewanthi de Silva - In-Service - Adviser Negombo Zone
+
+5. Anura Dammika Edirimanne - Teacher St. John’s CollegeNugegoda
+
+Language Editing
+
+R.M.D. Rohan - LecturerPasdunrata National College of Education Proof Reading
+
+Jayalath Wickramasinghe - Teacher Eheliyagoda National College Illustrations Ruwan Indrajith Upasena - Teacher St. Joseph Boys' SchoolGrandpass, Colombo 14 Cover Design
+
+D.M.J. Nisansala Dissanayaka - Computer AssistantEducational Publications Department Computer Designing & Formatting
+
+1. D.M.J. Nisansala Dissanayaka - Computer AssistantEducational Publications Department
+
+2. Charani Nishamini Wijerathne - Computer Assistant Educational Publications Department
+
+ix
+
+A Word to the Teacher.....
+
+The Boards of Writers and Editors are honoured to be a part of this national engagement to compile and edit the Grade 06 English textbook and workbook for the students of our country. This textbook is designed to help the students learn and use language in different situations locally and internationally. The book also contains additional information for the teachers in the form of the competency levels and the corresponding activities with the hope of making the task of teaching easier. Furthermore, the book is designed to accommodate the different and varying proficiency levels of the students with the hope of addressing the needs of the larger student population of this country. In addition, the lessons are chronologically sequenced to avoid any confusion that may arise in the teaching process.
+
+It is recommended that this book be used as a guide to teachers and students on expected national standards and teachers are encouraged to use supplementary material as much as possible in the classroom. We thank all those who worked with us through this difficult but enjoyable process and hope that we will be able to make a difference in the lives of our students who are keen and enthusiastic to learn English. So, let’s learn English!
+
+Thank you
+
+Board of Writers
+
+Board of Editors
+
+x
+
+Competency Levels to Be Covered in Grade Six
+
+No. of Competency LevelsCompetency1.1, 1.212.1, 2.2, 2.323.1, 3.2, 3.334.1, 4.2, 4.3, 4.4, 4.545.1, 5.2, 5.3, 5.4, 5.5, 5.656.1, 6.2, 6.3, 6.4, 6.5, 6.6, 6.7, 6.8, 6.9, 6.1067.1, 7.2, 7.3, 7.4, 7.5, 7.678.1, 8.2, 8.3, 8.4, 8.5, 8.6, 8.7, 8.8, 8.9, 8.10, 8.11, 8.12, 8.138The Book at a GlanceUnitCompetency LevelLesson/Activity1Hello1.1, 1.2Role Play
+
+5.2Activity 18.1Introduce Yourself3.2, 8.2, 8.3Activity 2 – Game1.1, 1.2Read Aloud – Essays on “Myself”5.3Activity 37.1, 8.1, 8.2Speech and Essay – Myself1.1, 1.2Role Play8.2Activity 4 & 51.1Song – It’s a Small World1.1, 6.1Read Aloud6.1Activities 6,7 & 81.1Read Aloud – Poem1.1, 1.2Activities 9 & 10
+
+2Leisure
+
+1.1 (/I/ and /i:/)Activities 11, 12 & 131.2Role Plays 1 & 2, A Day at the Park5.1Activities 2 & 35.2Activities 1 & 36.1( Present Continuous Tense)Activities 1, 2, 3, 4, 5, 6, 7& 98.12Activity 88.13Role Plays, Activity 10
+
+3Where Is Everything
+
+1.1, 1.2, 6.7Role Play5.2Activity 13.2,3.3, 8.3,8.5, 8.8,8.12Activity 2 – Listen and Do6.1, 6.7, 7.1, 8.13Activity 36.1, 6.7, 7.1, 7.2Activity 4 – Writing6.1, 6.7, 8.3, 8.9Activity 5 – Find and Speak3.1, 3.2Activity 6 – Listen and Draw6.1, 6.6, 7.2, 4.5Activity 7 – Magic Box3.2, 3,3, 5.1Activity 85.1Activity 9 – Let’s Make an Origami Cup4.5Activity 10
+
+xi
+
+4What Can You See
+
+1.1, 1.2Role Play6.4Vocabulary, Activity 16.1, 6.4, 7.1Activity 26.1, 7.4Activity 3 – Find and Circle5.2, 5.6, 6.1, 6.2, 6.6Activity 4 – Read, Draw and Answer6.6Activity 5 – My Father’s Tree House6.1, 6.7, 6.8, 7.1Activity 6 – Spot the Differences3.1, 3.3Activity 7 – Listen and Answer3.3Activity 8 – Listen and Write
+
+5Aunt Minoli’s Kitchen
+
+1.2Role play2.1Activity 32.2Activity 52.3Activity 45.1, 5.2Activity 1- Com. Passage; An Apple a Day Keeps the Doctor Away!5.2Activity 66.8Activity 77.4Activities 2,6,7,8 & 9
+
+6What We Do
+
+3.2Activity 35.2Activity 15.6Activities 18 & 196.1Activities 2,4,6, 7,8, & 97.1Activity 147.4How to make a Lion Mask: Activities16 & 178.4Activity 158.10Activities 4 and 58.12Activities10, 11, 12 and 14
+
+7A Fine Day
+
+5.1Activities 1 ,2&73.3Activity 36.7Activities 4 &55.2, 5.5, 5.6Activity 66.1Activity 86.1, 6.2, 6.6, 8.6, 8.7,Activity 98.12,8.13Activity 101.1, 1.2Activity 116.1, 6.2, 6.6,1.1,1.2,6.6Activity 12 – Rain
+
+8A Visit to the Zoo
+
+1.1A Vowel Song, Activity 111.2Role Play: A Visit to the ZooThe Little Red Hen5.1Activity 104.3Activity 125.2Activities 1&25.5The Little Red Hen, Activity 38.6,6.3Activities 4,5,6,7,8&9
+
+xii
+
+9Sugar or Sand
+
+1.1Board Game,Activities 14 &151.2Andare4.1Activities 11,12&135.1Activity 45.2Activity 15.3Activities 3&45.5Activities 2&46.2Activities 5,6 &76.5Activities 8&96.9Activity 10
+
+10Was It Yesterday
+
+1.1 (/p/ and /f/)Activities 12 & 131.2Role play3.2Activity 35.2Activities 1, 9 & 115.3Activity 45.4Poem “Gorilla”6.1Activities 2,3,6, 7, 8, 9 & 106.6Activity 88.11Activity 5
+
+11Eco Friends
+
+3.3Activity 84.2Activities 9& 104.3Activity 44.4Activity 115.2Activities 1, 3, 5& 65.6Riddles7.1Activities 6& 77.2Activity 28.11Let’s Play a Game
+
+xiii
+
+Contents
+
+Unit Lesson Page
+
+1 Hello 01
+
+2 Leisure 11
+
+3 Where's Everything? 22
+
+4 What Can You See? 32
+
+5 Aunt Minoli's Kitchen 39
+
+6 What We Do 49
+
+7 A Fine Day 63
+
+8 A Visit to the Zoo 71
+
+9 Sugar or Sand 84
+
+10 Was It Yesterday? 100
+
+11 Eco Friends 111
+
+xiv
+
+Dear Student,
+
+Please do not write anything in this book. Use your exercise book to do the activities that appear here.
+
+1For free distribution
+
+UNIT 01
+
+HELLO
+
+Role Play
+
+It is the first day of the new class. The friends meet each other.
+
+Sudeva : Hello Yoga, good morning!Yoga : Hello Sudeva, good morning! Is this grade 6A?Sudeva : Yes, this is grade 6A. Yoga : Great! That means I am in your class.Sudeva : Welcome to our class!Yoga : Thank you! Are Vismi and Arkil here?Sudeva :Vismi is here but Arkil is not. He is in grade 6B. Raj is also in our class.Yoga : Oh, we will miss him. Where are the others?Sudeva : They are arranging the class.Yoga : Shall we go in?Sudeva : Yes. Let’s help them.
+
+Activity 1
+
+Read the role play and answer.
+
+1. What is their new class?
+
+2. Who are the friends in grade 6A?
+
+3. Which friend is not in grade 6A?
+
+4. What are Vismi and Raj doing?
+
+5. Write down a list of things you would do on your first day in a new class.
+
+2For free distribution
+
+There are some new students in grade 6A class. They introduce themselves.
+
+Hello, I am Isuru. I am from Puttalam.Hello, I am Saroja.I am from Mullai Nagar.
+
+Hello, I am Abdul. I am from Noor Nagar.
+
+, ² Introduce yourself to the friend next to you.
+
+Let’s play a game
+
+Activity 2
+
+Now listen to your teacher and play the game.
+
+3For free distribution
+
+Read aloud
+
+Here are some short essays on “Myself”.
+
+My name is Viruli. I live in Panadura. I am 10 years old. My school is Mahamaya Girls’ College. I am in grade 6. My hobby is gardening. I have a brother and two sisters. My mother’s name is Ruwini and my father’s name is Rasika. I like pink most. I have a pet dog. My favourite subject is Science. I want to be a scientist one day.
+
+My name is Upendran Subramaniam and I am 10 years old. I am from Jaffna. I am a grade 6 student of Jaffna College. My father is Rakesh and my mother is Parvathi. They are teachers. I have two sisters. My favourite food is iddli. I like playing chess. Orange is my favourite colour. My favourite subject is Mathematics. My ambition is to be an engineer one day.
+
+I am Manuka Basuru Herath. I am 11 years old. I am studying in grade 7 at Vijayaba Vidyalaya. My family is small. I have two sisters. My mother is Kumari Herath and my father is Sampath Herath. I have a pet dog too. My hobbies are reading and writing poems. My favourite subjects are Sinhala and Science. I like to eat red rice with jak curry. My ambition is to be a writer.
+
+My name is Fathima Rifka. I am 10 years old. My school is Muslim Ladies' College. I am in grade 6. My father is a businessman. He is Raslan. My mother is a teacher. She is Nihla. I have three sisters. My favourite food is biriyani. Green is my favourite colour. My hobby is playing badminton. I want to be a teacher one day.
+
+4For free distribution
+
+Activity 3
+
+Now fill in the grid using the above descriptions.Write about yourself in the first column.
+
+Name............. ViruliUpendran Manuka RifkaAgeSchoolClassHobbyVillage/ TownPetFavourite colourFavourite foodFavourite subjectAmbition
+
+² Give a speech on “Myself” to your classmates and write it in your writing book. You can start like this:
+
+Good morning/afternoon! Dear teacher and friends, I’m here to speak about myself. I’m …….
+
+5For free distribution
+
+Role Play
+
+Sudeva, Vismi, Yoga, Raj, Abdul, Hafza and a few other friends arranged their classroom.
+
+Raj : Teacher asked us to form five groups.
+
+Sudeva : How can we do that?
+
+Raj : Give me the register.
+
+Hafza : Here you are.
+
+Raj : Thank you! We have 30 in our class.
+
+Yoga : That means, six in one group.
+
+Hafza : Six in one group?
+
+Yoga : Yes. Then there are five groups.
+
+Raj : Thank you, Yoga, for helping me.
+
+Yoga : You’re welcome.
+
+Sudeva : Who’ll make the cleaning chart?
+
+Abdul : I think you should do it, Sudeva. You are the monitor.
+
+Vismi : It’s alright. I’ll do it.
+
+Sudeva : Thank you, Vismi. It’s really nice of you.
+
+Vismi : It’s my pleasure, after all, we’re in the same class.
+
+Raj : Yes, we are in the same class.
+
+Abdul : You’re right. We should help each other.
+
+6For free distribution
+
+Activity 4
+
+Put a tick (✔)in the box if you say “Thank you” to the following.
+
+a) “Wait, I’ll help you.” b) “What’s the time now?” c) “Your dress is so beautiful.” d) “Can you give this to me?” e) “Here you are. Use this pen.”
+
+Activity 5
+
+Match the expressions with the possible situations.
+
+A BThank you You say thank you for a gift
+
+It's alright A friend thanks you for helping her to do homework
+
+You're welcome You forgot to bring your friend's story book. When you tell her this, she replies....
+
+It's my pleasure You ask for an extra pen
+
+It's nice of you Your friend opens the door for you
+
+Here you are You visit a friend's mother in the hospital
+
+7For free distribution
+
+Let's singWhile making the chart, Vismi hummed a song. Here’s the song. Shall we sing together? Listen to your teacher first.
+
+It’s a Small World
+
+It's a world of laughter, a world of tearsIt's a world of hopes and a world of fearsThere's so much that we share that it's time we're awareIt's a small world after allChorus: It's a small world after all It's a small world after all It's a small world after all It's a small, small worldIt's a world of laughter, a world of tearsIt's a world of hopes and a world of fearsThough the mountains divide and the oceans are wide It's a small world after all
+
+Read aloud
+
+Are you Manuka?
+
+Yes, I am Manuka.
+
+Is he a player?Is it a football?
+
+Yes, he is a player.
+
+Yes, it is a football.
+
+8For free distribution
+
+Are they singers?
+
+Yes, they are singers.
+
+Read and Match
+
+Activity 6
+
+1. Are you Manuka? No, she is not Uma. She is Fathima.2. Are you a student? No, it is not a pen. It is a pencil.3. Is he a student? Yes, I am an athlete.4. Is it a football? No, they are not grade 6 students.5. Are they dancers? Yes, they are dancers.6. Are we singers? Yes, he is a student.7. Are you an athlete? Yes, we are singers.8. Is it a pen? Yes, I am a student.9. Is she Uma? Yes, I am Manuka. 10.Are they grade 6 students? Yes, it is a football.
+
+Writing
+
+Activity 7
+
+Fill in the blanks using am, is or are.
+
+1. I am a student. I…..... in the classroom.2. She ..….. a teacher. She …… in the staffroom.3. We …… scouts. We …….at the campsite.
+
+9For free distribution
+
+4. He ….. Mr. Perera. He …. in the office.5. They ….. cricketers. They …… in the playground.6. You ….. a good student. You ........... doing your homework. 7. It ….. our library. It ............. very quiet in the library.
+
+Writing
+
+Activity 8
+
+Make questions.
+
+1. They are in the classroom. …………………………………………........................? 2. He is a cricketer. …………………………………………………………?3. She is a prefect. …………………………………………………………?4. They are new textbooks. …………………………………………………………?5. It is a volleyball. …………………………………………………………?6. We are in the correct group. …………………………………………………………?
+
+Read Aloud
+
+There was a cat,Who sat on a mat,It was so fat,It couldn’t even catch a rat.
+
+What are the words that sound similar? Example:- cat – rat
+
+10For free distribution
+
+Activity 9
+
+Underline the word with a different sound.
+
+a) hot, sat, mat, vatb) van, man, fan, billc) pan, cot, tan, vand) cat, rot, mat, fate) bit, set, jet, wetf) rat, rim, fat, hat
+
+Activity 10
+
+Listen to your teacher and identify similar sounds.
+
+ABCDE
+
+taxgangbankbandatdashwrapmanhadjack
+
+madsanklaprashwaxstandvanrangbatsack
+
+sandclashsangbantankfaxbadsapsat back
+
+mapvaxrankbrandladmat bangcancashpack
+
+lackratmaxfantangcapblanklandbashsad
+
+11For free distribution
+
+UNIT 02 LEISURE
+
+Role Play
+
+(1) At Home
+
+Mother: Upendran, what are you doing?
+
+Upendran: I am drawing a picture for the art competition.
+
+Mother: Where is your sister? Is she watching cartoons again?
+
+Upendran: No, she is not watching cartoons. She is doing her homework.
+
+Mother: That’s good. Your brothers are playing outside. Tell them not to go to the road.
+
+Upendran: Don’t worry mother. They are playing hopscotch.
+
+12For free distribution
+
+(2) At the sports meet
+
+Shane : The opening ceremony has just started.
+
+Nipun : Yes, the athletic captain is carrying the sports torch.
+
+Shane : Look, the house captains are joining him. They are running together.
+
+Nipun : Yes, now they are lighting the sports torch.
+
+Shane: Why are all the athletes standing there?
+
+Nipun : To give the oath.
+
+Activity 1
+
+Writing
+
+Read the two dialogues and fill in the blanks.
+
+1. I am …………… 2. She is …………… 3. Upendran’s brothers are ……………4. The athletic captain is …………….5. They are …………6. She is not …………………
+
+13For free distribution
+
+Activity 2
+
+Read and Match
+
+1
+
+2
+
+3
+
+4
+
+5
+
+a). The athletic captain is carrying the sports torch.
+
+b). Students are talking in the classroom.
+
+c). The children are playing hopscotch.
+
+d). She is lighting the oil lamp.
+
+e). He is doing his homework.
+
+14For free distribution
+
+Activity 3
+
+Read and Answer
+
+A Day at the Park
+
+It is a fine Saturday afternoon.The sun is shining brightly.Nipun and his friendsVignesh, Sithuli, Rizvi and Amanda are in the park with their families. Rizvi is climbing up a rope ladder. His little brother Niaz is riding a pony. This is his first pony
+
+ride. His father is walking beside him.Niaz is smiling happily. Nipun and Vignesh are playing cricket.
+
+Vignesh is batting and Nipun is bowling. Amanda is sliding down a slide. Her twin sisters, Sharon and Rebecca are playing on a see-saw. Sithuli is feeding the fish in the pond. Their mothers are sitting on the grass, watching them at play. An ice-cream seller is standing by the gate. Two children are running to buy some ice-cream.
+
+15For free distribution
+
+1. Where are the children playing?2. What is Rizvi doing?3. Who is feeding the fish?4. Why is Niaz smiling?5. How can we say it is a fine day?
+
+Discuss with your teacher:• What can you do to keep the park clean?
+
+Activity 4
+
+Writing
+
+Refer to the table and write meaningful sentences.
+
+IThe opening batsmanHePraveenTheyThe starsThe beesThe catWeThe monkey
+
+am /is /are
+
+swingingwritingcleaningbathingchasingsingingpolishingtwinklingbattinggathering
+
+at night in the skynowan essaya mousein the rivertheir bootsthe rooma songnectarby its tail
+
+16For free distribution
+
+Activity 5
+
+Write 5 sentences using the correct verb form.
+
+carry, ring, swim, make, weave, enjoy
+
+e.g. :- pick – picking Nirmali is picking flowers.
+
+Activity 6
+
+Speaking
+
+Let’s describe this picture.
+
+Everybody Is at Home
+
+Picture - F.H. Nishadhini Randima Silvae.g. :- Father is cleaning the windows.
+
+17For free distribution
+
+Activity 7
+
+Reading and Writing
+
+Look at the picture and complete the grid.
+
+e.g. :- Is the cat drinking milk?No, the cat is not drinking milk.The cat is climbing the tree.e.g. :- Are the birds flying?No, the birds are not flying.The birds are singing.No, mother is not watering the flowers.Is grandfather drinking tea?Are the ducks eating?
+
+Activity 8
+
+Practise and Write
+
+Use 'what', 'where', 'who' or 'why'.
+
+e.g. :- Who is drinking tea? Grandmother1. ………is the dog sleeping? On the ground2. ………are the birds? On the tree3. ……....are the ducks doing? They are swimming.4. ……....is the cat climbing the tree? To catch the birds5. ……....is grandfather doing? He is reading a newspaper.
+
+18For free distribution
+
+Activity 9
+
+Study this picture and rearrange these words to form meaningful sentences.
+
+1. are/There/in/eight/this/children/picture
+
+2. are/They/beach/the/on/playing
+
+3. sea/children/are/at/Some/the/looking
+
+4. A/is/boy/wearing/vest/blue/a
+
+5. having/are/fun/They
+
+6. sailing/boat/is/A/sea/the/in
+
+19For free distribution
+
+Activity 10
+
+Read and Match
+
+Amanda : This book looks interesting.Buddhi : Yes,why don’t you borrow it?Librarian : Please stop talking. This is a library. You have to be silent here.Amanda and Buddhi: Oh! We’re sorry.Amanda : I would like to borrow this book.Librarian: I’m sorry you can’t borrow this book.You have to read it in the library.Amanda : That’s alright. I’ll read it here.,
+
+Nipun : There, the race has just started.Raj : Where’s Shan?Nipun : He’s in lane 3. Shan, come on! Faster!Raj : But number 6 is up in front. No, look. Shan is gaining speed. He’s just passed number 6. He is the winner.Nipun : Hoorah! Well-done, Shan!
+
+Student A : Teacher, I have solved all the sums. Teacher : Bring your book please.Student B : Teacher, I have finished them too.Teacher : Please stand in queue and wait for your turn.Student C : Excuse me teacher, may I go out to drink some water?Teacher : Yes, you may.(A bell rings)Teacher : Please be silent and stand up for religious observances.
+
+20For free distribution
+
+What are the expressions used to,
+
+² apologize ² cheer an athlete
+
+² ask someone to wait for his or her turn
+
+² ask something from someone ² decline a request
+
+² congratulate someone upon winning
+
+² Well done!
+
+² I’m sorry
+
+² Come on….....faster!
+
+² Please stand in queue and wait for your turn
+
+² Excuse me ……....
+
+² I’m sorry
+
+Listening and Speaking
+
+Activity 11
+
+Chinese Whispers
+
+Say it.
+
+Get into groups of five. Your teacher will whisper a secret to the first member of each group. Whisper it to the person next to you. The last member of the group must whisper it to the teacher. The first group which reports correctly will be the winner.
+
+21For free distribution
+
+Reading and Writing
+
+Activity 12
+
+Read the examples and fill in the table with the words given.
+
+e.g. :- fitfeet
+
+lickwinpickleakwean
+
+peekhit weakhipsip
+
+heaphillseep
+
+heel
+
+hid
+
+heed
+
+bid
+
+heatship
+
+fitsheep
+
+feetbead
+
+wick
+
+Activity 13
+
+Read the table. Add more words from the list. Read the words aloud.
+
+winsinkfishdigsip
+
+pinbitdrilllid
+
+sickwitbringwigkill
+
+bidswishlick
+
+stringlip
+
+blink
+
+tipsing dishkickpinkhipkingwishtickwink
+
+22For free distribution
+
+UNIT 03
+
+WHERE’S EVERYTHING?
+
+Role Play
+
+A tourist from Sweden wants to go to the National Museum.
+
+Tourist : Excuse me. Where is the National Museum?
+
+Sandaru : It’s in the Main Street.
+
+Tourist : How can I go to the Main Street?
+
+Sandaru : Go along this road and turn left. It’s the Main Street.
+
+Tourist : Alright.
+
+Sandaru : There is a park on your right. Next to the park is the Museum. It is between the park and the Art Gallery. You can find it easily.
+
+Tourist :Thank you very much.
+
+Sandaru :You’re welcome. Enjoy your visit!
+
+Activity 1
+
+Read the role play and put a tick (√) or a cross (×).
+
+1. There are two characters in the dialogue. □2. The tourist wants to go to the Art Gallery. □3. They are in the Main Street now. □4. The park is in the Main Street. □5. Sandaru knows how to go to the Museum. □
+
+23For free distribution
+
+Listen and Do
+
+Activity 2
+
+Let’s play a game.
+
+I spy with my little eyes something beginning with…....
+
+Speaking
+
+Activity 3
+
+Pair work - Make a list of things in the classroom. Use the following sentence patterns.Example: - The record book is on the teacher’s table. There is a calendar on the wall. There are some flowers in the vase.
+
+3.1) Where is the red ball?
+
+on in/inside near betweenABCD
+
+3.2) Answer the following questions.
+
+● What is on the table?● What is on the cupboard?
+
+● What is in your bag?● What is in the classroom?
+
+● What is near your desk?● What is near the teacher’s table? ● What grade 6 class is between grade 6A and 6C?● Who is sitting between you and ................ (name of student)?
+
+24For free distribution
+
+Writing
+
+Activity 4
+
+Write complete sentences.
+
+Example:- a) The television is between the dog and the cat.
+
+a)
+
+e)d)c)
+
+b)
+
+f)g)
+
+25For free distribution
+
+Find and Speak
+
+Activity 5
+
+Describe the following picture.
+
+WallWindow
+
+Poster
+
+Teddy bear
+
+Mirror
+
+Pillow
+
+VaseTableChair
+
+PlantFloor
+
+Bed
+
+Door
+
+Bin
+
+Slippers
+
+Lamp
+
+Carpet
+
+Example:- ● The lamp is on the writing table. /There is a lamp on the writing table. ● The pens are on the writing table. /There are four pens on the writing table.
+
+26For free distribution
+
+Listen and Draw
+
+Activity 6
+
+Listen to your teacher and draw.
+
+Square
+
+CrescentStraight lineOval
+
+CircleTriangleRectangle
+
+WritingMagic Box
+
+Activity 7
+
+Oh look ! Here is a magic box. What can you see in the box?
+
+Example:-There is a red pen, a white….. There are three balls, four…
+
+27For free distribution
+
+Activity 8
+
+8.1) Listen, follow the directions and name the buildings.
+
+Sports ClubRailway StationPost OfficePark Avenue
+
+Station Road
+
+Market Road
+
+Sea Street
+
+CafePharmacySchool12
+
+3
+
+4
+
+5YOU ARE HERE
+
+Upper street
+
+Statue
+
+Now compare your map with your friend’s map.
+
+8.2) Read and underline the correct sentence.
+
+1.a) The school is on the corner of Upper Street and Sea Street.b) The railway station is on the corner of Upper Street and Sea Street.c) The bank is on the corner of Upper Street and Sea Street.
+
+2. a) The playground is opposite the pharmacy.b) The playground is opposite the post office.c) The playground is opposite the cafe.
+
+3.a) The clock tower is next to the railway station.b) The clock tower is next to the school.c) The clock tower is next to the hospital.
+
+28For free distribution
+
+4.a) The cafe is next to the market.b) The cafe is next to the bank.c) The cafe is next to the playground.
+
+5.a) The sports club is in Upper Street.b) The sports club is in Market Road.c) The sports club is in Park Avenue.
+
+Let's Make an Origami Cup
+
+Activity 9
+
+Let’s make an Origami cup. Follow the picture clues.
+
+15 cm
+
+15 cm
+
+Instructions:
+
+a) Take a square piece of paper. Fold it diagonally. b) Now you have a triangle.c) Fold the left corner in.d) Then turn the right corner in.e) Fold the top flaps down in opposite directions.f) Now show your paper cup to your friends.
+
+29For free distribution
+
+Plurals of Nouns
+
+Let’s study how singular nouns form their plurals.
+
+Most nouns form their plural form by adding -s to the singular form.
+
+Singular (one) Plural (more than one)
+
+a dog dogsa boat boatsa cat catsa song songsthe shop the shopsthe tree the treesone teacher two teachersone book five books
+
+When a singular noun ends with s, sh, ch or x , its plural is formed by adding –es.
+
+Singular (one) Plural (more than one)
+
+a bus busesa glass glassesa brush brushesa watch watchesa box boxes
+
+Some singular nouns ending with ‘o’ also takes –es when their plurals are formed.
+
+Singular (one) Plural (more than one)
+
+mango mangoestomato tomatoespotato potatoeshero heroesExceptions :radio radiosstudio studios
+
+30For free distribution
+
+piano pianosphoto photos
+
+When the last letter of a singular noun is y and the letter beforey is a consonant, its plural is formed by changing y to ies.
+
+Singular (one) Plural (more than one)
+
+baby babies (last letter - y, consonant - b)lady ladiescity citiesfly flies
+
+Some nouns ending with f or fe form their plural by adding ves.
+
+Singular (one) Plural (more than one)
+
+leaf leavesknife kniveslife livescalf calves
+
+Some nouns have different singular and plural forms.
+
+Singular (one) Plural (more than one)
+
+man menwoman womenchild childrentooth teethfoot feet mouse mice
+
+31For free distribution
+
+Activity 10
+
+Fill in the blanks with the plural form of the nouns.
+
+1) There were three ……….. (mouse) on the roof.
+
+2) Colombo and Kandy are big ………………….. (city).
+
+3) I have two……………(brush) to clean my……………..(tooth).
+
+4) These ……………………… (bus) are broken.
+
+5) I saw two ………………….. (baby) in the cot.
+
+6) That tree has brown ……………………… (leaf).
+
+7) The cook brought many ……………………. (knife).
+
+8) The ………………. (shop) are open today.
+
+9) These ………………………(child) are good readers.
+
+10) Keep your pencil ………. (box) on the table.
+
+32For free distribution
+
+UNIT 04
+
+WHAT CAN YOU SEE?
+
+Role Play
+
+Manuka: Hey, don’t put that pen in your mouth.
+
+Manuka's Sister: Why can’t I? This is my new pen!
+
+Manuka: No, it’s not. That’s my black pen and those are my colour pencils too!Manuka's Sister: Oh well, these are not yours. These colour pencils are mine.
+
+Manuka: No, those colour pencils are mine and that pen is also mine.
+
+Manuka's Sister: No they are mine!
+
+Manuka: Don’t shout. Let’s not fight about this.
+
+Manuka's Sister:Hm….. Alright.
+
+Manuka: Let me see, is this yours? Does it have your name on it?
+
+Manuka's Sister: Ummm. No it doesn’t .
+
+Manuka: Then, this is my pen and those are my colour pencils. Maybe, your colour pencils are in your bag.
+
+Manuka's Sister: Let me see…ah, yes, they are here. Sorry!
+
+33For free distribution
+
+Vocabulary
+
+This/That/These/Those
+
+Look what they have to say.
+
+These are my fingers.
+
+That is a box and those are chairs.
+
+This is my ball.
+
+Vocabulary
+
+Activity 1
+
+Fill in the blanks with this/that/these/those.
+
+1. Here, …………..are my pens.2. Look! ……….... boy is running fast.3. …………............girls are playing in the playground.4. ………................is my country.5. …….....................stars are bright.
+
+34For free distribution
+
+Writing
+
+Activity 2
+
+Describe things you see / find in / outside the class using, ² This² That² These² Those
+
+,,
+
+Find and Write
+
+Activity 3
+
+List the objects in this untidy living room.
+
+35For free distribution
+
+Write some instructions to make it tidy.
+
+e.g. :- Keep the tea pot in the kitchen.
+
+Read and Write
+
+Activity 4
+
+I’m Pathum. My class is grade 6 E. There are thirty children in my class. The classroom is not big. It is beautiful. The walls are pink. There are lots of colourful pictures and charts. There is a big blackboard and a teacher’s table. The desks are yellow in colour and there is a steel cupboard. In the corner of the room, there is a wooden desk to keep books. The desk is next to the cupboard. There is no ceiling fan but there are two big windows.
+
+1. Who describes the classroom?2. How many children are there in the classroom?3. Is it a big classroom? 4. List the objects in the classroom.5. What words are used to describe the following objects in the classroom?
+
+e.g. :- colourful pictures
+
+² blackboard ² table ² cupboard ² desk ² fan
+
+Write a similar description about your classroom.
+
+36For free distribution
+
+Activity 5
+
+Look at the picture. Complete the story using correct adjectives.
+
+(sleepless, wooden, delicious, wild, reed, straw, big, bright, old, clay, rope)
+
+My father’s tree houseMy father has a tree house in his chena. It is on a big tree. He made it with ...................planks. It has a ............... roof. He uses a .............. ladder to climb on to the tree house. He spends many ................. nights in it to keep away the ............. animals. There is a ............ pot, an ............. lantern and a ..........mat in it. Every Friday and Saturday night, I go to the tree house with my father. We take the ................. food made by my mother with us. I love to watch the ................. red sky in the evening from the tree house.
+
+Spot the Differences
+
+Activity 6
+
+Compare picture A with picture B.
+
+Picture APicture B
+
+37For free distribution
+
+mortar and pestle, grinding stone, winnowing fan, bamboo steamer, blender, steamer, cooker, hearth, knife, wok, ladle, goblet, pot, pan, grinder, electric cooker, clay pots, pans, stool, chairs
+
+Example:There is a bamboo steamer in Picture A but an Aluminium steamer in Picture B.
+
+Listen and Answer
+
+Activity 7
+
+Govinda and Vigneshvari came home after school. They found a message on the kitchen table. It was from their mother. Listen to it and tick what they have to do.
+
+1. Prepare lunch. □ 2. Have lunch. □ 3. Wash plates. □ 4. Wash dishes. □ 5. Handle pans carefully. □ 6. Wash pans. □ 7. Handle plates carefully. □ 8. Keep the used serviettes on the table. □ 9. Keep the biscuits in a tin. □ 10. Prepare coffee. □ 11. Prepare tea. □ 12. Eat biscuits with tea. □ 13. Take a wash. □
+
+38For free distribution
+
+Listen and Write
+
+Activity 8
+
+Your teacher will read some words. Find the suitable word list from (B) for each word and write it in your exercise book.
+
+A B
+
+1) …………………………....…, ten, hen, then
+
+2) …………………………....…, beg, peg
+
+3) …………………………....…, jet, net, let
+
+4) ……………………….....…..., less, bless, stress
+
+5) …………………………....…, well, fell, smell
+
+6) ………………………......….., neck, peck, wreck
+
+7) ………………………......….., send, lend, trend
+
+8) ………………………......….., sent, lent, tent, went
+
+39For free distribution
+
+UNIT 05
+
+AUNT MINOLI’S KITCHEN
+
+Role Play
+
+Aunt Minoli : We are making a soup for dinner.
+
+Himaya : Oh, wonderful! I love to eat soup.
+
+Aunt Minoli : First, let’s wash our hands.
+
+Himaya & Senara: Alright Aunt.
+
+Aunt Minoli : We need leeks, tomatoes, carrots, beans, potatoes. Mmmm………..what else? Pumpkin, cabbage, dhal and curry leaves. Senara, can you bring me some garlic, curry powder, salt and pepper?
+
+Senara : Where are they?
+
+Aunt Minoli : They are in the cupboard.
+
+Senara: Here they are. Shall I wash the vegetables?
+
+Aunt Minoli : Yes please. Himaya, can you peel the potatoes, onions and carrots?
+
+Himaya : Yes Aunt. I’ll do that.
+
+Aunt Minoli : Very good! What are you doing, Lakshitha?
+
+Lakshitha : I am washing a pot.
+
+Aunt Minoli : Oh good! Wash a spoon too. Now, clean the beans and wash all the vegetables. Senara: Shall I do it?
+
+Aunt Minoli : Yes please.Who can cut the vegetables into small pieces?
+
+40For free distribution
+
+Senara & Himaya: We’ll do it.
+
+Aunt Minoli : I’ll dice the tomatoes and chop the garlic.
+
+Lakshitha : Shall I light the fire?
+
+Aunt Minoli : Alright. Now add the vegetables and pour some water into the pot. Now put the other ingredients and let it boil.
+
+Senara : Mmmmm…….It smells good.
+
+Aunt Minoli : Oh! Himaya, add a pinch of salt and pepper and put off the fire, please.
+
+Himaya : Alright. I’ll do it.
+
+Aunt Minoli : Let's have dinner. Lakshita, can you please lay the table?
+
+Read and Match
+
+Activity 1
+
+Here are the steps to make a soup. Read and match the pictures.
+
+a. Wash the vegetables.b. Cut the vegetables into small pieces.c. Put them into a pan and add water.d. Add some pepper, salt and then cook.e. Now let’s enjoy the soup.
+
+1
+
+2345
+
+41For free distribution
+
+Activity 2
+
+Here are the steps to make tea. Read and put them in order.
+
+1. Pour the boiled water into the teapot. □ 2. Add tea leaves and keep it for a few seconds. □3. Stir well. □ 4. Now strain it to a jug, and add sugar and milk to taste. □ 5. Now strain it into a cup. □ 6. Boil some water. □
+
+Capital Letters
+
+Activity 3
+
+Read this text.
+
+Hello !
+
+I am Poorni. My birthday falls in December. It’s on Christmas day. Last year, on my 10th birthday my father and I went to Nicoli bookshop. It was a Wednesday. He bought me two books. They are Madol Duwa and Harry Potter.
+
+Find the words starting with a capital letter. Write them in your book.
+
+e.g. :- He December ………………………………… …………………………………
+
+42For free distribution
+
+Use capital letters correctly.● national day ● continent of africa● five great lakes ● good friday● senarath paranavithana ● razeek● aloka hospital ● albert einstein ● thursday the 29th may ● sri lanka● i (to refer to 'self ')
+
+Circle the mistakes and rewrite the sentences correctly. i am raheem adudi. i live in dematagoda. my birthday is in november. my favourite subject is english. my sister and i like chocolate. i want to be a manager one day.
+
+Writing
+
+•We end a question with a question mark. e.g. :- She goes to the post office. Does she go to the post office? e.g. :- They are at home. Are they at home?•We write full stop,✔ to show that a sentence has ended. e.g. :- Geemal is a good boy.✔ to show that an abbreviation has ended. e.g. :- This is Mr. Siva.✔ as a decimal point. e.g. :- We went to the canteen at 10.30 a.m.
+
+43For free distribution
+
+Activity 4
+
+Use punctuation as necessary.
+
+Example: Are we going to the playground today?
+
+● What’s the time ● Do you want another piece of cake ● I need a break ● It is 5.00 p m now ● May I come in, teacher● Did the dairy farmer find his cow ● Mother needs sugar to make tea ● What colour is it ● Was it raining in the morning ● It will be sunny tomorrow
+
+Activity 5
+
+Insert full stops in correct places.
+
+Lakshman Kadirgamar
+
+Lakshman Kadirgamar was a Sri Lankan diplomat, politician and a lawyer He was born on the 12th of April, 1932 in Colombo He studied at Trinity College Kandy, University of Ceylon and at Balliol College Kandy He served as the Minister of Foreign Affairs of Sri Lanka from 1994 to 2004 He was a great Son of the Soil We respect him for his good work
+
+Gajaman Nona
+
+Gajaman Nona was a famous Sri Lankan poet Her real name was Dona Isabella Koraneliya She was born on the 10th of March, 1746 in Colpetty She was well-known for her ability to write and recite impromptu Sinhala poetry She learnt Sinhala from Pandit Koratota Thero Gajaman Nona passed away on the 15th December 1814 She was 56 years old when she died
+
+44For free distribution
+
+Mohideen Baig Mohideen Baig was a popular Sri Lankan musician He was born on the 05th of December, 1919 He came to Sri Lanka from Tamil Nadu, India Although he was not a Buddhist, most of his songs had Buddhist themesEven today after many years of his death we hear his songs Baig's son, Ishak is also a singer Mohideen Baig was the first Sri Lankan tosing with Lata Mangeshkar He passed away on the 4th of November, 1991
+
+COMPREHENSION
+
+An apple a day keeps the doctor away!
+
+Fruits and vegetables
+
+Bread, cereals and potatoes
+
+Milk and dairy foods
+
+Foods containing fat and sugar
+
+Meat, fish and eggs
+
+Food is an important part of our lives. There are five main nutrients in the food we eat. They are Carbohydrates, Vitamins and Minerals, Proteins and Fat. Cereals like rice and wheat and yams like sweet potatoes and manioc have Carbohydrates, while foods like
+
+45For free distribution
+
+milk, fish, eggs, beans, dhal and gram have Proteins. Milk and dairy foods like cheese, butter and yoghurt have fat while fresh vegetables and fruits as well as green leaves have Vitamins and Minerals. These nutrients are very important for many reasons. Carbohydrates and Fat give us energy while Proteins help us grow. Vitamins and Minerals are important to fight diseases and to protect our body. You should drink plenty of clean water because it helps in digesting the food and you should also stay away from fast or junk food because they are harmful to our body. We must eat healthy food for breakfast, lunch and dinner and as all the doctors say “To be healthy, we should have our breakfast like a king and dinner like a beggar.”
+
+A secret; The best food is what your mother prepares in her kitchen !
+
+Activity 6
+
+1.Read and fill in the table.
+
+NutrientUses of nutrientFood items
+
+46For free distribution
+
+2. Look at picture A and picture B. Now name the food types you see on the plates.
+
+A B3.What food do you think is most healthy ?4. What food do you think is least healthy?
+
+Let’s join these pairs of sentences using 'And'.
+
+1. i) I have a pen. (sentence one) ii) I have a pencil. (sentence two)
+
+I have a pen and a pencil. 2. i) She can speak English. ii) She can speak French.
+
+She can speak English and French.
+
+3. i) The dog ran fast. ii) The dog jumped over the fence.
+
+The dog ran fast and jumped over the fence.
+
+4. i) Radha opened the book. ii) She started reading.
+
+Radha opened the book and started reading.
+
+47For free distribution
+
+Activity 7
+
+Join the given sentences using “and.”
+
+1. Poorni is tall. She is fat.2. Abdul plays football everyday. He is a very good player.3. I went to the canteen. I ate a bun.4. Darren brushed his teeth. He washed his face.5. I can read English well. I can write English well.6. Aunt cut a cake. She served it to all.7. Thamal ran in the race. He won the first place.8. Kokila brought flowers. Kokila arranged the flower vase.9. Rahal worshipped his mother. Rahal worshipped his father.10. Punsara drew a picture. Punsara painted it.
+
+Activity 8
+
+Insert “and” where necessary.
+
+1. Raj speaks loudly fast.2. Shane likes dancing music.3. Senara fell broke her leg.4. Please put the milk the eggs in the refrigerator.5. I have a hat three caps.6. There are oranges bananas on the table.7. Vikum likes milk ice cream.8. Orange juice is sweet sour.9. The police lights are blue red.10.Please give me a red pen a blue pen.
+
+48For free distribution
+
+Activity 9
+
+Join A and B using the conjunction “ and”.
+
+AB● We will visit Anuradhapura chicken for lunch.
+
+● The bus stopped sing.
+
+● Pramodi got up in the morning worship Sri Maha Bodhi. ● Jayana wrote a letter to a friend her food is tasty too.
+
+● I had rice the saucer.
+
+● Mother bought a new dress pasted a sticker on it.
+
+● My grandmother can cook fast a bag.
+
+● Himaya washed the cup a man got off. ●Punsara put a cover to her book made her bed.
+
+● Poorni likes to dance posted it.
+
+49For free distribution
+
+UNIT 06
+
+WHAT WE DO
+
+Role Play
+
+Sumudu : Harini, I get up at 5 o’clock. At what time do you get up?
+
+Harini : I get up at 4.45 a.m. and my mother gets up at 4.30 a.m. I help my mother to make tea.
+
+Sumudu : My mother gets up at 4 o’clock. She makes tea and wakes me up. My sister and I help her to cook.
+
+Harini : We too help our mother to cook. I peel onions and my father scrapes coconut.
+
+Sumudu : I worship Lord Buddha and then study for some time.
+
+Harini : We offer flowers to god Ganesh and pray.
+
+Sumudu : Our school bus comes at 6.30 a.m. So I get ready and have my breakfast. My sister and I worship our parents and leave home.
+
+Harini : I walk to school with my mother and brother. We too worship our parents.
+
+Activity 1
+
+Read the role play and answer the questions.
+
+1. At what time does Sumudu get up?2. Who helps her mother to make tea?3. When does Sumudu leave home?4. How does Harini go to school?5. How do you help your parents? e.g. :- I scrape coconut and ......
+
+50For free distribution
+
+Reading and Writing
+
+Activity 2
+
+Read the example and fill in the table with the words given.
+
+get up, make, gets up, wake, worships, offers, makes, peel, scrape, offer, study, worship, walk, wakes, scrapes, studies, walks, peels
+
+e.g. :- HelpHelps
+
+Activity 3
+
+Listen to your teacher and put a tick (√) or a cross (×).
+
+1. Rajan returns home from school at 2 o’ clock. □ 2. Rajan’s friends come to study with him. □3. Rajan does his homework in the evening. □4. Rajan and his sister play badminton in the evening. □5. Rajan’s family has their dinner at 8 o’ clock. □
+
+51For free distribution
+
+Speaking
+
+Activity 4
+
+Speak to your classmates and find someone who……………
+
+• gets up at 5 o’clock in the morning.• comes to school by train.• studies early in the morning.• likes to play badminton.• goes to temple/kovil/church/mosque once a week.• likes to act in dramas.• celebrates Deepavali.• fasts at Ramazan.• observes sil on Poya days.• sings carols at Christmas.
+
+Do you ...............................? e.g. :- Do you get up at 5 o’clock?
+
+Activity 5
+
+Present your findings to the class.
+
+e.g. :- Yoga gets up at 5 o’clock.
+
+Writing
+
+Activity 6
+
+Now write down your findings in your exercise book. One student should write at least 3 sentences.
+
+52For free distribution
+
+Activity 7
+
+Match and WriteMake changes where necessary.
+
+e.g. :- The sun rises in the East.
+
+My auntThe sunBeesMonsoonsTurtlesThe aeroplane
+
+risecollectbringlayvisitarrive
+
+eggs on beaches.nectar.us once a year.rain from May to September.in the east.at 9 p.m.
+
+Activity 8
+
+Follow the examples and construct sentences.
+
+e.g. :- Does he come to school by bicycle?
+
+No, he does not/doesn’t come to school by bicycle.
+
+He comes by train.
+
+e.g. :- Do cuckoo birds build nests?No, they do not/ don’t build nests.They lay eggs in crows’ nests.Does the train leave at 7 o’clock in the morning?
+
+................................. The train leaves at 9 o’clock in the morning.................................. No, we don’t grow paddy.We grow vegetables only.Do kangaroos eat meat?No, they don’t eat meat.They eat grass.
+
+Does it rain a lot here?................................. It rains very little here.
+
+53For free distribution
+
+Activity 9
+
+Now, complete this paragraph.
+
+I’m Amanda. Every Sunday, I ……… (go/goes) to town with my mother. First, we …..…(go/goes) to the public library. I ………. (borrow/ borrows) two new books every week. I ........……(like/likes) to read adventure stories best. Then we........... (buy/buys) newspapers for father. After that we ……... (go/goes) to the Sunday fair. Mother ……….. (spend/ spends) some time there because she ..…….(buy/ buys) only fresh fruit and vegetables. Next we ..……(shop/shops) at the grocery store. Our next stop is the bakery. Mother ……...(let/ lets) me select something for tea. She also ……….(allow/allows) me to pick some candy at the confectioners’. I……(buy/buys) some for my little brother as well. I ……(know/knows) he is waiting for those. Finally we…….(get/gets) on a bus and ..…… (return/returns) home.
+
+54For free distribution
+
+Activity10
+
+Match the symbols with the question words.
+
+AB
+
+DC
+
+FE
+
+G
+
+H
+
+55For free distribution
+
+Where - ..........
+
+Why - ..........
+
+How - ..........
+
+Which - ..........
+
+What - ..........
+
+When - ..........
+
+Who - ..........
+
+How much - ..........
+
+Activity 11
+
+Fill in the blanks with question words.
+
+1) ………… does your father work? He works in the post office.2) …………do you usually have for dinner?We have rice and curry.3) .……………. grows these beautiful flowers? My sister/ My sister does.4) …………… does it snow here? In January and February.5) …………… do they go to work? By car.6) …………. are you waiting here? For the bus.
+
+56For free distribution
+
+Activity 12
+
+Talk - showGet into two groups. Your teacher will invite two students to the front of the class. They will be the guests of the talk-show. The rest of you will be the audience. Your teacher will give you a topic and help you to form questions related to it. The audience asks questions from the guests and the guests will answer them. The group which asks most questions correctly will be the winner.e.g. :- Presenter: Welcome to the talkshow. Our first guests today are Oshadhi and Sathish. Please give them a warm welcome.
+
+Topic: The Best Friend
+
+QuestionGuest 1 (Oshadhi)Guest 2 (Sathish)Who is your best friend?My best friend is Zubeeda.My best friend is Rishika.How old is he/she?She is eleven.He is ten years old.What does he/ she look like?She is tall and fair. She has long hair.He is short and slim. He has curly hair.What is/are his/ her hobby/hobbies?Her hobbies are reading and playing the violin.
+
+His hobby is bird watching.
+
+Does he/she play any sports?No, she doesn’t.Yes. He plays volleyball.Why do you like him/her?Because she is friendly and helpful.Because he is an honest and hardworking boy.
+
+57For free distribution
+
+Activity 13
+
+Pair workWould you like to have your own talk-show? Then select a topic and write 5 questions you would ask your guest. Practise them with your partner. You can choose a topic from the list below.
+
+Topics: school, hobby, pet, favourite sportsman/sportswoman, favourite story book/cartoon etc.
+
+Activity 14
+
+Writing
+
+Read these descriptions and write a paragraph about your favourite sportsman/sportswoman or book.
+
+My Favourite Book
+
+My favourite story book is “Madol Doowa”.It is a novel written by the famous writer Martin Wickramasinghe. It is an adventure story.The main characters in the story are two boys named Upali and Jinapala. Upali is the leader of the boy gang. They do a lot of mischievous things and often get into trouble. But later Upali becomes a kind, hardworking young man who helps people.It is an enjoyable story about children like us. I like it very much.
+
+58For free distribution
+
+My Favourite Sportsman
+
+My favourite sportsman is Kumar Sangakkara. He is a great cricketer. He was the former captain of the Sri Lankan National Cricket Team. Sangakkara is one of the best batsmen in international cricket. He has scored more than 11000 runs in both test and one day international cricket so far. He has also won many international awards like “Cricketer of the Year,” “Test Cricketer of the Year” and “One Day International Cricketer of the Year”. He is an all-rounder. During his school days, he excelled both in sports and studies. He is a good orator too. Kumar Sangakkara is a legend in Sri Lankan cricket. He is a credit to his sport and our country.
+
+Activity 15
+
+Now speak to the class about your favourite sport or television programme. You may use these phrases in your speech.
+
+● Interesting and enjoyable● Important for a healthy body● Sports for all age groups ● A good way to relax
+
+● A great source of entertainment● Has different channels● Can learn about many things● Helps with my studies
+
+59For free distribution
+
+Let’s make a lion mask
+
+You will need:
+
+- A paper plate/ a cardboard circle- Yellow and orange pastels or colour pencils- A black pen- A pair of scissors- A small wooden stick- A piece of tape
+
+How to make:1. Colour the plate/the cardboard circle in yellow and orange as shown in the picture.2. Draw the face of the lion with the black pen.3. Cut two holes for the eyes.4. Cut slits around the plate/the cardboard circle to make the lion’s mane.5. Fix the wooden stick to the back of the plate with a piece of tape.
+
+Your mask is ready. What can you do with it?
+
+60For free distribution
+
+Activity 16
+
+Picture Reading
+
+The pictures given below are the steps of making a lion mask. Arrange them in the correct order.
+
+(a)(f)(e)(d)(c)(b)
+
+Activity 17
+
+Read and Write
+
+These pictures show the steps of making an elephant mask. Write instructions on how to make an elephant mask in your exercise book.
+
+(a)(d)(c)(b)
+
+61For free distribution
+
+Activity 18
+
+Do you have time to look around you when you are free? If so, read and guess.
+
+The Earth
+
+Plants
+
+Water
+
+Air
+
+The Sun
+
+I am the star at the centre of your solar system. Your planet Earth revolves around me. I give you light, heat and energy. I help plants to grow. I also help plants to produce food. I am your friend.
+
+I come down to the Earth as rain and fill wells, rivers and oceans. I quench your thirst. You need me for cooking, bathing and washing. I also help plants to grow.
+
+I am all around you. I contain Oxygen. All living things need Oxygen to breathe. I also help plants to produce food. When I move fast, you call me the wind.
+
+We give you Oxygen to breathe. We produce food for you. We give you shade. You make clothes, medicine, timber and many other things using us. We also make your world beautiful.
+
+I am your home. I am the only planet in our solar system with life and liquid water. People, animals and plants are my children. I have mountains, valleys, forests, rivers, deserts and many other places for all of you.
+
+62For free distribution
+
+Activity 19
+
+Read and Match
+
+We have many needs.
+
+Our needs
+
+We need water to drink.
+
+We need a place to live.
+
+We need food to eat.
+
+We need medicine when we are sick.
+
+We need clothes to wear.
+
+We need oxygen to breathe.
+
+Who helps us to get these needs fulfilled? Match A with B.
+
+Air
+
+Sun
+
+Plants
+
+Earth
+
+Rain
+
+A BThe sun helps us to get our food.The air helps us to collect water.Rain helps us to dry our clothes.The earth helps us to find a place to live.Plants help us to breathe.
+
+63For free distribution
+
+UNIT 07
+
+A FINE DAY
+
+Read and Match
+
+Activity 1
+
+Match the symbols “A, B, C” with the pictures.
+
+A
+
+B
+
+C
+
+64For free distribution
+
+Writing
+
+Activity 2
+
+Find and write the words.
+
+N Y U N S
+
+I A N R Y
+
+U L O D C Y
+
+N Y D W I
+
+ListeningActivity 3
+
+Listen to the description and name the symbols.
+
+Sunday
+
+Monday
+
+Tuesday
+
+Monday(evening)
+
+Tuesday(afternoon)
+
+Sunday(afternoon) WritingActivity 4
+
+Can you remember these phrases? Write similar phrases against each of the followings.On Monday e.g. :- on TuesdayIn the evening ………………………………. In December ………………………………. At 7.00 a.m. ……………………………….
+
+65For free distribution
+
+Activity 5Now complete the following sentences using ‘on’, ‘in’ or ‘at’.a) My birthday is …......June.b) I like to read …….... night.c) I get up early …....... the morning.d) The library will be closed ….......Wednesday.e) The school starts …....7.30 a.m.
+
+Activity 6Read the story and answer the questions. Once upon a time, there was an ant and a grasshopper. They lived in a grassy meadow. It was the summer time. The ant worked all day long. It carried food. The ant was tired. But, it went far away to find food.The grasshopper laughed at the ant. “Why can’t you rest? Why do
+
+you work so hard, dear ant? This is summer,” the grasshopper said. “Come, let’s enjoy. Just dance with me.”The ant did not listen to the grasshopper. It ignored the grasshopper. “Don’t waste this chance dear ant,” said the grasshopper.“No, it’s you who waste time dear grasshopper! Soon, the summer will end and you will have to repent of your laziness.”
+
+The ant was right. Summer vanished. Autumn and winter came next. The days were cold, not hot. Snow began to fall. It was freezing.
+
+The grasshopper could not sing. It was very hungry. But, there was nothing to eat! “Where shall I go now? Who will help me?” The grasshopper went to the ant. “All day long I worked hard. You wasted your time,” said the ant. “I’m hungry and cold. Give me something to eat,” said the grasshopper. So, the ant gave some food. That day, grasshopper learnt a lesson. It is, “Prepare today for the needs of tomorrow.” (Adopted from Aesop’s fables)
+
+66For free distribution
+
+1. Who is the hard worker? 2. Who wasted time? What did it do?3. What came after summer?4. Why did the grasshopper go to the ant?5. What did you learn from the story?6. Who is wise? Why?
+
+Activity 7
+
+Read and understand.
+
+Hello, I’m Nethula. I have a lot of friends.
+
+He is Nethula. He has many friends.
+
+Hello, I’m Amaya. I have a bag. I have lots of books in it.
+
+She is Amaya. She has a bag. She has lots of books in it.
+
+67For free distribution
+
+Activity 8
+
+What will they say? Complete the sentence.
+
+I am Raj.............................I am Ridmi ..........................
+
+Things that are owned I have a ball. She has a violin.
+
+Activity 9
+
+Make as many sentences as you can.
+
+HeSheItIWeYouThey
+
+has
+
+have
+
+a new leather balllots of booksa new red bicyclea bamboo flutea large tree housetop hatsa brown collara big feeding cupa small cage
+
+68For free distribution
+
+What are the things you have? What does your mother/father/brother/sister have? Talk with your friend.
+
+Activity 10
+
+Practise this dialogue with your partner.
+
+Sathish : Madhavan, have you got a pet dog?Madhavan : No, we haven’t. We haven’t got any place to keep dogs.Sathish : Haven’t you got a garden?Madhavan : We have a garden but it’s too small to keep a dog.Sathish : Do you have any other pets at home?Madhavan : No. I don’t have any at home but I love watching birds.
+
+Writing
+
+Activity 11
+
+Make sentences.
+
+I My relativesWeMy petYouMy motherTheyTeacherMy father
+
+has
+
+have
+
+a
+
+an
+
+newoldbiggoodleathersmallcolourrubberusefulreading
+
+ballbatradiopenscarhousesbookfriends
+
+Example:- My relatives have big houses. The teacher has a new car.
+
+69For free distribution
+
+Recite and Enjoy
+
+Activity 12
+
+RainWhen the rain comes down drip drop drip drop,(flutter fingers down in front of you)Windshield wipers flip flop flip flop(bend arms in front and move them side to side)
+
+Boots in puddles plip plop plip plop,(move feet up and down)I wish the rain would never stop.Drip drop drip, (use motions as you say it)Flip flop flip,(bend arms in front and move them side to side)Plip plop plip plop, (move feet up and down)PLOP! (do the motions and jump)
+
+We can describe a rainy day using these phrases.
+
+heavy rain
+
+rain drops
+
+muddy boots
+
+huge drops
+
+windscreen wipers
+
+70For free distribution
+
+Select and Write
+
+Select the words that describe the nouns given below.
+
+beautiful green blue clear sunny fine lovely small big cool hot tall giant muddy round
+
+e.g. :- Flower – red flower, beautiful flower, fresh flower
+
+a) Dayb) Skyc) Gardend) Watere) Treesf) Birdsg) Cloudsh) Breeze
+
+71For free distribution
+
+UNIT 08
+
+A VISIT TO THE ZOO
+
+Role Play
+
+Amaya and Manuka are at the zoo with their parents.
+
+Amaya: Mother, I like to see the birds.
+
+Father: Amaya, first we will see the fish. We are following the map.
+
+Amaya: Alright father. Where are the fish?
+
+Manuka: Now we are at the entrance. Fish are in the first block.
+
+Mother: Here is the first block. This is the aquarium. It’s dark here. Amaya, hold my hand.
+
+Amaya : Mother, these fish are very nice. What are they called?
+
+Father : Let’s see the board there. Oh! They are clown fish. They live in Indian and Pacific Oceans. There are arapaima fish in the next tank.
+
+Amaya: They are very big. Brother, there are a lot of fish here. Did we miss any?
+
+Manuka: No, we didn’t . The birds are in the third, fourth and fifth blocks. Let’s go there.
+
+Amaya: Wonderful! I love birds. Let’s go there soon.
+
+Manuka: Sister, those are macaws.They are very colourful.
+
+72For free distribution
+
+Amaya: They are creaking. Look at the pheasants. I love them a lot. Father, where are the monkeys? Are they in the next block?
+
+Father: No, son. They are in the fifteenth block. The next block is for butterflies.
+
+Amaya: I’m a bit tired, mother, can I wash my face?
+
+Mother: Alright. There’s a tap over there. Let’s go.
+
+Father: Let’s sit on that bench, Manuka. We will wait for them.
+
+Amaya: Alright father. We’ll be back soon.
+
+Activity 1
+
+Now answer these questions.
+
+1. Who visited the zoo?2. What animals did they see?3. Where do clown fish live?4. Why did Amaya go to the tap? 5. What is your favourite animal?
+
+Who said the following?I. “It’s dark here.”II. “Can I wash my face?”III. “Fish are in the first block.”IV. “They are creaking”
+
+73For free distribution
+
+Let’s relate a story
+
+The Little Red Hen
+
+Once there lived a little Red Hen. She lived with her chickens. She lived in a farm. There were also a Goose and a Duck in the farm. One day, she found a grain of wheat.
+
+“I am going to plant the wheat. Who will help me?” she asked.
+
+“Not I. I am busy,” said the Goose.
+
+“Not I. I am busy,” said the Duck.
+
+“I will plant, then,” said the little Red Hen, and she planted the grain of wheat.
+
+She watered it, and it grew well. Later, she got a good harvest of wheat.“I am taking the wheat to the mill. Who will help me?” she asked.
+
+“Not I. I am busy,” said the Goose.
+
+“Not I. I am busy,” said the Duck.
+
+“I will take it myself, then,” said the little Red Hen, and she took the wheat to the mill.
+
+Then she brought back the flour.“I am going to make some bread. Who will help me?” she asked.
+
+“Not I. I am busy,” said the Goose.
+
+“Not I. I am busy,” said the Duck.
+
+“I will make it myself, then,” said the little Red Hen.
+
+74For free distribution
+
+So she baked the bread. It was sweet smelling.“I am going to eat the bread. Who will help me to eat up the bread?” she asked.
+
+“I will,” said the Goose. “I will,” said the Duck.
+
+Activity 2
+
+Read the story and answer the questions.
+
+1. How many birds are there in the story?
+
+2. Where did they live?
+
+3. What did the little Red Hen do with the grain of wheat? Write them in the correct order.I) Water the grain of wheat II) Took the wheat to the mill III) Harvested the wheat IV) Planted the grain of wheat V) Made bread
+
+4. What did the Goose and the Duck want to do?
+
+5. What did you learn from this story? Select the correct answer. I) The importance of working together II)To think only about yourself III)To be lazy
+
+6. Which of these endings do you like most?I) “No you won’t !”said the Red Hen. And called her chicks.II) “You didn’t help me. But you both can share the bread,” said the Red Hen.III) “I have some more wheat. Take them and make your own bread,” said the Red Hen.
+
+75For free distribution
+
+GRAMMAR Read these sentences.This is the first block.These are the fish.There are arapaima fish.That is the second block.Those are macaws.
+
+Activity 3
+
+Make new sentences.
+
+ThisTheseThereThatThose
+
+is
+
+are
+
+a parrota lionfishelephantsan eaglemonkeys
+
+Let’s learn modals
+
+1) Can
+
+Can Cannot / can’t
+
+Can birds fly?
+
+Yes, birds can fly.
+
+Can horses fly?
+
+No, horses can’t fly, but they can run fast.
+
+76For free distribution
+
+We use the modal “can” to talk about ability.
+
+Activity 4
+
+Make questions and sentences using the table.
+
+IWeYouTheyHe/ She/ It
+
+can
+
+can’tswim
+
+Activity 5
+
+Match the sentences with the pictures.
+
+1) Rama can dance well.2) We can’t understand the question.3) Can dogs swim? Yes, they can.4) Can Sandun drive a car? Yes, he can.5) Ramani can run fast.6) Cats can climb trees.
+
+a)
+
+b)
+
+77For free distribution
+
+c)
+
+d)
+
+e)
+
+f)
+
+Activity 6
+
+Discuss with your friend and complete the chart. Put a tick () or a cross ( ).
+
+canyouyour frienddrive a car?swim?play badminton?cook?play the piano?use a computer?climb a tree?
+
+Activity 7
+
+Tell the class about you and your friend.
+
+e.g. : - I can swim, but my friend can’t. I can’t swim, but my friend can. Both of us can swim. Both of us can’t swim.
+
+78For free distribution
+
+2) May May May not
+
+It is a cloudy day. It may rain, today.
+
+It is a sunny day. It may not rain, today.
+
+May is used to talk about possibilities.
+
+Activity 8
+
+Match the sentences with the pictures.
+
+1) The baby is not happy. He may cry again.2) People are building the road.The bus may be late.3) Don’t get wet. You may catch a cold.4) The dog is sleeping. It may not bite you.5) Take the umbrella. It may rain.6) Let’s run. We may not be on time.
+
+a)
+
+b)
+
+79For free distribution
+
+c)
+
+d)
+
+e)
+
+f)
+
+We can use “can” and “may” to take permission.
+
+CanMay I
+
+come to the classroom?clean the blackboard?go out?drink some water?read the lesson?
+
+Activity 9
+
+How do you ask for permission in the following situations?
+
+a) You are outside. You want to come into the class.b) You want to drink some water.c) You want to borrow your friend’s pen.d) You want to know the time.e) Your book is with the teacher. You want to take it.
+
+80For free distribution
+
+GRAMMAR
+
+1
+
+2
+
+345
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Activity 10
+
+Complete the sentences using the above map.
+
+The first block is for the fish.
+
+The ninth block is for-------------------
+
+-------- third block is for-----------------
+
+The elephants are in ------------- block.
+
+The lions are in ------------ block.
+
+The monkeys are in ------------ block.
+
+81For free distribution
+
+A SONG
+
+Sing this song with your teacher.
+
+A VOWEL SONG
+
+Shake it !Shake your hand a,a…Shake your leg e, e…Shake your hips i,i…Shake your body o,o…Shake your thumb u,u…
+
+Vowels
+
+men shine coat time teen tube hope snack
+
+ate seat hug flutter pet light bit beat
+
+cat bean hide rot flute cub dim ten
+
+snake tap sit note bite robe cut cute
+
+hid bed lit tape bake mute fade hop
+
+Activity 11
+
+List the words according to the vowel sound.Follow the example.
+
+snacksnaketenteenhidhidehophopecubcube
+
+82For free distribution
+
+Opposites
+
+Learning point:There are words that give different meanings.
+
+Example:- bigsmall updown
+
+They are called opposites or antonyms.
+
+Activity 12
+
+Fill in the blanks with the suitable words given below.
+
+1. Monkeys are noisy but the deer is ...............
+
+2. Lions are......... but rabbits are timid.
+
+3. The giraffe has a long neck and hippopotamus has a ............ neck.
+
+4. Elephant is big and rat is ...........
+
+5. Polar bear is ..........in colour but the Asian bear is black.
+
+6. Tiger’s tail is ............ and pig’s tail is short.
+
+7. Dog is a domestic animal and wolf is a ............. animal.
+
+8. Cheetahs are ............and tortoises are slow.
+
+quiet, short, small, wild, fast, white, thin, brave, long
+
+83For free distribution
+
+Activity 13
+
+Study the word search. Find the antonyms/opposites to the following words.
+
+noisy, brave, long, big, tame, black, fast, beautiful, happy, fatWords can go in the following directions:
+
+S M A L L E J Y J V
+
+T W I L D O C J N S
+
+I R O W C V J I T H
+
+M G E J W N Y V G O
+
+I I M W S X T W G R
+
+D R G C T U W F I T
+
+M T A B H G H P D S
+
+S L O W I L I W Z A
+
+L P G Q N Y T Z C D
+
+S I L E N T E E X Y
+
+84For free distribution
+
+Unit 09
+
+SUGAR OR SAND Andare is the jester of the Royal Palace. One day he goes to meet the King at the Palace.
+
+May you live long My Lord and My Queen!
+
+I was expecting you, Andare.
+
+It's a fine day, isn't it?Andare, shall we go for a walk in the Royal Garden?
+
+Yes My Lord! If you please.
+
+85For free distribution
+
+What’s on that mat Your Majesty?
+
+Andare, this is a kind of white sand. The royal gardener has put it there to dry.
+
+My Lord, please permit me to leave now.
+
+Yes, you may.
+
+Well, well... This is not white sand. It's sugar! If only I could taste it! I must play a trick.
+
+After a while.........
+
+86For free distribution
+
+Andare, at home.......
+
+Son, I'm going to the Palace again. As I told you come to the Palace crying and tell me that your mother died.
+
+Alright, father.
+
+May you live long Your Majesty! I hope you enjoyed your lunch My Lord.
+
+Andare at the Palace....
+
+87For free distribution
+
+My Lord, here comes my son. Oh! He looks so sad! why are you crying my son?
+
+Oh! Father, our mother died! I can't live without her!
+
+What shall we do now? I’m heart broken. Who will take care of us now? What’s the use of my life now? Let’s eat this sand! I too want to die!
+
+88For free distribution
+
+Writing
+
+Activity 1
+
+Read the story and mark true (T) or false (F). 1. Andare was a jester. ( )
+
+2. The King ate sugar. ( )
+
+3. Sugar was on a mat. ( )
+
+4. The King went to Andare’s home. ( )
+
+5. Andare’s son came to the Palace. ( )
+
+Activity 2
+
+Rearrange and write.
+
+His son too ate sugar. Andare wanted to eat sugar.
+
+His son came to the Palace and started to cry. One day he went to the Palace.
+
+The King said, “It is sand.”
+
+There was some sugar spread on a mat in the RoyalGarden to dry.
+
+Andare asked the King what it was.
+
+Once there lived a jester called Andare.
+
+So he planned a trick.
+
+Andare sat by the mat and ate sugar.
+
+89For free distribution
+
+Comprehension
+
+Activity 3
+
+Read this and fill in the table.
+
+Name of the dramaName of the schoolDatePresented byTimePlace
+
+90For free distribution
+
+Activity 4
+
+Here is a story of Nasruddin. Can you complete it?
+
+money, ladder, roof, bread, house, door, ladder
+
+Nasruddin is a wonderful fictional character in the Middle Eastern
+
+stories. One day Nasruddin repaired the tiles on the roof of his
+
+……………….
+
+. Nasruddin was on the ……………....
+
+Suddenly a stranger knocked on the …………………….
+
+.
+
+“ What do you want?” Nasruddin shouted out.
+
+“ Come down,” replied the stranger. “Then I can tell you.”
+
+Nasruddin slowly climbed down the ……………………
+
+“Alright, now tell me,” said Nasruddin.
+
+“ What do you want?”
+
+“Could you give me some…………?
+
+I need money to buy ………………..
+
+”
+
+Nasruddin thought for some time.
+
+“Follow me,” said Nasruddin. “Then I can give you.”
+
+Nasruddin slowly climbed up the ……………………
+
+“Alright, now give me,” said the man.
+
+“ Sorry !” said Nasruddin. “My pocket is empty.”
+
+1. Repeat this story in your own words to your group. Select the best story teller in your group.2. Draw a picture of any scene of this story.
+
+91For free distribution
+
+PronounsStudy these sentences.
+
+1. I am Andare. You gave me an egg.2. We are friends. You taught us English.3. You and I are friends. I will help you.4. My father is at home. Please meet him.5. Your mother is very kind. I like her.6. My pet is a cat. I always play with it.7. They are my friends. I study with them.
+
+A pronoun is a word that takes the place of a noun.
+
+Activity 5
+
+Circle the pronouns in the sentences below. Some sentences have more than one pronoun.
+
+1. She went to the shop with Abdul.2. Every day, Supipi goes to school with them.3. At the shop, the cashier gave her some change.4. Every morning, he goes for work.5. I enjoyed the food he brought.6. We played with the puppy, then gave it a biscuit.7. Did you see the house we built?8. I brought it for me.9. We went to the ground.10.The dog wagged its tail as it was friendly.
+
+PronounsSubject PronounsIWe
+
+He SheItThey
+
+him heritthem
+
+Youyou
+
+meus
+
+Object Pronouns
+
+92For free distribution
+
+Activity 6Match the word or group of words on the left with the correct pronoun on the right.
+
+1. Sherine and I a. he2. Murali b. she3. Supipi c. we4. the big truck d. they5. boys and girls e. it
+
+Activity 7 Write a pronoun to replace the underlined word(s).
+
+1. Fathima loves to sing. 2. Rahal and Damsara enjoy listening to songs.3. Pramod will sing a song with Poorni.4. Pramoda has a beautiful voice too.5. The concert will be held tomorrow. 6. Fathima and I will sit in the front row.
+
+Contractions
+
+Activity 8Complete this table.
+
+Long form Contracted form I am I’m He is He’s .............. She’ll What is What’s ………… You’re She is ………… It is …………. …………. We’re Cannot ………… Let us ………… Did not …………
+
+93For free distribution
+
+Activity 9
+
+Study the example and complete.
+
+We are sad. We’re sad.He is happy. ............................................. It is a nice day. .............................................We are at home. .............................................Let us play a trick. .............................................We do not go to the Palace. .............................................He did not cry. .............................................I am at the Palace. .............................................
+
+Adverbs
+
+Adverbs tell us how the action is done.
+
+Raj walks slowly. Raj walks slowly.
+
+Ramesh walks fast.
+
+94For free distribution
+
+The sun shines brightly. The children play happily.
+
+• Some adverbs have the same form as adjectives.
+
+- fast - early- hard - late- daily e.g. :- 1) Ramesh is a fast runner. (adjective) He ran fast. (adverb)
+
+2)It is a hard work. (adjective) She worked hard. (adverb)
+
+• Adverbs are formed mainly from adjectives by adding – ly.
+
+AdjectiveAdverbkind slowhappybadsadneatloudcarefulbeautifulbravesafe
+
+kindlyslowlyhappilybadlysadlyneatlyloudlycarefullybeautifullybravelysafely
+
+95For free distribution
+
+Activity 10
+
+Fill in the blanks with the correct adverb.
+
+fast, late, carefully, beautifully, quickly, loudly, slowly, safely, heavily, late
+
+1. The old woman walked ………………………………..
+
+2. The lazy man gets up ………………………………….
+
+3. Horses run ….......……………………………………...
+
+4. The ship arrived ……………………………………… after the storm.
+
+5. Please, listen ……………………………………..........
+
+6. I did my homework and went to bed ………………...
+
+7. Help me, come ………………………………………...
+
+8. It is raining …………………………………………….
+
+9. The dog barked ………………………………………..
+
+10. Manu coloured the pictures …………………………..
+
+Vocabulary
+
+Now study these masculine and feminine words.
+
+King ↔ queen Son ↔ daughter
+
+96For free distribution
+
+Father ↔ mother Husband ↔ wife
+
+Activity 11
+
+Write the feminine words for the following.
+
+Prince -Uncle -Actor -Boy -Bridegroom -Brother -God -Grandfather -Gentleman -Male -
+
+Read and Match
+
+Activity 12
+
+Read and match
+
+Fox cow Bull lionessCock vixenLion henDeer tigress
+
+97For free distribution
+
+Billy goat nanny goatTiger doeDrake duckHorse marePig sow
+
+Activity 13
+
+Change the words in bold to the masculine or feminine words.
+
+e.g. :- My father is a policeman - My mother is a policewoman.
+
+1. My grandfather has two sons.2. The fox chased the cock.3. A king’s son is a prince.4. The boy helped the old man.5. My uncle bought a car for his brother.6. The policeman trains some boys.7. My uncle fed the bull.
+
+A Board Game
+
+The game is “Slides and Ladders.” Throw the dice and read the wordaloud.
+
+98For free distribution
+
+Activity 14
+
+Underline the word that sounds different in each set of words.
+
+Fish, sin, kit, dog, tinHam, rat, did, sat, patHen, leg, hog, yet, setHop, sob, kin, lot, mopFun, lid, sun, bus, jugFan, dam, pan, hum, jamFin, pin, lip, big, too, hitLot, mod, hop, mid, top, pot
+
+Activity 15
+
+Let’s write words that sound alike. Use b, p, s, l ,f ,m ,t, w, c ,r , k
+
+Back, _ack, _ack, _ack Past, _ast, _ast, _astBell, _ell, _ell, _ellPuff, _uff, _uff, _uffPin, _in , _in, _inNod, _od, _od, _od
+
+99For free distribution
+
+Read and Complete
+
+Activity 16
+
+Read the following words. Put them into the correct column.
+
+grandmother, baby, animal, bird, cat, cattle, child, father, companion, comrade, niece, cousin, deer, madam, friend, girl, guardian, husband, guest, cow, infant, son, owner, parent, sister, passenger, bull, pupil, relative, sheep, singer, male, student, swan, teacher, daughter, sir, man, woman, nephew, boy, female, mother, wife, grandfather, brother.
+
+Masculine
+
+Feminine
+
+Neuter
+
+e.g. :- grandfathergrandmotherbaby
+
+100For free distribution
+
+Unit 10
+
+Was It Yesterday?
+
+Read and Answer
+
+Ashwini: Hello Maheshwari! That’s a nice pendant you are wearing. Maheshwari: Thank you. My grandmother gave it to me when we visited her last weekend. It’s called “Om.” It’s for my protection.
+
+Ashwini: Really? Where does your grandmother live?
+
+Maheshwari: In Jaffna.
+
+Ashwini: How did you go there? By bus?
+
+Maheshwari: We took the express train to Kilinochchi and then a bus to Jaffna.
+
+Ashwini: Did you visit any special places in Jaffna?
+
+101For free distribution
+
+Maheshwari: Oh yes! We visited Nallur and Naguleswaram Temples and the famous Nilawarai well.
+
+Ashwini: Why is that well famous?
+
+Maheshwari: The well provides water for farming. But its water level never goes down.
+
+Ashwini: That’s amazing. What else did you do?
+
+Maheshwari: Well, we swam in the sea and played Sadugudu with friends.
+
+Ashwini: What is “Sadugudu?”
+
+Maheshwari: It is a game similar to Elle, but you hit the ball with your hand.
+
+Ashwini: Let’s play it sometime. Did your grandmother prepare any special dishes or food for you?
+
+Maheshwari: Yes. She prepared “panaum pala paniyaram.” It’s a sweetmeat made of wheat flour, palmyra juice and sugar.
+
+Activity 1
+
+1. Who gave Maheshwari the pendant?
+
+2. How did Maheshwari’s family go to Jaffna?
+
+3. What were the places they visited in Jaffna?
+
+4. Did Maheshwari’s grandmother make any sweetmeats for her?
+
+102For free distribution
+
+Activity 2
+
+Reading
+
+Find the past tense forms of these verbs from the role play.
+
+1. give 2. visit 3. go 4. take 5. do 6. swim 7. play 8. make
+
+Listening
+
+Activity 3
+
+Listen to your teacher and fill in the blanks.
+
+1. Maheshwari………………. her grandmother with her family.2. They ……………… a train to Kilinochchi.3. They ………….. games with their friends.
+
+4. Maheshwari……………… several important places.5. Grandmother ………….. a tasty sweetmeat for them.
+
+103For free distribution
+
+Simple Past Tense
+
+When we talk about the past we change the verb of the sentence in different ways.
+
+VerbAdd “-d /-ed/-ied/ y-ed / y-ied” to the end
+
+Change the vowel soundA completely different word
+
+Same word
+
+cookcookedbakebakedlikelikedcrycrieddestroydestroyedcomecamemeetmetdodidgo wentcutcutputput
+
+Activity 4
+
+Reading and Writing
+
+Read this page from Sugee’s diary and help her to complete the flow chart.
+
+104For free distribution
+
+Yesterday was a very enjoyable day. Our family was at home as it was a holiday. I got up at half past six in the morning. We had our breakfast together. Then my sister and I cleaned our room. We helped father to weed the garden too. Mother prepared a delicious meal and we enjoyed it. After lunch we all watched a family movie. It was an interesting adventure story. In the evening father played badminton with us. Mother sat outside and watched us play. After that, I did my homework. My sister helped me with it. Then we all had dinner and went to bed.
+
+105For free distribution
+
+I got up at half past six.
+
+We had our dinner and went to bed
+
+Activity 5
+
+What did you do yesterday? Tell the class at least one thing you did yesterday.
+
+e.g. :- I played with my friends.
+
+Activity 6
+
+Copy the table in page 103 into your exercise book. Add more verbs to each category.
+
+106For free distribution
+
+Activity 7
+
+Copy the table below into your exercise book. Follow the examples and complete the table.
+
+e.g. :- Did our cat catch a mouse?Our cat caught a mouse.Our cat did not/didn’t catch a mouse.The rain destroyed the crops.The boys didn’t swim in the sea.Did all the friends come to the party?Rizvia didn’t miss the school bus.The batsman scored a century in the last match.
+
+Activity 8
+
+Read the passage.
+
+107For free distribution
+
+A Day at the Circus
+
+I went to a famous Chinese circus with my family. It was very interesting. There were three monkeys dressed in pink coats and blue trousers. They rode on grey horses and waved tiny red hats. Growling tigers jumped through flaming hoops. Clowns with painted faces and big red noses did a lot of funny things. A beautiful girl in a bright blue dress walked on the tight rope. A juggler threw many colourful balls in the air and caught them. Huge elephants sat on tiny stools. It was a wonderful circus.
+
+108For free distribution
+
+Now, find the words that are used to describe the following words.e.g. :- famous Chinese circus............................. horses .............................faces............................. coats .............................noses.............................tigers .............................girl.............................monkeys .............................dress.............................hats .............................balls............................. trousers .............................elephants............................. hoops
+
+Activity 9
+
+Refer to the table and write sentences.
+
+The new My elderDarkThe lastThe hungry
+
+cloudsbussecretarysisterdog
+
+leftdeliveredgatheredboughtbegged
+
+me a nice dollthe welcome speechfor foodbefore the rainat 11.30 p.m.
+
+Activity 10
+
+Recite the poem.
+
+109For free distribution
+
+GorillaA giant Gorilla came to tea, Whoever asked him? It wasn’t me. He came in through the kitchen wall, It took six chairs to seat him all. He drank his tea straight from the pot, And sandwiches - he ate the lot. After that he at last decided to go, Who invited him? I’d like to know.
+
+-An extract from the poem “Gorilla” by Martin Honeysett-
+
+Write answers to these questions in full sentences.
+
+1. Who is the animal mentioned in the poem?2. Where did he sit down to drink his tea?3. What did he eat?4. How did he drink tea? 5. Did the speaker invite the gorilla for tea?6. Find the rhyming words in the poem.
+
+Activity 11
+
+Listen and Underline
+
+Copy the following words into your exercise book. Then underline the word from the pair, your teacher pronounces.
+
+1. fine pine 5. fin pin2. supper suffer 6. open often3. fan pan 7. chief cheap4. peel feel 8. fork pork
+
+110For free distribution
+
+Activity 12
+
+Read and Write
+
+Read the given words aloud. Refer to a dictionary and find the meanings.
+
+WordMeaninge.g. :- cuffSleeve end of a shirt
+
+cuff
+
+laugh
+
+muff
+
+puff
+
+troughroughoff
+
+bluff
+
+tough
+
+cough
+
+enough
+
+cliff
+
+111For free distribution
+
+UNIT 11
+
+ECO FRIENDS
+
+Role Play
+
+Arul : Hello Hasan, how was your weekend?Hasan: It was great! We went to the Royal Nature Park. Arul : Really? What did you see there?Hasan: There were many beautiful flowers and different kinds of trees. I took a lot of pictures too. Arul : Could you bring them next week? I’d love to see them. Hasan: Do you know that there are some people who pluck these beautiful flowers, write on trees and throw food all over the park? Arul : That is very bad. They should not do it.Hasan: Yes, that’s true. Arul : What else did you do? Hasan: We sat under a large tree and had our lunch. Arul : That must have been wonderful. Hasan: Yes, it was, and we did not forget to put all the leftover food into the garbage bins. Arul : I would love to go to the National Park too. Hasan: You should, and if you like, I will come with you. Arul : Thank you, Hasan. That will be nice.
+
+Answer the following questions: a. Where did Hasan go on the weekend?b. What did he see there?c. Write a list of things that you should not do in a national park.
+
+,
+
+112For free distribution
+
+Nature Lovers
+
+I am Pubudu Perera. I am in grade six. I like gardening and reading books in my free time. I have a small garden in my home. There are different types of vegetables and fruits in my garden. I work in the garden with my mother and father.We have a compost pile in our garden and we use only compost as fertilizer for the fruits and vegetables we grow. This way we will not kill any of the animals and insetcs that help the plants to grow in my garden. We enjoy picking the fresh fruits and vegetables from our garden. We also give some of these fruits and vegetables to our neighbours. When I grow up, I want to write a book on the importance of protecting the environment.
+
+I am Raman Subramanium. I am in grade six. I like riding my bicycle and drawing pictures. My father bought me a bicycle for my birthday. I did not know how to ride it at first. Then, my mother and father taught me to ride it. Now, I go everywhere in my bicycle. My father and I ride the bicycle to school. My mother goes to market on her bicycle. We cycle to Kovil normally.
+
+My father tells me that the bicycle is the only vehicle that is good for the environment. When I grow up, I want to have an art exhibition. The exhibition will have beautiful paintings of my country. They will all be the paintings of what I saw while I was cycling.
+
+    
+
+113For free distribution
+
+Activity 1
+
+Read the above text and list out what Pubudu and Raman like to do.
+
+Activity 2
+
+Write a small paragraph about what you like to do in your free time.
+
+Activity 3
+
+Fill in the blanks with the given words.
+
+enjoy, market, useful, reading, compost, fresh, write, art, essays, drawing
+
+1) I like to do …………………………….. activities.
+
+2) I love to eat ………………………. vegetables.
+
+3) ………………………………. is a good hobby.
+
+4) He writes good ………………….
+
+5) We …………… picking fresh fruits and vegetables.
+
+6) He likes ..................... pictures.
+
+7) We have a ........................ pile in our garden.
+
+8) My mother goes to the .............................
+
+9) Pubudu will ..............................a book.
+
+10) Raman hopes to have an .........................exhibition.
+
+114For free distribution
+
+My Favourite Animal
+
+My favourite animal is the zebra. I like zebras the most, because they are very innocent animals. They belong to the horse family and live in groups. They are mammals and are herbivorous. Every zebra has a special pattern of black and white stripes. A baby zebra is brown and white at birth and is called a foal. Zebras walk and gallop like horses. They hear and see very well. Their eyes are on the sides of the head. It helps them to see what is happening all around them. They have large pointed ears and can turn their ears to any direction. Zebras are fast runners. They can run about 35 miles per hour. They run from side to side to protect from animals who hunt them. They sleep while standing and bray when they are in danger to warn the other zebras. The leader of the herd of zebras stays at the back of the group. Today, the zebras have lost many of their land and are in danger because of humans. Humans have destroyed many of the land to build houses and to cultivate. The zebras are also killed for their skin. Their skin is used to make carpets, coats and hand bags. Many governments have built national parks to protect the zebras but we all have to stop doing things that harm animals like my favourite animal, the zebra.
+
+115For free distribution
+
+Activity 4
+
+Match the words in column A with their meanings in column B.
+
+A B
+
+herbivorous harmlessprotect a natural home of a plant or an animalinnocent causing harmhabitat to inform someone of possible dangerdanger an animal that feeds milk to its youngmammals keep safewarn feeding only on plants
+
+Activity 5
+
+Mark true (T) or false (F).
+
+1) Zebras eat meat.
+
+2) They are good at hearing.
+
+3) They have large and pointed ears.
+
+4) We can see them in national parks.
+
+5) We must not harm this innocent animal.
+
+116For free distribution
+
+Activity 6
+
+Writing
+
+,1) Why does the writer like zebras?
+
+2) What is their family?
+
+3) What are the colours of baby zebras?
+
+4) Do they hear and see well?
+
+,5) How do they run to protect themselves from other animals?
+
+6) What is their running speed?
+
+7) How do they sleep?
+
+8) Where are they protected?
+
+9) Why should we protect animals? Give two reasons.
+
+a) because they are living beingsb) ……………………………………c) …………………………………….
+
+10) Do you like zebras? Give reasons.
+
+11) Write a paragraph about “zebras” using your own words.
+
+Group Work
+
+Activity 7
+
+Think about an animal you all like. Find more information about it. Collect pictures. Present them in a booklet.
+
+117For free distribution
+
+Listening
+
+Activity 8
+
+Listen to the news item and complete the grid.
+
+01Name of the animalZebra02Month of birth…………………03Place of birthDehiwela ……………….04The country of baby zebra’s parents…………………
+
+05Parents’ age…………........ years old06Number of zebras in the zoo…………............
+
+Animals and Their Young
+
+The words for baby animals are different from their parents.
+
+e.g. :- cow – calf
+
+dog – puppy
+
+giraffe – calf
+
+tiger – cub
+
+camal – calf
+
+fox – pup
+
+alligator – hatchling
+
+bat – pup
+
+bee – larva
+
+butterfly – caterpillar
+
+118For free distribution
+
+Activity 9
+
+Here are the names of some animals and their babies. Match them.Animals Babies1) cat chick2) sheep kid3) pig gosling 4) hen kitten 5) lion/bear/fox duckling6) bird lamb7) deer cub8) elephant foal9) horse nestling 10) goat calf11) duck fawn12) goose piglet
+
+Activity 10
+
+Name animals and their babies.
+
+cat – kitten ........................... ........................... ..........................
+
+........................... ........................... ........................... .........................
+
+119For free distribution
+
+Riddles
+
+There are some riddles. Can you guess the answer?
+
+a) It is a small, white flower. You can see this in your garden. Women wear this in their hair. It is important for weddings, religious and cultural activities. A garland of this flower is very popular among Hindus. Its name starts with ‘J’. What is it? J _ _ _ _ _ _b) It is a round fruit. Its colour is its name. It has segments inside. Its seeds are called pips. It is a source of vitamins B and C and fibre. It helps to have good health. We can make a delicious drink from it. It is sweet and sour. Its name starts with ‘O’. What is it?
+
+O _ _ _ _ _c) It is a palm tree. Each part of the tree is very useful. We make oil from its fruit. We get treacle and toddy from its flower. Its leaves are used to thatch houses. Its trunk is used to build houses. We make ropes, brooms and rugs using husk of this fruit. It has a shell inside. We make spoons using it. The name of this tree starts with C. What is it? C _ _ _ _ _ _ t _ _ _d) I am a vegetable. I am round and red in colour. I come in different sizes. I’m green in colour when I am young. I am used in salads, sauces and drinks. I have small seeds and a thin skin. I give you vitamins C and A. What am I ? T _ _ _ _ _
+
+...........................
+
+...........................
+
+Animals Babies elephant kitten hen piglet pig chick goat cub duck kid sheep duckling cat calf bird nestling deer fawn lion lamb
+
+120For free distribution
+
+Affixes
+
+The word class and / or the meaning of words are changed by adding affixes. un, ful, less, dis, ily, ness, fully, re
+
+a) The meaning of the word is changed, but the word class is same.
+
+adjective adjective (opposite)
+
+happy - unhappy honest - dishonestkind - unkind loyal - disloyalcommon - uncommon obedient - disobedientlucky - unlucky respectful - disrespectfultrue - untrue agreeable - disagreeableusual - unusual connected - disconnected
+
+verb verb (opposite)
+
+do - undo use - reusetie - untie write - rewritebutton - unbutton play - replay start - restart
+
+b ) The word class and / or the meanings of the word are changed.
+
+verb adjectivecare - careless beauty - beautiful harm - harmless spoon - spoonfulcheer - cheerful / cheerlesscolour - colourful / colourless
+
+adjective noun
+
+kind - kindnesshappy - happinesssad - sadnessquick - quicknessneat - neatness
+
+verb verb
+
+noun adjective
+
+121For free distribution
+
+Activity 11
+
+1) Match the words with their opposites.
+
+A Bkind disobeyobey unhappyagree unkindhappy unluckylucky disagreetie undodo untie
+
+2) Fill in the blanks with the correct word.
+
+honest, hardworking, cheerful, colourful, unkind
+
+1) Your picture is ………………………………………
+
+2) Parami is an ……………………………….. girl.
+
+3) Raj is the first. He is ………………………
+
+4) Nurses are kind. Is she kind or …………………………..?
+
+5) Lavanya has a smile in her face. She is …………………………
+
+3) Write opposites of these words.
+
+a) common - ………………………………………b) order - ………………………………………c) usual - ………………………………………d) connect - ………………………………………e) agree - ………………………………………
+
+122For free distribution
+
+Let’s Play a Game
+
+Play a game with a friend using a dice and two buttons. Start from A and reach B.
+
+12
+
+Planted a tree. Goto 5
+
+3456
+
+7
+
+8109111213
+
+14
+
+151617181920
+
+21
+
+222324252627
+
+Hurt animals. Goback to 1
+
+Left light on. Go backto 3
+
+Threw a banana skin. Go backto 7
+
+watered a plant. Throwagain
+
+Left a tap running. Goback to 11
+
+Put rubbish in a bin.Throw again
+
+picked up the rubbish.Throw again
+
+spat everywhere. Go back to13
+
+A
+
+B
