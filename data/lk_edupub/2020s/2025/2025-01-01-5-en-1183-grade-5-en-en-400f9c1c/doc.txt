@@ -1,0 +1,2603 @@
+==== BLOCKS ==== 
+
+Monitoring and Supervision Mrs. W. D. Padmini Nalika -Commissioner General of Educational Publications-Educational Publications DepartmentDirectionsMrs. W. A. Nirmala Piyaseeli -Commissioner of Educational Publications-(Development) Educational PublicationsDepartmentCo-ordinationMr. Ranjith Iluppitiya -Deputy Commissioner-Educational Publications Department
+
+Mrs. W. Indumini Darshika -Assistant Commissioner-Educational Publications DepartmentWritten by:K. BenadictD.D. Deepika Nilmini FernandoW. M. Shamali P. JayaratneMadhuri KannangaraNilani D. KarunaarachchiAruni Subhasini KoswattaR. K. Champika Malkanthi Kumari H.L. Anusha Dilrukshi LankathilekeD. M. M. MadumaliS. N. M. Anusha Ruwanthi NamaratneK. D. Nayana Priyadarshani Perera M.M. Deepika P. Waidyaratne RenukaWalawevithanaDarshani Wickramasinghe
+
+First Published in Sri Lanka in 2002 by the EducationalPublications DepartmentThese textbooks were developed with the assistance of the Primary English Language Project funded by the United Kindom Department for International Development.
+
+© Ministry of Education and Higher Education 2002Second Print - 2002 Eight Print -2008Third Print - 2003 Ninth Print -2009Fourth Print - 2004 Tenth Print -2010Fifth Print - 2005 Eleventh Print -2011Sixth Print - 2006 Twelfth Print -2012Seventh Print - 2007 Thirteenth Print -2013Fourteenth Print -2014Fifteenth Print -2015Sixteenth Print -2016Seventeenth Print -2017Eighteenth Print -2018
+
+ISBN 955-25-0013-3All rights reserved. No reproduction, copy or transmission of this publication may be made without written permission.
+
+Designed S. M. Sampath SenanayakeIllustrated by K. N. Indralal Manjula Karunathilake Project TeamLeader: W. A. Stanley Fernando
+
+Published by the Educational Publications DepartmentPrinted by: Department of Government Printing, Colombo 08.
+
+– ii –
+
+-iii-
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha
+
+Sundara siri barinee, surendi athi sobamana Lanka
+
+Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya
+
+Apa hata sepa siri setha sadana jeewanaye matha
+
+Piliganu mena apa bhakthi pooja Namo Namo Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha
+
+Oba we apa vidya
+
+Obamaya apa sathya
+
+Oba we apa shakthi
+
+Apa hada thula bhakthi
+
+Oba apa aloke
+
+Apage anuprane
+
+Oba apa jeevana we
+
+Apa mukthiya oba we
+
+Nava jeevana demine, nithina apa pubudukaran matha
+
+Gnana veerya vadawamina regena yanu mana jaya bhoomi kara
+
+Eka mavakage daru kela bevina
+
+Yamu yamu vee nopama
+
+Prema vada sema bheda durerada
+
+Namo, Namo Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha
+
+wms fjuq tl ujlf.a orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñ‚ uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+- wdkkao iurfldaka -
+
+xU jha; kf;fs; ehkhNthk;xd;Nw ehk; thOkpy;yk;ed;Nw clypy; XLk; xd;Nw ek; FUjp epwk;
+
+mjdhy; rNfhjuu; ehkhNthk;xd;wha; thOk; tsUk; ehk;ed;wha; ,t; ,y;ypdpNy eyNk tho;jy; Ntz;Lkd;Nwh
+
+ahtUk; md;G fUizAld;xw;Wik rpwf;f tho;e;jpLjy;nghd;Dk; kzpAk; Kj;Jky;y - mJNtahd;W kopahr; nry;tkd;Nwh
+
+Mde;j rkuf;Nfhd;ftpijapd; ngau;g;G
+
+- iv -
+
+Being innovative, changing with right knowledge Be a light to the country as well as to the world
+
+Message from the Hon. Minister of Education
+
+The past two decades have been significant in the world history due to changes that took place in technology. The present students face a lot of new challenges along with the rapid development of Information Technology, communication and other related fields. The manner of career opportunities are liable to change specifically in the near future. In such an environment, with a new technological and intellectual society, thousands of innovative career opportunities would be created. To win those challenges, it is the responsibility of the Sri Lankan Government and myself, as the Minister of Education, to empower you all.
+
+This book is a product of free education. Your aim must be to use this book properly and acquire the necessary knowledge out of it. The government in turn is able to provide free textbooks to you, as a result of the commitment and labour of your parents and elders.
+
+Since we have understood that the education is crucial in deciding the future of a country, the government has taken steps to change curriculum to suit the rapid changes of the technological world. Hence , you have to dedicate yourselves to become productive citizens. I believe that the knowledge this book provides will suffice your aim.
+
+It is your duty to give a proper value to the money spent by the government on your education . Also you should understand that education determines your future. Make sure that you reach the optimum social stratum through education.
+
+I congratulate you to enjoy that benefits of free education and bloom as an honoured citizen who takes the name of Sri Lanka to the world.
+
+Akila Viraj KariyawasamMinister of Education
+
+- v -
+
+Foreword
+
+You have been born in a country, which has been eulogized as the “Pearl of the Indian Ocean”. Tough your motherland is small in size, its value is immeasurable. You, who have been born in such a precious country, are really fortunate. Our sole intention is to see you as a successful citizen who has learnt well, adorned with good qualities, who is wise and powerful making your country an ideal place. Te government provides you all the facilities for education in order to achieve that expectation. As one of the measures taken by the government towards that, this book is gifed to you.
+
+By now, new textbooks compiled in accordance with the new primary curricula have been introduced to grades one, two and three. Tis time, a set of new textbooks has been introduced to grade four. Afer introducing new textbooks for grade ﬁve in 2020, the revision of the primary curricula will be completed.
+
+I would like to express my heartiest thanks to the members of both panels of writers and editors and to the staﬀ of the Educational Publications Department for involving in making this book available to you.
+
+W. D. Padmini NalikaCommissioner General of Educational Publications.Educational Publications Department, Isurupaya,Battaramulla, 07.05.2018.
+
+- vi -
+
+vii
+
+- 1 -
+
+/(66217RZQDQG&LW\
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+$%
+
+KandyColomboAmbalangodaGalleJaffnaNuwara Eliya
+
+MasksTemple of the ToothWorld Trade CentreLighthouseTeaPalmyrah trees
+
+181,7
+
+Town and City
+
+- 2 -
+
+/(66217RZQDQG&LW\
+
+)LOOLQWKHEODQNV
+
+A.1.The famous Temple of the Tooth is in
+
+2.The famous natural harbour is in
+
+3.The famous Dutch fort is
+
+4.The beautiful lighthouse
+
+B.1. Mark the town/city nearest to you on the map.
+
+2. Write the name
+
+Complete the table
+
+Example
+
+1DPHRIWKHFLW\:KDWLWLVIDPRXVIRU
+
+Hikkaduwacorals
+
+
+
+
+
+
+
+
+
+
+
+181,7
+
+- 3 -
+
+/(66217RZQDQG&LW\
+
+/LVWHQDQGZULWH
+
+1. The police station is ..........................(where?) the car park and the cinema.
+
+2. The museum is next to the ...........................(what?)
+
+3. The stadium is ..............................(where?) the cinema
+
+4. The car park is ........................(where?) the filling station.
+
+5. The filling station is ........................(where?) the ................. (what?) andthe...........(what?).
+
+Fill in the blanks
+
+(where?) - between, next to, opposite, behind.(what?)- police station, museum, children’s park, stadium, car park,filling station, book shop
+
+Bookshop
+
+Cinema
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(7)
+
+(5)
+
+(6)
+
+281,7
+
+- 4 -
+
+/(66217RZQDQG&LW\
+
+5HDGDQGODEHOWKHPDS
+
+UDLOZD\VWDWLRQ
+
+VWDGLXP
+
+VXSHUPDUNHW
+
+EDQN
+
+1Where is the police station? It is between the supermarket and thestadium.
+
+2. What is behind the stadium? The car park.
+
+3. Where is the children’s park? It is next to the supermarket.
+
+4. What is opposite the police station? The museum.
+
+5. What is between the museum and the bank? The filling station.
+
+Write
+
+1. Railway station/opposite/cinema.The railway station is opposite the cinema.
+
+2. Supermarket/ between/ stadium/ car park.The supermarket is between ........................and the................................. .
+
+3. Children’s park/ next to / police station.....................................................................................................................
+
+281,7
+
+- 5 -
+
+/(66217RZQDQG&LW\
+
+5HDGDQGODEHO
+
+You are on Rose Street now. Go alongthe street past the cinema on your right
+
+and the market on your left. Go over theOHYHOFURVVLQJ and turn right into 0DLQ
+
+6WUHHW There is a medical centre on your
+
+left. Go round the clock tower and walkpast the OLEUDU\ and VKRSSLQJFHQWUH
+
+Then turn left into the lane opposite the
+
+EDQN
+
+Where are you?
+
+library
+
+medicalcentre
+
+Main Street
+
+market
+
+Rose Street
+
+cinema
+
+bank
+
+SchoolLane
+
+shoppingcentre
+
+381,7
+
+- 6 -
+
+/(66217RZQDQG&LW\
+
+5HDGDQGQXPEHU
+
+Go past the library and the shopping centre.
+
+Turn left opposite the bank.
+
+Go over the level crossing.
+
+Turn right into Main Street.
+
+5HDGILQGDQGODEHO
+
+1. The cinema is opposite the medical centre at the corner.
+
+2. The shopping centre is between the cinema and the school.
+
+3. The bank is opposite the cinema.
+
+4. The library is behind the bank.
+
+381,7
+
+- 7 -
+
+/(66217RZQDQG&LW\
+
+)LOOLQWKHEODQNV
+
+tallsmalllowprettyhigh
+
+1. The buildings are very..............................................................
+
+2. The shanties are........................................ and........................
+
+3. The gardens are........................................
+
+4. The flats are .............................................
+
+481,7
+
+- 8 -
+
+/(66217RZQDQG&LW\
+
+:ULWHWKHVHQWHQFHVFRUUHFWO\
+
+Use capital letters, full stops and put spaces between the words.
+
+1.iliveinatownI live in a town.
+
+2.therearesomebighouses .3.therearesomesmallhouses .4.somehouseshavewalls .5.somehouseshavefences .6.wealllivehappily
+
+&RPSOHWHWKHZHE
+
+EDQN
+
+:KHUH3HRSOHZRUNEXLOGLQJV
+
+:KHUHSHRSOHOLYH
+
+:KHUHSHRSOHEX\WKLQJV
+
+VXSHUPDUNHW
+
+481,7
+
+- 9 -
+
+/(66217RZQDQG&LW\
+
+/RRNVD\DQGZULWH
+
+Where do we go if...
+
+1.we want to buy some fruits?We go to the market.
+
+2.we want to get some medicine?
+
+3.we want to play?
+
+4.we want to watch a film?
+
+5.we want to get a book to read?
+
+6.we want to catch a bus?
+
+7.we want to deposit some money?
+
+/LEUDU\
+
+%XV6WDWLRQ
+
+&LQHPD+RVSLWDO
+
+%DQN
+
+
+
+
+
+
+
+
+
+
+
+
+
+581,7
+
+- 10 -
+
+/(66217RZQDQG&LW\
+
+/RRNDQGZULWH
+
+She is going to the library to readbooks.She is going to...................................to ...................................
+
+She is ................................................to ...................................
+
+Put the words into groups.
+
+fruitsmoneyvegetablesa roll of plastertabletstoysfish
+
+pharmacy
+
+bank
+
+market
+
+581,7
+
+- 11 -
+
+/(66217RZQDQG&LW\
+
+&RPSOHWHWKHVHQWHQFHV
+
+AB
+
+Do the puzzle
+
+Across
+
+1. We buy ................................. from the post office.
+
+3. We can get ............................. from the hospital.
+
+4. Children can ............................ in the playground.
+
+5. We can buy fruit at the super .....................
+
+Down
+
+2. We can open a .............. ............... at the bank.
+
+21
+
+3
+
+4
+
+5
+
+681,7
+
+Town A has a bank but it doesn’t have a ...........................................................
+
+Town B has a hospital but it doesn’t have a .......................................................
+
+Both town A and town B have a ........................................... for children to play.
+
+- 12 -
+
+/(66217RZQDQG&LW\
+
+0DNHVHQWHQFHVDQGPDWFK
+
+We go to the hospital to get medicine.
+
+library/ read/ books
+
+bank/ get/ money
+
+hospital/ get/ medicine
+
+
+
+
+
+681,7
+
+- 13 -
+
+/(66217RZQDQG&LW\
+
+/LVWHQDQGQXPEHU
+
+Grocery shopTextile shopPharmacyBook shopStudio
+
+5HDGDQGPDWFK
+
+Good morning. Can I help you?
+
+Yes, here you are.
+
+It’s seventy-five rupees.
+
+Yes, we have some postcards.
+
+They are fifteen rupees each.
+
+A.How much is it?
+
+B.Yes please. Can I have a road map of Sri Lanka?
+
+C. Do you have any picture postcards of Kandy town?
+
+D.How much are they?
+
+781,7
+
+- 14 -
+
+/(66217RZQDQG&LW\
+
+'RWKHSX]]OHV
+
+1
+
+2
+
+3
+
+781,7
+
+- 15 -
+
+/(66217RZQDQG&LW\
+
+1.can you see at the exhibition?Plants and flowers.
+
+2.is the cricket match held?At the municipal grounds.
+
+3.is the book sale?From the 17th to the 18th
+
+4.is the name of the children’s drama? Little Red Riding Hood.
+
+8VHWKHFRUUHFWTXHVWLRQZRUGDQGILOOLQWKHEODQNV
+
+:KDW
+
+:KHUH
+
+:KHQ
+
+Mark true or false
+
+Write the wrong sentences correctly.
+
+1. The book fair is from the 14th to the 16th
+
+2. The plants and flowers exhibition will be open from 2.00 p.m. to 6.00 p.m.
+
+3. The cricket match starts on the 15th.
+
+4. The book fair is held in the school library.
+
+5. Kahawala senior school drama society presents “Little Red Riding Hood”.
+
+881,7
+
+- 16 -
+
+/(66217RZQDQG&LW\
+
+:ULWHWKHQRWLFH
+
+9
+
+.0
+
+0
+
+a.
+
+m
+
+.
+
+t
+
+o
+
+5
+
+p
+
+.
+
+m
+
+.
+
+G
+
+ra
+
+d
+
+e
+
+5
+
+c
+
+h
+
+il
+
+dre
+
+n
+
+An art exhibition
+
+the school main hall
+
+7th Monday
+
+An art exhibitionThere will be
+
+Fill in the grid
+
+Little Red RidingHood
+
+17th to 18th March
+
+From 3.00 p.m. to9.00 p.m.Municipal grounds
+
+(YHQW'DWH7LPH3ODFH
+
+881,7
+
+- 17 -
+
+Town and City
+
+- 18 -
+
+/(66217RZQDQG&LW\
+
+/LVWHQQXPEHUDQGVD\
+
+A loader loads goods into lorries.
+
+A sweeper sweeps the road.
+
+A waiter brings food and drink.
+
+A parking attendant helps to park vehicles.
+
+A cobbler repairs shoes.
+
+Who are these people?
+
+1. Someone who repairs shoes..
+
+2. Someone who sweeps the road..
+
+3. Someone who helps to park cars..
+
+4. Someone who brings food and drink in a hotel..
+
+5. Someone who loads goods into lorries..
+
+281,7
+
+- 19 -
+
+/(66217RZQDQG&LW\
+
+/RRNUHDGDQGFRPSOHWH
+
+Dear Kandu,Malpura is a big town but it is very nice.Vehicles don’t go fast here. There is no black smokein the town.Thereis no loud noise.
+
+There is no rubbish on theroads. .
+
+Come and spend a few days in my town.You will like it.
+
+Your little brother Boola.
+
+1. The roads are clean.
+
+2. The air is clean.
+
+3. It is very quiet.
+
+4. They go slowly
+
+0DWFKDQGZULWH
+
+,W¶VWRRORXG,W¶VWRRIDVW,W¶VWRRGLUW\
+
+1
+
+2
+
+3
+
+4
+
+1.
+
+2.
+
+3.
+
+4.
+
+381,7
+
+- 20 -
+
+/(66217RZQDQG&LW\
+
+&KRRVHDQGFRPSOHWH
+
+Dirty - crowded - noisyClean - not crowded - quiet
+
+1. City A is –––––––––––––––––––––––––––– but City B is clean.
+
+2. City A is noisy but city B is ––––––––––––––––––––
+
+3. City A is –––––––––––––––––––––––––––– but City B is not crowded.
+
+/RRNILQGDQGZULWH
+
+30dirtythirtybin––––––––
+
+smell––––––––
+
+load––––––––
+
+air––––––––
+
+3tree––––––––
+
+481,7
+
+- 21 -
+
+/(66217RZQDQG&LW\
+
+%LQJR
+
+PDQJRVWHHQV
+
+SDOP\UDKWUHHV
+
+FDVKHZQXWVUDPEXWWDQVDOWSDQV
+
+EHWHOFRUDOV
+
+AB
+
+0DNHVHQWHQFHVDQGZULWH
+
+Gampaha
+
+Bataleeya
+
+Bibile
+
+Ambalangoda
+
+Hikkaduwa
+
+is famous for
+
+masks
+
+corals
+
+cashew nuts
+
+oranges
+
+betel
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+JHPV
+
+581,7
+
+- 22 -
+
+/(66217RZQDQG&LW\
+
+5HDGDQGILQG
+
+What are the names of these cities/towns?
+
+PATAUARNR
+
+This is a city in the Sabaragamuwaprovince. It got its name because of thevaluable gems found there. The nameof this means the “City of Gems”.
+
+PGAHMAA
+
+This is a big town in the Westernprovince. The name of this citymeans “Five Villages”.
+
+Write “T” (True) or “F” (False)
+
+Sigiriya got its name from the name of a king.
+
+Gampaha got its name because it is a collection of five villages.
+
+Galle got its name from the shape of a rock.
+
+Ratnapura got its name because it has a port.
+
+Kankesanthurai is famous for gems.
+
+Correct the sentences
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+681,7
+
+- 23 -
+
+/(66217RZQDQG&LW\
+
+5HDUUDQJHDQGZULWHVHQWHQFHV
+
+1.large/Sydney/has/population/a/very
+
+2.the harbour/The opera house/near/is
+
+3.The opera house/a boat/like/the sails/is/of
+
+4.Sydney/The Olympic Games/in/held/were
+
+Complete the paragraph.
+
+Use the words given below. Youcan use one word more than once.
+
+(landmark, opera house, famous,population, harbour, boat, sails,Olympic Games)
+
+Sydney is a –––––––––––––– city in Australia. It has a very large ––––––––––.
+
+The Sydney––––––––––––––is –––––––––––. It faces the Sydney–––––––––.
+
+The opera house building looks like the–––––––––– of a ––––––––––––––––.
+
+The Sydney bridge is another famous –––––––––––––––––. The 2000 ––––––
+
+–––––––––––––––––––––––––––––––– were held in Sydney.
+
+781,7
+
+- 24 -
+
+/(66217RZQDQG&LW\
+
+)LQGPDWFKDQGZULWH
+
+$JUD%DQJNRN&RORPER1HZ'HOKL
+
+0DWFKDQGZULWH
+
+,QGLD7KDLODQG6UL/DQND
+
+Sri Jayawardenapura New Delhi Bangkok
+
+1.Bangkok is the capital of Thailand.
+
+2.–––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+3.–––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+4.–––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+881,7
+
+- 25 -
+
+/(6621)HVWLYDOV
+
+5HDGDQGPDWFK
+
+1.Vesak
+
+2.Ramazan
+
+3.Sinhala and Tamil New Year
+
+4.Deepavali
+
+5.Christmas
+
+a.is celebrated / April
+
+b.is celebrated / the Hindus
+
+c.is celebrated / December
+
+d.is celebrated / the Buddhists
+
+e.is celebrated / the Muslims
+
+Write sentences using by or in
+
+by - people
+
+in - month
+
+1.Vesak is celebrated by the Buddhists.
+
+2.––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+3.––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+4.––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+5.––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+%
+
+181,7
+
+$
+
+Festivals
+
+- 26 -
+
+/(6621)HVWLYDOV
+
+)LOOLQWKHEODQNV
+
+1.Christmas is celebrated by –––––––––––––––––––––––––––––––.
+
+2.Vesak is celebrated in –––––––––––––––––––––––––––––––––––.
+
+3.Deepavali is celebrated in ––––––––––––––––––––––––––––––––.
+
+4.Ramazan is celebrated by ––––––––––––––––––––––––––––––––.
+
+Write
+
+Write about your favourite festival.
+
+My favourite festival is
+
+A
+
+181,7
+
+B
+
+C
+
+D
+
+- 27 -
+
+/(6621)HVWLYDOV
+
+)LQGDQGZULWH
+
+In which lines do you find these words?
+
+)LQGWKHZRUGVDQGOLQHV
+
+:RUGZRUGV/LQHOLQHV
+
+Diwali1, 2, 7, & 8
+
+shining oil lamps
+
+fireworks
+
+sweets
+
+noise
+
+girls and boys
+
+/LVWHQDQGFRPSOHWH
+
+1.––––––––––––––––––––––––––––––– celebrate Deepavali.
+
+2.It is a very colourful ––––––––––––––––––––––––––––––.
+
+3.People light –––––––––––––––––––––––––––––––––––––.
+
+4.They wear new ––––––––––––––––––––––––––––––.
+
+281,7
+
+- 28 -
+
+/(6621)HVWLYDOV
+
+/RRN)LQGDQGZULWH
+
+Find words with the underlined letters and sounds.Use picture clues.
+
+lampsstamps
+
+boys
+
+three
+
+lots
+
+again
+
+WriteWrite a poem about your favourite festival.
+
+281,7
+
+- 29 -
+
+/(6621)HVWLYDOV
+
+/LVWHQDQGQXPEHU
+
+Id - Ul - Fitr
+
+Id - Ul - Alha
+
+Milad - Un - Nabi
+
+Fill in the blanks
+
+1.Id - Ul - Fitr celebrates ––––––––––––––––––––––––––––––––––––––––
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+2.Milad -Un-Nabi celebrates –––––––––––––––––––––––––––––––––––––.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+3.Id- Ul - Alha celebrates –––––––––––––––––––––––––––––––––––––––.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+4.The Ramazan festival is celebrated on the ––––––––––––––––––––––––
+
+of ––––––––––––––– this year.
+
+5.The Haj festival ––––––––––––––––––––––––––––––– on the ––––––––
+
+of –––––––––––––––––––––––––– this year.
+
+6.The Id - Ul - Fitr festival –––––––––––––––––––––––– on the –––––––––
+
+–––––––––––––– of –––––––––––––––––––this year.
+
+381,7
+
+- 30 -
+
+/(6621)HVWLYDOV
+
+)LQGDQG:ULWH
+
+Find the dates of the above Muslim festivals this year.Look at step 2 of the Pupil’s book and write sentences.
+
+:ULWHWrite one sentence each about any two festivals you know.
+
+381,7
+
+- 31 -
+
+/(6621)HVWLYDOV
+
+)LQGDQGZULWH
+
+ZD\
+
+EHOO
+
+ULQJ
+
+WRQLJKW
+
+ULGH
+
+VLQJ
+
+VLJKW
+
+EULJKWlight, ––––––, –––––––––––, –––––––––.
+
+bring, ––––––––––, –––––––––––,
+
+say, ––––––––––.
+
+tell, ––––––––––.
+
+side, –––––––––.
+
+5HDGILQGDQGZULWH
+
+1.A special song people sing at Christmas time = ––––––––––––––––––––.
+
+2.A figure of person made of snow = ––––––––––––––––––––––––––––––.
+
+3.A vehicle pulled by a horse to travel over snow = ––––––––––––––––––.
+
+481,7
+
+- 32 -
+
+/(6621)HVWLYDOV
+
+)LQGDQGZULWH
+
+)LQGWKHZRUGVDQGFLUFOH
+
+ae
+
+geh
+
+sw
+
+sfcakecoma
+
+mpresentdn
+
+bellasnowe
+
+achristmasmistarkjlm
+
+npfsucarde
+
+ptangelbmz
+
+jdesantabc
+
+abeysleigh
+
+uhorsegbrs
+
+angels
+
+bells
+
+sleigh
+
+stars
+
+fieldssnow
+
+horsesspirits
+
+songs
+
+way
+
+481,7
+
+- 33 -
+
+/(6621)HVWLYDOV
+
+0DWFKDQGRUGHU
+
+Tie the six bamboo squares together.
+
+Cut and paste some streamers.
+
+Cover the sides with coloured tissue paper.
+
+Cut twenty-four pieces of bamboo of the same length.
+
+Tie the ends of the bamboo sticks and make six squares.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+581,7
+
+- 34 -
+
+/(6621)HVWLYDOV
+
+a pair of scissors
+
+5HDGILQGDQGZULWH
+
+a knifegluea piece of string
+
+What did Amali Use...
+
+to cut the bamboo = –––––––––––––––––––––––––––––.
+
+to tie the bamboo sticks = ––––––––––––––––––––––––––––––.
+
+to paste the coloured tissue = ––––––––––––––––––––––––.
+
+to cut the coloured tissue = ––––––––––––––––––––––.
+
+1
+
+2345
+
+1.Cut the bamboo with a knife.
+
+2.––––––––––––––––––––––––––––––––––––––––.
+
+3.––––––––––––––––––––––––––––––––––––––––.
+
+4.––––––––––––––––––––––––––––––––––––––––.
+
+5.––––––––––––––––––––––––––––––––––––––––.
+
+581,7
+
+2UGHUDQGZULWH
+
+- 35 -
+
+/(6621)HVWLYDOV
+
+Write a wish
+
+1.––––––––––––––––––––––––––––––––––––––––––.
+
+2.––––––––––––––––––––––––––––––––––––––––––.
+
+3.––––––––––––––––––––––––––––––––––––––––––.
+
+4.––––––––––––––––––––––––––––––––––––––––––.
+
+5.––––––––––––––––––––––––––––––––––––––––––.
+
+6HQGDJUHHWLQJFDUGWRDIULHQG
+
+1.Write a wish on the greeting card.2.Put the card inside an envelope and seal it.3.Paste on a stamp.4.Post the card.5.The postman will collect the card from the post box.6.He will stamp the card at the post office.7.He will send the cards to the mail exchange.8.Postmen will sort the cards at the mail exchange.9.They will send the cards to the correct post office.10. A postman will deliver the card to your friend.
+
+681,7
+
+- 36 -
+
+/(6621)HVWLYDOV
+
+/RRNDQGZULWH
+
+Write a matching caption for each picture
+
+681,7
+
+- 37 -
+
+/(6621)HVWLYDOV
+
+)LQGDQGZULWH
+
+Some words from Amali’s letter cannot be read. Can you write them againsttheir present tense form.
+
+Dear Meena,
+
+Thank you for the New Year greeting card. I received it
+
+yesterday.
+
+We had a very exciting New Years Day this time. Our uncle
+
+working in Dubai came home this year. He brought presents
+
+for everyone.
+
+My mother prepared a lot of sweet meats like kevum,
+
+kokis,aluwa and dodol for us to eat. We shared these sweet
+
+meats with our neighbours. We wore new clothes and
+
+worshipped our elders. We went to the temple in the
+
+morning. In the afternoon we played games.
+
+1. bring - –––––––––––––––––––––––––––––––––––––––
+
+2. come - –––––––––––––––––––––––––––––––––––––––
+
+3. go- –––––––––––––––––––––––––––––––––––––––
+
+4. play- –––––––––––––––––––––––––––––––––––––––
+
+5. prepare -–––––––––––––––––––––––––––––––––––––
+
+6. receive -–––––––––––––––––––––––––––––––––––––
+
+7. share - –––––––––––––––––––––––––––––––––––––––
+
+8. wear- –––––––––––––––––––––––––––––––––––––––
+
+781,7
+
+- 38 -
+
+/(6621)HVWLYDOV
+
+:ULWHVHQWHQFHV
+
+Meena (write) 11/04(post) 12/04Amali (receive) 16/04
+
+Meena wrote the New Year card on 11th April and posted it on 12th April.Amali received the card on 16th April.
+
+Kusum (write) 20/12 (post) 21/12Roy (receive) 24/12
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Nizar (write) 10/01 (post) 11/01Meena (receive) 14/01
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Ruwan (write) 12/05 (post) 14/05 Kusum (receive) 17/05
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+:ULWH
+
+Which is your most important festival?How do you celebrate it?
+
+Our most important festival is ––––––––––––––––– We –––––––––––––––––
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+781,7
+
+- 39 -
+
+/(6621)HVWLYDOV
+
+&RUUHFWWKHXQGHUOLQHGZRUGVDQGZULWH
+
+1.We celebrate Depavali in May.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+2.We decorate Christmas trees for Vesak.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+3.We go to church on Deepavali festival day.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+4.We celebrate Sinhala and Tamil New Year in October.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+5.We light oil lamps on Ramazan day.
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+)LOOLQWKHEODQNV
+
+1. At Christmas people –––––––––––––– their houses with Christmas trees.
+
+2. People ––––––––––––– special sweet meats for Sinhala and Tamil New year.
+
+3. People prepare a lot of tasty food and –––––––––––– it with neighbours atRamazan.
+
+4. People –––––––––––––––––––––––– Deepavali in October.
+
+5. During the New Year festival season people–––––––––––––––– their friendsand relatives.
+
+preparedecoratecelebratesharevisit
+
+881,7
+
+- 40 -
+
+/(6621)HVWLYDOV
+
+/RRNDQGZULWH
+
+1. Vesakdecorate Christmas treesmake Vesak lanternsAt vesak we do not decorate Christmas trees.We make Vesak lanterns.
+
+2. Christmaslight oil lampsdecorate Christmas trees
+
+3. Deepavalicelebrate/Maycelebrate/OctoberDeepavali is not celebrated in May.It is celebrated in October.
+
+4. Sinhala and Tamil New yearcelebrate / Decembercelebrate / April
+
+5. Ramazanat the beginning of fasting seasonat the end of fasting season
+
+881,7
+
+- 41 -
+
+/(6621)HVWLYDOV
+
+Read and complete
+
+“This is how I ––––––––––––––––(make) watalappan. First I
+
+––––––––––––––––––(take) some jaggery, coconut milk, eggs
+
+and a little vanilla. I–––––––––––––––––– (grate) the jaggery
+
+and––––––––––––––––––––– (mix) it with the coconut milk.
+
+Next I––––––––––––––––––––––– (beat) the eggs separately.
+
+I ––––––––––––––––– (add) the eggs to the mixture and ––––
+
+–––––––––––––(mix) them well. Next I –––––––––––––––––––– (add) a few
+
+drops of vanilla and–––––––––––––– (mix) everything well. Then I ––––––––––
+
+–––––– (pour) the mixture into little dishes. Lastly I––––––––––––––– (steam)
+
+the mixture in the dishes for about forty-five minutes.”
+
+take - tookbeat - beatsteam - steamedgrate - grated
+
+add - addedmake - mademix - mixedpour - poured
+
+5HDGDQGQXPEHU
+
+Beat the eggs.()
+
+Add the eggs to the mixture.()
+
+Take some jaggery, coconut milk, eggs and vanilla.( 1 )
+
+Steam the mixture in the dishes.()
+
+Mix the jaggery with coconut milk.()
+
+Pour the mixture into little dishes.()
+
+Add a little vanilla.()
+
+Grate the jaggery.()
+
+181,7
+
+Festivals
+
+- 42 -
+
+/(6621)HVWLYDOV
+
+/RRNDQGZULWH
+
+1.Why doesn’t Roy like the pair of shorts? (Long)
+
+They’re too long for him.
+
+2.Why doesn’t Meena like the skirt? (short)
+
+It’s –––––––––––––––––––––––––––.
+
+3.Why doesn’t Ruwan like the trousers? (big)
+
+They’re –––––––––––––––––––––––.
+
+4.Why doesn’t Amali like the blouse? (tight)
+
+It’s –––––––––––––––––––––––––––.
+
+Men’s clothesWomen’sBoth
+
+vertiskirt
+
+6RUWDQGZULWH
+
+Read the list of clothes in the Pupil’s book.Sort them into groups. Add your own ideas to the list.
+
+281,7
+
+- 43 -
+
+/(6621)HVWLYDOV
+
+0DWFKDQGZULWH
+
+$%
+
+UDFLQJ
+
+SOD\LQJ
+
+ILJKWLQJ
+
+VLQJLQJ
+
+FDUROV
+
+EXOORFNFDUWV
+
+UDEDQ
+
+SLOORZ
+
+1. raban playing
+
+2. –––––––––––––––––––––– ––––––––––––––––.
+
+3. –––––––––––––––––––––– ––––––––––––––––.
+
+4. –––––––––––––––––––––– ––––––––––––––––.
+
+Draw and write
+
+Draw a picture. Name the festival. Make a sentence.
+
+We see–––––––––––––––––– at–––––––––––––––––––––.
+
+381,7
+
+- 44 -
+
+/(6621)HVWLYDOV
+
+&RPSOHWHWKHSDUDJUDSK
+
+Use the following verbs to fill in the blanks
+
+weardecoratecleanpreparemakebathe
+
+Thai Pongal is a harvest festival. People –––––––––––––––––––––––– their
+
+houses to ––––––––––––––––––––––––––– for this festival. They ––––––––––
+
+––– new clothes on this day. They––––––––––––––– pongal rice on this day.
+
+On Madu Pongal Day people –––––––––––––– their bulls and cows and –––
+
+–––––––– them with garlands of flowers.
+
+:ULWH
+
+Help Roy to write about Christmas.
+
+– Religious festival
+
+– Decorate the house / Christmas tree
+
+– Make a Christmas cake
+
+– Go to church
+
+– Send Christmas cards
+
+– Sing carols
+
+481,7
+
+- 45 -
+
+- 46 -
+
+/(6621)HVWLYDOV
+
+&RPSOHWHWKHVHQWHQFHV
+
+1. Sinhala and Tamil New Year is celebrated by the Sinhala and Tamil people.It is held in April.
+
+2. Christmas –––––––––––––––– –––––––––––––– by the Christians.It ––––––––––––– –––––––––––––– in December.
+
+3. Thai Pongal –––––––––––––– –––––––––––– by the Tamils.It ––––––––––––– –––––––––––––– in January.
+
+4. Vesak –––––––––––––– –––––––––––––––– by the Buddhists.It–––––––––––––––– ––––––––––––––– in May.
+
+5. Ramazan ––––––––––––––––– ––––––––––––––––by the Muslims.It–––––––––––––––– ––––––––––––––at the end of the fasting period.
+
+'UDZDQGZULWH
+
+1.Draw a picture of a festival.2.Write about the festival.
+
+681,7
+
+- 47 -
+
+/(6621)HVWLYDOV
+
+“This special greeting is for Nizar and his family who arecelebrating Ramazan. Best wishes and good luck to themon this happy day.This greeting comes from their friends Ruwan, Amali,Meena, Kusum, Roy. Pancha and Kandu”.
+
+5HDGDQGFRPSOHWH
+
+1RZZULWHD&KULVWPDVJUHHWLQJIRU5R\
+
+“This special –––––––––– is for –––––––––––and ––––––––––––family
+
+who are celebrating ––––––––––––. Best ––––––––––––and good–––––
+
+–––––––to ––––––––––––––––––––on this happy day. This––––––––
+
+comes from––––––––––––––––––––––––––––––––––––––––––––––.”
+
+:ULWHWrite your own greeting to a friend
+
+DirectorSpecial Service
+
+Sri Lanka Broadcasting CorporationTorrington Square
+
+Colombo
+
+781,7
+
+- 48 -
+
+/(6621)HVWLYDOV
+
+&RPSOHWHWKHSDUDJUDSK
+
+Use the past tense of the verbs given below. You can use one verb more than once.
+
+ZDQWZDQWHGFDOOFDOOHGVHHVDZ
+
+WHOOWROGVD\VDLGDVNDVNHG
+
+It was New Year’s Day. Ruwan ––––––––––––––––an old man at the gate. He–––––––––––––––– this to his father. The father –––––––––––––––– Ruwanto find out what the old man ––––––––––––––––––. The old man ––––––––––Ruwan that he –––––––––––––––– something to eat. Ruwan –––––––––––––him inside the house. He –––––––––––––––– him that they had lots of thingsto eat. Ruwan ––––––––––––––– his mother that he ––––––––––––––– toshare the food with his visitor. His mother ––––––––––––––– that it was a verygood thing to do on New Year’s Day.
+
+881,7
+
+:ULWHFill in the speech bubbles.
+
+I’am hungry.
+
+He is hungry.
+
+- 49 -
+
+/(66215HYLVLRQ
+
+)LQGDQGZULWH
+
+cobbler
+
+People you meet in the town/cityPlaces where you can buy things
+
+supermarket
+
+cinema
+
+Places of enjoyment and recreation Places where you get services
+
+bank
+
+book shop
+
+sports club
+
+sweeper
+
+pharmacy
+
+railway station
+
+waitress
+
+grocery stores
+
+textile shop
+
+loader
+
+waiter
+
+stadium
+
+supermarket
+
+traffic warden
+
+post office
+
+filling station
+
+cinemabankcobbler
+
+medical centre
+
+children’s park
+
+library
+
+15(9,6,21
+
+- 50 -
+
+- 51 -
+
+- 52 -
+
+/(66215HYLVLRQ
+
+0DWFKDQGZULWH
+
+calledplayed
+
+enjoycall
+
+play
+
+make
+
+offer
+
+visit
+
+madeoffered
+
+repair
+
+visited
+
+repairedenjoyedbecomewearwore
+
+:ULWH
+
+make––––––––––––––––––––
+
+wish––––––––––––––––––––
+
+prepare––––––––––––––––––––
+
+celebrate––––––––––––––––––––
+
+cut––––––––––––––––––––
+
+PresentPast
+
+25(9,6,21
+
+became
+
+- 53 -
+
+/(66215HYLVLRQ
+
+5HDGILQGDQGZULWH
+
+1.Write the name of a festival celebrated by the Muslims.
+
+2.Name three things you need to make a Vesak lantern.
+
+3.Write three special games played at New Year.
+
+4.What is the name of the Hindu festival at which people light a lot of oil lamps?
+
+5.At this festival people treat cows and bulls in a special way.
+
+6.A festival at which people decorate a special tree with lights.
+
+7.A festival celebrated by both Sinhala and Tamil people.
+
+35(9,6,21
+
+- 54 -
+
+/(66215HYLVLRQ
+
+)LOOLQWKHEODQNVSDFHVDQGUHDG
+
+)HVWLYDOV
+
+$SULO1HZ<HDU&KULVWPDV7KDL3RQJDO'HFHPEHU5DPD]DQWK'HHSDYDOL
+
+Sri Lankans celebrate many kinds of festivals. The –––––––––––––––––––
+
+––––– is celebrated by both Sinhala and Tamil people. It is celebrated in
+
+–––––––––––––––––––––––––––––––. The most important festival
+
+celebrated by the Muslims is the –––––––––––––––––––––– festival. They
+
+celebrate it at the end of the fasting period. The Christians celebrate––––––
+
+–––––––––––––––––––––––––––––––––– on the ––––––––––––––––––––
+
+of ––––––––––––––––––––––––every year. ––––––––––––––––––––––––
+
+and–––––––––––––––––––––––––––––––– are two festivals celebrated by
+
+the Tamil people. People enjoy themselves during these festivals.
+
+35(9,6,21
+
+- 55 -
+
+/(66216SRUWVDQG+REELHV
+
+&RPSOHWHWKHGLDJUDP
+
+swimmingbadmintoncricket
+
+table tennisellerunning
+
+sportsbothhobbies
+
+/RRNVD\DQGZULWH
+
+Ŗ What will they do?
+
+Ŗ Who will they play with?
+
+cycling
+
+paintingstamp collectinggardening
+
+Kusumbadmintongardeningswimmingcricket
+
+Nizartable tenniscyclingcricket Ruwanbadmintontable tennisrunningcyclingcricket Meenagardeningswimmingcricket
+
+MondayTuesdayWednesday ThursdayFriday
+
+e.g. On Monday Kusum will play badminton with Ruwan. (play badminton)1. On Tuesday Nizar –––––––––––––––––––––––––––– (play table tennis)2. On Wednesday Kusum ––––––––––––––––––––––. (go swimming)3. On Thursday Nizar –––––––––––––––––––––––. (go cycling)4. On Friday everyone –––––––––––––––––––––––––. (play cricket)
+
+181,7
+
+Sports and Hobbies
+
+- 56 -
+
+/(66216SRUWVDQG+REELHV
+
+Test your knowledge of sports.
+
+Listen and complete the grid
+
+netball practice
+
+at 4.00p.m.
+
+MondayTuesdayWednesdayThursdayFriday
+
+Do you know?Do you know?Do you know?Do you know?Do you know?
+
+1.How many players are there in a cricket team?
+
+2.Name three games played with a racket.
+
+3.In which game do you use a shuttlecock?
+
+181,7
+
+- 57 -
+
+/(66216SRUWVDQG+REELHV
+
+/RRNDQGZULWH
+
+Swimming
+
+elle
+
+badminton
+
+cricket
+
+most
+
+least
+
+many
+
+few
+
+1. –––––––––––––––––––––––––––––– students like to play cricket.
+
+2. ––––––––––––––––––––––––––––––– students like to play badminton.
+
+3. A –––––––––––––––––––––––––––––– students like to play elle.
+
+4. Swimming is the sport liked by the –––––––––––––––––––––––––––––number of students.
+
+'RWKHSX]]OH
+
+1
+
+3
+
+2
+
+4
+
+281,7
+
+- 58 -
+
+/(66216SRUWVDQG+REELHV
+
+'RDVXUYH\
+
+N$VN\RXUIULHQGVDQGILOOLQWKHJULG
+
+.92EDE96DA@CED6G6?EJ@F=:<6>@DE
+
+Name
+
+50 m
+
+100 m
+
+High jump
+
+Long jump
+
+50m x 4 relay
+
+100m x 4 relay
+
+)LOOLQWKHJULG
+
+1DPHRIWKHJDPH1RRIVWXGHQWV
+
+ > > :89;F>A#@?8;F>A >IC6=2J >IC6=2J
+
+C2H2A:6492CEFD:?8E9623@G6:?7@C>2E:@?
+
+281,7
+
+- 59 -
+
+Use ‘was’ or ‘were’
+
+/(66216SRUWVDQG+REELHV
+
+:ULWH
+
+Write the announcement for the 200 metres race.
+
+We’re now going to begin
+
+Vijaya Vidyalaya
+
+Programme
+
+2.15 p.m.50 metres race
+
+2.30 p.m. 50 m x 4 relay race
+
+2.45 p.m. 100 metres race
+
+3.00 p.m. 200 metres race
+
+3.15 p.m.Interval
+
+3.45 p.m. 100m x 4 relay race
+
+4.00 p.m. Sack race
+
+4.15 p.m.Drill display
+
+4.45 p.m. prize giving
+
+The annual inter-house Sports Meet of
+
+Vijaya Vidyalaya started at 1.15 p.m.
+
+The first event ––––––––––––––––––––
+
+the 50 metres race. The next two events
+
+–––––––––––– the 50 m x 4 relay race
+
+and the 100 m race. The 200m race
+
+––––––––––the next. The interval
+
+––––––––––after that. After the interval
+
+there –––––––––––––––––– two races
+
+– the 100 m x 4 relay race and the sack
+
+race. Next there––––––––a drill display.
+
+At last there –––––––––– the prize
+
+giving.
+
+&RPSOHWHWKHUHSRUW
+
+381,7
+
+- 60 -
+
+/(66216SRUWVDQG+REELHV
+
+:ULWH
+
+Write the programme of the last sports meet in your school.
+
+7LPH(YHQW
+
+2.00 p.m.
+
+3.45 p.m.
+
+5.15 p.m.
+
+100 metres race
+
+Interval
+
+Prize giving
+
+381,7
+
+- 61 -
+
+/(66216SRUWVDQG+REELHV
+
+&RPSOHWHWKHGLDORJXH
+
+heldstartingsportsgoinghobbies
+
+firstanythingo’clockexhibition
+
+Hello, Meena. Where are you––––––––––––––––––– (1)?
+
+I am going to the ––––––––––––––––––(2).
+
+What exhibition?
+
+It’s the annual book exhibition –––––––––––(3) by the villagecouncil library. Today is the –––––––––––––(4) day.
+
+What time is it––––––––––––––––––––––––––––––(5)?
+
+At 9 –––––––––––––––––––––––––––––––––––– (6) in the morning.
+
+Are you going to buy –––––––––––––––––––––––––(7) special?
+
+Yes, I want to buy a book on –––––––––––––––– (8). Look it’s almostnine. I’am going. Are you coming?
+
+Yes. I want to buy a book about ––––––––––––(9). Let’s go together.
+
+0DWFKDQGZULWHWKHDQVZHUV
+
+What are you going to see?TVdo?cricketwatch?a bicycle racePlay?my homeworkI’ am going to see–––––––––––––––––––––––––––––––––––––––––––––––.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+481,7
+
+- 62 -
+
+/(66216SRUWVDQG+REELHV
+
+0DWFKDQGZULWH
+
+$%
+
+bicyclecricketfootballtelevisionbookflower
+
+showmatchprogrammeexhibitiongamerace
+
+:ULWHSelect a sport and a hobby you like most. Write four sentences about each.
+
+My favourite sport––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+My hobby––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+481,7
+
+- 63 -
+
+/(66216SRUWVDQG+REELHV
+
+&RPSOHWHWKHOLVWV
+
+javelin throwtennishigh jumplong jumppole vaultshot putfootballcrickethockeydiscus thrownetballvolleyballswimmingelletable tennis
+
+Individual games /sportsGames that need twoor four players to playGames that need twoteams to play
+
+'RWKHSX]]OH
+
+dh
+
+s
+
+b
+
+r
+
+581,7
+
+- 64 -
+
+- 65 -
+
+/(66216SRUWVDQG+REELHV
+
+3UDFWLVH
+
+Look at the Pupil’s book.Ask and answer.
+
+Wherewas
+
+Roy Nizar Kusumon Friday
+
+Wednesday afternoon?
+
+7DEOH
+
+He/Shewasin
+
+the swimming pool.the school playground.the school hall.the stadium.
+
+7DEOH
+
+---------------------------------------------------------------------------------------------------------------------------?
+
+---------------------------------------------------------------------------------------------------------------------------.
+
+WherewasKusumonThursday afternoon?
+
+7DEOH
+
+7DEOH
+
+He/Shewasat the..................
+
+7DEOH
+
+Whatwashe/shepractising?
+
+---------------------------------------------------------------------------------------------------------------------------?
+
+---------------------------------------------------------------------------------------------------------------------------.
+
+7DEOH
+
+He/Shewaspractising..................
+
+---------------------------------------------------------------------------------------------------------------------------?
+
+---------------------------------------------------------------------------------------------------------------------------.
+
+681,7
+
+- 66 -
+
+/(66216SRUWVDQG+REELHV
+
+$VN\RXUIULHQGV
+
+Swimming Volleyball BadmintonNetballCricket
+
+Monday
+
+Tuesday
+
+Wednesday
+
+Thursday
+
+Friday
+
+Saturday
+
+Sunday
+
+:ULWHVHQWHQFHV
+
+Write sentences using information from the table.
+
+1.Saman was at the playground on Monday. He was playing volleyball.2.––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––3.––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––4.––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––5.––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––6.–––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Saman
+
+681,7
+
+- 67 -
+
+/(66216SRUWVDQG+REELHV
+
+/LVWHQDQGILOOLQWKHJULG
+
+NameSportWhere
+
+:ULWH
+
+Write sentences using information from the grid.
+
+1.Marion Jones was the winner of the 100 metres and 200 metresraces at the Olympic Games.
+
+2.–––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+3.–––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+4.–––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+781,7
+
+- 68 -
+
+/(66216SRUWVDQG+REELHV
+
+5HDGDQGXQGHUOLQH
+
+Look at the list of games/sports. Which of these does your school practise?
+
+Select and underline.
+
+Badminton basketball boxing cricket elle football hockeykabadi netball soft ball cricket table tennis
+
+volleyball––––––––––––– –––––––––––––––––––
+
+:ULWHDSDUDJUDSK
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Our school has a badminton team.
+
+881,7
+
+- 69 -
+
+/(66216SRUWVDQG+REELHV
+
+/LVWHQDQGQXPEHU
+
+What’s the game /sporting event?
+
+cricket
+
+swimming
+
+football
+
+relay
+
+:KDWZLOOWKH\QHHG"
+
+1. A:Sunil wants to play cricket.B:He will need a ball and a bat.
+
+2. A:Rajini wants to play hockey.B :She ––––––––––––––––––––––––––––––
+
+3. A:Niaz wants to play table tennis.B:––––––––––––––––––––––––––––––––––
+
+4. A:Samanmali wants to play football.B:––––––––––––––––––––––––––––––––––
+
+5. A:Sagara wants to play elle.B:––––––––––––––––––––––––––––––––––
+
+881,7
+
+- 70 -
+
+- 71 -
+
+/(66216SRUWVDQG+REELHV
+
+Amali wants to play badminton.
+
+Ruwan wants to play cricket.
+
+Meena wants to play hockey.
+
+Roy wants to play table tennis.
+
+e. g. Amali should take a racket, a shuttlecock and a net.
+
+1. Ruwan ––––––––––––––––––––––––––––––––––––––––––––––.
+
+2. Meena ––––––––––––––––––––––––––––––––––––––––––––––.
+
+3. Roy–––––––––––––––––––––––––––––––––––––––––––––––––.
+
+5HDGILQGDQGZULWH
+
+Ŗ :KDWVKRXOGWKH\ZHDUWDNHKDYH"
+
+If you want to play –––––––––––––––––––– you –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+Ŗ6HOHFWDJDPH$GYLVH\RXUIULHQGZKDWKHVKHVKRXOGZHDUWDNHKDYHWRSOD\ WKDWJDPH
+
+:ULWH
+
+181,7
+
+Sports and Hobbies
+
+- 72 -
+
+/(66216SRUWVDQG+REELHV
+
+6RUWDQGZULWH
+
+Ancient OlympicsModern Olympics
+
+1. both men and women can take part
+
+2. many games and sports
+
+6. winners received olive wreaths
+
+4. held only in Greece7. held in various countries
+
+3. only men could take part5. only a few games8. winners receive medals
+
+:ULWH
+
+The ancient Olympics were held only in Greece but the modern Olympicsare held in various countries. In the ancient Olympics there were
+
+–––––––––––––––––––––––––––––––––– but in the modern Olympics––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+281,7
+
+- 73 -
+
+/(66216SRUWVDQG+REELHV
+
+&RPSOHWHWKHVHQWHQFHV
+
+N:KDWGR\RXVD\ZKHQ
+
+J@F9FCED@>6@?6
+
+“––––––––––––––––––––––––––––”
+
+D@>6@?696=ADJ@F
+
+“––––––––––––––––––––––––––––”
+
+J@FH2?EE@E2=<E@D@>6@?6
+
+“––––––––––––––––––––––––––––”
+
+J@F>66E7C:6?5D
+
+“––––––––––––––––––––––––––––”
+
+'UDZDQGZULWH
+
+$
+
+%
+
+&
+
+'
+
+381,7
+
+- 74 -
+
+/(66216SRUWVDQG+REELHV
+
+5HDGILQGDQGZULWH
+
+N :KDW¶VWKHJDPH"
+
+ ?6652C24<6EE@A=2JE9:D82>6+9:D82>6:DA=2J65>@DE=J:?5@@CD 9:ED@>6E9:?8>256@7762E96CD@G6C2?6EE@E96@E96CA=2J6C
+
+–––––––––––––––––––––––––––––––––
+
+ ?6652D>2==A=2DE:432==E92E3@F?46DE@A=2JE9:D82>6 9:EE9632==H:E92D>2==C24<6E>256@7H@@5 E:D2?:?5@@C82>6A=2J65@?2E23=6
+
+––––––––––––––––––––––––––––––––––
+
+ A=2JE9:D82>6H:E9E6?@E96CD E:D2?@FE5@@C82>6A=2J65@?23:87:6=5 42?FD6>J96252?5766E3FE?@E>J92?5D
+
+––––––––––––––––––––––––––––––––––––––––
+
+ 92G6D:I@E96C8:C=D:?>JE62>H96? A=2JE9:D82>6.692G6E@
+
+AFEE9632==E9C@F892C:?8H:E92?6EE@D4@C62A@:?E–––––––––––––––––––––––––––––––––––––––––
+
+:ULWH
+
+.92E:DJ@FC72G@FC:E682>6
+
+.92EE9:?8D5@J@F?665E@A=2JE92E82>6
+
+@H>2?JA=2J6CD5@J@F?665E@A=2JE9682>6
+
+$J72G@FC:E682>6:DMMMMMMMMMMMMMMMMMMMMM ?665MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM ?665MMMMMMMMMMMMMMMMMMMM––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+481,7
+
+- 75 -
+
+/(66216SRUWVDQG+REELHV
+
+5HDGDQGPDWFK
+
+Look at the words in thick type in the pupil’s book.Match and write the words against their nearest meaning.
+
+1.A number of people working together as one. = ––––––––––––––––––––
+
+2.Something good and helpful.= –––––––––––––––––––––––––
+
+3.Quick movement of parts of the body tokeep them healthy.= –––––––––––––––––––––––––
+
+4.Resting and enjoying.= –––––––––––––––––––––––––
+
+5.Strong and fit in body.= –––––––––––––––––––––––––
+
+)LOOLQWKHEODQNV
+
+&RPSOHWHWKHVHQWHQFHVXVLQJZRUGVJLYHQLQWKLFNW\SHLQWKH3XSLO¶VERRN
+
+1.Sports and games help us to –––––––––––––––––––––––– our bodies.
+
+2.There are many –––––––––––––––––––––––––––––––– of sports andgames.
+
+3.In a team the players learn how to work in –––––––––––––––––––––––.
+
+4.Sports and games can be used as a –––––––––––––––––––––––––––.
+
+5.Sports and games give us ––––––––––––––––––––––––– bodies.
+
+581,7
+
+- 76 -
+
+/(66216SRUWVDQG+REELHV
+
+0DNH\RXURZQSODFDUG
+
+Cut, draw, colour, write, display, take
+
+N@>A=6E62?5@C56C
+
+––––––––––––––2D=@82?
+
+MMMMMMMMMMMMMME96A:4EFC6
+
+MMMMMMMMMMMMMM2OI OA:646
+
+MMMMMMMMMMMMMMD@>642C53@2C5
+
+MMMMMMMMMMMMMM2A:4EFC6
+
+MMMMMMMMMMMMMM:E:?E964=2DDC@@>
+
+1. ––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+2. ––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+3. ––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+4. ––––––––––––––––––––––––––––––––––––––––––––––––––.
+
+keephealthysportsyou
+
+togethersportspeople3C:?8
+
+82>6Dstay2?5healthy
+
+play
+
+playfor82>6DC6=2I2E:@?
+
+681,7
+
+$UUDQJHDQGZULWH
+
+/(66216SRUWVDQG+REELHV
+
+/RRNDQGZULWH
+
+781,7
+
+M. Sinclair c Sangakkara b Dharmasena 20
+
+S. Jayasuriya c Parore b Oram 38
+
+Jayasuriya was
+
+Shield / Cup
+
+Venue:
+
+Date:
+
+Tickets:
+
+Vs
+
+Sinclair was the opening batsman. He was caught by Sangakkara off the bowling of Dharmasena. He scored twenty runs for New Zealand.
+
+- 77 -
+
+Make your own poster
+
+/(66216SRUWVDQG+REELHV
+
+881,7
+
+- 78 -
+
+:ULWH
+
+:ULWHWKHQXPEHUV
+
+:KDWGR\RXKDYHWRGRWRHQWHUWKHFRPSHWLWLRQ"
+
+&RPSOHWHWKHYRXFKHU
+
+0DQDJLQJ'LUHFWRU/RWXV$LUZD\V
+
+Write your address ( ) answer the three questions (1) cut of the coupon ( )write your name ( ) write the name of your school ( ) write the address of the company ( ) put it inside the envelope ( ) post the letter ( ) paste a stamp ( ).
+
+Question 1. Who won the first Olympic medal for Sri Lanka?.................................................................................Question 2: Who was the first Woman athlete to win an Olympic medal for Sri Lanka?.................................................................................
+
+Question 3: In which event did she win this medal?
+
+.................................................................................
+
+Name : .................................................................................
+
+Address : .................................................................................
+
+School : .................................................................................
+
+CONGRATULATIONS
+
+0DQDJLQJ'LUHFWR
+
+Send in your answer to:
+
+Olympic QuizLotus AirwaysP. O. Box: 1315Jetty StreetColombo 02.
+
+To (1) of (2)
+
+You are the lucky winner of the Olympic Quiz competition organised by
+
+(3)
+
+You will receive a
+
+(4)to the Olympic games held in
+
+(5)in (6).
+
+Fly Lotus Airways. We make you feel special.
+
+/05&4
+
+/05&4

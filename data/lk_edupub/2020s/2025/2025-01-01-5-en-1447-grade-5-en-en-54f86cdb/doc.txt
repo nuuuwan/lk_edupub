@@ -1,0 +1,2809 @@
+==== BLOCKS ==== 
+
+ENGLISH
+
+Workbook
+
+Grade
+
+5
+
+Educational Publications Department
+
+ii
+
+iiii
+
+First Print - 2019
+
+All Rights Reserved
+
+ISBN 978-955-25-0065-7
+
+Published by Educational Publications DepartmentPrinted by Savinda Graphic Systems (Pvt) Ltd, No. 145 UDA Industrial Estate,Katuwana Road, Homagama.
+
+iii
+
+iii
+
+iii
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha Apa Sri Lanka Namo Namo Namo Namo Matha Sundara siri barinee, surendi athi sobamana Lanka Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya Apa hata sepa siri setha sadana jeewanaye matha Piliganu mena apa bhakthi pooja Namo Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha Oba we apa vidya Obamaya apa sathya Oba we apa shakthi Apa hada thula bhakthi Oba apa aloke Apage anuprane Oba apa jeevana we Apa mukthiya oba we Nava jeevana demine, nithina apa pubudukaran matha Gnana veerya vadawamina regena yanu mana jaya bhoomi kara Eka mavakage daru kela bevina Yamu yamu vee nopama Prema vada sema bheda durerada Namo, Namo Matha Apa Sri Lanka Namo Namo Namo Namo Matha
+
+iv
+
+iviv
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+J¸ uõ´ ©UPÒ |õ©õ÷Áõ®Jß÷Ó |õ® ÁõÊ® CÀ»®|ß÷Ó Eh¼À Kk®Jß÷Ó |® S¸v {Ó®
+
+AuÚõÀ \÷Põuμº |õ©õ÷Áõ®JßÓõ´ ÁõÊ® ÁÍ¸® |õ®|ßÓõ´ CÆ CÀ¼Û÷» |»÷© ÁõÌuÀ ÷Ásk©ß÷Óõ
+
+¯õÁ¸® Aß¦ P¸øn²hß JØÖø© ]ÓUP ÁõÌ¢vkuÀ ö£õßÝ® ©o²® •zx©À» & Ax÷Á ¯õßÖ ©È¯õa ö\ÀÁ©ß÷Óõ.
+
+BÚ¢u \©μU÷Põß PÂøu°ß ö£¯º¨¦.
+
+v
+
+v
+
+v
+
+vi
+
+vivi
+
+Foreword
+
+The world is modernized day by day. It is transformed every second. It is the education,
+
+which guides you to understand this phenomenon, preserve the good and confront the
+
+challenges of the changing world with strength. It is our objective to provide you with
+
+competencies required for you to work collaboratively with others, to adapt to the
+
+environment and the world of work, to spend the free time enjoyably and to become a citizen
+
+with a balanced personality.
+
+The Educational Publications Department is dedicated to produce learning tools that would
+
+assist you to become a person with a balanced personality who would be able to develop
+
+positive relationships with national and international community.
+
+By now, we have offered you about 25 types of textbooks from grades 1-4 under the new
+
+curriculum implemented from 2016. I would like to remind you that you should make the
+
+maximum use of these textbooks and protect them well. I wish you all the best to enter the
+
+future world with pride by developing your skills and potentials through the use of this new
+
+textbook that is introduced for 2020.
+
+I would like to bestow my sincere thanks on the members of the editorial and writer boards as
+
+well as on the staff of the Educational Publications Department who have strived to offer this
+
+textbook to you.
+
+W. M. Jayantha Wickramanayaka,
+
+Commissioner General of Educational Publications,
+
+Educational Publications Department,
+
+Isurupaya,
+
+Battaramulla.
+
+2019.04.10
+
+vii
+
+vii
+
+vii
+
+Monitoring and SupervisionW.M. Jayantha Wickramanayaka - Commissioner General of Educational Publications Educational Publications Department
+
+Direction
+
+W.A. Nirmala Piyaseeli - Commissioner (Development) Educational Publications DepartmentCo-ordination
+
+W. Indumini Darshika - Assistant Commissioner
+
+Educational Publications Department
+
+Panel of Editors
+
+Dr. Chitra Jayathilake - Senior Lecturer - Grade I
+
+Department of English
+
+University of Sri Jayewardenepura
+
+B.M. Weerasuriya - Director of Education
+
+Bilingual Education Branch
+
+Ministry of Education
+
+H.A Biyantha Kumari Wijepala - Assistant Lecturer
+
+National Insitute of Education
+
+Maharagama
+
+W. Indumini Darshika - Assistant Commissioner
+
+Educational Publications Department
+
+Panel of Writers
+
+Lakkhana Rambukwella - Teacher
+
+WP/Pili/ Lankasabha Vidyalaya
+
+Moratuwa
+
+Madhuri Kannangara - Regional English Support Centre,
+
+Kandy,
+
+Peradeniya NCOE,
+
+Penideniya.
+
+viii
+
+viiiviii
+
+E.M. Sandhaya Napagoda - In-service-Adviser (English) English and Foreign Languages Branch Ministry of Education
+
+N. Krishanthi Shiwanthika - Teacher
+
+Maris Stella College
+
+Negombo
+
+B.M. Jayamali Dariju - Teacher
+
+Newstead College
+
+Negombo
+
+K.P.I.P. Karunanayaka - Lecturer
+
+Pasdunrata National College of Education
+
+Proof Reading
+
+Jayalath Wickramasinghe - Teacher Eheliyagoda National CollegeLanguage Editing
+
+E.A. Amarasena - Parlimentary Interpreter Illustrations
+
+K.A. Saman Kalubowila - Lecturer Hapitagama National College of Education Mirigama
+
+Cover Designing
+
+D. M. Jayani Nisansala Dissanayaka - Educational Publications Department
+
+Computer Designing & Formating
+
+D. M. Jayani Nisansala Dissanayaka - Educational Publications Department
+
+ix
+
+ix
+
+ix
+
+1 Our motherland Sri Lanka 1 - 11
+
+2 Nature is our friend 12 - 22
+
+3 Caring and sharing23 - 33
+
+10 Our future117 -133
+
+Let's celebrate434 - 42
+
+5 Let's enjoy sports43 - 56
+
+Healthy living657 - 68
+
+7 A day at the fair69 - 84
+
+8 Safety first85 -96
+
+9 Around the world97 -116
+
+CONTENTS
+
+1 Our motherland Sri Lanka
+
+Lesson 1
+
+Listen and complete the song.
+
+This land belongs to you.
+
+This land belongs to you.
+
+This land ……………….. to me.
+
+This land belongs to all of us,
+
+to live in ………………….///.
+
+Whatever the race may be
+
+whatever the ……………. or creed
+
+whatever the colour of our skin
+
+we’re all ………………………… .
+
+1
+
+The North, South, East and West
+
+the parts of one ……………….. ,
+
+to make it rich and beautiful
+
+let’s …………….. a helping hand.
+
+Lesson 2
+
+Ask and write.
+
+Good morning! What’s your name?
+
+Where do you come from?
+
+.............................................
+
+Sing the song and ask the students to complete the blanks.
+
+2
+
+I’m from .............................
+
+What's your province?
+
+I’m from the ……………………. Province.
+
+Lesson 3
+
+Write a paragraph about Sri Lanka.
+
+My Country Sri Lanka
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................3
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+4
+
+Lesson 4
+
+Draw a festive food item.
+
+5
+
+This is
+
+......................................................
+
+We make it for
+
+......................................................
+
+We make it with
+
+......................................................
+
+Lesson 5
+
+Fill in the blanks.
+
+e.g. :-1) tropical climate............
+
+2) ………….plants
+
+3) …………. flowers
+
+4) ………….birds
+
+5) …………..water
+
+Ask the students to read the paragraph in lesson 5 of the textbook and fill in the blanks.
+
+6
+
+Lesson 6
+
+Find words.
+
+LetterName of a girl / b oyTown or villageName of a fruite.g.:AAmalAngodaApple
+
+7
+
+Give a letter of the alphabet to the students. Ask them to write a name, town or village and a fruit starting with that letter. Give several letters.
+
+Lesson 7
+
+Find the word and write.
+
+e.g. :- chain
+
+....................
+
+....................
+
+....................
+
+....................
+
+....................
+
+....................
+
+....................
+
+....................8
+
+....................
+
+....................
+
+....................
+
+....................
+
+....................
+
+....................
+
+....................
+
+9
+
+Lesson 8Let’s play a game.
+
+Start
+
+goose
+
+Take the short cut.
+
+push
+
+Miss a turn.
+
+fullbluebull
+
+good
+
+Take the short cut.
+
+movie
+
+foodTake an extra turn.rule
+
+flew
+
+zoo
+
+Move back one space.
+
+schoolJulyMove ahead one space.
+
+suit
+
+glue
+
+round
+
+pool
+
+End
+
+10
+
+Ask the students to throw a dice and read aloud the word in the box. Continue the game. Then, ask them to write down three more words that have the same sound as ‘bull’ and ‘rule’.
+
+1) ........................................
+
+2) ........................................
+
+3) ........................................
+
+11
+
+12
+
+2 Nature is our friend
+
+Lesson 1
+
+Read and number.
+
+01. Take a pot. Fill it with soil and
+
+compost.
+
+02. Sprinkle the seeds. Cover them
+
+with soil.
+
+03. Water the seeds.
+
+04. Place the pot in a warm place.
+
+05. Wait for five or six days. Notice
+
+the buds.
+
+13
+
+14
+
+Ask the students to match the sentences with the pictures. Get them to bring necessary items to plant a seed at school.
+
+Lesson 2
+
+I. Complete the sentences.
+
+Trees are very useful.
+
+• They are home for ....................
+
+...............................
+
+...............................
+
+• They give us.............................
+
+...............................
+
+...............................
+
+• Trees need ...............................
+
+...............................
+
+...............................
+
+• Let’s...................them for the
+
+future.
+
+15
+
+II. Draw a picture of the tree described in the poem.
+
+16
+
+Lesson 3
+
+Write sentences.
+
+e.g. :-I can see a stream.
+
+17
+
+I can see .........................................
+
+There is ...........................................
+
+There are ........................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+18
+
+Lesson 4
+
+Find and circle the words.
+
+d
+
+sh
+
+eph
+
+er
+
+d
+
+k
+
+f
+
+i
+
+eldg wo
+
+l
+
+f
+
+z
+
+vi l
+
+l
+
+a
+
+gersy
+
+s
+
+h
+
+ee
+
+pt
+
+f
+
+o
+
+re
+
+s
+
+t
+
+m
+
+he
+
+l
+
+p
+
+tri
+
+ck
+
+g
+
+wolf
+
+field
+
+villagerssheep
+
+forest
+
+shepherd
+
+help
+
+trick
+
+19
+
+Lesson 5
+
+Listen and jump.
+
+ship
+
+sheep
+
+Take the students to the playground.Select two trees that are close to each other or place two chairs. Mark one as “ship” and the other as “sheep”.Ask the students to move to the tree according to the sound of the words.When the teacher says the word aloud students have to jump to the relevant tree.Words to read:ship sheep bit beatmill meal tin teensit seat pick peak still steal bin beanchip cheap lip leap Add more words.
+
+20
+
+Lesson 6
+
+Let’s make a poster.
+
+Craft Activity:
+
+Make a wall poster. Name it as “Our World”. Ask the students to bring a blue coloured Bristol board per group. Draw a circle in the middle and colour it in green. The blue board is the sky whilst the green circle is the Earth. Ask each group to draw or paste objects they see in the environment. Students can use the vocabulary learnt in the lesson to do this activity. You can also be a bit more creative such as sticking blue wool for rivers, glitter for stars, cotton wool for clouds, blue paint for seas and lakes, green for fields, etc. When everyone has finished, pin up the posters to the walls and go around the class asking questions about the things drawn or pasted on the Bristol board.
+
+Lesson 07
+
+Look and write.
+
+These animals come to our garden. Who are they?
+
+21
+
+22
+
+Lesson 08
+
+Think and write.
+
+How can you protect trees?
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+23
+
+3 Caring and sharing
+
+Lesson 1
+
+Draw a face and write.
+
+1. It's sunny. How do you feel?
+
+2. It’s rainy. How do
+
+you feel?
+
+3. It’s the interval. How
+
+do you feel?
+
+..............................
+
+..............................
+
+..............................
+
+24
+
+4. It’s thundering. How do
+
+you feel?
+
+5. It’s lightning. How do
+
+you feel?
+
+(happy, sad, thirsty, sleepy, afraid)
+
+Lesson 2
+
+Match the verbs with the pictures.
+
+..............................
+
+..............................
+
+25
+
+WATER
+
+WALK
+
+POLISH
+
+DUST
+
+MAKE
+
+TAKE
+
+IRON
+
+RECYCLE
+
+SWEEP
+
+PREPARE
+
+CLEAN
+
+HANG
+
+ARRANGE
+
+1. To …………the dog.
+
+2. To …………. the shoes.
+
+3. To ...........the plants.
+
+4. To ........... the windows.
+
+5. To ........... the floor.
+
+6. To
+
+........... the clothes out.
+
+7. To
+
+........... tea.
+
+8. To
+
+...........
+
+the
+
+clothes.
+
+9. To
+
+...........
+
+the table.
+
+10. To
+
+...........
+
+the bed.
+
+11. To
+
+...........
+
+paper,
+
+glass,
+
+plastic
+
+12. To
+
+........... the
+
+ornaments.
+
+13. To
+
+...........
+
+the
+
+rubbish out.
+
+26
+
+Lesson 3
+
+Now prepare a Get- Well Soon card.Display it in the class. / Paste it in your workbook.
+
+Complete the following message.
+
+To ...........................
+
+...............................................................
+
+...............................................................
+
+...............................................................
+
+...............................................................
+
+...............................................................
+
+...............................................................
+
+...............................................................
+
+From...............................
+
+27
+
+Lesson 4
+
+Write about your new friend.
+
+1. .................................................
+
+......................................................
+
+2. .................................................
+
+......................................................
+
+3. .................................................
+
+......................................................
+
+4. .................................................
+
+......................................................
+
+5. .................................................
+
+......................................................
+
+6. .................................................
+
+......................................................
+
+28
+
+Lesson 5
+
+Say the word and circle.
+
+th / sh / ch
+
+ch / th / sh
+
+ch / sh / th
+
+th / sh / ch
+
+ch / sh / th
+
+ch / th / sh
+
+29
+
+ch / sh / th
+
+th / sh / ch
+
+th / ch / sh
+
+Ask the students to identify the picture and say the name aloud. Ask them to circle the first two letters with which the name of the picture starts.
+
+30
+
+Lesson 6
+
+Complete the note.
+
+....../......./20....
+
+Dear ………………,
+
+We are going to donate .............
+
+............... to a Children ’s Home.
+
+I give a / an .................................
+
+Please bring a/an ...........................
+
+It’s a new experience for all of us.
+
+..................................
+
+Lesson 7
+
+Look and find the words. Read them
+
+aloud.
+
+............................
+
+1
+
+31
+
+............................
+
+2
+
+............................
+
+3
+
+............................
+
+4
+
+32
+
+............................
+
+5
+
+............................
+
+6
+
+(car, garage, father, card, carpet, arm)
+
+33
+
+Lesson 8
+
+Rewrite the sentences.
+
+e.g.:- My father is tall.
+
+.......... is tall.
+
+1. This ball is small.
+
+.............. is small.
+
+2. This rose is red.
+
+.............. is red.
+
+3. My brother is a policeman.
+
+.............. is a policeman.
+
+4. My Mother is a nurse.
+
+.............. is a nurse.
+
+5. Lucky is my dog.
+
+.......... is my dog.
+
+(It, He, She)
+
+He
+
+34
+
+4 Let’s celebrate
+
+Lesson 1Find and match.
+
+JanuaryFebruaryMarch
+
+DecemberNovemberOctober
+
+SeptemberAugustJuly
+
+AprilMayJune
+
+Deepavali
+
+Christmas
+
+Halloween
+
+Vesak
+
+May Day
+
+Kandy Esala Perahera
+
+Ramazan
+
+Sinhala and Tamil New Year
+
+Independence Day
+
+My birthday
+
+35
+
+Children’s Day
+
+My name is
+
+......................
+
+Children’s Day is on
+
+......................
+
+......................on Children’s Day.
+
+I like Children’s Day because
+
+.........................................................................................................................................................................
+
+...................... on Children’s Day.I like to have
+
+I like to
+
+e.g.:- We can play games.
+
+Complete.
+
+Lesson 2
+
+36
+
+Lesson 3
+
+Read the text and complete the chart.
+
+Thai PongalVesakRamazan Christmas
+
+When?
+
+Where do we go?
+
+What do we do?
+
+Food we make
+
+37
+
+Lesson 4
+
+Let’s create a class calendar.
+
+Recall the names of the months in English. Divide the class into 12 groups. Give each group a month to work on. Each group has to decorate and create a page for their month. Put all of the pages together and use this very special class calendar to mark down birthdays, holidays, and special events.
+
+38
+
+Lesson 5
+
+Write the questions and answers.
+
+01. ..................................................
+
+..................................................
+
+02. ..................................................
+
+..................................................
+
+03. ..................................................
+
+..................................................
+
+04. ..................................................
+
+..................................................
+
+05. ..................................................
+
+..................................................
+
+Ask the students to write the questions and answers in Lesson 5 of the textbook.
+
+39
+
+Lesson 6
+
+Read and complete.
+
+Name
+
+Age
+
+Lives in
+
+Award
+
+Year
+
+Conflict
+
+Raised funds for
+
+Ask the students to fill in the table after reading the text in Lesson 6 of the textbook.
+
+40
+
+Lesson 7
+
+Find and colour the words. There are
+
+ten words.
+
+qepwqqfunz
+
+wklxzereth
+
+zrazxnixga
+
+toyzsjezap
+
+balloonqmp
+
+fcwwnydtey
+
+ztfqgqswwx
+
+41
+
+Lesson 8
+
+Sort and write.
+
+hatplayhappyway
+
+42
+
+happy hat way parrot
+
+today say ladder lay
+
+hammer day gray cane
+
+jacket badge main carrot
+
+gain packet can lane
+
+43
+
+5 Let’s enjoy sports
+
+Lesson 1
+
+Find and name the sport.
+
+..............................
+
+..............................
+
+..............................
+
+44
+
+..............................
+
+..............................
+
+..............................
+
+..............................
+
+45
+
+Lesson 2Let’s play a game.Find someone whoStudent 01Student 02Student 03
+
+plays more than one sport.
+
+likes swimming.
+
+started doing a new sport.
+
+knows how to play chess.
+
+plays badminton.
+
+wants to become a cricketer.
+
+has won a prize in sports.
+
+likes to watch cricket matches.
+
+has met a famous sportsperson.
+
+46
+
+Lesson 3
+
+Think and write.
+
+1. Who is your favourite sports person?
+
+.................................................2. What does he or she play?
+
+.................................................3. Where is he / she from?
+
+.................................................4. How old is he / she?
+
+.................................................5. What team does he / she play for?
+
+.................................................6. Why do you like him / her?
+
+.................................................
+
+47
+
+Lesson 4I. Say aloud and then write.
+
+e.g: The first car is blue.
+
+• ....................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+48
+
+• ...................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+Get the students to say the position of the cars with ordinals.
+
+49
+
+II. Look and write.
+
+50
+
+e.g. :- The cafe is on the first floor.
+
+• ....................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+• ...................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+• ....................................................
+
+...................................................
+
+51
+
+Lesson 5
+
+Match and write.
+
+badminton, tennis, table tennis, basketball, hockey, rugby, football
+
+...........................
+
+.............................
+
+...........................
+
+.............................
+
+52
+
+............................
+
+.............................
+
+.............................
+
+53
+
+Lesson 6
+
+Read aloud and colour.
+
+spoondogmouse
+
+toy
+
+bugbee
+
+car
+
+up
+
+drum
+
+weekfour
+
+sun
+
+jump
+
+book
+
+pup
+
+uscat
+
+light
+
+Ask the students to read aloud and colour words that sound like “bug”.
+
+54
+
+Lesson 7
+
+Look and write.
+
+What are they doing?
+
+He is hitting.
+
+...............................
+
+55
+
+..............................
+
+...............................
+
+...............................
+
+...............................
+
+56
+
+Lesson 8
+
+Find and colour the sports words.
+
+BADMINTONT
+
+VSYHTHROWE
+
+QEWOMIUYTN
+
+CRICKETCRN
+
+ZIXKGJLKII
+
+NDNEBFGPOS
+
+UEAYEPASST
+
+YVZXWQHFDS
+
+57
+
+6Healthy living
+
+Lesson 11. Ask and answer.
+
+YouYour FriendWhat time do you get up?
+
+What do you eat for breakfast?
+
+Name a fruit that you like to eat.Do you play a sport/ game? What is it?
+
+How many glasses of water do you drink?What is your hobby?
+
+58
+
+2. What are your good health habits? Name them. Draw pictures.
+
+....................................................
+
+....................................................
+
+59
+
+Lesson 2
+
+Read and arrange in order.
+
+Let’s make Papaw Juice.
+
+60
+
+• Wash the papaw.
+
+• Add some sugar and salt. Blend them together.
+
+• Put it into a glass. Serve fresh.
+
+• Add lemon to taste.
+
+• Peel it.
+
+• Cut it into pieces. Put them into a jug.
+
+Lesson 3
+
+Read, find and write.
+
+• I'm sick.
+
+Who looks after me in hospital?
+
+rn
+
+eus
+
+61
+
+• There are many dry leaves under the trees. Who sweeps them?
+
+sp
+
+eeewr
+
+• I want to buy some medicine.
+
+Who sells medicine?
+
+r
+
+s p
+
+at
+
+mhcia
+
+• I have a toothache.
+
+Who treats me?
+
+de
+
+ttins
+
+62
+
+• I am not well.
+
+Who treats me?
+
+do
+
+trco
+
+Lesson 4
+
+Tick the correct box.
+
+1. I have a headache. • Take rest.
+
+• Play outside.
+
+2. I have a stomach ache. • Eat junk food.
+
+• Visit the doctor.
+
+3. I have a sore throat. • Drink cold water.
+
+• Gargle with salt water.
+
+63
+
+4. I have a toothache. • Go to the dentist.
+
+• Eat a lot of sweets.
+
+5. I have a cold and a fever. • Play outside.
+
+• Get plenty of rest.
+
+Lesson 5
+
+Complete.
+
+The Shopping List
+
+Something salty
+
+Something sweet
+
+A green vegetable
+
+A fruit
+
+64
+
+A type of fish
+
+A dairy product
+
+A box of something
+
+A spice
+
+Get the students to complete the table in groups. They need to find at least one food item for each category. As a further activity, ask the students to write five food items that can be made with the food they list.
+
+Lesson 6
+
+I. Find and write.
+
+65
+
+VitaminFound inUse
+
+66
+
+II. What would you like to eat for lunch? Draw them.
+
+Ask the students draw a healthy meal.
+
+67
+
+Lesson 7
+
+Match and write.
+
+..................
+
+..................
+
+..................
+
+..................
+
+..................
+
+(toothbrush, soap, handkerchief, nail cutter, shampoo)
+
+68
+
+Lesson 8Match and write.
+
+ch _ _ t
+
+n _t
+
+b _ n _ _
+
+r _ d
+
+t _ b _ e
+
+w _ _ l
+
+69
+
+7A day at the fair
+
+Lesson 11. Fill in the blanks.60 - sixty77 -61 -78 -62 - 79 - 63 -80 -64 -81 -65 -82 -66 -83 - eighty three67 -84 -68 -85 -69 -86 -70 -87 -71 -88 -72 -89 -73 -90 -74 -91 -75 -92 - ninety two76 -93 -
+
+70
+
+2. Find and write.
+
+Mother: How much is a clay pot?Pot seller: …………………………Mother: Here you are.Pot Seller: ………………………..
+
+Rs.62.00
+
+Mother: ..........................................?
+
+Coconut seller: Fifty five rupees.
+
+Mother: Here’s seventy rupees.
+
+Coconut seller: ..................................
+
+Rs.55.00
+
+71
+
+Senuri : Mother, can I have a boiled corn?
+
+Mother: …………………………………………….
+
+Corn Seller: That’ll be twelve rupees.
+
+Mother: ………………………………………….
+
+Corn Seller: Here’s your change.
+
+Rs.12.00
+
+Alright. A corn, please.
+
+Here’s twenty rupees.
+
+How much is a coconut?
+
+It’s sixty two rupees.
+
+Here’s your change of fifteen rupees.
+
+Thank you, madam.
+
+72
+
+Lesson 2Listen to the announcement and match.
+
+Rs. 60.00
+
+Rs. 100.00
+
+Rs. 85.00
+
+Rs. 35.00
+
+Rs. 15.00
+
+73
+
+Lesson 3Listen and circle the pictures.
+
+Lesson 41. Rewrite the sentences given for lesson 4 in the textbook.1) I. .................................................II. .................................................III. .................................................IV. .................................................
+
+Listening texts are on page 98 of the textbook.
+
+74
+
+2)
+
+I. .................................................
+
+II. .................................................
+
+III. .................................................
+
+IV. .................................................
+
+2. Write 5 sentences about the picture.
+
+e.g. :- A girl is buying an ice-cream.
+
+75
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+Lesson 5
+
+Read the advertisement and
+
+complete the table.
+
+76
+
+"A NIGHT OF MAGIC”MAGIC SHOWon Saturday 20th August from 7.00 p.m. to 9.00 p.m.at the Community Hall
+
+Entrance Free
+
+Event
+
+Date
+
+Time
+
+Place
+
+77
+
+Lesson 6
+
+Trace the coins.
+
+Five cents
+
+Fifty cents
+
+One rupee
+
+Five rupees
+
+Ten rupees
+
+78
+
+Lesson 7
+
+i. Complete the puzzle.Read the
+
+words aloud.
+
+Across
+
+2
+
+4
+
+Down
+
+1
+
+2
+
+3
+
+1
+
+4
+
+3
+
+2
+
+79
+
+ii. Find and colour the hidden words. Write the words in the correct column and read them aloud.
+
+ABFOURCDPETFPOTTEROGOHIJNORTHLSTOPMNOPKQ
+
+SRSTUTOEENVWXSHOPYTOZBPORTERES
+
+FLOTTERYGEHLOCKIJKLMNOBEFORERS
+
+80
+
+potfour
+
+Lesson 8
+
+i. Underline the letters that give “f” sound in these words.
+
+81
+
+e.g.pharmacy
+
+dolphin
+
+alphabet
+
+telephone
+
+photograph
+
+elephant
+
+ii. Read and sort out.
+
+party telephone pole
+
+pink alphabet picture
+
+dolphin trophy page
+
+painter typhoon physician
+
+orphan park paper
+
+82
+
+“f”e.g. :- telephone
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+“p”e.g. :- pole
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+83
+
+iii. Rewrite the words correctly. Read them aloud.
+
+.......................
+
+ueenq
+
+.......................
+
+arquert
+
+.......................
+
+qtuil
+
+84
+
+.......................
+
+iluqa
+
+.......................
+
+illqu
+
+85
+
+8Safety first
+
+Lesson 1Listen and number.
+
+Listening text is on page 96 of the workbook.
+
+86
+
+Lesson 2
+
+Find and write.
+
+Teacher: Good afternoon, children.
+
+Students: .........................................
+
+........................................
+
+Teacher: So, how are you today?
+
+Students: ........................................
+
+........................................
+
+Teacher: I’m fine too. Thanks.
+
+Kalpa: Teacher, Nizam won the
+
+first place in the 100 metres
+
+race.
+
+Teacher: .........................................
+
+........................................
+
+Nizam: Thank you, teacher.
+
+Teacher: By the way, Rasini, what
+
+happened to your arm?
+
+87
+
+Rasini: .......................................
+
+.......................................
+
+Teacher: Be careful when you play.
+
+Rasini: Yes, teacher.
+
+Teacher: ........................................
+
+.......................................
+
+Rasini: Thank you, teacher.
+
+Take care of yourself, Rasini. Get well soon.
+
+I fell down in the playground.
+
+That’s great. Congratulations!
+
+We’re fine, thank you. How are you, teacher?
+
+Good afternoon, teacher.
+
+88
+
+Lesson 3
+
+Select one of the instructions from the flyer in the textbook. Prepare a poster on preventing sports injuries.
+
+89
+
+Lesson 4
+
+Write sentences about the pictures in the textbook.
+
+Mother
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................Sister
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+90
+
+Brother
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................Grandmother
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+91
+
+Lesson 5
+
+Read and colour.
+
+Cross the road
+
+Don’t cross the road.
+
+Stop!
+
+92
+
+Get ready to stop/move.
+
+Go!
+
+Lesson 6
+
+Listen and number.
+
+93
+
+Lesson 7
+
+Sort and write.orange corn storm olivetorch cord mop torndot ostrich moth doorsock fort toss bornox more
+
+Listening text is on page 96 of the workbook.
+
+94
+
+1. job
+
+2. ........................
+
+3. ........................
+
+4. ........................
+
+5. ........................
+
+6. ........................
+
+7. ........................
+
+8. ........................
+
+9. ........................
+
+10. ........................
+
+1. port
+
+2. ........................
+
+3. ........................
+
+4. ........................
+
+5. ........................
+
+6. ........................
+
+7. ........................
+
+8. ........................
+
+9. ........................
+
+10. ........................
+
+Lesson 8
+
+Write 5 sentences about the picture in the Lesson 8 of the textbook.
+
+95
+
+There is
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+96
+
+Listening Texts - Workbook Unit 8
+
+Lesson 1
+
+1. Don’t put objects into your ears or
+
+nose.
+
+2. Don’t play with fire.
+
+3. Don’t watch TV too closely.
+
+4. Don’t lean out of low walls.
+
+Lesson 6
+
+1) No entry. 2) Turn right.3) No parking. 4) Falling rocks ahead.5) Elephants cross the road.6) Don’t blow the horn.
+
+97
+
+9Around the world
+
+Lesson 11) Every country has a national flag. Imagine and draw a flag to the whole world.
+
+98
+
+2)What can you see in the picture? Colour the words in blue.What are the children doing? Colour the words in red.
+
+a boya bird
+
+flying
+
+talking
+
+bookglobe
+
+paintingrunninga girl
+
+99
+
+Make sentences to describe the picture.
+
+A bird is …………..……………………………
+
+…………………….. A…………………………
+
+is …………………………….………….........
+
+A.....................and a……………… are
+
+......................................................
+
+......................................................
+
+A boy.............................................
+
+Lesson 2
+
+Match the words with the correct pictures.
+
+100
+
+earth
+
+flags
+
+world map
+
+famous places
+
+people
+
+1
+
+2
+
+3
+
+4
+
+5
+
+101
+
+Write about ‘Our World’.
+
+....................................................................................................................................
+
+............................................................................................................................................................................................................................................................................................................
+
+....................................................................................................................................
+
+....................................................................................................................................
+
+102
+
+Lesson 3
+
+G
+
+Write for countries, for nationalities
+
+and for greetings
+
+CN
+
+India
+
+Ayubowan
+
+American
+
+Japanese
+
+Hi
+
+Sri Lanka
+
+Africa
+
+Namaste
+
+Japan
+
+Indian
+
+Konnichi wa
+
+Hello
+
+United Kingdom
+
+African
+
+Sri LankanUnited States of AmericaEnglish
+
+103
+
+Mark the countries in lesson 3 on the map.
+
+Draw and introduce yourself.
+
+....................................
+
+I'm..............................
+
+I'm from......................
+
+....................................
+
+I'm..............................
+
+....................................
+
+104
+
+Lesson 4Read the poem and fill in the blanks.
+
+The SquirrelWhisky. ......................Hippity hop.Up he goesto the tree ..........Whirly, ...............round and ...............Down he scampersto the ground.Furly. ...............What a tailTall as a feather.Brood as a ...............Where’s his supper?In the shell.Snop. Cracky outfit fell. Annonymous
+
+105
+
+Prepare an ‘animal’ bookmark. Find and write the name of the animal. Draw a picture for each animal.
+
+I'm a little Penguin
+
+black and white.
+
+Stout and fluffy.
+
+What a sight!
+
+I can’t fly
+
+but I love to swim.
+
+So I’ll waddle to the water and
+
+dive right in!
+
+......................
+
+106
+
+Polar bear, Polar bear,
+
+where will you sleep?
+
+I will sleep in my cave
+
+until I’m ready to eat!
+
+......................
+
+107
+
+I know a giraffe
+
+with a neck that’s real high.
+
+She stretches and stretches
+
+till it reaches the sky.
+
+Sky lives on the plains
+
+with the elephants too.
+
+You also see her when you go to
+
+the zoo.
+
+......................
+
+108
+
+Lesson 5Read about Darci Lynne Farmer and complete the table.
+
+Name
+
+Date of birth
+
+Mother
+
+Father
+
+School
+
+109
+
+Talents
+
+Puppet friends
+
+Awards won
+
+The name of the puppet show
+
+What is your name?
+
+What can you do?
+
+110
+
+Lesson 6
+
+Complete and act out.
+
+Yes , seven,
+
+To climb Mount Everest.
+
+Mother : Where are you going?
+
+James: ………………....................
+
+Mother : Alone?
+
+James: ………………………….........
+
+Mother : You´re a brave boy.
+
+But you´re
+
+only………………...”
+
+Make a puppet along with your teacher. Use the puppet and act out a dialogue with your friend.
+
+111
+
+Tic-Tac-Toe
+
+Saturday aboutcupboard sevendear
+
+andafternoon Everestawaymount
+
+tosomebeautiful abird
+
+brotheratwheresisterare
+
+theproblembananaanimal item
+
+Play with a friend. Draw X or O over the words you read. Get five words in a row, in any direction to win.
+
+Lesson 7
+
+How can you make a difference?
+
+Draw and write.
+
+112
+
+I can be a good friend.
+
+I can be kind to others.
+
+...........................
+
+113
+
+Complete.
+
+Draw a picture of yourself.
+
+114
+
+All about me
+
+My name is.....................................
+
+I’m ...................... years old.
+
+I live in ..............................
+
+My school is .........................
+
+My country is ..................................
+
+115
+
+Lesson 8
+
+Complete the sentences.
+
+This is a ....................................................
+
+This is a ......................................................
+
+This is a ...................................................
+
+116
+
+Complete the sentences.
+
+Linda ..........................to school every day.Her friends..................to school.
+
+I................................to school every day.My friends..................to school....................
+
+117
+
+10Our future
+
+Lesson 1
+
+1) Describe your classroom...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+118
+
+lesson 2
+
+1) Listen and draw.
+
+119
+
+Ask the students to listen to the descriptions and to draw the objects in the correct position. E.g.: There is a vase on the table.
+
+2)Look and complete.
+
+1. My new house is …….…….. the bridge. 2. There is a river ………..... the bridge. 3. There is a boat ………...… the river.
+
+120
+
+4. The boat is sailing ……………… the bridge. 5. There are trees……………..the river banks.
+
+Lesson 31) Read and match. Write the correct number in the box.
+
+An eco-friendly festival
+
+Can sell
+
+Can participate in
+
+Can learn how to make
+
+Can enjoy
+
+4Have to bring
+
+Should leave
+
+121
+
+1toothpaste and shampoo
+
+2poster and speech ompetitions
+
+3Zero Waste
+
+4your cup and plate
+
+5no waste
+
+6bicycle rides
+
+7homemade food or garden products
+
+2) Read the text. Complete the sentences.
+
+122
+
+Zero Waste Festival
+
+Zero waste is an ............. .............festival.
+
+We can ............. ............. ............. or
+
+garden products.
+
+We can ................... bicycle..................
+
+We .............. ................. in
+
+.............competitions.
+
+We have to ...................cups and
+
+................
+
+Lesson 4
+
+1) Use the words and write sentences.
+
+123
+
+I can sing.
+
+I can't sing.
+
+dance
+
+swim
+
+draw
+
+124
+
+2) Select a topic. Draw your own cartoon.
+
+No foodNo water
+
+No electricityNo books
+
+125
+
+Lesson 5Complete the crossword puzzle.
+
+2.t
+
+1.g
+
+r
+
+r
+
+6.c
+
+c
+
+e
+
+r u
+
+3.
+
+o
+
+m
+
+5.c
+
+4.s
+
+r
+
+8.
+
+7.p
+
+u
+
+s
+
+126
+
+Across
+
+2
+
+5
+
+6
+
+7
+
+Down
+
+1
+
+3
+
+4
+
+6
+
+8
+
+Get the students to read the words aloud.
+
+127
+
+Lesson 6
+
+Read the advertisement in the
+
+textbook. Find and write the answers.
+
+1. What is the name of the event?
+
+..................................................
+
+2. Who organises the event?
+
+..................................................
+
+3. What offers are there for kids?
+
+..................................................
+
+4. What is the use of flying cars?
+
+..................................................
+
+5. Which item can take you to the
+
+history?
+
+..................................................
+
+6. How much is the discount?
+
+..................................................
+
+128
+
+What is your favourite item? Why do
+
+you like it?
+
+......................................................
+
+......................................................
+
+......................................................
+
+Lesson 7
+
+Write
+
+A greeting : ......................................
+
+Your friend’s name : .........................
+
+The names of three months : ...........
+
+.......................................................
+
+Three sentences about yourself: .......
+
+.......................................................
+
+.......................................................
+
+129
+
+......................................................
+
+......................................................
+
+Two questions to ask from your friend:
+
+......................................................
+
+......................................................
+
+......................................................
+
+Ask your friend two questions and
+
+write his / her answers.
+
+......................................................
+
+......................................................
+
+......................................................
+
+130
+
+• Select a picture. Write two
+
+sentences beginning with ‘There
+
+is.../ There are...’
+
+Read your sentences for your
+
+friend to write.
+
+My sentences.
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+131
+
+My friend’s sentences.
+
+......................................................
+
+......................................................
+
+......................................................
+
+......................................................
+
+132
+
+Lesson 8Draw and write.
+
+WHERE DO YOU SEE YOURSELF IN 2030?
+
+133
+
+HOW DO YOU SEE YOUR COUNTRY IN 2030?
+
+Keep this book safe and look at your book after 15 years…!!!
