@@ -1,0 +1,1573 @@
+==== BLOCKS ==== 
+
+128C»Á\¨ £õh¡À
+
+13
+
+ngsjpftpay;kpd; fhe;jtpaYk; J}z;lYk;
+
+13.1 Põ¢uÂ¯À¦
+
+13.1 J¸ ö£›¯ ªßPõ¢uzøu¨ £¯ß£kzv C¸®¦, E¸USa ]øuÄPÒ E¯ºzu¨£mk APØÓ¨£k® Âu® E¸ 13.1 CØ Põn¨£kQßÓx. CÆ Á¼ø©¯õÚ ªßPõ¢u® E¸USa ]øuÄPøÍ ªPÄ® Á¼ø©¯õPU PÁº¢x AÁØøÓ GÎuõP APØÓ EuÄQßÓx.
+
+E¸ 13.1 PÈÄ C¸®¦, E¸US xskPøÍ APØÖÁuØS ªßPõ¢uzøu¨ £¯ß£kzuÀ
+
+Põ¢u[PÒ •UQ¯©õP C¸ÁøP¨£k®. AøÁ ªßPõ¢u[PÐ® {ø»¯õÚ Põ¢u[PÐ©õS®. ªßPõ¢uzvß _¸ÎÞhõP ªß÷Úõmh® £õ²® Áøμ AU Põ¢uzvÀ Põ¢uÂ¯À¦ C¸US® A÷u÷ÁøÍ {ø»¯õÚ Põ¢uzvß Põ¢uÂ¯À¦ Auß Kº C¯À£õS®. AU Põ¢u C¯À¦ AØÖ¨÷£õÁvÀø». CÆÂ¸ ÁøPU Põ¢u[PÐ® £» E£Pμn[PÎÀ £À÷ÁÖ öuõÈÀPÐUS¨ £¯ß£kzu¨£kQßÓÚ. ªß ÷©õmhºPÎß ‰»® C¯[S® £» Ãmk E£Pμn[PÎ¾® ÷μõ÷£õ ÷£õßÓÁØÔ¾® ©¸zxÁzvÀ Põ¢u¨ £›Ä Â®£©õUPÀ (MRI) (Magnetic resonance imaging) ö£õÔ°¾® £À÷ÁÖ ªß, öuõÈÀ~m£ E£Pμn[PÎ¾® Põ¢u[PÒ £¯ß£kzu¨£kQßÓÚ. GÚ÷Á Põ¢u[PøÍ¨ £ØÔ¯ C¯À¦, ö\¯Ø£õk, £¯ß£õkPÒ £ØÔ¯ AÔøÁ¨ ö£ÖuÀ ªPÄ® £¯ÝÒÍuõP C¸US®.
+
+129C»Á\¨ £õh¡À
+
+AÈ¨£õß¤ÍõzvUS¨ ÷£øÚ ‰i
+
+Ó¨£º |õhõUPÒ
+
+wUSa]Phuõ]z xskPÒ
+
+¤ÍõzvUS¨ ö£õzuõßPÒ
+
+Phuõ]U PÆÂPÒ
+
+Áøμu¿]
+
+C¸®¦ BoPÒ
+
+Põ¨§]PÒ
+
+Ssl]PÒ
+
+E¸ 13.2 Põ¢uzvÚõÀ PÁμ¨£k® ö£õ¸ÒPÐ® PÁμ¨£hõu ö£õ¸ÒPÐ®
+
+÷©÷» E¸ 13.2 CÀ Põmh¨£mkÒÍ ö£õ¸ÒPÐUS A¸QÀ Põ¢uzøuU öPõsk ö\À¾® ÷£õx C¸®¦, E¸US, {UPÀ ÷£õßÓ Põ¢uz vμÂ¯[PÎÚõÀ EØ£zv ö\´¯¨£k® ö£õ¸ÒPÒ Põ¢u[PÎÚõÀ PÁμ¨£kQßÓÚ. ¤ÍõzvUS, ©μ®, Phuõ], Ó¨£º ÷£õßÓ vμÂ¯[PÎß ‰»® EØ£zv ö\´¯¨£k® ö£õ¸ÒPÒ Põ¢u[PÎÚõÀ PÁμ¨£kÁvÀø».
+
+13.1.1 è£‰îŠ ¹ô‹ (magnetic ﬁeld)
+
+JÆöÁõ¸ Põ¢uzøu²® _ØÔ Auß ö\ÀÁõUQØS Em£hzuUP öÁÎ Esk. CÆöÁÎ Põ¢u¨¦»® GÚ¨£k®. ö£õxÁõPU Põ¢u¨¦»® Pm¦»zvØS Em£hõx. AuøÚ |õ® £õºUP •i¯õx. GÛÝ® ÷ÁÖ Põ¢u® JßÔß ‰»÷©õ AÀ»x C¯[S® HØÓ® ‰»÷©õ AvÀ uõUPzøu HØ£kzu»õ®. £ÓøÁPÒ ÷£õßÓ Â»[SPÐ® ¦ÂUPõ¢u¨¦»zøuz u©x £¯n¨ £õøuø¯z wº©õÛ¨£uØS¨ £¯ß£kzxÁuõPU Psk¤iUP¨£mkÒÍx. |õ® vø\Põmiø¯¨ £¯ß£kzv J¸ SÔzu öÁÎ°À Põ¢u¨¦»® C¸UQßÓuõöÁÚz wº©õÛUP»õ®. vø\Põmi Gß£x _¯õwÚ©õPa _Ç¾©õÖ J¸ ö£õÖv «x ö£õ¸zu¨£mkÒÍ J¸ ]Ô¯ C÷»\õÚ Põ¢u©õS®. vø\Põmk® F] Gß£x ]Ô¯ Põ¢u©õP C¸US® A÷u÷ÁøÍ Ax ÷ÁÖ Põ¢uzvß ö\ÀÁõUS CÀ»õu÷£õx ÁhUS öuØSz vø\ ÁÈ÷¯ K´ÂÀ C¸UQßÓx.
+
+130C»Á\¨ £õh¡À
+
+÷uøÁ¯õÚ ö£õ¸Ò : vø\Põmi, Psnõizxsk, C¸®¦zxsk, Põ¢u®, ¤ÍõzvUSzxsk, ¤zuøÍzxsk
+
+NWNE
+
+SESWWE
+
+N
+
+S
+
+E¸ 13.3 vø\Põmi
+
+²vø\Põmiø¯ ÷©ø\ «x øÁzx AuØS Asø©°À Psnõizxsk, C¸®¦z xsk, Põ¢u®, ¤ÍõzvUSzxsk, ¤zuøÍz xsk BQ¯ ö£õ¸ÒPøÍU öPõsk Á¸® JÆöÁõ¸ \¢uº¨£zv¾® vø\Põmi°ß _mi°ß v¸®£ø» AÁuõÛ²[PÒ.
+
+E[PÍx AÁuõÚ[PøÍ¨ £vÄ ö\´²[PÒ.
+
+ö\¯Ø£õk 13.1
+
+C[S vø\PõmiUS Asø©°À J¸ Põ¢uzøuU öPõsk ö\À¾® ÷£õx ©õzvμ® vø\Põmi°ß _mi v¸®¦Áøu AÁuõÛUP»õ®. Põ¢uzvÚõÀ AuøÚa _ØÔU Põ¢u¨ ¦»® EshõUP¨£kQßÓx Gß£x Cv¼¸¢x öuÎÁõS®.
+
+E[PÐUSz öu›²©õ?
+
+C¯ØøPU Põ¢u® £ØÔ¨ £À»õ°μ® BskPÐUS •ßÚº AÔ¯¨£mi¸¢u A÷u÷ÁøÍ ^ÚºPÎÚõÀ Põ¢uz vø\Põmi Q.¤. 11 CÀ Psk¤iUP¨£mkÒÍx.
+
+vø\Põmi JßøÓ ¯õuõ°Ý® J¸ Põ¢u¨¦»zv÷» Jº SÔzu ¦ÒÎ°À øÁUS®÷£õx vø\Põmi°ß _mi A¨¦ÒÎ°À C¸US® Põ¢u¨ ¦»zvß vø\°À ÁÈ¨£kzu¨£kQßÓx. Põ¢u¨¦»zvß uõUPzvß ÂøÍÁõPz vø\Põmi°ß _mi v¸®¦QßÓx. Cøuz uÂμ öÁÆ÷ÁÖ ¦ÒÎPÎÀ Põ¢u¨¦»z-vß Á¼ø© ÷ÁÖ£h»õ®. CuØ÷PØ£ Põ¢u¨¦»® Gß£x £¸©Ý® vø\²® öPõsh Kº ö£ÍvPU Po¯©õS®.
+
+Põ¢u¨ ¦»®
+
+N
+
+N
+
+S
+
+S
+
+NWNE
+
+SESWWE
+
+N
+
+S
+
+NWNE
+
+SESW
+
+WE
+
+N
+
+S
+
+E¸ 13.4 vø\Põmi°ß ‰»® Põ¢u¨¦»zvß vø\ø¯U PõnÀ
+
+131C»Á\¨ £õh¡À
+
+13.2 ªßPõ¢uÂ¯À (Electromagnetism)
+
+ªß Phzv JßÔÞhõP ªß÷Úõmh® £õ²®÷£õx AUPhzvø¯a _ØÔU Põ¢u¨¦»® EshõQßÓx. Cz ÷uõØÓ¨£õk ªßPõ¢uÂ¯À GÚ¨£k®. ªß÷Úõmhz vß £¯ÚõPU Põ¢uÂøÍÄ EshõQßÓöuÚ 1819 CÀ öhß©õºU |õmk ÂgbõÛ íõßì QÔìŸß G\mk Gß£Áº •uß•u»õP PshÔ¢uõº.
+
+C¨÷£õx |õ® ÷|›¯ P®¤°À £õ²® ªß÷Úõmhzvß ÂøÍÁõPU Põ¢u ÂøÍÄ (¦»®) EshõQßÓø©ø¯ AÁuõÛ¨£uØSa ö\¯Ø£õk 13.2 Ia ö\´÷Áõ®.
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ :
+
+J¸ vø\Põmi, ÷|›¯ ö\¨¦UP®¤ JßÖ, ]» £ØÓ›PÒ, öuõkUS[ P®¤, BÎ
+
+S N
+
+B
+
+A
+
+●vø\Põmiø¯ ÷©ø\ «x øÁzx Auß _miø¯ ÁhUSz öuØSz vø\°À C¸US©õÖ u¯õºö\´x vø\PõmiUS ÷©÷» AuÚõÀ Põmh¨£k® vø\ ÁÈ÷¯ ö\¨¦U P®¤ AB ø¯ øÁ²[PÒ.
+
+S
+
+S N
+
+B
+
+A
+
+● AB °ß C¸ A¢u[PÎ¾® öuõkUS[ P®¤PÎß ‰»® £ØÓ›ø¯²® BÎø¯²® öuõk[PÒ.
+
+●BÎ S I ‰i AB °ÞhõP ªß÷Úõmhzøu¨ £õ¯a ö\´²[PÒ. vø\Põmi°ß _mi v¸®£ø»U PõmkÁøu AÁuõÛ²[PÒ.
+
+●Kmhzøu {Özv (BÎ S Iz vÓ¢x) vø\Põmi°ß _miø¯ AÁuõÛ²[PÒ. A¨÷£õx vø\Põmi°ß _mi ©Ö£i²® Bμ®£{ø»US Á¸Áøu AÁuõÛ²[PÒ.
+
+ö\¯Ø£õk 13.2
+
+132C»Á\¨ £õh¡À
+
+●C¨÷£õx vø\Põmi°ß _miUS ÷©÷» SÖUPõP P®¤ AB ø¯ øÁzx AB °ÞhõP Kmh® ö\À¾®÷£õx |øhö£Ö£ÁØøÓ AÁuõÛ²[PÒ. A¨÷£õx _mi Gvºz vø\°À v¸®¦ÁøuU Põn»õ®.
+
+S
+
+S N
+
+B
+
+A
+
+●vø\Põmi Põ¢u¨¦»z uõUPzvØS Em£k®÷£õx AuõÁx J¸ Põ¢u¨¦»® EshõS®÷£õx v¸®£ ø»U Põmk®. CuÚõÀ ÷©ØSÔzu ö\¯Ø£õmøha ö\´²® E[PÐUS J¸ Phzv°ÞhõP Kmh® £õ²®÷£õx Põ¢u¨¦»® EshõQßÓx Gß£x öuÎÁõS®.
+
+●C¨÷£õx £ØÓ›°ß •iÂh[PøÍ Ch®©õØÔ Kmhzvß vø\ø¯ Gvºz vø\°À £õ´ÁuØS u¯õºö\´²[PÒ. A¨÷£õx vø\Põmi°ß _mi Gvºz vø\°À v¸®¦Áøu }[PÒ Põn»õ®.
+
+CÆÁõÖ Kº KmhzøuU öPõsk ö\À¾® Phzvø¯a _ØÔ EshõS® Põ¢u¨¦»zvß vø\ Kmh® £õ²® vø\°À u[Q²ÒÍx. Gß£x E[PÐUS ÷©ØSÔzu ö\¯Ø£õmi¼¸¢x öuÎÁõS®.
+
+13.2.1 «ïKò èìˆF å¡PÛì£è I¡«ù£†ì‹ ð£ŒA¡ø¬ñò£™ à‡ì£°‹ è£‰îŠ¹ô‹
+
+÷|›¯ P®¤°ÞhõP ªß÷Úõmh® £õ²® ÷£õx AuøÚa _ØÔ E¸ÁõS® Põ¢u Âø\U÷PõkPÎß vø\ø¯ AÔÁuØS £¯ß£kzuUTi¯ ÂvPÒ Cμsk öuõhº£õP Bμõ´÷Áõ®.
+
+¥ ñ£‚vªõ™L¡ î‚¬èˆ F¼° MF (Maxwell’s cork Screw Rule)
+
+ªß÷ÚõmhzøuU öPõsk ö\À¾® Phzvø¯a _ØÔ E¸ÁõS® Põ¢u¨ ¦»zvß vø\ø¯U Põs£uØS ©õUìöÁÀ¼ß uUøPz v¸S Âvø¯¨ £¯ß£kzu»õ®.
+
+MF : æ†ì‹ ð£»‹ F¬êJ™ å¼ î‚¬èˆ F¼A¡ (õô‚¬èŠ ¹K àœ÷ F¼°) º¬ù ªê™½‹«ð£¶ î‚¬èˆ F¼A¡ î¬ô ²ö½‹ F¬êJ™ è£‰îŠ ¹ô‹ Þ¼‚A¡ø¶.
+
+133C»Á\¨ £õh¡À
+
+uUøPz v¸S ö\À¾® vø\°ÚõÀ Kmhzvß vø\ Põmh¨£kQßÓx
+
+v¸S _Ç¾® vø\°ÚõÀ Põ¢u¨ ¦»zvß vø\ Põmh¨£kQßÓx
+
+Kmhz vø\
+
+Põ¢u¨¦»zvß vø\
+
+(a)(b)
+
+AA
+
+BB
+
+Kmh® ÷©À÷|õUQKmh® RÌ÷|õUQ
+
+Põ¢u¨ ¦»®
+
+E¸ 13.5 KmhzøuU öPõsk ö\À¾® Phzvø¯a _ØÔ EshõS® Põ¢u¨ ¦»®
+
+E¸ (a) CØ÷PØ£ Kmh® A °¼¸¢x B °ØPõÚ vø\°À £õ²®÷£õx Põ¢u¨ ¦»® Chg_È¯õP EshõQßÓx.
+
+E¸ (b) CØ÷PØ£ Kmh® B °¼¸¢x A °ØPõÚ vø\°À £õ²®÷£õx Põ¢u¨ ¦»® Á»g_È¯õP EshõQßÓx.
+
+¥ Ü‹HòK¡ õô‚¬è MF (Ampere's Right hand grip rule)
+
+J¸ Phzv°ÞhõP Kmh® £õ²®÷£õx EshõS® Põ¢u¨¦»zvß vø\ø¯U PõnzuUP ©ØÖ÷©õº GÎ¯ Âv ¤ßÁ¸©õÖ,
+
+æ†ì‹ ð£»‹ F¬ê¬òŠ ªð¼Mó™ °P‚°ñ£Á õô‚ ¬èJù£™ èìˆF¬òŠ H®Šðî£è‚ è¼Fù£™ â…C»œ÷ Mó™èœ F¼‹H»œ÷ F¬êJ™ èìˆF¬ò„ ²ŸP‚ è£‰îŠ¹ôˆF¡ F¬ê Þ¼‚°‹.
+
+ªß÷Úõmh®Phzv
+
+Á»U øP
+
+E¸ 13.6 Kmhzvß vø\U÷PØ£U Põ¢u¨¦»zvß vø\ø¯U PõnÀ
+
+134C»Á\¨ £õh¡À
+
+èìˆF å¡PÛì£èŠ ð£»‹ æ†ì‹ è£óíñ£è à‡ì£°‹ è£‰îŠ ¹ôˆF¡ F¬ê¬ò‚ è£†´‹ Mî‹
+
+Põ¢u¨¦»zvß vø\ {ø»USzuõPz uõÐU EÒ÷|õUQ
+
+ABªß÷Úõmh®
+
+Põ¢u¨¦»zvß vø\ {ø»USzuõPz uõÎ¼¸¢x öÁÎ÷|õUQ
+
+E¸ 13.7 KmhzøuU öPõsk ö\À¾® Phzv²® Põ¢u¨¦»zvß vø\²®
+
+÷©ØSÔzu P®¤°ÞhõP Kmh® vø\ AB °À £õ´QÓöuÚU öPõÒ÷Áõ®. C[S Phzvø¯a _ØÔ Ámh©õP EshõS® Põ¢u¨¦»zvß vø\ø¯¨ ¤öÍª[Qß Á»UøP ÂvU÷PØ£ PõmkÁuØS ,  Gß£ÁØøÓ¨ £¯ß£kzu»õ®. ÷©ØSÔzu Phzv AB °ØS ÷©÷» Põ¢u¨¦»® {ø»USzuõPz uõÎ¼¸¢x öÁÎ÷|õUQ Á¢x Kº Aøμ ÁmhzvØSa ö\ßÖ AB °ØSU R÷Ç {ø»USzuõPz uõÎÝÒ÷Í ö\À»À •øÓ÷¯  ‰»•®  Cß ‰»® SÔUP¨£kQßÓx.
+
+13.2.2 è£‰îŠ¹ôˆF™ ¬õ‚èŠð†ì æ†ìˆ¬î‚ ªè£‡´ ªê™½‹ èìˆF e¶ à‡ì£°‹ M¬ê
+
+Phzv JßÔÞhõP Kmh® £õ²®÷£õx AUPhzvø¯a _ØÔ J¸ Põ¢u¨¦»® EshõQßÓöuÚ }[PÒ ÷©÷» PØÕºPÒ. C¨÷£õx |õ® J¸ Põ¢u¨¦»zvÀ KmhzøuU öPõsk ö\À¾® Phzv JßøÓ øÁUS®÷£õx Phzv «x J¸ Âø\ JßÖ uõUSQßÓ Âuzøua ö\¯Ø£õk 13.4 Ia ö\´Áuß ‰»® PshÔ÷Áõ®.
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : J¸ £›°»õhU Põ¢u®, C¸ ªßP»[PÒ, uizu AmøhzuõÒ, Põ£ß÷PõÀ 2 AÀ»x ÷ÁÖ ]» Phzx® ÷PõÀPÒ PhzvU P®¤zxsk
+
+B
+
+A
+
+S
+
+E
+
+N
+
+S
+
+D
+
+C
+
+U Põ¢u® (£›°»õhU Põ¢u®)Phzx® P®¤z xsk
+
+uizu Amøhz uõÒ
+
+Põ£ß ÷PõÀPÒ
+
+ö\¯Ø£õk 13.3
+
+135C»Á\¨ £õh¡À
+
+² J¸ £›°»õhU Põ¢uzvß (U Põ¢uzvß) C¸ £UP[PÎ¾® A, D GßÝ® C¸ Põ£ß ÷PõÀPøÍa \©õ¢uμ©õP øÁzx A, D BQ¯ÁØÔß •iÂh[PÐhß £ØÓ› E ø¯²® BÎ S I²® öuõk[PÒ.
+
+² Auß ¤ßÚº Põ¢uzvß Áh•øÚÂØS® öuß•øÚÂØSªøh÷¯ Põmh¨£mkÒÍÁõÖ Phzx® P®¤z xsk B, C ø¯ øÁ²[PÒ.
+
+² BÎ S I ‰i Kmhzøu ÁÇ[S[PÒ. A¨÷£õx ªßP»zv¼¸¢x Põ£ß ÷Põ¼ÞhõP AB vø\ ÁÈ÷¯ ö\ßÖ BC Phzvzxsiß ÁÈ¯õP Akzu Põ£ß ÷Põ¼ß CD FhõP ªßP»zvØS Á¸QßÓx.
+
+² Kmh® AÝ¨£¨£k®÷£õx Phzx® P®¤ BC C¸ £UP[PÎ¾® C¸ Põ£ß ÷PõÀPÎß «x A¨£õÀ (Á»¨£UPzøu ÷|õUQ) C¯[SÁøu AÁuõÛ²[PÒ.
+
+² £ØÓ›PÎß •iÂh[PøÍ Ch®©õØÔ (Kmhzvß vø\ø¯ ©õØÔ) AÁuõÛ²[PÒ. P®¤ BC °ß C¯UPzvø\ø¯ AÁuõÛ²[PÒ.
+
+² Põ¢uzvß •iÂh[PøÍ Ch®©õÔ°¸US©õÖ øÁzx P®¤ BC °ß C¯UPzøu ©Ö£i²® AÁuõÛ²[PÒ. A¨÷£õx P®¤ BC C¯[S® vø\ ÷©ØSÔzu vø\US GvμõÚ vø\°À EÒÍöuß£øuU Põn»õ®.
+
+Põ¢u¨¦»zvÀ øÁUP¨£mh J¸ Phzv°ÞhõP ªß÷Úõmhzøu ö\¾zx® ÷£õx Phzv «x J¸ Âø\ EshõQßÓø©¯õÀ Ax C¯[SQßÓx. Phzv C¯[S® vø\°ß ‰»® Âø\°ß vø\ Põmh¨£kQßÓx.
+
+Põ¢u¨¦»zvß vø\²® Phzv°À Kmh® £õ²® vø\²® JßÖUöPõßÖ ö\[SzuõÚx. AÆÁõ÷Ó C¯UP® Põ¢u¨ ¦»zvß vø\US® Kmh® £õ²® vø\US® ö\[SzuõÚx.
+
+J¸ Põ¢u¨¦»zv÷» ¦»zvß vø\USa ö\[SzuõP øÁUP¨£mh J¸ Phzv°ÞhõP ªß÷Úõmhzøu AÝ¨¦®÷£õx AUPhzv «x J¸ Âø\ EshõQßÓöuÚU PØÕºPÒ. C[S EshõS® Âø\°ß £¸©ß ¤ßÁ¸® ‰ßÖ PõμoPÎ¾® u[Q²ÒÍx.
+
+(1) Phzv°À £õ²® Kmhzvß £¸©ß AvP›US®÷£õx Âø\ AvP›US®.
+
+(2) Põ¢u¨¦»zvÀ øÁUP¨£k® Phzv°ß }Í® AvP›US® ÷£õx Âø\ AvP›US®.
+
+(3) Põ¢u¨¦»zvß Á¼ø© AvP›US® ÷£õx Âø\ AvP›US®.
+
+136C»Á\¨ £õh¡À
+
+C®‰ßÖ PõμoPÐ® AvP›US®÷£õx EshõS® Âø\ AvP›US® A÷u÷ÁøÍ C®‰ßÖ PõμoPÐ® SøÓ²®÷£õx EshõS® Âø\ SøÓQßÓx. CuØ÷PØ£ EshõS® Âø\ C®‰ßÖ PõμoPÐUS® ÷|μi ÂQu\©©õS®.
+
+¥ Hª÷IƒB¡ Þì‚ ¬è MF (Fleming’s left hand rule)
+
+J¸ Põ¢u¨¦»zvÀ øÁUP¨£mh J¸ Phzv°ÞhõP ªß÷Úõmhzøu AÝ¨¦®÷£õx Phzv «x Âø\ (C¯UP®) EshõS® vø\ø¯U Põs£uØS¨ ¤öÍª[Wß ChU øP Âvø¯¨ £¯ß£kzu»õ®.
+
+Þì‚ ¬èJ¡ ªð¼Mó™, ²†´Mó™, ï´Mó™ ÝAò Í¡¬ø»‹ å¡Á‚ªè£¡Á ªêƒ°ˆî£è ¬õˆ¶‚ªè£‡´ æ†ìˆF¡ F¬ê¬ò ï´MóLù£½‹ è£‰îŠ ¹ôˆF¡ F¬ê¬ò„ ²†´MóLù£½‹ °P‚°‹ «ð£¶ ªð¼MóLù£™ è£†ìŠð´‹ F¬êJ™ èìˆF e¶ M¬ê (Þò‚è‹) à‡ì£°‹.
+
+Âø\ (F)
+
+Põ¢u¨¦»® (B)
+
+ªß÷Úõmh® (I)
+
+E¸ 13.8 Kmhzvß vø\U÷PØ£ Âø\°ß vø\ø¯U PõnÀ
+
+13.2 £°Ø]
+
+(1) ¤ßÁ¸® E¸UPÒ JÆöÁõßÔ¾® Põn¨£kQßÓÁõÖ Põ¢u¨¦»zvÀ øÁUP¨£mh J¸ Phzv°ÞhõP Kmh® £õ²®÷£õx AUPhzv «x Âø\ EshõS® vø\ø¯¨ ¤öÍª[Wß ChU øP Âvø¯U öPõsk Psk SÔUP.
+
+NSNS
+
+(i)(ii)
+
+SNSN
+
+(iii)(iv)
+
+137C»Á\¨ £õh¡À
+
+o
+
+(v)(vi)
+
+N
+
+S
+
+N
+
+S
+
+ªß÷Úõmhzøu öPõsk ö\À¾® Phzv°ß «x Põ¢u¨¦»zvÚõÀ Âø\ ÁÇ[P¨£k® \¢uº¨£® G©x AßÓõh ÁõÌÂÀ ªP¨ £¯ÝÒÍ ÷uõØÓ¨£õhõS®. ªß÷©õmhº, J¼ö£¸UQ, PÀÁ÷Úõ©õÛ, ÷ÁõÀÖ©õÛ, A®¤¯º©õÛ J¨¦ÎÁøP Gß£øÁ Cz ÷uõØÓ¨£õmøh Ai¨£øh¯õPU öPõsk Aø©UP¨£mh E£Pμn[PÍõS®.
+
+13.2.3 åLªð¼‚AJ¡ ªî£NŸð£´
+
+ÁøÍ¯U Põ¢u®
+
+Buõμ E÷»õP EøÓ
+
+AmøhzuõÒ T®¦
+
+C¯[S® _¸Ò
+
+÷PÒ «iÓß Ãa_US›¯ «iÓßPÎÀ ©õÖ® ªß÷Úõmh®
+
+E¸ 13.9 (b) J¼ö£¸UQ°ß SÖUSöÁmkE¸ 13.9 (a) J¼ö£¸UQ
+
+N
+
+N
+
+S
+
+ÂuõÚ®
+
+E¸ 13.9 J¼ö£¸UQ
+
+J¼ö£¸UQ°ß öÁÎ¨¦Óz ÷uõØÓzøu²® Ax Aø©UP¨£mkÒÍ •øÓø¯²® E¸ 13.8 PõmkQßÓx. J¼ö£¸UQ°À J¼ E¸ÁõÁuØS J¼ø¯ E¸ÁõUS® ÁøP°À ÂuõÚ® Avμ ÷Ásk®. CuØS J¼ö£¸UQUS ©õÖ® ªß÷Úõmh® JßÖ _¸ÎÞhõP ÁÇ[P¨£h ÷Ásk®.
+
+J¼ö£¸UQ°ß ¤μuõÚ £SvPÍõP AmøhzuõÒ T®¦, Phzx® _¸Ò, ÁøÍ¯U Põ¢u® BQ¯ÁØøÓU SÔ¨¤h •i²®. Põ¢u® T®¤ß öÁÎÂmh® Gß£øÁ E¸ 13.8 (b) CÀ Põmi¯ÁõÖ Buõμ E÷»õP EøÓ²hß CønUP¨£mkÒÍÚ.
+
+138C»Á\¨ £õh¡À
+
+_¸ÍõÚx Põ¢uzvß •øÚÄPÐUQøh÷¯ •ß, ¤ß ÷|õUQ _¯õwÚ©õP Aø\²® ÂuzvÀ T®¤ß ]Ô¯ Âmh® öPõsh £Sv²hß CønUP¨ £mkÒÍx. _¸ÎÞhõP ©õÖ® ªß÷Úõmhö©õßÖ £¯oUS® ÷£õx Põ¢uzvÚõÀ Phzv°ß «x HØ£kzu¨£k® Âø\ Põμn©õP ªß÷Úõmhzvß ©õØÓzvØS Aø©¯ _¸Ò •ß ¤ßÚõP AvºÁøhÁuÚõÀ T®¦® AvºÁøh¢x J¼ ¤Ó¨¤UP¨£kQßÓx.
+
+13.2.4 âOò «ï«ó£†ì «ñ£†ì˜ (DC motor)
+
+ö£¸®£õ»õÚ |õkPÎÀ C¸US® ªß ¦øP°μu® ªß ÷©õmhøμ¨ £¯ß£kz-vz öuõÈØ£kzu¨£kQßÓx.
+
+E¸ 13.10 ªß ¦øP°μu®
+
+GÎ¯ ÷©õmhøμz u¯õ›zuÀ
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ :
+
+Kº E»ºP»®, PõÁ¼mh ö\¨¦U P®¤, ö£›¯ uø»²ÒÍ }Í©õÚ øu¯¿]PÒ Cμsk, ^ÚUPÎ, ö\÷»õ÷h¨, P®¤ø¯ öÁmhzuUP Kº E£Pμn®, J¸ ]Ô¯ ÁøÍ¯U Põ¢u®
+
+²•u¼À Põ¢ua _¸øÍz u¯õºö\´²[PÒ. CuØPõPa ö\¨¦U P®¤°ß |kÂÀ Bμ®¤zx KμÍÄ ui¨£õÚ ÷£øÚø¯ Jzu E¸øÍ ÁiÁõÚ ö£õ¸øÍ¨ £ØÔ HÓzuõÇ 30 _ØÖPøÍa _ØÔ E¸ 1 CØ Põn¨£kQßÓÁõÖ J¸ _¸øÍz u¯õºö\´x ö\¨¦U P®¤°ß _¯õwÚ •iÂh[PøÍa _¸øÍ¨ £ØÔa ]» uhøÁPÒ _ØÖ[PÒ.
+
+²E¸ 2 CÀ EÒÍÁõÖ Pzv A»øP¨ £¯ß£kzv C¸ _¯õwÚ •iÂh[PÎÚx® PõÁ¼ø¯ APØÖ[PÒ. Cμsk •øÚPÎÚx® PõÁ¼PÒ APØÓ¨£mh £Sv J÷μ £UP©õP Aø©¯ ÷Ásk®.
+
+²Auß ¤ßÚº F]PÎß xøÍ°ÞhõP C¸ •iÂh[PÐ® ö\À»z uUPuõPÄ® Azxhß _¸Ò Qøh¯õP C¸UPzuUPuõPÄ® E¸ 3 CÀ Põmi¯ÁõÖ öuõ[PÂh¨£mkÒÍx.
+
+ö\¯Ø£õk 13.4
+
+13'1
+
+139C»Á\¨ £õh¡À
+
+²E¸ 4 CÀ EÒÍÁõÖ E»º P»zvß C¸ •iÂh[PÎ¾® øu¯¿]PøÍ øÁzx ö\»÷μ¨¤ß ‰»® Jmk[PÒ.
+
+²^ÚUPÎ £¯ß£kzv E»º P»zøu Aø\¯õuÁõÖ EÖv¯õP ö£õ¸zx[PÒ.
+
+²CÖv°À ^ÚUPÎ £¯ß£kzv ÁøÍ¯U Põ¢uzøu¨ £ØÓ› «x ö£õ¸zx[PÒ.
+
+E¸ 1
+
+E¸ 2
+
+E¸ 3
+
+E¸ 4E¸ 5
+
+E»º P»®Põ¢u®
+
+^ÚUPÎ
+
+²ö\¨¦a _¸Ò _Ç¾® Âuzøu }[PÒ Põn»õ®. AÆÁõÖ _Ç»õÂiß _¸øÍ øP°ÚõÀ \ØÖ _ÇØÔ Âk[PÒ. Ax ¤ß öuõhºa]¯õPa _Ç¾®.
+
+Âø\
+
+Âø\
+
+E¸ 6
+
+Põ¢u¨ ¦»®
+
+E¸ 7
+
+Põ¢u¨ ¦»®
+
+Âø\
+
+Âø\
+
+Phzv°ÞhõP ªß ö\À¾® ÷£õx Põ¢u¨ ¦»zvÚõÀ Phzv°ß «x Âø\ö¯õßÖ HØ£kzu¨£kQÓx. C[S Phzva _¸Ò Põμn©õP E¸ 6 CÀ Põmi¯ÁõÖ _¸Îß «x Gvºzvø\°À Cμsk Âø\PÒ (Âø\°øn) ÷uõßÔ _¸Ò _ÇÀQßÓx.
+
+wNHdih
+
+140C»Á\¨ £õh¡À
+
+P®¤°ß C¸•øÚPÎÚx® Aøμ¨£Sv ©õzvμ® PõÁ¼h¨£mh £Sv }UP¨£mhuØPõÚ Põμn® _¸Îß Aøμ _ÇØ]°ß ¤ß ªSv Aøμ _ÇØ]°ß ÷£õx ªß Kmh £õ´a\ø» uk¨£uØPõS®. •Êø©¯õP PõÁ¼h¨£mh £Sv APØÓ¨£mhõÀ Aøμ _ÇØ]°ß ÷£õx •ßÚº ÷uõßÔ¯ Âø\°ønUS GvμõÚ vø\°À Âø\°øn ÷uõßÔ _ÇØ]ø¯ £õvUPa ö\´²®.
+
+GÆÁõÓõ°Ý® CμshõÁx Aøμ _ÇØ]°ß÷£õx ªß÷Úõmh £õ´a\À ukUP¨£kÁuÚõÀ _¸Ò öuõhºa]¯õP Azvø\°À _Ç»U Ti¯uõP EÒÍx. C[S CμshõÁx Aøμa _ÇØ]°ß •u»õÁx Aøμa_ÇØ]°ß ÷£õx ö£ØÓ E¢uzvß v¸¨£÷© Põμn©õS®.
+
+«ï«ó£†ì «ñ£†ìK¡ Hóî£ù ð°FèO¡ ªî£N™èœ
+
+² Ý«ñ„ê˜ (Armature)
+
+}[PÒ ÷©ØöPõsh ö\¯Ø£õmiß ÷£õx £¯ß£kzv¯ _ØÖUPÎ¾® £õºUP ªP Tku»õÚ GsoUøP¯õÚ _¸øÍ \õuõμn GÎ¯ ÷©õmhõº öPõskÒÍx. ÷©õm-hμõÚx ¯õ÷uÝ® _ø© ö¯õßøÓ _Ç»a ö\´Áuß Põμn©õP }[PÒ Aø©zu _¸øÍ¨ ÷£õßÖ AÀ»õx \õuõμn ÷©õmh›ß _¸Ò ¦Óa_ø©²hß öuõhº¦Ö® AÍÄUS Á¼ø© öPõshuõP Aø©¯ ÷Ásk®. Cuß Põμn©õP APo°À E¸US AÀ»x C¸®¤øÚõÀ ö\´¯¨£mh Aa]÷» _ØÓ¨£kQßÓx. Ca _¸Ðhß ÷\º¢u APo B÷©a\º GÚ¨£k®. ªß÷Úõmh® ö\À¾® ÷£õx Âø\°øÚ ÷uõßÔ _ÇÀÁuØS yskÁx B÷©a\›ß öuõÈ»õS®.
+
+² è£‰î º¬ù¾èœ (Magnetic poles)
+
+B÷©a\›ß C¸ £UP[PÎ¾® Põ¢u •øÚ ÄPÒ øÁUP¨£mkÒÍÚ. B÷©a\›ß _¸Ò _Ç»z ÷uøÁ¯õÚ Põ¢u¨¦»zøu ÁÇ[-SuÀ Põ¢u •øÚÄPÎß öuõÈ»õS®. £hzvÀ Põmi¯ÁõÖ \õuõμn ÷|º Kmh ÷©õmh›À Põ¢u¨¦»zøu¨ ö£Ó B÷©a \øμ _ØÔÁμ {ø»¯õÚ Põ¢u•øÚÄPÒ JÊ[S¨£kzu¨£kQÓx.
+
+141C»Á\¨ £õh¡À
+
+²F¬êñ£ŸP (Commutator)
+
+}[PÒ Aø©zu ÷©õmh›ß _¸Îß C¸ A¢u[PÎÚx® PõÁ¼¨ £uõºzu® Aøμ¨£Sv ©õzvμ÷© }UP¨£mhx. PõÁ¼¨ £uõºzu® •Êø©¯õP }UP¨£mhõÀ _¸ÍõÚx J¸ vø\°À _ÇÀÁuØS¨ £v»õP C¸ vø\PÎÀ Aø\ÁøuU PõnUTi¯uõP C¸US®. Aøμ¨£Sv ©õzvμ® PõÁ¼¨ £uõºzu® }UP¨£mhuß Põμn©õP _¸Ò _Ç¾® ÷£õx ªß÷Úõmh® AøμÁmhzvØS ©õzvμ÷© ÷uõßÖQßÓx. CuÚõÀ _¸Ò öuõhºa]¯õP _ÇÀQßÓx. CÆÁõÖ Aøμa _ÇØ]°À ©õzvμ® ªß ÷uõßÖÁuõÀ ÷©õmh›ÚõÀ _ÇØÓUTi¯ _ø© GÀø»¨£kzu¨£kQßÓx. Cuß Põμn©õP _¸ÎÞhõP¨ £õ²® ªß÷Úõmhzvß vø\ ©õØÔ ÁÇ[SuÀ AÁ]¯©õS®. CuØPõP GÎ¯ ªß ÷©õmhºPÎÀ vø\©õØÔPÒ (Commutator) £¯ß£kzu¨£kQßÓx.
+
+y›øP
+
+_¸Îß C¸ •øÚPÒ
+
+¦Óa_ØÖ
+
+¤Í¢u ÁøÍ¯®
+
+¦Óa _ØÖ
+
+vø\©õØÔ¯õÚx E¸ÂÀ Põmi¯ÁõÖ Cμsk ¤Í¢u ÁøÍ¯[PÎÚõ¾® AÁØÖhß öuõhº£õÚ Cμsk y›øP°Úõ¾® Aø©UP¨£mkÒÍx. CÆÂμsk ¤ÍÄPÐhÝ® _¸Îß C¸ •øÚPÐ® öuõhº¦ÖQßÓÚ. C¨ ¤Í¢u ÁøÍ¯[PÒ B÷©a\¸hß _ÇÀQßÓÚ. GÛÝ® y›øPPÒ _ÇÀÁvÀø». CøÁ ¤Í¢u ÁøÍ¯[PÐhß öuõkøP²ØÓÁõÖ Põn¨£k®. Cz y›øPPÒ ¦Ó ªß_ØÖhß öuõhº¦£kzu¨£mkU Põn¨£k®.
+
+B÷©a\º
+
+¤Í¢u ÁøÍ¯[PÒPõÁ¼
+
+Aa\õoy›øPPÒ
+
+Põ¢u •øÚÄPÒ
+
+E¸ 13.10 - ÷|÷μõmh ÷©õmh›ß ¤μuõÚ £SvPÒ
+
+142C»Á\¨ £õh¡À
+
+«ï«ó£†ì «ñ£†ìK¡ ªêòŸð£´
+
+Q
+
+D
+
+Y
+
+X
+
+SB
+
+S
+
+C
+
+NSB
+
+A
+
+
+
+P
+
+C¯UPz vø\
+
+E¸ 13.11 (a) - ÷|÷μõmh ÷©õmh›ß öuõÈØ£õmøh ö\´x PõmhÀ
+
+÷©÷» SÔ¨¤h¨£mh £SvPÒ AøÚz øu²® JßÓõP Cønzu Aø©¨¦ E¸ 13.10 CÀ Põmh¨£mkÒÍx. A® ÷©õmh›ß C¯UPzøu ÂÍUSÁuØPõP A¨£SvPÒ GÎ¯ _ØÖ Á›¨£h©õP E¸ 13.11 CÀ Põmh¨£mkÒÍx. ÷©õmh›ß P®¤a _¸Ò 13.11 CÀ ABCD GÚ uÛ uh©õP Põmh¨£mkÒÍx. Ca_¸ÍõÚx C¸ Põ¢u •øÚÄPÐUQøh°À øÁUP¨£mkÒÍx. P®¤a_¸Îß •iÂhzøu X, Y GßÝ® ¤Í¢u ÁøÍ¯[PÒ ö£õ¸zu¨£mkÒÍxhß
+
+P, Q y›øPPÒ Cμsk® ªß P»zxhß CønUP¨£mkÒÍÚ.
+
+²BÎ S I ‰k® ÷£õx Kmh® y›øP P C¼¸¢x ¤Í¢u ÁøÍ¯® X CØS¨ ¦S¢x P®¤a \mhzvß ÁÈ÷¯ vø\ ABCD °À ö\ßÖ ¤Í¢u ÁøÍ¯® Y °ØS Á¢x y›øP Q CÀ C¸¢x öÁÎ÷¯¸QßÓx.
+
+²C[S Põ¢u¨¦»zvÀ C¸US® _¸Îß ªß÷Úõmh©õÚx AB vø\°¾® CD vø\°¾® £õ´QßÓx.
+
+²AB °ØS® CD °ØS® ¤öÍª[Wß ChU øP Âvø¯¨ ¤μ÷¯õQzx C¯UP® EshõS® vø\ø¯U PõsP. A¨÷£õx £Sv AB RÌ÷|õUQ²® £Sv CD ÷©À÷|õUQ²® C¯[SQßÓÚ. C[S EshõS® Cøn Põμn©õP B÷©a\º Á»g_È¯õPa _ÇÀQßÓx.
+
+²C¨÷£õx _¸ÎÚx® ¤Í¢u ÁøÍ¯[PÎÚx® Aø©Ä GvμõP 180 £õøP°À C¸US®÷£õx |øhö£Ö£ÁØøÓ ÂÍ[QU öPõÒ÷Áõ®.
+
+y
+
+A
+
+B
+
+NS
+
+C
+
+D
+
+P
+
+Q
+
+
+
+x
+
+_ÇØ]°ß vø\
+
+S
+
+NS
+
+A
+
+QP
+
+S
+
+x
+
+D
+
+C
+
+y
+
+Põ¢u®
+
+C¯UP® ÷©À÷|õUQ
+
+C¯UP® RÌ÷|õUQ
+
+B
+
+E¸ 13.12 ÷|÷μõmh ÷©õmh›ß öuõÈØ£õmøha ö\´x PõmhÀ
+
+143C»Á\¨ £õh¡À
+
+²Ca\¢uº¨£zvÀ ¤Í¢u ÁøÍ¯[PÒ GvμõP C¸¢uõ¾® Kmh® y›øP P C¼¸¢x ¤Í¢u ÁøÍ¯® Y CØS¨ ¦S¢x vø\ DCBA CÀ ö\ßÖ ¤Í¢u ÁøÍ¯® X C¼¸¢x Á¢x y›øP Q Â¼¸¢x öÁÎ÷¯Ô A¨£õÀ Á¸QßÓx.
+
+²C[S _¸Îß ªß÷Úõmh©õÚx DC C¾® vø\ BA C¾® £õ´QßÓx.
+
+²AB °ØS® CD CØS® ¤öÍª[ ChUøP Âvø¯¨ ¤μ÷¯õQUS®÷£õx AB «x ÷©À÷|õUQ²® CD «x RÌ÷|õUQ²® C¯UP® EshõQßÓø© öuÎÁõS®. C[S EshõS® Cøn B÷©a\øμ ÷©¾® Á»g_È¯õPa _Ç»a ö\´QßÓx.
+
+²£ØÓ›°ß •iÂh[PøÍ Ch®©õØÔ Kmh® ¦S® vø\ø¯ Gvºz vø\¯õUQÚõÀ Âø\ EshõS® vø\²® GvμõÁuÚõÀ B÷©a\›ß C¯UPz vø\ Chg_È¯õS®.
+
+²÷|÷μõmh ÷©õmh›ß öuõÈØ£õmiÀ ÁÇ[P¨£k® ªß\Uv ö£õÔ•øÓa \Uv¯õP ©õØÓ¨£kQßÓx.
+
+E¸ 13.13 - _Ç¾® ö£õÔPÎß öuõÈØ£õk
+
+ö£õÔ•øÓa \Uvªß \Uvªß ÷©õmhº
+
+£°Ø] 13.4
+
+1. ¤öÍª[Wß ChUøP Âvø¯¨ £¯ß£kzv J¸ ©õnÁß uÚx ChU øPø¯¨ £¯ß£kzv¯ Âu® ¤ßÁ¸©õÖ,
+
+AC
+
+B
+
+(i) ¤öÍª[Wß ChUøP Âv GuØPõP¨ £¯ß £kzu¨£k®?
+
+(ii) ÷©ØSÔzu E¸ÂÀ A, B, C BQ¯ ÂμÀPÒ ÁÈ¨£kzu¨£mkÒÍ vø\PÒ GuøÚ JzuÚ?
+
+(iii) ¤öÍª[Wß ChUøP Âv £¯ß£kzu¨£k® ¤ßÁ¸® \¢uº¨£[PÎÀ P®¤ AB °ØS |øhö£ÖÁÚÁØøÓ GÊxP.
+
+144C»Á\¨ £õh¡À
+
+(a)
+
+NS
+
+B
+
+A
+
++
+
+-
+
+S
+
+(b)
+
+NS
+
+B
+
+A
+
+
+
+-
+
+S
+
+
+
+(c)
+
+SS
+
+B
+
+A
+
++
+
+-
+
+N
+
+ (d)
+
+SS
+
+B
+
+A
+
+
+
+-
+
+N
+
+
+
+2. ¤ßÁ¸® E¸ÂÀ J¼ö£¸UQ°ß SÖUSöÁmk Põn¨£kQßÓx.
+
+N
+
+N
+
+Sx
+
+A
+
+B
+
+C
+
+(i) C[S A, B, C BQ¯ £SvPøÍ¨ ö£¯›kP.
+
+(ii) •iÂh® x CÀ ¦S® Kmhz-vß J¸ ]Ó¨¤¯Àø£ GÊxP.
+
+(iii) J¼ö£¸UQ°ß öuõÈØ£õmøh ÂÍUSP.
+
+(iv) J¼ö£¸UQ°À |øhö£Ö® \Uv ©õØÓzøu GÊxP.
+
+(v) A, B, C GßÝ® £SvPÎß ‰»® ö\´¯¨£k® öuõÈÀPøÍz uÛzuÛ¯õP GÊxP.
+
+3. J¸ ÷|÷μõmh ÷©õmh›ß ¤μuõÚ £SvPÒ ¤ßÁ¸® E¸ÂÀ Põn¨ £kQßÓÚ.
+
+NS
+
+A
+
+QP
+
+SE
+
+x
+
+D
+
+CVU
+
+y
+
+B
+
+_ÇØ]zvø\
+
+145C»Á\¨ £õh¡À
+
+(i) CÆÄ¸ÂÀ A, B, C, D BQ¯ £SvPøÍ¨ ö£¯›kP.
+
+(ii) x, y GÚU Põmh¨£mkÒÍøÁ ¯õøÁ?
+
+(iii) BÎ S I ‰k®÷£õx Kmh® £õ²® vø\ø¯z uμ¨£mkÒÍ GÊzøuU öPõsk GÊxP.
+
+(iv) Kmh® £õ²®÷£õx _ÇØ] |øhö£Ö® Âuzøu ÂÍUSP.
+
+(v) E¸ÂÀ Põn¨£k® ÷©õmh›ß ¤ßÁ¸® £SvPÒ JÆöÁõßÔ Úõ¾® ö\´¯¨£k® öuõÈÀPøÍ ÷ÁÖ÷ÁÓõP GÊxP.
+
+(a) V E® U E® (b) E (c) P E® Q E® (d) x E® y E®
+
+(vi) BÎ S I ‰k®÷£õx ÷©õmh›ß _ÇØ] |øhö£Ö® vø\ ¯õx?
+
+(vii) ¤ßÁ¸® ©õØÓ[PÒ JÆöÁõßÖ® |øhö£ØÓõÀ ÷©õmh›ß öuõÈØ£õmiÀ EshõS® ©õØÓ[PøÍ GÊxP.
+
+(a) £ØÓ›°ß •iÂh[PøÍ Cøh©õØÓÀ
+
+(b) Põ¢u Á¼ø©ø¯U TmhÀ
+
+13.3 ªßPõ¢uz yshÀ (Electromagnetic induction)
+
+÷©ØSÔzu £Sv°À ªßÛß ‰»® C¯UP® |øhö£ÖuÀ £ØÔUPØ÷Óõ®. C¨£Sv°À C¯UPzvß ‰»® ªßøÚ EØ£zv ö\´uÀ £ØÔUPØ÷£õ®.
+
+Põ¢u¨¦»zvÀ øÁUP¨£mh Phzv JßÔÞhõP Kmh® £õ²® ÷£õx AUPhzv «x Âø\ JßÖ EshõQßÓx. Auß {Pº©õØÖ AuõÁx J¸ SÔzu Põ¢u¨ ¦»zvÀ C¸US® Phzv JßÖ C¯[S®÷£õx AUPhzv°ß •øÚPÐUQøh°À ªßÛ¯UPÂø\ ysh¨£kQßÓx.
+
+©õÖ® Põ¢u¨¦»zvÀ J¸ Phzv øÁUP¨£mi¸US®÷£õx AÀ»x J¸ {ø»¯õÚ Põ¢u¨¦»zvÀ AUPhzvø¯ C¯US® ÷£õx Phzv°ß •øÚPÐUQøh÷¯ J¸ ªßÛ¯UP Âø\ E¸ÁõuÀ ªßPõ¢uz yshÀ GÚ¨£k®.
+
+Cx £ØÔ ø©UPÀ £μ÷h •uß•u»õP¨ £À÷ÁÖ £›÷\õuøÚPøÍa ö\´x ªßPõ¢uz yshø» E»QØS AÔ•Pg ö\´uõº. AÁº 1831 CÀ Cx öuõhº£õP •UQ¯zxÁ® Áõ´¢u Âv¯õQ¯ £μ÷h°ß Âvø¯ Gkzxøμzuõº.
+
+146C»Á\¨ £õh¡À
+
+ø©UPÀ £μ÷h (1791 - 1867)
+
+G©x ÃkPÎÀ £¯ß£kzu¨£k® ö£¸®£õ»õÚ ªßÝ£Pμn[PÐ® PøhPÎ¾® A¾Á»P[PÎ¾® ¤μ÷Á]¨£uØS¨ £¯ß£kzu¨£k® Põ¢u Amøh PÐ® £nzøua ö\¾zu¨ £¯ß£kzu¨£k® Põ¢u AmøhPÐ® (Credit Card, Debit Card) BPõ¯ Â©õÚ®, ÂsöÁÎU P»®, ÷μõ÷£õ, BPõ¯ Â©õÚ® BQ¯ÚÄ® öuõÈØ£k® ÷£õx ªßPõ¢uz yshÀ ÷uõØÓ¨£õk £¯ß£kzu¨£kQßÓx. Gsön´, {»UP›, P¸a \Uv ÷£õßÓ •uÀPÎß ‰»® EØ£zv ö\´¯¨£k® \Uv ªßPõ¢uz ysh¼ß ‰»® ªß \Uv¯õP ©õØÓ¨£kÁuÚõÀ ö£Ó¨£kQßÓx. AkzuuõP Kº GÎ¯ ö\¯Ø£õmiß ‰»® ªß Põ¢uz yshø»a ö\´x Põmk÷Áõ®.
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : J¸ \mhU Põ¢u®, J¸ ¡¾¸øÍ°ß SÇõ´, HÓzuõÇ 28 Poa] EÒÍ 1 «ØÓº ö\¨¦U P®¤, ø©¯¨ §a]¯U PÀÁ÷Úõ©õÛ
+
+²¡¾¸øÍU SÇõø¯¨ £ØÔ J¸ ö\¨¦U P®¤ø¯a _ØÔ AvP GsoUøP °Úõ»õÚ _¸øÍ Aø©zxU öPõsk Auß C¸ A¢u[PøÍ²® E¸ 13.14 CÀ EÒÍÁõÖ J¸ ø©¯¨ §a]¯U PÀÁ÷Úõ©õÛ²hß öuõkUP.
+
+²C¨÷£õx ¤ßÁ¸® ö\¯ÀPøÍa ö\´x PÀÁ÷Úõ©õÛ°À v¸®£À EshõQßÓuõöÁÚ AÁuõÛzx¨ ¤ßÁ¸® AmhÁønø¯¨ §ºzv ö\´P.
+
+²AmhÁøn \¢uº¨£® 8, 9 BQ¯ÁØÔÀ JßÖUöPõßÖ öuõhº£õPz v¸®£¼ß £¸©øÚ AÁuõÛUP.
+
+\mhU Põ¢u®
+
+PÀÁ÷Úõ©õÛ
+
+ö\¨¦U P®¤a _¸Ò
+
+E¸ 13.14 - ªßPõ¢uz yshø»a ö\´x PõmhÀ
+
+ö\¯Ø£õk 13.5
+
+147C»Á\¨ £õh¡À
+
+Põ¢uzvß C¯UP®_¸Îß C¯UP®PÀÁ÷Úõ©õÛ v¸®¦QßÓuõ? CÀø»¯õ?1. _¸øÍ ÷|õUQK´ÂÀ
+
+2. _¸ÎØS Asø©°À K´ÂÀK´ÂÀ
+
+3. _¸Î¼¸¢x A¨£õÀK´ÂÀ
+
+4. K´ÂÀPõ¢uzøu ÷|õUQ
+
+5. K´ÂÀPõ¢uzv¼¸¢x A¨£õÀ
+
+6. _¸Î¼¸¢x A¨£õÀPõ¢uzv¼¸¢x A¨£õÀ
+
+7. _¸øÍ ÷|õUQPõ¢uzv¼¸¢x A¨£õÀ (CøhöÁÎ ©õÓõ©À)8. ÂøμÁõPa _¸ÐUSK´ÂÀ
+
+9. ö©xÁõP _¸ÐUSK´ÂÀ
+
+÷©ØSÔzu ö\¯Ø£õmi¼¸¢x QøhUS® AÁuõÛ¨¦PÐU÷PØ£a _¸ÐUS® Põ¢uzvØSªøh÷¯ EÒÍ öuõhº¦ yμ® ©õÓzuUPuõP |øhö£Ö® JÆ÷Áõº C¯UPzv¾® PÀÁ÷Úõ©õÛ°À vÓ®£À EshõQßÓøu AÁuõÛUP Ti¯uõP EÒÍx.
+
+²PÀÁ÷Úõ©õÛ°ÞhõP ªß÷Úõmh® £õ²®÷£õx AvÀ vÓ®£À Eshõ QßÓx. ªß÷Úõmh® EshõP ÷Áskö©Ûß, _ØÔÀ J¸ ªßÛ¯UP Âø\ •uÀ C¸zuÀ ÷Ásk®. BÚõÀ ÷©ØSÔzu JÊ[Pø©¨¤À AzuøP¯ JßÖ CÀø».
+
+²C[S Põ¢uzvÚx® _¸ÎÚx® öuõhº¦ C¯UPzvß ÂøÍÁõP Kº AÊzu Âzv¯õ\® EshõQ²ÒÍx. ysi¯ ªßÛ¯UP Âø\ GÚ¨£k®.
+
+²Põ¢u•® _¸Ð® JßÖUöPõßÖ Qmh Á¸®÷£õx AÀ»x Â»S®÷£õx _¸Ðhß öuõhº¦£mkÒÍ Põ¢u¨£õ¯zvß AÍÂÀ AvP›¨¦ AÀ»x SøÓÄ HØ£kQßÓx. CzuøP¯ J¸ \¢uº¨£zvÀ ©õzvμ® PÀÁ÷Úõ©õÛ°À vÓ®£À EshõQßÓø©¯õÀ, _¸ÎÀ Kº Kmh® ysh¨£kÁuØSa _¸Ðhß öuõhº¦£mh Põ¢u¨ £õ¯zvß AÍÂÀ J¸ ©õØÓ® HØ£kuÀ ÷Ásk®.
+
+²Põ¢u® ÂøμÁõP C¯[S®÷£õx ö©xÁõP C¯[S®÷£õv¾® £õºUPU Tku»õÚ vÓ®£À PÀÁ÷Úõ©õÛ°À Qøh¨£uØSU Põμn® _¸ÎÀ ysi¯ ªßÛ¯UP Âø\ Põ¢u¨ £õ¯ ©õØÓ ÃuzvØS ÷|μi ÂQu\©©õP C¸UQßÓø©¯õS®.
+
+148C»Á\¨ £õh¡À
+
+J¸ Põ¢ua _ØÖhß öuõhº¦£mh Põ¢u¨¦»zvÀ ©õØÓ® HØ£kÁuß ÂøÍÁõP CÆÁõÖ _ØÔÀ ªßÛ¯UPÂø\ ysh¨£kuÀ ªßPõ¢uz yshÀ GÚ¨£k®.
+
+ysi¯ ªßÛ¯UPÂø\°ß £¸©ÛÀ ö\ÀÁõUSa ö\¾zx® ]» PõμoPÒ
+
+(1) _¸Îß •ÖUSPÎß GsoUøP
+
+(2) Põ¢uzvß Á¼ø©
+
+(3) Põ¢u® AÀ»x _¸Ò C¯[S® Pv
+
+GÚ |øhö£ØÓ £›÷\õuøÚPÎ¼¸¢x £μ÷h°ÚõÀ Põmh¨£mh A÷u÷ÁøÍ AøÚzx Âh¯[PøÍ²® P¸zvØ öPõsk ªßPõ¢uz yshÀ £ØÔ¯ £μ÷h°ß Âv •ßøÁUP¨£mhx.
+
+Hª÷IƒB¡ õô‚¬è MF (Fleming’s Right hand Rule)
+
+Põ¢u¨ ¦»zvÀ øÁUP¨£mh J¸ Phzv ¦»zvØSa ö\´SzuõP C¯[S®÷£õx Phzv°ÞhõPz ysi¯ Kmh® £õ²®. Phzv¯õÚx ‰i¯ _ØÖhß CønUP¨£mi¸¨¤ß ªßÛ¯UP Âø\ Põμn©õP Phzv°ÞhõP ªß÷Úõmh® £õ²®. Czysi¯ ªß÷Úõmhzvß vø\ø¯ ¤Íª[Qß Á»UøP Âv ‰»® Psk öPõÒÍ •i²®.
+
+●Hª÷IƒB¡ õô‚¬è MF (Fleming's Right Handed Rule)
+
+Á»UøP°ß •uÀ ‰ßÖ ÂμÀPÐ® JßÖUöPõßÖ 90º EÒÍ ‰ßÖ uÍ[PÎÀ C¸US®÷£õx ö£¸Âμ¼ÚõÀ Phzv C¯[S® vø\ø¯²® _mk Âμ¼ÚõÀ AUPhzv°ß ‰»® öÁmh¨£k® Põ¢u¨¦»® C¸US® vø\ø¯²® Põmk®÷£õx |kÂμ¼ÚõÀ Phzv°ÞhõP¨ £õ²® Kmhzvß vø\ Põmh¨£k®.
+
+Á»UøP Âvø¯a ö\´x Põmk® Âu® E¸ 13.15 CÀ Põn¨£kQßÓx.
+
+C¯UPz vø\
+
+Põ¢u¨ ¦»zvß vø\
+
+Kmhzvß vø\
+
+E¸ 13.15 ¤öÍª[Wß Á»UøP Âvø¯a ö\´x PõmhÀ
+
+149C»Á\¨ £õh¡À
+
+£°Ø] 13.2£°Ø] 13.2
+
+(01) ¤ßÁ¸® \¢uº¨£[PÒ JÆöÁõßÔ¾® Phzv°ÞhõPz ysi¯ Kmh® £õ²® vø\ø¯¨ ¤öÍª[Wß Á»UøP Âvø¯U öPõsk Psk SÔUP.
+
+iii
+
+SS
+
+B
+
+A
+
+-
+
+NSS
+
+B
+
+A
+
+-
+
+N
+
+C¯UP®
+
+C¯UP®
+
+iiiiv
+
+NS
+
+B
+
+A
+
+-
+
+S
+
+C¯UP®
+
+NS
+
+B
+
+A
+
+-
+
+S
+
+C¯UP®
+
+vvi
+
+viiviii
+
+C¯UP®C¯UP®
+
+C¯UP®C¯UP®
+
+NS
+
+SS
+
+S
+
+N
+
+N
+
+N
+
+150C»Á\¨ £õh¡À
+
+13.3.2 I¡è£‰îˆ É‡ì™ Hó«ò£A‚èŠð´‹ ê‰î˜Šðƒèœ
+
+I¡HøŠð£‚A / ¬ìù«ñ£
+
+E¸ 13.16 Põ¢u¨ ¦»zvÝÒ Aø\²® Phzva _¸Îß C¯UP® |øhö£Ö® Âu®
+
+C¯UP® (Âø\)
+
+ªß÷Úõmh®
+
+Põ¢u¨¦»®
+
+Põ¢u Âø\U÷PõkPÒ
+
+Põ£ß y›øP
+
+vø\
+
+|ÊÁÀ ÁøÍ¯ÀPÒ
+
+P®¤a _¸Ò Aaø\¨ £ØÔ _Ç¾® Âu®
+
+PhzvU P®¤a _¸ÎÀ AB £SvUS ¤Íª[Qß Âv ö£õ¸¢x® Âu®P
+
+QY
+
+X
+
+ªß¤Ó¨£õUQ AÀ»x øhÚ÷©õÂß Aø©¨¦ E¸ 13.16 CÀ Põmh¨£mkÒÍx. C[S PõÁ¼h¨£mh ö\¨¦UP®¤PÒ ö©ßÛ¸®¦ APo°À £» _ØÖU PÍõP _ØÓ¨£mh B÷©a\º ABCD Auß Aa_¨£ØÔa _Ç»U Ti¯ÁõÖ ö£õÖzu¨£mkÒÍx. P®¤a _¸Îß C¸ ¦Ó•® Põ¢u[PÎß Áh •øÚÄ® öuß •øÚÄ® Aø©²©õÖ Põ¢u[PÒ øÁUP¨£mkÒÍÚ. Cuß ‰»® £hzvÀ Põmi¯ÁõÖ Á¼ø©¯õÚ Põ¢u Âø\U÷PõkPÒ P®¤a _¸ÎÞhõP ö\À»zuUPÁõÖ Aø©UP¨£mkÒÍx. ABCD GßÝ® P®¤a _¸Îß •øÚ A Aa\õo²hß {ø»¯õP¨ ö£õ¸zu¨£mkÒÍ P GÝ® ¤zuøÍ ÁøÍ¯zxhÝ® AÆÁõ÷Ó •øÚ D BÚx Q GÝ® ¤zuøÍ ÁøÍ¯zxhÝ® öuõhº¦£kzu¨£mkÒÍx. P, Q Gß£Ú |ÊÁÀ ÁøÍ¯[PÒ GÚ AøÇUP¨£k®.
+
+|ÊÁÀ Á»¯[PÒ öuõkøP²ÓUTi¯ÁõÖ Põ£ÛÚõÀ u¯õ›UP¨£mh X, YGÝ® y›øPPÒ Aø©UP¨£mkÒÍÚ. P®¤a_¸Ò C¢ y›øPPÒ X, Y ‰»® ¦Óa_ØÔ¾ÒÍ ø©¯¨§a]¯ PÀÁ÷Úõ©õÛ²hß CønUP¨£mkÒÍÚ. ABCD _¸Ò, |ÊÁÀ ÁøÍ¯®, y›øP Gß£Ú B÷©a\º GÚ AøÇUP¨£k®.
+
+P®¤a_¸Ò _Ç¾®÷£õx SÖUPõP Aø©¢xÒÍ Põ¢u¨¦»® _¸Îß AB, CD £SvPÒ ‰»® öÁmiU öPõsk £¯n® ö\´Áuß ‰»® ªßPõ¢uz yshÀ EshõS®. _ØÖ §μn¨£kzu¨£mkÒÍuõÀ ªßPõ¢uz yshÀ ‰»® AB, CD Gß£ÁØÔÀ ªß÷Úõmh® EshõÁ÷uõk AÆ÷Áõmhzvø\ø¯ ¤Íª[Qß ChUøP Âvø¯¨ £¯ß£kzv AÔ¯»õ®. £hzvÀ Põmi¯ÁõÖ Á»®_È¯õP
+
+151C»Á\¨ £õh¡À
+
+P®¤a _¸Ò _Ç¾®÷£õx AB £Sv ÷©À÷|õUQ Aø\²®÷£õx ªß÷Úõmh® AB vø\°¾® CD £Sv RÌ÷|õUQ Aø\²®÷£õx ¤Íª[Qß ChUøP Âv¨£i ªß÷Úõmh® CD vø\°¾® EshõS® GÚ GvºÄ TÓ»õ®. AB, CD °ß ‰»® ysh¨£mh ªß÷Úõmh® öuõhºa]¯õÚ J÷μ vø\°À ªß _¸ÎÞhõP £¯n® ö\´²®. AuõÁx ABCD ÁÈ÷¯ ªß÷Úõmh® ö\À¾®.
+
+öÁÎ¨¦Óa _ØÔ¾ÒÍ PÀÁ÷Úõ©õÛ°ÞhõP X °¼¸¢x Y C¢u ªß÷Úõmh® ö\À¾®. Cuß÷£õx PÀÁ÷Úõ©õÛ°ß Põmi Ch¨£UP©õP |P¸®. E¸ 13.16 CÀ Põ¢u¨¦»zvÝÒ _Ç¾® ABCD £SvPÍõÀ ªßPõ¢uz yshÀ ‰»® ªß EØ£zv¯õS® •øÓ E¸ 13.17 CÀ Põmh¨£mkÒÍx.
+
+E¸ 13.17 ªß÷Úõmh® EshõS® Âu®
+
+ªßPõ¢uz yshÀ
+
+Põ¢u¨ ¦»®
+
+Põ»®
+
+(a)
+
+A
+
+Vm
+
+-Vm
+
+OT/4TT/23T/4
+
+0o90o180o270o
+
+360o
+
+D
+
+A
+
+D
+
+A
+
+B
+
+CB
+
+B
+
+C
+
+D
+
+A
+
+D
+
+A
+
+D
+
+C
+
+B
+
+C
+
+C
+
+B
+
+(b)(c)(d)(e)
+
+Aø\Ä
+
+E¸ 13.17 £hzvÀ ÷©Ø£Sv°À Põ¢u¨¦»zvÀ P®¤a_¸Ò _Ç¾® Âu® Põmh¨£mkÒÍx.
+
+²P®¤a_¸Ò _ÇßÖ {ø» (a) °À C¸US® ÷£õx AB, CD £SvPÒ Aø\Áx ªßPõ¢u¨¦»zvØS \©õ¢uμ©õP Gß£uõÀ AøÁ Põ¢u Âø\U÷PõkPøÍ öÁmh©õmhõx. AuÚõÀ AB, CD °À ªßPõ¢uz yshÀ EshõPõx. AuÚõÀ ø©¯¨§a]¯ PÀÁ÷Úõ©õÛ°À Põmi §a]¯zvÀ Põn¨£k®.
+
+²P®¤a_¸Ò {ø» (a) °¼¸¢x {ø» (b) Áøμ _Ç¾®÷£õx Põ¢u Âø\U ÷PõkPÒ öÁmk¨£k® AÍÄ £i¨£i¯õPU Tk®÷£õx PÀÁ÷Úõ©õÛ °ß Põmi°ß vÓ®£À AÍÄ Tk®.
+
+²{ø» (b) °À Põmh¨£mkÒÍx {ø» (a) £Sv°À C¸¢x 90º _ÇßÓ AB, CD £SvPÎß Aø©ÁõS®. C[S AB ÷©÷»²® CD R÷Ç²® Aø\¢x Põ¢u
+
+152C»Á\¨ £õh¡À
+
+Âø\U ÷PõkPøÍ öÁmh¨£k®. Cuß÷£õx ABCD vø\°À ªß÷Úõmh® ö\ÀÁ÷uõk PÀÁ÷Úõ©õÛ°ß Põmi°ß vÓ®£À AvP›US®.
+
+²{ø» (b) °¼¸¢x {ø» (c) °ØSa ö\À¾® ÷£õx 90º °¼¸¢x 180º
+
+Áøμ P®¤a_¸Ò _ÇÀÁ÷uõk ªß÷Úõmh® SøÓÁ÷uõk «sk® PÀÁ÷Úõ©õÛ K´ÄUS Á¸®.
+
+²{ø» (c) °¼¸¢x {ø» (d) °ØS P®¤a_¸Ò _Ç¾®÷£õx 180º °¼¸¢x 270º Áøμ AB, CD £SvPÒ _Ç¾®. A[S AB R÷Ç²®, CD ÷©÷»²® Aø\Á÷uõk Põ¢u Âø\U÷PõkPÒ öÁmh¨£k®. Cuß÷£õx D °¼¸¢x C°ØS® B °¼¸¢x A °ØS® ªß÷Úõmh® £õ´uÀ ¤Íª[QØ ChUøP Âv°ß ‰»® ö£Ó¨£k®. Ca\¢uº¨£zvÀ ªß÷Úõmh® DCBA vø\°À £õ²®. Cuß÷£õx ¦Óa_ØÔ¾ÒÍ PÀÁ÷Úõ©õÛ°ÞhõP Á»¨£UP©õP Põmi Aø\²®.
+
+Põ¢u Âø\U÷PõkPÒ öÁmk¨£k® \¢uº¨£[PÎÀ ABCD uÍ® Põ¢u¨¦»zvØS ö\[SzuõPÄÒÍ {ø»PÒ (b), (d) uÍ[PÎÀ Ea\ ªßPõ¢uz ysh¾® Auß ‰»® E¯º ªß÷Úõmh•®, \©õ¢uμ©õP EÒÍ÷£õx {ø»PÒ ((a), (c), (e) ) °À §a]¯©õS® Gß£x® öuÎÁõQßÓx.
+
+CÆÁõÖ P®¤a_¸Ò öuõhº¢x® _Ç¾®÷£õx öÁÎ¨¦Óa_ØÔÀ ªß÷Úõmh® vø\ø¯ ©õØÔ ©õØÔ £õ´¢x ö\À¾®. PÀÁ÷Úõ©õÛ {ø» (b) °À Ch©õPÄ® {ø»PÒ (a), (c), (e) °À §a]¯©õPÄ® {ø» (d) °À Á»©õPÄ® «sk® «sk® Aø\¢x ªß÷Úõmhz vø\ø¯ Põmk®. AuõÁx P®¤a _¸Ò J¸ •ÊÁmh® _Ç¾®÷£õx JÆöÁõ¸ AøμÁmhzv¾® ªß÷Úõmh® £õ²® vø\ ÷ÁÖ£k®. C® ªß÷Úõmhz vø\ ©õÖ£k® Âu® E¸ 13.17 CÀ Põmi¯ÁõÓõÚ Aø»ÁiÂÀ Aø©²®.
+
+●Ü¬ê»… ²¼œ è£‰î ¸μ‚°Šð¡Q (moving coil magnetic micro-phone)
+
+_¸ÒPõ¢u®
+
+ÂuõÚ®
+
+S
+
+S
+
+N
+
+E¸ 13.18 Aø\²® _¸Ò ~qUS¨£ßÛ°ß SÖUSöÁmk
+
+153C»Á\¨ £õh¡À
+
+öuõÈØ£õk
+
+E¸ 13.18 BÚx Kº C¯[S® _¸Ò ~qUS¨£ßÛø¯ PõmkQÓx. ~qUS¨ £ßÛ°ß ÂuõÚzvØS J¼ø¯ ÁÈ¨£kzx® ÷£õx ÂuõÚ® EÒ÷Í²® öÁÎ÷¯²® Av¸®. A¨÷£õx AuÝhß CønUP¨£mkÒÍ C÷»\õÚ _¸Ð® AuØS Cø\ÁõP C¯[S®. _¸Ò Põ¢u¨ ¦»zvÀ C¯[SQßÓø©¯õÀ _¸Ðhß Cøn²® Põ¢u¨£õ¯® ©õÖÁuÚõÀ _¸ÎÀ ªßÛ¯UP Âø\ ysh¨£k®. _¸Ò C¸ vø\PÎ¾® C¯[SÁuÚõÀ ªßÛ¯UP Âø\°ß vø\²® Bh¾Ö®. A¨÷£õx ÁÈ¨£kzv¯ J¼US Cø\ÁõP ©õÖ® ~s BhÀ Kmh® (C¸ vø\PÎ¾® £õ²®) ~qUS¨ £ßÛ°¼¸¢x öÁÎ÷¯ ÁÇ[P¨£k®.
+
+●¬ê‚Aœ ¬îù«ñ£ (Bicycle dynamo)
+
+_Ç¾® Põ¢u®
+
+ö©ßÛ¸®¦
+
+PμhõÚ uø»
+
+_¸Ò
+
+N S
+
+E¸ 13.19 ø\UQÒ øuÚ÷©õ
+
+öuõÈØ£õk
+
+E¸ 13.19 BÚx ø\UQÒ øuÚ÷©õÂß Em£Sv EÖ¨¦UPøÍ PõmkQßÓx. PμhõÚ uø»ø¯a ø\UQÎß J¸ h¯¸hß öuõkøP²Ö©õÖ ö\´²®÷£õx h¯º _ØÖøP°À PμhõÚ uø» ÂøμÁõPa _ÇÀQßÓx.
+
+A¨÷£õx AuÝhß CønUP¨£mi¸US® E¸øÍU Põ¢u•® _ÇÀQßÓx.
+
+ö©À¼¸®ø£¨ £ØÔa _ØÓ¨£mkÒÍ _¸Ðhß öuõhº¦£mh Põ¢u¨¦»zvÀ EÒÍ ©õØÓzvß Põμn©õPa _¸ÎÀ J¸ ªßÛ¯UPÂø\ ysh¨£kQßÓx. Cuß ÂøÍÁõPa _¸Î¼¸¢x ªß÷Úõmh® ÁÇ[P¨£kQßÓx.
+
+_¸Ò J¸ ö©ßÛ¸®ø£¨ £ØÔa _ØÔ°¸¨£uÚõÀ Põ¢uÂø\U ÷PõkPøÍa JßÖ÷\ºzxa _¸ÎÞhõP AÝ¨£zuUPuõP C¸US® A÷u÷ÁøÍ A¨÷£õx _¸Ðhß ÷©õx® Põ¢uÂø\U ÷PõkPÎß GsoUøP AvP›¨£uÚõÀ Tku»õÚ ªßÛ¯UPÂø\ ysh¨£kQßÓx.
+
+154C»Á\¨ £õh¡À
+
+Põ¢u® _Ç¾®÷£õx Põ¢u¨¦»zvß vø\ ÷|μzvØS ÷|μ® ©õÖÁuÚõÀ ysi¯ Kmhzvß vø\²® ÷|μzvØS ÷|μ® ©õÖ£k®. BP÷Á ø\UQÒ øuÚ÷©õÂÚõÀ Bh÷»õmh® ÁÇ[P¨£kQßÓx (C¸ vø\PÎ¾® £õ²® Kmh®).
+
+ø\UQøÍ ÂøμÁõPa ö\¾zx®÷£õx ]À¾ _Ç¾® Pv AvP›UQßÓx. A¨÷£õx h¯¸hß öuõkøP²Ö® øuÚ÷©õÂß uø»²® ÂøμÁõPa _ÇßÖ Põ¢uzvß _ÇØ]U Pv AvP›US®. _¸Ðhß ÷©õx® Põ¢u¨ ¦»zvß ©õØÓ® ÂøμÁõQßÓø©¯õÀ ysi¯ ªßÛ¯UPÂø\ AvP›zxU Tku»õÚ Km-hzøu ÁÇ[SQßÓx. BP÷Á ø\UQÒ ÂÍUQß JÎºÂß ¤μPõ\® ø\UQÎß Pv²hß AvP›US®.
+
+øuÚ÷©õÂÀ \Uv {ø»©õØÓ® HØ£kQÓx. ªß E¸ÁõP øuÚ÷©õ _Ç» ÷Ásk®. BP÷Á C[S ö£õÔ•øÓa\Uv ªß\Uv¯õP ©õÖQßÓx.
+
+13.3.3 «ï«ó£†ìº‹ Ýì«ô£†ìº‹
+
+ªßP»ö©õßÖ®, uøhö¯õßÖ®, ø©¯¨§a]¯ PÀÁ÷Úõ©õÛö¯õßÖ® öuõhμõP CønUP¨£mh ªß_ØÖ 13.20 (a) °À Põmh¨£mkÒÍx. (C[S uøh CønUP¨£mhø©UPõÚ Põμn® Tku»õÚ ªß÷ÚõmhzvÚõÀ PÀÁ÷Úõ©õÛ £õv¨£øhÁøuz uk¨£uØPõS®) C[S PÀÁ÷Úõ©õÛ °ÞhõP ÷|º ªß÷Úõmhö©õßÖ £õ´Áx PÀÁ÷Úõ©õÛ°ß Põmi J¸ vø\°À ©mk÷© Aø\ÁøuU öPõsk AÔ¯»õ®. ÷|μzvØS GvμõP £õ²® ªß÷Úõmh® (AÀ»x ªßÚÊzu®) zøu Áøμ¦ £kzvÚõÀ 13.20 (b) E¸ÂÀ Põmi¯ÁõÓõÚ ÷|º÷Põk QøhUS®.
+
+(a)
+
+100Ω
+
+
+
+ªß÷Úõmh® / ªßÚÊzu®
+
+Põ»®0(b) ÷|÷μõmh®
+
+E¸ 13.20 ÷|º ªß÷Úõmh ªß_ØÖ
+
+E¸ 13.21 (a) CÀ Põmi¯ÁõÖ •ßÚº Â£›zu øuÚ÷©õøÁ²® uøhø¯²® PÀÁ÷Úõ©õÛø¯²® öuõhμõP Cønzx B÷©a\øμ ö©xÁõP _ÇØÔÚõÀ ø©¯¨§a]¯ PÀÁ÷Úõ©õÛ°ß Põmi §a]¯zvÞhõP ÷|º, ©øÓ vø\
+
+155C»Á\¨ £õh¡À
+
+PÎÀ Aø»ÄÖ®. GÚ÷Á ÷|μzvØS GvμõP ªß÷Úõmh® (ªßÚÊzu®) Áøμ¦£kzx®÷£õx E¸ 13.21 (b) CÀ Põmi¯ÁõÖ Áøμ¦ QøhUS®.
+
+(a)
+
+100Ω
+
+
+
+
+
+Bh÷»õmh Aø» Áøμ¦(b)
+
+ªß÷Úõmh® / ªßÚÊzu®
+
+Põ»®
+
+
+
+Bh÷»õmh ªß¤Ó¨£õUQ
+
+E¸ 13.21 Bh÷»õmh ªß÷Úõmh _ØÔß JÊ[Pø©¨¦
+
+•uØ \¢uº¨£zvÀ (E¸ 13.20) ªß÷Úõmh® £õ²® vø\ ©õÖ£hõuuõÀ AÆÁõÓõÚ ÷|μzxhß ªß÷Úõmhz vø\ ©õÓõu ªß÷Úõmh® ÷|÷μõmh® GÚ¨£k®.
+
+CμshõÁx \¢uº¨£zvÀ (E¸ 13.21) ªß÷Úõmhzvø\ ÷|μzxhß ©õØÓ ©øh²®. CÆÁõÓõÚ ªß÷Úõmhzvø\ ÷|μzxhß ©õÖ£k® ªß÷Úõmh® Bh÷»õmh ªß÷Úõmh® GÚ¨£k®.
+
+£°Ø] 13.4£°Ø] 13.4
+
+1. ÷|÷μõmh ªß÷Úõmh®, Bh÷»õmh ªß÷Úõmh® Gß£ÁØøÓ¨ £¯ß£kzx® \¢uº¨£[PÒ ]»ÁØøÓ GÊx[PÒ.
+
+2. ÷|μzxhß ªß÷Úõmh® ©õÖ£k® ÂuzøuU Põmk® £À÷ÁÖ Áøμ¦PÒ R÷Ç Põmh¨£mkÒÍÚ. CøÁ GÆÁøP¯õÚ ªß÷Úõmh® GÚUTÔ AuØPõÚ Põμnzøu u¸P.
+
+÷|μ®
+
+ªß÷Úõmh®
+
+0
+
+(a)
+
+÷|μ®
+
+ªß÷Úõmh®
+
+0
+
+(b)
+
+156C»Á\¨ £õh¡À
+
+÷|μ®
+
+ªß÷Úõmh®
+
+O
+
+(c)
+
+÷|μ®
+
+ªß÷Úõmh®
+
+O
+
+(d)
+
+(e)
+
+÷|μ®
+
+ªß÷Úõmh®
+
+O
+
+(f)
+
+÷|μ®
+
+ªß÷Úõmh®
+
+O
+
+13.3.4 G¬ôñ£ŸPèœ
+
+3v
+
+ö\¯Ø£õk 13.6
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : Poa] 28 Eøh¯ 2 m }Í©õÚ PõÁ¼mh ö\¨¦UP®¤ ÁøPø¯a ÷\º¢u PõÁ¼h¨£mh ö\¨¦U P®¤ ö©À¼¸®¦UP®¤UPmk, E»ºP»® 2, ø©¯¨§a]¯ PÀÁ÷Úõ©õÛ JßÖ, BÎ JßÖ
+
+² ö©À¼¸®¦U P®¤UPmiß «x HÓzuõÇ 100 _ØÖUPøÍ PõÁ¼h¨£mh P®¤ÚõÀ _ØÖ[PÒ.
+
+² ¤ßÚº Aa_ØøÓ¨÷£õßÓ CßöÚõ¸ _ØøÓ Aa_ØÔ¼¸¢x 1 cm yμzvÀ _ØÖ[PÒ.
+
+P®¤a _¸Ò
+
+ö©À¼¸®¦ P®¤PÎß Pmk
+
+3V
+
+ASB
+
+157C»Á\¨ £õh¡À
+
+3v
+
+S BÎø©¯¨§a]¯ PÀÁ÷Úõ©õÛ°ß Põmi°ß Aø\Äö£Ö÷£Ö
+
+BÎø¯ ‰kuÀ (ON)(Ch©õP / Á»©õP) Põmi v¸®£»øh²®
+
+ªß÷Úõmh® CμshõÁx _ØÔÀ (A °À °ØS B °À C¸¢x A °ØS £õ²®)
+
+öuõhº¢x® BÎ ‰h¨£mi¸zuÀ
+
+Põmi (v¸®£»øh²® / v¸®£»øhÁvÀø»)
+
+ªß÷Úõmh® (£õ²® / £õ¯õx)
+
+BÎø¯ vÓzuÀ (OFF)
+
+•uÀ vø\US Gvºz vø\°À (Ch©õP / Á»©õP) v¸®£»øh²®
+
+•uÀ vø\US Gvºzvø\°À ªß÷Úõmh® (£õ²® / £õ¯õx)
+
+öuõhº¢x® BÎø¯ vÓ¢v¸zuÀ
+
+v¸®£À (Esk / CÀø»)ªß÷Úõmh® (£õ²® / £õ¯õx)
+
+² £hzvÀ Põmi¯ÁõÖ BÎø¯²® 1.5 V E»º ªß P»[PÒ Cμsøh²® öuõhμõP _ØÔÀ Cøn²[PÒ. ©ØøÓ¯ _ØøÓ ø©¯¨§a]¯ PÀÁ÷Úõ©õÛ²hß Cøn²[PÒ.
+
+² C¨÷£õx •u»õÁx _¸Ðhß CønUP¨£mh BÎø¯ ‰i, vÓ¢x PÀÁ÷Úõ©õÛ°ß F]°ß v¸®£ø» AÁuõÛ²[PÒ. CuÚi¨£øh°À R÷Ç Põmh¨£mkÒÍ AmhÁøn°¾ÒÍ ¤øÇ¯õÚ ö\õÀø» }UQ AmhÁønø¯¨ §μn¨£kzx[PÒ.
+
+Ca ö\¯Ø£õmøha ö\´Áuß ‰»® R÷Ç SÔ¨¤h¨£mkÒÍ •iÄPÐUS Áμ»õ®.
+
+² •u»õÁx _ØÔÀ ªß÷Úõmh® £õ¯ Bμ®¤US® PnzvÀ CμshõÁx _ØÔÀ ªß÷Úõmh® ysh¨£k®.
+
+² •u»õÁx _ØÔÀ ªß÷Úõmh® öuõhº¢x £õ²®÷£õx CμshõÁx _ØÔÀ ªß÷Úõmh® £õ´Áx {ßÖÂk®.
+
+² «sk® •uÀ _ØÔÀ ªß÷Úõmh® £õ²®÷£õx CμshõÁx _ØÔÀ •uÀ uhøÁ ªß÷Úõmh® £õ´¢u vø\US Gvºzvø\°À ªß÷Úõmh® £õ²®.
+
+² •uÀ _ØÔÀ ªß÷Úõmh® £õ´Áx {Özu¨£mhÄhß CμshõÁx _ØÔÀ ªß÷Úõmh® §a]¯©õS®.
+
+158C»Á\¨ £õh¡À
+
+C[S •uÀ _ØÔÀ ªß÷Úõmh® £õ´ÁuØS •ßÚº _ØÖUSU SÖUPõP Põ¢u¨¦»® CÀø». •uÀ _ØÔÀ ªß÷Úõmh® £õ¯ Bμ®¤US®÷£õx Põ¢u¨¦»ö©õßÖ E¸ÁõS®. CU Põ¢u¨¦»® ö©À¼¯ C¸®¦U P®¤U Pmi°ÞhõP CμshõÁx _ØøÓ ÷|õUQ¨ £¯n® ö\´²®. CμshõÁx _ØÔÀ EshõS® CU Põ¢u¨¦» ©õØÓ® Põμn©õP CμshõÁx _ØÔÀ ªßÛ¯UPÂø\ ysh¨£mk Auß ÂøÍÁõP ªß÷Úõmh® £õ¯ vÓ®£À JßøÓ PÀÁ÷Úõ©õÛ Põmk®.
+
+•u»õÁx _ØÔÀ öuõhº¢x® ªß÷Úõmh® £õ²® ÷£õx Põ¢u¨¦»® öuõhº¢x® ©õÖu»øh¯õx C¸¨£uõÀ CμshõÁx _¸ÎÀ Põ¢u¨¦»zvÀ GxÂu©õØÓ•® HØ£hõx. GÚ÷Á AvÀ ªßÛ¯UPÂø\ ysh¨£hõx. GÚ÷Á PÀÁ÷Úõ©õÛ°À vÓ®£À HØ£hõx.
+
+«sk® •uÀ _ØÔ¾ÒÍ BÎø¯ vÓUS® ÷£õx A[S £õ²® ªß÷Úõmh® xsiUP¨£k®. CuÚõÀ ªß÷ÚõmhzvÚõÀ ysh¨£mh Põ¢u¨¦»® AØÖ¨÷£õS®. Cuß Põμn©õP Põ¢u¨¦»® AØÖ¨÷£õS®. CμshõÁx _¸ÎÀ Põ¢u¨ £õ¯zvÀ ©õØÓ® HØ£k®. GÚ÷Á CμshõÁx _¸ÎÀ ªßÛ¯UP Âø\ JßÖ ysh¨£k®. Czysi¯ ªßÛ¯UPÂø\ •ßÚº {PÌ¢u ©õØÓzøu GvºUS® ÁøP°À C¸US®. CuÚõÀ PÀÁ÷Úõ©õÛ°Þk •ßøÚ¯ GvμõÚ vø\°À vÓ®£À HØ£k®.
+
+•uØ _¸ÎÀ ªß÷Úõmh¨ £õ´a\À CÀø» GÛÀ Cμshõ® _¸ÎÀ Põ¢u¨£õ¯zvÀ ©õØÓ® HØ£hõuuß Põμn©õP AvÀ ªßÛ¯UPÂø\ ysh¨£h©õmhõx. GÚ÷Á PÀÁ÷Úõ©õÛ°ß vÓ®£À §a]¯©õS®. GÚ÷Á •u»õÁx _ØÔ¼¸¢x CμshõÁx _ØøÓ ÷|õUQ¯ Põ¢u¨¦»zvÀ ©õØÓzøu HØ£hzx® GÀ»õ \¢uº¨£[PÎ¾® CμshõÁx _ØÔÀ ªßÛ¯UPÂø\ ysh¨£k® Gß£øu |õ® Cv¼¸¢x AÔ¢x öPõÒÍ»õ®.
+
+•u»õÁx _¸Î¾ÒÍ ªßP»zvØS £v»õP Bh¾Ö® AÊzuzøu |õ® CønUS®÷£õx (E¸ 13.21 CÀ Põmh¨£mkÒÍÁõÖ) Põ¢u¨¦»zvÀ öuõhºa]¯õP ©õØÓ® HØ£kÁuß Põμn©õP CμshõÁx _¸ÎÀ A÷u ©õv›¯õÚ Bh¾Ö® AÊzu ÷ÁÖ£õk JßÖ ysh¨£k®. AÆÁõÖ _¸ÒPÎß Põ¢u¨¦»zvÞhõÚ Cøn¨¦ {ø»©õØÔ GÚ¨£k®.
+
+{ø»©õØÔ _ØÔ Á›¨£hzøu R÷Ç EÒÍ E¸ PõmkQßÓx.
+
+C[S P®¤a _¸ÐUQøh°À EÒÍ ÷|º÷PõkPÒ ö©À¼¸®£õÛø¯ SÔUS®.
+
+159C»Á\¨ £õh¡À
+
+G¬ôñ£ŸPJ¡ è†ì¬ñŠ¹
+
+E¸ 13.22 CÀ Põmh¨£mkÒÍx {ø»©õØÔ°ß GÎ¯ Aø©¨£õS®. C[S ö©À¼¸®¦ ÁøÍ¯zvÀ PõÁ¼h¨£mh ö\¨¦UP®¤a _ØÖUPÒ Cμsk _ØÓ¨£mkÒÍx.
+
+•u»õÁx _¸Ò
+
+~•u»õÁx _¸Ò ªß ÁøÍ°
+
+CμshõÁx _¸Ò
+
+E¸ 13.22 GÎ¯ {ø»©õØÔ
+
+•uØ_ØÖxøna_ØÖ
+
+_ØÖPÎß GsoUøP NP_ØÖPÎß GsoUøP NsªßÚÊzu® VPyshÀ AÊzu® VS
+
+ö£õxÁõP {ø»©õØÔö¯õßÔß J¸ _ØÖUS Bh¾¸® Á¾ÁÇ[Q Cøn¨£÷uõk Cμshõ® _ØÖUS _ø© (Kº uøh AÀ»x Bh¾¸® Á¾ ÁÇ[Q°À ö\¯Ø£k® ªß E£Pμnö©õßÖ) CønUP¨£k®. _ØÖUS Á¾øÁ ÁÇ[S® •u»õÁx P®¤a _¸Ò •uØ_¸Ò AÀ»x "ö£´¨¦' GÚÄ® \Uvø¯¨ ö£ØÖUöPõÒÐ® CμshõÁx _¸Ò xøna_¸Ò AÀ»x "£¯¨¦' GÚÄ® AøÇUP¨£k®. •uØ_ØÖUS ÁÇ[P¨£k® ªßÚÊzu® VP GÚÄ® xøna_ØÔß AÊzu® VS GÚÄ® AøÇUP¨£k®.
+
+•uØ_ØÖUS ÁÇ[P¨£mh VP ªßÚÊzu® •uÀ _ØÔÀ ªß÷Úõmhzøu HØ£kzxÁxhß AuÚõÀ Bh¾¸® Põ¢u¨¦»® E¸ÁõS®. CU Põ¢u¨¦»® ö©À¼¸®¦ APo°ÞhõP CμshõÁx _ØÔÀ CønÁuÚõÀ CμshõÁx _ØÔÀ VS ªßÚÊzu® EshõS®.
+
+{ø»©õØÔö¯õßÔß _¸ÒPÎß GsoUøPUS® AÁØÔÀ EshõS® ªßÚÊzu ÷ÁÖ£õmkUS® Cøh°»õÚ öuõhºø£ ¤ßÁ¸©õÖ Põmh»õ®.
+
+•uÀ _ØÖUPÎß GsoUøP
+
+xøna _ØÖUPÎß GsoUøP
+
+•uØ_ØÔß ªßÚÊzu®
+
+xøna _ØÔß ªßÚÊzu®
+
+NP
+
+NS
+
+VP
+
+VS
+
+160C»Á\¨ £õh¡À
+
+Cuß Ai¨£øh°À •uÀ _ØÔ¾ÒÍ _¸ÒPÎß GsoUøP NP xøna _ØÔ¾ÒÍ _¸ÒPÎß GsoUøP NS BQ¯ÁØÖUQøh°»õÚ ÂQuzøu ©õØÖÁuß ‰»® xøna _ØÔß yshÀ AÊzuzøu TmiU SøÓzxU öPõÒÍ»õ®.
+
+CuØ÷PØ£ {ø»©õØÔ°ß C¸ ÁøPPøÍU Põmh»õ®.
+
+(1) £i²¯ºzx {ø»©õØÔPÒ (Step-up transformers)
+
+(2) £iSøÓ {ø»©õØÔPÒ (Step-down transformers)
+
+(1) £i²¯ºzx {ø»©õØÔPÒ
+
+PS
+
+•ußø©a _¸Ò
+
+xøna _¸ÒÁÇ[S® ÷ÁõÀØÓÍÂ¾® £õºUP¨ £¯¨¦ ÷ÁõÀØÓÍøÁU TmhzuUP {ø»©õØÔ PÒ £i²¯ºzx {ø»©õØÔPÒ BS®. CÁØÔß •ußø©a _¸Îß •ÖUS GsoUøP°¾® £õºUPz xøna _¸Îß •ÖUS GsoUøP Ti¯x.
+
+(2) £iSøÓ {ø»©õØÔPÒ
+
+PS
+
+•ußø©a _¸Òxøna _¸Ò
+
+ÁÇ[S® ÷ÁõÀØÓÍÂ¾® £õºUP¨ £¯¨¦ ÷ÁõÀØÓÍøÁU SøÓUPzuUP {ø»©õØÔ PÒ £iSøÓ {ø»©õØÔPÒ BS®. CÁØÔß •ußø©a _¸Îß •ÖUS GsoUøP°¾® £õºUPz xøna _¸Îß •ÖUøP GsoUøP SøÓ¢ux.
+
+{ø»©õØÔPÒ £¯ß£kzu¨£k® \¢uº¨£[PÒ
+
+²÷u]¯ Á¾ ö|´¯›US ÁÇ[SÁuØS •ß ªß Á¾ {ø»¯[PÎÀ EØ£zv ö\´¯¨£k® Bh¾¸® ªß 132 000 V (132 kV) AÀ»x 220 000 V (220 kV) ÷£õßÓ E¯º ÷ÁõÀØÓÍÄ¨ ö£Ö©õÚ[PÐUS E¯ºzxÁuØS £i²¯ºzx {ø»©õØÔPÒ £¯ß£kzu¨£k®.
+
+²¤μuõÚ ªß FkPhzx® {ø»¯[PÎ¼¸¢x ÁÇ[P¨£k® ªßøÚ Ãk-PÐUS Â{÷¯õQUS® E£{ø»¯[PÒ, Á¾¨ ö£õvPÒ, PoÛ, ÁõöÚõ¼ BQ¯ ªßÝ£Pμn[PÐUS £iSøÓ {ø»©õØÔPÒ £¯ß£kzu¨£k®.
+
+²~snø» PÚ¼, PvºU SÇõ´ BQ¯ÁØÔÀ E¯º ÷ÁõÀØÓÍøÁ ö£ØÖU öPõk¨£uØS £i²¯ºzx {ø»©õØÔPÒ £¯ß£k®.
+
+161C»Á\¨ £õh¡À
+
+{ø»©õØÔ°À \Uvz öuõhº¦
+
+Kº C»m]¯ {ø»©õØÔ°À \Uv CÇ¨¦ CÀø»ö¯ÚU öPõshõÀ Auß vÓß 100 % BS®. A¨÷£õx •ußø©°ß Á¾Ä® xøn°ß Á¾Ä® \©®.
+
+Á¾ = AÊzu Âzv¯õ\® × Kmh®
+
+BøP¯õÀ, ¤ßÁ¸® öuõhº¦øhø©ø¯¨ ö£Ó»õ®.
+
+\Uv |mh® §a]¯©õP C¸US®÷£õx
+
+•ußø©°ß Á¾ = xøn°ß Á¾ BøP¯õÀ,
+
+•ußø©°ß AÊzu Âzv¯õ\® × •ußø©°ß Kmh® = xøn°ß AÊzu
+
+Âzv¯õ\® × xøn°ß Kmh®
+
+CuØ÷PØ£,
+
+IPIs=VPVs
+
+Ip = •ußø©a _¸Îß Kmh®
+
+Is = xøna _¸Îß Kmh®
+
+Vp = •ußø©°ß AÊzu Âzv¯õ\®
+
+Vs = xøn°ß AÊzu Âzv¯õ\®
+
+Euõμn® :- J¸ SÔzu {ø»©õØÔ°ß •ußø©a _¸Îß •ÖUS GsoUøP 500 E® xøna _¸Îß •ÖUS GsoUøP 5000 E® BS®. Auß •ußø©a _¸ÐUS AÊzu Âzv¯õ\® 12 V BPÄÒÍ Bh÷»õmh® ÁÇ[P¨£kQßÓx. A¨÷£õx •ußø©USU QøhUS® Kmh® 2 V GÛß,
+
+(i) {ø»©õØÔ°ß xøna _¸Îß AÊzu Âzv¯õ\zøuU PõsP.
+
+(ii) {ø»©õØÔ°ß xøna _¸Îß KmhzøuU PõsP.
+
+(iii) Cx GÆÁøP {ø»©õØÔ¯õS®?
+
+162C»Á\¨ £õh¡À
+
+Np
+
+Np
+
+500
+
+Vp
+
+Vp
+
+12 V
+
+Ns
+
+Ns
+
+x 5000
+
+Vs
+
+Vs
+
+Vs
+
+Vs
+
+Vs I GÊÁõ¯õUS÷Áõ®. A¨÷£õx
+
+
+
+
+
+120 V
+
+(i) Np = 500, Ns = 5000, Vp = 12 V, Vs = ?
+
+VsIpIsVp=
+
+VpVs
+
+IpIs
+
+(ii) Vp = 12 V, Vs = 120 V, Ip = 2 A, Is = ?
+
+12 V x 2 A120 V2 A10
+
+Is
+
+Is
+
+Is
+
+
+
+
+
+0.2 A
+
+(iii) Cx £i Tmk {ø»©õØÔ
+
+163C»Á\¨ £õh¡À
+
+ö£õÈ¨¦
+
+²ªß÷Úõmh® £õ²® Phzvø¯a _ØÔ EshõS® Põ¢u¨ ¦»zvß vø\ø¯ Á»UøPz uUøPz v¸SÂv°ß ‰»® Põn»õ®.
+
+²Kmh® £õ²® vø\°À uUøPz v¸Qß (Á»UøP¨ ¦› EÒÍ v¸S) ~Û ö\À¾® ÷£õx uUøPz v¸Qß uø» _Ç¾® vø\°À Põ¢u¨ ¦»® C¸UQßÓx.
+
+²J¸ ªß÷Úõmh® £õ²® Phzvø¯U Põ¢u¨ ¦»zvÀ øÁUS®÷£õx AUPhzv «x J¸ Âø\ EshõQßÓx.
+
+²CÆÂø\¯õÚx Phzv°ÞhõÚ Kmh®, Phzv°ß }Í®, Põ¢u¨ ¦»zvß Á¼ø© GßÝ® ‰ßÖ PõμoPÐUS ÷|μi ÂQu\©®.
+
+²J¸ Põ¢u¨¦»zvÀ øÁzu Kmh® £õ²® Phzv «x J¸ Âø\ EshõS®÷£õx Ax C¯[SQßÓx.
+
+²C¯[S® vø\ø¯U Põs£uØS¨ ¤öÍª[Wß ChUøP Âvø¯¨ £¯ß£kzu»õ®.
+
+²ChUøP°ß ö£¸ÂμÀ, _mkÂμÀ, |kÂμÀ BQ¯ ‰ßøÓ²® JßÖUöPõßÖ ö\[SzuõP øÁzxUöPõsk Kmhzvß vø\°À |kÂμø»²® Põ¢u¨¦»zvß vø\°À _mk Âμø»²® ÁÈ¨£kzx®÷£õx ö£¸ÂμÀ ÁÈ¨£kzu¨£k® vø\°À Phzv «x Âø\ (C¯UP®) EshõQßÓx.
+
+²J¸ Põ¢u¨ ¦»zvÀ øÁUP¨£mh Kmh® £õ²® Phzv «x EshõS® Âø\ø¯¨ £¯ß£kzv ÷|÷μõmh ÷©õmhº, J¼ö£¸UQ ÷£õßÓ E£Pμn[PÒ öuõÈØ£kQßÓÚ.
+
+²÷©õmh›ß ö\¯Ø£õmiÀ ªß\Uv ö£õÔ•øÓa \Uv¯õP ©õØÓ¨£kQßÓx.
+
+²‰i¯ ªß_ØÔÀ Põ¢u¨£õ¯ ©õØÓ® Põμn©õP AÊzu Âzv¯õ\z øua _ØÔÀ EshõUPÀ ªßPõ¢uz yshÀ GÚ¨£k®.
+
+164C»Á\¨ £õh¡À
+
+²ysi¯ ªßÛ¯UP Âø\°ß £¸©ÛÀ _¸Îß •ÖUS GsoUøP, Põ¢uzvß Á¼ø©, Põ¢u® C¯[S® Pv GßÝ® PõμoPÒ ö\ÀÁõUSa ö\¾zxQßÓÚ.
+
+²J¸ ÷|›¯ Phzv°ß ysi¯ Kmhzvß vø\ø¯U Põs£uØS¨ ¤öÍª[Wß Á»UøP Âv £¯ß£kzu¨£kQßÓx.
+
+²Á»UøP°ß ö£¸ÂμÀ, _mkÂμÀ, |kÂμÀ BQ¯ ‰ßøÓ²® JßÖUöPõßÖ ö\[SzuõP øÁzuU öPõsk Põ¢u¨ ¦»zvß vø\°À _mk® Âμø»²® C¯[S® vø\°À ö£¸Âμø»²® ÁÈ¨£kzx®÷£õx |kÂμÀ ÁÈ¨£kzu¨£k® vø\°À ysi¯ Kmh® £õ´QßÓx.
+
+²ªßPõ¢uz yshÀ £¯ß£kzu¨£k® \¢uº¨£[PÍõPa ø\UQÒ øuÚ÷©õ, Aø\²g _¸Ò ~qUS¨£ßÛ BQ¯ÁØøÓU Põmh»õ®.
+
+²÷|μzxhß Kmhzvß £¸©Ý® vø\²® ©õÓõÂmhõÀ, AzuøP¯ Kmh® ÷|÷μõmh©õS®.
+
+²÷|μzxhß Kmhzvß £¸©ß AÀ»x vø\ AÀ»x £¸©Ý® vø\²® ©õÔÚõÀ, AzuøP¯ Kmh® Bh÷»õmh©õS®.
+
+²E»º P»[PÒ, `›¯ P»[PÒ Gß£ÁØÔÀ C¸¢x ÷|÷μõmhzøu²® Bh÷»õmhz øuÚ÷©õÂ¼¸¢x Bh÷»õmhzøu²® ö£Ó»õ®.
+
+²{ø»©õØÔPÎß ‰»® Bh¾¸® ÷ÁõÀØÓÍøÁ J¸ ö£Ö©õÚz v¼¸¢x ÷ÁöÓõ¸ ö£Ö©õÚzxUS ©õØÓ»õ®.
+
+²{ø»©õØÔPÎß •ußø©a _¸ÐUS® xøna _¸ÐUSªøh÷¯ EÒÍ öuõhº¦øhø©
+
+VpVsNpVp
+
+NsVsIpIs
+
+165C»Á\¨ £õh¡À
+
+13.4 £°Ø]
+
+1. J¸ {ø»©õØÔ°ß •ußø©a _¸Îß •ÖUSPÎß GsoUøP 1000 BP C¸US® A÷u ÷ÁøÍ xøna _¸ÎÀ 100 •ÖUSPÒ EÒÍÚ. Auß •ußø©a _¸ÐUS AÊzu Âzv¯õ\® 230V BPÄÒÍ Kº Bh÷»õmh® ÁÇ[P¨£kQßÓx. {ø»©õØÔ°À \Uv |mh® CÀø»ö¯ÚU öPõsk ¤ßÁ¸ÁÚÁØøÓU PõsP.
+
+(i) xøn°¼¸¢x ö£ÓzuUP E¯º¢u£m\ AÊzu Âzv¯õ\®,
+
+(ii) •ußø©US 5 A Kmhzøu ÁÇ[QÚõÀ xøn°¼¸¢x ÁÇ[S® Kmh®
+
+2. J¸ SÔzu {ø»©õØÔ°ß •ußø©a _¸Îß •ÖUS GsoUøP 5000 E® xøna _¸Îß •ÖUS GsoUøP 500 E® BS®. Auß •ußø©a _¸ÐUS 230 V AÊzu Âzv¯õ\® ÁÇ[P¨£kQßÓx. {ø»©õØÔ°ß vÓß 100 % GÛß,
+
+(i) xøn°¼¸¢x ÁÇ[S® AÊzu Âzv¯õ\zøuU PõsP.
+
+(ii) xøn°¼¸¢x ÁÇ[S® Kmh® 10 A GÛß, •ußø©US ÁÇ[P¨£k® KmhzøuU PõsP.
+
+3. J¸ SÔzu {ø»©õØÔ°ß •ußø©a _¸ÎÚx® xøna _¸ÎÚx® •ÖUS GsoUøPPÒ 1 : 10 GßÝ® ÂQuzvÀ EÒÍÚ. •ußø©a _¸ÐUS 6 V Bh÷»õmh® ÁÇ[P¨£mkÒÍx. xøn°¼¸¢x 20 A Kmhzøu¨ ö£Ó÷Ási²ÒÍx. {ø»©õØÔ°ß vÓß 100 % GÚU öPõsk ¤ßÁ¸ÁÚÁØøÓU PõsP.
+
+(i) xøn°¼¸¢x ÁÇ[P¨£k® AÊzu Âzv¯õ\®
+
+(ii) •ußø©US ÁÇ[S® Kmh®
+
+(iii) •ußø©°ß ÷ÁõÀØÓÍÄUS® xøn°ß ÷ÁõÀØÓÍÄUS ªøh÷¯ EÒÍ ÂQu®
+
+(iv) •ußø©°ß KmhzvØS® xøn°ß KmhzvØSªøh÷¯ EÒÍ ÂQu®
+
+166C»Á\¨ £õh¡À
+
+4. ªßPõ¢uz yshÀ £¯ß£kzu¨£k® £» \¢uº¨£[PÒ EÒÍÚ. ªßPõ¢uz yshÀ ÷uõØÓ¨£õmøha ö\´xPõmkÁuØSz u¯õº ö\´u Kº JÊ[Pø©¨¦ R÷Ç EÒÍ E¸ÂÀ Põn¨£kQßÓx.
+
+Á›a _¸ÒG
+
+AB
+
+Amøhz uõÒ SÇõ´
+
+\mhU Põ¢u®
+
+(i) ªßPõ¢uz yshÀ Gß£øu GÎuõP AÔ•Pg ö\´P.
+
+(ii) J¸ \mhU Põ¢uzvß Áh•øÚÄ ÂøμÁõPa _¸øÍ ÷|õUQU öPõsk Áμ¨£k®÷£õx ø©¯¨ §a]¯U PÀÁ÷Úõ©õÛ (G) Cß vÓ®£À Á»¨£UP©õP HØ£mhx. Cuß PÀÁ÷Úõ©õÛ°ÞhõP EÒÍ Kmh® A °¼¸¢x B °ØPõ AÀ»x B °¼¸¢x A °ØPõ £õ´QßÓx?
+
+(iii) \mhU Põ¢uzvß Áh•øÚøÁ Á›a_¸Î¼¸¢x A¨£õÀ GkUS®÷£õx PÀÁ÷Úõ©õÛ°ß vÓ®£À |øhö£Ö® vø\ ¯õx?
+
+(iv) Põ¢uz öuß •øÚøÁ Á›a_¸øÍ ÷|õUQU öPõsk ö\ßÓõÀ, PÀÁ÷Úõ©õÛ°ß vÓ®£À EshõS® vø\ ¯õx?
+
+(v) PÀÁ÷Úõ©õÛ°ÞhõP¨ £õ²® Kmhzvß Á¼ø© \õº¢v¸US® ‰ßÖ PõμoPøÍ GÊxP.
+
+B
+
+C
+
+D
+
+A
+
+xy
+
+5. J¸ ø\UQÒ øuÚ÷©õÂß Em£SvPÒ ¤ßÁ¸® E¸ÂÀ Põmi²ÒÍÁõÖ EÒÍÚ.
+
+(i) C[S A, B, C, D BQ¯ £SvPøÍ¨ ö£¯›kP.
+
+(ii) øuÚ÷©õÂß öuõÈØ£õmiØS Ai¨ £øh¯õÚ ÷Põm£õk ¯õx?
+
+(iii) Cz øuÚ÷©õÂß öuõÈØ£õmøh ÂÍUSP.
+
+167C»Á\¨ £õh¡À
+
+(iv) ø\UQÒ øuÚ÷©õÂ¼¸¢x ÁÇ[P¨ £k® Kmh® ÷|÷μõmh©õ? Bh÷»õmh©õ?
+
+(v) C[S EshõS® Kmhzvß ªßÛ¯UP Âø\ ÷|μzxhß ©õÖ® ÂuzøuU PõmkÁuØS J¸ £¸®£i Áøμø£ ÁøμP.
+
+(vi) ø\UQÒ ÂÍUQß JÎºÄ ø\UQÒ ö\¾zu¨£k® Pv²hß ©õÖQßÓx. Cx |øhö£Ö® Âuzøu ÂÍUSP.
+
+(vii) ø\UQÒ øuÚ÷©õÂß ‰»® ø\UQÒ ÂÍUS JÎºzu¨£k®÷£õx |øhö£Ö® \Uv ©õØÓzøu GÊxP.
+
+6. ¤ßÁ¸Áx Kº Aø\²g _¸Ò ~qUS¨£ßÛ¯õS®. A, B, C, D GßÝ® £SvPøÍ ö£¯›mk Auß öuõÈØ£õkPøÍ Â£›USP.
+
+S
+
+S
+
+N
+
+B
+
+A
+
+C
+
+D
+
+Pø»a ö\õØPÒ Põ¢u¨¦»® - Magnetic ﬁeld
+
+£iTmk {ø»©õØÔ - Step - up transformer
+
+£i SøÓ {ø»©õØÔ - Step - down transformer
+
+Põ¢u® - Magnet
+
+Á¾ - Power
+
+_¸Ò - Coil
+
+{ø»©õØÔ - Transformer
+
+Bh÷»õmh® - Alternating Current
+
+ªßPõ¢u yshÀ - Electro Magnetic Induction
+
+yshÀ ªß÷Úõmh® - Induced Current
+
+ªßÛ¯UPÂø\ - Electromotive force

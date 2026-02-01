@@ -1,0 +1,613 @@
+==== BLOCKS ==== 
+
+36C»Á\¨ £õh¡À
+
+10
+
+ngsjpftpay;kpd; rhjdq;fspd; tYTk; rf;jpAk;
+
+ÁõÌÂß £À÷ÁÖ £oPøÍ GÎuõP {øÓ÷ÁØÖÁuØS |õ® ªß \Uvø¯¨ £¯ß£kzxQß÷Óõ®. Ca\¢uº¨£[PÒ GÀ»õÁØÔ¾® ªß \Uvø¯ ÷ÁöÓõ¸ \Uv¯õP ©õØÔ AuøÚ¨ £¯ß£kzxQ÷Óõ®. Ca\Uv {ø»©õØÓzvØS¨ £¯ß£kzu¨£k® E£Pµn[PøÍ |õ® \õuÚ[PÒ GÚ AøÇUQ÷Óõ®. AßÓõh ÁõÌÂÀ £¯ß£kzu¨£k® ]» ªß\õuÚ[PÎÀ {PÊ® \Uv {ø»©õØÓ® R÷Ç uµ¨£mkÒÍx.
+
+yshÀ ªß Ak¨¦
+
+(Induction Cooker)
+
+öÁ¨£®
+
+öÁ¨£®
+
+ªß PÚ¼
+
+C¯UP \Uv
+
+ªß÷©õmhº
+
+~snø» PÚ¼
+
+öÁ¨£®
+
+ªß ÁÓmi
+
+öÁ¨£®
+
+JÎ
+
+Ahº ¦÷Íõµ\ß ªß ÂÍUS
+
+öuõø»UPõm]¨ ö£mi
+
+JÎ, J¼J¼
+
+ÁõöÚõ¼
+
+E¸ 10.1 AßÓõh ÁõÌÂÀ £¯ß£kzu¨£k® ]» ªß \õuÚ[PÐ® AÁØÔÀ \Uv {ø»©õØÓ® {PÊ® ¤µuõÚ •øÓPÐ®
+
+37C»Á\¨ £õh¡À
+
+÷©»vP AÔÄUS
+
+CÁØÔÀ ]» ªß \õuÚ[PÎß •uØ \Uv {ø»©õØÓ® ¤ßÚº ÷ÁöÓõ¸ \Uv¯õP {ø»©õØÓ©õP {ø» ©õØÓ¨£mk £¯ß£kzu¨£kQßÓx. Euõµn©õP CøÇ ªßSªÈß CøÇ°À ªß \Uv öÁ¨£©õP {ø»©õØÓ©øh¢x Auß ‰»® CøÇ°ß öÁ¨£{ø» AvP›zx JÎ öÁÎÁ¸QßÓx. ¦÷ÍõöµõÎºÄ ÂÍUSPÎÀ ªß \Uv •u¼À PÈ³uõU PvºPÍõPÄ® ¤ß¦ Pm¦» JÎ¯õPÄ® {ø»©õØÓ©øhQÓx.
+
+10.1 ªß\õuÚzvß Á¾
+
+ªß\õuÚö©õßÔß Á¾ Gß£x Kµ»S ÷|µzvÀ ö\´¯¨£k® ÷Áø»°ß AÍÄ Gß£øu |õ® AÔ÷Áõ®. J¸ ªß\õuÚzvß Á¾ÁõÚx, Ax Kµ»S ÷|µzvÀ ö\»Âh¨£mh ªß\Uv AÀ»x Kµ»S ÷|µzvÀ ö\´¯¨£mh ÷Áø» GßÖ Áøµ¯ÖUP¨£k®.
+
+E¸ 10.2 ªß AÊzu ÷ÁÖ£õk V C¾® ªß÷Úõmh® I C¾® ö\¯Ø£k® ªßÝ£Pµn®
+
+V\Uv
+
+I
+
+ªß\õuÚ®ªß \Uv ‰»®
+
+J¸ ªß\õuÚzvØSU SÖU÷P AÊzu Âzv¯õ\® V C¸US®÷£õx AuÞhõP¨ £õ²® Kmh® I GÛß, ªß\õuÚzvß Á¾ÁõÚx AÀ»x ªß\Uv ÂkÂUP¨ £k® Ãu® P BÚx ¤ßÁ¸® \©ß£õmiÚõÀ Põmh»õ®.
+
+P = VI
+
+C[S AÊzu ÷ÁÖ£õk (V) BÚx ÷ÁõÀØÔ¾® (V) ªß÷Úõmh® (I) BÚx A®¤¯›¾® (A) AÍUP¨£k® A÷u÷ÁøÍ Á¾ (P) BÚx ÁõØÔÀ (W) ö£Ó¨£k® ÷©ØSÔzu öuõhºø£¨ £¯ß£kzv ªßÝ£Pµnzvß Á¾øÁU Põn»õ®.
+
+Euõµn® 1 Kº CøÇ ªßSªøÇ 12 V AÊzu Âzv¯õ\zvØSU SÖU÷P öuõkUS®÷£õx AuÞhõP 2 A Kmh® £õ´QßÓx. SªÈß Á¾ ¯õx?
+
+38C»Á\¨ £õh¡À
+
+Á¾ P = VI = 12 × 2 W P = 24 W SªÈß Á¾ 24 W BS®.
+
+Euõµn® 2 J¸ ªß PÚ¼ 230 V Á¾ ÁÇ[P¼À öuõÈØ£kQßÓx. Auß Á¾ 2000 W BP C¸¨¤ß, Ax öuõÈØ£k®÷£õx ö£Ö® KmhzøuU PõsP.
+
+P = VI / 2000 = 230 × I
+
+/ I = 2000
+
+230 = 8.69 A
+
+PÚ¼ ö£Ö® Kmh® 8.69 A BS®.
+
+ªß öÁ¨£©õUQPÎÀ öÁ¨£a _¸ÎÀ (öÁ¨£©õUS® ‰»P®) ö\»Âh¨£k® \Uv öÁ¨£©õP ©õzvµ® {ø»©õØÓ¨£k®. ÷ÁÖ ªß\õuÚ[PÎÀ Auß APz uøh Põµn©õP ªß\Uv°À J¸ £Sv öÁ¨£©õPÄ® Gg]¯ £Sv ÷ÁÖ \UvPÍõPÄ® {ø»©õØÓ¨£k®.
+
+10.2 ªß\õuÚ[PÎÀ ö\»Âh¨£k® ªß\Uv
+
+Á¾ Gß£x ªßÝ£Pµnö©õßÖ \Uvø¯ ö\»Âk® Ãu©õS® AÀ»x Kµ»S ÷|µzvÀ ö\»Âh¨£k® \Uv°ß AÍÁõS®. BP÷Á ªßÝ£Pµn® £¯ß£kzu¨£k® Põ»zvØS HØ£ ö\»Âh¨£k® ö©õzu ªß\Uv°ß AÍÄ ÷ÁÖ£kQÓx.
+
+Kµ»S ÷|µzvÀ ö\»Âh¨£k® ªß\Uv P BP C¸US®÷£õx ÷|µ® t °À ö\»Âh¨£k® ö©õzu ªß \Uv E GÛß,
+
+E = Pt
+
+P I ÁõØÖ (W) C¾® t Ia ö\UPß (s) C¾® AÍUS®÷£õx \Uv E BÚx ³À (J) CÀ ö£Ó¨£kQßÓx.
+
+P = VI BøP¯õÀ ÷©ØSÔzu öuõhº¦øhø©°À P CØS¨ £v»õP VI I¨ ¤µv°k®÷£õx
+
+E = Pt = VIt
+
+/ E = VIt
+
+J¸ ªßÝ£PµnzvÀ ö\»Âh¨£k® ªß\Uvø¯U Po¨£uØS E=VIt I¨ £¯ß£kzu»õ®.
+
+39C»Á\¨ £õh¡À
+
+Euõµn® 3 J¸ ÷©õmhº ÁõPÚzvß ¤µuõÚ ÂÍUS 50 W BS®. CÆÂÍUS 1½ ©ozv¯õ»zvØS JÎ¸®÷£õx ö\»Âh¨£k® ªß\Uvø¯U PoUP.
+
+E = P t E = 50 × 1.5 × 60 × 60 E = 27 000 J
+
+ö\»Âh¨£k® ªß \Uv 27 000 J BS®.
+
+Euõµn® 4 ø\UQÒ ªßSªÈß ÷ÁõÀØÓÍÄ 6 V I²® AuÞhõP 0.6 A Kmhz øu²® ö£ÖQßÓuõ°ß CU SªÌ 5 {ªhzvØS JÎ¸®÷£õx ö\»Âh¨£k® ªß \Uv ¯õx?
+
+E = VIt
+
+E = 6 × 0.6 × 5 × 60E = 1080 J
+
+ö\»Âh¨£k® ªß \Uv 1080 J BS®.
+
+10.3 ªß\õuÚzvß vÓÝ® ªß\UvU Põ¨¦®
+
+ö£¸®£õ»õÚ \¢uº¨£[PÎÀ J÷µ ÷Áø»ø¯ {øÓ÷ÁØÖÁuØS¨ £À÷ÁÖ ªß\õuÚ[PøÍ¨ £¯ß£kzu»õ®. JÎø¯¨ ö£ÖÁuØS CøÇ ªßSªÌPÒ, ¦÷ÍõöµõÎºÄ ÂÍUSU SÇõ´PÒ, CFL (÷©®£kzv ¦÷ÍõöµõÎºÄ ÂÍUS-PÒ) BQ¯ÁØøÓ¨ £¯ß£kzu»õ®. C[S vÓß ªUP JÎø¯¨ ö£ÓzuUP ªß\õuÚ[PøÍz öu›¢öukzuÀ ªß\Uvø¯ «u¨£kzu EuÄQßÓx. J÷µ¯ÍÁõÚ JÎºøÁz u¸® ]» ÁøP ªßSªÌPÎß Á¾Ä® AÁØÔß B²mPõ»•® AmhÁøn 10.1 CØ Põn¨£kQßÓÚ.
+
+AmhÁøn 10.1 SªÌ ÁøPPÎß Á¾Ä® B²mPõ»•®
+
+JÎ •uÀÁ¾B²m Põ»®
+
+CøÇ ªßSªÌ60 W1200 h
+
+¦÷ÍõöµõÎºÄU SÇõ´ ÂÍUS22 W3000 h
+
+CFL11 ~ 13 W8000 h
+
+LED6 ~ 8 W50000 h
+
+AmhÁøn 10.1 CØ÷PØ£ JÎø¯¨ ö£ÖÁuØS LED SªÌPÎß £¯ß£õk ªPÄ® AÝT»©õÚuõS®. LED CØS›¯ Bµ®£a ö\»Ä Tku»õÚx BøP¯õÀ C»[øP°À LED SªÌPÎß £¯ß£õk ©mk¨£kzu¨£mkÒÍx.
+
+ªßøÚ¨ £¯ß£kzv EnøÁa \ø©¨£uØS¨ £¯ß£kzu¨£k® Ak¨¦ PÎß öÁ¨£® ÃnõQßÓø©¯õÀ vÓß ÷ÁÖ£k®. öÁ¨£©õUSg _¸Ò
+
+40C»Á\¨ £õh¡À
+
+£¯ß£kzu¨£k® £øÇ¯ Ak¨¦PÒ vÓß SøÓ¢uøÁ. öÁ¨£z umk (Hot Plate) EÒÍ Ak¨¦PÎß (Euõµn® ÷\õÖ \ø©US® Ak¨¦) öÁ¨£® CÇUP¨£kuÀ SøÓÁõøP¯õÀ Ax vÓßªUPuõS®. }øµU öPõvUP øÁ¨£uØS AªÌ¨¦ öÁ¨£©õUQø¯ £¯ß£kzxuÀ vÓßªUPx. Põµn® Ca \õuÚzøu £¯ß£kzx®÷£õx ¤Ó¨¤UP¨£k® öÁ¨£® •ÊÁx® ÷|µi¯õP }øµ öÁ¨£©õUSÁuØS £¯ß£kQÓx. ~snø» PÚ¼ (Microwave Oven) GÀ»õ EnÄPøÍ²® \ø©UP¨ £¯ß£kzu¨£k®. CvÀ ÷|µi¯õP EnÂØS öÁ¨£® ÁÇ[P¨£kQßÓø©¯õÀ, Cx vÓßªUPx. CuØS ÷©»vP©õP Ti¯ vÓß EÒÍ yshÀ Ak¨¦ (Induction Cooker) C¨÷£õx \¢øuUS Á¢xÒÍx. C[S Ak¨¤¼¸¢x öÁÎÁ¸® ©õÖ® Põ¢u¨ ¦»zvß ‰»® £õzvµzvß AizuÍzvß «x ©õzvµ® öÁ¨£® ¤Ó¨¤UP¨£kQßÓx.
+
+÷©»vP AÔÄUS
+
+P÷uõmkU PvºU SÇõ´PÒ (CRT) £¯ß£kzu¨£k® £øÇ¯ öuõø»UPõm]PÎ¾® £õºUP LCD vøµ EÒÍ LED öuõø»UPõm]PÎÀ \Uv ~PºÄ SøÓÁõS®. LCD vøµ LED ‰»® JÎ©¯©õUP¨£k® ªPU SøÓ¢u Á¾ EÒÍ TV BÚx LED öuõø»UPõm] GÚa \¢øuPÎÀ AøÇUP¨£kQßÓx.
+
+AÆÁõ÷Ó ÃmiÀ SÎºa]ø¯¨ ö£ÖÁuØSa ^¼[ ªß Â]Ô°¾® £õºUP ÷©ø\ ªß Â]Ôø¯¨ £¯ß£kzuÀ vÓßªUPx. C¯ßÓÍÄ SøÓ¢u AÍÄ Á¾øÁ ~Pº¢x öPõsk Tku»õÚ vÓÝhß ÷uøÁ¯õÚ £oPøÍ {øÓ÷ÁØÖÁuØS EP¢u \õuÚ® JßøÓ¨ £¯ß£kzvÚõÀ GvºPõ» \Uv ö|¸UPiø¯U SøÓUP»õ®.
+
+J¸ SÔzu ªß\õuÚzvØS ÁÇ[P¨£k® ªß\Uv°À 40 % BÚx öÁ¨£©õP Âµ¯©õQßÓöuÚU öPõÒP. A¨÷£õx E›¯ £¯ß£õmiØS 60 % ö\»Âh¨£kQßÓx. AuõÁx A®ªßÝ£Pµnzvß vÓß 60 % BS®.
+
+|õ® ªßøÚ¨ £¯ß£kzx®÷£õx öÁ¨£©õP Âµ¯©õS® ªß \Uv°ß AÍøÁ CÈÁÍÁõUSÁuß ‰»® ªß\Uv°ß Ea\¨ £¯ß£õmøh ö£ØÖU öPõÒÍ•i²®.
+
+ªßÚÊzvø¯ £¯ß£kzx®÷£õx ÁõµzvØS ÷uøÁ¯õÚ xoPøÍ J÷µ uhøÁ°À AÊzvU öPõÒÁuß ‰»® ªßÚÊzv°ß Bµ®£ öÁ¨£©õu¾US ö\»Âh¨£k® ªß ÷\ªUP¨£kQÓx. Ãmi¾ÒÍ ÷uøÁ¯ØÓ •øÓ°À JÎ¸® ªß SªÌPøÍ Aønzx ÂkuÀ. AÆÁõ÷Ó vÓßTi¯ LED, CFL ªß SªÌPøÍ¨ £¯ß£kzuÀ ÷Ásk®.
+
+41C»Á\¨ £õh¡À
+
+ÃkPÎÀ £¯ß£kzu¨£k® ªß\õuÚ[PÎß £mi¯ø»z u¯õ›zx AÁØÔß ªß Á¾øÁ AÁØÖUS Gv÷µ SÔzxU PõmkP. (CuØPõP E£PµnzvÀ Jmh¨£mkÒÍ ÂÁµUTØÔÀ SÔ¨¤h¨£mkÒÍ _mkz xsøh AÀ»x E£Pµnzxhß QøhUS® AÔÄÖzuØ ]ØÔuøÇ¨ £¯ß£kzu»õ®. AÆÁõ÷Ó ö\´¯ •i¯õÂmhõÀ ªß öuõhº£õÚ AÝ£Á® EÒÍÁºPÎß EuÂø¯¨ ö£Ó ÷Ásk®.)
+
+J¨£øh 10.1
+
+10.4 Ãmk ªß _ØÖ
+
+ÃmiÀ EÒÍ ªß\õuÚ[PøÍz öuõÈØ£kzuz ÷uøÁ¯õÚ ªß, ÷u]¯ ªß ö|´¯›z öuõSv°À C¸¢x ö£Ó¨£kQßÓx. ªß Á¾ {ø»¯[PÎÀ ¤Ó¨¤UP¨£k® ªß \Uv £i²¯ºzx {ø»©õØÔ ‰»® 132 kV, 220 kV ÷£õßÓ Kº E¯º AÊzuzvØS E¯ºzu¨£mk |õk §µõPÄ® Â{÷¯õQUP¨£k®. ªß Â{÷¯õP E£ {ø»¯[PÎÀ ©Ö£i²® 33 kV, 11 kV ÁøµUS® AÊzu® SøÓUP¨£mk CÖv°À ÃmiØS 230 V AÊzuzvÀ ÁÇ[P¨£k®. Cx Bh÷»õmh ªßÚõP C¸US® A÷u÷ÁøÍ Auß «iÓß 50 Hz BS®.
+
+E¸ 10.2 ¤µuõÚ ªß ö|´¯›²hß öuõkUP¨£mh Ãmk ªß_ØÔß Aø©¨¦
+
+A - Â{÷¯õPU P®¤ B - ÷\øÁU P®¤C - ÷\øÁ²¸Q D - ªß©õÛ / ÷\øÁ©õÛE - ¤µuõÚ BÎ F - ChÖ BÎ / uhUS BÎ (RCCB) G - ~s _ØÖøh¨£õs (MCB) H - BÎI - Søu J - ¦Âzöuõk¨¦U P®¤
+
+42C»Á\¨ £õh¡À
+
+ÃmiØS A®ªß ÷\øÁUP®¤°À EÒÍ E°º (Live), ö|õx©À (Neutral) GÚ¨£k® C¸ P®¤PÒ ‰»® ÁÇ[P¨£k®. CÆÂ¸ P®¤PÎÞhõPU QøhUS® ªß\Uv ÃmiÀ EÒÍ _ØÔÞhõPz ÷uøÁ¯õÚ ªß\õuÚ[PÐUS ÁÇ[P¨£kQßÓx. CÆÃmk ªß _ØÔß Á›¨£h® E¸ÂÀ Põn¨£mkÒÍx.
+
+÷\øÁU P®¤
+
+÷\øÁ²¸Qªß©õÛ
+
+¤µuõÚ BÎ
+
+uhUS BÎ~s _ØÖøh¨£õß
+
+ÃmkUS öÁÎ°ÀÃmkUS EÒ÷Í
+
+E¸ 10.3 Ãmk ªß_ØÖ
+
+L1L
+
+N
+
+N2N1
+
+N1
+
+N3N4N5
+
+L4L3L2L5
+
+MCB
+
+RCCB uhUS BÎ
+
+÷\øÁ²¸Q
+
+ªß©õÛ
+
+¤µuõÚ BÎ
+
+BÎ
+
+C¸ÁÈ BÎ
+
+¦ÂU P®¤
+
+uÛÁÈ BÎ
+
+~PºÄ A»S
+
+N
+
+E
+
+E
+
+E
+
+L
+
+L1
+
+~s_ØÖøh¨£õß
+
+Søu
+
+10.4.1 i†´ I¡²ŸP¡ ¶¬í‚ ÃÁèœ
+
+²²«ê¬õ à¼A
+
+ÃmiØS ÁÇ[P¨£k® ªß •u»õÁuõP E°º P®¤²hß ö£õ¸zu¨£mi¸US®. ÷\øÁ E¸QUS ÁÇ[P¨£k®. Cx HÓzuõÇ 40 A E¯º¢u£m\ Kmh® £õ¯zuU-PuõP Aø©UP¨£mi¸US®. C[S D¯, öÁÒÏ¯ P»¨¦ E÷»õPzvÚõÀ ö\´¯¨£mh E¸Q Põn¨£k®. Cx SÔzu Kmhzv¾® £õºUPU Ti¯ Kmh® _ØÔÀ £õ²®÷£õx öÁ¨£©õQ E¸SÁuõÀ _ØÖUS ªß QøhzuÀ
+
+43C»Á\¨ £õh¡À
+
+öuõk¨£ÖUP¨£k®. CÆÄ¸QUP®¤ P÷¯õ¼ß ¤i°À AÀ»x P÷¯õ¼ß SÇõ°ÝÒ÷Í ö£õ¸zu¨£mi¸US®. ÷\øÁ²¸Q²hß E°ºUP®¤ ©õzvµ÷© CønUP¨£k®.
+
+E¸ 10.4 ÷\øÁ²¸Q ÁøPPÒ
+
+²²I¡ ñ£Q
+
+ÃmiØS ÁÇ[S® ªßøÚ ~P¸® ªß \Uv°ß AÍÄU÷PØ£ ~Pº÷Áõ›hª¸¢x £n® AÓÂh¨£k®. £¯ß£kzu¨£k® ªß\Uv°ß AÍÁõÚx ªß©õÛ°À Q÷»õÁõØÖ ©ozv¯õ»zvÀ (kW h) £vÄ ö\´¯¨£k®. ö|õx©À P®¤²® ÷\øÁ E¸Q°ÞhõP Á¸® E°ºU P®¤²® AkzuuõP ªß©õÛUSz öuõkUP¨£k®. ªß©õÛ°¼¸¢x öÁÎ÷¯ Á¸® E°º, ö|õx©À P®¤PÒ AkzuuõP¨ ¤µuõÚ BÎ²hß öuõkUP¨£k®.
+
+E¸ 10.5 ªß©õÛ
+
+÷\øÁ E¸Q²® ªß©õÛ²® ÷\øÁ ÁÇ[S|¸US (C»[øP ªß\õµ \ø£US AÀ»x ªß P®£ÛUS) E›¯ÚÁõP C¸US® A÷u÷ÁøÍ AøÁ öuõhº£õÚ ¤µa]øÚ GÊ®÷£õx ÷\øÁ ÁÇ[S|¸US AÔÂzx¨ ¤µa]øÚø¯z wºzxU öPõÒÍ ÷Ásk®.
+
+²² Hóî£ù à¼A»‹ Hóî£ù ÝO»‹ (Isolator)
+
+Ãmk ªß_ØÔÀ ÷\øÁ E¸Q, ªß©õÛ uÂº¢u HøÚ¯ xønUTÖPÒ ~Pº÷Áõ¸US E›¯ÚÁõS®. ªß©õÛUS¨ ¤ßÚº E°º P®¤ Ea\ 30 A Km-h©õP ö\ÀÁuØS Ch©ÎUS® E¸Q°ÞhõPa ö\À¾® ö|õx©ÀP®¤²® E¸Q°ÞhõP Á¸QßÓ E°ºP®¤²® ¤µuõÚ BÎUSz öuõkUP¨£k®. ¤µuõÚ BÎ°ß ‰»® E°º, ö|õx©À BQ¯ C¸ P®¤PÐ® öuõk¨£PØÓ¨
+
+44C»Á\¨ £õh¡À
+
+£h»õ®. CzuøP¯ BÎPÒ xÂ•øÚÄ (C¸ •øÚÄ) BÎPÒ GÚ¨£k®. ÃmiÝÒ÷Í J¸ SÔzu £Êx£õºzuÀ £oUPõP C¢u BÎ°ß ‰»® ªßøÚz öuõk¨£PØÓ»õ®.
+
+NNLL ÃmiÝÒ÷Í
+
+30 A E¸QC¸•øÚÄ BÎ
+
+E¸ 10.6 (a) ¤µuõÚ BÎ°ß ¦Óz÷uõØÓ®E¸ 10.6 (b) ¤µuõÚ BÎ°ß ¦Óz÷uõØÓ•® _ØÖ Á›¨£h•®
+
+²²ÞìÁ ÝO (Trip Switch) / â„êñ£ù I¡²ŸÁ¬ìŠð£¡ (Resid-ual Current Circuit Breaker) (RCCB)
+
+N
+
+N
+
+L
+
+L
+
+R
+
+÷\õuøÚ¨ ö£õzuõß
+
+N
+
+N
+
+L
+
+L
+
+R
+
+Ãmiß ¦Âzöuõk¨¦U P®¤US
+
+E¸ 10.7 ChÖ BÎ°ß ¦Óz÷uõØÓ•® _ØÖ Á›¨£h•®
+
+¤µuõÚ BÎUS¨ ¤ßÚº E°º, |k{ø» P®¤PÒ ChÖ BÎUS (Trip switch) öuõkUP¨£k®. CuØS ÷©»vP©õP ÃmiÀ ¦ÂU P®¤²® ChÖ BÎ²hß öuõkUP¨£k®. Kº ChÖ BÎø¯¨ ö£õ¸zxÁuß ÷|õUP® ÃmiÀ EÒÍÁºPÒ ªß\õuÚ[PøÍ¨ £¯ß£kzx®÷£õx HØ£hUTi¯ ªßÚvºa]°¼¸¢x £õx-Põ¨£xhß A® ªßÝ£Pµn[PøÍ²® £õxPõ¨£x©õS®. ªß P]²®÷£õx AÀ»x SÔzu AÍÂ¾® £õºUP Tku»õP ªß £õ²®÷£õx ChÖ BÎ öuõÈØ£kÁuß ‰»® _ØÖ uõÚõP÷Á ªß öuõk¨£PØÓ¨£k®. CxÄ® C¸•øÚÄ BÎ¯õS®.
+
+45C»Á\¨ £õh¡À
+
+\õuõµn BÎ ‰i (ON) C¸US®÷ÁøÍ ChÖ BÎ ÷©÷» ÁÈ¨£kzu¨ £k®÷£õx ‰i°¸US®. ªß P]Ä HØ£k®÷£õx ChÖ BÎ uõÚõP R÷Ç ÁÈ¨£kzu¨£mk ªßxsi¨¦ HØ£k®. ChÖ BÎ°ß ö\¯Ø£õmøh EÖv¨£kzu ]» |õmPÐUS J¸ uhøÁ ChÖ BÎ°À EÒÍ ÷\õuøÚ¨ ö£õzuõøÚ (Test Button) AÊzxÁuß ‰»® Cx \›¯õPz öuõÈØ£kQßÓuõöÁÚa ÷\õvzuÀ ÷Ásk®.
+
+E¸ 10.8 ~PºÁ»S
+
+uØ÷£õøu¯ Ãmk ªß_ØÖUPÎÀ ChÖBÎ, £µ®£À ö£mi Gß£øÁ J¸ EøÓ°ÝÒ EÒÍhUP¨£mi¸US®. CuøÚ ~PºÄ A»S GÚ¨£k®.
+
+÷©»vP AÔÄUS
+
+ÃmiØS ÁÇ[S® C¸ ªß P®¤PÎÀ JßÖ ÃmiØS ªßøÚ Â{÷¯õQUS® £iSøÓ{ø»©õØÔUS Asø©°À |ßÓõP¨ ¦Âz öuõk¨¦a ö\´¯¨£k®. A¨÷£õx ©ØøÓ¯ P®¤US® A¢uzvØSªøh÷¯ 230 V AÊzu Âzv¯õ\® EshõS®. ¦Âzöuõk¨¦a ö\´u P®¤ §a]¯ AÊzuzvÀ C¸US® (¦Â°ß AÊzu® §a]¯ö©ÚU P¸u¨£k®). C¨÷£õx ¦Â «x C¸¨£Á¸US ¦Âzöuõk¨¦a ö\´¯õu P®¤ø¯z öuõm-hõÀ AÁ¸øh¯ Eh¼ÞhõP 230 V AÊzu Âzv¯õ\® EshõÁuÚõÀ AÁ¸US ªßÚvºa] HØ£k®. (ªßÚvºa] HØ£kuÀ Gß£x Eh¼ÞhõP ªß÷Úõmh® £õ´QßÓø©¯õÀ HØ£k® Â£zx). Eh¼ÞhõP 50 mA Kmh® £õ´uÀ Á¼ø©¯õÚ ªßÚvºa]¯õP C¸US® A÷u÷ÁøÍ 100 mA Kmh® £õ´uÀ CÓ¨ø£ HØ£kzx® ªßÚvºa]¯õS®. ¦Âz öuõk¨¦a ö\´¯õu P®¤ø¯z öuõkuÀ ªßÚvºa]USU Põµn® BøP¯õÀ AUP®¤ E°º (live) P®¤ GÚ¨£k®. ¦Âzöuõk¨¦a ö\´¯õu P®¤ø¯¨ ¦Â°¼¸¢x öuõkÁuß ‰»® Eh¼ØSU SÖU÷P AÊzu Âzv¯õ\® HØ£hõø©¯õÀ AUP®¤ ö|õx©À P®¤ (Neutral) GÚ¨£k®.
+
+46C»Á\¨ £õh¡À
+
+AÆÁõÖ ÃmiÀ ªßÚvºa] Põµn©õP HØ£hzuUP Â£zøuz uk¨£uØS EÒÍ ChÖ BÎ°ß öuõÈØ£õmiØS AÁ]¯® BøP¯õÀ CÆÁõÖ J¸ P®¤ E°ºP®¤¯õP ©õØÓ¨£mkÒÍx. ÃmiÀ G¢u÷Áõº Chzv¾® E°ºUP®¤ ¦Âzöuõk¨¦a ö\´¯¨£mhõÀ AuÞhõP¨ £õ²® Kmhzvß ÂøÍÁõP ChÖ BÎ öuõÈØ£mk ÃmiÀ ªß xsiUP¨£k®.
+
+ChÖ BÎ ªßPõ¢uz ysh¼ß ‰»® öuõÈØ£k® A÷u÷ÁøÍ HÓzuõÇ 35 mA Kmh® ¦Âzöuõk¨¦a ö\´¯¨£k®÷£õx ChÖ BÎ öuõÈØ£k®. CuØS ÷©»vP©õP HÓzuõÇ 30 A Kmh® ÃmiÝÒ÷Í ö\ßÓõÀ (SÖg _ØÓõu¼ß ÷£õx) ChÖ BÎ°ß ‰»® Ãmiß ªß öuõk¨£PØÓ¨£k®. ªßÚ¼ß ÷£õx ChÖBÎ (RCCB) öuõk¨£PØÓ¨£mhõ¾® Ax ªßÚ¼À C¸¢x •ØÓõP £õxPõ¨ø£z uµõx.
+
+ðóŠðŸ ªð†® (Distribution Box)
+
+ÃmiÀ ~Pºa]UPõP £µ¨£¨ ö£mi°ß ‰»® ªß Â{÷¯õQUP¨£k®. ÃmiÀ ÂÍUS_ØÖPÎß ‰»•® Søua_ØÖPÎß ‰»•® ªß Â{÷¯õQUP¨£k®. \õuõµn AøÓPÎÀ ÷uøÁ¯õÚ ªß SªÌPøÍ JÎµa ö\´ÁuØS¨ ÷£õv¯ ªß ÂÍUS_ØÖPÐUS ÁÇ[P¨£k®. Kº ÂÍUS_ØÖ ö£ÓzuUP E¯º¢u£m\ Kmh® 6 A CØS ©mk¨£kzu¨£k®. \ø©¯»øÓ ÷£õßÓ Ch[PÎÀ ªß öÁ¨£©õUQ, ªß Ak¨¦ ÷£õßÓ E¯º \Uv ö£Ó¨£k® E£Pµn[PÒ EÒÍ _ØÖPÐhß Søua_ØÖPÒ CønUP¨£k®. CøÁ HÓzuõÇ 13 A Kmhzøu ö£ÓUTi¯uõP ÁÇ[P¨£k®.
+
+(a)
+
+MCB
+
+BÎ°ß ö|®¦
+
+Á_a \mh[PÒ (Bus Bars)
+
+L1N1
+
+N2
+
+N3
+
+N4N5N
+
+L
+
+L2L3L4L5
+
+L1
+
+N1
+
+L2
+
+N2
+
+L3
+
+N3
+
+L4
+
+N4
+
+L5
+
+N5
+
+E¸Q
+
+ChÖ BÎGa\ ªß _ØÖøh¨£õß AÀ»x uhUP BÎ
+
+5A5A5A5A15A
+
+Á_a \mh[PÒ
+
+(Bus Bars)
+
+(b)E¸ 10.9 ]Ö _ØÖøh¨£õß _ØÖ Á›¨£h•® Auß ¦Óz÷uõØÓ•®
+
+à¼A Ü™ô¶ CÁ ²ŸÁ¬ìŠð£¡ (Fuse or Mini Circuit Breaker) (MCB)
+
+£µ¨£Ø ö£mi°À JÆöÁõ¸ _ØÖhÝ® ªß ÁÇ[S® ]Ö_ØÖøh¨£õß ö£õ¸zu¨£k®. _ØÔ¼¸¢x ö£Ó¨£k® E¯º¢u£m\ Kmhzøu Âh ªß AvP›US®÷£õx _ØÖ xsiUP¨£k®. ÂÍUSa _ØÖUS 6 A öPõsk
+
+47C»Á\¨ £õh¡À
+
+ö\À¾® MCB £¯ß£kzu¨£kQÓx. Søua_ØÖUS 13 A öPõsk ö\À¾® MCB £¯ß£kzu¨£kQÓx.
+
+~Pº÷Áõ¸US ªßÚvºa] HØ£k®÷£õx MCB öuõÈØ£hõuõøP¯õÀ Av¼¸¢x £õxPõ¨¦ Qøh¨£vÀø». •ßøÚ¯ ªß_ØÖUPÎÀ MCB CØS¨ £v»õP E¸QPÒ £¯ß£kzu¨£mhÚ. ÂÍUS ªß_ØÔÀ 6 A MCB CØS¨ £v»õP 5 A E¸QPÒ £¯ß£kzu¨£mhÚ. 13 A CØS¨ £v»õP 15 A E¸QPÒ £¯ß£kzu¨£mhÚ. E¸Q E¸Q¯x® Auß ¤iø¯ PÇØÔ ¦v¯ E¸QUP®¤ ö£õ¸zu¨£k®. MCB AÀ»x E¸Q Gß£øÁ G¨÷£õx® E°ºP®¤²h÷Ú ö£õ¸zu¨£k®.
+
+E¸ 10.10 MCB Cß ¦Óz÷uõØÓ®
+
+(a) E¸Q
+
+E¸QU P®¤E¸QU P®¤²hß Ti¯ P÷¯õ¼ß ¤i
+
+(b) MCB
+
+BÎ
+
+ÝOèÀ‹ °¬îèÀ‹
+
+Ãmk ªß_ØÔÀ EÒÍ ¤µuõÚ A®\® SªÌPÐUS ªßøÚ ÁÇ[SÁuØS® {ÖzxÁuØS® £¯ß£kzu¨£k® BÎ¯õS®. CøÁ J÷µ AkUQÀ J¸ uÛ BÎ¯õP AÀ»x £» BÎPÍõP C¸US©õÖ Aø©UP¨£mkÒÍÚ. JÆöÁõ¸ SªÊ® uÛzuÛ¯õP JÎµzuUPÁõÖ BÎa _ØÖhß öuõkUP¨£mkÒÍx.
+
+uÛ BÎ
+
+|õßS BÎPÒ
+
+E¸ 10.11
+
+48C»Á\¨ £õh¡À
+
+E¸ 10.12 BÎ²hß Søu Ai
+
+_ØÔÀ EÒÍ HøÚ¯ •UQ¯ xøn²Ö¨¦ Søu¯õS® (plug socket). CuÝhß E°ºP®¤, ö|õx©ÀP®¤, ÃmiÀ ÷ÁÖ ¦Âzöuõk¨¦a ö\´xÒÍ ¦ÂUP®¤ BQ¯Ú öuõkUP¨£kQßÓÚ. J¸ ‰Å]a ö\¸Q°ß (plug) uizu •iÂh® E£Pµnzvß E÷»õP¨ ¦Ó EøÓ²hß öuõkUP¨£k® A÷u÷ÁøÍ Søu²hß öuõkUP¨ £k®÷£õx Ax Ãmiß ¦ÂUP®¤²hß öuõkUP¨ £kQßÓx. ChÖ BÎ°ß ‰»® ªßÚvºa]°¼¸¢x £õxPõ¨£uØS Czöuõhº¦ C¸zuÀ Pmhõ¯©õÚx. ]» |ÃÚ ªß E£Pµn[PÒ ªß P]¯õu ¤ÍõzvUQÚõÀ ¦Óz÷u EøÓ°h¨£mi¸US®÷£õx AuØS ªßøÚ ÁÇ[SÁuØS C¸ F]a ö\¸Q £¯ß£kzu¨£kQßÓx. CÁØÔÀ ¦ÂUP®¤ öuõhº¦£kÁvÀø».
+
+C¸ F]a ö\¸Q
+
+‰Å]a ö\¸]
+
+E¸ 10.13 C¸ F], ‰Å]a ö\¸QPÒ
+
+ªî£´Š¹‚ è‹Hèœ
+
+CuØS›¯ KmhzøuU öPõsk ö\ÀÁuØS HØ£ SÖUSöÁmk¨ £µ¨£ÍÄÒÍ ö\¨¦U P®¤PÒ £¯ß£kzu¨£kQßÓÚ. 5 A ÂÍUS _ØÖPÐUS 1 mm2 SÖUSöÁmk¨ £µ¨£ÍÄÒÍ J¸ uÛ P®¤²® 15 A or 13 A Søua_ØÖPÐUS 1.5 mm2 SÖUSöÁmk¨ £µ¨£ÍÄÒÍ (Âmh® 1.67 mm) 7 P®¤PøÍU öPõsh J¸ Áh•® £¯ß£kzu¨£kQßÓÚ.
+
+E°ºUP®¤ø¯ CÚ[Põs£uØSU P¤» {Ó•ÒÍ PVC PõÁ¼ EøÓ²® ö|õx©ØP®¤ø¯ CÚ[Põs£uØS }» {Ó•ÒÍ PVC PõÁ¼ EøÓ²® £¯ß£kzu¨£kQßÓÚ. •ØPõ»zvÀ CuØPõP •øÓ÷¯ ]Á¨¦, PÖ¨¦ {Ó[PÒ £¯ß£kzu¨£mhÚ. ¦Âzöuõk¨¦U P®¤UPõP¨ £aø\ {Ó® £¯ß£kzu¨£kQßÓx.
+
+49C»Á\¨ £õh¡À
+
+10.4.2 i†´ I¡²ŸÁ
+
+Ãmk ªß_ØÔÀ EÒÍ JÆöÁõ¸ ªß\õuÚ•® ö\¸Q²® \©õ¢uµ©õPz öuõkUP¨£kQßÓÚ. G¨÷£õx® BÎ E°º P®¤US¨ ö£õ¸zu¨£h ÷Ásk®. BP÷Á BÎ vÓ¢v¸US®÷£õx (OFF) SªÌa _ØøÓz öuõk®÷£õx ªßÚvºa] HØ£kÁvÀø».
+
+Søua _ØÖPÒ 15 A CØSz uõUS¨¤iUS® Áh[PÎÚõÀ Aø©UP¨£kQßÓÚ. C[S Søu ©õzvµ® ö£õ¸zu¨£k® A÷u÷ÁøÍ \õuõµn ÃkPÎÀ \ø©¯ »øÓ°¾® CÆÁõÖ Aø©UP¨£kQßÓx.
+
+]» \¢uº¨£[PÎÀ SøuPÒ ÁøÍ¯a _ØÖ¨ ÷£õÀ öuõkUP¨£kQßÓÚ. E¸ 10.13 CÀ AzuøP¯ J¸ ÁøÍ¯a _ØÖ Põn¨£kQßÓx. C®•øÓ°À JÆöÁõ¸ SøuUS® C¸ P®¤PÎÞhõP Kmh® £õ´ÁuÚõÀ SøÓ¢u Âmh •ÒÍ P®¤PøÍ¨ £¯ß£kzu»õ®.
+
+E¸ 10.14 ÁøÍ¯a _ØÖ
+
+N
+
+NEE
+
+E
+
+EN
+
+N
+
+N
+
+L
+
+LL
+
+L
+
+LE
+
+10.4.3 i†´ I¡²ŸP™ àœ÷ ºŸè£Š¹èœ
+
+Ai¨£øh¯õP J¸ Ãmk ªß _ØÔÀ C¸ •ØPõ¨¦PÒ EÒÍÚ. CøÁ ChÖ BÎ, E¸Q AÀ»x MCB BQ¯ÚÁõS®.
+
+ÞìÁ ÝO
+
+ChÖ BÎ°ß ‰»® ~Pº÷Áõ¸US ªßÚvºa] HØ£k®÷£õx® E£Pµn[PÎÀ ªßP]Ä HØ£k®÷£õx® ªßøÚz xsiUP»õ®. C[S •Ê ÃmiØS® ªß öuõk¨£PØÓ¨£k®. CuØS ÷©»vP©õP •Ê ÃmiØS® ö£Ó¨£k® Kmh® 30 A CØS ÷©Ø£k®÷£õx ªß xsiUP¨£kQßÓx. BP÷Á, ¤µuõÚ P®¤PÒ öÁ¨£©õQßÓø©¯õÀ HØ£k® w ukUP¨£kQßÓx.
+
+50C»Á\¨ £õh¡À
+
+à¼A Ü™ô¶ MCB
+
+CÁØÔß ‰»® SÔzu _ØÔÀ ªøP÷¯õmh® £õ´uÀ ukUP¨£kQßÓx. CÆÁõÖ ªøP÷¯õmh® £õ´QßÓø©¯õÀ J¸ SÔzu _ØÔÀ w Es-hõuÀ ukUP¨£kQßÓx. ªß P]Ä Põµn©õP EshõS® Â£zx AÀ»x ªßÚvºa] Põµn©õP EshõS® B£zxPÐUS E¸Q AÀ»x MCB ‰»® £õxPõ¨¦ QøhUP©õmhõx. CÆöÁ¢u Ezv°ß ‰»•® Ãmiß AÀ»x _ØÔß ªßøÚz öuõk¨£PØÖ®÷£õx •u¼À ¤µuõÚ BÎø¯z vÓUP (OFF) ÷Ásk®. Auß ¤ßÚº ChÖ BÎø¯z vÓUP AÀ»x MCB Cß ö|®ø£ ÷©÷» Cmk (ON) ©Ö£i²® ¤µuõÚ BÎø¯ ‰h (ON) ÷Ásk®. A¨÷£õx® ªß ÁÇ[PÀ xsiUP¨£kö©Ûß, ªß öuõÈÀ~m£Â¯»õÍº ‰»® v¸zu ÷Ásk®.
+
+CuØS ÷©»vP©õP¨ ¤ßÁ¸® •ØPõ¨¦ |hÁiUøPPøÍ¨ ¤ß£ØÓÀ ªPÄ® •UQ¯©õÚx.
+
+²²E¸Qø¯ Ck®÷£õx _ØÖUS E›¯ 5 A AÀ»x 13 A E¸QU P®¤PøÍ ©õzvµ® Ch ÷Ásk®.
+
+²²£ß ö\¸Q°ß (multi plug) ‰»® J÷µ Søu²hß Ax uõ[PzuUP Ea\ Kmhzv¾® £õºUPU Tku»õÚ Kmhzøu¨ ö£Ö©õÖ £» E£Pµn[ PøÍz öuõkUPUThõx.
+
+²²SøuUSÒ ö£õ¸zu©õÚ ö\¸QPøÍz uÂº¢u HøÚ¯ P®¤PøÍ ö\¸PU Thõx.
+
+²²ªßÚÊzvø¯¨ £¯ß£kzx®÷£õx CÓ¨£º Â›¨¦ «x {ØÓÀ AÀ»x CÓ¨£º¨ £õuoPøÍ AouÀ ÷Ásk®.
+
+²²¤µuõÚ BÎ°ß ‰»® ªßøÚz öuõk¨£PØÓõ©À £Êuøh¢u SªøÇ ©õØÖÁuØS •Ø£hUThõx.
+
+²²ªßÝ£Pµn[PøÍ¨ £¯ß£kzuõu÷£õx Søu°¼¸¢x ö\¸Qø¯ APØÔÂh ÷Ásk®.
+
+²²ªßÚ¼ß÷£õx •i²ö©Ûß ÁõöÚõ¼ Áõ[Q, öuõø»UPõm] BQ¯ÁØøÓ E›¯ _ØÔ¼¸¢x öuõk¨£PØÔ ÂkuÀ ÷Ásk®. AzuøP¯ \¢uº¨£[PÎÀ ÷uøÁ¯ØÓ ªßøÚ¨ £¯ß£kzxÁøu C¯ßÓÁøµ uÂºUP ÷Ásk®. RCCB CÚõÀ ªßÚ¼¼¸¢x £õxPõ¨¦ Qøh¨£vÀø».
+
+²²EhÀ |øÚ¢v¸US®÷£õx ªßÝ£Pµn[PøÍU øP¯õÍUThõx.
+
+²²ªß uøh¨£k®÷£õx ÃmiÀ EÒÍ ªß\õuÚ[PÎß BÎø¯ (ON) ‰i¯ {ø»°À øÁUPU Thõx.
+
+51C»Á\¨ £õh¡À
+
+²²w HØ£k®÷£õx Eh÷Ú ¤µuõÚ BÎ°ß ‰»® ÃmiÀ ªßøÚz öuõk¨£PØÓ ÷Ásk®.
+
+²²£°Ø] ö£ØÓ öuõÈÀ~m£Â¯»õÍ›ß ‰»® ÷uøÁ¯õÚ £µõ©›¨¦¨ £oPøÍ AÀ»x ªß }i¨¦PøÍa ö\´¯÷Ásk®.
+
+²²]» |õmPÐUS J¸ uhøÁ ChÖ BÎ°À EÒÍ ÷\õuøÚ¨ ö£õzuõøÚ AÊzv Auß öuõÈØ£õmøha ÷\õvUP ÷Ásk®.
+
+10.5 Q÷»õÁõØÖ ©ozv¯õ»zvÀ ªß\Uvø¯ AÍzuÀ
+
+I¡ê‚F¬ò Ü÷ŠðîŸè£ù õ˜ˆîè Üô°
+
+ÃmiÀ EÒÍ ªß©õÛ°ß ‰»® ªß\Uv Q÷»õÁõØÖ ©ozv¯õ»z-vÀ AÍUP¨£kQßÓx. Q÷»õÁõØÖ ©ozv¯õ»® Gß£x 1 kW Á¾ EÒÍ ªß\õuÚ® JßÖ J¸ ©ozv¯õ»zvÀ ~P¸® \Uv¯õS®. ö£õxÁõPa \Uv ³¼À AÍUP¨£kQßÓ ÷£õv¾® ~PºÄ AvP›US®÷£õx Cx J¸ ö£›¯ GsnõS®. CuÚõÀ ªß AÍUP¨£k® A»PõPU Q÷»õÁõØÖ ©oz-v¯õ»® (kWh) £¯ß£kzu¨£kQßÓx. J¸ ÁõØÖ Á¾ EÒÍ Kº E£Pµn® J¸ ö\UPÛÀ ~P¸® \Uv J¸ ÁõØÖa ö\UPß AÀ»x ³À (J) BS®.
+
+∴ 1 kW h = 1 kW × 1 h
+
+= 1000 W × 1 × 60 × 60 s
+
+1 kWh = 3 600 000 J
+
+J¸ Q÷»õÁõØÖ ©ozv¯õ»® ³À A»QÀ SÔ¨¤h¨£k® ÷£õx ö£›¯ GsoUøP Gß£x Cv¼¸¢x öuÎÁõQßÓx. ÃmiÀ £¯ß£kzu¨£k® ªß\õuÚ[PÎß Á¾Ä® £¯ß£kzu¨£k® ÷|µ•® AÔ¯¨£k®÷£õx AuØ-Sa ö\»Âh¨£k® ªß\Uv°ß AÍøÁ GÎuõPU PoUP»õ®.
+
+ö\»Âh¨£k® kWh GsoUøP
+
+£¯ß£kzv¯ ©ozv¯õ» GsoUøPÁõØÖ GsoUøP ×
+
+1000 =
+
+Czöuõhº¦øhø©ø¯¨ £¯ß£kzv PoUP¨£k®.
+
+Euõµn® : |õßS 100 W ªßSªÌPÒ J¸ |õÐUS 3 ©ozv¯õ»•® I¢x 60 W SªÌPÒ J¸ |õÐUS 4 ©ozv¯õ»•® JÎ¸ö©Ûß, J¸ ©õuzvØS ~Pµ¨£k® ªßÚ»SPÎß GsoUøPø¯U PõsP.
+
+52C»Á\¨ £õh¡À
+
+|õßS 100 W ªß ÂÍUSPÒ 3 ©ozv¯õ»z-vØS JÎ¸®÷£õx ö\»Âh¨£k® \Uv
+
+I¢x 60 W ÂÍUSPÒ 4 ©ozv¯õ»zvØS JÎ¸®÷£õx ö\»Âh¨£k® \Uv
+
+GÀ»õU SªÌPÐ® J¸ ©õuzvÀ ö\»Âk® \Uv
+
+J¸ ©õuzvØSa ö\»Âh¨£k® ö©õzua \Uv
+
+CuØ÷PØ£ J¸ ©õuzvØSa ö\»Âh¨£k® ö©õzu ªß\Uv
+
+}}
+
+= 4 × 100 × 3 Wh
+
+= 5 × 60 × 4 Wh
+
+= (100 × 12 + 60 × 20) × 30 Wh
+
+= (1200 + 1200) ×30 Wh
+
+= 72 kWh
+
+= 2400 × 301000 kWh
+
+CuØ÷PØ£ J¸ ©õuzvØS 72 ªß A»SPÒ AÀ»x Q÷»õÁõØÖ ©ozv¯õ»a \Uv ~Pµ¨£kQßÓx.
+
+(Ca\Uvø¯ ³¼À PozuõÀ AuøÚ 1000 × 60 × 60 CÚõÀ ÁS¨£uß ‰»® kWh IU PoUP»õ®.)
+
+²²J¸ ªß\õuÚzvß Á¾ (P) Gß£x Auß ‰»® Kµ»S ÷|µzvÀ ö\»Âh¨£k® ªß\Uv°ß AÍÁõS®.
+
+²²J¸ ªß\õuÚzvÞhõP AÊzu Âzv¯õ\® V Cß RÌ Kº Kmh® I £õ²®÷£õx Á¾ P BÚx P = VI Cß ‰»® uµ¨£kQßÓx.
+
+²²J¸ ªß\õuÚzvÀ ö\»Âh¨£k® ªß \Uv E BÚx E = VIt CÚõÀ uµ¨£kQßÓx.
+
+²²ÃmiÀ EÒÍ ªß©õÛ°ÚõÀ ªß \Uv Q÷»õÁõØÖ ©ozv¯õ»zvÀ (KWh) AÍUP¨£kQßÓx.
+
+²²J¸ Q÷»õÁõØÖ ©ozv¯õ»® (1KWh) Gß£x 1 KW Á¾ EÒÍ Kº E£Pµn® J¸ ©ozv¯õ»zvÀ ~P¸® \Uv BS®. 1 KWh = 3600 000J
+
+ö£õÈ¨¦
+
+53C»Á\¨ £õh¡À
+
+£°Ø] 10.1
+
+^1& J¸ ªß÷©õmh›ß ‰»® öuõÈØ£kzu¨£k® }º¨ £®¤°ß Á¾ 750 W BS®. ªß ÁÇ[P¼ß ÷ÁõÀØÓÍÄ 230 V GÛß, ÷©õmhº öuõÈØ£k® ÷£õx Ax ö£Ö® Kmh® ¯õx? ÷©õmhº öuõÈØ£k®÷£õx ö£õÔ•øÓ C¯UP¨£õmka \UvUS ÷©»vP©õP¨ ¤Ó¨¤UP¨£k® ÷ÁöÓõ¸ \Uvø¯U SÔ¨¤kP.
+
+^2& J¸ ªß`Ò SªÈÀ ÂÁµUTØÓõP 2.5 V, 0.3 A GÚU Põmh¨£mkÒÍx. CU SªÈß Á¾ ¯õx? SªÈß JÎ öÁÎÁ¸® ÷Áø» Á¾ 42 % GÛß, Gg]²ÒÍ \Uv GÆÁõÖ Âµ¯©õQßÓx?
+
+^3& J¸ ÷©õmhº ÁõPÚzvß C¸ ¤µuõÚ ÂÍUSPÒ 50 W Ãu® EÒÍ C¸ ÂÍUSPÍõS®. CU SªÌPÒ GÀ»õ® ½ ©ozv¯õ»zvØS JÎ¸® ÷£õx ö\»Âh¨£k® ªß \Uv ¯õx?
+
+^4& J¸ 12 V ÷©õmhºa ø\UQÒ SªÌ J¸ SÔzu ÷ÁõÀØÓÍÄhß JÎ¸® ÷£õx AuÞhõP 2 A Kmh® £õ´QßÓx. CUSªÌ 15 {ªhzvØS JÎ¸®÷£õx ö\»Âh¨£k® ªß\Uv ¯õx?
+
+^5& J¸ Ãmk ªß_ØÔÀ ÃmiÀ EÒÍÁºPÎß £õxPõ¨¦UPõP Ch¨£mkÒÍ C¸ E£Pµn[PøÍU SÔ¨¤kP. CÆÄ£Pµn[PÒ JÆöÁõßÔß ‰»•® HØ£kzu¨£k® £õxPõ¨ø£ ÂÍUSP. ªßÚÀ HØ£k®÷£õx ÃmiÀ EÒÍ ªß\õuÚ[PÎß £õxPõ¨¦UPõP GßÚ ö\´uÀ ÷Ásk®?
+
+^6& ÷u]¯ ªßÁ¾ ö|´¯›°ß ‰»® ªßøÚ ÁÇ[S®÷£õx £¯ß£kz u¨£k® ªß\UvUPõP¨ £n® AÓÂh¨£kQßÓx. C[S ö\»Âh¨ £k® ªß\Uv AÍUP¨£k® A»S ¯õx? AÆÁºzuP A»S GzuøÚ ³¼ØSa \©ö©ÚU PõsP. ªßÝUPõP¨ £nzøu AÓÂk®÷£õx •uÀ 60 A»SPÐUPõP ¹. 7.50 Ãu•® Cµshõ® 30 A»SPÐUPõP ¹. 10.00 Ãu•® £n® AÓÂh¨£kö©Ûß, J¸ ©õuzvØS 75 A»SPÒ £¯ß£kzu¨£k® J¸ Ãmiß ªß ]møh ¯õx?
+
+^7& J¸ Ãmiß }º öÁ¨£©õUQ 1500 W IU öPõskÒÍx. Cx J¸ |õÐUS ¼ ©ozv¯õ»® öuõÈØ£kQßÓx. AøÓPÎÀ EÒÍ ‰ßÖ 40 W ªß SªÌPÒ J¸ |õÐUS 3 ©ozv¯õ»® Ãu•® C¸ 60 W ªß ÂÍUSPÒ J¸ |õÐUS Cµsk ©ozv¯õ»® Ãu•® JÎ¸ö©Ûß, J¸ |õÐUSa ö\»Âh¨£k® ªßÚ»SPÎß GsoUøP ¯õx? ÷©÷» ÂÚõ 6 CÀ SÔ¨¤mhÁõÖ ªßÝUPõP¨ £n® AÓÂh¨£kö©Ûß, J¸ ©õuzvØPõP AÁ¸øh¯ ªß ]møh ¯õx?
+
+54C»Á\¨ £õh¡À
+
+^8& }øµ öÁ¨£©õUSÁuØS öÁ¨£z umøh÷¯õ (Hot plate) AªÌ¨¦ öÁ¨£©õUQø¯÷¯õ (Imersion Heter) £¯ß£kzu»õ®. CÁØÔÀ Gx vÓßªUP E£Pµn©õS®? AuØS›¯ Põµnzøu ÂÍUSP. AªÌ¨¦ öÁ¨£©õUQUS C¸ F]a ö\¸QUS¨ £v»õP ‰Ä]a ö\¸Q £¯ß£kzu¨£kQßÓx. CÆÁõÖ ö\´Áuß ÷uøÁø¯ ÂÍUSP. J¸ SÔzu ªß\õuÚ® öuõÈØ£k®÷£õx E›¯ ªß_ØÔÀ MCB ‰»® _ØÔÀ ªß xsiUP¨£kQßÓx. CÆÁõÖ |øhö£ÖÁuØS HxÁõP C¸UPzuUP C¸ Âh¯[PøÍU PõmkP.
+
+Pø»a ö\õØöÓõSvÁ¾ - Power
+
+vÓß - Efficiency
+
+öÁ¨£z umk - Hot plate
+
+AªÌ¨¦ öÁ¨£©õUQ - Immersion heater
+
+~snø»U PÚ¼ - Microwave oven
+
+yshÀ Ak¨¦ - Induction cooker
+
+E°º - live
+
+ö|õx©À - Neutral
+
+E¸Q - Fuse
+
+ChÖ BÎ / Ga\©õÚ ªß - Residual current circuit breaker (RCCB) or _ØÖøh¨£õß Trip Switch
+
+£µ¨£Ø ö£mi - Distribution box
+
+]Ö _ØÖøh¨£õß - Miniature circuit breakers
+
+Søu - Plug socket
+
+ö\¸Q - Plug
+
+£Ð _ØÖøh¨£õß - Over load circuit breakers
+
+¤µuõÚ BÎ²® ¤µuõÚ E¸Q²® - Isolator

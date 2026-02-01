@@ -1,0 +1,1449 @@
+==== BLOCKS ==== 
+
+86C»Á\¨ £õh¡À
+
+kpd;dpurhadk;
+
+,urhadtpay;
+
+12
+
+12.1 ªßÛµ\õ¯ÚU P»[PÒ
+
+|©x AßÓõh |hÁiUøPPÎÀ ªß\õµzvÚõÀ C¯[S® \õuÚ[PøÍ¨ ÷£õ»÷Á ªß Cµ\õ¯ÚU P»[PÒ ªß P»ÁkUSPÎÚõÀ C¯[S® \õuÚ[ PÐ® £¯ß£kzu¨£kQßÓÚ. ÂøÍ¯õmkUPõº, ªß`Ò, Po¨£õßPÒ (Calculators), PoÛ, øP¯hUPz öuõø»÷£] Gß£Ú ªßÛµ\õ¯ÚU P»[PÎÚõÀ C¯[SQßÓ \õuÚ[PÐUSa ]» Euõµn[PÒ BS®.
+
+E¸ 12.1 - ªß Cµ\õ¯Ú P»[PÎÚõÀ C¯[S® \õuÚ[PÒ
+
+ªß`Ò
+
+Po¨£õßPoÛ
+
+øP¯hUPz öuõø»÷£]
+
+E»º ªß P»zvÚõÀ C¯[S® ÂøÍ¯õmkUPõº
+
+÷©÷» Euõµn©õPU Põmh¨£mkÒÍ \õuÚ[PÎÀ £¯ß£kzu¨£k® ªßÛµ \õ¯ÚU P»[PÒ AÀ»x ªß P»ÁkUSPÒ ]Ô¯ÚÁõS®. ÷©õmhõº ÁõPÚ C¯¢vµzøu Bµ®¤UP¨ (Start) £¯ß£kzu¨£k® ªßP» AkUS AÍÂÀ ö£›uõS®. C®ªßP»ÁkUS £» ªßÛµ\õ¯ÚU P»[PøÍ Cønzx E¸ÁõUP¨£mhuõS®.
+
+87C»Á\¨ £õh¡À
+
+E¸ 12.2 & £À÷ÁÖ ªßP»[PÐ® ªßP» ÁkUS®
+
+ªßÛµ\õ¯ÚU P»[PÒ öuõhº£õP }[PÒ •ßøÚ¯ ÁS¨¦UPÎÀ £izv¸¨¥ºPÒ. CUP»[PÒ ö\¯Ø£k®÷£õx AÁØÔÀ EÒÍ Cµ\õ¯Úa ÷\ºøÁPÎÀ ÷\ªUP¨£mkÒÍ Cµ\õ¯Ú \Uv ªß \Uv¯õP ©õØÓ¨£kQßÓx. |õ® CÆÁ»QÀ ªßÛµ\õ¯ÚU P»[PÎÀ |øhö£Ö® uõUP® ©ØÖ® AUP»[PÎß ö\¯Ø£õkPÒ öuõhº£õP ÷©¾® ÂÍUPzøu¨ ö£ÖÁuØS Gvº£õºUQß÷Óõ®. AuØPõP ö\¯Ø£õk 12.1 CÀ Dk£k÷Áõ®.
+
+ö\¯Ø£õk 12.1
+
+÷uøÁ¯õÚ £uõºzu[PÒ : ]Ô¯ •PøÁö¯õßÖ, IuõÚ \À§›U Aª»® ©ØÖ® |õPz uPöhõßÖö\´•øÓ :
+
+²²]Ô¯ •PøÁ°ÝÒ IuõÚ \À§›UPª»zøu Ck[PÒ. E¸ÂÀ Põmh¨£mkÒÍÁõÖ |õPzuPk \À§›UPª»zvÝÒ £Sv¯õP AªÊ©õÖ AªÌzx[PÒ.
+
+|õPzuPk (Zn)
+
+IuõÚ \À§›UPª»®
+
+E¸ 12.3²²E[PÍx AÁuõÚ[PøÍU SÔzxU öPõÒÐ[PÒ.
+
+C[S |õPz uPmiØS Asø©°À Áõ²USªÈPÒ öÁÎ÷¯ÖÁøu²®, |õPz uPk £i¨£i¯õPU PøµÁøu²® AÁuõÛUP»õ®. CÆÁÁuõÛ¨¤ØPõÚ Põµnzøu Bµõ´÷Áõ®.
+
+|õP AqÁõÚx uPmiß «x C»zvµßPøÍ Âmk, Zn2+ A¯ß Pøµ\»õP ©õÖ®. Cuß ÷£õx |õPz uPmiß «x C»zvµßPÒ ÷\¸®. Caö\¯Ø£õmøh Cµ\õ¯ÚU SÔ±kPøÍ¨ £¯ß£kzv ¤ßÁ¸©õÖ Põmh»õ®.
+
+88C»Á\¨ £õh¡À
+
+Zn(s) Zn2+(aq) + 2e 1
+
+IuõÚ \À§›UPª»® }¸hß ÷\¸® ÷£õx, Iuµ\ß (H+) A¯ßPÍõPÄ® \À÷£ØÖ (SO42-) A¯ßPÍõPÄ® ¤›øP¯øh²®. AuøÚ¨ ¤ßÁ¸©õÖ Põmh»õ®.
+
+H2SO4 (aq) H+(aq) + H+(aq) + SO2-4(aq)
+
+Pøµ\¼¾ÒÍ Iuµ\ß (H+) A¯ß |õPz uPmi¾ÒÍ C»zvµøÚ¨ ö£ØÖU öPõÒÁuØPõP |õPz uPmøh ÷|õUQ |P¸®. C»zvµøÚ¨ ö£ØÖU öPõsh Iuµ\ß (H+) A¯ß AqÁõQ ¤ß H2 Áõ²ÁõP ©õÖ®. Caö\¯ß•øÓø¯ ¤ßÁ¸©õÖ Cµ\õ¯ÚU SÔ±kPÎÀ Põmh»õ®.
+
+2H+(aq) + 2e H2(g) 2
+
+¯õuõ°Ýö©õ¸ Cµ\õ¯Ú¨ £uõºzu® C»zvµøÚ¨ ö£ØÖUöPõÒÁuß ‰»® AÀ»x C»zvµøÚ öÁÎÂkÁuß ‰»®, ÷ÁÖ J¸ Cµ\õ¯Ú¨ £uõºzu©õP ©õØÓ©øhÁuøÚU Põmk® Âu©õÚ \©ß£õkPÒ 1 , 2 BQ¯Ú "Aøµz uõUP[PÒ' GÚ AøÇUP¨£k®. CÆÂ¸ Aøµz uõUP[PøÍ²® ÷\º¨£uß ‰»® \©¨£kzu¨£mh A¯ß \©ß£õmøh ö£Ó»õ®.
+
+Zn(s) + Zn2+(aq) + 2e — 1
+
+2H+ (s) + 2e H2(g) — 2
+
+1 + 2 Zn(s) + 2H+(aq) + 2e Zn2+ (aq) + 2e + H2 (g)
+
+Zn(s) + 2H+(aq) Zn2+(aq) + H2(g)
+
+AkzuuõP, CzuõUPzøu \©¨£kzu¨£mh Cµ\õ¯Úz uõUP©õPU Põmk® •øÓø¯¨ £õº¨÷£õ®. H2SO4 ¤›øP¯øhÁuÚõÀ Pøµ\¼ØS H+ Qøhzux.
+
+H2SO4 ¤›øP¯øh²® ÷£õx, H+ E® SO42- E® Pøµ\¼ÝÒ ÷\¸QßÓÚ. GÛÝ®, uõUP® |øhö£Ö® ÷£õx SO42- ©õØÓ©øh¯õx. GÚ÷Á SO42- I C¸ ¦Ó•® ÷\º¨÷£õ®.
+
+Zn(s) + 2H + (aq) + SO2-4 (aq) Zn2+ (aq) + SO2-4 (aq) + H2 (g)
+
+H2SO4ZnSO4
+
+Zn(5)+ H2SO4 (aq) ZnSO4 (aq) + H2 (g)
+
+89C»Á\¨ £õh¡À
+
+|õP® IuõÚ \À§›UPª»zxhß uõUP©øhÁuØPõÚ §µn \©ß£õk ÷©÷» uµ¨£mkÒÍx. ÷©Ø£i uõUPzvÀ E÷»õP Zn ©ØÖ® H+ (aq) Gß£ÚÁØÔØS Cøh÷¯ |øhö£Ö® C»zvµß £›©õØÓ® ¦ÓUPhzv JßÔÞhõP |øhö£Ö©õ°ß ªß÷Úõmhzøu¨ ¤Ó¨¤UP»õ®.
+
+CuøÚU PshÔÁuØPõP¨ ¤ßÁ¸® ö\¯Ø£õmiÀ Dk£k÷Áõ®.
+
+ö\¯Ø£õk 12.2
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : •PøÁ, |õP® ©ØÖ® ö\¨¦ uPkPÒ, IuõÚ \À§›UPª»®, öuõkUS® P®¤, PÀÁ÷Úõ ©õÛ.ö\´•øÓ :
+
+²²E¸ÂÀ Põmh¨£mkÒÍÁõÖ |õPz uPmøh²® ö\¨¦z uPmøh²® öuõkUS® P®¤°ÚõÀ Cøn²[PÒ. AuÝhß PÀÁ÷Úõ©õÛø¯²® Cøn²[PÒ. ¤ß E÷»õP uPkPÒ Cµsøh²® IuõÚ \À§›UPª»® Ch¨£mh •PøÁ°ÝÒ AªÌzx[PÒ.
+
+IuõÚ \À§›UPª»®
+
+Cu uPkZn uPk
+
+E¸ 12.4
+
+²²E[PÍx AÁuõÚ[PøÍU SÔzxU öPõÒÐ[PÒ.
+
+C[S PÀÁ÷Úõ©õÛ°ß Põmi Aø\ÁuøÚ²®, |õPzuPk PøµÁuøÚ²®, ö\¨¦z uPmiØS Asø©°À Áõ²U SªÈPÒ E¸ÁõÁøu²® AÁuõÛUP»õ®. AuØPõÚ Põµnzøu Bµõ´÷Áõ®.
+
+C[S |õP AqÂ¾ÒÍ C»zvµßPÒ ÂkÂUP¨£kÁuÚõÀ Ax Zn2+ A¯ÚõP ©õÖQßÓx. CuÚõÀ |õPz uPk PøµQßÓx. Zn uPmiß «x ÷\º¢u C»zvµßPÒ ¦ÓUP®¤°ÞhõP ö\¨¦z uPmøh ÷|õUQa ö\À¾®. C¢u C»zvµß £õ´a\ø» ªß÷Úõmh©õPU P¸u»õ®. ªß÷Úõmh®
+
+90C»Á\¨ £õh¡À
+
+£õ´ÁuøÚ PÀÁ÷Úõ©õÛ°ß Põmi°ß v¸®£ø»U öPõsk AÔ¯»õ®. ÷©¾® C[S Pøµ\¼À EÒÍ A¯ßPÒ H+(aq), Cu uPmøh ÷|õUQa ö\ßÖ ö\¨¦z uPmi¾ÒÍ C»zvµßPøÍ¨ ö£ØÖU öPõÒÐ®. CuÚõÀ ö\¨¦z uPmøh Asªzx Iuµ\ß Áõ²U SªÈPÒ E¸ÁõS®.
+
+|õPz uPmiØS Asø©°À |øhö£Ö® uõUP®,
+
+Zn (s) Zn 2+ (aq)+ 2e 1
+
+ö\¨¦z uPmiØS Asø©°À |øhö£Ö® uõUP®,
+
+2H+ (aq) + 2e H2 (g) 2
+
+÷©ØPõmi¯ ö\¯Ø£õmi¼¸¢x |õPzv¼¸¢x ö\¨¦ Áøµ ¦ÓUP®¤°ÞhõP C»zvµßPÒ £õ´ÁuøÚ EÖv¨£kzu»õ®. C»zvµßPÎß Kmh® Gß£x ªß÷Úõmh÷© BS®. C[S |øhö£Ö® Cµ\õ¯Ú ©õØÓzvÚõÀ ªß÷Úõmh® ¤Ó¨¤UP¨£kQßÓx. Cµ\õ¯Ú uõUPö©õßÔß ÂøÍÁõP ªß÷Úõmhzøu¨ ¤Ó¨¤US® ÷©ØPõmi¯ Aø©¨¦ ªß Cµ\õ¯Ú P»® GÚ¨£k®. C[S ªß£S ö£õ¸ÎÝÒ AªÌ¢xÒÍ ªß PhzxvÓøÚ²øh¯ £uõºzu® ªßÁõ´ GÚ AøÇUP¨£k®.
+
+÷©ØPõmi¯ P»zvÀ |õPz uPk® ö\¨¦z uPk® ªßÁõ´PÍõPz öuõÈØ£k®. \©ß£õkPÒ 1 , 2 CÀ uµ¨£mkÒÍ C¸ Aøµ A¯ß \©ß£õkPøÍa ÷\º¨£uß ‰»® E¸ÁõS® \©¨£kzu¨£mh A¯ß \©ß£õmkUS›¯ uõUP® P»zvÝÒ |øhö£Ö® ªß Cµ\õ¯Ú uõUP® BS®.
+
+1 + 2 Zn (s) + 2H+ (aq) Zn2+ (aq) + H2 (g)
+
+CU P»zvÀ |õP ªßÁõ°ØS Asø©°À |øhö£Ö® uõUPzvøÚ ÷©¾® Bµõ´÷Áõ®. Zn (s) Zn2+ (aq) + 2e 1
+
+\h¨ö£õ¸Ò JßÔ¼¸¢x (‰»P®, ‰»UTÖ, A¯ß) C»zvµß öÁÎ÷¯ÖuÀ, Jm]÷¯ØÓ® GÚ¨£k®. CuØPø©¯ |õPzuPmiØS Asø©°À |øhö£ÖÁx Jm]÷¯ØÓ©õS®. ¯õuõ°Ýö©õ¸ ªßÁõ°ØS Asø©°À Jm]÷¯ØÓ® |øhö£Ö©õ°ß A®ªßÁõ´ A÷Úõmk GÚ¨£k®. GÚ÷Á, P»zvß A÷Úõmk |õPz uPhõS®. \©ß£õk 1 CÀ Põmh¨£mi¸¨£x A÷ÚõmkUS Asø©°À |øhö£Ö® uõUPzvØPõÚ Jm]÷¯ØÓ Aøµ A¯ß \©ß£õhõS®. |õPzuPmiØS C»zvµßPøÍ ÁÇ[Q Zn Aq PøµÁuÚõÀ, ö\¨¦z uPk \õº£õP |õPz uPk ©øÓ¯õPU P¸u¨£k®. GÚ÷Á, |õP ªßÁõ´ ©øÓ •iÂh©õS®.
+
+Akzx |õ® ö\¨¦z uPmiØS Asø©°À |øhö£Ö® uõUPzøuU P¸x÷Áõ®.
+
+2H+ (aq) + 2e H2 (g) 2
+
+91C»Á\¨ £õh¡À
+
+C[S H+ C»zvµøÚ¨ ö£ØÖUöPõsk H2 Áõ²ÁõP ©õÖ®. ¯õuõ°Ýö©õ¸ £uõºzu® (‰»P®, ‰»UTÖ, A¯ß) C»zvµøÚ¨ ö£ØÖUöPõÒÐuÀ uõÌzuÀ GÚ¨£k®. ö\¨¦ ªßÁõ°ØS A¸QÀ C»zvµøÚ¨ ö£ØÖUöPõÒÐ® uõÌzuÀ uõUP® |øhö£ÖÁuÚõÀ Cz uõUPzvØPõÚ \©ß£õk 2 uõÌzuÀ Aøµz uõUP©õS®.
+
+¯õuõ°Ýö©õ¸ ªßÁõ°ß A¸÷P uõÌzuÀ |øhö£Ö©õ°ß A®ªßÁõ´ P÷uõmk GÚ¨£k®. AuØPø©¯ ö\¨¦z uPk P»zvß P÷uõmhõS®. ö\¨¦z uPmøh ÷|õUQ C»zvµß £õ´a\À {PÌÁuÚõÀ ö\¨¦z uPk |õPz uPk \õº£õP ÷|µõPU P¸u¨£k®. GÚ÷Á, ö\¨¦ ªßÁõ´ P»zvß ÷|º •iÂh©õS®.
+
+1 , 2 BQ¯ \©ß£õkPøÍ ÷\º¨£uß ‰»®, P»zvß ªß Cµ\õ¯Ú uõUPzvØPõÚ §µn \©ß£õmøh¨ ö£ØÖU öPõÒÍ»õ®.
+
+|õP ªßÁõ°ØS A¸QÀ / ©øÓ •iÂhzvØS A¸QÀ,
+
+A÷ÚõmiÀ {PÊ® uõUPzvØPõÚ \©ß£õk Zn (s) Zn2+ (aq) + 2e — 1
+
+ö\¨¦ ªßÁõ°ØS A¸QÀ / ÷|º •iÂhzvØP¸QÀ,
+
+P÷uõmiÀ {PÊ® uõUPzvØPõÚ \©ß£õk 2H+ (aq) + 2e H2 (g) — 2
+
+1 + 2
+
+P»zvÀ {PÊ® §µn uõUPzvØPõÚ \©ß£õk
+
+Zn (s) + 2H+ (aq) Zn 2+ (aq) +H2 (g)
+
+uµ¨£mkÒÍ P»zvÀ }[PÒ A÷Úõmøh²® P÷uõmøh²® CÚ[Põs£uØ PõP R÷Ç uµ¨£mkÒÍ Âh¯[PøÍU PÁÚzvØ öPõÒÍ ÷Ásk®.
+
+²²uõUPÃuz öuõh›À ÷©÷» Põn¨£k® E÷»õP® A÷ÚõmhõPz öuõÈØ £kÁxhß, R÷Ç Põn¨£k® E÷»õP® P÷uõmhõPz öuõÈØ£k®.
+
+²²A÷ÚõmiÀ Jm]÷¯ØÓ•® P÷uõmiÀ uõÌzu¾® |øhö£ÖQßÓx.
+
+²²A÷Úõmk P»zvß ©øÓ•iÂh©õPÄ® P÷uõmk P»zvß ÷|º •i Âh©õPÄ® öuõÈØ£kQßÓx.
+
+92C»Á\¨ £õh¡À
+
+PÁÚzvØS öPõÒÍ ÷Ási¯øÁ
+
+P»zvß ©øÓ •iÂhzv¼¸¢x ÷|º •iÂhzøu ÷|õUQ C»zvµßPÒ £õ²®. GÛÝ® ö£ÍvP ÂgbõÚ ÷Põm£õkPÐUS HØ£ {¯© ªß÷Úõmh® (I) ÷|º •iÂhzv¼¸¢x ©øÓ •iÂhzøu ÷|õUQU SÔUP¨£k®.
+
+A÷ÚõmkP÷uõmk
+
+(-)(+)
+
+C»zvµß Kmh® (e)
+
+{¯© ªß÷Úõmh® (I)
+
+|õPz uPkö\¨¦z uPk
+
+IuõÚ H2SO4
+
+E¸ 12.5
+
+÷©¾®, C¸®¦ ©ØÖ® ö\¨¦ ªßÁõ´PøÍ¨ £¯ß£kzv Aø©UP¨£k® P»® JßÔøÚ P¸x÷Áõ®.
+
+IuõÚ H2SO4 (aq)
+
+A÷Úõmk
+
+(-)
+
+P÷uõmk
+
+(+)
+
+C¸®¦z uPkö\¨¦z uPk
+
+e
+
+I
+
+E¸ 12.6
+
+uõUPÃuz öuõh›À ö\¨¤ØS ÷©÷» C¸®¦ Põn¨£kQßÓx. GÚ÷Á C[S Jm]÷¯ØÓ® Aøh¢x A÷ÚõmhõP öuõÈØ£kÁx uõUSvÓß Ti¯ C¸®¦ BS®.
+
+C¸®¦ A÷Úõmk ªßÁõ°À |øhö£Ö® uõUP®
+
+Fe (s) Fe2+ (aq) + 2e 4
+
+93C»Á\¨ £õh¡À
+
+C[S C¸®¦z uPmiß «x C»zvµøÚ Âmk C¸®¦ Aq PøµÁuÚõÀ Ax ö\¨¦ \õº£õP ©øÓ¯õPU P¸u¨£k®. GÚ÷Á C¸®¦ ªßÁõ´ P»zvß ©øÓ •iÂh® BS®.
+
+CUP»zv¾® C¸®ø£ Âhz uõUSzvÓß SøÓ¢u ö\¨¦z uPmiØS Asø©°À ¤ßÁ¸® uõÌzuÀ Aøµ A¯ß \©ß£õmiØS›¯ uõUP® {PÊ®. GÚ÷Á CUP»zvÀ P÷uõmhõPz öuõÈØ£kÁx ö\¨¦ ªßÁõ´ BS®.
+
+2H+ (aq) + 2e H2 (g) 5
+
+ö\¨¦ ªßÁõø¯ ÷|õUQ ¦Ó _ØÔÞhõP C»zvµßPÒ £õ²®. GÚ÷Á ö\¨¦ ªßÁõ´ P»zvß ÷|º •iÂh® BS®.
+
+4 , 5 BQ¯ Aøµ A¯ß \©ß£õkPøÍa ÷\º¨£uß ‰»®, P»zvß •Ê A¯ß uõUPzvØS›¯ \©ß£õmøh¨ ö£ØÖU öPõÒÍ»õ®.
+
+Fe (s) + 2H+ (aq) Fe2+ (aq) + H2 (g)
+
+CU P»zv¾® ªßøÚ¨ ö£ØÖ® öPõÒÐ® ÷£õx C¸®¦zuPk PøµÁøu²® ö\¨¦z uPmiÀ Áõ²U SªÈPÒ ÷uõßÖÁøu²® AÁuõÛUP»õ®.
+
+|õP® ©ØÖ® C¸®¦ ªßÁõ´PøÍ¨ £¯ß£kzv, E¸ÁõUP¨£mkÒÍ ¤ßÁ¸® P»zøuU P¸x÷Áõ®.
+
+IuõÚ H2SO4 (aq)
+
+A÷Úõmk
+
+(-)
+
+P÷uõmk
+
+(+)
+
+|õPz uPkC¸®¦z uPk
+
+e
+
+I
+
+E¸ 12.7
+
+uõUPz öuõh›À C¸®¤ØS ÷©÷» |õP® Põn¨£kQßÓx. GÚ÷Á C[S Jm]÷¯ØÓ® Aøh¢x A÷ÚõmhõPz öuõÈØ£kÁx uõUSvÓß Ti¯ |õP® BS®.
+
+|õP ªßÁõ´ / A÷ÚõmiÀ |øhö£Ö® uõUP®
+
+Zn (s) Zn2+ (aq) + 2e 6
+
+94C»Á\¨ £õh¡À
+
+C[S |õPz uPmiß «x C»zvµøÚ Âmk |õP Aq PøµÁuÚõÀ Ax C¸®¦ \õº£õP ©øÓ¯õPU P¸u¨£k®. GÚ÷Á, |õP ªßÁõ´ P»zvß ©øÓ •iÂh® BS®.
+
+C¸®¦ ªßÁõ´ AÀ»x P÷uõmiÀ {PÊ® uõUP®
+
+2H+ (aq) + 2e H2 (g) 7
+
+C¸®¦ ªßÁõø¯ ÷|õUQ ¦Óa _ØÔÞhõP C»zvµßPÒ £õ²®. GÚ÷Á C¸®¦ ªßÁõ´ P»zvß ÷|º •iÂh® BS®.
+
+6 , 7 BQ¯ \©ß£õkPøÍa ÷\ºUS® ÷£õx P»zvß •Ê A¯ß uõUPzvØPõÚ A¯ß \©ß£õmøh¨ ö£ØÖU öPõÒÍ»õ®.
+
+Zn (s) + 2H+ (aq) Zn2+ (aq) + H2 (g)
+
+CU P»® ö\¯Ø£k®÷£õx Zn ªßÁõ´ PøµÁxhß Fe ªßÁõ°À Áõ²U SªÈPÒ E¸ÁõÁøu AÁuõÛUP»õ®.
+
+12.2 ªß£S¨¦
+
+|Pº¨¦Ó[PÎÀ Põn¨£k® |øPU PøhPÐUS Asø©°À ö£õß, öÁÒÎ |øPPøÍ •»õªk® |h©õk® Â¯õ£õ›PøÍ }[PÒ AÁuõÛzv¸UQßÕº PÍõ?
+
+Cx Áøµ }[PÒ CÆÁõÓõÚ Ch[PøÍ AÁuõÛUPÂÀø» GÛß Cuß ¤ß¦ CÆÁõÓõÚ Ch[PøÍ AÁuõÛzx AÁºPÎh® Põn¨£k® E£Pµn[PøÍ |ßS Bµõ²[PÒ. A[S ªß\õµzøu ÁÇ[SÁuØPõP ªß P»ÁkUS öuõk¨£uØS ]» P®¤PÒ ©ØÖ® Pøµ\À JßÓõÀ {µ¨£¨£mh £õzvµö©õßÖ ÷£õßÓÚÁØøÓ }[PÒ AÁuõÛUP»õ®. C[S J¸ ªßÁõ¯õP ö©À¼¯ ö£õß uPk® ©ØøÓ¯ ªßÁõ¯õP ªß•»õªh¨£h ÷Ási¯ B£µn•® £¯ß£k®. AÁºPÒ CÆÁõÓõÚ E£Pµn[PøÍ¨ £¯ß£kzv B£µn[PÎß «x ö£õßøÚ £iÄÓa ö\´QßÓÚº.
+
+Caö\¯Ø£õmiß ÷£õx AÁº öÁÒÎ B£µnzvß «x ö£õßøÚ ‰»õ ªkQßÓõº. C[S AÁº £¯ß£kzv¯ Pøµ\¼ÞhõP ªß÷Úõmh® Phzu¨£kQßÓx.
+
+Pøµ\À AÀ»x vµÁ® JßÔÞhõP ªß÷Úõmh® Phzu¨£k®÷£õx A[S {PÊ® Cµ\õ¯Ú ©õØÓ® ªß£S¨¦ GÚ¨£k®. CÆÁzv¯õ¯zvÀ ªß£S¨¦ öuõhº£õPU P»¢xøµ¯õh¨£k®. AuØPõP •u¼À |õ® ¤ßÁ¸® ö\¯Ø£õmiÀ Dk£kÁuß ‰»® ªß÷Úõmhzøu Phzx® vµÁ® AÀ»x Pøµ\¼ß C¯Àø£U PshÔ÷Áõ®.
+
+95C»Á\¨ £õh¡À
+
+ö\¯Ø£õk 12.3
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ :
+
+Põ£ß ªßÁõ´, C¸ ªß`Ò ªßP»[PÒ (1.5 V), öuõkUS® P®¤PÒ, A®¤¯º©õÛ, ]» •PøÁPÒ, ÷u[Põ´ Gsön´, ©sönsön´, }º, Aª»® xªUP¨£mh }º, E¨¦U Pøµ\À, Gu÷ÚõÀ 50 cm3
+
++-
+
+£¯ß£kzx® vµÁ® / Pøµ\À
+
+A
+
+Põ£ß ªßÁõ´Põ£ß ªßÁõ´
+
+A®¤¯º©õÛ
+
+E¸ 12.8
+
+÷©÷» uµ¨£mh vµÁ® AÀ»x Pøµ\À Ah[Q¯ •PøÁ°ÝÒ Põ£ß ªßÁõ´PøÍ AªÌzv A®¤¯º©õÛ v¸®£ø»U PõmkQßÓuõ GßÖ AÁuõÛ²[PÒ.
+
+E[PÒ AÁuõÛ¨¦PøÍ AÔUøP¨£kzx[PÒ.
+
+C[S Aª»® xªUP¨£mh }øµ²®, E¨¦U Pøµ\ø»²® £¯ß£kzx® ÷£õx ©mk÷© A®¤¯º©õÛ v¸®£ø»U Põmk®.
+
+CuØPõÚ Põµn® Pøµ\¼ÞhõP ªß Phzu¨£kÁ÷u¯õS®.
+
+yyªßøÚU Phzx® vµÁ® AÀ»x Pøµ\À ªß£Sö£õ¸Ò GÚ¨£k®. ªß£S ö£õ¸ÒPÍõP¨ £¯ß£kzu¨£k® vµÁ® AÀ»x Pøµ\ÀPÐUS ]» Euõµn[PÒ R÷Ç uµ¨£mkÒÍÚ.
+
+••A¯ß ÷\ºøÁPÎß }ºUPøµ\À Euõµn® : NaCl }ºUPøµ\À, CuSO4 }ºUPøµ\À.
+
+••A¯ß ÷\ºøÁPÎß E¸Q¯ vµÁ® Euõµn® : vµÁ©õUP¨£mh NaCl (E¸Q¯ NaCl)
+
+••Aª»U Pøµ\À Euõµn® : HCl }ºUPøµ\À, H2SO4 }ºUPøµ\À.
+
+••PõµUPøµ\À Euõµn® : NaOH }ºUPøµ\À, _snõ®¦ }ºU Pøµ\À
+
+yyªßøÚU Phzuõu vµÁ® AÀ»x Pøµ\À ªß£Põ¨ö£õ¸Ò GÚ¨£k®. ªß£Põ¨ö£õ¸ÒPÍõP¨ £¯ß£k® vµÁ® AÀ»x Pøµ\ÀPÐUS ]» Euõµn[PÒ R÷Ç uµ¨£mkÒÍÚ.
+
+96C»Á\¨ £õh¡À
+
+••y¯ }º (Põ´a] ÁiUP¨£mh }º)
+
+••÷\uÚ vµÁ[PÒ Euõµn® : ö£Ø÷ÓõÀ, ©sönsön´, £µ¥ß, öíU÷éß
+
+vs© A¯ß £Î[SPÎÀ Aø\²¢ uPÄøh¯ A¯ßPÒ Põn¨£k ÁvÀø». GÚ÷Á AÁØÔÚõÀ ªßøÚU Phzu •i¯õx. BÚõÀ AÁØøÓ }›À PøµzuõÀ AÀ»x vµÁ©õS® Áøµ öÁ¨£÷©ØÔÚõÀ (E¸UQÚõÀ) AÁØÔ¾ÒÍ A¯ßPÒ Aø\²¢ uPøÁ¨ ö£Ö®. GÚ÷Á A¯ß ÷\ºøÁPÎß }ºUPøµ\À AÀ»x vµÁ[PÒ ªßøÚU Phzx®. ö£Ø÷ÓõÀ, ©sönsön´, £µ¤ß ÷£õßÓ Iu÷µõUPõ£ßPÒ £[Rmk Á¾¨¤øn¨ø£²øh¯ ÷\ºøÁPÒ BS®. CøÁ ªßøÚU Phzuõx. y¯ }º £[Rmk Á¾¨¤øn¨¤Úõ»õÚx. AvÀ A¯ßPÒ Põn¨£hõx. GÚ÷Á y¯}º, Põ´a] ÁiUP¨£mh }º ªßøÚU Phzuõx. HI, HCl, H2SO4 ÷£õßÓ Aª»[PÎß }ºUPøµ\ÀPÎÀ £[Rmk Á¾¨ ¤øn¨¦ Eøh¢x A¯ßPÒ ÷uõßÖ®. GÚ÷Á CÆÁª»[PÎß }ºUPøµ\ÀPÒ ªßøÚU Phzx®. HCl }º H+ (aq)+ Cl- (aq)
+
+H2SO4 }º
+
+H+ (aq)+ H+ (aq) + SO2-
+
+4 (aq)
+
+÷©»vP AÔÄUS
+
+ªß£S¨¤ß ‰»®, ªßøÚU PhzxÁuØPõP Aø©UP¨£mh Aø©¨ö£õßøÓ R÷Ç uµ¨£mkÒÍ E¸ PõmkQßÓx. CÆÁõÓõÚ Aø©¨¦ ªß£S¨¦U P»® GÚ¨£k®. ªß£S¨¦UP»® JßÔÀ ªßÁÇ[Q ªß£Sö£õ¸Ò, C¸ ªßÁõ´PÒ ©ØÖ® ªßøÚ PhzxÁuØPõÚ öuõkUS® P®¤PÒ Gß£Ú Põn¨£kQßÓÚ.
+
++-
+
+öuõkUS® P®¤
+
+ªßP»®
+
+ªßÁõ´ (E+® : Põ£ß AÀ»x ¤ÍõØÔÚ®)
+
+ªß£Sö£õ¸Ò
+
+ABªßÁõ´(E+® : Põ£ß AÀ»x ¤ÍõØÔÚ®)
+
+E¸ 12.9 ªß£S¨¦UP»®
+
+97C»Á\¨ £õh¡À
+
+ªß£S¨¦UP»ö©õßÔÀ ªßøÚ ÁÇ[SÁuß ‰»® ÷\õi¯® S÷Íõøµmk (NaCl) }ºU Pøµ\ø» ªß£Sö£õ¸ÍõPÄ® Põ£ß ÷PõÀPøÍ ªß Áõ´PÍõPÄ® £¯ß£kzv {PÌzu¨£k® ªß£S¨ø£ Bµõ´÷Áõ®. C[S Põ£ß ªßÁõ´PÎØS A¸÷P Áõ²USªÈPÒ öÁÎ÷¯ÖÁøu AÁuõÛUP»õ®. Cuß Ai¨£øh°À ÷\õi¯® S÷Íõøµmk }ºUPøµ\À Cµ\õ¯Ú ©õØÓ® JßÔØS Em£mkÒÍx Gß£x öuÎÁõQßÓx. CÆÁõÖ ªßøÚ ÁÇ[SÁuÚõÀ C¯À£õP |øhö£Óõu (_¯©õP |øhö£Óõu) Cµ\õ¯Ú uõUPö©õßøÓ {PÌzu •i²®.
+
+yyI¡ð°ŠH¡ «ð£¶ ðò¡ð´ˆîŠð´‹ Gòñƒèœ
+
+1. ¦Ó ªßÁÇ[Q°ß (ªßP»®) ÷|º •iÂhzxhß öuõkUP¨£mkÒÍ ªßÁõ´ ÷|º ªßÁõ¯õS®. ©øÓ •iÂhzxhß öuõkUP¨£mkÒÍ ªßÁõ´ ©øÓ ªßÁõ´ BS®.2. Pøµ\À AÀ»x vµÁzvÀ Põn¨£k® ÷|µ¯ßPÒ ©øÓ ªßÁõø¯ ÷|õUQ²®, ©øÓ A¯ßPÒ ÷|º ªßÁõø¯ ÷|õUQ²® ö\À¾®.
+
+3. ©øÓ ªßÁõø¯ Aøh¢u ÷|µ¯ßPÒ C»zvµßPøÍ¨ ö£ØÖ uõÌzu»øh²®. Pøµ\¼ÝÒ £» ÁøP¯õÚ ÷|µ¯ßPÒ Põn¨£k©õ°ß, ö£õxÁõP, uõUPz öuõh›À R÷Ç Põn¨£k® PØÓ¯ßP÷Í (÷|º A¯ßPÒ) AvPÍÂÀ uõÌzu»øh²®.
+
+Euõµn©õP, uõUPzöuõh›À Na+ US R÷Ç Iuµ\ß Põn¨£k®. GÚ÷Á }ºUPøµ\À Na+ ©ØÖ® H+ Põn¨£k©õ°ß H+ •u¼À C»zvµøÚ¨ ö£ØÖ uõÌzuÀ Aøh²®.
+
+uõUPzöuõh›À Iuµ\ÝUS R÷Ç ö\¨¦ Põn¨£kQÓx. GÚ÷Á }ºU Pøµ\¼À Cu2+ ©ØÖ® H+ A¯ßPÒ Põn¨£k©õ°ß Cu2+ •u¼À C»zvµøÚ¨ ö£ØÖ uõÌzuÀ Aøh²®.
+
+4. ©øÓ ªßÁõ°ØS A¸÷P uõÌzuÀ Aøµ A¯ß uõUP® {PÊÁuõÀ ©øÓ ªßÁõ´ P÷uõmhõS®.
+
+5. Pøµ\¼¾ÒÍ AÚ¯ßPÒ (©øÓ A¯ßPÒ) ÷|ºªßÁõø¯ ÷|õUQ ö\ßÖ C»zvµøÚ ÂkÂUS®. AuõÁx Jm]÷¯ØÓ©øh²®.
+
+Euõµn©õP Pøµ\¼¾ÒÍ Cl-- A¯ß C»zvµøÚ CÇ¢x Cl2 BP ©õÖ®.
+
+2Cl- (aq) Cl2 (g) + 2 e
+
+(Pøµ\¼À JßÔØS ÷©Ø£mh ©øÓ A¯ßPÒ Põn¨£k® ÷£õx •u¼À Jm]÷¯ØÓ©øh²® A¯ß Gx Gß£uøÚz wº©õÛ¨£vÀ £» PõµoPÒ ö\ÀÁõUSa ö\¾zxQßÓÚ. CUPõµoPÒ E[PÍx £õh¨£µ¨¦US A¨£õØ £mhuÚõÀ AøÁ C[÷P P»¢xøµ¯õh¨£hÂÀø».)
+
+98C»Á\¨ £õh¡À
+
+6. ÷|ºªßÁõ°ØS A¸÷P Jm]÷¯ØÓ® {PÌÁuÚõÀ ÷|ºªßÁõ´ & A÷ÚõmhõS®.
+
+7. A÷ÚõmhõP (¤ÍmiÚ® uÂº¢u) E÷»õPö©õßÖ £¯ß£kzu¨£mhõÀ ©øÓ A¯ßPÒ Jm]÷¯ØÓ©øhÁuØS¨ £v»õP E÷»õP A¯ß C»zvµøÚ CÇ¢x Jm]÷¯ØÓ©øh²®.
+
+Euõµn©õP A÷ÚõmhõP öÁÒÎU ÷Põö»õßÖ £¯ß£kzu¨£iß ÷|º ªßÁõ°ß A¸QÀ Ag (s) Ag+ (aq) + e GÝ® Jm]÷¯ØÓ uõUP® |øhö£Ö®.
+
+÷©Ø£i {¯©[PÎØS Aø©¯ ¤ßÁ¸® ªß£S¨¦UPÎß ÷£õx |øhö£Ö® uõUP[PøÍ GvºÄ TÖ÷Áõ®.
+
+à¼Aò «ê£®ò‹ °«÷£¬ó†¬ì (NaCl) è£ð¡ I¡õ£Œè¬÷Š ðò¡ð´ˆF I¡ð°ˆî™
+
+(+)
+
++
+
+(-)
+
+-
+
+Na+(l)
+
+vµÁ NaCl (E¸UQ¯ NaCl)
+
+Cl-(l)
+
+e
+
+e
+
+Põ£ßPõ£ß
+
+------ --------------
+
+- ------
+
+E¸ 12.10
+
+yy©øÓ ªßÁõ°À |øhö£Ö® uõUP®
+
+E¸Q¯ NaCl CÀ Põn¨£k® J÷µ J¸ ÷|º A¯ÚõÚ Na+l ©øÓ •øÚø¯ ÷|õUQa ö\À¾®. A[S Na+ l A¯ß C»zvµøÚ¨ ö£ØÖU öPõsk Na E÷»õP AqÁõP ©õÖ®.Na+ l + e Na 1
+
+Na+ A¯ß C»zvµøÚ¨ ö£ØÖ C[S uõÌzu»øh¢uuÚõÀ Cx P÷uõmkz uõUP® BS®. C[S ©øÓ ªßÁõ´ P÷uõmk BS®.
+
+yy÷|º ªßÁõ°À |øhö£Ö® uõUP®
+
+E¸Q¯ NaCl CÀ Põn¨£k® J÷µö¯õ¸ ©øÓ A¯ÚõQ¯ Cl- l A¯ß ÷|º ªßÁõø¯ ÷|õUQa ö\À¾®. A[S Cl- l A¯ß C»zvµøÚ CÇ¢x Cl2 Áõ² BP ©õÖ®.
+
+2Cl- l Cl2 (g) + 2e 2
+
+99C»Á\¨ £õh¡À
+
+Cl- l A¯ß C»zvµøÚ CÇ¢x, Jm]÷¯ØÓ©øhÁuÚõÀ Cx A÷Úõmkz uõUP©õS®. C[S ÷|º ªßÁõ´ A÷Úõmk BS®.
+
+1 , 2 BQ¯ Aøµ A¯ß uõUPa \©ß£õkPøÍ E›¯ •øÓ°À ÷\º¨£uß ‰»® \©¨£kzu¨£mh ªß£S¨¦z uõUPzvØPõÚ §µn \©ß£õmøh¨ ö£ØÖU öPõÒÍ»õ®.
+
+1 × 2 2Na+ (1) + 2e 2Na (l) 3
+
+2 + 3 2e + 2Na+ (l) + 2Cl- (l) 2Na (l) + Cl2 (g) + 2e
+
+2Na+ (l) + 2Cl- (l) 2Na (l) + Cl2 (g)
+
+÷©÷» P»¢xøµ¯õh¨£mh ªß£S¨¦z uõUP® øPzöuõÈÀ Ÿv°À Na E÷»õPzøu¨ ¤›zöuk¨£uØPõP¨ £¯ß£kzu¨£k® hÄßì P»zvÀ |øhö£Ö® uõUP©õS®. Cx öuõhº£õP }[PÒ ¤ßÚº ÂÍUP©õPU PØ¥ºPÒ.
+
+c˜‚è¬óê™è¬÷ I¡ð°ˆî™
+
+AkzuuõP, }ºUPøµ\ÀPøÍ ªß£SUS®÷£õx |øhö£Ö® ©õØÓ[PøÍ AÁuõÛ¨£uØPõP¨ ¤ßÁ¸® ö\¯Ø£õmiÀ Dk£k÷Áõ®.
+
+ö\¯Ø£õk 12.4
+
+÷\õi¯® S÷Íõøµmk }ºUPøµ\ø» ªß£SzuÀ
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : NaCl Pøµ\À, Põ£ß ÷PõÀPÒ, öuõkUS® P®¤, 9V ªßP»®
+
+ö\´•øÓ : Põ£ß ÷PõÀPÒ Cµsøh²® P®¤°ÚõÀ öuõkUS® ªßP»zxhß Cøn²[PÒ. ¤ß AÆÂ¸ ªßÁõ´PøÍ²® NaCl }ºUPøµ\¼ÝÒ AªÌzv AÁuõÛ²[PÒ. E[PÍx AÁuõÛ¨ø£ AÔUøP¨£kzx[PÒ.
+
+(+)(-)
+
+NaCl (aq)
+
+Põ£ß ÷PõÀPõ£ß ÷PõÀ(+)(-)
+
+- -----------------
+
+E¸ 12.11
+
+ªßÁõ´PÎØP¸÷P ÁÎUSªÈPÒ öÁÎ÷¯ÖÁøu AÁuõÛUP»õ®.
+
+CÆÁÁuõÛ¨ø£ ÂÍ[QU öPõÒÁuØPõP C[S |øhö£Ö® uõUPzøu ÷|õUS÷Áõ®.
+
+100C»Á\¨ £õh¡À
+
+(+)
+
+Cl2H2
+
++
+
+(-)
+
+-
+
+NaCl (aq)
+
+Na+
+
+OH-H+Cl-
+
+P÷uõmk (Põ£ß)
+
+A÷Úõmk (Põ£ß)
+
+- -- --
+
+-
+
+--------
+
+------
+
+-
+
+E¸ 12.11
+
+Pøµ\¼À Ti¯ÍÂÀ Na+ (aq) ©ØÖ® Cl- (aq) A¯ßPÒ Põn¨£kQßÓÚ. Cx uÂµ ]» }º ‰»UTÖPÒ ¤›øP¯øh¢uø©°ÚõÀ E¸ÁõQ¯ H+ (aq) ©ØÖ® OH- (aq) A¯ßPÐ® ]ÔuÍÂÀ Põn¨£kQßÓÚ.
+
+}º £[Rmk Á¾¨¤øn¨ø£²øh¯ ‰»UTÓõS®. GÛÝ® y¯ }›À Th ]» }º ‰»UTÖPÒ H+ ©ØÖ® OH- A¯ÚõP¨ ¤›øP¯øhÁx PshÔ¯¨£mkÒÍx. 25 0C C¾ÒÍ y¯ }›À H+ ©ØÖ® OH- A¯ßPÒ JÆöÁõßÔÚx® ö\ÔÄ 1 x 10-7 mol dm-3 BS®.
+
+÷©»vP AÔÄUS
+
+yy©øÓ ªßÁõ°À |øhö£Ö® uõUP® (P÷uõmiÀ |øhö£Ö® uõUP®)
+
+©øÓ ªßÁõø¯ ÷|õUQ Pøµ\¼À EÒÍ Na+ ©ØÖ® H+ A¯ßPÒ ö\À¾®.
+
+uõUPz öuõh›À ÷\õi¯zvØSU R÷Ç Iuµ\ß Põn¨£kÁuÚõÀ, C[S uõÌzu»øhÁx H+ A¯ß BS®.
+
+2 H+ (aq) + 2e H2 (g) 1
+
+C[S uõÌzuÀ |øhö£ÖÁuÚõÀ (C»zvµß HØÓÀ {PÌÁuÚõÀ) ©øÓ ªßÁõ´ P÷uõmk BS®.
+
+AuÚõÀ, \©ß£õk 1 BÁx P÷uõmkz uõUPa \©ß£õhõS®.
+
+L ©øÓ ªßÁõ°ß A¸÷P H2 Áõ² öÁÎ÷¯Ö®.
+
+101C»Á\¨ £õh¡À
+
+yy÷|º ªßÁõ°À A¸÷P |øhö£Ö® uõUP® (A÷ÚõmiÀ |øhö£Ö® uõUP®)
+
+÷|º ªßÁõ´ ÷|õUQ Pøµ\¼À EÒÍ Cl- ©ØÖ® OH- A¯ßPÒ ö\À¾®.
+
+C[S Jm]÷¯ØÓ©øhÁuØPõÚ Áõ´¨¦ AvP©õPÄÒÍ A¯ß Cl- BS®.
+
+2 Cl- (aq) Cl2 (g) + 2e 2
+
+Cx Jm]÷¯ØÓ©õS®. (C»zvµß CÇUP¨£mhø©°ÚõÀ) uõUP® 2 A÷Úõmkz uõUPa \©ß£õhõS®.
+
+1 , 2 BQ¯ uõUP[PøÍ¨ £¯ß£kzv ÷uÔ¯ ªß£S¨¦z uõUPzøu¨ ö£ØÖU öPõÒÍ»õ®.
+
+1 + 2 2H+ (aq) + 2Cl- (aq) + 2e H2 (g) + Cl2 (g) + 2e
+
+Bµ®£zvÀ Pøµ\¼À Na+, H+, Cl-, OH- BQ¯ A¯ßPÒ Põn¨£mhxhß, CÁØÔÀ H+ ©ØÖ® Cl- A¯ßPÒ •øÓ÷¯ H2 ©ØÖ® Cl2 Áõ²UPÍõP ©õØÓ•ØÖ öÁÎ÷¯Ö®. CuÚõÀ Pøµ¼ÝÒ, Na+ ©ØÖ® OH- A¯ßPÒ Gg_®. GÚ÷Á CzuõUPzøu¨ £¯ß£kzv øPzöuõÈÀ Ÿv¯õP ÷\õi¯® S÷Íõøµmøh (NaOH) I EØ£zv ö\´¯»õ® Gß£uøÚ }[PÒ ¦›¢x öPõsi¸¨¥ºPÒ.
+
+ö\¯Ø£õk 12.5
+
+ö\¨¦ \À÷£ØÖ }ºUPøµ\ø» ªß£SzuÀ
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : CuSO4 Pøµ\À, Põ£ß ÷PõÀPÒ, öuõkUS® P®¤, 9V ªßP»®
+
+ö\´•øÓ : R÷Ç Põmh¨£mkÒÍÁõÖ ªßP»zxhß ªßÁõ´PøÍz öuõkUP. ¤ß AÆÂ¸ ªßÁõ´PøÍ²® CuSO4 Pøµ\¼ÝÒ AªÌzv AÁuõÛ²[PÒ. E©x AÁuõÛ¨ø£ AÔUøP¨ £kzx[PÒ.
+
+(+)+
+
+(-)
+
+-
+
+CuSO4 Pøµ\À
+
+P÷uõmk (Põ£ß)A÷Úõmk (Põ£ß)
+
+ªßP»®
+
+- ------ --------- -- -----
+
+E¸ 12.13
+
+102C»Á\¨ £õh¡À
+
+C[S ÷|º ªßÁõ°À (A÷Úõmk) Áõ²U SªÈPÒ öÁÎ÷¯ÖÁøu²® ©øÓ ªßÁõ°À (P÷uõmk) ö\¨¦ £iÁøu²® AÁuõÛUP»õ®. Azxhß Pøµ\¼ß }» {Ó® £i¨£i¯õPU SøÓÁøhÁuøÚ²® AÁuõÛUP»õ®. CÆÁÁuõÛ¨¦PøÍ ÂÍ[QU öPõÒÁuØPõP C[S |øhö£Ö® uõUPzøu ÷|õUS÷Áõ®.
+
+(+)
+
++
+
+(-)
+
+-
+
+CuSO4(aq)
+
+Cu2+
+
+OH-H+
+
+SO2-
+
+4
+
+P÷uõmk (Põ£ß)A÷Úõmk (Põ£ß)
+
+ªßP»®
+
+---
+
+-- ---
+
+----
+
+------
+
+---
+
+--- -------
+
+E¸ 12.14
+
+Pøµ\¼À CuSO4 A¯ÚõUP©øhÁuÚõÀ E¸ÁõQ¯ Cu2+ A¯ßPÒ ©ØÖ® SO2-
+
+4 A¯ßPÒ Gß£Ú Põn¨£k®. Cx uÂµ ]» }º ‰»UTÖPÒ Tmh¨¤›øP Aøh¢x E¸ÁõQ¯ H+ A¯ßPÒ ©ØÖ® OH- A¯ßPÐ® ]ÔuÍÂÀ Põn¨£kQßÓÚ.
+
+yy©øÓ ªßÁõ°À A¸÷P |øhö£Ö® uõUP® (P÷uõmiÀ |øhö£Ö® uõUP®)
+
+©øÓ ªßÁõ´ ÷|õUQ Pøµ\¼À EÒÍ Cu2+ (aq) ©ØÖ® H+ (aq) A¯ßPÒ ö\À¾®.
+
+uõUPz öuõh›À H CØSU R÷Ç Cu Põn¨£kÁuÚõÀ C[S uõÌzu¨£kÁx Cu2+ A¯ß BS®.
+
+Cu2+ (aq) + 2e Cu (s) 1
+
+AuõÁx P÷uõmiß «x ö\®¦ £i²®. Cx uõÌzuÀ uõUP©õu»õÀ \©ß£õk
+
+1 P÷uõmiÀ |øhö£Ö® uõÌzuÀ uõUPa \©ß£õhõS®. CuØPø©¯ ©øÓ ªßÁõ´ P÷uõmhõS®. C[S Pøµ\¼ß }» {ÓzvØSU Põµn©õÚ Cu2+ A¯ßPÒ Pøµ\¼À C¸¢x APØÓ¨£kÁuÚõÀ Pøµ\¼ß }» {Ó® £i¨£i¯õPU SøÓÁøh²®.
+
+103C»Á\¨ £õh¡À
+
+yy÷|º ªßÁõ°À |øhö£Ö® uõUP® (A÷ÚõmiÀ |øhö£Ö® uõUP®)
+
+÷|º ªßÁõø¯ ÷|õUQ Pøµ\¼À EÒÍ SO2-
+
+4 A¯ßPÒ ©ØÖ® OH- A¯ßPÒ ö\À¾®.
+
+C[S Jm]÷¯ØÓ©øhÁuØPõÚ Áõ´¨¦ AvP©õPÄÒÍ A¯ß OH- BS®.
+
+4 OH- (aq) O2 (g) + 2H2O (l) + 4 e 2
+
+AuõÁx A÷ÚõmiÀ O2 (g) Áõ²U SªÈPÒ öÁÎ÷¯Ö®.
+
+\©ß£õk 2 Jm]÷¯ØÓz uõUP® \©ß£õk Gß£uÚõÀ Ax A÷ÚõmiÀ {PÊ® uõUP©õS®. CuØPø©¯ ÷|º ªßÁõ´ A÷Úõmk BS®.
+
+yy}›¾ÒÍ H+ A¯ßPÎß ªPU SøÓÁõS®. CuÚõÀ P÷uõmiÀ |øhö£Ö® 2H+ (aq) + 2e H2 (g) GÝ® uõUPzvØS¨ £v»õP¨ ¤ßÁ¸® uõUP® ªPÄ® ö£õ¸zu©õÚuõPU P¸u¨£k®. 2H2O (l) + 2e 2OH- (aq) + H2 (g)
+
+yyAÆÁõ÷Ó }›À EÒÍ OH- A¯ßPÎß AÍÄ ªPU SøÓÁõS®. GÚ÷Á A÷ÚõmiÀ |øhö£Ö®, 4OH- (aq) O2 (g) + 2H2O (l) + 4e GÝ® uõUPzvØS¨ £v»õP¨ ¤ßÁ¸® uõUP® ªPÄ® ö£õ¸zu©õÚuõPU P¸u¨£k®. 2H2O (l) O2 (g) + 4H+ (aq) + 4e
+
+÷©»vP AÔÄUS
+
+ÜIô‹ ¶I‚èŠð†ì c¬ó I¡ð°ˆî™
+
+Akzx |õ® Põ£ß ªßÁõø¯¨ £¯ß£kzv Aª»® xªUP¨£mh }øµ ªß£S¨¦ ö\´Áx öuõhº£õP Bµõ´÷Áõ®.
+
+104C»Á\¨ £õh¡À
+
+ö\¯Ø£õk 12.6
+
+Aª»® xªUP¨£mh }øµ ªß£SzuÀ
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : ]» xÎPÒ IuõÚ \À§›UPª»® ÷\ºUP¨£mh }º, Põ£ß ÷PõÀPÒ, öuõkUS® P®¤, 9 V ªßP»®, ¤ÍõzvUS Qsn®.
+
+ö\´•øÓ :
+
+²²¤ÍõzvUSU Qsnzvß Ai°À xøÍ°mk E¸ 12.15 À Põmh¨ £mkÒÍÁõÖ Põ£ß ÷PõÀPøÍ {ÖzvøÁ²[PÒ. Ch¨£mh xÁõµ[PÎÞhõP }º P]¯õuÁõÖ `hõUP£mh ö©ÊS AÀ»x PVC ÷£õßÓ £uõºzuö©õßøÓ°mk Aøh²[PÒ. (]¼UPß £¯ß£kzu»õ®) AU QsnzvÝÒ Aª»® xªUP¨£mh }øµ Gk[PÒ. C¸ ÷\õuøÚU SÇõ´PÎÀ }øµ •ØÓõP {µ¨¤ ÁÎ¦PõuÁõÖ E¸ÂÀ Põmi¯ÁõÖ Põ£ß ÷PõÀPÒ «x uø»RÇõP PÂÌzx[PÒ. ¤ß C¸ Põ£ß ÷PõÀPÎØS® ªßøÚ ÁÇ[S[PÒ.
+
+£›÷\õuøÚU SÇõ´
+
+¤ÍõzvUSU Qsn®
+
+Aª»® xªUP¨£mh }º
+
+Põ£ß ÷PõÀ
+
+A÷ÚõmkP÷uõmk(-)(+)
+
+9 V
+
+ªßP»® -+
+
+Põ£ß ÷PõÀ
+
+E¸ 12.15
+
+E[PÍx AÁuõÚ[PøÍ AÔUøP¨£kzx[PÒ.
+
+C[S ÷\õuøÚU SÇõ´PÎÝÒ Áõ² ÷\ºÁøu AÁuõÛUP»õ®. Azxhß P÷uõmiÀ C¸¢x öÁÎ÷¯Ô¯ Áõ²Âß PÚÁÍÄ A÷Úõmi¼¸¢x öÁÎ÷¯Ô¯ Áõ²Âß PÚÁÍÂ¾® AvP® Gß£uøÚ²® AÁuõÛUP»õ®. C[S |øhö£Ö® uõUPzøu Bµõ´÷Áõ®.
+
+Aª»® xªUP¨£mh }›À IuõÚ \À§›UPª»® A¯ÚõUP©øhÁuÚõÀ ÂøÍÁõQ¯ H+ ©ØÖ® SO2-
+
+4 A¯ßPÐ® }º ¤›øP²ÖÁuõÀ Qøhzu H+ ©ØÖ® OH- A¯ßPÐ® Põn¨£kQßÓÚ.
+
+105C»Á\¨ £õh¡À
+
+yy©øÓ ªßÁõ°À |øhö£Ö® uõUP® (P÷uõmiÀ |øhö£Ö® uõUP®)
+
+©øÓ ªßÁõ´ ÷|õUQ Pøµ\¼À EÒÍ GÆ A¯ß ö\À¾®? A[S Põn¨£k® ÷|º HØÓ® öPõsh H+ A¯ßPÒ ©øÓ ªßÁõø¯ ÷|õUQa ö\ßÖ C»zvµøÚ¨ ö£ØÖU öPõÒÐ®. AuõÁx uõÌzu¾US Em£k®.
+
+2 H+ (aq) + 2e H2 (g) 1
+
+Cx P÷uõmiÀ |øhö£Ö® uõÌzuÀ uõUP©õS®.
+
+CuØPø©¯ P÷uõmiÀ H2 Áõ² öÁÎ÷¯Ö®.
+
+yy÷|º ªßÁõ°À |øhö£Ö® uõUP® (A÷ÚõmiÀ |øhö£Ö® uõUP®)
+
+÷|º ªßÁõ´ ÷|õUQ Pøµ\¼À EÒÍ SO2-
+
+4 A¯ßPÒ ©ØÖ® OH- A¯ßPÒ ö\À¾®. C[S Jm]÷¯ØÓ©øhÁuØPõÚ Áõ´¨¦ AvP©õPÄÒÍ A¯ß OH- BS®.
+
+4OH- (aq) O2 (g) + 2H2O (g) + 4e 2
+
+2 Áx A÷ÚõmiÀ {PÊ® Jm]÷¯ØÓz uõUPzøu \©ß£õk 2 PõmkQÓx. BP÷Á C[S ÷|º ªßÁõ´ A÷ÚõmhõS®.
+
+C[S A÷ÚõmiÀ O2 Áõ²U SªÈPÒ öÁÎ÷¯Ö®.
+
+GÚ÷Á Aª»® xªUP¨£mh }›À |øhö£Ö® ÷uÔ¯ ªß£S¨¦z uõUPzøu ¤ßÁ¸©õÖ Põmh»õ®.2H2O (l) 2H2 (g) + O2 (g)
+
+I¡ð°ŠH¡ ¬èˆªî£N™ gFò£ù Hó«ò£èƒèœ
+
+£À÷ÁÖ øPzöuõÈÀ EØ£zvPÎÀ ªß£S¨¦ ö£õxÁõP¨ £¯ß£kzu¨ £kQßÓx. AÆÁõÓõÚ \¢uº¨£[PÒ ]» R÷Ç uµ¨£mkÒÍÚ.
+
+(1) E÷»õP¨ ¤›zöuk¨¦
+
+Euõµn® (i) vµÁ ÷\õi¯® S÷Íõøµmøh (NaCl) ªß£S¨¦ ö\´ÁuÚõÀ ÷\õi¯® (Na) E÷»õP® ¤›zöukUP¨ £kQÓx.
+
+(ii) ÷£õUø\mi¼¸¢x A¾ªÛ¯® (Al) E÷»õP® ¤›z öukUP¨£kQßÓx.
+
+(2) E÷»õPzøu _zvP›zuÀ
+
+106C»Á\¨ £õh¡À
+
+Euõµn® : ö\¨¦ Ah[Q²ÒÍ uõxUPÎÀ C¸¢x ö\®ø£¨ ¤›zöukUS® ÷£õx •u¼À QøhUS® ö\®¦ ©õ_U PøÍU öPõsi¸US®. ªß£S¨¤ß ‰»® Cx _zv P›UP¨£k®.
+
+(3) ¯õ÷uÝö©õ¸ ö£õ¸Îß «x E÷»õP •»õªkuÀ (ªß E÷»õP •»õªkuÀ)
+
+Euõµn® : (i) öÁÒÎ B£µnzvß «x ö£õß •»õªkuÀ.
+
+(ii) E¸UQß «x {UPÀ AÀ»x S÷µõª¯® •»õªkuÀ.
+
+(4) øPzöuõÈÀ Ÿv°À Cµ\õ¯Ú¨ £uõºzu[PøÍ EØ£zv ö\´uÀ.
+
+Euõµn® : ÷\õi¯® Iuöµõmø\mk (G›÷\õhõ) EØ£zv
+
+¬èˆªî£N™ gFJ™ «ê£®ò‹ à«ô£èˆ¬î àŸðˆF ªêŒî™
+
+|õ® Põ£ß ªßÁõø¯¨ £¯ß£kzv vµÁ NaCl I ªß£S¨¦ ö\´²® ÷£õx ªßÁõ´PÎÀ |øhö£Ö® uõUP[PøÍ Bµõ´¢÷uõ®.
+
+P÷uõmiÀ |øhö£Ö® uõUP®
+
+Na+ (l) + e Na (l) 1
+
+A÷ÚõmiÀ |øhö£Ö® uõUP®
+
+2 Cl- (l) Cl2 (g) + 2e 2
+
+÷uÔ¯ ªß£S¨¦z uõUP®,
+
+1 × 2 + 2 2 Na+ (l) + 2 Cl- (l) 2 Na (s) + Cl 2 (g)
+
+øPzöuõÈÀ Ÿv°À ö£›¯ AÍÂÀ Na I EØ£zv ö\´ÁuØS ÷©Ø£i uõUP® £¯ß£kzu¨£kQßÓx.
+
+CuØS R÷Ç Põmh¨£mkÒÍÁõÓõÚ Â÷\h ªß£S¨¦U P»® JßÖ £¯ß £kzu¨£kQßÓx. CUP»® hÄÛß P»® (Downs Cell) GÚ¨£k®.
+
+107C»Á\¨ £õh¡À
+
+Cl2
+
+(+)
+
+(+)
+
+(-)
+
+vµÁ Na
+
+‰»¨ö£õ¸Ò
+
+Põ£ß A÷ÚõmkE¸øÍ ÁiÁ E¸USU P÷uõmk
+
+E¸øÍ ÁiÁ E¸USU P®¤ Áø»
+
+E¸ 12.16
+
+‰»¨ö£õ¸ÍõP vµÁ NaCl £¯ß£kzu¨£k®. NaCl ß E¸S{ø» 840 0C ¯õS®. NaCl CØS CaCl2 (s) ÷\º¨£uÚõÀ QøhUS® P»øÁ°ß E¸S{ø» 600 0C BPU SøÓUP¨£k®.
+
+A÷ÚõmiÀ E¸ÁõS® Cl2 P÷uõmiÀ E¸ÁõS® Na Ehß uõUP•ØÓõÀ GßÚ |hUS®?
+
+Na E® Cl2 E® uõUP•ØÖ «sk® NaCl E¸ÁõS®. CuøÚz uk¨£uØPõP A÷Úõmk® P÷uõmk® E¸USU P®¤ Áø»°ÚõÀ ¤›UP¨£k®.
+
+CÆÄØ£zva ö\¯ß•øÓ°À CßöÚõ¸ ÂøÍÁõP Cl2 Áõ² ÷uõßÖ®. CÆ Cl2 Áõ²ÁõÚx £À÷ÁÖ EØ£zv |hÁiUøPPÐUS ‰»¨ö£õ¸ÍõP¨ £¯ß£kzu¨£k®.
+
+«ê£®òˆF¡ ðò¡ð£´èœ
+
+yy©g\Ò {Ó JÎø¯¨ ö£ØÖz u¸® ÷\õi¯® Áõ² ªßSªÈÀ £¯ß£kzu¨ £kQßÓx.
+
+yyP¸a\Uvø¯ EØ£zv ö\´²® Aq Eø»PÎÀ SÎ¹mi¯õP vµÁ Na £¯ß£kzu¨£kQßÓx.
+
+yyB´Ä Th[PÎÀ £›÷\õuøÚ |hÁiUøPPÐUPõP¨ £¯ß£kzu¨ £kQßÓx.
+
+°«÷£KQ¡ ðò¡ð£´èœ
+
+yySi}›À Põn¨£k® £ØÕ›¯õøÁ AÈ¨£uØPõP }›ÝÒ Cl2 Áõ² SªÈha ö\´¯¨£kQÓx.
+
+yyPhuõ]U TÌ xoPøÍ öÁÎØÖÁuØPõP ({Ózøu APØÖÁuØPõP) S÷Íõ›ß £¯ß£kzu¨£kQßÓx.
+
+108C»Á\¨ £õh¡À
+
+yyHCl EØ£zv ö\´ÁuØPõP Cl2 Áõ² H2 Áõ²Ähß uõUP©øh¯ Âh¨£k QßÓx.
+
+yyPVC ÷£õßÓ ¤ÍõzvUS ÁøPPøÍ EØ£zv ö\´ÁuØS¨ £¯ß£kzu¨ £kQßÓx.
+
+I¡ à«ô£è ºô£Iì™
+
+CÆÁ»Qß Bµ®£zvÀ B£µnzvß «x ö£õß •»õªkÁuØPõP ªß£S¨¦ £¯ß£kzu¨£kQßÓx Gß£uøÚU SÔ¨¤m÷hõ®. Ax uÂµ ÃkPÎÀ A»[PõµzvØPõP¨ £¯ß£kzu¨£k® £À÷ÁÖ ö£õ¸mPÒ öuõhº£õP |õ® PÁÚ® ö\¾zx÷Áõ®. ö£õß AÀ»x öÁÒÎ ÁºnzvÀ ªßÝ® §a\õiPÒ, P»\[PÒ, Âø\¨ £»øPPÒ ÷£õßÓ £À÷ÁÖ E£Pµn[PÎÀ E÷»õP Áºn ¤µPõ\zøu¨ ö£ØÖU öPõk¨£uØPõP AÁØÔß ÷©Ø£µ¨¤ß «x £À÷ÁÖ ÁøP¯õÚ E÷»õP[PÎÚõÀ •»õªh¨£kQßÓx.
+
+ªß£S¨ø£¨ £¯ß£kzv ¯õuõ°Ýö©õ¸ ÷©Ø£µ¨¤ß «x ö©À¼¯ E÷»õP¨ £øhø¯¨ §_uÀ ªß •»õªhÀ GÚ¨£k®.
+
+ö£õxÁõP uõUSvÓß SøÓ¢u Sn, Cu, Ag, Cr ÷£õßÓ E÷»õP[P÷Í •»õªh¾U S¨ £¯ß£kzu¨£kQßÓÚ. •»õªk® ÷©Ø£µ¨¤À Põn¨£hõu ¯õuõ°Ý ö©õ¸ Â÷\h C¯À¦ •»õªh¾UPõP¨ £¯ß£kzu¨£k® E÷»õPzvÀ Põn¨£h ÷Ásk®. AÆÂ¯À¦PÐUS Euõµn©õP x¸¨¤iUPõø©, E÷»õPzvß EÒÍ[PÁº ußø©, Cµ\õ¯Ú uõUP[PÐUS Em£hõø©, £Í£Í¨¦ ÷£õßÓ C¯À¦PøÍU SÔ¨¤h»õ®.
+
+ªß •»õªh¼ß ÷£õx ¤ßÁ¸® Âh¯[PøÍz öu›¢v¸zuÀ AÁ]¯©õS®.
+
+yy•»õªh ÷Ási¯ ö£õ¸øÍ P÷uõmhõPU P¸u ÷Ásk®.
+
+yy•»õªkÁuØPõP¨ £¯ß£kzu¨£k® E÷»õPzvß E¨¦U Pøµ\ö»õßÖ ªß£Sö£õ¸ÍõP¨ £¯ß£kzu¨£h ÷Ásk®.
+
+yyA÷ÚõmhõP •»õªh¨ £¯ß£k® E÷»õPzvÚõÀ BÚ umk AÀ»x ÷PõÀ £¯ß£kzu¨£k®.
+
+yy£¯ß£k® ªß£Sö£õ¸Îß ö\ÔÄ SøÓÁõP Põn¨£iß ]Ó¢u uµzvÀ ªß •»õªh»õ®. Cuß ÷£õx uõUP©øh²® Ãu® SøÓÁuÚõÀ ]Ó¢u •øÓ°À •»õªh»õ®.
+
+E[PÐUS C¸®¦U Pµsi JßÔß «x ö\¨¦ •»õªkÁuØS AÁ]¯÷©Ø£m kÒÍx GÚUöPõÒ÷Áõ®. CuØPõP }[PÒ £¯ß£kzx® ªß£S¨¦U P»zvÀ A÷ÚõmhõPÄ® P÷uõmhõPÄ® GÁØøÓ¨ £¯ß£kzxÃºPÒ? £¯ß£kzx® ªß£Sö£õ¸Ò ¯õx?
+
+109C»Á\¨ £õh¡À
+
+•»õªh ÷Ási¯ ö£õ¸Ò C¸®¦U Pµsi P÷uõmhõPU P¸u¨£h ÷Ásk®. A÷ÚõmhõP ö\¨¦U ÷Põö»õßøÓ¨ £¯ß£kzu»õ®. ªß£Sö£õ¸ÍõP ö\¨¦ \À÷£ØÖU Pøµ\ø»¨ £¯ß£kzxÁx ö£õ¸zu©õÚuõS®.
+
+ö\¯Ø£õk 12.7
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : C¸®¦U P®¤ JßÖ, ö\¨¦z uPöhõßÖ, öuõk P®¤, ö\¨¦ \À÷£ØÖU Pøµ\À, 9V ªßP»®.
+
+ö\´•øÓ :
+
+²²ö\¨¦z uPk, C¸®¦U Pµsi BQ¯ÁØøÓ öuõkP®¤°ÚõÀ ªßP»zxhß Cønzx Aø©¨ø£ J÷µ uhøÁ°À CuSO4 Pøµ\¼ÝÒ AªÌzx[PÒ.
+
+P÷uõmhõP C¸®¦ Pµsi
+
+CuSO4 (aq) Pøµ\À
+
+Cu uPk (A÷Úõmk)
+
++-
+
+ªßP»®
+
+E¸ 12.17
+
+²²E[PÒ AÁuõÚ[PøÍ AÔUøP¨£kzx[PÒ.
+
+yyA÷ÚõmiÀ |øhö£Ö® uõUP® (÷|º ªßÁõ´)
+
+Pøµ\¼À EÒÍ SO2-
+
+4 A¯ßPÒ ©ØÖ® OH- A¯ßPÒ ÷|º •øÚø¯ ÷|õUQ PÁµ¨£k®. C[S Jm]÷¯ØÓ©øhÁuØPõÚ \õzv¯UTÖ AvP©õPÄÒÍ A¯ß OH- BS®.
+
+GÚ÷Á 4OH- O2 + 2H2O + 4e GÝ® uõUP® A÷ÚõmiÀ {PÊ® GßÖ |õ® Gvº£õºzuõ¾® Ax AÆÁõÖ |hUPõx. C[S A÷ÚõmhõPz öuõÈØ£kÁx E÷»õP Aq JßÖ BøP¯õÀ Ax A¯ÚõP Jm]÷¯ØÓ©øhÁx ªPa _»£©õS®.
+
+GÚ÷Á A÷ÚõmiÀ |øhö£Ö® uõUP®,
+
+Cu (s) Cu2+ (aq) + 2e BS®. AuõÁx A÷Úõmk £i¨£i¯õPU Pøµ²®.
+
+110C»Á\¨ £õh¡À
+
+yyP÷uõmiÀ |øhö£Ö® uõUP® (©øÓ ªßÁõ°À |øhö£Ö® uõUP®)
+
+Pøµ\¼ÝÒ Cu2+ ©ØÖ® }º ¤›øP¯øhÁuÚõÀ ÷uõßÔ¯ ]ÔuÍÄ H+A¯Ý® Põn¨£k®. CÁØÔÀ uõÌzu»øhÁuØPõÚ \õzv¯UTÖ AvP©õPÄÒÍ A¯ß uõUSvÓß SøÓ¢u Cu2+ A¯ÚõS®.
+
+GÚ÷Á, P÷uõmiÀ |øhö£Ö® uõUP®,
+
+Cu2+ (aq) + 2e Cu (s) AuõÁx C¸®¦U Pµsi°ß «x ö\¨¦¨ £i²®.
+
+12.3 E÷»õP A›¨¦
+
+ÃmiÀ £¯ß£kzu¨£k® £À÷ÁÖ E÷»õP¨ ö£õ¸mPÒ «x E©x AÁuõÚzøua ö\¾zx[PÒ. AÁØÔÀ £» Põ»¨÷£õUQÀ ©[SuÀ, ÷©Ø£µ¨¦ Pµk•µhõuÀ, {Ó©õØÓzvØS Em£kuÀ ÷£õßÓ £À÷ÁÖ ©õØÓ[PÐUS Em£kQßÓÚ. ÁÎUSz vÓ¢v¸US® ÷£õx E÷»õP® CÆÁõÖ £À÷ÁÖ£mh ©õØÓ[PÐUS Em£kuÀ E÷»õP A›¨¦ GÚ¨£k®.
+
+J¸ \¢uº¨£zvÀ E©x Ãmi¼¸¢x öuõø»¢u Pzv, ©söÁmi ÷£õßÓ E£Pµn[PÒ ]Ôx Põ»® ö\ßÓ ¤ß E[PÒ Ãmkz÷uõmhzvÀ PsöhkUP¨£mh \¢uº¨£ö©õßøÓ {øÚÄ TÖ[PÒ. AÁØÔß {Ó® ©õÔ x¸¨¤izv¸¨£uøÚ AÁuõÛzv¸¨¥ºPÒ. ÷©Ø£i E£Pµn[PÒ C¸®¦ AÀ»x E¸UQÚõÀ BÚøÁ. ÁÎUSz vÓ¢x øÁUP¨£mh C¸®¦ AÀ»x E¸US A›¨¤ØSm£kuÀ x¸¨¤izuÀ GÚ¨£k®.
+
+Þ¼‹¹ ¶¼ŠH®ˆî™
+
+©Ûuß £µÁ»õP¨ £¯ß£kzx® E÷»õP® C¸®£õS®. CuØPø©¯ E»QÀ AvPÍÂÀ EØ£zv ö\´¯¨£kÁx C¸®£õS®. CÆÁõÖ EØ£zv ö\´¯¨£k® C¸®¤À AvPÍÄ E¸US EØ£zvUPõP¨ £¯ß£k®. ÁõPÚ®, P¨£À, £õ»®, C¯¢vµ[PÒ ÷£õßÓ £À÷ÁÖ ö£õ¸mPøÍ EØ£zv ö\´ÁuØPõP C¸®¦ ©ØÖ® E¸US £¯ß£k®. CuÚõÀ, C¸®¦ x¸¨¤izuÀ ö£õ¸Íõuõµ Ÿv°À |èhzøu HØ£kzx® ö\¯Ø£õhõS®.
+
+C¸®¦ x¸¨¤iUS® ÷£õx GÆÁõÓõÚ ö\¯Ø£õk |øhö£ÖQßÓx?
+
+C¸®¤Úõ»õÚ ö£õ¸mPÒ ÃmiÝÒ øÁzv¸¨£øu Âh ÃmiØS öÁÎ÷¯ øÁzv¸US® ÷£õx _»£©õPz x¸¨¤i¨£x Hß? Cx öuõhº£õPU PshÔÁuØPõP¨ ¤ßÁ¸® ö\¯Ø£õmiÀ Dk£k÷Áõ®.
+
+111C»Á\¨ £õh¡À
+
+¶¼ŠH®ˆî½‚° õO ÜõCòñ£ âù‚ è‡ìPî™
+
+ö\¯Ø£õk 12.8
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : Cµsk öPõv SÇõ´PÒ, SÎº}º, ÷u[Põ´ Gsön´, Cµsk C¸®¦ BoPÒ, £ß\ß _hµk¨¦, IuõÚ HCl Aª»UPøµ\Àö\´•øÓ :
+
+²²PøhPÎÀ Põn¨£k® C¸®¦ BoPÎÀ |õP¨§a_¨ §\¨£mi¸¨£uÚõÀ AuøÚ APØÖÁuØPõP Cµsk BoPøÍ²® IuõÚ HCl Pøµ\¼ÝÒ 10 {ªh[PÒ Áøµ AªÌzv øÁzv¸¢x ¤ß }›ÚõÀ PÊÄ[PÒ.
+
+²²C¸ ÷\õuøÚU SÇõ´PÐUS® AÁØÔß E¯µzvß Aøµ¨ £[QØS SÎº }øµ {µ¨¦[PÒ.
+
+²²CÛ J¸ ÷\õuøÚU SÇõ°¾ÒÍ }øµ HÓzuõÍ I¢x {ªh[PÒ Áøµ `hõUS[PÒ. _zvP›UP¨£mh C¸®¦ BoPÒ JßÖ Ãu® C¸ SÇõ´PÎÝÒÐ® Ck[PÒ. _k}¸hß «sk® ÁÎzöuõkøP HØ£hõu Ásn® _k }º FØÓ¨£mh SÇõ°ÝÒ ]» Gsön´zxÎPøÍ Ck[PÒ. C¸ SÇõ´PøÍ²® J¸ |õÒ Áøµ øÁzx AÁuõÛ²[PÒ. E[PÍx AÁuõÚ[PøÍ AÔUøP¨£kzx[PÒ.
+
+`hõUP¨£mh }º
+
+÷u[Põ´ Gsön´¨£øhSÎº}º
+
+AB
+
+C¸®£õo
+
+E¸ 12.18
+
+÷©÷» uµ¨£mh C¸ ÷\õuøÚUSÇõ´PøÍ²® P¸vÚõÀ AÁØÔ¾ÒÍ BoPÒ }¸hß öuõkøP°¾ÒÍÚ. GÛÝ® B SÇõ°¾ÒÍ }øµ `hõUQ°¸¨£uÚõÀ, SÇõ°ÝÒ Pøµ¢v¸¢u ÁÎ öÁÎ÷¯ØÓ¨£mkÒÍx.
+
+112C»Á\¨ £õh¡À
+
+AÆÁõ÷Ó B SÇõ°ÝÒ EÒÍ ÷u[Põ´ Gsön´ £øh Põµn©õP Av¾ÒÍ }º ÁÎ²hß öuõkøP²Óõx. CuÚõÀ B SÇõ°ÝÒ EÒÍ C¸®¦ Bo°ØS ÁÎ QøhUPõx. A SÇõ°ÝÒ EÒÍ C¸®¦ Bo°ØS ÁÎ QøhUQßÓx. HøÚ¯ AøÚzx PõµoPÐ® C¸ SÇõ´PÐUS® ö£õxÁõÚøÁ¯õS®.
+
+A SÇõ°ÝÒ EÒÍ Bo°À x¸¨¤izv¸¨£øu²® B SÇõ°ÝÒ EÒÍ Bo°À x¸¨¤iUPõv¸¨£uøÚ²® AÁuõÛUP»õ®. Cuß ‰»® x¸¨¤i¨£uØS ÁÎ AÁ]¯® Gß£uøÚ EÖv¨£kzvUöPõÒÍ»õ®.
+
+Akzx ÁÎ°ß GUTÖ x¸¨¤izu¾US AÁ]¯©õÚx Gß£uøÚ Bµõ´÷Áõ®.
+
+¶¼ŠH®ˆî½‚° õOJ¡ â‚ÃÁ ÜõCòñ£ù¶ âù‚ è‡ìPî™
+
+ö\¯Ø£õk 12.9
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : Cµsk öPõv SÇõ´PÒ, ]ÔuÍÄ £g_, C¸®¦z yÒ, }º {µ¨£¨£mh \õi.ö\´•øÓ :
+
+²²J¸ öPõv SÇõ°ÝÒ E¸ÂÀ Põmh¨£mkÒÍÁõÖ Dµ¨£gø\ øÁzx AuÝÒ C¸®¦z yøÍ Ck[PÒ.
+
+²²AuøÚ E¸ÂÀ Põmh¨£mkÒÍÁõÖ, }ºa\õi°ÝÒ uø» RÇõP øÁ²[PÒ. Gg]¯ öÁØÖU SÇõø¯²® AÆÁõ÷Ó }ºa \õi°ÝÒ uø»RÇõP øÁ²[PÒ.
+
+C¸®¦z yÒ
+
+E¸ 12.19
+
+²² ]» |õmPÎß ¤ß E©x AÁuõÚzøuU SÔzxU öPõÒÐ[PÒ.
+
+C[S, C¸®¦zyÒ Põn¨£k® ÷\õuøÚUSÇõ°ÝÒ }º ©mh® •Ê ÁÎUPÚÁÍÂÀ 1 5
+
+©h[QÚõÀ E¯º¢v¸¨£uøÚ AÁuõÛUP»õ®. AuõÁx
+
+113C»Á\¨ £õh¡À
+
+ÁÎ°ß J¸ £Sv x¸¨¤izu¾UPõP¨ £¯ß£mi¸¨£uøÚ AÁuõÛUP»õ®. ÁÎ°ß TÖPøÍU P¸vÚõÀ AvÀ 1 5
+
+£[S Põn¨£kÁx Jm]\ß Áõ² BS®.
+
+GÚ÷Á, ÁÎ°¾ÒÍ Jm]\ß Áõ² x¸¨¤izu¾US¨ £¯ß£kQßÓx GßÓ •iÄUS Áµ»õ®.
+
+¶¼ŠH®ˆî½‚° c˜ (H2O) ÜõCòñ£ âù‚ è‡ìPî™
+
+ö\¯Ø£õk 12.10
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : _zvP›UP¨£mh |õßS C¸®¦ BoPÒ, Cµsk öPõv SÇõ´PÒ, Cµsk uUøPPÒ, }µØÓ PÀ]¯® S÷Íõøµmk (CaCl2) AÀ»x ]¼UPõ öáÀ ö\´•øÓ :
+
+²²E¸ÂÀ Põmh¨£mkÒÍÁõÖ _zvP›UP¨£mh C¸ C¸®¦ BoPÒ Cµsk Ãu® CÓ¨£º uUøPPÎÀ ö£õ¸zvU öPõÒÐ[PÒ.
+
+²²BoPÒ ö£õ¸zu¨£mh CÓ¨£º uUøPPÎÀ JßøÓ öÁØÖ ÷\õuøÚU SÇõ°¾® ©ØøÓ¯øu }µØÓ CaCl2 AÀ»x ]¼UPõ öáÀ Ah[Q¯ ÷\õuøÚUSÇõ°¾® ö£õ¸zx[PÒ.
+
+²²CÆÁõÖ ]» |õmPÒ øÁzx AÁuõÛ²[PÒ. E[PÍx AÁuõÚ[PøÍ AÔUøP¨£kzx[PÒ.
+
+A
+
+}µØÓ CaCl2 AÀ»x ö\¼UPõ öáÀB
+
+E¸ 12.20
+
+114C»Á\¨ £õh¡À
+
+]¼UPõ öáÀ ©ØÖ® }µØÓ PÀ]¯® S÷Íõøµmk Gß£Ú ÁÎ°¾ÒÍ }µõÂø¯ EÔg]U öPõÒÍU Ti¯Ú.
+
+÷©Ø£i £›÷\õuøÚ°À A SÇõ°ÝÒ CønUP¨£mh C¸ BoPÎÀ SÇõ°ÝÒÐ® öÁÎ÷¯²® EÒÍ BoPÎß £SvPÎÀ x¸¨¤izv¸¨£uøÚ AÁuõÛUP •i²®. GÛÝ® B SÇõ°ÝÒ EÒÍ BoPÎÀ ÁÎUS öÁÎzvÓ¢xÒÍ £SvPÎÀ ©mk÷© x¸¨¤izv¸¨£uøÚU Põn»õ®.
+
+A , B BQ¯ C¸ SÇõ´PøÍ²® P¸vÚõÀ SÇõ´ B CÝÒ }µõÂ Põn¨£kÁvÀø». HøÚ¯ PõµoPÒ C¸ SÇõ´PÐUS÷© ö£õxÁõÚøÁ. CuØPø©¯ x¸¨¤i¨£uØS }º AÁ]¯® Gß£uøÚ EÖv ö\´x öPõÒÍ»õ®.
+
+C¸®¦ x¸¨¤iUS® ÷£õx |øhö£Ö® ö\¯Ø£õmøh Akzx AÁuõÛ¨÷£õ®.
+
+C¸®¦ Aq C»zvµøÚ öÁÎÂmk ÷|º A¯ÚõP ©õÖ®. AuõÁx Jm]÷¯ØÓ©øh²®. AuøÚ R÷Ç Põmh¨£mkÒÍ Cµ\õ¯Ú \©ß£õmiß ‰»® Põmh»õ®.
+
+Fe (s) Fe2+ (aq) + 2e
+
+÷©÷» Põmh¨£mhÁõÖ E÷»õP Aq Ax öÁÎ°k® C»zvµøÚ¨ ö£ØÖU öPõÒÍUTi¯ £uõºzu® JßÖ AuØS A¸QÀ Põn¨£k® ÷£õx ©mk÷© Jm]÷¯ØÓ©øh²®.
+
+ÁÎU÷Põ»zvÀ EÒÍ Jm]\ß Áõ² ©ØÖ® }º AÀ»x }µõÂ Gß£Ú ÷\º¢x C¸US® ÷£õx AøÁ C»zvµøÚ¨ ö£ØÖU öPõsk R÷Ç Põmh¨£mkÒÍÁõÖ uõÌzu¾US Em£k®.
+
+2H2O (l) + O2 (g) + 4e 4OH- (aq)
+
+CuØPø©¯ C¸®¦ x¸¨¤izu¼ß ÷£õx |øhö£Ö® Aøµ A¯ß uõUPzøu ¤ßÁ¸©õÖ Põmh»õ®.
+
+Fe (s) Fe2+ (aq) + 2e 12H2O (l) + O2 (g) + 4e 4OH- (aq) 2
+
+1 Áx uõUPzvÀ öÁÎÂh¨£k® C»zvµßPÎß GsoUøP 2 Áx uõUPzvØPõP¨ ö£ØÖU öPõÒÐ® C»zvµßPÎß GsoUøPUSa \©ÚõP ÷Ásk®.
+
+115C»Á\¨ £õh¡À
+
+1 × 2 2Fe (s) 2Fe2+ (aq) + 4e 3
+
+2 + 3 2H2O (l) + O2 (g) + 2Fe (s) 2Fe2+ (aq) 4OH- (aq)
+
+2 Fe(OH)2
+
+{
+
+CuØPø©¯ x¸¨¤iUS® ÷£õx |øhö£ÖÁx® }[PÒ E£ A»S 2.6 CÀ PØÓÁõÓõÚ J¸ ªß Cµ\õ¯Ú ö\¯Ø£õk Gß£x öuÎÁõS®. C[S 1 CÀ |øhö£Ö® uõUP® A÷ÚõmiÀ {PÊ® uõUP® (Jm]÷¯ØÓz uõUP®) GÚÄ®
+
+2 CÀ |øhö£Ö® uõUP® P÷uõmiÀ {PÊ® uõUP® (uõÌzuÀ uõUP®) GÚÄ® TÓ»õ®.
+
+÷©÷» E¸ÁõQ¯ Fe(OH)2 ÷©¾® ÁÎ²hß uõUP©øh¢x }÷µØÓ¨£mh ö£›U JUø\mk (Fe2O3 , H2O) E¸ÁõUS®.
+
+4Fe(OH)2 (s) + O2 (g) 2Fe2O3 . H2O (s) + 2H2O (l)
+
+C[S E¸ÁõS® x¸ GÚ¨£k® }÷µØÓ¨£mh ö£›U JUø\mk ö\[P¤» {Ó©õÚuõS®. }÷µØÓ¨£k® ÷£õx Fe2O3 Ehß ÷\¸® }º ‰»UTÖPÎß GsoUøP ÷ÁÖ£h»õ®. GÚ÷Á, x¸Âß Cµ\õ¯Ú `zvµzøu Fe2O3, xH2O GÚU PõmkÁx ªP¨ ö£õ¸zu©õÚuõS®.
+
+G¾ªa\® £ÇzvøÚ öÁmh¨ £¯ß£kzv¯ Pzv JßÔøÚU PÊÁõ©À J¸ |õÒ øÁzv¸¢uõÀ G¾ªa\®£Çzvß \õÖ £mh £Sv°À x¸¨¤izv¸¨£uøÚ AÁuõÛUP»õ®. Aª»zußø© GÆÁõÖ x¸¨¤izu¼À uõUP® ö\¾zxQßÓx Gß£uøÚ AÁuõÛ¨£uØPõP¨ ¤ßÁ¸® ö\¯Ø£õmiÀ Dk£k÷Áõ®.
+
+116C»Á\¨ £õh¡À
+
+¶¼ŠH®ˆîL™ ÜIô‹ ªê™õ£‚°„ ªê½ˆ¶õî¬ù‚ è‡ìPî™
+
+ö\¯Ø£õk 12.11
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : ‰ßÖ öPõv SÇõ´PÒ, }º, G¾ªa\® £Ça \õÖ, _zvP›UP¨£mh C¸®¦ BoPÒ ]», IuõÚ Iu÷µõS÷Íõ›U Aª»® (HCl) ö\´•øÓ :
+
+²²öPõvSÇõ´PÎÝÒ _zvP›UP¨£mh J¸ C¸®¦ Bo Ãu® Ck[PÒ.
+
+²²•u»õÁx SÇõ°ÝÒ SÎº }øµ²® CµshõÁx SÇõ°ÝÒ G¾ªa\® £Ça\õÖ P»UP¨£mh }ºUPøµ\ø»²® ‰ßÓõÁx SÇõ°ÝÒ IuõÚ HCl Aª»® P»UP¨£mh }ºUPøµ\ø»²® ÷\¸[PÒ.
+
+²²J¸ |õÒ Áøµ øÁzx AÁuõÛ²[PÒ. E[PÍx AÁuõÚ[PøÍ AÔUøP¨£kzx[PÒ.
+
+SÎº}º
+
+(A)
+
+G¾ªa\®£Ça\õÖ P»UP¨£mh}º
+
+(B)
+
+IuõÚ HCl Aª»® P»UP¨£mh }º
+
+(C)
+
+-- --
+
+-- ----
+
+--- --
+
+-- ----
+
+--- --
+
+-- ----
+
+-
+
+E¸ 12.21
+
+(B) ©ØÖ® (C) CÝÒ EÒÍ C¸®¦ BoPÒ (A) CÝÒ EÒÍ C¸®¦ Boø¯ Âh AvPÍÂÀ x¸¨¤izv¸¨£uøÚ AÁuõÛUP»õ®.
+
+CuØPø©¯ |õ® Aª»® x¸¨¤izuø» FUSÂUS® J¸ Põµo GßQßÓ •iÄUS Áµ»õ®.
+
+PhØPøµ÷¯õµ¨ ¤µ÷u\[PÎÀ EÒÍ ÃkPÎÀ £¯ß£kzu¨£k® C¸®¦¨ ö£õ¸ÒPÒ HøÚ¯ ¤µ÷u\[PÎÀ £¯ß£kzu¨£k® C¸®¦¨ ö£õ¸ÒPøÍ Âh ªP ÷ÁP©õPz x¸¨¤iUQßÓÚ Gß£uøÚ }[PÒ AÔÃºPÍõ? Ax öuõhº£õPU PshÔÁuØPõP¨ ¤ßÁ¸® ö\¯Ø£õmiÀ Dk£k÷Áõ®.
+
+117C»Á\¨ £õh¡À
+
+¶¼ŠH®ˆîL™ «ê£®ò‹ °«÷£¬ó†´ (àŠ¹) ªê™õ£‚°„ ªê½ˆ¶A¡øî£ âù‚ è‡ìPî™
+
+ö\¯Ø£õk 12.12
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : C¸ öPõvSÇõ´PÒ, _zvP›UP¨£mh C¸®¦ BoPÒ ]», vs© NaCl
+
+ö\´•øÓ :
+
+²²C¸ C¸®¦ BoPøÍ Gkzx |ßS _zu¨£kzx[PÒ.
+
+²²AÆÂ¸ BoPøÍ²® C¸ öPõvSÇõ´PÎÝÒ Cmk J¸ SÇõ°ÝÒ NaCl P»UP¨£mh }øµ²® ©ØøÓ¯ SÇõ°ÝÒ SÎº }øµ²® FØÖ[PÒ.
+
+²²J¸ |õÒ Áøµ øÁzx AÁuõÛ²[PÒ. E[PÍx AÁuõÚ[PøÍ AÔUøP¨£kzx[PÒ.
+
+SÎº}ºIuõÚ NaCl (aq) Pøµ\À
+
+AB
+
+E¸ 12.22
+
+C[S SÇõ´ A CÝÒ EÒÍ C¸®¦ Boø¯ Âh SÇõ´ B CÝÒ EÒÍ C¸®¦ Bo°À AvPÍÄ x¸¨¤izv¸¨£uøÚ AÁuõÛUP»õ®. CuØPø©¯ ÷\õi¯® S÷Íõøµmk x¸¨¤izuÀ ÃuzøuU AvP›zxÒÍx GÚ»õ®. ÷\õi¯® S÷Íõøµmk J¸ E¨¦ BS®. AvP ÁøP¯õÚ E¨¦UPÒ x¸¨¤izuÀ Ãuzøu AvP›US®. PhØPøµ¨ ¤µ÷u\[PÎÀ E¨¦a ö\ÔÄ AvP® Gß£uÚõÀ A¨¤µ÷u\[PÎÀ £¯ß£kzu¨£k® C¸®¦¨ ö£õ¸ÒPÎÀ ÷ÁP©õPz x¸¨¤iUS®.
+
+Aª»® x¸¨¤izuÀ ÃuzøuU TmkQßÓx GÚU PØ÷Óõ®. Akzx Põµ® x¸¨¤izu¼À GÆÁõÖ uõUP® ö\¾zxQßÓx Gß£uøÚU PshÔÁuØPõP¨ ¤ßÁ¸® ö\¯Ø£õmiÀ Dk£k÷Áõ®.
+
+118C»Á\¨ £õh¡À
+
+ö\¯Ø£õk 12.13
+
+x¸¨¤izu¼À Põµ® ö\ÀÁõUSa ö\¾zxQßÓuõ GÚU PshÔuÀ
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : C¸ öPõvSÇõ´PÒ, _zvP›UP¨£mh C¸®¦ BoPÒ Cµsk, ÷\õi¯® Iuöµõmø\mk
+
+(NaOH) Pøµ\À ö\´•øÓ :
+
+²²|ßS _zvP›UP¨£mh C¸®¦ BoPøÍ C¸ ÷\õuøÚU SÇõ´PÎÝÒ Cmk J¸ SÇõ°ÝÒ SÎº }øµ²® ©ØøÓ¯ SÇõ°ÝÒ ÷\õi¯® Iuöµõmø\mk Pøµ\ø»²® \© AÍÄ FØÖ[PÒ.
+
+²²C¸ |õmPÒ Áøµ øÁzx AÁuõÛ²[PÒ. E[PÍx AÁuõÚ[PøÍ AÔUøP¨£kzx[PÒ.
+
+SÎº}ºIuõÚ NaOH (aq) Pøµ\À
+
+AB
+
+E¸ 12.23
+
+SÎº }º FØÓ¨£mh SÇõ°ÝÒ C¸¢u Bo°À x¸¨¤izv¸¨£uøÚ²® ÷\õi¯® Iuöµõmø\mk FØÓ¨£mh SÇõ°ÝÒ C¸¢u Bo°À x¸¨¤iz v¸UPÂÀø» Gß£uøÚ²® AÁuõÛUP»õ®. GÚ÷Á |õ® Põµ® x¸¨¤izuø» SøÓUS® Põµoö¯õßÖ GÚU TÓ»õ®.
+
+ªPÄ® ö£Ö©v Áõ´¢u E÷»õP©õÚ C¸®¦ ªP ÂøµÂÀ x¸¨¤i¨£x, |©US¨ ö£›x® £õuP©õS®. GÚ÷Á C¸®¦ EØ£zvPøÍ x¸¨¤iUPõ©À £õxPõ¨£uØS |õ® |hÁiUøP GkUP ÷Ásk®.
+
+Þ¼‹¹ ¶¼ŠH®ˆî¬ô‚ è†´Šð´ˆî™
+
+C¸®¦ x¸¨¤izuø»z uÂº¨£uØS }º TÖ® ÁÈ•øÓPÒ ¯õøÁ? C¸®¦ x¸¨¤izuø»z ysk® PõµoPÒ C¸®¤ØSU QøhUPõ©À ö\´Á÷u ö£õÖzu©õÚx GÚ }[PÒ TÓ»õ®. Esø©°÷»÷¯ C¸®¦ Jm]\ß ©ØÖ® }º Gß£ÚÁØÖhß öuõkøP²ÓõÂiß x¸¨¤iUPõx.
+
+AuØPõP¨ ¤ßÁ¸® EzvPøÍU øP¯õÍ»õ®.
+
+119C»Á\¨ £õh¡À
+
+1. C¸®¤ß «x {Ó¨§a_, QŸì AÀ»x Gsön´ §_uÀ.
+
+Cuß ‰»® C¸®¦ Jm]\ß, }º (Dµ¼¨¦) Gß£ÚÁØÖhß öuõkøP ²ÖÁuøÚz uÂºzuÀ.
+
+2. C¸®¤ß «x öÁÒÏ¯® §_uÀ.
+
+Cuß ‰»® C¸®¦ Jm]\ß, }º (Dµ¼¨¦) Gß£ÚÁØÖhß öuõkøP²Ö ÁuøÚz uÂºzuÀ.
+
+÷©Ø£i C¸ \¢uº¨£[PÎ¾® §\¨£mh §a_ £õxPõ¨¦¨ £øh¯õPz öuõÈØ£k®.
+
+C¸®¦ x¸¨¤izu¼À HøÚ¯ E÷»õP[PÒ GÆÁõÖ uõUP® ö\¾zxQßÓÚ Gß£uøÚU PshÔ¯¨ ¤ßÁ¸® ö\¯Ø£õmiÀ Dk£k÷Áõ®.
+
+Þ¼‹¹ ¶¼ŠH®ˆîL™ ã¬ùò à«ô£èƒèœ ªê™õ£‚°„ ªê½ˆ¶A¡øî£? âù‚ è‡ìPî™
+
+ö\¯Ø£õk 12.14
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : _zvP›UP¨£mh C¸®¦ BoPÒ I¢x, HPõº öá¼, NaCl, ¤÷Úõ¨u½ß Põmi, ö£õØÓõ]¯® ö£›\¯øÚmk, ö£ØÔUQsn®, Mg, Zn, Cu ©ØÖ® Pb E÷»õP |õhõ, }º ö\´•øÓ :
+
+²²NaCl, ¤÷Úõ¨u½ß, ]ÔuÍÄ ö£õØÓõ]¯® ö£›\¯øÚmk Gß£Ú ÁØøÓ 250 cm3 }›ØSa ÷\ºzx AUPøµ\ø» `hõUQ, AuØS HPõº öá¼ J¸ ÷uUPµsiø¯a ÷\ºzx |ßS Pøµ²[PÒ.
+
+1öá¼ FhP®
+
+Fe
+
+2
+
+Fe/Mg
+
+3
+
+Fe/Zn
+
+4
+
+Fe/Cu
+
+5
+
+Fe/Pb
+
+E¸ 12.24²²I¢x ö£ØÔU Qsn[PøÍ Gkzx •u»õÁx \õi°À ©õzvµ® C¸®¦ Boø¯ Ck[PÒ. HøÚ¯ |õßS BoPøÍ²® Mg, Zn, Cu, Pb |õhõUP÷Íõk |ßS öuõkøP²Ö®£i ö\´x AÁØøÓ |õßS ö£ØÔU Qsn[PÎÀ øÁ²[PÒ. ¤ß BoPÒ •ØÓõP ‰k©õÖ I¢x Psnõia \õiPÎÝÒÐ® `hõÚ öá¼ø¯ FØÖ[PÒ. AÁØøÓU SÎµ øÁzx J¸ ©ozv¯õ»zvß ¤ß «sk® AÁuõÛ²[PÒ. E[PÍx AÁuõÚ[PøÍ AÔUøP¨£kzx[PÒ.
+
+120C»Á\¨ £õh¡À
+
+³³¤÷Úõ¨u½ß Põmi OH- A¯ß Põn¨£k® ÷£õx CÍg]Á¨¦ {Ó©õS®.
+
+³³Fe2+ A¯ß ö£õØÓõ]¯® ö£›\¯øÚmkhß }» {Ózøuz u¸®.
+
+÷©Ø£i 2 B®, 3 B® \õiPÎÀ C¸®¦ Boø¯a `Ç CÍg]Á¨¦ {Ó® ÷uõßÖ®. AuõÁx C¸®¦ Boø¯a `Ç OH- A¯ßPÒ E¸ÁõQ²ÒÍÚ. }» {Ó® ÷uõßÔ°¸UPÂÀø» Gß£uøÚU öPõsk |õ® Fe2+ A¯ßPÒ ÷uõßÓÂÀø» GßQßÓ •iÄUS Áµ»õ®. 2 B®, 3 B® \õiPÎÀ C¸¨£x C¸®ø£ Âh uõUSvÓß Ti¯ Mg, Zn Gß£ÚÁØÖhß CønUP¨£mh C¸®¦ BoPÍõS®. GÚ÷Á C¸®¦ Bo°À |øhö£ØÔ¸¨£x P÷uõmk uõUP©õS®.
+
+2H2O (l) + O2 (g) + 4e 4OH- (aq)
+
+C[S, A÷ÚõmhõPz öuõÈØ£kÁx uõUSvÓß Ti¯, Mg ©ØÖ® Zn E÷»õP[ PÒ BS®. C[S Jm]÷¯ØÓ® |øhö£Ö®.
+
+Mg (s) Mg2+ (aq) + 2e
+
+AÀ»x, Zn (s) Zn2+ (aq) + 2e
+
+E¸ÁõS® Mg2+ A¯ß ©ØÖ® Zn2+ A¯ß Gß£Ú FhPzv¾ÒÍ ö£õØÓõ]¯® ö£›\¯øÚmkhß {Ózøu HØ£kzuõx.
+
+4 B®, 5 B® ö£ØÔU Qsn[PÎÀ C¸®¦ Boø¯a `Ç }» {Ó® ÷uõßÖ®. Cv¼¸¢x |õ® Fe2+ A¯ßPÒ ÷uõßÔ²ÒÍÚ GßQßÓ •iÄUS Áµ»õ®. AuõÁx AÁØÔ¾ÒÍ C¸®¦ BoPÒ A›¨¦US Em£mk EÒÍÚ. C[S C¸®¦ A÷ÚõmhõPz öuõÈØ£mk, R÷Ç Põmh¨£mkÒÍÁõÖ Jm]÷¯ØÓ©øh²®.
+
+Fe (s) Fe2+ (aq) + 2e
+
+Cu ©ØÖ® Pb Gß£Ú uõUPÃuz öuõh›À Fe CØSU R÷Ç Aø©¢xÒÍÚ. AÆÁõÓõÚ J¸ E÷»õP® C¸®¦hß öuõkøP°À EÒÍ ÷£õx C¸®¦ x¸¨¤iUS®. Cu ©ØÖ® Pb E÷»õP |õhõUPøÍa `Ç CÍg]Á¨¦ {Ó® ÷uõßÖÁuß ‰»® OH- A¯ß E¸ÁõQ²ÒÍø© öuÎÁõQßÓx.
+
+AuõÁx Cu ©ØÖ® Pb BQ¯ÁØÔØS Asø©°À |øhö£Ö® uõUP® ¤ßÁ¸® P÷uõmk uõUP©õS®.
+
+2H2O (l) + O2 (g) + 4e 4 OH- (aq)
+
+121C»Á\¨ £õh¡À
+
+÷©Ø£i AÁuõÛ¨¦UPÐUS Aø©¯ C¸®¦ x¸¨¤i¨£v¼¸¢x £õxPõ¨£uØPõP uõUPÃuz öuõh›À C¸®¦US ÷©÷» Põn¨£k® E÷»õP[PøÍ C¸®¦hß öuõkøP°À øÁ¨£x ö£õ¸zu©õÚx GÚ E[PÐUSz öuÎÁõQ°¸US®. A¨÷£õx C¸®¦ P÷uõmhõPz öuõÈØ£mk A›¨¤¼¸¢x £õxPõUP¨£k®.
+
+ªßÛµ\õ¯Ú P»zvÀ C¸®ø£ P÷uõmhõP £¯ß£kzx® •øÓ¯õÚx, P÷uõmk £õxPõ¨¦ •øÓ AÀ»x v¯õP¨ (Aº¨£n) £õxPõ¨¦ •øÓ (Sacrifi-cial Protetion) GÚ¨£k®.
+
+P÷uõmk £õxPõ¨¦ •øÓ £¯ß£k® \¢uº¨£[PÒ
+
+²²C¸®¦¨ ö£õ¸ÒPÎØS |õP¨§a_¨ §_uÀ (PÀÁøÚ_¨ £kzuÀ) & ÁõÎ, •ÒÐUP®¤, TøµzuPk
+
+²²Ph¼À £¯n® ö\´²® P¨£ÀPÎß ÷©ØÓÍzvÀ ©PÜ]¯® ©ØÖ® |õP E÷»õP[PøÍ JmkuÀ.
+
+ö£õÈ¨¦
+
+²²Cµ\õ¯Ú \Uvø¯ ªß \Uv¯õP ©õØÖÁuØS ªßÛµ\õ¯Ú P»[PÒ £¯ß£kzu¨£kQßÓÚ.
+
+²²÷ÁÖ£mh E÷»õPU ÷PõÀPÒ Cµsøh öuõkUS® P®¤ JßÔÚõÀ öuõkzx Aª»U Pøµ\À JßÔÝÒ AªÌzxÁuß ‰»® GÎ¯ P»® JßøÓ E¸ÁõUP»õ®.
+
+²²GÎ¯ ªß P»zvÀ uõUSzvÓß Ti¯ E÷»õP® A÷ÚõmhõPÄ® uõUSvÓß SøÓ¢u E÷»õP® P÷uõmhõPÄ® öuõÈØ£kQßÓÚ.
+
+²²A÷ÚõmiÀ Jm]÷¯ØÓ Aøµ A¯ß uõUP® {PÊÁxhß P÷uõmiÀ uõÌzuÀ Aøµ A¯ß uõUP® {PÊQßÓx.
+
+²²ªßÛµ\õ¯ÚU P»zvÀ A÷Úõmk ©øÓ •øÚ¯õPÄ® P÷uõmk ÷|º •øÚ¯õPÄ® öuõÈØ£k®.
+
+²²C»zvµßPÒ A÷Úõmi¼¸¢x P÷uõmøh ÷|õUQ öuõkUS® P®¤ ÁÈ÷¯ £õ²®.
+
+²²{¯© ªß÷Úõmh® ÷|º •øÚ°À C¸¢x (P÷uõmk) ©øÓ •øÚø¯ (A÷Úõmk) ÷|õUQ £õ´ÁuõPU P¸u¨£k®.
+
+122C»Á\¨ £õh¡À
+
+²²Pøµ\À AÀ»x vµÁ® JßÔÞhõP ªß÷Úõmhzøu AÝ¨¦Áuß ‰»®, £uõºzu[PÎÀ Cµ\õ¯Ú ©õØÓzøu HØ£kzxuÀ ªß£S¨¦ GÚ¨£k®.
+
+²²C[S J¸ ªß ÁÇ[Qø¯ Põ£ß AÀ»x ÷ÁÖ E÷»õP ªßÁõ´PÒ CµsiØSz öuõkzx A®ªßÁõ´PøÍ Pøµ\¼ÝÒ AªÌzxÁuß ‰»® Pøµ\¼ÞhõP ªß÷Úõmh® AÝ¨£¨£kQßÓx.
+
+²²ªßøÚ¨ Phzx® vµÁ® AÀ»x Pøµ\À ªß£Sö£õ¸Ò GÚ¨£k®. ªß£Sö£õ¸Ò ªßøÚ¨ ¤Ó¨¤UPU Ti¯ÁõÖ Aø\²¢uPÄøh¯ C»zvµßPøÍU öPõsi¸UP ÷Ásk®.
+
+²²ªß£S¨¦U P»zvÀ ÷|º ªßÁõ´ A÷ÚõmhõPz öuõÈØ£kÁuÚõÀ ÷|º ªßÁõ°ØS A¸÷P Jm]÷¯ØÓ Aøµ A¯ß uõUP® |øhö£ÖQßÓx.
+
+²²ªßÁõ°À ÷uõßÖ® ÂøÍøÁ¨ £¯ß£kzv £À÷ÁÖ£mh £¯ÝÖv Áõ´¢u EØ£zvPøÍ ÷©ØöPõÒÐuÀ ªß£S¨¤ß øPzöuõÈÀ Ÿv¯õÚ £¯ß£õhõS®.
+
+²²E¸Q¯ ÷\õi¯® S÷Íõøµmøh ªß£S¨¦ ö\´Áuß ‰»® øPzöuõÈÀ Ÿv¯õP ÷\õi¯® E÷»õP® EØ£zv ö\´¯¨£k®. CÆÄØ£zva ö\¯Ø£õmiÀ Cøh{ø» ÂøÍÁõP ÷uõßÖ® Iuµ\ß Áõ²Ä® S÷ÍõŸß Áõ²Ä® £À÷ÁÖ EØ£zv |hÁiUøPPÐUS ‰»¨ö£õ¸ÍõP¨ £¯ß£kzu¨£k®.
+
+²²E÷»õPö©õßÖ ÁÎ©sh»zxhÝ® Dµ¼¨¦hÝ® öuõhº¦Ö® ÷£õx Auß ÷©Ø£µ¨¦ Cµ\õ¯Ú ©õØÓzvØS Em£kuÀ E÷»õP A›¨¦ GÚ¨£k®.
+
+²²C¸®¦ ©ØÖ® E¸US Gß£Ú ÷©ØSÔ¨¤h¨£mhÁõÖ A›¨¦U SÒÍõSuÀ x¸¨¤izuÀ GÚ¨£k®.
+
+²²C¸®¦ x¸¨¤i¨£uØS Jm]\ß Áõ²Ä® Dµ¼¨¦® Azv¯õÁ]¯©õS®.
+
+²²C¸®¦ A›¨¤ØS Em£kuÀ ªß ö\¯Ø£õöhõßÓõS®.
+
+²²C[S A÷ÚõmiÀ ¤ßÁ¸® \©ß£õmiØS›¯ uõUP® |øhö£Ö®.
+
+Fe (s) Fe(5)2+ + 2e
+
+²²C[S P÷uõmiÀ ¤ßÁ¸® \©ß£õmiØS›¯ uõUP® |øhö£Ö®.
+
+123C»Á\¨ £õh¡À
+
+²²2 H2O(l) + O2 (g) + 4 e 4 OH- (aq) C¸®¦ A›¨¤ØS Em£kÁuØPõÚ •Ê A¯ß uõUPzvØPõÚ \©ß£õk A÷Úõmi¾® P÷uõmi¾® |øhö£Ö® uõUPzvØPõÚ \©ß£õmøh ÷\º¨£uß ‰»® ö£Ó¨£k®.
+
+2 H2O (l) + O2 (g) + 2 Fe 2 Fe(OH)2 (s)
+
+²²Fe (OH)2 ÷©¾® Jm]÷¯ØÓ©øh¢x x¸ GÚ¨£k® }º ©¯ ö£›U JUø\mk (Fe2O3. x H2O) ÷uõßÖ®.
+
+²²Aª»® ©ØÖ® ÷\õi¯® S÷Íõøµmk ÷£õßÓ E¨¦UPÒ x¸¨¤iUS® ÷ÁPzøuU Tmk®. ‰»® x¸¨¤iUS® ÷ÁPzøuU SøÓUS®.
+
+²²x¸¨¤i¨£uØS Azv¯õÁ]¯ PõµoPÍõQ¯ Jm]\ß ©ØÖ® Dµ¼¨¦ Gß£Ú QøhUPõ©À uk¨£uß ‰»® x¸¨¤i¨£øuz ukUP»õ®.
+
+²²AuØPõP¨ £õxPõ¨¦¨ £øh¯õP {Ó¨§a_, QŸì AÀ»x öÁÒÏ¯® ÷£õßÓÁØøÓ C¸®¤ß «x §\»õ®.
+
+²²C¸®ø£ Âhz uõUSzvÓß Ti¯ E÷»õPö©õßÖ E÷»õPzxhß öuõkøP°À C¸US® ÷£õx uõUSzvÓß Ti¯ E÷»õP® A÷ÚõmhõPÄ® C¸®¦ P÷uõmhõPÄ® öuõÈØ£kÁuÚõÀ x¸¨¤izuÀ ukUP¨£k®. Cx v¯õP¨ £õxPõ¨¦ •øÓ GÚ¨£k®.
+
+²²C¸®¦ PÀÁøÚ_¨£kzxuÀ v¯õP¨ £õxPõ¨¦ •øÓUS J¸ Euõµn©õS®.
+
+£°Ø]
+
+1) £À÷uºÄ ÂÚõUPÒ
+
+1. |õP® ©ØÖ® C¸®¦ BQ¯ E÷»õPz uPkPÒ Cµsøh²® IuõÚ \À§›UPª»zøu²® £¯ß£kzv Aø©UP¨£mh P»® JßøÓU P¸xP. Ax öuõhº£õÚ ¤ßÁ¸® TØÖUPÐÒ \›¯õÚ TØøÓz öu›P.
+
+1. P»zvÀ {¯© ªß÷Úõmh® P®¤ ÁÈ÷¯ |õP •øÚ°À C¸¢x C¸®¦ •øÚø¯ ÷|õUQ¨ £õ²®.
+
+2. C¸®¦ ªßÁõ¯¸÷P ÁÎU SªÈPÒ ÷uõßÖ®.
+
+3. C¸®¦ ªßÁõ´ A›¨£øh²®.
+
+4. C¸®¦ ªßÁõ´ P»zvß ©øÓ •øÚ¯õS®.
+
+124C»Á\¨ £õh¡À
+
+2. C¸®¦ ©ØÖ® ö\¨¦ ªßÁõ´PÒ IuõÚ \À§›UPª»zvÝÒ AªÌzu¨£mk Aø©UP¨£mkÒÍ P»ö©õßøÓU P¸xP. AUP»zvÀ A÷ÚõmiÀ |øhö£Ö® uõUP® Gx?
+
+1. Cu (s) Cu2+ (aq) + 2 e
+
+2. Fe2+ (aq) + 2 e Fe (s)
+
+3. Fe (s) Fe2+ (aq) + 2 e
+
+4. 2 H+ (aq) + 2 e H2 (g)
+
+3. C¸®¦ A›¨¤ØS Azv¯õÁ]¯©õÚ Põµo Gx?
+
+1. }º 2. ÁÎ ©sh» Põ£ÜöµõUø\mk 3. Aª»® 4. ‰»®
+
+4. C¸®¦ A›¨ø£ ysk® Põµo Gx?
+
+1. ÁÎ©sh»zv¾ÒÍ }µõÂ 2. ÁÎ©sh» Põ£ÜöµõUø\mk 3. _snõ®¦U Pøµ\À 4. QŸì
+
+5. ¤ßÁ¸ÁÚÁØÖÒ G¢u •PøÁ°¾ÒÍ C¸®¦ Bo A›¨¤ØS Em£k®?
+
+Fe / CuFe / znFe / SnFe / Mg
+
+A BCD
+
+1. A, B •PøÁPÎÝÒ EÒÍ BoPÒ 2. B, C •PøÁPÎÝÒ EÒÍ BoPÒ 3. A, C •PøÁPÎÝÒ EÒÍ BoPÒ
+
+4. B, C •PøÁPÎÝÒ EÒÍ BoPÒ
+
+6. ¤ßÁ¸ÁÚÁØÖÒ ¤øÇ¯õÚ TØÖ Gx?
+
+1. C¸®¦ Bo JßÔÀ ÂÚõQ› §\¨£mh £Sv°À AvPÍÄ x¸¨¤izv¸¢ux.
+
+2. PÀÁøÚ_¨£kzu¨£mh Bo°À RÓÀ ÂÊ¢u £SvPÎÀ x¸¨¤izv¸¢ux.
+
+3. öÁÒÏ¯® §\¨£mh Bo°À RÓÀ ÂÊ¢u £SvPÎÀ x¸¨¤izv¸¢ux.
+
+4. C¸®¦ «x ©PÜ]¯® §_ÁuÚõÀ C¸®¦ x¸¨¤izuø» uÂºUP»õ®.
+
+125C»Á\¨ £õh¡À
+
+7. Põ£ß ªßÁõø¯¨ £¯ß£kzv NaCl }ºUPøµ\ø» ªß£S¨¦ ö\´²® ÷£õx |øhö£Ö® Cµ\õ¯Ú ö\¯Ø£õmøh P¸xP.
+
+1. ÷|º •øÚ°ØS A¸÷P H2 (g) Áõ² öÁÎ÷¯Ö®.
+
+2. Pøµ\¼ÝÒ NaOH ÷uõßÖ®.
+
+3. P÷uõmiØS A¸÷P Cl2 Áõ² öÁÎ÷¯Ö®.
+
+4. A÷Úõmk Pøµ²®.
+
+8. Põ£ß ªßÁõø¯¨ £¯ß£kzv ö\¨¦ \À÷£ØÖU Pøµ\ø» ªß£S¨¦ ö\´²® ÷£õx,
+
+1. P÷uõmiß «x ö\®¦ £i²®.
+
+2. A÷Úõmiß «x ö\®¦ £i²®.
+
+3. ©øÓ •øÚ°ØS A¸÷P Jm]\ß Áõ²USªÈPÒ ÷uõßÖ®.
+
+4. Pøµ\¼ß }» {Ó® ©õÓõx Põn¨£k®.
+
+9. ¤ßÁ¸ÁÚÁØÖÒ ªß Phzv AÀ»õux Gx?
+
+1. }›¯ ÷\õi¯® Iuöµõmø\mk 2. Aª» }º
+
+3. }›¯ ÷\õi¯® S÷Íõøµmk 4. vs© ÷\õi¯® S÷Íõøµmk
+
+10. Põ£ß ªßÁõø¯¨ £¯ß£kzv Aª»® xªUP¨£mh }øµ ªß£S¨¦ ö\´²® ÷£õx
+
+1. A÷ÚõmiØS A¸÷P H2 Áõ² öÁÎ÷¯Ö®.
+
+2. P÷uõmiØS A¸÷P O2 Áõ² öÁÎ÷¯Ö®.
+
+3. CH A÷ÚõmiØS A¸÷P H2 öÁÎ÷¯Ö®.
+
+4. A÷Úõmk Pøµ²®.
+
+11. ¤ßÁ¸ÁÚÁØÖÒ ªß£S¨¦ øPzöuõÈÀ Ÿv°À £¯ß£hõu \¢uº¨£® Gx?
+
+1. C¸®¦U Pµsi JßÔß «x {UPÀ §_uÀ.
+
+2. A¾ªÛ¯® E÷»õP® ¤›zöuk¨¦.
+
+3. C¸®¦ Boø¯ PÀÁøÚ_¨ £kzxuÀ.
+
+4. NaCl vµÁzv¼¸¢x Na ¤›zöukzuÀ.
+
+126C»Á\¨ £õh¡À
+
+Pmkøµ ÂÚõUPÒ
+
+1. ¤ßÁ¸® Cµ\õ¯Ú ö\¯Ø£õmiØPõÚ \©¨£kzu¨£mh Aøµ A¯ß uõUPzøu GÊxP. }[PÒ GÊx® Aøµ A¯ß uõUP® Jm]÷¯ØÓz uõUP©õ uõÌzuÀ uõUP©õ GÚU SÔ¨¤kP.
+
+i. Mg E÷»õPzøu Mg2+ A¯ÚõP ©õØÖuÀ.
+
+ii. Al E÷»õPzøu Al3+ A¯ÚõP ©õØÖuÀ.
+
+iii. Na E÷»õPzøu Na+ A¯ÚõP ©õØÖuÀ.
+
+iv. H+ A¯øÚ H2 Áõ²ÁõP ©õØÖuÀ.
+
+2. Zn E÷»õP® ©ØÖ® Ni E÷»õP® Gß£ÚÁØøÓ ªßÁõ´PÍõP¨ £¯ß£kzv E¸ÁõUP¨£mh ¤ßÁ¸® ªß Cµ\õ¯Ú P»zøuU P¸xP.
+
+IuõÚ \À§›UPª»®
+
+i. C[S A÷Úõmøh²® P÷uõmøh²® ö£¯›kP.
+
+ii. C[S ÷|º, ©øÓ •øÚPøÍ¨ ö£¯›kP.
+
+iii. C[S A÷Úõmi¾® P÷uõmi¾® |øhö£Ö® uõUP[PøÍ GÊxP.
+
+iv. Jm]÷¯ØÓ, uõÌzuÀ uõUP[PÒ |øhö£Ö® ªßÁõ´PøÍ¨ ö£¯›kP.
+
+v. P»zvß •Ê A¯ß uõUPzøu GÊxP.
+
+vi. ªßÁõ´ A¸÷P AÁuõÛUPU Ti¯ ©õØÓ[PøÍz u¸P.
+
+127C»Á\¨ £õh¡À
+
+Pø»a ö\õØPÒ
+
+Electrolysis-ªß£S¨¦
+
+Electrolyte-ªß£Sö£õ¸Ò
+
+Nonelectrolyte-ªß£Põ¨ö£õ¸Ò
+
+Electrolytic cell-ªß£S¨¦U P»®
+
+Spontaneous-_¯õwÚ©õÚ
+
+Activity series-uõUPÃuz öuõhº
+
+Bleaching-öÁÎØÓÀ
+
+Electroplating-E÷»õP ªß •»õªhÀ
+
+Anode-A÷Úõmk
+
+Cathode-P÷uõmk
+
+Electrochemical cell-ªß Cµ\õ¯Ú P»®
+
+Electrode-ªßÁõ´
+
+Half reactions-Aøµ A¯ß uõUP®
+
+Flow of electrons-C»zvµß £õ´a\À
+
+Standard current-{¯© ªß÷Úõmh®
+
+Galvanometer-PÀÁ÷Úõ©õÛ
+
+Oxidation-Jm]÷¯ØÓ®
+
+Reduction-uõÌzuÀ
+
+Negative terminal-©øÓ •øÚ
+
+Positive terminal-÷|º •øÚ
+
+Oxidation half reaction-Jm]÷¯ØÓ Aøµ A¯ß uõUP®
+
+Reduction half reaction-uõÌzuÀ Aøµ A¯ß uõUP®
+
+Anodic reaction-A÷Úõmkz uõUP®
+
+Cathodic reaction-P÷uõmkz uõUP®
+
+Cell reaction-P»z uõUP®
+
+Corrosion of metal-E÷»õP A›¨¦
+
+Rusting-x¸¨¤izuÀ
+
+Bimetallic Strip-D¸÷»õPa \mh®
+
+Sacrificial protection-Aº£n (v¯õP¨) £õxPõ¨¦ •øÓCathodic protection-P÷uõmk¨ £õxPõ¨¦ •øÓ

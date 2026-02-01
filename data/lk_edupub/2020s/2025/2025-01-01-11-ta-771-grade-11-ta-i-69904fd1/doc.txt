@@ -1,0 +1,993 @@
+==== BLOCKS ==== 
+
+1C»Á\¨ £õh¡À
+
+9
+
+ngsjpftpay; ntg;gk;
+
+9.1 öÁ¨£{ø» (Temperature)
+
+vÚ•® G©x |õmiÀ öuõø»UPõm] FhP[PÎÀ JÎ£µ¨£¨£k® |õÍõ¢u ÁõÛø»z uµÄPÒ E[PÐUS¨ £›a\¯©õP C¸US®. AvÀ |õÎß ªPU SøÓ¢u öÁ¨£{ø» ~Áöµ¼¯õÂ¾® ªPU Ti¯ öÁ¨£{ø» v¸÷Põn©ø»°¾® C¸¨£uõP AÔÂUP¨£mhø© E[PÐUS {øÚÂ¸UP»õ®.
+
+©øÇ |õmPÎÀ £mkz xoø¯ E»ºzuÀ PiÚ©õP C¸¨£x® öÁ´°À AvP©õÚ |õmPÎÀ £mkz xo ÂøµÁõP E»¸® Âu•® E[PÒ {øÚÂÀ EÒÍÚÁõ?
+
+E¸ 9. 1 öÁ¨£zøu En¸uÀ
+
+Iì QÕø©a \õ¨¤k®÷£õx }[PÒ En¸® SÎºa]ø¯²® `hõÚ ÷u}øµ¨ £¸S®÷£õx En¸® `møh²® {øÚÄT¸[PÒ.
+
+÷©ØSÔzu GÀ»õa \¢uº¨£[PÎ¾® Ai¨£øh¯õÚ ö£ÍvPU Po¯® öÁ¨£{ø»¯õS®. öÁ¨£{ø» £ØÔ ÷©¾® v¸zu©õPÄ® GÎuõPÄ® Âh¯[PøÍU PØ£uØS CÆÁ»QÀ •¯À÷Áõ®.
+
+G¢uöÁõ¸ ö£õ¸ÎÚx® Ai¨£øh C¯À£õP öÁ¨£{ø»ø¯U Põmh»õ®.
+
+²²£ÛUPmi ªPU SøÓ¢u öÁ¨£{ø»ø¯U öPõshx.
+
+²²`hõÚ }›ß öÁ¨£{ø» SÎº }›Úx öÁ¨£{ø»°¾® £õºUPU Ti¯x.
+
+G©x Eh¾US® öÁ¨£{ø» Esk. BP÷Á £À÷ÁÖ ö£õ¸ÒPøÍz öuõmk¨ £õºzx AÁØÔß öÁ¨£{ø» Eh¼ß öÁ¨£{ø»°¾® Ti¯uõ, SøÓ¢uuõ, AÀ»x \©©õ GÚU TÓ»õ®.
+
+2C»Á\¨ £õh¡À
+
+öÁ¨£{ø» Gß£x J¸ ö£õ¸Ò BUP¨£mkÒÍ xoUøPPÎÀ Põn¨£k® C¯UPa \Uv öuõhº£õÚ J¸ AÍÃhõS®.
+
+9.1.1 ªõŠðG¬ô¬ò Ü÷ˆî™ (Measuring temperature)
+
+£À÷ÁÖ ö£õ¸ÒPøÍU øP°ÚõÀ öuõmk¨ £õº¨£uß ‰»® AÁØÔß öÁ¨£® £ØÔ¯ Ez÷u\ P¸zøu |õ® ö£Ó»õ®. GÛÝ® öuõkÁuß ‰»® Enµ¨£k® öÁ¨£{ø» \›¯õÚußÖ. AuøÚ Kº Gs ö£Ö©õÚ©õP GkzxøµUP •i¯õuõøP¯õÀ, öÁ¨£{ø»ø¯ AÍ¨£uØS Ax EP¢u •øÓ¯ßÖ. BP÷Á öÁ¨£{ø»ø¯ AÍ¨£uØPõP Kº E£Pµnzøua ö\´Áuß ÷uøÁ ÂgbõÛPÐUS HØ£mhx.
+
+ ªõŠðñ£Qèœ (Thermometers)
+
+öÁ¨£{ø»ø¯ AÍUP¨ £¯ß£kzu¨£k® E£Pµn® öÁ¨£©õÛ¯õS®. E»Qß •u»õÁx öÁ¨£©õÛ Q.•. 1600 B® BshÍÂÀ P¼¼÷¯õ P¼¼ Gß£ÁµõÀ EØ£zv ö\´¯¨£mhx.
+
+E¸ 9. 2 P¼¼÷¯õ u¯õ›zu öÁ¨£©õÛE¸ 9. 3 P¼¼÷¯õ P¼¼
+
+uØ÷£õx £À÷ÁÖ öÁ¨£©õÛPÒ £¯ß£kzu¨£kQßÓÚ. GÛÝ® C¨£õhz-vÀ |õ® Psnõi²Ò Cµ\ öÁ¨£©õÛ, Psnõi²Ò AØP÷PõÀ öÁ¨£©õÛ Gß£Ú £ØÔ ©õzvµ® Bµõ´÷Áõ®.
+
+è‡í£®»œ Þóê ªõŠðñ£Q
+
+Psnõi²Ò Cµ\ öÁ¨£©õÛ¯õÚx E¸ 9.2 CÀ Põn¨£kQßÓÁõÖ Cµ\zøuU öPõsh J¸ SªÊhß J¸ ö©À¼¯ PsnõiU SÇõø¯z öuõk¨£uß ‰»® u¯õ›UP¨£mkÒÍx. öÁ¨£{ø» AvP›US®÷£õx SªÈÀ EÒÍ Cµ\® Â›Áøh¢x ö©À¼¯ SÇõ´ ÁÈ÷¯ ö\ÀQßÓx. SÇõ°À SÔUP¨£mkÒÍ AÍÂøh°ß ‰»® Cµ\ {µ¼ß }ÍzvØ÷PØ£ öÁ¨£{ø»ø¯ Áõ]UP»õ®.
+
+3C»Á\¨ £õh¡À
+
+]Ô¯ öÁ¨£{ø» ©õØÓzvØ÷PØ£U PÚÁÍÂß J¸ ]Ô¯ ©õØÓzvØS Cµ\® Aø\²® SÇõ°ß Âmh® ªPa ]Ô¯uõøP¯õÀ Cµ\ {µÀ Â›²® }Í® öuÎÁõP AÁuõÛUPU Ti¯uõP C¸US®.
+
+E¸ 9.4 Psnõi²Ò Cµ\ öÁ¨£©õÛ
+
+ö©À¼¯ PsnõiU SªÌ
+
+Cµ\®©°ºzxøÍ EÒÍ Psnõiz usk
+
+Cµ\zvß Â›Ä £µ¢u öÁ¨£{ø» Ãa]À ^µõP C¸zuÀ, Cµ\® |ßÓõP öÁ¨£zøuU PhzuÀ, APßÓ öÁ¨£{ø» Ãa]À (-39 ºC öuõhUP® 357 ºC ÁøµUS®) Cµ\® vµÁ©õP C¸zuÀ BQ¯ C¯À¦PÒ Põµn©õP öÁ¨£ ©õÛPÎÀ Cµ\® AvP AÍÂÀ £¯ß£kzu¨£kQßÓx. GÛÝ® Cµ\zvß |a_z ußø© Põµn©õPU Psnõi²Ò Cµ\ öÁ¨£©õÛ°ß £¯ß£õk SøÓ¢x öPõsk Á¸QßÓx.
+
+è‡í£®»œ ÜŸè«è£™ ªõŠðñ£Q
+
+Psnõi²Ò Cµ\ öÁ¨£©õÛ ö\´¯¨£mkÒÍ A÷u ÂuzvÀ Psnõi²Ò AØP÷PõÀ öÁ¨£©õÛ ö\´¯¨£kQßÓx. Cµ\zvØS¨ £v»õP AØP÷PõÀ £¯ß£kzu¨£kuÀ AÁØÔÀ EÒÍ ÷ÁÖ£õhõS®. Gu°À AØP÷Põ¼ß (Gu÷ÚõÀ) EøÓ{ø» & 115 ºC BøP¯õÀ Ax 0 ºC C¾® £õºUPU SøÓ¢u öÁ¨£{ø»PøÍ AÍ¨£uØS EP¢ux. HøÚ¯ vµÁ[PÒ öuõhº£õP Â›Ä AvP›zuÀ, Â›Ä öÁ¨£{ø»²hß ^µõP C¸zuÀ BQ¯ÁØÔÚõ¾® Ax öÁ¨£©õÛPÐUS EP¢u J¸ vµÁ©õS®. y¯ AØP÷PõÀ {Ó©ØÓuõøP¯õÀ AØP÷PõÀ {µø» GÎuõP¨ £õº¨£uØS AuØS {Ó‰mkuÀ ÷Ásk®.
+
+E¸ 9.5 C»UP öÁ¨£©õÛ
+
+÷©÷» SÔ¨¤mh öÁ¨£©õÛPÐUS £v»õP uØ÷£õx öÁ¨£{ø»ø¯ ÷|µi¯õP Kº GsnõP Áõ]UPzuUP C»UP öÁ¨£©õÛPÐ® Digital Thermo meter AvP AÍÂÀ £¯ß£kz u¨£kQßÓÚ. CÆöÁ¨£©õÛPøÍ Aø©¨£uØS öÁ¨£ {ø» AvP›¨¦U Põµn©õP HØ£k® Â›ÄUS¨ £v»õPz uøh ÷£õßÓ öÁ¨£ {ø»ø¯a \õº¢u J¸ ªß C¯À¦ £¯ß£kzu¨£kQßÓx.
+
+9.1.2 ªõŠðG¬ô Ü÷M¬ì
+
+öÁ¨£{ø»ø¯ AÍ¨£uØS¨ ö£¸®£õ¾® £¯ß£kzu¨£k® ‰ßÖ öÁ¨£{ø» AÍÂøhPÒ EÒÍÚ. ö\À]¯ì, £µøÚØÖ, öPÀÂß BQ¯Ú ÁõS®.
+
+4C»Á\¨ £õh¡À
+
+ ªê™Còv Ü÷M¬ì
+
+ö\À]¯ì AÍÂøh¯õÚx J¸ ÁÎ©sh» A•UPzvß RÌ y¯ £ÛUPmi E¸S® öÁ¨£{ø»ø¯¨ §a]¯® (0 oC) BPÄ® AÆÁ•UPzvß RÌ y¯ }º öPõv}µõÂ¯õP ©õÖ® öÁ¨£{ø»ø¯ 100 oC BPÄ® öPõÒÁuß ‰»® Aø©UP¨£mkÒÍx.
+
+£ÛUPmi E¸S® öÁ¨£{ø»²® }º öPõv}µõÂ¯õP ©õÖ® öÁ¨£{ø»²® GÎuõP¨ ö£ÓzuUP C¸ öÁ¨£{ø»PÍõP C¸¨£uõ¾® A•UPzvØ÷PØ£ |øhö£Ö® ©õØÓzøuz uÂµ AøÁ ©õÓõ öÁ¨£{ø»PÍõP C¸¨£uõ¾® ö\À]¯ì AÍÂøhUPõP CÆÂ¸ öÁ¨£{ø»PÐ® öu›¢öukUP¨£mkÒÍÚ.
+
+CÆÁõÖ J¸ öÁ¨£{ø» AÍÂøhø¯z u¯õº ö\´ÁuØS¨ £¯ß£kzu¨£k® ©õÓõ öÁ¨£{ø»PÒ {ø»zu ¦ÒÎPÒ GÚ¨£k®.
+
+ ðó¬ùŸÁ Ü÷M¬ì
+
+£µøÚØÖ AÍÂøh°¾® £ÛUPmi E¸S® öÁ¨£{ø»²® }º öPõv }µõÂ¯õP ©õÖ® öÁ¨£{ø»²® {ø»zu ¦ÒÎPÍõPz öu›¢öukUP¨ £mkÒÍÚ. GÛÝ® AvÀ £ÛUPmi E¸S® öÁ¨£{ø»ø¯ 32 oF GÚU öPõsk C¸ {ø»zu ¦ÒÎPÐUSªøh÷¯ EÒÍ Ãa_ 180 £SvPÍõP¨ ¤›UP¨£mkÒÍx. CuØ÷PØ£ }›ß öPõv{ø» 212 oF BS®.
+
+ ªè™M¡ Ü÷M¬ì
+
+ö\À]¯ì AÍÂøhø¯²® £µøÚØÖ AÍÂøhø¯²® u¯õ›zuÁºPÎß Â¸¨£zvØ÷PØ£ AÆÁÍÂøhPÎÀ §a]¯¨ ö£Ö©õÚ[PÒ öu›¢öukUP¨ £mkÒÍÚ. ¤ØPõ»zvÀ J¸ SÔzu ö£õ¸Îß öÁ¨£{ø»US C¸UPzuUP J¸ SøÓ¢u£m\¨ ö£Ö©õÚ® GxöÁÚ¨ ¤›zuõÛ¯ ÂgbõÛ¯õQ¯ ÷»õºm öPÀÂß PõmiÚõº. CÆöÁ¨£{ø» uÛ¨ §a]¯©õP AÔ•Pg ö\´¯¨£mhx.
+
+E¸ 9.6 ÷»õºm öPÀÂß
+
+J¸ ö£õ¸Îß öÁ¨£{ø» Gß£x A¨ö£õ¸øÍ Aø©zxÒÍ xoUøPPÎß \µõ\› C¯UP¨£õmka \Uvø¯a \õº¢u Kº AÍÃhõS®. xoUøPPÎß C¯UP¨£õmka \Uv SøÓ²®÷£õx ö£õ¸Îß öÁ¨£{ø» SøÓQßÓx. J¸ SÔzu ö£õ¸ÎÀ EÒÍ GÀ»õz xoUøPPÎÚx® C¯UP¨£õmka \Uv §a]¯©õP C¸US®÷£õx ö£õ¸Îß öÁ¨£{ø» uÛ¨ §a]¯©õS®. Auß öÁ¨£{ø» Av¾® £õºUPU SøÓÁõP C¸UP•i¯õx. CÆöÁ¨£{ø» ö\À]¯ì AÍÂøh°À &273.15 oC GÚU Põn¨£mkÒÍx.
+
+5C»Á\¨ £õh¡À
+
+öPÀÂß AÍÂøh°À {ø»zu ¦ÒÎ uÛ¨ §a]¯©õP (0 K) C¸US©õÖ u¯õ›UP¨£mkÒÍx. B°Ý® AvÀ 1 öPÀÂß (1 K) öÁ¨£{ø» Ãa_ 1º C öÁ¨£{ø» Ãa_USa \©©õP C¸US©õÖ öu›¢öukUP¨£mkÒÍx.
+
+CuØ÷PØ£¨ £ÛUPmi E¸S® öÁ¨£{ø» 273.15 K BP C¸US® A÷u ÷ÁøÍ }º öPõvUS® öÁ¨£{ø» 373.15 K BS®. CÆöÁ¨£{ø»PÒ AsnÍÁõP 273 K, 373 K BPU P¸u¨£kQßÓÚ.
+
+öÁ¨£{ø» AÍUP £¯ß£k® \ºÁ÷u\ A»S öPÀÂß (K) BS®.
+
+÷©»vP AÔÄUS
+
+²²ö\À]¯ì AÍÂøhø¯ Aß÷hì ö\À]¯ì (1701 - 1744) AÔ•P® ö\´uõº.
+
+²²£µøÚØÖ AÍÂøhø¯ ÷P¤›¯À £µøÚØÖ (1686 - 1736) AÔ•P® ö\´uõº.
+
+²²öPÀÂß AÍÂøhø¯ ÷»õºm öPÀÂß (1824 - 1907) AÔ•P® ö\´uõº.
+
+²²QÎ÷£õm JÀ£m (1870) ©¸zxÁ öÁ¨£©õÛø¯ Aø©zuõº.
+
+9.1.2 ªê™Còv, ªè™M¡ ªõŠðG¬ô Ü÷M¬ìèÀ‚A¬ì«ò àœ÷ ªî£ì˜¹¬ì¬ñ
+
+-273-1000100200
+
+4733732731730öPÀÂß
+
+£õøP ö\À]¯ì
+
+E¸ 9.7
+
+öPÀÂß, ö\À]¯ì AÍÂøhPÎß §a]¯¨ ö£Ö©õÚ[PÍõPz öu›¢ öukUP¨£mkÒÍ C¸ öÁ¨£{ø»PÐUQøh÷¯ EÒÍ ÷ÁÖ£õk Põµn©õPa ö\À]¯êÀ AÍUP¨£k® öÁ¨£{ø»ø¯U öPÀÂß AÍÂøhUS ©õØÖÁuØS 273 IU Tmh÷Ásk®. öPÀÂß AÍÂøh°À AÍUP¨£k® öÁ¨£{ø»ø¯a ö\À]¯ì AÍÂøhUS ©õØÖÁuØS 273 IU PÈzuÀ ÷Ásk®. ö£ÍvPÂ¯ø»U PØS®÷£õx Kº AÍÂøh°À uµ¨£mkÒÍ öÁ¨£{ø»ø¯ ÷Á÷Óõº AÍÂøhUSa ]»÷ÁøÍPÎÀ ©õØÓ ÷|›kQßÓx.
+
+6C»Á\¨ £õh¡À
+
+Euõµn® 1
+
+(i) ö\À]¯ì öÁ¨£{ø» AÍÂøh°ß J¸ £Sv öPÀÂß öÁ¨£{ø» AÍÂøh°ß GzuøÚ £SvPÐUSa \©®?
+
+100 ö\À]¯ì £SvPÒ = 100 öPÀÂß £SvPÒ
+
+1 ö\À]¯ì £Sv = 1 öPÀÂß £Sv
+
+(ii) ö\À]¯êÀ uµ¨£mkÒÍ J¸ ö£Ö©õÚzøuU öPÀÂÚõP ©õØÖÁuØS GßÚ ö\´uÀ ÷Ásk®?
+
+uµ¨£mkÒÍ ö£Ö©õÚzxhß 273 IU TmkuÀ ÷Ásk®.
+
+(iii) 50 ºC GßÝ® ö£Ö©õÚzøuU öPÀÂÛÀ u¸P.
+
+50 oC + 273 = 323
+
+/ 50 oC = 323 K
+
+(iv) öPÀÂÚõÀ uµ¨£mkÒÍ J¸ ö£Ö©õÚzøua ö\À]¯êÀ PõmkÁuØS GßÚ ö\´uÀ ÷Ásk®?
+
+uµ¨£mkÒÍ ö£Ö©õÚzv¼¸¢x 273 IU PÈzuÀ ÷Ásk®.
+
+(v) 373 K GßÝ® ö£Ö©õÚzøua ö\À]¯êÀ PõmkP.
+
+373 - 273 = 100
+
+/ 373 K = 100 ºC
+
+1. ö\À]¯ì £õøP°À uµ¨£mkÒÍ ¤ßÁ¸® öÁ¨£{ø»¨ ö£Ö©õÚ[ PøÍU öPÀÂÛÀ u¸P.
+
+(i) 10 ºC (ii) 27 ºC (iii) 87 ºC (iv) 127 ºC (v) 100 ºC
+
+2. öPÀÂÛÀ uµ¨£mkÒÍ ¤ßÁ¸® öÁ¨£{ø»¨ ö£Ö©õÚ[PøÍa ö\À]¯ì £õøP°À u¸P.
+
+(i) 0 K (ii) 100 K (iii) 273 K (iv) 373 K (v) 400 K
+
+9.1 £°Ø]
+
+7C»Á\¨ £õh¡À
+
+9.2 öÁ¨£®
+
+Jzu £õzvµ[PÒ CµsiÀ AøÓ öÁ¨£{ø»°À \© PÚÁÍÄ }º C¸UQßÓx. JÆöÁõßÔ¾® JÆöÁõ¸ öÁ¨£©õÛø¯ øÁzx E¸ÂÀ Põmh¨£mhÁõÖ J¸ ö©ÊSÁºzvUS ÷©÷» C¸US©õÖ JÊ[Pø©¨ø£z u¯õº ö\´÷Áõ®. C¨÷£õx E¸ 1 (a) CÀ EÒÍÁõÖ ö©ÊSÁºzv C¸US®÷£õx E¸ 1 (b) CÀ EÒÍ ö©ÊSÁºzvø¯ HØÖ÷Áõ®.
+
+E¸ 9.8
+
+25 ºC
+
+(a)(b)
+
+}º
+
+\©©õÚ £õzvµ[PÒ
+
+G›¯õu ö©ÊSÁºzv
+
+ö©ÊSÁºzv HØÓ¨£mkÒÍx
+
+E¸ (a) CÀ EÒÍ }›ß öÁ¨£{ø» ©õØÓ©øh¯õ©À C¸UQßÓx. GÛÝ® E¸ (b) CÀ }›ß öÁ¨£{ø» £i¨£i¯õP E¯ºÁøuU Põn»õ®.
+
+C[S E¸ (b) Cß JÊ[Pø©¨¤À EÒÍ ö©ÊSÁºzv ©õzvµ® HØÓ¨£m-kÒÍx. _Áõø»°¼¸¢x H÷uõöÁõßÖ }¸US Ch®©õÔ²ÒÍx Gß£x® Auß ‰»® }›ß öÁ¨£{ø» E¯º¢xÒÍx Gß£x® Cuß ‰»® öuÎÁõS®. C[S öÁ¨£® }¸US Ch®©õÔ²ÒÍx.
+
+CuØ÷PØ£ öÁ¨£® Gß£x SÔzu C¸ ö£õ¸ÒPÐUQøh÷¯ C¸US® öÁ¨£{ø» ÷ÁÖ£õk Põµn©õP J¸ ö£õ¸Î¼¸¢x ©ØøÓ¯ ö£õ¸ÐUSa \Uv Ch®©õÖ® ö\¯ß•øÓ¯õS®.
+
+÷©»vP AÔÂØPõP
+
+Aö©›UPµõQ¯ ö£ßáªß öuõ®\ß (PÄßm µ®£m) (1753 - 1814) Gß£Áº öÁ¨£zøua \Uv°ß Kº ÁiÁ©õP •uß•u»õP AÔ•Pg ö\´uõº. 1798 CÀ AÁº öÁ¨£® Gß£x J¸ \Uv ÁiÁ® Gß£øu £›÷\õuøÚ •øÓ¯õPU PõmiÚõº. Auß ¤ßÚº ÷á®ì ³À GßÓ ÂgbõÛ 1840 CÀ ©Ö£i²® £›÷\õuøÚPÒ ‰»® AuøÚ {¸¤zuõº.
+
+8C»Á\¨ £õh¡À
+
+9.2.1 ªõŠð‹ ªê™ô™
+
+ö\¯Ø£õk 9.1
+
+öÁ¨£©õUQ¯ Kº C¸®¦z xsøh SÎº }º¨ £õzvµzvÀ Cmk |øhö£Ö£ÁØøÓ AÁuõÛ¨÷£õ®.
+
+P»UQ
+
+öÁ¨£©õÛ
+
+SÎº }º
+
+öÁ¨£©õÛ°ß Áõ]¨¦ AvP›UQßÓx
+
+öÁ¨£©õUQ¯ C¸®¦z xsk
+
+E¸ 9.9
+
+}›ß öÁ¨£{ø» AvP›¨£øu }[PÒ Põn»õ®. C[S Ti¯ öÁ¨£ {ø»°À EÒÍ C¸®¦z xsi¼¸¢x SøÓ¢u öÁ¨£{ø»°À EÒÍ }¸US öÁ¨£® £õ´QßÓx.
+
+C[S }›ß öÁ¨£{ø» AvP›US®÷£õx £õzvµ•® öÁ¨£©õQßÓx. AuØ-SU Põµn® £õzvµ•® öÁ¨£zøu¨ ö£ÖQßÓø©¯õS®. C¸®¦z xsiß öÁ¨£{ø»US GßÚ |øhö£ÖQßÓx? öÁ¨£® öÁÎ÷¯Ö®÷£õx C¸®¦z xsiß öÁ¨£{ø» £i¨£i¯õPU SøÓQßÓx. ]Ôx ÷|µzvÀ }›Úx® C¸®¦z xsiÚx® öÁ¨£{ø»PÒ \©©õS®. AÆÁõÖ öÁ¨£{ø»PÒ \©©õQ¯ ¤ßÚº C¸®¦z xsi¼¸¢x }¸U÷Põ AÀ»x }›¼¸¢x C¸®¦z xskU÷Põ ÷uÔ¯ öÁ¨£® £õ´uÀ |øhö£ÖÁvÀø». Ca\¢uº¨£® öÁ¨£a \©{ø» GÚ¨£k®. E¯º ©mhzv¼¸¢x uõÌ ©mhzvØS }º £õ´¢x ö\ÀÁx ÷£õßÖ öÁ¨£a \Uv E¯º öÁ¨£{ø»°À EÒÍ J¸ ö£õ¸Î¼¸¢x uõÌ öÁ¨£{ø»°À EÒÍ J¸ ö£õ¸ÐUS¨ £õ´QßÓx.
+
+9C»Á\¨ £õh¡À
+
+CuØ÷PØ£
+
+²²öÁ¨£{ø» Ti¯ J¸ ö£õ¸Î¼¸¢x öÁ¨£{ø» SøÓ¢u J¸ ö£õ¸ÐUS öÁ¨£® £õ´QßÓx.
+
+²²AvÀ öÁ¨£{ø» SøÓ¢u ö£õ¸Îß öÁ¨£{ø» AvP›UQßÓx.
+
+²²öÁ¨£{ø» Ti¯ ö£õ¸Îß öÁ¨£{ø» SøÓQßÓx.
+
+öÁ¨£® Gß£x \Uv°ß J¸ ]Ó¨£õÚ ÁiÁ©õS®. öÁ¨£zøu ³À (J) CÀ AÍUP»õ®. öÁ¨£zvØPõÚ \ºÁ÷u\ A»S ³À BS®. AuøÚz uÂµ öÁ¨£zøu AÍ¨£uØSU P÷»õ› GßÝ® A»S AvP AÍÂÀ £¯ß£kzu¨£kQßÓx.
+
+9.2.2 ªõŠð‚ ªè£œ÷÷¾ (Heat Capacity)
+
+ö\¯Ø£õk 9.2
+
+²²]Ô¯ Jzu •PøÁPÒ ‰ßøÓ Gkzx, JßÔÀ SÔ¨¤mh PÚÁÍÄ }øµ FØÖP.
+
+²²©ØøÓ¯ C¸ •PøÁPÎÀ JßÔÀ A÷u PÚÁÍÄÒÍ ÷u[Põ´ Gsönø¯ CkP.
+
+²²‰ßÓõ® •PøÁ°À •uØ PÚÁÍÂß C¸©h[PõÚ }øµ FØÖP.
+
+²²C®‰ßÖ •PøÁPÎ¾® EÒÍ vµÁ[PÎß öÁ¨£{ø»PøÍ AÍUP.
+
+²²Auß ¤ßÚº C®‰ßÖ •PøÁPøÍ²® Jzu Buõµ[PÎß «x øÁzx ‰ßÖ Jzu ö©ÊSÁºzvPÎß ‰»® Jzu ÂuzvÀ 5 {ªhzvØS öÁ¨£©õUSP.
+
+²²A¢÷|µ •iÂÀ vµÁ[PÎß öÁ¨£{ø»PøÍ «sk® AÍUP.
+
+ö©ÊSÁºzvPÎÀ ]Ô¯ ÷ÁÖ£õkPÒ C¸¢uõ¾® Jzu ö©ÊSÁºzvPÎß ‰»® \©÷|µ[PÐUS öÁ¨£©õUS®÷£õx ‰ßÖ •PøÁPÐUS® ÁÇ[P¨£k® öÁ¨£zvß AÍÄPÒ Qmhzumha \©ö©ÚU öPõÒÍ»õ®. BÚõÀ ‰ßÖ •PøÁPÎ¾® öÁ¨£{ø» AvP›¨¦PÒ \©©ØÓøÁ¯õP C¸¨£øu }[PÒ Põn»õ®.
+
+J÷µ ö£õ¸Îß öÁÆ÷ÁÖ AÍÄPÐUS® öÁÆ÷ÁÖ ö£õ¸ÒPÎß J÷µ AÍÄUS® J÷µ AÍÄ öÁ¨£zøu ÁÇ[S®÷£õx AÁØÔß öÁ¨£{ø»PÒ öÁÆ÷ÁÖ AÍÄPÎÀ AvP›USö©Ú Caö\¯Ø£õmi¼¸¢x ÂÍ[QU öPõÒÍ»õ®.
+
+10C»Á\¨ £õh¡À
+
+J¸ SÔzu ö£õ¸Îß öÁ¨£{ø»ø¯ Kº A»QÚõÀ AvP›UPa ö\´ÁuØS ÁÇ[P ÷Ási¯ öÁ¨£zvß AÍÄ A¨ö£õ¸Îß öÁ¨£ öPõÒÍÍÄ GÚ¨£k®.
+
+÷©ØSÔzu ö\¯Ø£õmiÀ J÷µ AÍÄ öÁ¨£zøu ÁÇ[S®÷£õx ‰ßÖ •PøÁPÎß öÁ¨£{ø» AvP›¨¦ \©©ØÓuõøP¯õÀ A®‰ßÖ •PøÁPÎÚx® öÁ¨£U öPõÒÍÍÄPÒ \©©ØÓÚöÁÚ •iÄ ö\´¯»õ®.
+
+²²öÁ¨£U öPõÒÍÍøÁ AÍUS® \ºÁ÷u\ A»S J K-1 (öPÀÂÝUS ³À BS®).
+
+²²öÁ¨£U öPõÒÍÍøÁ J ºC-1 (ö\À]¯]ØS J¸ ³À) B¼Úõ¾® öPõkUP •i²®.
+
+J¸ SÔzu ö£õ¸Îß öÁ¨£U öPõÒÍÍÄ A¨ö£õ¸Ò BUP¨£mkÒÍ vµÂ¯zøu²® ö£õ¸Îß voøÁ²® \õº¢ux. J÷µ vµÂ¯zvÚõÀ BUP¨ £mkÒÍ voÄ ÷ÁÖ£mh ö£õ¸ÒPÎß öÁ¨£U öPõÒÍÍÄPÒ \©©ØÓÚ. voÄPÒ \©©õP C¸¢uõ¾® öÁÆ÷ÁÖ vµÂ¯zvÚõÀ ö\´¯¨£mkÒÍ C¸ ö£õ¸ÒPÎß öÁ¨£U öPõÒÍÍÄPÒ \©©ØÖ C¸UP»õ®.
+
+ î¡ªõŠð‚ ªè£œ÷÷¾ (Specific Heat Capacity)
+
+J÷µ £uõºzuzvß öÁÆ÷ÁÖ voÄPÎß öÁ¨£U öPõÒÍÍÄ voÄUS ÂQu\©ö©Ú¨ £›÷\õuøÚ •øÓ¯õPU Põmh»õ®. AuõÁx, voÄ C¸©h[PõS®÷£õx öÁ¨£U öPõÒÍÍÄ C¸©h[PõS®. CuØ÷PØ£z uµ¨£mh J¸ £õzvµzvß Kµ»Sz voÂß öÁ¨£U öPõÒÍÍÄ Kµ»Sz voÂß öÁ¨£{ø»ø¯ Kº A»QÚõÀ AvP›UPa ö\´ÁuØS ÁÇ[P ÷Ási¯ öÁ¨£zvß AÍÄ £uõºzuzøua \õº¢u Kº C¯Àö£Úz öu›QßÓx.
+
+¯õ÷uÝ® ö£õ¸Îß Kµ»Sz voÂß öÁ¨£{ø»ø¯ Kµ»QÚõÀ E¯ºzx-ÁuØS ÁÇ[P ÷Ási¯ öÁ¨£zvß AÍÄ ußöÁ¨£U öPõÒÍÍÍÄ GÚ¨£k®.
+
+ î¡ªõŠð‚ ªè£œ÷÷¾ Üô°èœ
+
+ußöÁ¨£U öPõÒÍÍÄ Gß£x J¸ £uõºzuzvß Kµ»Sz voÂß öÁ¨£ {ø»ø¯ Kº A»QÚõÀ E¯ºzxÁuØS ÁÇ[P ÷Ási¯ öÁ¨£zvß AÍÄ GÚÄ® AøÇUP»õ®. BP÷Á, J¸ SÔzu ö£õ¸Îß öÁ¨£U öPõÒÍÍÄ A¨ö£õ¸Ò ö\´¯¨£mkÒÍ £uõºzuzvß ußöÁ¨£U öPõÒÍÍøÁ¨ ö£õ¸Îß voÂÚõÀ ö£¸UQ¨ ö£Ó¨£k®.
+
+11C»Á\¨ £õh¡À
+
+öÁ¨£U öPõÒÍÍÄ = voÄ × ußöÁ¨£U öPõÒÍÍÄ C = mc
+
+uß öÁ¨£UöPõÒÍÍÄ A»SPÒ
+
+J kg-1 K-1 = J/ kg K (Q÷»õQµõ•US öPÀÂÝUS ³À)J kg-1 oC -1 = J/ kg oC (£õøP ö\À]¯]ØS Q÷»õQµõ•US ³À)
+
+²²J¸ vµÂ¯zvß ußöÁ¨£U öPõÒÍÍÄ C CÚõÀ SÔUP¨£kQßÓx.
+
+Cô FóMòƒèO¡ î¡ªõŠð‚ ªè£œ÷÷¾èœ
+
+÷©»vP AÔÂØPõP
+
+vµÂ¯®ußöÁ¨£U öPõÒÍÍÄ J kg-1 K-1
+
+}º4200£ÛUPmi2100©sönsön´2140÷u[Põ´ Gsön´2200AØP÷PõÀ2500CÓ¨£º1700A¾ªÛ¯®900
+
+vµÂ¯®ußöÁ¨£U öPõÒÍÍÄ J kg-1 K-1
+
+öPõ[QÕØÖ3000C¸®¦460PßÚõº820ö\®¦400|õP® 380Cµ\® 140D¯®130
+
+9.2.3 ªõŠðˆF¡ Ü÷¬õ‚ è£í™
+
+J¸ SÔzu £uõºzuzvß öÁ¨£zøu APzxÔg_®÷£õx AÀ»x öÁÎÂk® ÷£õx ö£¸®£õ¾® öÁ¨£{ø» ©õØÓ® HØ£kQßÓx. C[S £›©õÓ¨£k® öÁ¨£zvß AÍøÁU Põs£uØS¨ ¤ßÁ¸® öuõhº¦øhø©ø¯ E¸ÁõUP»õ®.
+
+J¸ vµÁzvß ußöÁ¨£U öPõÒÍÍÄ C GÛß,
+
+²² 1 kg £uõºzuzøu 1 ºC öÁ¨£{ø»°ÚõÀ E¯ºzuz ÷uøÁ¯õÚ öÁ¨£® = c
+
+²² m kg £uõºzuzøu 1 ºC öÁ¨£{ø»°ÚõÀ E¯ºzuz ÷uøÁ¯õÚ öÁ¨£®
+
+= mc
+
+²² m kg £uõºzuzøu θ ºC öÁ¨£{ø»°ÚõÀ E¯ºzuz ÷uøÁ¯õÚ öÁ¨£®
+
+= mcθ
+
+12C»Á\¨ £õh¡À
+
+C[S öÁ¨£zvß AÍÄ Q GÛß,
+
+Q = öÁ¨£zvß AÍÄ (J)m = voÄ (kg)c = ußöÁ¨£U öPõÒÍÍÄ (J kg-1 ºC-1)θ = öÁ¨£{ø» ©õØÓ® (ºC)
+
+Q = mcθ
+
+AuõÁx J¸ SÔzu voÄ £uõºzuzvß öÁ¨£{ø»ø¯ J¸ SÔzu AÍÂÚõÀ E¯ºzx®÷£õx ÷uøÁ¯õÚ öÁ¨£zvß AÍÁõÚx vµÂ¯zvß voÂÚx® ußöÁ¨£U öPõÒÍÍÂÚx® öÁ¨£{ø»°ß HØÓzvÚx® ö£¸UPzvØSa \©®.
+
+ö\®¤ß ußöÁ¨£U öPõÒÍÍÄ 400 J kg-1 ºC-1 BS®. 5 kg voÄÒÍ ö\®¤ß öÁ¨£{ø»ø¯ 10 ºC CÚõÀ E¯ºzuz ÷uøÁ¯õÚ öÁ¨£zvß AÍøÁU Põs÷£õ®.
+
+²² 1 kg ö\®¤ß öÁ¨£{ø»ø¯ 1 OC CÚõÀ E¯ºzuz ÷uøÁ¯õÚ öÁ¨£® = 400 J
+
+²² 5 kg ö\®¤ß öÁ¨£{ø»ø¯ 1 OC CÚõÀ E¯ºzuz ÷uøÁ¯õÚ öÁ¨£® = 5 × 400 J
+
+²² 5 kg ö\®¤ß öÁ¨£{ø»ø¯ 10 OC CÚõÀ E¯ºzuz ÷uøÁ¯õÚ öÁ¨£® = 5 × 400 × 10 J = 20 000 J
+
+Euõµn® 1
+
+}›ß ußöÁ¨£U öPõÒÍÍÄ 4200 J kg-1 ºC-1 BS®. 2 kg }›ß öÁ¨£{ø»ø¯
+
+10 ºC CÚõÀ E¯ºzuz ÷uøÁ¯õÚ öÁ¨£zvß AÍøÁU PõsP.
+
+wºÄ
+
+öÁ¨£zvß AÍÄ Q GÛß,
+
+Q = mcθ BøP¯õÀ
+
+Q = 2 kg × 4200 J kg-1 ºC-1 × 10 ºC
+
+Q = 84 000 J
+
+Euõµn® 2
+
+Kº A¾ªÛ¯z xsiß voÄ 0.5 kg BS®. Auß öÁ¨£{ø»ø¯ 25 ºC C¼¸¢x 45 ºC CØS E¯ºzuz ÷uøÁ¯õÚ öÁ¨£zvß AÍøÁU PõsP. (A¾ªÛ¯zvß ußöÁ¨£U öPõÒÍÍÄ 900 J kg-1 ºC-1)
+
+13C»Á\¨ £õh¡À
+
+wºÄ
+
+öÁ¨£zvß AÍÄ Q GÛß,
+
+Q = mcθ
+
+Q = 0.5 kg × 900 J kg-1 ºC-1 × 20 ºC
+
+Q = 9000 J
+
+Euõµn® 3
+
+30 ºC öÁ¨£{ø»°À EÒÍ 2 kg ö\®¤ØS 20000 J öÁ¨£zøu ÁÇ[S®÷£õx Auß CÖv öÁ¨£{ø» ¯õx? (ö\®¤ß ußöÁ¨£U öPõÒÍÍÄ 400 J kg-1 ºC-1)
+
+öÁ¨£zvß AÍÄ Q GÛß,
+
+Q = mcθ 20000 J = 2 kg × 400 J kg-1 ºC-1 × θ θ = 20000 J
+
+θ = 25 ºC
+
+/ ö\®¤ß CÖv öÁ¨£{ø» = 30 ºC + 25 ºC = 55 ºC
+
+2 kg x 400 J kg-1 ºC-1
+
+Euõµn® 4
+
+1 kg }º J¸ ö\¨¦¨ £õzvµzvÀ Ch¨£mkÒÍx. }øµU öPõsh £õz-vµzvß voÄ 1.6 kg. }›ß öÁ¨£{ø» 25 ºC. £õzvµzvÀ EÒÍ }øµU öPõvUS® ÁøµUS® öÁ¨£©õUPz ÷uøÁ¯õÚ öÁ¨£zvß AÍøÁU PõsP. (}›ß ußöÁ¨£U öPõÒÍÍÄ 4200 J kg-1 ºC-1; ö\®¤ß ußöÁ¨£U öPõÒÍÍÄ 400 J kg-1 ºC-1)
+
+C[S }º, £õzvµ® BQ¯ Cµsk® öÁ¨£©õÁuÚõÀ,
+
+÷uøÁ¯õÚ öÁ¨£® = £õzvµ® ö£Ö® öÁ¨£® + }º ö£Ö® öÁ¨£®
+
+öÁ¨£zvß AÍÄ Q GÛß,
+
+Q = mcθ Q = m£õzvµ®c£õzvµ®θ + m}ºc}ºθ
+
+Q = (0.6 kg x 400 J kg-1 ºC-1 × 75 ºC)+ (1.0 kg × 4200 J kg-1 ºC-1 × 75 ºC)
+
+Q = 18000 J + 315000 J
+
+Q = 333000 J AÀ»x 333 kJ
+
+14C»Á\¨ £õh¡À
+
+÷©ØSÔzu ¤µ]ÚzvÀ
+
+²²1.6 kg C¼¸¢x }›ß voÄ 1.0 kg IU PÈzxa ö\¨¦¨ £õzvµzvß voÄ ö£Ó¨£kQßÓx.
+
+²² }º öPõvUS® öÁ¨£{ø» 100 ºC BøP¯õÀ, 100 ºC C¼¸¢x 25 ºC IU PÈzx θ ö£Ó¨£kQßÓx.
+
+9.2 £°Ø]
+
+1. C¸®¤ß ußöÁ¨£U öPõÒÍÍÄ 460 J kg-1 ºC-1 BS®. 25 ºC öÁ¨£{ø» °À C¸US® 2 kg C¸®¤ß öÁ¨£{ø»ø¯ 65 ºC ÁøµUS® E¯ºzuz ÷uøÁ¯õÚ öÁ¨£zvß AÍøÁU PõsP.
+
+2. 30 ºC öÁ¨£{ø»°À C¸US® 0.8 kg A¾ªÛ¯zvØS 14 400 J AÍÄ öÁ¨£zøu ÁÇ[S®÷£õx A¾ªÛ¯zvß öÁ¨£{ø»ø¯U PõsP (A¾ªÛ¯zvß ußöÁ¨£U öPõÒÍÍÄ 900 J kg-1 ºC-1).
+
+3. J¸ Psnõi¨ £õzvµzvß voÄ 500 g BS®. Av÷» 25 ºC öÁ¨£{ø»°À 400 g }º Ch¨£mkÒÍx. £õzvµzvÀ }øµU öPõvUS® ÁøµUS® öÁ¨£©õUPz ÷uøÁ¯õÚ öÁ¨£zvß AÍøÁU PõsP (Psnõi°ß ußöÁ¨£U öPõÒÍÍÄ 840 J kg-1 ºC-1, }›ß ußöÁ¨£U öPõÒÍÍÄ 4 200 J kg-1 ºC-1).
+
+9.3 \h¨ö£õ¸Îß {ø» ©õØÓ® (Change of state of matter)
+
+vs©®vµÁ®Áõ²
+
+öÁ¨£©õUPÀöÁ¨£©õUPÀ
+
+SÎºa]¯õUPÀSÎºa]¯õUPÀ
+
+E¸ 9.10
+
+\h¨ö£õ¸Ò vs©®, vµÁ®, Áõ² GßÝ® ‰ßÖ ö£ÍvP {ø»PÎÀ EÒÍx GßÖ }[PÒ •ßÚº PØÖÒÏºPÒ. Kº Euõµn©õP }øµ Gk¨÷£õ®. AøÓ öÁ¨£{ø»°À vµÁ©õP C¸US® }º £ÛUPmi¯õPz vs© {ø»°¾® öPõv }µõÂ¯õP Áõ² {ø»°¾® EÒÍx. £ÛUPmiø¯ öÁ¨£©õUS®÷£õx }µõP ©õÔ ¤ßÚº Auß Áõ² {ø»¯õQ¯ öPõv}µõÂ¯õP ©õÖQßÓx. öPõv}µõÂø¯U SÎºa]¯õUS®÷£õx Ax }µõP ©õÖQßÓx. }º ÷©¾® SÎºa]¯õUP¨£k® ÷£õx £ÛUPmi¯õP ©õÖQßÓx. öÁ¨£zvß ÂøÍÁõP }º J¸ {ø»°¼¸¢x ÷ÁöÓõ¸ {ø»US ©õÖQßÓx. \h¨ö£õ¸Îß ö£ÍvP
+
+15C»Á\¨ £õh¡À
+
+{ø»PÍõQ¯ vs©®, vµÁ®, Áõ² BQ¯ÁØÔÀ J¸ {ø»°¼¸¢x ÷ÁöÓõ¸ {ø»US ©õÖ® \¢uº¨£® {ø» ©õØÓ® GÚ¨£k®. vµÁö©õßÖ öPõvzuÀ, Jk[SuÀ, BÂ¯õuÀ, E¸SuÀ BQ¯ \¢uº¨£[PÒ {ø»©õØÓzvØS ]» Euõµn©õS®.
+
+à¼°G¬ô (Melting point)
+
+J¸ vs©zøu öÁ¨£©õUS® ÷£õx Ax vs© {ø»°¼¸¢x vµÁ©õP ©õÖ® SÔzu öÁ¨£{ø» Auß E¸S{ø» (Melting point) GÚ¨£k®.
+
+à¬øG¬ô (Freezing point)
+
+J¸ vµÁzøu SÎµÂk® ÷£õx Ax vµÁ{ø»°¼¸¢x vs© {ø»US® ©õÖ® SÔzu öÁ¨£{ø» AzvµÂ¯zvß EøÓ{ø» (Freezing point) GÚ¨£k®.
+
+J¸ SÔzu ö£õ¸Îß E¸S{ø»²® EøÓ{ø»²® J÷µ ö£Ö©õÚ©õS®.
+
+]» vs©[PÎß E¸S{ø»PÒ R÷Ç EÒÍÚ.
+
+÷©»vP AÔÂØPõP
+
+ö£õ¸Ò E¸S{ø» ºC£ÛUPmi0£µÂß ö©ÊS54|¨u½ß80P¢uP®114D¯®330
+
+ö£õ¸Ò E¸S{ø» ºC|õP®410A¾ªÛ¯®660ö£õß1063uõ[Suß5385C¸®¦1535
+
+ªè£FG¬ô (Boiling point)
+
+J¸ vµÁzøu öÁ¨£©õUS®÷£õx Ax vµÁ{ø»°¼¸¢x öPõvzx BÂ AÀ»x Áõ²ÁõP ©õÖ® SÔzu öÁ¨£{ø» AzvµÂ¯zvß öPõv{ø» (Boiling point) GÚ¨£k®.
+
+÷©»vP AÔÂØPõP
+
+]» ö£õ¸ÒPÎß öPõv{ø»PÒ R÷Ç EÒÍÚ.
+
+ö£õ¸Ò }ºAØP÷PõÀCµ\®|õP®ö\®¦C¸®¦Jm]\ß
+
+öPõv{ø» ºC1007835790723102750-183
+
+16C»Á\¨ £õh¡À
+
+9.3.1 ñ¬ø ªõŠð‹ (Latent heat)
+
+£uõºzuö©õßÔß {ø»©õØÓ® |øhö£ÖÁx £uõºzuzvØS öÁ¨£zøu ÁÇ[SÁuÚõÀ AÀ»x A¨£uõºzuzv¼¸¢x öÁ¨£zøu APØÖu»õS®. AøÓ öÁ¨£ {ø»°À vs©©õP Põn¨£k® £uõºzu® JßÔß ‰»UTÖPÎÀ SÔ¨¤mh AÍÄ AvºÄ C¯UP \Uv Põn¨£k®. öÁ¨£zøu ÁÇ[S®÷£õx AvºÄ C¯UP \Uv £i¨£i¯õP AvP›¨£uÚõÀ A¨£uõºzuzvß öÁ¨£ {ø»²® AvP›US®. A¨£uõºzuzvØS öuõhº¢x öÁ¨£zøu ÁÇ[S®÷£õx SÔ¨¤mh J¸ \¢uº¨£zvÀ ‰»UTÖPÎß C¯UP\Uv ‰»UTÖPÐUQøh ÷¯²ÒÍ ¤øn¨ø£ Eøhzx AqUPÒ _¯õwÚ©õP C¯[SÁuØS¨ ÷£õx-©õÚuõP C¸US®. Cx £uõºzuö©õßÖ vs© {ø»°¼¸¢x vµÁ{ø»US ©õÖ® \¢uº¨£©õS®. C¢{ø»©õØÓ® |øhö£Ö® \¢uº¨£zvÀ ¦ÓöÁ¨£©õP ÁÇ[P¨£k® \Uv ‰»U TÖPÐUQøh°»õÚ ¤øn¨ø£ Eøh¨£uØS¨ £¯ß£kÁuÚõÀ £uõºzuzvß öÁ¨£{ø» AvP›UPõx. {ø»©õØÓ® §µn©õÚ ¤ß ÁÇ[P¨£k® öÁ¨£® öuõSv°ß öÁ¨£{ø» AvP›¨¦US¨ £¯ß£k®.
+
+CÆÁõÖ {ø»©õØÓ® |øhö£Ö® \¢uº¨£zvÀ öÁ¨£{ø» AvP›¨¦ {PÇõ©À ö£ØÖUöPõÒÐ® öÁ¨£® ©øÓ öÁ¨£® (Latent heat) GÚ¨£k®.
+
+©øÓ öÁ¨£®0 oC
+
+vµÁ }º
+
+vs©¨ £ÛUPmi
+
+0 oC
+
+E¸ 9.11
+
+0 ºC CØS \ØÖ SøÓ¢u öÁ¨£{ø»°À Põn¨£k® £ÛUPmi JßÔØS öÁ¨£zøu ÁÇ[S® \¢uº¨£® JßøÓU P¸x÷Áõ®. Bµ®£zvÀ Auß öÁ¨£{ø» £i¨£i¯õP 0 ºC Áøµ AvP›US®. 0 ºC Gß£x £ÛUPmi°ß E¸S {ø» Gß£uõÀ Cuß ¤ß ÁÇ[P¨£k® öÁ¨£® ‰»U TÖPÐUQøh°»õÚ PÁºa] Âø\US GvµõPa ö\¯Ø£kÁuØS / ÷Áø» ö\´¯¨£kÁuØS ö\»Âh¨£kÁuÚõÀ 0 ºC CÀ Põn¨£k® £ÛUPmi 0 ºC CÀ EÒÍ }µõP ©õÖ®.
+
+£ÛUPmi •ØÓõP }µõP ©õÔ¯ ¤ß ÷©¾® öÁ¨£zøu ÁÇ[S®÷£õx AÆöÁ¨£® «sk® }›ß öÁ¨£ {ø»ø¯ AvP›¨£uØSa ö\»Âh¨£k®. SÔzu öÁ¨£{ø»°À vs©ö©õßÖ vµÁ©õP ©õÖuÀ E¸SuÀ GÚ¨£k®. 0 ºC CÀ EÒÍ £ÛUPmi A÷u öÁ¨£{ø»°À }µõP ©õÖ® ÷£õx EÔg\¨£k® öÁ¨£® E¸P¼ß ©øÓöÁ¨£® GÚ¨£k®.
+
+17C»Á\¨ £õh¡À
+
+£ÛUPmi ©õzvµ©ßÔ GÀ»õz vs©¨ £uõºzu[PÐ® E¸S®÷£õx ©øÓöÁ¨£® APzxÔg\¨£k®. AÆÁõÖ E¸Q¯ ¤ß QøhUS® vµÁzøu «sk® SÎµÂk® ÷£õx E¸S®÷£õx APzxÔg\¨£mh A÷u AÍÄ ©øÓöÁ¨£® «sk® öÁÎÂh¨£k®. CuØS Aø©¯ 0 ºC CÀ Põn¨£k® }øµ SÎµ Âk®÷£õx A¢}º A÷u¯ÍÄ ©øÓöÁ¨£zøu öÁÎÂmk 0 ºC CÀ EÒÍ £ÛUPmi¯õP ©õÖ®.
+
+©øÓ öÁ¨£®
+
+öPõv}µõÂ
+
+100 oC100 oC
+
+vµÁ }º
+
+E¸ 9.12
+
+100 ºC öÁ¨£{ø»°À EÒÍ }¸US öÁ¨£zøu ÁÇ[S® \¢uº¨£® JßøÓU P¸x÷Áõ®. }º Põn¨£kÁx Auß öPõv {ø»°À Põn¨£kÁuÚõÀ C[S {ø»©õØÓö©õßÖ |øhö£ÖÁxhß Ax |øhö£ÖÁuØS ‰»UTØÖU Qøh÷¯ EÒÍ PÁºa] Âø\US Gvµõ ÷Áø»ö¯õßÖ ö\´¯¨£h÷Ásk®. CuÚõÀ ÁÇ[P¨£k® öÁ¨£® •u¼À ‰»U TØÔøhU PÁºa] Âø\US GvµõP ÷Áø»ö\´ÁuØS ö\»Âh¨£kÁ xhß 100 ºC öÁ¨£{ø»°À Põn¨£k® }º •ÊÁx® BÂ¯õP ©õÖ® Áøµ }›ß öÁ¨£{ø» AvP›UPõx. Ca\¢uº¨£zvÀ ©øÓ öÁ¨£©õP EÔg\¨£k® öÁ¨£® BÂ¯õu¼ß ©øÓöÁ¨£® (latent heat of vaporisation) GÚ¨£k®.
+
+¯õuõ°Ý® J¸ £uõºzu® BÂ¯õS®÷£õx ©øÓöÁ¨£® APzxÔg\¨£kÁxhß AÆÁõ² JkUP¨£k®÷£õx A®©øÓ öÁ¨£® öÁÎÂh¨£k®.
+
+ à¼èL¡ î¡ ñ¬ø ªõŠð‹ (L) (Specific latent heat of fusion)
+
+0 oC0 oC3.36 × 105 J
+
+vµÁ }º 1 kg
+
+vs©¨ £ÛUPmi 1 kg
+
+E¸ 9.13
+
+18C»Á\¨ £õh¡À
+
+Ca\¢uº¨£zvÀ 0 ºC öÁ¨£{ø»°À EÒÍ 1 kg £ÛUPmi A÷u öÁ¨£{ø»°À vµÁ }µõP ©õÖÁuØS¨ ö£ØÖUöPõskÒÍ öÁ¨£® 3.36 × 105 J BS®. Ax £ÛUPmi°ß E¸P¼ß uß ©øÓ öÁ¨£® GÚ¨£k®.
+
+E¸S{ø»°À EÒÍ J¸ SÔzu vs©zvß Kµ»Sz voøÁ A÷u öÁ¨£{ø»°À C¸US® vµÁ©õP ©õØÓz ÷uøÁ¯õÚ öÁ¨£zvß AÍÄ A¨ö£õ¸Îß E¸P¼ß uß ©øÓ öÁ¨£® GÚ¨£k®.
+
+ ÝMò£‚èL¡ î¡ ñ¬ø ªõŠð‹ (L) (Specific latent heat of vaporization)
+
+100 oC100 oC
+
+}º 1 kg
+
+öPõv }µõÂ 1 kg
+
+2.26 × 106 J
+
+E¸ 9.14
+
+100 OC öÁ¨£ {ø»°À EÒÍ 1 kg vµÁ }º A÷u öÁ¨£ {ø»°À öPõv }µõÂ¯õP ©õÖÁuØS¨ ö£ØÖÒÍ öÁ¨£® 2.26 × 106 J BS®. Ax vµÁ }›ß BÂ¯õUP¼ß uß ©øÓ öÁ¨£©õS®.
+
+öPõv{ø»°À EÒÍ J¸ vµÁzvß Kµ»Sz voøÁ A÷u öÁ¨£{ø»°À C¸US® BÂ¯õP ©õØÓz ÷uøÁ¯õÚ öÁ¨£zvß AÍÁõÚx A¨ ö£õ¸Îß BÂ¯õUP¼ß uß ©øÓ öÁ¨£® GÚ¨£k®.
+
+ÝMò£î½‹ ªè£Fˆî£Mò£î½‹ (Vaporisation and evaporation)
+
+£uõºzuö©õßÖ BÂ¯õS® •øÓPÒ CµshõS®. AvÀ JßÖ öPõv{ø»°À Põn¨£k® vµÁzvØS ÷©¾® öÁ¨£zøu ÁÇ[S®÷£õx |øhö£Ö® öPõvzuÀ öPõvzuõÂ¯õUPÀ BS®. ©ØøÓ¯x, öPõv {ø»US R÷Ç²ÒÍ öÁ¨£{ø»°À EÒÍ vµÁö©õßÖ Áõ²{ø»US ©õÖuÀ BÂ¯õuÀ
+
+(evaporation) GÚ¨£k®.
+
+öPõvzx BÂ¯õUPÀ, BÂ¯õuÀ GÝ® C¸•øÓPÎ¾® BÂ¯õuÀ |øh ö£Ö®÷£õx ©øÓöÁ¨£® APzxÔg\¨£k®. ö£õxÁõP BÂ¯õuÀ |øhö£ÖÁx vµÁö©õßÔß ÁÎUSz vÓ¢xÒÍ ÷©Ø£µ¨¤¼¸¢x ©mk÷©¯õS®. GÛÝ® vµÁö©õßÖ öPõvzx BÂ¯õUS® ÷£õx vµÁ ÷©Ø£µ¨¤ß RÈ¸¢x® BÂ öÁÎ÷¯Ó»õ®. vµÁö©õßÖ öPõvUS® ÷£õx SªÈPÒ öÁÎ÷¯ÖÁx CuÚõ»õS®. x›u©õP öÁ¨£® ÁÇ[P¨£k® ÷£õx
+
+19C»Á\¨ £õh¡À
+
+vµÁ ÷©Ø£µ¨¤¼¸¢x ©mk©ßÔ vµÁzvÝÒ C¸¢x® BÂöÁÎ÷¯Ö®. xoPÒ E»µÂk® ÷£õx®, Â¯ºøÁ öÁÎ÷¯Ô G©x EhÀ öÁ¨£{ø» Pmk¨£kzu¨£kÁuØS® }›ß BÂ¯õuÀ ö\¯ß•øÓ £¯ß£kQßÓx.
+
+}›ß BÂ¯õu¼ß uß©øÓöÁ¨£® AvP©õøP¯õÀ Â¯ºøÁ°¼¸¢x }º BÂ¯õS® ÷£õx ö£¸©ÍÄ öÁ¨£® EÔg\¨£kQßÓx. CuÚõÀ Eh¼¼¸¢x AvPÍÄ öÁ¨£® öÁÎ÷¯ÖQßÓx.
+
+9.4 öÁ¨£ Â›Ä (Thermal expansion)
+
+E¸ 9.15
+
+A
+
+B
+
+C¸ PsnõiU SÁøÍPÒ Cµsøh Gkzx PÊÂ, JßÔÝÒ÷Í ©ØøÓ¯uøÚ øÁzx, Akzu |õÒ «sk® £¯ß£õmiØS GkUP •¯¾®÷£õx J¸ SÁøÍ°ÝÒ÷Í ©ØøÓ¯ SÁøÍ (A CÝÒ÷Í B) CÖQ°¸¨£øuU Põn»õ®. AzuøP¯ J¸ \¢uº¨£zvÀ EmSÁøÍ°À SÎº }øµ Cmk öÁÎU SÁøÍø¯ CÍg`hõÚ }º¨ £õzvµzvÀ AªÌzx-Áuß ‰»® C¸ SÁøÍPøÍ²® GÎuõPU PÇØÓ»õ®. C[S GßÚ |øhö£ÖQßÓöuÚ¨ £õº¨÷£õ®.
+
+CÍg`hõÚ }›À Ch¨£mh SÁøÍ ]ÔuÍÂÀ Â›Áx® SÎº }º Ch¨£mh EmSÁøÍ ]ÔuÍÂÀ _¸[SÁx® C[S |øhö£ÖQßÓÚ.
+
+öÁ¨£{ø» AvP›US®÷£õx J¸ SÔzu ö£õ¸Îß £¸©ÛÀ |øhö£Ö® AvP›¨¦ öÁ¨£ Â›Ä (thermal expansion) GÚ¨£k®. AuõÁx Auß }Í®, £µ¨£ÍÄ, PÚÁÍÄ BQ¯ÁØÔÀ HØ£k® AvP›¨¦ Â›ÁõS®. AÆÁõ÷Ó J¸ SÔzu ö£õ¸Îß öÁ¨£{ø» SøÓ²®÷£õx Auß AÍÄ SøÓuÀ _¸[PÀ GÚ¨£k®. AuõÁx }Í®, £µ¨£ÍÄ, PÚÁÍÄ BQ¯ÁØÔÀ HØ£k® SøÓuÀ _¸[PÀ BS®.
+
+20C»Á\¨ £õh¡À
+
+9.4.1 F‡ñƒèO¡ MK¾
+
+ö\¯Ø£õk 9.3
+
+vs© Â›øÁa ö\´x PõmhÀ
+
+²²Kº C¸®¦U Ssøh²® Ax ©mk©mhõPa ö\À»zuUP J¸ ÁøÍ¯z øu²® Gkzx, Ssøh ÁøÍ¯zvÞhõP AÝ¨¦P.
+
+²²Ssøh öÁ¨£©õUQ ÁøÍ¯zvÞhõP AÝ¨£•i²©õ GÚ¨ £õºUP.
+
+²²©Ö£i²® SÎºa]¯õUQ¯ ¤ßÚº ÁøÍ¯zvÞhõP C¸®¦U Ssøh AÝ¨£ •i²©õ GÚÄ® AÁuõÛUP.
+
+E¸ 9.16
+
+ÁøÍ¯®
+
+C¸®¦U Ssk
+
+Buõµ®
+
+öÁ¨£©õUSÁuØS •ßÚº C¸®¦U Ssøh ÁøÍ¯zvÞhõP AÝ¨£»õ®öÁ¨£©õUQ¯ ¤ßÚº C¸®¦U Ssøh ÁøÍ¯zvÞhõP AÝ¨£ •i¯õx
+
+öÁ¨£©õUS®÷£õx vs©® Â›QßÓx GÚÄ® SÎºa]¯õUS®÷£õx _¸[SQßÓx GÚÄ® Caö\¯Ø£õmøh ÂÍUP»õ®.
+
+F‡ñˆF¡ MKM¡ ªê™õ£‚°èÀ‹ ðò¡ð£´‹
+
+²²Ásia ]À¼À C¸®¦¨ £mhzøu¨ ö£õ¸zx®÷£õx ]À¼ß Âmhzv¾® £õºUPa ]ÔuÍÂÀ ]Ô¯ Âmhzxhß £mh® ö\´¯¨£kQßÓx. Auß ¤ßÚº öÁ¨£©õUSÁuß ‰»® £mh® Â›Áøh¯a ö\´¯¨£mk, ]À¼À ö£õ¸zvU SÎºa]¯øh¯ Âk®÷£õx C¸®¦¨ £mh® ]À¾hß |ßÓõP¨ ö£õ¸¢xQßÓx.
+
+²²¦øP°µu¨ £õøuPÎÀ C¸ ushÁõÍ[PÐUSªøh÷¯ ]Ô¯ öÁÎÂh¨ £kÁuß ÷|õUP® öÁ¨£©õUS®÷£õx HØ£k® Â›Ä Põµn©õPz ushÁõÍ[PÒ ÁøÍÁøuz ukzu»õS®.
+
+21C»Á\¨ £õh¡À
+
+E¸ 9.17
+
+²²öuõø»÷£]U P®¤PøÍ²® ªß P®¤PøÍ P®£[PÐUQøh÷¯ uÍºa]¯õP¨ ö£õ¸zxÁuß ÷|õUP® `ÇÀ öÁ¨£{ø» SøÓ²® ÷£õx P®¤°ß }Í® P®£[PÐUQøh°»õÚ yµzøu ÂhU SøÓ²® AÍÄUS _¸[Q P®¤ EøhÁøu uÂº¨£uØPõS®.
+
+E¸ 9.18
+
+²²÷£õzuÀ ‰i E÷»õPzvÚõÀ ö\´¯¨£mi¸US®÷£õx ‰iø¯a ]ÔuÍÂÀ öÁ¨£©õUSÁuß ‰»® AuøÚ Â›Áøh¯a ö\´x GÎuõPU PÇØÓ»õ®.
+
+CuØPõÚ Põµn® J÷µ öÁ¨£{ø»°À E÷»õP® Â›Áøh²® AÍÄ Psnõi Â›Áøh²® AÍøÁ Âh AvP©õS®. CuÚõÀ E÷»õP ‰iø¯ öÁ¨£÷©ØÖ® ÷£õx ÷£õzuÀ Áõø¯Âh E÷»õP ‰i \ØÖ¨ ö£›uõQßÓx.
+
+²²ªßÚÊzv, ªß÷\õØÓk¨£õß ÷£õßÓ E£Pµn[PÎÀ öÁ¨£{ø»ø¯U Pmk¨£kzxÁuØPõP D¸÷»õPURØÖ (bimetallic strip) £¯ß£kzu¨£kQßÓx. Cx SÔ¨¤mh öÁ¨£{ø»°À ÷ÁÖ£mh Â›øÁU PõmhUTi¯ C¸ ÁøP¯õÚ E÷»õPU R»[PÎÚõ»õÚx.
+
+22C»Á\¨ £õh¡À
+
+BÎ
+
+SøÓ¢u Â›øÁU PõmhUTi¯ E÷»õP R»®
+
+Ti¯ Â›øÁU PõmhUTi¯ E÷»õPU R»®
+
+ªßP»®
+
+E¸ 9.19 DÖ÷»õP RØÔß öuõÈØ£õk
+
+E¸ (a) CÀ Põmh¨£mi¸¨£x AÆÁõÓõÚ J¸ D¸÷»õPa \mh©õS®. Ax Âz-v¯õ\©õÚ AÍÂÀ Â›Áøh²® C¸ ÁøP¯õÚ E÷»õPU R»[PøÍ JßÓß «x JßøÓ ö£õ¸zxÁuß ‰»® Aø©UP¨£mkÒÍx. Aa \mhPzvß J¸ •øÚ E÷»õPz xsöhõßÔØS¨ ö£õ¸zu¨£mi¸¨£xhß ©ØøÓ¯ •øÚ _¯õwÚ©õP EÒÍx. D¸÷»õPa \mhzvß öÁ¨£ {ø» AvP›US® ÷£õx J¸ R»® AvPÍÂÀ Â›ÁøhÁxhß ©ØøÓ¯ R»® SøÓ¢uÍÂÀ Â›Áøh²® Cuß÷£õx R»[PÒ Cµsk® E¸ (b) CÀ Põmh¨£mhÁõÖ ÁøÍ²®.
+
+E¸ÂÀ Põmh¨£mkÒÍÁõÖ D¸÷»õPa \mö©õßÔØS £ØÓ›ø¯ CønUS® ÷£õx öÁ¨£{ø» AvP›¨£uÚõÀ D¸÷»õPa \mh® ÁøÍ¢x Cøn¨¦ xsiUP¨£kQßÓx.
+
+vs©[PÎß Â›Ä £¯ß£kzu¨£k® ÷ÁÖ \¢uº¨£[PøÍ AÔ¢x, AøÁ £ØÔ¯ uPÁÀPøÍU SÔzxU öPõÒP.
+
+J¨£øh 9.1
+
+23C»Á\¨ £õh¡À
+
+9.4.2 FóõƒèO¡ MK¾
+
+ö\¯Ø£õk 9.4
+
+vµÁ[PÎß Â›øÁa ö\´x PõmhÀ
+
+²²J¸ ÷\õuøÚU SÇõ´USÒ÷Í {Ó‰mi¯ }øµ {µ¨¤, E¸ÂÀ Põn¨£kQßÓÁõÖ CÓ¨£º Aøh¨£õÝhß ö£õ¸zu¨£mh J¸ PsnõiU SÇõø¯ AuÝhß ö£õ¸zxP.
+
+²²PsnõiU SÇõ°À vµÁ ©mhzøuU SÔUP.
+
+²²PsnõiU SÇõø¯ CÍg`hõÚ }º EÒÍ J¸ £õzvµzvÀ AªÌzva ]Ôx ÷|µzvØS øÁzx AÁuõÛUP.
+
+²²öÁ¨£©õUS®÷£õx Psnõia ÷\õuøÚU SÇõ´ Â›QßÓø©¯õÀ vµÁ ©mh® B ÁøµUS® CÓ[S® A÷u÷ÁøÍ }º öÁ¨£©õS®÷£õx }º ©mh® C ÁøµUS® E¯ºQßÓx.
+
+A BC
+
+CÍg`hõÚ }º
+
+vµÁ©mh® B ÁøµUS® ]ÔuÍÂÀ CÓ[Q ©Ö£i²® C ÁøµUS® HÖQßÓx
+
+AvµÁ ©mh®
+
+{Ó‰mi¯ }º
+
+E¸ 9.20
+
+C[S }›ß öÁ¨£{ø» AvP›US® ÷£õx •u¼À ÷\õuøÚU SÇõ´ Â›Áøh²® CuÚõÀ vµÁ©mh® \ØÖURÌ CÓ[S®. GÛÝ® ÷\õuøÚU SÇõ°¾ÒÍ vÁµzvß öÁ¨£{ø» £i¨£i¯õP AvP›¨£uÚõÀ vµÁ® Â›Áøh¯z öuõh[S®. vµÁ® Â›Áøh²® AÍÄ AvP›US® ÷£õx «sk® vµÁ©mh® E¯¸®.
+
+24C»Á\¨ £õh¡À
+
+9.4.3 õ£»MK¾
+
+ö\¯Ø£õk 9.5
+
+Áõ² Â›øÁa ö\´xPõmhÀ
+
+£¿ß
+
+ÁÎ
+
+Fv¯ £¿ß
+
+CÍg`hõÚ }º
+
+ÁÎ
+
+£ÛU Pmi
+
+E¸ a E¸ b
+
+E¸ 9.21
+
+E¸ 1 CÀ Põmh¨£mhÁõÖ ‰i¯ØÓ J¸ öÁØÖ¨ ¤ÍõzvUS¨ ÷£õzuÀ £ÛUPmi²® }¸® {µ¨£¨£mh £õzvµö©õßÔÀ ]Ôx ÷|µ® {ø»USzuõP øÁUP¨£mk Auß ¤ß £¿ß JßøÓ Auß Áõ°À CønUSP. ¤ß A¨÷£õzuø» öÁÎ÷¯ Gkzx ÷ÁÖ J¸ öÁØÖ¨ £õzvµzvÀ øÁzx E¸ 2 CÀ Põmh¨£mkÒÍÁõÖ A¨£õzvµzvØS CÍg`hõÚ }øµ {µ¨¦P.
+
+²²£¿ß ]ÔuÍÂÀ Â›²® Âuzøu AÁuõÛUP.
+
+²²÷£õzuø» ©Ö£i²® öÁÎ÷¯ Gkzx ]Ôx ÷|µzvØS øÁUS®÷£õx £¿ß _¸[SÁøu²® AÁuõÛUP.
+
+²²£ÛUPmi ©ØÖ® }º {µ¨£¨£mh £õzvµzvÀ EÒÍ ÷£õx ÷£õzu¼À C¸¢u ÁÎ°ß öÁ¨£{ø» 0 ºC ø¯ Asªzv¸¢ux. CÍg`hõÚ }º {µ¨£¨£mh £õzvµzvÀ øÁUP¨£mh ÷£õx CU SÎºÁÎ°ß öÁ¨£{ø» AøÓöÁ¨£{ø»ø¯ Âh AvP›zuø©°ÚõÀ Â›Áøh¢uux. ÷£õzu¼ß Áõ°À £¿ß CønUP¨£mi¸¨£uõÀ CÆ ÁÎ öÁÎ÷¯Ó •i¯õx. AuØS¨ £v»õP £¿ß Â›Áøh¢ux. «sk® ÷£õzuø» £õzvµzv¼¸¢x öÁÎ÷¯ Gkzu÷£õx ÷£õzu¼ÝÒ EÒÍ ÁÎ AøÓöÁ¨£{ø»US ©õÔ¯ø©¯õÀ £¿ß _¸[Q¯x.
+
+²²÷£õzu¼À C¸US® ÁÎ öÁ¨£©õS®÷£õx Â›ÁøhQßÓx Gß£x® SÎºa]¯øh²®÷£õx _¸[SQßÓx Gß£x® C¢u AÁuõÛ¨¤¼¸¢x öuÎÁõQßÓÚ.
+
+25C»Á\¨ £õh¡À
+
+9.5 öÁ¨£ Ch®©õØÓ® (Transmission of heat)
+
+E÷»õPU Pµsi
+
+öÁ¨£©õÚ ÷u}ºU Qsn®
+
+E¸ 9.22
+
+`hõÚ ÷u}ºU QsnzvÀ Ch¨£mh Kº E÷»õPU Pµsi°ß A¢uzøu¨ ¤izv¸US®÷£õx Ax £i¨£i¯õP öÁ¨£©õÁøu Enµ»õ®. J¸ w¨¤Ç®¤ØS ÷©÷» øPø¯ øÁUS®÷£õx øP `møh EnºQÓx. C[S E÷»õPU Pµsi ÁÈ÷¯²® _Áõø»°¼¸¢x ÷©÷»²® öÁ¨£® ö\ßÖÒÍx. CÆÁõÖ öÁ¨£® Kº Chzv¼¸¢x ÷Á÷Óõº ChzvØSa ö\À»À öÁ¨£ Ch®©õØÓ® (Transmission of heat) BS®.
+
+öÁ¨£{ø» Ti¯ Chzv¼¸¢x öÁ¨£{ø» SøÓ¢u ChzvØS öÁ¨£® £õ²®.
+
+¯õuõ°Ý® J¸ £uõºzuzvß öÁ¨£\Uv GÚ AøÇUP¨£kÁx A¨£uõºzu® BUP¨£mkÒÍ xoUøPPÎß GÊ¢u©õÓõÚ Aø\ÂÚõÀ ¤Ó¨¤UP¨£k® C¯UPa \Uv¯õS®. Ca \Uv¯õÚx xoUøPPÎß HP£›©õÚ, _ÇØ] AÀ»x AvºÄ C¯UP\Uv¯õP C¸UP•i²®. öÁ¨£ Ch©õØÓ® GÚ¨£kÁx Ti¯ C¯UP•ÒÍ xoUøPPÒ Põn¨£k® Chzv¼¸¢x (E¯º öÁ¨£ {ø»°À EÒÍøÁ) SøÓ¢u C¯UP•ÒÍ xoUøPPÒ (uõÌ öÁ¨£ {ø»°À EÒÍøÁ) EÒÍ Chzøu ÷|õUQ C¯UP \Uv°ß £õ´a\À BS®.
+
+öÁ¨£ Ch©õØÓ® ‰ßÖ •øÓPÎÀ |øhö£Ö®.
+
+(1) PhzuÀ (2) EhßPõÄøP / ÷©ØPõÄøP (3) Pvº¨¦
+
+C®•øÓPÒ £ØÔ GÎuõP Bµõ´÷Áõ®.
+
+9.5.1 èìˆî™ (Conduction)
+
+vs©zvÞhõP öÁ¨£® Ch®©õØÓ® |øhö£Ö® ¤µuõÚ •øÓ PhzuÀ BS®. C[S vs©zvÞhõP AqUPÒ ö\ÀÁvÀø». Kº E÷»õPzøuU
+
+26C»Á\¨ £õh¡À
+
+P¸x®÷£õx Auß AqUPÒ J¸ SÔzu ©zv¯ Aø©øÁ¨ £ØÔ Avº¢x-öPõsk C¸UQßÓÚ.
+
+vs©¨ £uõºzu[PÎÀ AqUPÒ ªP ö|¸UP©õP JßÖhß JßÖ ¤øn¢x Põn¨£kÁuÚõÀ AøÁ vµÂ¯U PÚÁÍÂÝÒ _¯õwÚ©õP C¯[P •i¯õx. CÆÁõÓõÚ £uõºzu[PÎß öÁ¨£® AqUPÎß AvºÄ C¯UP \Uv¯õPU Põn¨£k®. Cx uÂµ _¯õwÚ©õP Aø\¯U Ti¯ C»zvµßPÎß C¯UP \Uv öÁ¨£ \Uv°ß J¸ £Sv¯õP Põn¨£k®.
+
+PhzuÀ Gß£x Aq ©ØÖ® C»zvµßPÎß C¯UP \Uv¯õÚx A¸QÀ Aø©¢xÒÍ xoUøPPÒ ÷©õxÁuÚõÀ £i¨£i¯õP £uõºzu® •ÊÁx® £µ®¤U Põn¨£kÁuõS®. E¸ÂÀ Põmh¨£mi¸¨£x J¸ •øÚ°À öÁ¨£©õUP¨£mh E÷»õPz xsöhõßÔß ÁÈ÷¯ öÁ¨£® £¯oUS® •øÓ¯õS®.
+
+C¯[S® _¯õwÚ C»zvµßPÒ
+
+Av¸® AqUPÒ
+
+E÷»õPU ÷PõÀ
+
+ABöÁ¨£®
+
+E¸ 9.23 J¸ •øÚ°À öÁ¨£©õUPÂmh E÷»õPz xsk JßÖ
+
+Cuß ÷£õx _Áõø»°ÚõÀ QøhUS® öÁ¨£ \Uv Põµn©õP A® •øÚ°À EÒÍ AqUPÒ AvP Ãa\zxhß Avµz öuõh[S®. Cx uÂµ A®•øÚ°À GÊ©õØÓõP Avº¢x öPõsi¸US® _¯õwÚ C»zvµßPÎß C¯UP \Uv AvP›US®.
+
+AvºÄ Ãa\® AvP›US® PõµnzuõÀ AÆÁqUPÒ A¸QÀ EÒÍ AqUPÐhß ÷©õx®. C® ÷©õxuÀ Põµn©õP J¸ AqÂ¼¸¢x ©ØøÓ¯ AqÄUS \Uv Ch®©õØÓ¨£k®. Cuß÷£õx AÆÁqÂß AvºÄ Ãa\•® AvP›US® Ca ö\¯Ø£õk E÷»õPz xsiß ÁÈ÷¯ A C¼¸¢x B Áøµ |øhö£ØÖ E÷»õPz xsiß ÁÈ÷¯ öÁ¨£ \Uv £õ²®. GÊ¢u©õÚuõP Aø\²® C»zvµßPÎß Aø\Ä Põµn©õPÄ®, _Áõø»°ÚõÀ Qøhzu öÁ¨£® Põµn©õPÄ® E÷»õPz xsiß ÁÈ÷¯ öÁ¨£ \Uv £õ²®.
+
+CÆÁõÖ J¸ vs©zvÞhõPz xoUøP°¼¸¢x xoUøPø¯ öÁ¨£ ©õUQU öPõsk öÁ¨£® •ß÷ÚõUQa ö\À»À PhzuÀ GÚ¨£k®.
+
+Phzu¼ß ‰»® öÁ¨£® Ch©õÖ® \¢uº¨£[PÐUSa ]» Euõµn[PÒ R÷Ç uµ¨£mkÒÍÚ.
+
+27C»Á\¨ £õh¡À
+
+²²J¸ _Áõø»°À ¤izu Kº E÷»õPU ÷PõÀ ÁÈ÷¯ öÁ¨£® £õ´uÀ
+
+²²Kº Ak¨¤ß «x øÁUP¨£mkÒÍ J¸ £õzvµzvß RÌ¨ £UPzv¼¸¢x Em£UPzvØS öÁ¨£® £õ´uÀ
+
+²²J¸ öÁ¨£©õÚ ÷u}ºU QsnzvÀ Ch¨£mh E÷»õPU Pµsi ÁÈ÷¯ öÁ¨£® ö\À»À
+
+ö\ÆÂ¯ öÁ¨£U PhzvPÐ® A›vÀ öÁ¨£U PhzvPÐ®
+
+öÁ¨£zøu |ßÓõPU Phzx® ö£õ¸ÒPÒ ö\ÆÂ¯ öÁ¨£U PhzvPÒ GÚÄ® öÁ¨£zøu |ßÓõPU Phzuõu ö£õ¸ÒPøÍ A›vÀ öÁ¨£U PhzvPÒ GÚÄ® AøÇUP¨£k®.
+
+Euõµn[PÒ :
+
+ö\ÆÂ¯ öÁ¨£U PhzvPÒ & öÁÒÎ, ö\®¦, C¸®¦, Cµ\®, A¾ªÛ¯®
+
+A›vÀ öÁ¨£U PhzvPÒ & ©µ®, ¤ÍõzvUS, PßÚõº, PÎ©s, |ß©s
+
+E÷»õP[PÎÀ GÊ©õØÓõP Aø\²® C»zvµßPÒ Põn¨£kÁuÚõÀ AøÁ ö\ÆÂ¯ PhzvPÒ BS®.
+
+9.5.2 àì¡è£¾¬è (Convection)
+
+vµÁ® AÀ»x Áõ²US öÁ¨£zøu ÁÇ[S®÷£õx AøÁ Â›ÁøhÁuÚõÀ Ahºzv SøÓ¢x ÷©À ÷|õUQ ö\ÀÁxhß AÆÂhzøu {µ¨¦ÁuØPõP öÁ¨£{ø» SøÓ¢u vµÁ® AÀ»x Áõ² RÌ ÷|õUQa ö\À¾®. Ca ö\¯Ø£õmiß ‰»® öÁ¨£® ÁÇ[P¨£k® Chzv¼¸¢x öÁ¨£® ÷©À ÷|õUQa ö\À¾®. Cx EhßPõÄøP (convection) GÚ¨£k®.
+
+E¸ 9.24
+
+J¸ ©µzvØSU R÷Ç w¨¤Ç®¦ _Áõø»ø¯a _ØÔ²ÒÍ ÁÎz xoUøPPÒ öÁ¨£©õQ ÷©÷» ö\ÀQßÓø©¯õÀ Kø»PÒ Aø\Áxhß AøÁ P¸SQßÓÚ.
+
+öÁ¨£©õQ ÷©÷» ö\À¾® xoUøP Kmh® Ehß PõÄøP Kmh® GÚ¨£k®.
+
+}øµ öÁ¨£©õUSÁuØS AªÌ¨¦ öÁ¨£©õUQ £¯ß £kzu¨£k® ÂuzøuU Põmk® ¤ßÁ¸® Á›¨£hzøu¨ £õºUP.
+
+28C»Á\¨ £õh¡À
+
+E¸ 1 E¸ 2
+
+E¸ 1 CÀ AªÌ¨¦ öÁ¨£©õUQ }›À KµÍÄUS AªÌzu¨£mkÒÍx. A¨÷£õx £õzvµzvß RÌ¨ £Sv°À }º ö©xÁõP öÁ¨£©õQßÓx. GÛÝ® ÷©Ø£Sv°À }º ÂøµÁõP öÁ¨£©õQßÓx. EhßPõÄøP Kmh[PÒ R÷Ç ö\À»õø©¯õÀ C¢{ø»ø© HØ£kQßÓx.
+
+E¸ 2 CÀ AªÌ¨¦ öÁ¨£©õUQ £õzvµzvß Ai°À AªÌzu¨£mkÒÍx. A¨÷£õx R÷Ç°¸¢x ÷©÷» }º öÁ¨£©õuÀ |øhö£ÖQßÓx. öÁ¨£©õQ¯ }ºz xoUøPPÒ C÷»\õQ ÷©÷» ö\À¾®÷£õx öÁ¨£©õPõu }ºz xoUøP-PÎß Ahºzv Ti¯uõøP¯õÀ R÷Ç Á¸QßÓÚ. AøÁ²® öÁ¨£©õS®÷£õx ÷©÷» ö\ÀQßÓÚ. Caö\¯ß•øÓ öuõhºa]¯õP |øhö£Ö® A÷u÷ÁøÍ CuÚõÀ £õzvµzvÀ EÒÍ }º •ØÓõP öÁ¨£©õQßÓx.
+
+èìŸ è£ŸÁ‹ î¬ó‚ è£ŸÁ‹ à¼õ£°‹ Mî‹
+
+Ph¼ØS Asø©°À SÎºa]¯õÚ ÁÎ uøµø¯ ÷|õUQa ö\À»À
+
+PhÀuøµ
+
+uøµUS Asø©°À ÁÎ öÁ¨£©õQ ÷©÷» ö\À»À
+
+£PØ Põ»®
+
+PhØ PõØÖ
+
+PhÀ }›ß ußöÁ¨£U öPõÒÍÍ Â¾® £õºUPz uøµ°ß ußöÁ¨£U öPõÒÍÍÄ SøÓÁõS®. CuÚõÀ £P¼À `›¯ öÁ¨£zvÚõÀ PhÀ }›¾® £õºUP ÂøµÁõPz uøµ öÁ¨£©õQßÓx. A¨÷£õx uøµUS Asø©°À EÒÍ ÁÎ öÁ¨£©õQ, Ahºzv SøÓ¢x ÷©÷» ö\ÀQßÓx. CuÚõÀ uøµUS Asø©°À A•UP® SøÓQßÓx. A¨÷£õx Ph¼¼¸¢x uøµø¯ ÷|õUQ ÁÎ÷¯õmh® {PÌQßÓx. Cx PhØ PõØÖ GÚ¨£k®.
+
+29C»Á\¨ £õh¡À
+
+Ph¼ØS Asø©°À ÁÎ öÁ¨£©õQ ÷©÷» ö\À»À
+
+uøµUS Asø©°À SÎºa]¯õÚ ÁÎ uøµø¯ ÷|õUQa ö\À»À
+
+PhÀuøµ
+
+CµõU Põ»®
+
+uøµU PõØÖ
+
+CµõUPõ»zvÀ uøµ, PhÀ BQ¯ Cµsk® SÎºa]¯õQßÓÚ. C[S PhÀ ö©xÁõPU SÎºa]¯øh²® A÷u÷ÁøÍ uøµ ÂøµÁõPU SÎºa]¯øhQßÓx. PhÀ }¸US Asø©°À C¸US® ÁÎ CÍg `hõS® A÷u÷ÁøÍ ÷©÷» C¸US® ÁÎ SÎºa]¯õÚx. CuÚõÀ PhÀ }¸US Asø©°À C¸US® ÁÎ ÷©÷» ö\À¾®. A¨÷£õx Ph¼ØS Asø©°À EÒÍ uõÌ A•UPzøu {µ¨¦ÁuØSz uøµ°¼¸¢x Phø» ÷|õUQU PõØÖ Ã_QßÓx. Cx uøµU PõØÖ GÚ¨£k®.
+
+]¢vzx¨ £õºUP
+
+öÁ¨£©õUQ¯ ÷u}ºU Qsnzøu Fx®÷£õx Ax G[VÚ® SÎºa]¯øh-QßÓx?
+
+9.5.3 ªõŠð‚ èF˜Š¹ (Heat Radiation)
+
+J¸ w¨ ¤Ç®¤ØS Asø©°À ö\À ¾®÷£õx Phzu¼ß ‰»® AÀ»x EhßPõÄøP°ß ‰»® öÁ¨£ Ch ©õØÓ® HØ£kÁvÀø» Gß£øu }[PÒ ÂÍ[QU öPõÒÍ»õ®. C[S öÁ¨£® ÷ÁöÓõ¸ •øÓ°À ö\ß Ô¸UP ÷Ásk®. wa _Áõø»°¼¸¢x öÁÎ°ÞhõPU PvºPÍõP (Aø»PÒ ÷£õßÖ) öÁ¨£® ö\ÀÁuÚõÀ, AU PvºPÒ Eh¾hß ÷©õx®÷£õx AøÁ APzxÔg\¨£mk CÍg `møh EnºQß÷Óõ®.
+
+CuØ÷PØ£ öÁ¨£©õQ¯ J¸ ö£õ¸Î¼¸¢x \h¨ö£õ¸Îß Cøh³ÔßÔ ªßPõ¢u Aø»PÍõP öÁ¨£® ö\À»À öÁ¨£U Pvº¨¦ (heat radiation) BS®.
+
+²²`›¯Û¼¸¢x ¦ÂUSÒÍ HÓzuõÇ 150 ªÀ¼¯ß Q÷»õ«ØÓµõÚ öÁØÔhz-vÞhõP öÁ¨£® Pvº¨¤ß ‰»® £¯oUQßÓx.
+
+²²öÁ¨£©õQ¯ ö£õ¸ÒPÎ¼¸¢x Pvº¨¤ß ‰»® öÁ¨£® öÁÎ÷¯Ö QßÓx.
+
+30C»Á\¨ £õh¡À
+
+ èF˜Š¹ ªõŠð àP…ê½‹ ªîPŠ¹‹
+
+Pvº¨¦ öÁ¨£® J¸ ö£õ¸Îß «x £k®÷£õx Av¼¸¢x J¸ £Sv APzx-Ôg\¨£k® A÷u ÷ÁøÍ J¸£Sv öuÔUQßÓx. ÷©Ø£µ¨¤ß Pµkø©, J¨£©õÚÂ¯À¦, ÷©Ø£µ¨¤ß {Ózvß P¸ø©, x»UP® BQ¯Ú Pvº¨¦ öÁ¨£® APzxÔg\¨£k® AÍÄ® öuÔUS® AÍÄ® \õº¢v¸US® PõµoPÍõS®.
+
+ èF˜Š¹ ªõŠð Üèˆ¶P…ê™
+
+²²P¸ø© ÷©Ø£µ¨¤ÚõÀ Pvº¨¦ öÁ¨£® AvP AÍÂÀ APzxÔg\¨ £kQßÓx.
+
+²²PµhõÚ ÷©Ø£µ¨¤ÚõÀ Pvº¨¦ öÁ¨£® AvP AÍÂÀ APzxÔg\¨ £kQßÓx.
+
+²²öÁsø© {Ó•ÒÍ ÷©Ø£µ¨¤ß ‰»® Pvº¨¦ öÁ¨£® öuÔ¨¦ AvP©õS®.
+
+²²ªÝUP©õÚ ÷©Ø£µ¨¤ß ‰»® Pvº¨¦ öÁ¨£® AvPÍÂÀ öuÔ¨£øh²®.
+
+²²P¸ø©¯õÚ ÷©Ø£µ¨¤À öÁ¨£® •ØÓõP APzxÔg\¨£kÁuÚõÀ öuÔ¨¦ {PÇõx. ö\¯Ø£õk 9.6P¸ø©{Ó ÷©Ø£µ¨¦, öÁsoÓ ÷©Ø£µ¨¦, ªÝUP©õÚ ÷©Ø£µ¨¦ BQ¯ÁØÔÀ GÁØÔß ‰»©õP Pvº¨¦ öÁ¨£® AvPÍÂÀ APzxÔg\¨ £kQßÓx Gß£øu AÔÁuØS J¸ £›÷\õuøÚø¯z vmhªkP. QøhUS® AÁuõÛ¨¦PøÍ Ai¨£øh¯õ´U öPõsk ÁµzuUP •i¦PøÍ GÊxP.
+
+ èF˜Š¹ ªõŠð‹ ðŸP‚ èõQ‚è «õ‡®ò ê‰î˜Šðƒèœ
+
+²²QÔUöPØÖ ÂøÍ¯õmk ÃµºPÒ £P¼À `›¯ JÎ C¸US®÷£õx öÁsoÓ BøhPøÍ AoÁuÚõÀ Pvº¨¦ öÁ¨£® AvP AÍÂÀ öuÔ¨£øh²®. CuÚõÀ EhÀ `hõÁx Pmk¨£kzu¨£k®.
+
+²²SÎº |õkPÎÀ ©ÛuºPÒ ÃkPÎÀ C¸sh {Ó•ÒÍ EøhPøÍ AoÁuß ‰»® Pvº¨¦ öÁ¨£® EÔg\¨£kuÀ Tku»õS®. BP÷Á EhÀ öÁ¨£zøua ^µõP¨ ÷£n»õ®.
+
+²²Ak¨¦ «x øÁUS® EnÄ \ø©US® £õzvµ[PÒ P¸ø© {Ó©õÁuõÀ Pvº¨¦ öÁ¨£zøuU Tku»õP APzxÔg_ÁuÚõÀ £õzvµ[PÒ ÂøµÁõP öÁ¨£©øhQßÓÚ.
+
+²²öÁ¢}º¨ ÷£õzu¼ß Em¦Ó ÷©Ø£µ¨¦ ªÝUP©õP Aø©UP¨£mi¸US® ÷£õx Pvº¨¦ öÁ¨£zøuz v¸®£z öuÔUPa ö\´ÁuÚõÀ }›ß CÍg`hõÚ C¯À¦ ÷£n¨£kQßÓx.
+
+31C»Á\¨ £õh¡À
+
+²²öÁ¨£{ø» Gß£x J¸ ö£õ¸øÍ BUQ²ÒÍ xoUøPPÎß C¯UPa \Uv öuõhº£õÚ AÍÃhõS®.
+
+²²öÁ¨£{ø»ø¯ AÍUS® E£Pµn® öÁ¨£©õÛ¯õS®.
+
+²²öÁ¨£{ø» AÍUP¨£k® A»SPÒ £õøP ö\À]¯ì (ºC), £õøP £µøÚØÖ (ºF), ©ØÖ® öPÀÂß (K) BS®.
+
+²²öÁ¨£{ø» AÍUP¨£k® \ºÁ÷u\ A»S öPÀÂß (K) BS®.
+
+²²öÁ¨£® Gß£x GøÁ÷¯Ý® C¸ ö£õ¸ÒPÐUQøh÷¯ EÒÍ öÁ¨£{ø» ÷ÁÖ£õk Põµn©õP J¸ ö£õ¸Î¼¸¢x ©ØøÓ¯ ö£õ¸ÐU-Sa \Uv Ch©õØÓ¨£k® ö\¯ß•øÓ¯õS®.
+
+²²öÁ¨£® J¸ SÔzu ChzvÀ APzxÔg\¨£mhõÀ Aa\h¨ö£õ¸ÎÀ J¸ {ø» ©õØÓ•® HØ£hõÂhzx AÆÂhzvÀ öÁ¨£{ø» E¯ºÁõP C¸US®.
+
+²²Kº Chzv¼¸¢x öÁ¨£® ÂkÂUP¨£mhõÀ \h¨ö£õ¸Îß J¸ {ø» ©õØÓ•® HØ£hõÂmhõÀ AÆÂhzvÀ öÁ¨£{ø» Pmhõ¯® SøÓÁõP C¸US®.
+
+²²öÁ¨£U öPõÒÍÍÄ (c) Gß£x J¸ SÔzu ö£õ¸Îß öÁ¨£{ø»ø¯ Kµ»QÚõÀ E¯ºzuz ÷uøÁ¯õÚ öÁ¨£zvß AÍÁõS®.
+
+²²öÁ¨£U öPõÒÍÍÄ A»SPÒ J K-1 AÀ»x J ºC-1 BS®.
+
+²²ußöÁ¨£U öPõÒÍÍÄ (C) Gß£x J¸ SÔzu ö£õ¸Îß Kµ»Sz voÂß öÁ¨£{ø»ø¯ Kµ»QÚõÀ E¯ºzxÁuØS ÁÇ[P ÷Ási¯ AÀ»x Kµ»QÚõÀ SøÓ¨£uØS APØÓ ÷Ási¯ öÁ¨£zvß AÍÁõS®.
+
+²²ußöÁ¨£U öPõÒÍÍÄ A»SPÒ J kg-1 K-1 AÀ»x J kg-1 OC-1 BS®.
+
+²²öÁ¨£U öPõÒÍÍÄ (C) = mc
+
+²²öÁ¨£zvß AÍÄ (Q) = mcθ
+
+²²©øÓöÁ¨£® GÚ¨£kÁx ¯õuõ°Ý® J¸ £uõºzuzvÀ {ø»©õØÓ® JßÖ |øhö£Ö® ÷£õx öÁ¨£{ø»©õØÓ©øh¯õx APzxÔg\¨£k® AÀ»x öÁÎÂh¨£k® öÁ¨£zvß AÍÁõS®.
+
+²²E¸S {ø»°À EÒÍ vs©¨ £uõºzu® JßÖ A÷u öÁ¨£{ø»°À vµÁ©õP ©õÖuÀ E¸PÀ GÚ¨£k®.
+
+ö£õÈ¨¦
+
+32C»Á\¨ £õh¡À
+
+²²E¸S {ø» Gß£x vs©® vµÁ©õP ©õÖ® SÔzu öÁ¨£{ø» BS®.
+
+²²öPõv{ø» Gß£x vÁµ® Áõ²ÁõP ©õÖ® SÔzu öÁ¨£{ø» BS®.
+
+²²E¸P¼ß uß ©øÓ öÁ¨£® Gß£x E¸S{ø»°À EÒÍ vs©¨ £uõºzuö©õßÔß A»Sz voøÁ A÷u öÁ¨£{ø»°À EÒÍ vµÁ©õP ©õØÖÁuØSz ÷uøÁ¯õÚ öÁ¨£zvß AÍÄ BS®.
+
+²²BÂ¯õu¼ß uß ©øÓ öÁ¨£® GÚ¨£kÁx öPõv{ø»°À EÒÍ vµÁö©õßÔß A»SzvoøÁ A÷u öÁ¨£ {ø»°À Áõ²ÁõP ©õØÖÁuØSz ÷uøÁ¯õÚ öÁ¨£zvß AÍÁõS®.
+
+²²uß©øÓ öÁ¨£zvß A»S J kg-1 BS®.
+
+²²¯õuõ°Ý® J¸ £uõºzuzøu öÁ¨£÷©ØÖ® ÷£õx Auß }Í®, £µ¨¦ AÀ»x PÚÁÍÂÀ HØ£k® AvP›¨¦ Â›Ä GÚ¨£k®.
+
+²²öÁ¨£ Ch©õØÓ® GÚ¨£kÁx öÁ¨£{ø» Ti¯ Chzv¼¸¢x öÁ¨£{ø» SøÓ¢u Chzøu ÷|õUQ¯ öÁ¨£¨ £õ´a\»õS®.
+
+²²öÁ¨£ Ch©õØÓ® PhzuÀ, EhßPõÄøP, Pvº¨¦ BQ¯ ‰ßÖ •øÓPÒ ‰»® |øhö£Ö®.
+
+²²Pvº¨¦ GÚ¨£kÁx öÁ¨£©øh¢u £uõºzuö©õßÔ¼¸¢x £uõºzu FhPªßÔ ªßPõ¢u Aø»PÍõP öÁ¨£® ö\À¾u»õS®.
+
+£°Ø] 9.3
+
+1. ¤ßÁ¸® ÁõUQ¯[PÎÀ EÒÍ öÁØÔh[PøÍ {µ¨¦P.
+
+(i) öÁ¨£{ø» AÍUP¨£k® \ºÁ÷u\ A»S ....... BP C¸US® A÷u ÷ÁøÍ öÁ¨£zvß AÍÄ AÍUP¨£k® \ºÁ÷u\ A»S .......... BS®.
+
+(ii) uÛ §a]¯® ............ ö\À]¯ì CØSa \©®.
+
+(iii) ©øÓ öÁ¨£zøu¨ ö£Ö®÷£õx .................. ©õØÓ©øh¯õx BÚõÀ .................. HØ£k®.
+
+(iv) FhPzvß ö\ÀÁõUS CÀ»õ©À öÁ¨£® ö\À¾® •øÓ ........... BS®.
+
+(v) ußöÁ¨£UöPõÒÍÍÄ SøÓ¢u ö£õ¸ÎÀ öÁ¨£{ø» AvP›¨¦ BS®. A÷u÷ÁøÍ ußöÁ¨£UöPõÒÍÍÄ Ti¯ ö£õ¸ÎÀ öÁ¨£{ø» AvP›¨¦ .................... BS®.
+
+33C»Á\¨ £õh¡À
+
+2. ÷ÁÖ£mh vµÂ¯[PÎÚõ»õÚ C¸ Qsn[PÎÀ CÍg`hõÚ ÷u}º {µ¨£¨£mk, SÎºa]¯øh¯ øÁUP¨£mkÒÍx. Qsn[PÎß öÁ¨£ {ø»PøÍ {a\¯©õÚ ÷|µ B°øhPÎÀ AÍ¢x SÔzx Áøµ¯¨£mh SÎµÀ ÁøÍ°PÒ R÷Ç Põmh¨£mkÒÍÚ.
+
+÷|µ® (min)
+
+A Qsn®B Qsn®AøÓ öÁ¨£{ø»
+
+öÁ¨£{ø» (oC)
+
+0102030405060708090100
+
+5101520
+
+(i) 5 {ªh[PÐUS¨ ¤ßÚº Qsn® A °À EÒÍ ÷u}›ß öÁ¨£{ø» ¯õx?
+
+(ii) Qsn® B °À EÒÍ ÷u}›ß öÁ¨£{ø» 30º ÁøµUS® SøÓÁuØS GkUS® ÷|µ® ¯õx?
+
+(iii) 15 {ªh[PÐUS¨ ¤ßÚº C¸ Qsn[PÎ¾® EÒÍ ÷u}›ß öÁ¨£{ø» Âzv¯õ\® ¯õx?
+
+(iv) G¢uU Qsn® ªPÄ® Av›Ø Phzx® vµÂ¯zvÚõÀ EØ£zv ö\´¯¨£mkÒÍx?
+
+(v) E[PÐøh¯ ÷©ØSÔzu ÂøhUSU Põµn® ¯õx?
+
+(vi) C¸ Qsn[PÎ¾® EÒÍ ÷u}›ß CÖv öÁ¨£{ø» ¯õx?
+
+3. J¸ öÁ¨£U SkøÁ°ß EÒÍø©¨¦ E¸ÂÀ Põn¨£kQßÓx.
+
+‰i
+
+öÁÒÎ {Ó•ÒÍ _ÁºCÍg`hõÚ }ºöÁØÔh®
+
+öÁÎ¨£õzvµ®
+
+34C»Á\¨ £õh¡À
+
+(i) öÁ¨£U SkøÁ £¯ß£kzu¨£hzuUP JßÔ¼¸¢öuõßÖ ÷ÁÖ£mh C¸ \¢uº¨£[PÒ EÒÍÚ. AøÁ ¯õøÁ?
+
+(ii) SkøÁ°À 100 ºC öÁ¨£{ø»°À EÒÍ 500 ml }º Ch¨£mkÒÍx. }øµ A÷u öÁ¨£{ø»°À ÷£qÁuØS öÁ¨£ CÇ¨ø£z uÂºUP ÷Ásk®. AuØPõP C[S £¯ß£kzu¨£mkÒÍ EzvPÒ ¯õøÁ?
+
+(iii) 100 ºC öÁ¨£{ø»°À EÒÍ 500 ml }øµ AøÓ öÁ¨£{ø»US (25 ºC) ©õØÖ® ÷£õx CÇUP¨£k® öÁ¨£zvß AÍøÁU PoUP. (}›ß ußöÁ¨£U öPõÒÍÍÄ 4 200 J kg-1 oC-1)
+
+(iv) CÍg`hõÚ }º Ch¨£mi¸¢u ÷£õzu¼À EÒÍ }øµ APØÔ AvÀ J÷µ uhøÁ SÎº }øµ CkuÀ EP¢uußÖ. CuØS›¯ Põµn® ¯õx?
+
+4. J¸ ö©ÊSz xsk AøÓ öÁ¨£{ø»°À EÒÍx. AuøÚ öÁ¨£©õUS® ÷£õx öÁ¨£{ø» ©õÔ¯ Âuzøu ÷|µzxhß Áøµ¦¨£kzx® ÷£õx ¤ßÁ¸©õÖ Áøµ¦ QøhzxÒÍx. CÆÁøµ¦U÷PØ£U ÷PmP¨£mkÒÍ ÂÚõUPÐUS Âøh u¸P.
+
+÷|µ® (min)
+
+öÁ¨£{ø» (oC)
+
+70
+
+55
+
+25
+
+1234
+
+(a) AøÓ öÁ¨£{ø»°ß ö£Ö©õÚ® ¯õx?
+
+(b) ö©ÊQß E¸S{ø» ¯õx?
+
+(c) ö©ÊS öÁ¨£©õUP¨£h Bµ®¤zx GÆÁÍÄ ÷|µzvØS¨ ¤ßÚº E¸Pz öuõh[Q¯x?
+
+(d) 2 min öuõhUP® 3 min Áøµ¯õÚ ÷|µzvÀ öÁ¨£{ø» ©õÓõ©À C¸¨£uØSU Põµn® ¯õx?
+
+35C»Á\¨ £õh¡À
+
+(e) 4 min CÀ ö©ÊøP öÁ¨£©õUSÁøu {ÖzvÚõÀ, ö©ÊQß öÁ¨£{ø» ©õÖ® ÂuzøuU PõmkÁuØS J¸ £¸®£i Áøµø£ ÁøµP.
+
+5.
+
+(a) 100 oC öÁ¨£{ø»°À EÒÍ 10 g }øµ 25 oC ÁøµUS® SÎºzx® ÷£õx öÁÎ÷¯Ö® öÁ¨£zøuU PõsP.
+
+(b) 100 oC CÀ öPõvUS® }›ß ‰»® _h¨£kÁv¾® £õºUP 100 oC CÀ EÒÍ öPõv }µõÂ°ÚõÀ _h¨£kuÀ ªPÄ® B£zuõÚx. CuøÚ ÂÍUSP.
+
+öÁ¨£{ø» & TemperaturePsnõi²Ò Cµ\ öÁ¨£©õÛ & Glass - mercury ThemometerPsnõi²Ò AØP÷PõÀ öÁ¨£©õÛ & Glass - Alcohol ThemometeröÁ¨£UöPõÒÍÍÄ & Heat CapacityußöÁ¨£UöPõÒÍÍÄ & Specifics Heat CapacityE¸S{ø» - Melting pointöPõv{ø» - Boiling pointEøÓ{ø» - Freezing point©øÓ öÁ¨£® - Latent heatE¸P¼ß uß ©øÓöÁ¨£® - Latent heat of FusionBÂ¯õUP¼ß uß ©øÓöÁ¨£® - Latent heat of VaporisationöPõvzx BÂ¯õuÀ - VaporisationBÂ¯õuÀ - EvaporationöÁ¨£Â›Ä - Thermal Expansion
+
+Pø»a ö\õØöÓõSv
