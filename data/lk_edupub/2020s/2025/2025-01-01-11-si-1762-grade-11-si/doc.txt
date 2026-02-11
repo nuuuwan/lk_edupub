@@ -1,0 +1,3799 @@
+==== BLOCKS ==== 
+
+Prapa Sangthongsuk
+
+Takashi Miura
+
+Yasujiro Takei
+
+Naoko Takatsuka
+
+Jun Arai
+
+Dilrukshi Rathnayake
+
+Naho Komatsubara
+
+Grade 11
+
+First Print - 2016Second Print - 2017Third Print - 2019
+
+All Rights Reserved.
+
+ISBN 978-955-25-0430-3
+
+Published by Educational Publications Department
+
+Printed by Sisara Printway (Pvt) Ltd.
+
+No. 110, Pagoda Road,
+
+Pitakotte.
+
+The National Anthem of Sri Lanka
+
+Sri Lanka Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha
+
+Sundara siri barinee, surendi athi sobamana Lanka
+
+Dhanya dhanaya neka mal palaturu piri jaya bhoomiya ramya
+
+Apa hata sepa siri setha sadana jeewanaye matha
+
+Piliganu mena apa bhakthi pooja Namo Namo Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha
+
+Oba we apa vidya
+
+Obamaya apa sathya
+
+Oba we apa shakthi
+
+Apa hada thula bhakthi
+
+Oba apa aloke
+
+Apage anuprane
+
+Oba apa jeevana we
+
+Apa mukthiya oba we
+
+Nava jeevana demine, nithina apa pubudukaran matha
+
+Gnana veerya vadawamina regena yanu mana jaya bhoomi kara
+
+Eka mavakage daru kela bevina
+
+Yamu yamu vee nopama
+
+Prema vada sema bheda durerada
+
+Namo, Namo Matha
+
+Apa Sri Lanka Namo Namo Namo Namo Matha
+
+1
+
+Foreword
+
+The educational objectives of the contemporary world are becoming more complex along with the economic, social, cultural and technological development. The learning and teaching process too is changing in
+
+and new indices. Therefore, it is required to produce the textbook by including subject related information according to the objectives in the syllabus in order to maintain the teaching process by organizing learning experiences that suit to the learner needs. The textbook is not merely a learning tool for the learner. It is a blessing that contributes to obtain a higher education along with a development of conduct and attitudes, to develop values and to obtain learning experiences.
+
+The government in its realization of the concept of free education has
+
+you that you should make the maximum use of these textbooks and protect them well. I sincerely hope that this textbook would assist you to obtain the expertise to become a virtuous citizen with a complete personality who would be a valuable asset to the country.
+
+I would like to bestow my sincere thanks on the members of the editorial
+
+W. M. Jayantha Wickramanayaka,Commissioner General of Educational Publications,Educational Publications Department,Isurupaya,Battaramulla.2019.04.10
+
+This text has organized to train the students for general conversations after
+
+learning simple grammar lessons.
+
+In the learning and teaching process, most of text books should start from the beginning and gradually getting advance and if you missed a part it is
+
+difficult to continue to the next lesson or level.
+
+But the lessons in this text are completely different from each other and
+
+therefore students have a chance to study each lesson with a new start and
+
+no need to worry about the previous ones. This text has divided as part I and part II. The partis doing in grade 10
+
+and part is for grade 11. A girl named Koharu, her school friends and her
+
+school activities have become the source of the text. Each text is included subtitles as
+
+. At the beginning of the text,
+
+it makes students to compare the Japanese grammar patterns with their
+
+mother language. At the end of the lesson students are able to do a self-estimation on what they have learnt.
+
+This is a text recommended in Thai students who are learning Japanese as
+
+an optional subject. We have edited Tai version of this text book according to
+
+the ordinary level syllabus of Sri Lanka. The type of this text is something different from former texts and we think that the text
+
+will be something new and interesting.
+
+Arai Jun
+
+Dilrukshi Rathnayake
+
+Komatsubara Naho
+
+Thai version editor board
+
+Prapa Sangthongsk
+
+Takashi Miura
+
+Yasujiro Takei
+
+Naoko Takatsuka
+
+©2015 The Japan Foundation,Bangkok
+
+Edited according to the G.C.E (O/L) syllabus Jun Arai – Japanese Language Specialist, Japan Foundation, Lecturer- University of Kelaniya. Dilrukshi Rathnayake - Senior Lecturer, University of Kelaniya. Naho Komatsubara - Japanese Language Specialist, Japan Foundation,
+
+Lecturer- University of Kelaniya.
+
+Assistant Translators Dilshani Jayathilaka - Assistant Lecturer, University of Kelaniya.
+
+Wathsala De Silva - Teacher, Girls’high school, Mt. Lavinia.
+
+Dilani Rathnayaka - Teacher, Sirimavo Bandaranayaka Vidyalaya, Colombo 07.
+
+Nimesha Dayarathna - Assistant Lecturer, University of Kelaniya.
+
+Dulani Balasuriya - Assistant Lecturer, University of Kelaniya.
+
+Danushi Udeshika - Assistant Lecturer, University of Kelaniya.
+
+Agra Illukpitiya - Assistant Lecturer, University of Kelaniya. (Sinhala & English Editor)
+
+Udani Balasooriya - Assistant Lecturer, University of Kelaniya. (English Translator) Sugitha Srikantharajah - Assistant Lecturer, University of Kelaniya. (Tamil Translator)
+
+W. M. Jayantha Wickramanayaka Commissioner General of Educational Publications.
+
+Madhubhashini Deldeniya, National Institute of Education, Maharagama.
+
+Asitha Liyanage, University of Kelaniya.
+
+Dilshani Jayathilake
+
+Supervision
+
+Co-Ordination
+
+Art editor
+
+wms fjuq tl ujlf. orefjdatl ksjfiys fjfikdtl mdge;s tl reêrh fõwm lh ;=< ÿjkd
+
+tneúks wms fjuq fidhqre fidhqßfhdatl f,i tys jefvkdÔj;a jk wm fuu ksjfiafid¢k isáh hq;= fõ
+
+ieug u fu;a lreKd .=fKkSfj<S iu.s oñkSrka ñKs uq;= fkd j th u h iem;dlsis l, fkdu Èrkd
+
+wdkkao iurfldaka
+
+J¸ uõ´ ©UPÒ |õ©õ÷Áõ®Jß÷Ó |õ® ÁõÊ® CÀ»®|ß÷Ó Eh¼À Kk®Jß÷Ó |® S¸v {Ó®
+
+AuÚõÀ \÷Põuµº |õ©õ÷Áõ®JßÓõ´ ÁõÊ® ÁÍ¸® |õ®|ßÓõ´ CÆ CÀ¼Û÷» |»÷© ÁõÌuÀ ÷Ásk©ß÷Óõ
+
+¯õÁ¸® Aß¦ P¸øn²hß JØÖø© ]ÓUP ÁõÌ¢vkuÀ ö£õßÝ® ©o²® •zx©À» & Ax÷Á ¯õßÖ ©È¯õa ö\ÀÁ©ß÷Óõ.
+
+BÚ¢u \©µU÷PõßPÂøu°ß ö£¯º¨¦.
+
+1
+
+   あいさつ        &'
+
+おはようございます。
+
+こんばんは。
+
+またあした。
+
+さようなら。
+
+こんにちは。
+
+すみません。 いいえ。
+
+ありがとうございます。
+
+どういたしまして。 
+
+2
+
+きょうしつのことば     &'
+
+
+
+
+
+
+
+たって ください。 すわって ください。
+
+いって ください。 よんで ください。 かいて ください。
+
+
+
+
+
+
+
+
+
+      
+
+きいて ください。 みて ください。
+
+きりつ。
+
+れい。
+
+ちゃくせき。
+
+3
+
+がくせい しょうかい
+
+こはる
+
+カスン
+
+セヌディ
+
+ニシャー
+
+わたしの なまえは こはるです。 わたしは にほんの とうきょうから きました。 スリランカの ともだちから いろいろな ことを べんきょうしたいです。
+
+わたしは カスンです。 こはると いっしょに にほんごで はなすのが とてもおもしろいです。
+
+わたしの なまえは セヌディです。 こはるは わたしの いえに すんでいます。 こはると いっしょに いる じかんは とても たのしいです。
+
+わたしは ニシャーです。 わたしは １４さいです。 こはると いっしょに おなじ クラスで べんきょうしています。
+
+4
+
+イスル
+
+ふゆみ ゆか
+
+たくや
+
+わたしの なまえは イスルです。 わたしたちの クラスに にほんじんの ともだちが ４にんいます。 みんなと いっしょに にほんごで はなす ことは たのしいです。
+
+わたしは ふゆみです。 とうきょうから スリランカに きました。 がいこくの がっこうで べんきょうするのは はじめてです。 とても おもしろい けいけんです。
+
+わたしは ゆかです。 わたしは にほんの ひろしまから こはると いっしょに スリランカへ きました。 わたしは １５さいです。 スリランカは とてもきれいです。
+
+わたしは たくやです。 わたしは にほんの なごやから きました。 スリランカの ともだちは とても しんせつです。
+
+5
+
+Unit 29 サッカーが 好きです。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+こはる &DQGR
+
+好きな スポーツについて はなすことが できます。
+
+ ともだちと はなしましょう。
+
+スポーツ
+
+6
+
+CD-3
+
+7
+
+CD-4
+
+CD-5
+
+8
+
+CD
+
+CD-6
+
+CD-7
+
+9
+
+10
+
+CD-8
+
+CD-9
+
+11
+
+12
+
+13
+
+Unit 29 サッカーが 好きです。
+
+２9 課
+
+好き
+
+よみかた：す・き
+
+いみ：Like かきじゅん：
+
+掘 串櫛釧屑屈掘
+
+れんしゅう
+
+好き
+
+14
+
+15
+
+CD-10
+
+16
+
+CD-11
+
+CD-12
+
+17
+
+CD-13
+
+CD-14
+
+18
+
+CD-15
+
+CD-16
+
+19
+
+20
+
+CD-17
+
+21
+
+22
+
+CD-18
+
+Thank you
+
+23
+
+24
+
+30 課
+
+日本
+
+よみかた：にほん いみ：Japan かきじゅん
+
+隔 較郭閣隔
+
+釜 株兜竃蒲釜
+
+れんしゅう
+
+日本
+
+25
+
+26
+
+CD-19
+
+27
+
+CD-20
+
+CD-21
+
+28
+
+CD
+
+CD-22
+
+CD
+
+CD-23
+
+a b c
+
+d e
+
+29
+
+30
+
+A
+
+A
+
+A
+
+B
+
+B
+
+31
+
+32
+
+Unit 31 かばんの 中に なにが ありますか。
+
+31 課
+
+中
+
+よみかた：なか
+
+いみ：in, inside
+
+かきじゅん：
+
+碍 慨概涯碍
+
+れんしゅう
+
+中
+
+本
+
+よみかた：ほん
+
+いみ：book
+
+かきじゅん：
+
+釜 株兜竃蒲釜
+
+れんしゅう
+
+本
+
+33
+
+34
+
+CD-24
+
+35
+
+CD-25
+
+CD-26
+
+36
+
+CD
+
+CD-27
+
+CD
+
+CD-28
+
+37
+
+38
+
+CD-29
+
+A
+
+B B
+
+A
+
+BB
+
+A
+
+B
+
+1
+
+2
+
+39
+
+40
+
+41
+
+42
+
+43
+
+CD-30
+
+44
+
+CD-31
+
+CD-32
+
+45
+
+CD
+
+CD-33
+
+CD
+
+CD-34 a b c
+
+d e f
+
+46
+
+47
+
+1
+
+2
+
+3
+
+4
+
+51
+
+48
+
+49
+
+50
+
+51
+
+52
+
+CD-35
+
+53
+
+CD-36
+
+CD-37
+
+a. b
+
+cd
+
+e. f
+
+54
+
+CD-38
+
+CD-39
+
+ab
+
+cd
+
+55
+
+1. CD
+
+CD-40
+
+2CD
+
+CD-41
+
+3a-e1-6CD
+
+CD-42
+
+abd
+
+ce
+
+56
+
+1.2. 3.
+
+4. 5.6.
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+8QLW                   ᱜࢆぢࡓࡇ࡜ࡀ࠶ࡾࡲࡍ࠿ࠋ
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ࡇࡣࡿ &DQGR
+
+x ¡
+
+63
+
+CD-43
+
+64
+
+CD-44
+
+CD-45
+
+65
+
+CD-46
+
+CD-47
+
+66
+
+1.
+
+CD
+
+CD-48
+
+2
+
+CD
+
+CD-49
+
+67
+
+68
+
+1
+
+2
+
+3
+
+69
+
+70
+
+Unit 35 桜を 見たことが ありますか。
+
+35 課
+
+桜
+
+よみかた：さくら いみ：sakura かきじゅん
+
+萄 同堂導憧撞洞瞳童胴萄
+
+れんしゅう
+
+桜
+
+雪
+
+よみかた：ゆき いみ：snow かきじゅん
+
+写 実蔀篠偲柴芝屡蕊縞舎写
+
+れんしゅう
+
+雪
+
+71
+
+72
+
+CD-50
+
+73
+
+CD-51
+
+CD-52
+
+74
+
+CD-53
+
+CD-54
+
+CD-55
+
+75
+
+CD
+
+CD-56
+
+CD-57
+
+76
+
+77
+
+78
+
+79
+
+Unit 36 14 さいです。
+
+36 課
+
+父、お父さん
+
+よみかた：ちち、お・とう・さん いみ：father かきじゅん
+
+生 正清牲生
+
+れんしゅう
+
+お父さん
+
+母、お母さん
+
+よみかた：はは、お・かあ・さん いみ：mother かきじゅん
+
+蝉 説雪絶舌蝉
+
+れんしゅう
+
+お母さん
+
+80
+
+81
+
+CD-58
+
+82
+
+CD-59
+
+CD-60
+
+a
+
+b
+
+c
+
+e
+
+f
+
+83
+
+g
+
+h
+
+i
+
+( ) ( ) ( )
+
+j
+
+k
+
+l
+
+( ) ( ) ( )
+
+m
+
+n
+
+o
+
+( ) ( ) ( )
+
+84
+
+CD
+
+CD-61
+
+CD
+
+a-e
+
+CD-62
+
+a
+
+b
+
+c
+
+d
+
+e
+
+85
+
+1 2 3 4 5 6
+
+86
+
+1
+
+2
+
+3
+
+4
+
+5
+
+87
+
+88
+
+Unit 37 先生に なりたいです。
+
+37 課
+
+先生
+
+よみかた：せんせい いみ：teacher かきじゅん
+
+俄 貨迦過霞蚊俄
+
+価 化仮何伽価
+
+れんしゅう
+
+先生
+
+89
+
+90
+
+CD-63
+
+91
+
+CD-64
+
+CD-65
+
+92
+
+CD-66
+
+CD-67
+
+CD-68
+
+CD-69
+
+93
+
+CD
+
+CD-70
+
+CDa - e
+
+CD-71
+
+94
+
+95
+
+96
+
+CD-72
+
+CD-73
+
+97
+
+98
+
+99
+
+Unit 38 としょかんは どこですか。 38 課
+
+教室
+
+よみかた：きょう しつ
+
+いみ：classroom
+
+かきじゅん
+
+型 卦袈祁係傾刑兄啓珪型
+
+座 査沙砂詐鎖裟坐座
+
+れんしゅう
+
+教室
+
+100
+
+101
+
+CD-74
+
+102
+
+CD-75
+
+CD-76
+
+103
+
+CD-77
+
+CD-78
+
+104
+
+CD
+
+CD-79
+
+CD
+
+CD-80
+
+a.
+
+b
+
+c.
+
+d
+
+a.
+
+b
+
+c
+
+d
+
+105
+
+106
+
+107
+
+108
+
+109
+
+CD-81
+
+110
+
+CD-82
+
+111
+
+CD-83
+
+112
+
+CD
+
+CD-84
+
+CD
+
+CD-85
+
+113
+
+114
+
+CD-86
+
+115
+
+116
+
+117
+
+118
+
+119
+
+120
+
+121
+
+122
+
+CD-87
+
+123
+
+CD-88
+
+CD-89
+
+( ) ( ) ( )
+
+124
+
+CD
+
+CD-90
+
+CDa-e
+
+CD-91
+
+c
+
+125
+
+126
+
+1
+
+2
+
+3
+
+4
+
+5
+
+127
+
+128
+
+Unit 41 けいたい電話が ほしいです。
+
+４１課
+
+電話
+
+よみかた：でん わ いみ：telephone かきじゅん
+
+衝 硝礁祥称章笑粧紹肖菖蒋蕉衝
+
+尊 速俗属賊族続卒袖其揃存孫尊
+
+れんしゅう
+
+電話
+
+129
+
+130
+
+CD-92
+
+131
+
+CD-93
+
+CD-94
+
+132
+
+CD-95
+
+CD-96
+
+133
+
+CD-97
+
+134
+
+1. CD
+
+CD-98
+
+2CD
+
+CD-99
+
+135
+
+136
+
+CD-100
+
+137
+
+138
+
+139
+
+140
+
+141
+
+142
+
+143
+
+CD-101
+
+144
+
+CD-102
+
+CD-103
+
+145
+
+CD-104
+
+CD-105
+
+146
+
+CD
+
+CD-106
+
+CD
+
+a - f
+
+CD-107
+
+a.
+
+b
+
+c
+
+d
+
+e
+
+f
+
+147
+
+148
+
+CD-108
+
+CD-109
+
+149
+
+150
+
+151
+
+152
+
+CD-111
+
+CD-112
+
+153
+
+1. CD
+
+CD-113
+
+2CDa-f
+
+CD-114 a. b. c.
+
+d. e. f.
+
+154
+
+155
+
+156
+
+Unit 44 カラオケに 行きませんか。
+
+４４課
+
+食べます
+
+よみかた：たべ・ます いみ：to eat かきじゅん
+
+残 纂蚕讃賛酸餐斬暫残
+
+れんしゅう
+
+食べます
+
+買い物
+
+よみかた：か・い・もの いみ：shopping かきじゅん
+
+椙 随瑞髄崇嵩数枢趨雛据杉椙
+
+埖 垰埃埆埔埒埓堊埖
+
+れんしゅう
+
+買い物
+
+157
+
+158
+
+CD-115
+
+159
+
+CD-116
+
+CD-117
+
+160
+
+CD-118
+
+CD-119
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+h
+
+i
+
+161
+
+1.
+
+CD
+
+CD-120
+
+2
+
+CD
+
+a-e
+
+CD-121
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f-j
+
+f
+
+g
+
+h
+
+i
+
+j
+
+162
+
+163
+
+164
+
+165
+
+166
+
+167
+
+168
+
+CD-122
+
+169
+
+CD-123
+
+CD-124
+
+170
+
+1. CD
+
+CD-125
+
+2CD
+
+CD-126
+
+171
+
+172
+
+173
+
+174
+
+Unit 46 休みに えいがを 見ました。
+
+4６課
+
+休みます
+
+よみかた：やす・みます いみ：to rest かきじゅん
+
+蹴 舟蒐衆域讐蹴
+
+れんしゅう
+
+休みます
+
+読みます
+
+よみかた：よ・みます いみ：to read かきじゅん
+
+進 申疹真神秦紳臣芯薪親診身辛進
+
+れんしゅう
+
+読みます
+
+175
+
+176
+
+CD-127
+
+177
+
+CD-128
+
+CD-129
+
+178
+
+CD-130
+
+CD-131
+
+179
+
+1. CD
+
+CD-132
+
+2CDa-CD-133
+
+180
+
+181
+
+CD-134
+
+182
+
+183
+
+184
+
+185
+
+186
+
+wdÈ
+
+ie,ls,su;a
+
+187
+
+DVD
+
+DVD
+
+188
+
+189
+
+190
+
+191
+
+192
+
+193
+
+(Cup noodle)
+
+194
+
+195
+
+196
+
+197
+
+oaú;Shl
+
+oaú;Shl
+
+oaú;Sh
+
+oaú;Sh
+
+w¨;a
+
+f.a
+
+oaú;Shl
+
+oaú;Shl
+
+l
+
+,efnk uqo,a oaú;Shl lrkqfha l=uk wdldrfha lghq;= i|yd o@ cmdkfha oaú;Shl yd
+
+isiqkaf.a
+
+198
+
+oaú;Shl
+
+oaú;Shl
+
+ish¨
+
+199
+
+Ndú;
+
+200
+
+(1)(2)
+
+(3)
+
+( ) (2) (3)
+
+oaú;Shsl
+
+201
+
+202
+
+ñ,§
+
+203
+
+Ndú;
+
+204
+
+fõ.j;a jkafka l=ulao @
+
+205
+
+206
+
+207
+
+208
+
+(1)(2)(3)(4)(5)
+
+209
+
+w`Èk
+
+we`ÿï
+
+we`ÿï
+
+we`ÿï
+
+210
+
+211
+
+212
+
+Ôú;fha
+
+Ôú;fhaÔú;
+
+Ôú;
+
+Ôú;hla
+
+213
+
+l¿l¿
+
+214
+
+w`Èk we`ÿu
+
+215
+
+t<j¿
+
+216
+
+wod<
+
+217
+
+218
+
+(1)(2)(3)(4)
+
+219
+
+220
+
+wdÈ
+
+221
+
+222
+
+223
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+224
+
+225
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+226
+
+January
+
+we;=<;a
+
+227
+
+228
+
+( )
+
+229
+
+230
+
+""
+
+231
+
+232
+
+48 Japanese Sports Introduction
+
+Do you love sports? What kind of sports do you like? What are the sports that
+
+you play usually? What kind of sports do you watch often? Let s think about
+
+Japanese sports
+
+Japanese people do love sports. They enjoy doing many sports as both summer
+
+sports and winter sports. In addition, Japan hosts main international sport
+
+meets which includes many sports. Japan has hosted both summer and winter
+
+Olympics on three occasions. For instance, Tokyo summer Olympics in 1964,
+
+Sapporo winter Olympics in 1972, Nagano winter Olympics in 1998.
+
+Modern Japanese people pay more attention to be healthy. Therefore, working
+
+Japanese people usually work out and when we consider about the elderly
+
+rcentage is increasing up to more than 40%.
+
+Moreover, many people enjoy watching sports instead of doing them. Soccer,
+
+Baseball, Marathon and Sumo are some of those entertaining sports in Japan.
+
+233
+
+Present the details you have collected about Japanese sports by watchingJapanese TV programs and talking to yourJapanese friends Write themdown
+
+Questions 1. What is the well-known work out style in Japan to maintain ahealthy life?
+
+1.
+
+TV exercise
+
+2.
+
+Radio exercise
+
+3.
+
+Video exercise
+
+4. DVD
+
+DVD exercise
+
+234
+
+2. What are the correct Sumo techniques from the followings?
+
+1. Push the opponent straight out of the ring.
+
+2. Grab from
+
+.
+
+3. Attack the opponent by hitting to the face directly.
+
+6. Attack the opponent without stopping.
+
+5. Kicking the opponent out of the ring.
+
+4. Lift the opponent in the air and take him out of the ring.
+
+235
+
+3. Which Japanese national women s team won the world cup for the first time in 2011? 1. Badminton 2. Volleyball 3. Football 4. Marathon
+
+4. What kind of games usually practice in PT periods at junior high schools
+
+and high schools in Japan
+
+1. Karate 2. Swimming 3. Gymnastic 4. Judo 5. Aerobics 6. Marathon
+
+236
+
+What are the similarities and the differences between Japanese and Sri Lankan sports? Discuss with your group and write them down
+
+Similarities
+
+Differences
+
+Activity 1
+
+Let s do radio calisthenics
+
+while watching
+
+the video
+
+Activity 2 Let s do paper Sumo game Decide names of the players and play the game with your friends Use the dialog in lesson 29
+
+Summary Make a note in English about what you learned today
+
+237
+
+Products
+
+Product ?
+
+Products.
+
+238
+
+Let’s talk about what we know
+
+Present the details you have collected about Japanese people and their products, by watching Japanese TV programs and talking to Japanese friends. Note them down.
+
+239
+
+Questions
+
+1. Cup noodles were innovated by a Japanese in 1970s. Who were the reason
+
+behind this innovation?
+
+1. Busy company employees
+
+3. Unmarried gentswho unfamiliar withcooking
+
+2. Foreign students who unfamiliar with chopsticks
+
+4. Disable old people
+
+240
+
+2. This tool created by a Japanese company. For what can we use this? 1 To measure the body temperature
+
+2 To clean ears
+
+3 To apply medicines to the throat.
+
+4 To wash the backside of the body.
+
+3. Which function that certainly comes with a Japanese toilet flusher?
+
+1. Function of separate flushers forchildren and elders
+
+2. Function of controlling flushingwater quantity
+
+3. Function of ringing a bell automatically to remind the flushing
+
+4. Function of selecting the color of flushing water
+
+241
+
+242
+
+Activity
+
+Look at the pictures that given bellow and think about an innovation which can be useful for people who are suffering from naturaldisasters such as floods, earthquakes etcDraw a picture of your innovation and explain it to the class.
+
+Summary Make a note in English about what you learned today
+
+243
+
+50 Japanese High School and Junior High School Students and Their Expenses Introduction
+
+Do you get a pocket money from your parents for your daily needs? If you get a
+
+pocket money what do you do with that How will Japanese junior high school
+
+and high school students managetheir pocket money?
+
+Let s compare your daily expenditures with junior high school and high school
+
+students in Japan
+
+Even junior high school students need some money to spend their after school time
+
+and holidays with their friends. They spend money at fast food shops, restaurants
+
+and karaoke centers. Koharu also gets a fixed amount of pocket money every month
+
+and special money gifts for birthdays and for the New Year.
+
+244
+
+Present the details you have collected about monetary usage of junior high school by watching Japanese TV programs and talking to your Japanesefriends Note them down
+
+Questions 1 How many Nori lunch packs can buy from a monthly pocket money of a Japanese junior high school student? i 3 ii 10 iii 30 iv 50
+
+245
+
+2 Most of the High school students in Japan use mobile phonesHow many Nori lunch packs can you buy with the use of monthly phone charge? i 3 to 5 ii 5 to 10 iii 7 to 10 iv 17 to 30 3 What is the correctpercentage of students who are doing part timejobs in Japan?
+
+i 50
+
+ii 40
+
+iii 30
+
+iv 20
+
+246
+
+4 When Japanese primary students, junior high school students, high school students were questioned if they think that, Money is very
+
+Which
+
+1 Primary students.
+
+2 Junior high school students. 3 High school students.
+
+Whatare the similarities and the differences between the way of spending money of Japanese and Sri Lankan students? Discuss with your group and write them down.
+
+247
+
+Similarities Differences
+
+Activity Get into groups and discuss about a one topic from the topics given below. Also, compare your details with the details given in the text Topic 01How much of pocket money do you get for your daily needs?
+
+Topic 02How much is the monthly expenditure of the students who use
+
+mobile phones?
+
+Topic 03 What is the percentage of the students who has an experience
+
+of doing part timejobs?
+
+Topic 04How many friends of you think that, Money is very important ?
+
+Summary Make a note in English about what you learned today
+
+248
+
+51Transportation Facilitiesin Japan Introduction
+
+How do you go to school?
+
+How do you go for shopping, and for picnics? What kind of vehicles do you like?
+
+There are non-descript vehicles in Japan What kind of vehicles do you think that
+
+Japanese people use to go by? For instance, go for shopping, go to school and
+
+for picnics Find the vehicles you think that Japanese people use in their day-to-
+
+day lives.
+
+249
+
+what we know Discuss the details you have collected about the transport facilities in Japan by watching Japanese TV programs and talking to your Japanesefriends Write them down
+
+Questions 1Train is the main transport system in TokyoThere are number of stations in Tokyo and Shinjuku station is the most crowded stationamong them How many people use Shinjuku station per day? 1About 35,000 2About 350,000 3About 3,500,000 4 About 35,000,000
+
+250
+
+02 Chikatetsu Midosuji-sen is an underground train in Osaka How does the
+
+station signals the people when the train is about to leave? 1 By a sound of a siren.
+
+2 By a sound of a whistle.
+
+3 By a sound of a buzzer.
+
+4. By a sound of a music. 3 Below displayed machine can certainly see in Japanese buses. For what this machine is using? 1 To buy tickets 2 To ask the destination 3 To take money 4 To pay the charge
+
+251
+
+4Select the fastest one from below displayed animals and vehicles.
+
+1 Cheetah
+
+2 Falcon
+
+3 Shinkansen
+
+4 Sword fish
+
+What are the similarities and the differences between the transportfacilities in Japan and Sri Lanka? Discuss with your group and write themdown
+
+Similarities
+
+Differences
+
+252
+
+Activity Make a plan to go to Japan including the duration, amount of moneyand other things you need Refer the textKoharu is going to Sri Lankaand discuss about your plan with your teacher and friends.
+
+Summary Make a note in English about what you learned today
+
+253
+
+52 Culture among Japanese Young Generation
+
+Introduction
+
+Have you heard about Japanese cartoons, animations, and songs that popular
+
+among Japanese young generation? Do you like modern fashions of young
+
+generation? Let s find out more about the modern culture of Japanese young
+
+generation
+
+254
+
+Discuss the details you have collected about the modern culture established in Japanese young generation by watching Japanese TV programs and talking to your Japanese friends
+
+255
+
+Questions
+
+1 Which J -Pop music style was a hit recently in 2012 Mark for
+
+1 Singing songs with magic.
+
+2 Singing songs as couples.
+
+3 Singing songs with signs.
+
+4 Singing songs as groups.
+
+5. Singing songs as Ninja.
+
+1 2 3 4 5
+
+256
+
+2 Among below displayed fashions of Japanese youngsters, which fashion
+
+can be often seen in towns for real?
+
+1 Workout outfits. 2 Outfits based on traditional Kimono. 3 Lovely dresses decorated with laces and frills. 4 Abnormaloutfits could be wear in the future.
+
+1 2 3 4
+
+257
+
+03 Theseare very famous cartoons in Japan Match the correct story with
+
+the each cartoon theme given below 1 No dame Cantabile 2 Dragon Ball 3 One piece 4 Nana A A story of two girls, who had same names but different qualities,
+
+became friends and had their own life styles.
+
+B A story of becoming a successful musician.
+
+C A story of finding seven balls to be granted only a one wish.
+
+D A story of pirates who battled to obtain a great treasure.
+
+What are the similarities and the differences between Japanese and Sri Lankan fashions of young generation as you learned? Discuss withyour group and note them down
+
+Similarities Differences
+
+258
+
+Activity If you got a chance to introduce Sri Lankan fashion of young generation to your Japanese friends, how are you going to introduce?Draw a picture and introduce it to the class
+
+Summary Make a note in English about what you learned today
+
+259
+
+53 Lifetime of Japanese People Introduction
+
+What kind of a life do you spend from your birth to death? Let s talk about
+
+Japanese lifetime comparing to Sri Lankans while looking at the examples of
+
+Koharu s life
+
+Lifetime of the Japanese People
+
+260
+
+Present the details you have collected about the lifetime of Japanese people by watching Japanese TV programs and talking to Japanese friends Writethemdown
+
+Questions 1. Japanese make a special rice on special occasions as childbirths and weddings. Choose the correct answer from below. 1 Wasabi mixed green rice.
+
+2 Azuki beans mixed red rice
+
+3 Spice mixed yellow rice.
+
+4 Black beans mixed black rice.
+
+261
+
+2. What is the correct office dress code that wear by Japanese female graduates? 1 Frock 2 Traditional Kimono 3 Trouser and jacket 4 Skirt and jacket 3. Among various Japanese wedding styles, which style is the most famous style?
+
+1 Church weddings according to Christianity. 2 Temple weddings according to Buddhism. 3 Relatives and friends gathered weddings. 4 Shrine weddings according to Shintoism.
+
+262
+
+4. Most of the retired Japanese women spend their leisure time by learning
+
+foreign languages. Then what will be retired men doing during their leisure time?
+
+1 Playing musical instruments 2 Planting vegetables
+
+3 Taking photos 4 Maintaining bonsai plants
+
+5. What is the general structure of a Japanese gravestone?
+
+1 2 3 4
+
+263
+
+What are the similarities and the differences between the lifetime of Japaneseand Sri Lankan people? Discuss with your groupand write them down
+
+Similarities Differences Activity Draw a picture aboutMy Lifetimerefer to Koharu s lifetime on the firstpage of this lessonDiscuss about your own picture with your teacher andfriends
+
+Summary Make a note in English about what you learned today
+
+264
+
+54 ShoppingStyles of Japanese Introduction
+
+Do you like shopping? To what kind of shops do you usually go? What do you buy
+
+from those shops you go? Let s talk about shopping styles of Japanese people
+
+comparingto Sri Lanka
+
+265
+
+Present the details you have collected about shopping styles of Japaneseby watching Japanese TV programs and talking to Japanese friends Writethem down
+
+Questions 1. Normally it costs Rs. 150 to buy a lunch box in Sri Lanka. How much will it cost in Japan? 1 300 Yen(About Rs 300) 2 500 Yen About Rs 500 3 800 Yen About Rs 800 4 1000 Yen About Rs 1000
+
+266
+
+2. What are the things that you can buy from a Hyakuen shop? Mark for can buy items and mark × for cannot buy items.
+
+1. CD 2. Slippers
+
+3. Gold fish 4 Sweets
+
+5. Plants 6. Sashimi
+
+7. Computer 8 Dictionary
+
+9. Watch 10 Primary texts and past paper books
+
+267
+
+Let s discuss the similarities and the differences between the shopping stylesof Japanese and Sri Lankan people
+
+Similarities Differences
+
+Activity What are the goods that you usually buy? Where can you buy them? Why do you buy them? Compare these facts with Koharu and fill in the blanks.
+
+Shop type Reason
+
+Summary Make a note in English about what you learned today
+
+268
+
+55 Japanese Festivals Introduction
+
+As same as Sri Lankans, Japanesedo celebrate their cultural festivals
+
+throughout the year Let stalk about Japanese festivals comparing to Sri
+
+Lankan festivals
+
+269
+
+talk about what we know Present the details you have collected about Japanese festivals, by watching Japanese TV programs and talking to Japanese friendsNotethem down
+
+270
+
+Questions 1 Choose the special food that prepare for each festival?
+
+1New Year festival January
+
+2Setsubun February
+
+3 Tangonosekku May
+
+4 Oomisoka December
+
+Mochi KashiwaMochi Norimaki Soba
+
+271
+
+2 These are the pictures of holyMikoshi which uses for Japanese
+
+traditional events From below given acts, which act is the not allowed act towards ?
+
+Hold it by women.
+
+Two Mikoshis touch each other.
+
+3. Stand on Mikoshi s roof.
+
+4. Shakeit hard.
+
+272
+
+3. This sweet can be seen only in the festival stores. What can be the main ingredient of it?
+
+What are the similarities and the differences between Japaneseand Sri Lankan festivals? Discuss with your group and write themdown
+
+Similarities
+
+Differences
+
+1 Cherry
+
+Sakuranbo
+
+2 Chocolate
+
+3Apple
+
+4Boiled egg
+
+273
+
+Activity Make a Sri Lankan festival circle refer to the following Japanese festivalcircle January
+
+Summary Makea note in English about what you learned today
+
+274
+
+56
+
+Japanese History Introduction
+
+Do you know about the Japanese history? There is two eras of Japanese
+
+history. They are, the period, which Japanese had foreign affairs and the
+
+period when Japanese had no foreign affairs. Because of being open to the
+
+world, Japan obtained different cultures and technology from foreign
+
+countries, and being unopen to the world, they developed unique cultural
+
+qualities inside the Jout more about the Japanese history.
+
+about what we know Discuss the details you have collected about Japanese history bywatching Japanese TV programs and talking to Japanese friendsWrite them down
+
+275
+
+Questions
+
+1 Due to foreign affairs, what are the things that entered Japan?
+
+1Kanji 2Buddhism
+
+3Christianity
+
+4English
+
+2 When Japan had no affairs with outsiders, Kyoto ruled the country by being the capital city of Japan. How long Kyoto continued as the capital city of Japan? i 100 years
+
+ii 300 years
+
+iii 500 years
+
+iv 1000 years
+
+276
+
+3 During the period that Japan had connections with the world; a samurai united the country at the end of samurai period.
+
+Who is that samurai from following people?
+
+1 Oda Nobunaga 2 Toyotomi Hideyoshi
+
+3 Yamada Nagamasa
+
+4 Tokugawa Iyeyasu
+
+4 At the end of non-affairs period, an American ship came breaking the boarders of Japan. What is the name of that ship? 1 Akafune 2 Shirofune 3 Kanefune 4 Kurofune
+
+277
+
+05 What are the things that were introduced in the blooming period of foreign affairs? Katana Sword Kago Coop Rail way
+
+Yofuku Beef Chonmage
+
+western cloths
+
+278
+
+What are the similarities and the differences between Japanese and Sri Lankan history? Discuss with your group and write themdown
+
+Activity Refer thefollowing chart ofJapanesehistorical events andcomplete the next part of the chart adding Sri Lankan historicalevents that take place in same periods
+
+Summary Make a note in English about what you learned today
+
+Similarities Differences
+
+279
+
+280
+
+281
+
+282
+
+283
+
+284
+
+285
+
+286
+
+287
+
+288
+
+289
+
+290
+
+291
+
+292
+
+3
+
+gzj;ijr; nrytpLk; Kiw njhlh;ghfag;ghdpaghlrhiy khzth;fSf;Fk;> ,yq;ifghlrhiy khztHfSf;Fk; ,ilapyhd xw;Wik> Ntw;Wikfs;gw;wp FOf;fshffye;JiuahLf.mt;thWfye;Jiuahba tplaq;fis Fwpf;fTk;.
+
+4. ckJ fUj;jpw;fika kpfg; nghUj;jkhd tpilia gpd;tUtdtw;Ws; ,Ue;J Njh;e;njLf;Ff.ag;ghdpy; Muk;gepiy> fdp];lepiy kw;Wk; caHepiyghlrhiykhztHfsplk;gzk; kpfTk; Kf;fpakhdjhFk;vd;wfUj;Jnjhlh;ghf Nfl;lwpag;gl;ljpy; kpfTk; Kf;fpakhdJvd tpilaspj;jtPjk; mjpfkhff; fhzg;gLtJ.
+
+1) Muk;gg;gpupT ghlrhiy khztHfsplk;.
+
+2) fdp];l gpupT ghlrhiy khztHfsplk;.
+
+3) caHepiy ghlrhiy khztHfsplk;.
+
+293
+
+tFg;giwapDs; guPl;rpj;Jg; ghHg;Nghk;.
+
+FOf;fshfg; gpupe;J fPo; tUk; jiyg;Gf;fspy; xd;iwj;NjHe;njLj;J tFg;G ez;gHfSld; fye;JiuahLf. gpd;dh; ,g; Gj;jfj;jpy; Fwpg;gpl;l tpguq;fSld; xg;gpl;Lg; ghHf;fTk;
+
+jiyg;G 01 - ehshe;j nrytpw;fhf vt;tsT njhif gzj;ij ngw;Wf; nfhs;fpd;wPh;?
+
+jiyg;G 02 - ifalf;fj; njhiyNgrp gad;gLj;Jfpd;w khzth;fspd; khjhe;jnryT vt;tsT ?
+
+jiyg;G 03gFjpNeu njhopy;fspy; <LgLfpd;w khztHfspd; vz;zpf;ifvt;tsT ?
+
+jiyg;G 04 - cq;fs; ez;gh;fspy; vj;jid Ngh; gzk; kpf Kf;fpak; ; vd epidf;fpd;wdh;?
+
+Xw;WikNtw;Wik
+
+ePH ,d;W gbj;jtw;iwj; jkpo; nkhopapy; vOjTk;.
+
+294
+
+ePq;fs; jpdKk; vt;thW ghlrhiy nry;fpd;wPh;fs; ? nghUl;fs; thq;fr; nry;Yk; NghJk;> Rw;Wyh nry;Yk; NghJk; vg;gb nry;tPh;fs;? vt;tifahd thfdq;fis tpUk;GfpwPHfs; ?
+
+ag;ghdpy; gy;NtW tifahd thfdq;fs; cs;sd. fPo;tUk; thfd tiffSs;ag;ghdpy; ghlrhiynry;Yk;NghJk;>nghUl;fs; thq;fr; nry;Yk; NghJk; nghJthf gad;gLj;Jk; thfdj;jpw;F Kd; FwpaPLk; mt;thW gad;gLj;jhj
+
+thfdj;jpw;F Kd;FwpaPl;ilAk; ,Lf.
+
+295
+
+ag;ghdpd; Nghf;Ftuj;JKiwfs; gw;wpag;ghdpaez;gHfsplk; Nfl;lwpe;jtpguq;fisAk; ag;ghdpa njhiyf;fhl;rpghHj;Jnjupe;J nfhz;l tpguq;fisAk; ez;gHfSld; fye;JiuahlTk.; mt; tpguq;fisf; Fwpj;Jf; nfhs;sTk;.
+
+1.Gifapujk; Nlhf;fpNahtpd; gpujhdNghf;Ftuj;JKiwahFk;.Nlhf;fpNahtpy; Fwpg;gpl;lsT Gifapuj epiyaq;fs; fhzg;gLfpd;wd. mtw;Ws; rpd;AFGifapujepiyak; rd nehpry; mjpfk; cs;s Gifapuj epiyakhff; $wg;gLfpwJ. xU ehSf;F vj;jidgazpfs; mg; Gifapujepiyaj;ijg; gad;gLj;Jfpd;wdH . ?
+
+1. mz;zsthf 35>000
+
+2. mz;zsthf 350>000
+
+3. mz;zsthf 3500>000 4. mz;zsthf 35000>000
+
+296
+
+2. rpfnjl;R kpnjhR[p - nrd; xrhfh efupd; Ruq;f GifapujkhHf;fq;fspy; xd;whFk;. Gifapujk; Gwg;gLtij kf;fSf;Fj;njhptpf;Fk; Gifapuj epiya rkpQ;ir gpd;tUtdtw;Ws; vJ?
+
+1. ra;ud; CJk; xyp.2. tprpy; CJk; xyp.3. xypg;ghd; rj;jk;.4. xU rq;fPj xyp.
+
+3) tyJ Gwj;jpy; fhl;lg;gl;Ls;s cgfuzj;ij ag;ghdpa NgUe;Jfspy; mjpfk; fhz KbAk.;mf; Fwpg;gpl;l cgfuzk; vjw;fhf gad;gLj;jg;gLfpd;wJ ?
+
+1. gw;Wr;rPl;L ngWtjw;F.2. gaz ,yf;if Nfl;lwpe;J nfhs;tjw;F.3. gzk; vLg;gjw;F.4. fl;lzk; nrYj;Jtjw;F
+
+4. fPNo fhl;lg;gl;Ls;s thfdq;fs;> kpUfq;fspy; vJ Ntfkhfnry;yf; $baJ?
+
+1.rpWj;ij Gyp2.uhrhspg; gwit3.fLfjp Gifapujk;.4.];thl; kPd;.
+
+297
+
+Nghf;Ftuj;J trjpfs; njhlh;ghf ,yq;if kw;Wk; ag;ghd; Mfpa ehLfSf;fpilapyhdxw;Wik> Ntw;Wikfs;gw;wp FOf;fshf fye;JiuahLf. mt;thW fye;Jiuahba tplaq;fis Fwpf;fTk;.
+
+Xw;Wik Ntw;Wik
+
+n`hfW ,yq;iff;Fr; nry;fpd;whs;vd;Dk; ghlj;jpD}lhf ag;ghDf;Fr;nry;tjw;Fhpa fhyg;gFjp> gzk; kw;Wk; midj;J Njitahd tplaq;fs; cs;slq;fyhf jpl;lk; xd;wpidj; jahupf;Ff. ,j; jpl;lk; gw;wp ez;gh;fSlDk; Mrphpah;fSlDk; fye;JiuahLf.
+
+ePH ,d;W gbj;jtw;iw jkpo; nkhopapy; Fwpj;J itf;fTk;.
+
+298
+
+ePq;fs; ag;ghdpaNfypr; rpj;jpuk;>mdpNk]d;kw;Wk; ,sk;rKjhaj;jpdhpilNa gpurpj;jp ngw;w ag;ghdpa ghly;fs; gw;wp
+
+mwpe;Js;sPh;fsh? ePh; ,sk;rKjhaj;jpdhpilNa gpurpj;jp ngw;w ag;ghdpa etehfhpfj;ij tpUk;Gfpd;wPuh?ehk;,g;NghJ ,d;iwa ag;ghdpa ,sk;rKjhaj;jth;fspilNa fhzg;gLk; etehfhpfk;gw;wp
+
+mwpNthk;.
+
+299
+
+ag;ghdpa,sk; r%fetehfhpfk;tphptile;jijg; gw;wpag;ghdpa ez;gHfsplk; Nfl;lwpe;Jmy;yJag;ghdpa njhiyf;fhl;rpia ghHj;Jmwpe;j tpguq;fis midtUlDk; fye;JiuahLf. me;j tpguq;fisf; Fwpj;Jf; nfhs;sTk;.
+
+300
+
+1. 2012 k; Mz;by; ve;j rq;fPj eil gpurpj;jp ngw;wJ? nghUj;jkhd tpilf;FFwpaPLk; nghUj;jkw;w tpilf;FFwpaPLk; ,Lf.
+
+1.fz;fl;L tpj;ijAld; ghl;L ghLjy;.2.Mz; ngz; N[hbahf ghl;L ghLjy;.3.ghl;L ,irj;jy;.4.FOf;fshf ,ize;J ghl;L ,irj;jy;.5.epd;[hthf ghl;L ghLjy.;
+
+1 2 3
+
+4 5
+
+301
+
+2. fPo; fhl;Lg;gl;Ls;s ag;ghdpa ,sk; rKjhaj;jthpd; etehfhpfq;fspy; cz;ikapy; efug; gFjpfspy; mjpfkhff; fhzg;gLk; etPd uf Mil vJ?
+
+1.clw;gapw;rpapy; <LgLfpd;w NghJ mzpfpd;w cilfs;.2.fpNkhNdh kugpid mbg;gilahff; nfhz;l cifs;.3.Ny]; my;yJ RUf;F gpbj;j mofhd etPduf cil.4.vjpH re;jjpapduhy; mazag;glf; $ba mrhjhuz cil.
+
+1234
+
+302
+
+3. ag;ghdpy; gpurpj;jkhd rpy fhl;^d; glq;fs; fPNo fhl;lg;gl;Ls;sd. xt;nthUfhl;^d; glfUg;nghUSf;Fk;nghUj;jkhdfijiag; gpd;tUtdtw;wpypUe;J NjHe;njLf;fTk;.
+
+elnk fd;ugpypbuhfd; Nghy;td; gP];ehdh
+
+1.xNungah;>NtWgl;l juq;fisf;nfhz;l ,U ngz;fs; ez;gh;fshtJld; mth;fs; ,UtUk; jkf;Fhpa tho;f;if eilianfhz;bUe;jdh;. mj;jifa ,U ngz;fspd; fij>2.xU gpurpj;jp ngw;w ,iraikg;ghsuhf tUtJ njhlh;ghd fij.3.xUth; tpUk;gpathW 7 ge;Jfisf; fz;Lgpbj;jy; njhlh;ghd fij.4.xU Gijay; xd;iw ngWtjw;F nfhs;isf;fhuh;fs;,UtUf;fpilapyhd rz;il gw;wpa fij.
+
+,sk; rKjhaj;jthpd; etehfhpfk; gw;wp ,yq;if kw;Wk; ag;ghd; Mfpa ,U ehLfSf;fpilapyhd xw;Wik Ntw;Wik gw;wp FOf;fshffye;JiuahbvOJf.
+
+Xw;WikNtw;Wik
+
+303
+
+,yq;ifapd; ,sk; rKjhaj;jthpd; etehfhpfk;gw;wp ag;ghdpaez;gHfSf;FmwpKfg;gLj;j ckf;F XH re;jHg;gk; fpilj;jhy; mjidvt;thW mwpKfg;gLj;j tpUk;GtPh;? fPNonfhLf;fg;gl;Ls;sml;ltizapy; glk; tiue;J tpsf;Ff.
+
+ePH ,d;W gbj;jtw;iw jkpo; nkhopapy; Fwpf;f.
+
+304
+
+gpwg;Gnjhlf;fk; ,wg;GtiuePHvt;thwhd xUtho;f;ifiatho
+
+tpUk;Gfpd;wPh;? nfh`W tpd; Mal;fhyj;ijcjhuzkhfnfhz;L
+
+ag;ghdpahpd; tho;f;ifapy; epfOk; gy;NtWepfo;Tfis ,yq;ifAld;
+
+xg;gpl;L mwpNthk;.
+
+ag;ghdpaupd; tho;f;iff; fhyk;.
+
+305
+
+ag;ghdpaez;gHfsplk; Nfl;lwpe;Jk; ag;ghdpa njhiyf;fhl;rpghHg;gjd; %yKk; ag;ghdpaupd; Mal;fhyk; gw;wp ePH mwpe;J nfhz;l tpguq;fismidtH Kd;epiyapYk; $Wf. ePH ngw;Wf; nfhz;l tpguq;fis Fwpf;f.
+
+306
+
+1. Foe;ij gpwj;jy; kw;Wk; jpUkz epfo;T Nghd;w tpohf;fspd; NghJag;ghdpaHtpNrlkhd NrhWjahhpg;gh;. gpd;tUtdtw;Ws; rupahdtpiliaj; njupT nra;f
+
+1. trgp ,lg;gl;l gr;irepwr; NrhW
+
+2.mRfpNghQ;rptpijNrHj;jrptGepwkhdNrhW
+
+3. ciwg;G fye;j kQ;rs; epwkhd NrhW4.fWg;G NghQ;rp fye;jfWg;Gepwkhd NrhW.
+
+307
+
+2. ag;ghdpa ngz; gl;ljhupfs; njhopYf;Fr; nry;Yk; NghJ nghJthf mzpAk; cil gpd;tUtdtw;wpy; vJ ?
+
+1. rl;il2. rk;gpujhafpNkhNdh
+
+3. fsprhd; kw;Wk; Nfhl;4. ghthil kw;Wk; Nkyzp
+
+308
+
+3. gytpjkhd ag;ghdpa jpUkz Kiwfspy; kpfTk; gpurpj;jp ngw;w jpUkzKiw vJ?
+
+12 3 4
+
+1. fpwp];jt Kiwg;gb mike;j Njthya jpUkzk;.2. ngsj;j Kiwg;gb mike;j Myaj; jpUkzk;.3. Mly; ghlYld; $ba jpUkzk;.4. rpe;Njhrpak; Kiwg;gb mike;j Nfhapy; jpUkzq;fs;.
+
+4. mjpfkhd Xa;T+jpak; ngw;w ag;ghdpa ngz;fs; md;dpankhopfisf; fw;gjpNyNa jkJ nghOijf; fopf;fpd;wdhh;. mt;thwhapd; Xa;t+jpak;ngw;w Mz;fs; jkJ nghOJNghf;fhf nra;fpd;w nraw;ghLfPo;tUtdtw;wpy; vJthf ,Uf;Fk; ?
+
+rq;fPj cgfuzq;fs; thrpj;jy;fha;fwp gapHr;nra;ifNkw;nfhs;sy;.
+
+Gifg;glk; vLj;jy;fl;ilj; jhtuq;fs; tsh;j;jy;
+
+309
+
+5. ag;ghdpahpd; rkhjp mikg;G fPo;tUk; ve;j tbj;jpy; mikf;fg;gLfpd;wJ?
+
+1 2 3 4
+
+tho;f;if Kiw njhlh;ghf ,yq;if kw;Wk; ag;ghDf;F ,ilapyhd xw;Wik Ntw;Wikfis FOf;fshf fye;Jiuahb vOjTk;.
+
+xw;Wik Ntw;Wik
+
+310
+
+,g; Gj;jfj;jpd; Kjyhk; gf;fj;jpy; Fwpg;gplg;gl;Ls;sthW nfh`Wtpd; tho;f;ifiaMjhukhff; nfhz;L ePu; ckJ tho;Tgw;wpa glj;ij tiue;J ghHf;fTk;. ckJ tiuglk; njhlhh;ghf ez;gHfs; kw;Wk; MrpupaHfSld; fye;JiuahlTk;.
+
+ePH ,d;iwa jpdk; fw;Wf; nfhz;ltw;iw jkpo; nkhopapy; vKjTk;.
+
+311
+
+;
+
+cq;fSf;F nghUl;nfhs;tdT Nkw;nfhs;s tpUg;gkh? ePq;fs;
+
+vt;tifahd filfSf;Fr; nry;tJ toik? mt;tifahd
+
+filfspypUe;J ePq;fs; mbf;fb nfhs;dT nra;Ak; nghUl;fs; vit?
+
+ag;ghdphpd; nghUl;nfhs;tdT Kiw gw;wp ,yq;ifaUld; xg;gpl;L
+
+fye;JiuahLNthk;.
+
+312
+
+ag;ghdpa ez;gHfsplk; Nfl;gjd; %yk; my;yJ ag;ghdpa njhiyf;fhl;rp ghHg;gjd; %yk; ag;ghd; nghUl;nfhs;tT gw;wpePH njupe;Jnfhz;l tpguq;fis midtH Kd;epiyapYk; $Wf. ePH ngw;Wf; nfhz;l tpguq;fis Fwpj;Jf; nfhs;f.
+
+1. ,yq;ifapy; kjpa czTg; nghjp xd;W thq;Ftjw;F rhjhuzkhf 150nrythFk;. ag;ghdpy; czTg; nghjp xd;W vt;tsthf ,Uf;Fk;?
+
+1. nad; 300 (mz;zsthf 300 &gh)2. nad; 500 (mz;zsthf 500&gh)3. nad; 800 (mz;zsthf 800&gh)4. nad; 1000 (mz;zsthf 1000 &gh)
+
+313
+
+2. fPo; fhl;lg;gl;Ls;s nghUl;fspy; filapy; thq;ff; $ba nghUl;fs; vit? mf; filapy; thq;ff; $ba nghUl;fs; ,Ug;gpd; me;jg; mtw;Wf;F FwpaPl;ilAk; mt;thW my;yhj nghUl;fSf;F FwpaPl;ilAk; ,Lf.
+
+;
+
+ghjzpNfhy;l; gp];,dpg;Gf;fs;
+
+iff;fbfhuk;gpujhd ghlE}y;fs; kw;Wk; fle;j fhy tpdhtpilg; Gj;jfq;fs;
+
+,Wtl;L
+
+fzpzp]]pkpjhtuq;fsmfuhjp
+
+314
+
+nghUl;nfhs;tdT Kiw njhlh;ghf ,yq;if kw;Wk; ag;ghDf;F ,ilapyhd xw;Wik Ntw;Wikfis FOf;fshf fye;Jiuahb vOjTk;.
+
+Xw;WikNtw;Wik
+
+ePq;fs; toikahf nfhs;tdT nra;Ak; nghUl;fs; vit? vq;Nf mg; nghUl;fis nfhs;tdT nra;a KbAk;? ,j;jifa tplaq;fis nfh`WTld; xg;gpl;Lf; fPo;tUk; ml;ltizia G+Hj;jp nra;f.
+
+nghUl;fspd; ngah;fs;fil tiffhuzk;
+
+ePH ,d;iwa jpdk; fw;Wf; nfhz;ltw;iwj; jkpo; nkhopapy; Fwpj;Jf; nfhs;sTk;.
+
+315
+
+,yq;ifapy; Mz;L KOtJk; gy;NtW gz;biffs; nfhz;lhlg;gLtJ
+
+Nghd;Nw ag;ghdpYk; gy;NtW gz;biffs; nfhz;lhlg;gLfpd;wd. mg;
+
+gz;biffs; njhlh;ghf ,yq;ifAld; xg;gpl;L Nehf;FNthk;.
+
+316
+
+ag;ghdpy; eilngWfpd;wgz;biffs;gw;wpag;ghdpaez;gHfsplk; Nfl;L my;yJ ag;ghdpa njhiyf;fhl;rp ghHj;Jnjupe;Jnfhz;ltpguq;fis Kd;itf;fTk;. Kd;itj;j fUj;Jf;fis vOjTk;.
+
+1.fPo;tUtdtw;wpy; xt;nthU ag;ghdpa gz;biffspd; NghJ tpNrlkhf jahhpf;fg;gLk; czT tiffs; vit?
+
+NkhrpfrpthnkhrnehupkfpNrhgh
+
+1. GJ tUl nfhz;lhl;lk; (ij) 2. nrj;Rgd; (khrp)3. uq;fNdh nrf;F (itfhrp)
+
+4. Ckpnrhfh (khh;fop)
+
+317
+
+2. fPo; fhl;lg;gl;Ls;sit kpnfhrp gz;bifAld; njhlh;Gila glq;fshFk;. ,J ag;ghdpa tpohf;ffspy; xd;whFk;. fPo; cs;s glq;fSs; fhl;lg;gl;Ls;s ,g; gz;bifapd; NghJ nra;af; $lhjJ gpd;tUtdtw;Ws;vJ?
+
+1. ngz;fspdhy; Jhf;FtJ
+
+2. kpNfhrp ,uz;L xd;Wld; xd;W NkhJjy;
+
+3. kpNfhrpapdhy; $iuf;F VWjy;
+
+4. Ntfkhfmirj;jy;
+
+318
+
+gz;biffs; njhlh;ghf ,yq;if kw;Wk; ag;ghd; Mfpa ehLfSf;F ,ilapyhd xw;Wik Ntw;Wikfis FOf;fshf fye;Jiuahb vOjTk;.
+
+Xw;WikNtw;Wik
+
+3. fPNo fhl;lg;gl;Ls;s czT tif ag;ghdpy; gz;bif fhyq;fspd; NghJ kl;Lk; fhzf; $ba xd;whFk;. ,e;j czT tifapy; mlq;fpAs;s gpujhd Nrh;nghUs; vJ?
+
+1.Nrup (rFud)
+
+2.nrhf;Nyl;3.mg;gps;4.mtpj;j Kl;il
+
+319
+
+fPo; fhl;lg;gl;Ls;s ag;ghdpa gz;biffs; njhlh;ghd Rw;Wtl;lj;ijg; gad;gLj;jp ,yq;ifapd; gz;biffs; njhlHghd Rw;Wtl;lj;jpid jahhpf;fTk;.
+
+;ePH ,d;W fw;Wf; nfhz;ltw;iw jkpo; nkhopapy; Fwpf;fTk;.
+
+320
+
+ckf;F ag;ghdpatuyhWgw;wpnjhpAkh? ag;ghdpa tuyhW ,U rfhg;jj;ijf; nfhz;lJ. xU rfhg;jk; ag;ghdpa kf;fs; jtph;e;j Vida
+
+kf;fSld; njhlh;G nfhz;bUe;j fhyg;gFjp> kw;iwaJ ag;ghdpa kf;fs;
+
+jtph;e;j Vida kf;fSld; njhlh;G nfhz;buhj fhyg;gFjp MFk;. ag;ghd; Vida ehLfspypUe;J NtWgl;l fyhrhuk;> njhopy;El;gk; Mfpatw;iwf;
+
+nfhz;bUg;gjdhy; cyfpw;F jpwe;j ehlhf tpsq;Ffpd;wJ> kWGwk; ag;ghdpah;jdpg;gl;l fyhrhu juq;fis tpUj;jpnra;Js;sikahy;
+
+cyfpw;F %ba ehlhf tpsq;Ffpd;wJ. ,d;Wag;ghdpatuyhWgw;wp
+
+NkYk; fye;JiuahLNthk;.
+
+ag;ghdpa tuyhW gw;wp ag;ghdpa ez;gHfsplk; Nfl;lwpe;jtw;iw my;y Jag;ghdpa njhiyf;fhl;rpghHj;J mwpe;jtplaq;fismidtUlDk; fye;JiuahLf. fye;JiuahbafUj;Jf;fisf; Fwpg;gpLf.
+
+321
+
+1. ntspehl;Lj; njhlh;Gfspdhy; ag;ghid te;jile;jit vit?
+
+1. fhQ;[p vOj;J Kiw.2. ngsj;jk;.3. fpwp];jtk;4. Mq;fpyk;
+
+2. ntspehl;L njhlh;G mw;wpUe;j fhyg;gFjpapy; f;NahNjh ag;ghdpd; jiyefukhf tpsq;fpaJ. f;NahNjh vt;tsT fhyk; jiyefukhf tpaq;fpaJ. ?
+
+1. 100 tUlq;fs;.
+
+2. 300 tUlq;fs;..3. 500 tUlq;fs.;
+
+4. 1000 tUlq;fs;.
+
+322
+
+3. ntspehl;L njhlHG mjpfkhf ,Ue;j fhyq;fspy; rhKuha(gpurpj;jp ngw;w ,uhZtk;) fhy Kbtpy; KO ehl;ilAk; xd;W NrHf;fKbe;jJ. mtuJ ngah; gpd;tUtdtw;wpy; vJ? ?
+
+1. Xjh nehGdf2. njhNahnjhkp `pnjhnahrp3. akjh efhkfh4. njhFfth ,NaaR
+
+4. ag;ghdpy; ntspehl;L njhlHGfs; Fiwe;j fhyj;jpd; ,Wjp fhyg;gFjpapy; mnkupf;f fg;gy; xd;W ag;ghdpd; vy;iyia cilj;njwpe;jJ. me;j fg;gypd; ngah; ahJ?
+
+1.mfhGNd2.\pNuhGNd3.fNdGNd4.FNuhGNd
+
+f
+
+323
+
+4. ntspehl;L njhlHGfs; nropg;Gw;wpUe;j fhyj;jpy; mwpKfg;gLj;jg;gl;l
+
+nghUl;fs; vit?
+
+fjdh (ths;) fNfh (Fil) Gifapujk;
+
+khl;biwr;rpnrhd;kNf
+
+NahGF(Nkw;fj;jpa Milfs;)
+
+324
+
+ag;ghdpa tuyhw;Wf;Fk; ,yq;if tuyhw;Wf;Fk; cs;s xw;Wik Ntw;Wikfs; gw;wp FOf;fshf gphpe;J fye;JiuahLf. fye;Jiuahba fUj;Jf;fis vOJf.
+
+Xw;WikNtw;Wik
+
+fPo;tUk; ag;ghdpa tuyhw;W epfo;Tffs; gw;wp nfhLf;fg;gl;Ls;s ml;ltizia guprPypj;J mjw;F xj;j fhyq;fspy; ,yq;ifapy; eilngw;w tuyhw;W epfo;Tfis mLj;j ml;ltizapy; Fwpg;gplTk;.
+
+,d;W ePq;fs; fw;Wf; nfhz;ltw;iwj; jkpo; nkhopapy; Fwpf;fTk;
+
+325
+
+Ｕｎｉｔ
+
+English
+
+
+
+basukettobōrumeis mkaÿbasketball
+
+
+
+barēbōrufjd,sfnda,avolleyball
+
+
+
+takkyūfïi mkaÿtable tennis
+
+
+
+badomintonneÜñkagkabadminton
+
+
+
+kurikettols%lÜcricket
+
+
+
+tenisufgksiatennis
+
+
+
+suieimsyskSuswimming
+
+
+
+nettobōrruoe,a mkaÿnetball
+
+
+
+jūdōcQfvdajudo
+
+
+
+karatelrdf;akarate
+
+
+
+aikidōwlsfodaaikido (Japanese self defense)
+
+
+
+kendōflkafodakendo
+
+
+
+sumōiqfudsumo
+
+
+
+kyūdōÿkq úoSuJapanese archery
+
+
+
+sutekinawdorKShlovely
+
+
+
+kireina,iaikbeautiful
+
+
+
+kawaīyqr;,acute
+
+
+
+kakkoīwdl¾IKShawesome/cool
+
+
+
+shatsulñihshirt
+
+
+
+T shatsuà - I¾ÜT-shirt
+
+
+
+burausuí,õihblouse
+
+
+
+tanpanfldg l,siushorts
+
+
+
+jīnzucskaiajeans
+
+
+
+sukātoidhskirt
+
+
+
+kutsuim;a;=shoes
+
+
+
+chūgokugoÖk NdIdjChinese language
+
+
+
+gitā.sgdrhguitar
+
+
+
+pianomshdfkdajpiano
+
+
+
+erEmhpicture
+
+
+
+homeruw.h lrkjdadmire
+
+
+
+kotaerums<s;=re fokjdanswer
+
+
+
+honfmd;book
+
+
+
+fudebakomekai,a fmÜáhpencil case
+
+
+
+nōtofkdaÜ fmd;note book
+
+326
+
+Ｕｎｉｔ
+
+ローマ字シンハラ語English
+
+
+
+kabannE.hbag
+
+
+
+saifum¾ia tlpurse
+
+
+
+keitaidenwacx.u ÿrl:khmobile phone
+
+
+
+pōchifmdaÉ tlpouch
+
+
+
+kasal=vhumbrella
+
+
+
+mangaldgqkacartoon
+
+
+
+bentōlEu fmÜáhlunch packet
+
+
+
+yamalkaomountain
+
+
+
+umiuqyqosea
+
+
+
+yūenchii;=gq Whkamusement park
+
+
+
+depātoidmamqjdepartment store
+
+
+
+oteramkai,temple
+
+
+
+ichibafj<|fmd,market
+
+
+
+gēmusentāmß.Kl ls%vd lrk ia:dkhgame centre
+
+
+
+dōbutsueni;aj WoHdkhzoo
+
+
+
+eigakaniskudy,film hall
+
+
+
+surīwirā;S%frdao r:hthree wheeler
+
+
+
+basunihbus
+
+
+
+takushīl=,S r:htaxi
+
+
+
+jitenshanhsisl,hbicycle
+
+
+
+kurumaldrhcar
+
+
+
+denshaÿïßh(electric) train
+
+
+
+funekejship
+
+
+
+baikufudag¾ ihsl,hbike
+
+
+
+aruiteweúo hduby foot
+
+
+
+eiga wo mimasuÑ;%mg kerUSuwatch a film
+
+
+
+karaoke ni ikimasulrdTfla j,g hdugo for Karaoke
+
+
+
+kaimono ni ikimasuidmamq ijdß hdugo for shopping
+
+
+
+ryōri wo tsukurimasulEu msiSucook food
+
+
+
+tomodachihy¿jdfriend
+
+
+
+hitoride;kshualone (one person)
+
+
+
+animewksfu Ñ;%máanimated film
+
+
+
+fujisan*qcs lkaoMount Fuji
+
+
+
+sakurail=rd u,acherry blossom
+
+327
+
+Ｕｎｉｔ
+
+English
+
+
+
+yukiysusnow
+
+
+
+mitaoelaldsaw
+
+
+
+tenpuraf;ïmqrdtempura(Japanese dish)
+
+
+
+rāmenrdfukaramen noodles (Japanese dish)
+
+
+
+yakisobahlsfidndyakisoba(Japanese dish)
+
+
+
+sashimiiIsñsashimi(Japanese dish)
+
+
+
+sushiiqIssushi(Japanese dish)
+
+
+
+tabetalEjdate
+
+
+
+nenreijhiage
+
+
+
+issaiwjqreÿ tlhsone year old
+
+
+
+nisaiwjqreÿ folhstwo year old
+
+
+
+sansaiwjqreÿ ;=khsthree year old
+
+
+
+yonsaiwjqreÿ y;rhsfour year old
+
+
+
+gosaiwjqreÿ myhsfive year old
+
+
+
+rokusaiwjqreÿ yhhssix year old
+
+
+
+nanasaiwjqreÿ y;hsseven year old
+
+
+
+hassaiwjqreÿ wghseight year old
+
+
+
+kyūsaiwjqreÿ kuhhsnine year old
+
+
+
+jussaiwjqreÿ oyhhsten year old
+
+
+
+jūissaiwjqreÿ tfld<yhseleven year old
+
+
+
+jūnisaiwjqreÿ fod<yhstwelve year old
+
+
+
+jūsansaiwjqreÿ oy;=khsthirteen year old
+
+
+
+jūyonsaiwjqreÿ ody;rhsfourteen year old
+
+
+
+jūgosaiwjqreÿ myf<djhsfifteen year old
+
+
+
+jūrokusaiwjqreÿ odihhssixteen year old
+
+
+
+jūnanasaiwjqreÿ ody;hsseventeen year old
+
+
+
+jūhassaiwjqreÿ oywghseighteen year old
+
+
+
+jūkyūsaiwjqreÿ oykuhhsnineteen year old
+
+
+
+hatachiwjqreÿ úiaihstwenty year old
+
+
+
+sanjussaiwjqreÿ ;syhsthirty year old
+
+
+
+yonjussaiwjqreÿ y;,syhsfourty year old
+
+
+
+gojussaiwjqreÿ y;,syhsfifty year old
+
+
+
+rokujussaiwjqreÿ mkyhssixty year old
+
+
+
+nanajussaiwjqreÿ ye;a;Ejhsseventy year old
+
+328
+
+Ｕｎｉｔ
+
+English
+
+
+
+hachijussaiwjqreÿ wiQjhseighty year old
+
+
+
+kyūjussaiwjqreÿ wkQjhsninty year old
+
+
+
+hyakuwjqreÿ iShhshundred year old
+
+
+
+gunjinyuqod ks,odßhdsoldier
+
+
+
+keisatsukanfmd,sia ks,odßhdpoliceman
+
+
+
+haiyūk¨jdactor
+
+
+
+myūjishanix.S;fõoshdmusician
+
+
+
+kashu.dhlhdsinger
+
+
+
+ishaffjoHjrhddoctor
+
+
+
+kangoshifyoshnurse
+
+
+
+kenchikuka.Dyks¾udK Ys,amshdarchitect
+
+
+
+sensei.=rejrhdteacher
+
+
+
+dezaināks¾udK Ys,amshddesigner
+
+
+
+enjiniabxcsfkarejdengineer
+
+
+
+shefuiQmfõoshdchef
+
+
+
+bengoshikS;S×jrhdlawyer
+
+
+
+furaito atendanto.=jka fiajlhdflight attendant
+
+
+
+supōtsu senshuls%vlhdathlete
+
+
+
+toirejeisls<shtoilet
+
+
+
+ongakushitsuix.S; ldurhmusic room
+
+
+
+kyōshitsumka;s ldurhclassroom
+
+
+
+toshokanmqia;ld,hlibrary
+
+
+
+shokudōwdmk Yd,djcafeteria
+
+
+
+rikashitsuúoHd.drhscience laboratory
+
+
+
+konpyūtāshitsumß.Kl ldurhcomputer room
+
+
+
+shokuinshitsuld¾hd,hstaff room
+
+
+
+hokenshitsu.s,ka ldurhsick room
+
+
+
+ikkaim<uqjk ;Ügqjfirst floor
+
+
+
+nikaifojk ;Ügqjsecond floor
+
+
+
+sangai;=kajk ;Ügqjthird floor
+
+
+
+yonkaiy;rjk ;Ügqjfourth floor
+
+
+
+gokaimiajk ;Ügqjfifth floor
+
+
+
+rokkaiyhjk ;Ügqjsixth floor
+
+
+
+nanakaiy;ajk ;Ügqjseventh floor
+
+329
+
+Ｕｎｉｔ
+
+English
+
+
+
+hachikaiwgjk ;Ügqjeighth floor
+
+
+
+kyūkaikujk ;Ügqjninth floor
+
+
+
+jukkaioyjk ;Ügqjtenth floor
+
+
+
+bashoia:dkhplace
+
+
+
+riyūfya;=jreason
+
+
+
+kabannE.hbag
+
+
+
+kaban uribanE.a lvhbag store
+
+
+
+tokei uribaTrf,daiq lvhclock store
+
+
+
+kutsu uribaim;a;= lvhshoe store
+
+
+
+jīnzu uribacskaia lvhjeans store
+
+
+
+kamera uribaleurd lvhcamera store
+
+
+
+sūpāfj<|fmd,super market
+
+
+
+sūjiixLHdnumbers
+
+
+
+nijūúiaitwenty
+
+
+
+sanjū;sythirty
+
+
+
+yonjūy;,syfourty
+
+
+
+gojūmkyfifty
+
+
+
+rokujūyegsixty
+
+
+
+nanajūye;a;Ejseventy
+
+
+
+hachijūwiQjeighty
+
+
+
+kyūjūwkQjninety
+
+
+
+hyakuiShhundred
+
+
+
+nihyakufoiShtwo hundred
+
+
+
+sanbyaku;=kaiShthree hundred
+
+
+
+yonhyakuydriShfour hundred
+
+
+
+gohyakumkaiShfive hundred
+
+
+
+roppyakuyhiShsix hundred
+
+
+
+nanahyakuy;aiShseven hundred
+
+
+
+happayakuwgiSheight hundred
+
+
+
+kyūhyakukjiShnine hundred
+
+
+
+senoyithousand
+
+
+
+nisenfooytwo thousand
+
+
+
+sanzen;=kaoythree thousand
+
+
+
+yonsenydroyfour thousand
+
+330
+
+Ｕｎｉｔ
+
+English
+
+
+
+gosenmkaoyfive thousand
+
+
+
+rokusenyhoysix thousand
+
+
+
+nanaseny;aoyseven thousand
+
+
+
+hassenwgoyeight thousand
+
+
+
+kyūsenkuoynine thousand
+
+
+
+ichimanoioyiten thousand
+
+
+
+nedanñ,price
+
+
+
+ikura desukañ, lShohow much
+
+
+
+rupīremsh,arupees
+
+
+
+takaiñ, jeähsexpensive
+
+
+
+yasui,dnhscheap
+
+
+
+miselvhshop
+
+
+
+jibun;uqkaoneself
+
+
+
+shinamonoNdKavgoods
+
+
+
+uchiksjihome
+
+
+
+teninidmamq fiajlhdshop keeper
+
+
+
+kyakumdßfNda.slhdcustomer
+
+
+
+irasshaimaseidorfhka ms<s.kakjdwelcome to the shop
+
+
+
+kore wo kudasaifïl fokakplease give this
+
+
+
+futaridefokakutwo people
+
+
+
+keitaidenwacx.u ÿrl:khmobile phone
+
+
+
+hoshī monowjYH foha thing you want
+
+
+
+tokeiTrf,daiqjclock
+
+
+
+nōtopasokonmß.Klhnote computer
+
+
+
+terebigēmuà'ù f.aïT.V game
+
+
+
+fukuwe÷ïclothe
+
+
+
+akusesarīwdNrKaccessory
+
+
+
+tanjōbiWmkaoskhbirthday
+
+
+
+itsu desukaljoowhen
+
+
+
+gatsuudihmonth
+
+
+
+ichigatsuckjdßJanuary
+
+
+
+nigatsufmnrjdßFebruary
+
+
+
+sangatsuud¾;=March
+
+
+
+shigatsuwfma%,aApril
+
+331
+
+Ｕｎｉｔ
+
+English
+
+
+
+gogatsuuehsMay
+
+
+
+rokugatsucQksJune
+
+
+
+shichigatsucQ,sJuly
+
+
+
+hachigatsuwf.daia;=August
+
+
+
+kugatsuiema;eïn¾September
+
+
+
+jūgatsuTlaf;daïn¾October
+
+
+
+jūichigatsufkdjeïn¾November
+
+
+
+jūnigatsufoieïn¾December
+
+
+
+omedetō gozaimasuiqnme;=ïcongratulations
+
+
+
+kyoka wo morauwjir ,nd .kakjdto receive permission
+
+
+
+ittemmo ī desuka.shdg lula keoaoMay I go?
+
+
+
+hai,ī desuyoyd lula kEYes,you may
+
+
+
+īe,damedesukeye tmdNo,you cannot
+
+
+
+jishoYío fldaIhdictionary
+
+
+
+shīdīpurēyāiSã maf,ah¾ tlCD player
+
+
+
+shawā wo abitemo īdesukakEjg lula keoaoMay I take a shower?
+
+
+
+okashiri leú,scandies/cookies
+
+
+
+shashincdhdrEmphotograph
+
+
+
+arubamuwe,anuhalbum
+
+
+
+shīdīiSã tlCD
+
+
+
+sumimaseniudfjkaksorry
+
+
+
+motomerub,a,d isákjdask for/to request
+
+
+
+yasumi no hiksjdvq oskhholiday
+
+
+
+sasouwdrdOkd lrkjdto invite
+
+
+
+sasoi wo ukeruwdrdOkdj ms<s.kakjdto accept an invitation
+
+
+
+sasoi wo kotowaruwdrdOkdj m%;slafIam lrkjdto refuse an invitation
+
+
+
+kaimono ni ikimasenkanvq ñ,oS .ekSug huqoShall we go for shopping?
+
+
+
+karaoke ni ikimasenkalrTfla huqoShall we go for Karaoke?
+
+
+
+eiga wo mimasenkaps;%mghla keröug huqoShall we go to watch a movie?
+
+
+
+aisukurīmu wo tabemasenkawhsia lS%ï luqoShall we eat icecream?
+
+
+
+nihon ryōri wo tsukurimasenkacmka lEu youqoShall we cook Japanese food?
+
+
+
+supōtsu wo shimasenkalS%vd lruqoShall we do a sport?
+
+
+
+akaruioSma;su;acheerful,bright
+
+
+
+sukidesuleu;slike
+
+332
+
+Ｕｎｉｔ
+
+English
+
+
+
+seikakupß; ,laIKcharacter
+
+
+
+omoshiroirij;ainteresting
+
+
+
+yasashīlreKdjka;hskind,easy
+
+
+
+otonashīksy~quiet
+
+
+
+shinsetsunalreKdjka;kind
+
+
+
+majimenaolaIhsdiligent
+
+
+
+kappatsunaläirhsactive
+
+
+
+baiorinjh,Skhviolin
+
+
+
+shinharagoisxy, NdIdjSinhala language
+
+
+
+uta.S;hsong
+
+
+
+nani wo shimashitakafudkjo lf,awhat did you do?
+
+
+
+bokuuume (boy)
+
+
+
+shōsetsukjl:djnovel
+
+
+
+mimashitane¨jdsaw/watched/looked
+
+
+
+zasshiiÕrdjmagazine
+
+
+
+yomimashitalsfhõjdread
+
+
+
+intānettowka;¾cd,hinternet
+
+
+
+dōdeshitakafldfydu jqKdohow was it?
+
+
+
+omoshirokatta desurij;a úhwas interesting
+
+
+
+ryokōpdßldjtrip
+
+
+
+tsumaranakatta desukSriúhwas boring
+
+
+
+tanoshikatta desuúfkdaoldó úhwas enjoyable
+
+
+
+māmādeshitaidudkHhswas normal
+
+
+
+atsukatta desuriafk úhwas hot
+
+
+
+samukatta desuiS;, úhwas cold
+
+
+
+tenki ga yokatta desuld,.=Kh fyd| úhweather was good
+
+
+
+tenki ga warukatta desuld,.=Kh krl úhweather was bad
+
+
+
+hikkaduwayslalvqjHikkaduwa
+
+
+
+takusanf.dvlamany
+
+
+
+oyogimashitamsyskqjdswam
+
+
+
+jettokōsutāfcÜ fldaiag¾Jet coaster
+
+
+
+kanranshal;=re TkaÑ,a,djFerris wheel
+
+
+
+wōtāraidofjdag¾ rhsâwater ride
+
+
+
+obakeyashikifyd,auka ukaosrhhaunted house
+
+333
+
+Ｕｎｉｔ
+
+English
+
+
+
+norimashitake.a.dget in
+
+
+
+hairimashitawe;=,a jqKdenter
+
+
+
+shoppingumōruidmamq ixlS¾Khshopping mall
+
+
+
+bōringufnda,skabowling
+
+
+
+shīfūdouqyqÿ lEusea food
+
+334
