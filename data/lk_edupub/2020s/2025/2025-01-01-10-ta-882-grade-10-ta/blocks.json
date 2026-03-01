@@ -1,0 +1,66 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      85.53,
+      124.5,
+      455.2,
+      180.89
+    ],
+    "text": "\u00e8\u02c6\u00ab\u00ee\u00a3L\u201a\u00e8 F\u00bc\u00f1\u00ac\u00f8",
+    "fonts": [
+      "TAM-Tamil064"
+    ],
+    "sizes": [
+      53.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      232.18,
+      263.8,
+      308.55,
+      314.07
+    ],
+    "text": "\u00ee\u00f3\u2039",
+    "fonts": [
+      "TAM-Tamil086"
+    ],
+    "sizes": [
+      43.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      156.53,
+      551.35,
+      384.2,
+      570.05
+    ],
+    "text": "\u00e8\u2122M \u00aa\u00f5Of\u2020\u00b4\u02c6 F\u00ac\u00ed\u201a\u00e8\u00f7\u2039",
+    "fonts": [
+      "TAM-Tamil086"
+    ],
+    "sizes": [
+      16.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      237.55,
+      348.1,
+      303.16,
+      432.59
+    ],
+    "text": "10",
+    "fonts": [
+      "Arial-BoldMT"
+    ],
+    "sizes": [
+      59.0
+    ]
+  }
+]

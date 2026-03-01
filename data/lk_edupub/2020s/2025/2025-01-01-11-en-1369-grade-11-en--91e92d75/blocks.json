@@ -1,0 +1,50 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      72.85,
+      125.84,
+      479.07,
+      223.89
+    ],
+    "text": "Business and Accounting Studies",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      39.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      204.2,
+      257.86,
+      335.81,
+      305.17
+    ],
+    "text": "Grade 11",
+    "fonts": [
+      "TimesNewRoman"
+    ],
+    "sizes": [
+      36.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      124.99,
+      556.65,
+      415.01,
+      580.64
+    ],
+    "text": "Educational Publications Department",
+    "fonts": [
+      "TimesNewRoman,Bold"
+    ],
+    "sizes": [
+      18.0
+    ]
+  }
+]
