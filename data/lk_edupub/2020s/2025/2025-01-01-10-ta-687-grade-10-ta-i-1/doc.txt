@@ -1,0 +1,931 @@
+==== BLOCKS ==== 
+
+C»Á\¨ £õh¡À1
+
+E°›Ú Cµ\õ¯Ú Ai¨£øh 1
+
+E°›¯À
+
+A[QPÎß EhÀ £À÷ÁÖ Cµ\õ¯Úa ÷\ºøÁPøÍU öPõskÒÍx. £À÷ÁÖ ‰»P[PÒ ÷ÁÖ£mh •øÓPÎÀ ¤øn¨£øh¢x Ca ÷\ºøÁPøÍ E¸ÁõUQ²ÒÍÚ.
+
+C¯ØøP°À Põn¨£k® 92 ‰»P[PÎÀ 25 ‰»P[PÒ A[QPÎß Eh¼À Põn¨£kQßÓÚ. CøÁ Eh¼À öÁÆ÷ÁÖ Ch[PÎÀ öÁÆ÷ÁÖ ÁiÁ[PÎÀ Põn¨£kQÓÚ. A[QPÎß EhÀ ö£õxÁõP Põ£ß, Iuµ\ß, Jm]\ß, ø|uµ\ß BQ¯ |õßS ‰»P[PÎÚõÀ BUP¨£mkÒÍx. CÁØÖUS ÷©»vP©õP P¢uP®, ö£õ_£µ_, ÷\õi¯®, ö£õØÓõ]¯®, PÀ]¯®, ©UÜ]¯®, C¸®¦, S÷ÍõŸß BQ¯ ‰»P[PÐ® A[QPÎß {»ÄøPUS Azv¯õÁ]¯©õÚøÁ¯õS®. ©Ûu Eh¼À Põn¨£k® ¤µuõÚ ‰»P[PÎß voÂß ¡ØÖÃu Aø©¨ø£ ¤ßÁ¸® £h® ‰»® Põmh»õ®.
+
+Jm]\ßPõ£ßIuµ\ßø|uµ\ß÷ÁÖ
+
+E¸ 1.1 ©Ûu Eh¼À Ah[Q²ÒÍ ¤µuõÚ ‰»P[PÎß ¡ØÖÃu Aø©¨¦ (voÄUS HØ£)
+
+E°ºa \h¨ö£õ¸ÒPÒ BUP¨£mkÒÍ Cµ\õ¯Úa ÷\ºøÁPøÍ ÷\uÚa ÷\ºøÁPÒ, A÷\uÚa÷\ºøÁPÒ GÚ Cµsk Tmh[PÍõP ÁøP¨£kzu •i²®. Põ£ß ‰»P® Ah[Q²ÒÍ ÷\ºøÁPÒ ÷\uÚa ÷\ºøÁPÒ GÚÄ® Põ£ß ‰»P® Ah[Põu ÷\ºøÁPÒ A÷\uÚa ÷\ºøÁPÒ GÚÄ® AøÇUP¨£k®.
+
+E°ºa\h¨ö£õ¸Ò BUP¨£mkÒÍ ¤µuõÚ ÷\uÚa ÷\ºøÁPÒ E°›¯À ‰»UTÖPÒ GÚ AøÇUP¨£k®. CøÁ |õßS ÁøP¨£k®. AøÁ¯õÁÚ :
+
+· Põ÷£õøÁu÷µØÖ · ¦µu® · C¼¨¤mk · {²UQÎUPª»®
+
+C»Á\¨ £õh¡À2
+
+}º, PÛ²¨¦UPÒ, Áõ²UPÒ Gß£øÁ E°ºa\h¨ö£õ¸ÒPøÍ E¸ÁõUSÁuØS £¯ß£k® A÷\uÚa ÷\ºøÁPÍõS®.
+
+‰»P®voÂß ¡ØÖÃu®Eh¼À Põn¨£k® Ch[PÒ
+
+O65AøÚzx¨£õ´©[PÒ, CøÇ¯[PÒ, Gß¦, ¦µu®
+
+C18EhÀ •ÊÁx®
+
+H10AøÚzx¨£õ´©[PÒ, CøÇ¯[PÒ, Gß¦, ¦µu®
+
+N3AøÚzx¨£õ´©[PÒ, CøÇ¯[PÒ, ¦µu®
+
+Ca1.5‰øÍ, _Áõ\¨ø£, ]Ö}µP®, DµÀ, Cu¯®, øu÷µõ°mk uø\, Gß¦
+
+P1.0Gß¦, ]Ö}º¨ø£
+
+K0.35ö|õv¯[PÒ
+
+S0.25¦µu®
+
+Na0.15AøÚzx¨£õ´©[PÒ, CøÇ¯[PÒ
+
+Mg0.05‰øÍ, _Áõ\¨ø£, ]Ö}µP®, DµÀ, Cu¯®, øu÷µõ°mk, uø\
+
+Cl
+
+~so¯ÍÂÀFe
+
+I
+
+÷©»vP AÔÄUPõP
+
+}
+
+1.1 Põ÷£õøÁu÷µØÖ (Carbohydrates)
+
+§ª°ß ÷©Ø£µ¨¤À ö£¸©ÍÂÀ Põn¨£k® ÷\uÚa ÷\ºøÁ Põ÷£õøÁu ÷µØÖ BS®. Cx £aø\zuõÁµ[PÎÚõÀ ÷©ØöPõÒÍ¨£k® JÎzöuõS¨¦a ö\¯ß•øÓ°ß÷£õx EØ£zv ö\´¯¨£kQÓx. AßÓõh ÁõÌÂÀ EÒöÍkUP¨£k® EnÄPÎÀ E¸øÍUQÇUS, ÁØÓõøÍ, uõÛ¯ ÁøPPÒ, ^Û, ©õ BQ¯øÁ Põ÷£õøÁu÷µØÖ Ah[Q¯ EnÄ ÁøPPÐUPõÚ ]» Euõµn[PÍõS®.
+
+Põ÷£õøÁu÷µØÖ Põ£ß, Iuµ\ß, Jm]\ß BQ¯ ‰»P[PøÍU öPõshx. C[S Iuµ\ß, Jm]\ß BQ¯ ‰»P[PÒ •øÓ÷¯ 2:1 ÂQuzvÀ Põn¨£kQÓx.
+
+C»Á\¨ £õh¡À3
+
+Põ÷£õøÁu÷µØÔß ‰»UTØÖa `zvµ®
+
+Cx (H2O) y
+
+Põ÷£õøÁu÷µØÖ ÷\ºøÁ E¸ÁõUP¨£mkÒÍ •øÓUS HØ£ AÁØøÓ ¤ßÁ¸©õÖ ÁøP¨£kzu •i²®.
+
+n = SÐU÷Põ_ ‰»UTÖPÎß GsoUøP
+
+Põ÷£õøÁu÷µØÖ
+
+J¸\UPøµmk
+
+(C6H12O6)
+
+yy SÐU÷Põ_yy ¤ÓU÷Óõ_yy P»U÷Óõ_
+
+C¸\UPøµmk
+
+(C12H22O11)
+
+yy ÷©õÀØ÷Óõ_yy _US÷µõ_yy C»U÷Óõ_
+
+£À\Uøµmk
+
+(C6H10O5)nyy ©õ¨ö£õ¸Òyy ö\¾÷»õ_yy QøÍU÷Põáß
+
+· J¸ \UPøµmk (Monosaccharide)
+
+Põ÷£õøÁu÷µØÔß Pmhø©¨£»S J¸ \UPøµmk BS®. CøÁ ö£õxÁõP GÎ¯ öÁÀ»[PÒ GÚÄ® AøÇUP¨£k®. CøÁ £Î[S¸ Aø©¨ø£U PõmkQßÓÚ. }›À PøµQßÓÚ. CÛ¨¦a _øÁ öPõshøÁ. SÐU÷Põ_, ¤ÓU÷Óõ_, P»U÷Óõ_ Gß£øÁ J¸\UPøµmkUS Euõµn[PÍõS®.
+
+Euõµn®Põn¨£k® Ch®÷ÁÖ uPÁÀPÒSÐU÷Põ_£Êzu £Ç[PÒ, ÷ußyy©õ¨ö£õ¸Ò Ah[Q¯ GÀ»õ EnÄPÐ® }º¨£S¨£øh²® ÷£õx ö£Ó¨£k® CÖv ÂøÍö£õ¸Ò
+
+yyCU SÐU÷Põ_ APzxÔg\¨£mk S¸v²hß ÷\ºUP¨£kQÓx.
+
+yyuõÁµ JÎzöuõS¨¦a ö\¯ß •øÓ°ß ¤µuõÚ ÂøÍö£õ¸Ò SÐU÷Põ_ BS®.
+
+yyP»a_Áõ\zvß ÷£õx SÐU÷Põ_ EøhUP¨£mk \Uv ÂkÂUP¨£k QßÓx.
+
+AmhÁøn 1.1 J¸ \UPøµmk öuõhº£õÚ uPÁÀPÒ
+
+C»Á\¨ £õh¡À4
+
+¤ÓU÷Óõ_£Êzu £Ç[PÒ
+
+÷uß
+
+CÛ¨¦¨ §\o
+
+Pµm
+
+yy£ÇöÁÀ»® GÚ AøÇUP¨£kQÓx.
+
+yyPõ´PÒ £ÊUS® ÷£õx ¤ÓU÷Óõ_ E¸ÁõQÓx.
+
+yyCÛ¨¦a_øÁ Ti¯x.
+
+P»U÷Óõ_£õ¾Ø£zv EnÄPÒyyC»U÷µõ]ß \ª£õmk ÂøÍÄPÎÀ JßÓõS®.
+
+yyCÛ¨¦a _øÁ¯ØÓx.
+
+· C¸ \UPøµmk (Disaccharide)
+
+Cµsk J¸\UPøµmkUPÒ ÷\º¢x C¸\UPøµmk E¸ÁõQßÓx. Cuß ÷£õx }º‰»UTÖ JßÖ öÁÎ÷¯ÖQßÓx. CÆÁõ÷Ó C¸\UPøµmkUPøÍ }÷µØÓ® ö\´Áuß ‰»® J¸\UPøµmkUPÒ ö£Ó¨£kQÓx. CÛ¨¦ _øÁ²øh¯x. £Î[S¸ÁõÚx. }›À Pøµ¯UTi¯x.
+
+2 C6H12O6 C12H22O11 + H2O
+
+÷©õÀØ÷Óõ_, _US÷µõ_, C»U÷Óõ_ Gß£øÁ C¸\UPøµmkUS Euõµn[PÍõS®. C¸\UPøµmkUPÒ öuõhº£õÚ uPÁÀ Ah[Q¯ AmhÁøn 1.2 CÀ uµ¨£mkÒÍx.
+
+Euõµn®Põn¨£k® Ch® ÷ÁÖ uPÁÀPÒ
+
+÷©õÀØ÷Óõ_•øÍUS® ÂzxUPÒ
+
+yyCµsk SÐU÷Põ_ ‰»UTÖPÒ Cøn¢x ÷©õÀØ÷Óõ_ E¸ÁõS®. SÐU÷Põ_ + SÐU÷Põ_ ÷©õÀØ÷Óõ_ + }º
+
+yy©õ¨ö£õ¸øÍ }÷µØÖ® ÷£õx ÷uõßÖ® Cøh ÂøÍÄ
+
+AmhÁøn 1.2 C¸\UPøµmk ÁøP, AøÁ Põn¨£k® Ch®, Â÷\h uPÁÀPÒ
+
+C»Á\¨ £õh¡À5
+
+_US÷µõ_öÁÒøÍ, ]Á¨¦^Û°À P¸®¦, ¥m×m, ]» £Ç[PÎÀ, E›¯a\õÔÀ
+
+yy¤ÓU÷Óõ_ ‰»UTÖ, SÐU÷Põ_ ‰»UTÖhß Cøn¢x _US÷µõø\ E¸ÁõUS®. ¤ÓU÷Óõ_ + SÐU÷Põ_ _US÷µõ_
+
+yyCÛ¨¦a _øÁ²øh¯x.
+
+C»U÷Óõ_£õ¾Ø£zv EnÄPÒ
+
+yyP»U÷Óõ_ ‰»UTöÓõßÖ SÐU÷Põ_ ‰»UTÖhß ÷\º¢x C»U÷Óõø\ E¸ÁõUS®. P»U÷Óõ_ + SÐU÷Põ_ C»U÷Óõ_ + }ºyyuõÁµ[PÎÀ Põn¨£hõu öÁÀ»® CxÁõS®.yyCÛ¨¦a _øÁ SøÓ¢ux.yy£õ¼À EÒÍ C»U÷Óõ_ ¡ØÖÃu Aø©¨¦ 4 % - 6 % BS®.yyuõ´¨£õ¼À EÒÍ C»U÷Óõ_ \uÃu® 6 % - 7 %
+
+· £À\UPøµmk (Polysaccharide)
+
+J¸ \UPøµmk ‰»UTÖPÎß £À£Sv¯©õUPÀ ‰»® £À\UPøµmkPÒ E¸ÁõQßÓÚ. AÆÁõ÷Ó £À\UPøµmkUPÒ }º£S¨¦£øh¢x «sk® J¸\UPøµmkPøÍ E¸ÁõUS®. CøÁ QøÍ öPõsh AÀ»x QøÍ¯ØÓ \[Q¼ Aø©¨¤À Põn¨£k®. }›À Pøµ¯õx. £Î[S¸ÁØÓx. ö\¾÷»õ_, ©õ¨ö£õ¸Ò, QøÍU÷Põáß Gß£øÁ £À\UPøµmkUS Euõµn[PÍõS®. ö\¾÷»õ_, ©õ¨ö£õ¸Ò, QøÍU÷Põáß BQ¯ £À\UPøµmkUPÎß Pmhø©¨£»S SÐU÷Põ\õS®. Põn¨£k® SÐU÷Põ_ ‰»UTÖPÎß GsoUøP, ‰»UTÖPÒ öuõhº¦£mkÒÍ •øÓ BQ¯ÁØÔØ÷PØ£ AÁØÔß C¯À¦PÒ JßÔ¼¸¢x JßÖ ÷ÁÖ£kQßÓÚ.
+
+÷©»vP AÔÂØPõP
+
+E¸ 1.2 SÐU÷Põ_ ‰»UTÔß Aø©¨¦
+
+C»Á\¨ £õh¡À6
+
+AmhÁøn 1.3 ö£õ¼\UPøµmk ÁøP, AøÁ Põn¨£k® Ch®, ÷ÁÖ uPÁÀPÒ
+
+Euõµn®Põn¨£k® Ch®÷ÁÖ uÁPÀPÒ
+
+ö\¾÷»õ_uõÁµUP»a_Áº, |õºzußø©¯õÚ uõÁµ[PÒ
+
+yySÐU÷Põ_ ‰»U_ÖPÒ £» ÷\º¢x ö\¾÷»õ_ E¸ÁõS®.
+
+yy©ÛuÛß \ª£õmkz öuõSv°À \ª£õk AøhÁvÀø». CuÚõÀ CÁØÖUS ÷£õ\øn¨ ö£Ö©õÚ® ÁÇ[P¨£kÁvÀø». GÛÝ® ©»a ]UPÀ HØ£kÁøuz uÂºUS®.©õ¨ö£õ¸ÒuõÛ¯ ÁøP,QÇ[S ÁøP,£»õ, Dµ¨£»õ
+
+yy©õ¨ö£õ¸Ò uõÁµ[PÎÀ PÍg]¯¨ £kzu¨£k® Põ÷£õøÁu÷µØÖ ÁøP BS®.
+
+QøÍU÷PõáßÂ»[SPÎß Dµ¼À, uø\°À
+
+yyÂ»[SPÎß Eh¼ÝÒ Põ÷£õøÁ u÷µØÖ QøÍU÷PõáÚõP PÍg]¯¨ £kzu¨£kQÓx.
+
+· Põ÷£õøÁu÷µØÔß •UQ¯zxÁ[PÒ
+
+yy \Uv •uÀ
+
+A[QPÎß ö\¯Ø£õmiØSz ÷uøÁ¯õÚ \Uvø¯ ÁÇ[S® ¤µuõÚ \Uv •uÀ Põ÷£õøÁu÷µØÓõS®. Cuß \ª£õmiß ÷£õx ÷uõßÖ® J¸\UPøµmk (SÐU÷Põ_) P»zvÝÒ Jm]÷¯ØÓ©øhÁuß ‰»® \Uv ¤Ó¨¤UP¨£kQÓx.
+
+yy÷\ª¨¦nÄ
+
+yyA[QPÎß Pmhø©¨¦U TÖ
+
+yy{³UQÎUPª»zvß TÖ
+
+C»Á\¨ £õh¡À7
+
+Põ÷£õøÁu÷µØøÓ CÚ[Põs£uØPõÚ ÷\õuøÚ
+
+Põ÷£õøÁu÷µØÖ GßÝ® E°›¯À ‰»UTÔÀ CÚ[Põn¨£mh ÁøPPÍõP ©õ¨ö£õ¸Ò, J¸\UPøµmk, C¸\UPøµmk BQ¯øÁ £À÷ÁÖ EnÄPÎÀ Ah[Q²ÒÍÚ. CÁØøÓ ¤ßÁ¸® ÷\õuøÚPÒ ‰»® CÚ[Põn •i²®.
+
+©õ¨ö£õ¸ÐUPõÚ ÷\õuøÚ
+
+² EnÂß ]ÔuÍøÁ Gkzx |_UQ }¸hß |ßÓõP P»US[PÒ.
+
+² AuÝÒ A¯jß Pøµ\¼ß ]ÔxÎPøÍ Ck[PÒ.
+
+² P¸ }» {Ó® ÷uõßÖÁøu AÁuõÛ²[PÒ.
+
+J¸\UPøµmkUPõÚ ÷\õuøÚ
+
+yy ÷\õuøÚU SÇõ´ JßÔÀ SÐU÷Põ_ ]ÔuÍøÁ Gk[PÒ. yy ¥¼[ A, B Pøµ\ÀPÎÀ \© GsoUøP¯õÚ xÎPøÍ°k[PÒ. yy ¤ß Aa÷\õuøÚUSÇõø¯ }ºzuõÈ°ÝÒ øÁzx öÁ¨£÷©ØÖ[PÒ. yy ¤ßÁ¸® {Ó©õØÓ[PøÍ AÁuõÛ²[PÒ.
+
+AÁuõÛ¨¦ : }»® £aø\ £]¯ ©g\Ò ö\®©g\Ò ö\[Pmia ]Á¨¦ {Ó ÃÌ£iÄ ÷uõßÖuÀ
+
+C¸\UPøµmkUPõn ÷\õuøÚ
+
+yy ÷\õuøÚU SÇõ°À ^ÛUPøµ\À ]ÔuÍøÁ Ck[PÒ.
+
+yy ¤ß IuõÚ \À§›Pª»® AÀ»x IuõÚ Iu÷µõS÷Íõ›U Aª»® ]ÔuÍøÁ Ck[PÒ.
+
+yy Pøµ\ø» J¸ {ªh® öÁ¨£÷©ØÖ[PÒ.
+
+yy ÷©»vP Aª»zøu NaHCO3 CÚõÀ |k{ø»¯õUS[PÒ.
+
+yy ¥¼[ A, B Pøµ\¼ß \© GsoUøP¯õÚ xÎPøÍ Ck[PÒ.
+
+yy ÷\õuøÚU SÇõø¯ }ºuõÈ°ÝÒ øÁzx öÁ¨£÷©ØÖ[PÒ.
+
+AÁuõÛ¨¦ : }»® £aø\ £]¯ ©g\Ò ö\®©g\Ò ö\[Pmia ]Á¨¦ {Ó ÃÌ£iÄ ÷uõßÖuÀ
+
+1.2 ¦µu® (Protein)
+
+¦µu® GÀ»õ E°¸ÒÍ P»[PÎÚx® Azv¯õÁ]¯©õÚ BUPUTÓõS®. ¦µu® BÚx Põ£ß, Iuµ\ß, Jm]\ß, ø|uµ\ß BQ¯ ‰»P[PÍõÀ BÚx. CÁØøÓ Âh P¢uP® ]» ¦µu[PÎÀ Põn¨£kQÓx.
+
+C»Á\¨ £õh¡À8
+
+ÁÍº¢u ©ÛuÛß EhÀ Aø©¨¤ß ¡ØÖÃuzvØS HØ£ 17 % ¦µuzvÚõÀ BÚx. ¦µu® Gß£x Aª÷Úõ Aª» ‰»UTÖPÎß £À£Sv¯zvÚõÀ BÚ ]UP»õÚ ÷\ºøÁ¯õS®. CøÓa], «ß, •møh öÁsP¸ ÷£õßÓ EnÄPÎÀ AvPÍÂÀ ¦µu® Esk.
+
+÷©»vP AÔÄUPõP
+
+· Aª÷Úõ Aª»®
+
+Aª÷Úõ Aª»zvß Pmhø©¨ø£ ¤ßÁ¸©õÖ Põmh»õ®.
+
+vaKdl adkfshuew hvaKdl a,sialdnfdl
+
+Põö£õU]À Tmh®Aø©÷Úõ
+
+Tmh®
+
+Põö£õU]À Tmh®Aø©÷Úõ
+
+Tmh®
+
+C[S R BÚx Põ£ß, Iuµ\ß Ah[Q¯ Iu÷µõUPõ£ß TmhzøuU SÔUQßÓx. R Tmh® JßÖUöPõßÖ ÷ÁÖ£kÁuÚõÀ 20 ÁøP¯õÚ Aª÷Úõ Aª»[PÒ Põn¨£kQßÓÚ. £ØÕ›¯õ öuõhUP® ©Ûuß Áøµ AøÚzx E°µ[QPÎß EhÀ £À÷ÁÖ ¦µu[PÎÚõÀ BÚx. C¨ ¦µu[PÒ JßÔÀ C¸¢x JßÖ ÷ÁÖ£mh 20 ÁøP¯õÚ Aª÷Úõ Aª»[PÒ öÁÆ÷ÁÖ •øÓ°À ÷\ºÁuõÚÀ E¸ÁõQßÓÚ.
+
+GÎ¯ Aª÷Úõ Aª»©õÚ QøÍ]ß
+
+C¢u Aª÷Úõ Aª»® ©õzvµ® R C¸UP ÷Ási¯ ChzvÀ J¸ Iuµ\ß (H)Aq ©mk® Põn¨£kQÓx.
+
+C NH
+
+COOH
+
+H
+
+H
+
+QøÍ]ß ‰»UTÔß Pmhø©¨¦
+
+Aª÷Úõ Aª»[PÎÀ ]» Eh¼ÝÒ EØ£zv ö\´¯ •i¯õx. AÁØøÓ EnÄ ‰»® EhÀ ö£ØÖU öPõÒÍ ÷Ásk®. CuÚõÀ CøÁ Azv¯õÁ]¯©õÚ Aª÷Úõ Aª»[PÒ GÚ AøÇUP¨£kQßÓÚ.
+
+C»Á\¨ £õh¡À9
+
+E[PÒ AÔÂØS
+
+uõÁµ, Â»[SPÎÝÒ Ah[Q²ÒÍ £À÷ÁÖ ¦µu[PÒ
+
+yy uø\°¾ÒÍ ¦µu® & ©÷¯õ]ß, AU›ß
+
+yy Gß¤À EÒÍ ¦µu® & Jö\°ß
+
+yy ö\[SÈ¯zv¾ÒÍ ¦µu® & D÷©õS÷Íõ¤ß
+
+yy uø»ø©°º / E÷µõ©[PÎ¾ÒÍ ¦µu® & öPµmjß
+
+yy AÁøµ°Úz uõÁµzv¾ÒÍ ¦µu® & Cö»Q²ªß
+
+yy ÷Põxø©°À EÒÍ ¦µu® & S¾ØöÓß
+
+yy •møh°ß öÁsP¸ÂÀ EÒÍ ¦µu® & AÀ¦ªß
+
+¦µuzvß •UQ¯zxÁ®
+
+yy\Uv ¤Ó¨¤US® •uÀ
+
+Põ÷£õøÁu÷µØÖ, C¼¨¤mk £uõºzu[PÎÀ C¸¢x QøhUS® \Uv ÷£õx©õÚuõP Aø©¯õu ÷£õx ¦µuzv¼¸¢x \Uv ¤Ó¨¤UP¨£kQÓx.
+
+yyPmhø©¨¦U TÖPøÍ E¸ÁõUSuÀ
+
+P»ö©ß \ÆøÁ²¸ÁõUS® ¤µuõÚ TÖPÎÀ ÷PõÍ¨¦µu® •UQ¯©õÚ uõS®. ÷©¾® Â»[SPÎß Eh¼¾ÒÍ öuõk¨¤øÇ¯[PÎß TÓõÚ öPõ»õáß ¦µu[PÎÚõÀ BÚx. uø»©°º, CÓSPÎÀ öPµmjß GßÝ® ¦µu® Põn¨£kQÓx.
+
+yyö|õv¯©õPz öuõÈØ£kuÀ
+
+A[Q°ß Eh¼À |øhö£Ö® E°º Cµ\õ¯Ú uõUP[PÐUS ö|õv¯[PÒ FUQ¯õPz öuõÈØ£kQßÓÚ. C¢ ö|õv¯[PÒ ¦µu[PÎÚõÀ BÚøÁ.
+
+yyK÷©õÚõPz öuõÈØ£kuÀ
+
+A[QPÎß J¸ ^ºvh {ø»US® Cø¯£õUPzvØS® AÁ]¯©õÚ ]» K÷©õßPÒ ¦µu[PÍõS®.
+
+Euõµn® : Â»[SPÎÀ Cß_¼ß K÷©õß, ÁÍºa] K÷©õß
+
+yy¤Óö£õ¸öÍv›¯õPz öuõÈØ£kuÀ
+
+G©x Eh¼ÝÒ ¦S® £À÷ÁÖ ~sn[QPÎhª¸¢x Ehø»¨ £õxPõzxU öPõÒÍ öÁsSÈ¯[PÒ ‰»® EØ£zv ö\´¯¨£k® ¤Óö£õ¸öÍv›¨ £uõºzu[PÒ ¦µu[PÍõS®.
+
+C»Á\¨ £õh¡À10
+
+¦µuzøu CÚ[PõqÁuØS›¯ ÷\õuøÚ
+
+ø£²÷µØÖa ÷\õuøÚ
+
+£¸¨ø£ |ßÓõPz yÍõUQ }º ÷\ºzx¨ ö£Ó¨£mh Pøµ\À AÀ»x •møh°ß öÁsP¸øÁ¨ ö£ØÖU öPõÒÐ[PÒ.
+
+AUPøµ\¾US 5 % ÷\õi¯® Iuöµõmø\mk Pøµ\¼ß \© PÚÁÍÄ ÷\ºUP¨£mk ¤ß 1 % ö\¨¦a \À÷£ØÖU Pøµ\À ]» xÎPøÍ Ck[PÒ.
+
+AÁuõÛ¨¦ : Pøµ\¼À CÍg]Á¨¦ Fuõ / Pk® Fuõ {Ó® ÷uõßÖuÀ.
+
+ö|õv¯[PÒ (Enzymes)
+
+A[QPÎÀ |øhö£Ö® E°º Cµ\õ¯Úz uõUP[PÎß uõUP Ãuzøu AvP›UPa ö\´Áx® A[QPÎß Eh¼ÝÒ EØ£zv ö\´¯¨£kÁx©õÚ Â÷\h ¦µu® ö|õv¯[PÒ GÚ AøÇUP¨£k®.
+
+Euõµn® : _US÷µõø\ SÐU÷Põ\õP ©õØÖÁuØS IuõÚ Aª»® ÷\ºUP¨£mk öÁ¨£÷©ØÓ¨£kQÓx. GÛÝ® EnÄU PõÀÁõ´z öuõSv°À EÒÍ ö|õv¯® C÷u uõUPzøu SøÓ¢u öÁ¨£{ø»°À {PÌzxQÓx.
+
+BP÷Á ö|õv¯©õÚx E°º Cµ\õ¯Ú uõUPzvØS FUQ¯õPU öuõÈØ£kQÓx.
+
+ö|õv¯zvß öuõÈØ£õmøhU Põmh ¤ßÁ¸® ö\¯Ø£õmiÀ Dk£k÷Áõ®.
+
+©õ¨ö£õ¸Ò «x Aª÷»_ ö|õv¯zvß ö\¯Ø£õmøhU PõmkuÀ.
+
+£i•øÓ :
+
+yy2 ml ©õUPøµ\ø» ÷\õuøÚU SÇõ°ÝÒ Ck[PÒ.
+
+yyAuØSÒ 2 ml Aª÷»_ ö|õv¯zøu Ck[PÒ.
+
+yy2 {ªh[PÎß ¤ßÚº P»øÁ°À C¸¢x xÎö¯õßøÓ öÁsoÓ ÷£õ]¼ß umiß «x Ck[PÒ.
+
+yyAuØS A¯iß Pøµ\¼ß J¸ xÎø¯ Ck[PÒ.
+
+yy«sk® 2 {ªh[PÎß ¤ßÚº •ßÚøµ¨ ÷£õß÷Ó uõUPU P»øÁ°À C¸¢x xÎö¯õßøÓ ÷£õ]¼ß umiß «x Ck[PÒ. Auß «x A¯iß xÎø¯ Ck[PÒ.
+
+yyCÆÁõÖ 2 {ªh[PÐUS J¸ uhøÁ Gkzx 20 {ªh[PÒ Áøµ C¨£›÷\õuøÚø¯ ÷©ØöPõÒÐ[PÒ.
+
+ö\¯Ø£õk 1.1
+
+C»Á\¨ £õh¡À11
+
+AÁuõÛ¨¦
+
+yyCÆÁõÖ GkUP¨£mh uõUPUP»øÁ Bµ®£zvÀ A¯jß Pøµ\¾hß P¸ }» {ÓzøuU PõmkÁøu²® ¤ßÚº Fuõ {Ózøu²® CÖv°À uõUPUP»øÁ P¤»{Ózøu (A¯jß Pøµ\¼ß {Ó®) Põmk®.
+
+©õ¨ö£õ¸Ò Aª÷»_ ö|õv¯zvÚõÀ }º¨£S¨£øh¢x ÷©õÀØ÷Óõ_ E¸ÁõQÓx. BÚõÀ ©õ¨ö£õ¸Ò A¯jß Pøµ\¾hß P¸ }» {ÓzøuU öPõkUS®. BÚõÀ C[S 20 {ªhzvß ¤ß A¯jß Pøµ\¾hß GxÂu {Ó ©õØÓzøu PõmhõuvÚõÀ ©õ¨ö£õ¸Ò Aª÷»_ ö|õv¯zvÚõÀ ÷ÁÖ ÷\ºøÁ¯õP ©õØÓ¨£mkÒÍx.1.3 C¼¨¤mk (Lipid)
+
+Gsön´, öPõÊ¨¦ Gß£øÁ CU TmhzvÀ Ah[SQßÓÚ. (C¼¨¤mk, AøÓ öÁ¨£{ø»°À vs©©õPU Põn¨£k® ÷£õx öPõÊ¨¦ GÚÄ®, vµÁ©õPU Põn¨£k® ÷£õx Gsön´ GÚÄ® AøÇUP¨£k®.) Põ÷£õøÁu÷µØøÓ¨ ÷£õÀ C¼¨¤mk Põ£ß, Iuµ\ß, Jm]\ß BQ¯ ‰»P[PÎÚõ»õÚ ‰»U TÓõS®. GÛÝ® Põ÷£õøÁu÷µØÖ ‰»UTøÓ¨ ÷£õßÓÀ»õx C¼¨¤miÀ Iuµ\ß Jm]\ß BQ¯ÁØÖUQøh°»õÚ ÂQu® •øÓ÷¯ 2:1 Âh AvP©õS®. C¼¨¤mk }º Em£h •øÚÄzußø©¯õÚ vµÁ[PÎÀ PøµÁvÀø». GÛÝ® ÷\uÚUPøµ¨£õßPÎÀ |ßÓõP PøµQßÓx.
+
+öPõÊ¨£ª»®, QÎ\÷µõÀ Gß£øÁ ÷\º¢x C¼¨¤mk E¸ÁõQßÓx.
+
+öPõÊ¨£ª»® + QÎ\÷µõÀ C¼¨¤mk + }º
+
+C¼¨¤miß •UQ¯zxÁ[PÒ
+
+yy \Uv •u»õPa ö\¯Ø£kuÀ
+
+Põ÷£õøÁu÷µØÖ, ¦µu® Gß£øÁ ÷£õÀ C¼¨¤mk® \Uv •u»õPz öuõÈØ£kQßÓx. ö£¸©ÍÁõÚ \Uv C¼¨¤mk Jm]÷¯ØÓ¨£kÁuß ‰»® E¸ÁõQßÓx.
+
+yy £À÷ÁÖ Pmhø©¨¦U TÖPøÍ E¸ÁõUSuÀ
+
+P»ö©ß\ÆÂß AuõÁx •u¾¸ö©ß\ÆÂß ¤µuõÚ TÖ C¼¨¤m hõS®. (Â÷\h©õP ö£õ_÷£õ C¼¨¤mk, öPõ»ì÷µõÀ)
+
+C»Á\¨ £õh¡À12
+
+yy}ºUPõ¨¦ ö\´ÁuØS
+
+uõÁµ EhÀPÎß ÷©Ø£µ¨¤À Q³ØÔß GÚ¨£k® ö©ÊQß Põµn©õõP }º öÁÎ÷¯ÖÁx ukUP¨£kQßÓx. Q³ØÔß J¸ ÁøP C¼¨¤mhõS®. A÷|P Â»[SPÎß Eh¼À ö©ÊS¨ £øh Põn¨£kÁuõÀ }º CÇ¨¦ ukUP¨£kQßÓx AuõÁx C¼¨¤mk }øµ Emö\À» Âhõu £uõºzu©õS®.
+
+yyEhÀöÁ¨£{ø»ø¯¨ ÷£quÀ
+
+£ÓøÁPÒ, £õ¿miPÒ BQ¯ ©õÓõ EhÀ öÁ¨£{ø» öPõsh Â»[SPÎß ÷uõ¾US RÇõPÄÒÍ öPõÊ¨¦¨£øh öÁ¨£U PõÁ¼¯õPz öuõÈØ£kQßÓx. Cx AÆÂ»[SPÎß EhÀ öÁ¨£{ø»ø¯¨ ÷£qÁvÀ EuÄQßÓx.
+
+yyEm¦Ó EhÀ A[P[PøÍ¨ £õxPõzuÀ
+
+Â»[Sh¼À Em¦Ó A[P[PøÍa `ÇU Põn¨£k® öPõÊ¨¦¨ £øh ¦Óa `Ç¼À HØ£kzu¨£k® Avºa]ø¯ APzxÔg_QÓx. CuÚõÀ EhÀ EÒÐÖ¨¦PÐUS £õxPõ¨¦U QøhUQÓx.
+
+yy]» K÷©õßPÎß EØ£zvUS EuÄuÀ
+
+•ÒÍ¢uskÒÍ Â»[SPÎÀ ]» K÷©õßPøÍ (Dìvµáß, öuìöuõìu ÷µõß, ÷Põmi÷\õß ÷£õßÓÁØøÓ) EØ£zv¯õUSÁuØS C¼¨¤mk •UQ¯©õÚuõS®.
+
+C¼¨¤møh CÚ[PõquÀ
+
+`hõÚ III ÷\õuøÚ
+
+yy|Àö»sön´ AÀ»x ÷u[Põö¯sön°À ]» xÎPøÍ ÷\õuøÚU SÇõ°À Ck[PÒ.
+
+yyAuØSa `hõÚ III ß ]» xÎPøÍ ÷\ºzx |ßS S¾US[PÒ.
+
+AÁuõÛ¨¦ : ]Á¨¦ {Ó Gsön´U ÷PõÍ[PÒ ÷uõßÖ®.
+
+•i¦ : AÆÄnÂÀ C¼¨¤mk Esk.
+
+C»Á\¨ £õh¡À13
+
+÷©»vP AÔÄUPõP
+
+öPõÊ¨£ª»[PøÍ ¤ßÁ¸® •øÓ°À ÁøP¨£kzu •i²®.
+
+öPõÊ¨£ª»®
+
+{µ®¤¯ öPõÊ¨£ª»® {µ®£õu öPõÊ¨£ª»®
+
+{µ®¤¯ öPõÊ¨£ª»®
+
+JÆöÁõ¸ Põ£ß AqÄ® E¯º GsoUøPU öPõsh Iuµ\ß AqUPÐhß ¤øn¨¦ØÖ C¸US©õ°ß Ax {µ®¤¯ öPõÊ¨£ª»® GÚ¨£k®. Azxhß Cµsk Põ£ßAqUPÐUQøh°À J¸ ÷£õx® Cµmøh¨ ¤øn¨÷£õ AÀ»x •®ø©¨ ¤øn¨÷£õ Põn¨£kÁvÀø».
+
+Euõµn® : ª›ìiUPª»®: (uõÁµ[PÎ¾®, Â»[SPÎ¾® ]ÔuÍÂÀ
+
+Põn¨£k® öPõÊ¨£ª»®)
+
+£õªØÔUPª»®: (vs© öPõÊ¨¦ Â»[SPÒ, uõÁµ[PÎÀ
+
+Põn¨£k®)
+
+ìv¯›UPª»® (uõÁµU öPõÊ¨¦)
+
+{µ®£õu öPõÊ¨£ª»®
+
+CU öPõÊ¨£ª»[PÎÀ JÆöÁõ¸ Põ£ß AqÄ® E¯º GsoUøP°À Iuµ\ß AqUPÐhß ¤ønUP¨£hõx C¸US©õ°ß Ax {µ®£õu öPõÊ¨£ª»® GÚ¨£k®. C[S Cµsk Põ£ß AqUPÐUQøh÷¯ Cµmøh¨ ¤øn¨¦ Põn¨£kQßÓx.
+
+1.4 {²UQÎUPª»[PÒ (Nucleic Acids)
+
+{²UQÎUPª»® Gß£x BUP A»PõQ¯ {²UQÎ÷¯õøµmkPÒ ÷|º÷Põmk ÁiÂÀ ¤ønUP¨£mk E¸ÁõQ²ÒÍ E°›¯À ‰»UTØÖz öuõSv¯õS®. CøÁ ÷|º÷Põmk¨ £À£Sv¯©õS®. CvÀ Põ£ß, Iuµ\ß, Jm]\ß, ø|uµ\ß, ö£õ_£µ_ BQ¯ ‰»P[PÒ Ah[Q²ÒÍÚ. E°¸ÒÍ \h¨ö£õ¸ÒPÎÀ Ah[Q²ÒÍ ¤µuõÚ ÷\uÚ ‰»UTÖ ÁøPPÎÀ {²UQÎUPª»[PÒ ¤Ó¨¦›ø©°¯À \õº£õP ªPÄ® •UQ¯zxÁ® Áõ´¢uøÁ¯õS®.
+
+C»Á\¨ £õh¡À14
+
+JÆöÁõ¸ {²UQÎ÷¯øµmk® ‰ßÖ TÖPÎÚõÀ BÚx.
+
+1. ø|uµ\ß E¨¦ ‰»®
+
+2. ö£ß÷hõ_ öÁÀ»U Tmh®
+
+3. ö£õ_÷£ØÖU Tmh®
+
+{²UQÎUPª»[PøÍ ¤µuõÚ©õP Cµsk ÁøPPÍõP¨ ¤›UP»õ®.
+
+• DNA - iJU]øµ÷£õ {²UQÎUPª»® (Deoxy ribo Nucleic Acid)
+
+• RNA - øµ÷£õ {²UQÎUPª»® (Ribo Nucleic Acid)
+
+• DNA
+
+E¸ 1.4 DNA ‰»UTÔß Pmhø©¨¦
+
+DNA ‰»UTÔß BUP A»S iJU]øµ÷£õ_ {²UQÎ÷¯õøµmhõS®. P¸ÂÀ Põn¨ £k® DNA ‰»UTÔÀ £õµ®£›¯z uPÁÀPÒ PÍg]¯¨£kzu¨£mkÒÍÚ.
+
+• RNA
+
+DNA Iz uÂµ E°µ[QPÎß Eh¼ÝÒ EÒÍ ©ØøÓ¯ {²UQÎUPª»® RNA BS®.
+
+RNA Cß BUP A»S øµ÷£õ_ {²UQÎ ÷¯õøµmhõS®.
+
+¦µuz öuõS¨¦a ö\¯ß•øÓUS RNA EuÄQÓx.
+
+{²UQÎUPª»zvß •UQ¯zxÁ[PÒ
+
+yyA[QPÎß £õµ®£›¯ uPÁÀPøÍ PÍg]¯¨£kzxQÓx.
+
+yyA[QPÎß £õµ®£›¯ uPÁÀPøÍ J¸ £µ®£øµ°À C¸¢x Akzu £µ®£øµUS PhzxQßÓx.
+
+yy¦µuz öuõS¨¦a ö\¯ß•øÓUS •UQ¯©õÚøÁ¯õS®.
+
+yyP»zvÝÒ |øhö£Ö® GÀ»õ E°ºa ö\¯ß•øÓPøÍ²® Pmk¨ £kzxQÓx. AÆ E°ºa ö\¯Ø£õkPøÍ Pmk¨£kzxÁuØS ÷uøÁ¯õÚ uPÁÀPÒ DNA CÀ Põn¨£kQßÓx.
+
+E¸ 1.3 {²UQÎ÷¯õøµmk
+
+ö£õ_÷£ØÖ Tmh®ø|uµ\ß ‰»®
+
+ö£ß÷Óõ_ öÁÀ»®
+
+C»Á\¨ £õh¡À15
+
+yy]» øÁµ_UPÎÀ £õµ®£›¯z uPÁÀPÒ RNA CÀ PÍg]¯¨£kzu¨ £mkÒÍx.
+
+yyDNA ‰»UTÖPÎÀ {PÊ® ÂPõµ® A[QUTº¨¦US ÁÈÁSUQÓx. ÂPõµ[PÐUSÒÍõS® Áõ´¨¦ Põµn©õP ÷uõßÖ® ÷£u[PÒ A[QPÎß Tº¨¦US •UQ¯©õÚøÁ¯õS®.
+
+÷©÷» TÓ¨£mh E°›¯À ‰»UTÖPÎÀ ¤µuõÚ©õP Põ£ß, Iuµ\ß, Jm]\ß, ø|uµ\ß Põn¨£kQßÓÚ. C®‰»P[PÒ Aa÷\ºøÁ°À C¸¨£øu EÖv ö\´ÁuØPõP ¤ßÁ¸® ö\¯Ø£õkPøÍ ÷©ØöPõÒ÷Áõ®.
+
+ö\¯Ø£õk 1.2
+
+E°›¯À ‰»UTÖPÎß TÓõP }º Ah[Q²ÒÍøu CÚ[PõnÀ
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ : CøÓa], uõÁµ Cø», ¦hUSøP, £ß\ß _hµk¨¦
+
+£i•øÓ :
+
+yy«ß, uõÁµ Cø» Gß£ÁØøÓ |ßS ]ÖxskPÍõUS[PÒ.
+
+yyCÁØøÓ öÁÆ÷ÁÓõÚ ¦hUSøP°ÝÒ Cmk }º öÁÎ÷¯Ö® Áøµ öÁ¨£÷©ØÖ[PÒ.
+
+yyuPÚ® |øhö£Ö® ÷£õx AuØS ÷©»õP Psnõiz umöhõß øÓ¨ ¤i²[PÒ.
+
+yyPsnõiz umiß «x £i²® vµÁzxÎPøÍ CÚ[PõÚ ÷Põ£õÀØÖ S÷Íõøµmkz uõøÍ¨ £¯ß£kzx[PÒ.
+
+AÁuõÛ¨¦ :
+
+yy}» {ÓzvÀ C¸¢x CÍg]Á¨¦ {Ó©õP ©õÖ®.
+
+Psnõiz umiß «x }ºzxÎPÒ (H2O) ÷uõßÔ²ÒÍx GÚ •iÄUS Áµ•i²®.÷©ØTÔ¯ £uõºzu[PÎß TÓõP }¸ÒÍøu CvÀ C¸¢x EÖv ö\´x öPõÒÍ •i²®.
+
+C»Á\¨ £õh¡À16
+
+ö\¯Ø£õk 1.3
+
+E°›¯À ‰»UTÔÀ Põ£ß Ah[Q EÒÍøu CÚ[PõnÀ
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ :
+
+yy¦hUSøPPÒ, uõÁµ Cø», «ßxsk, ]ÔuÍÄ ÷\õÖ
+
+£i•øÓ :
+
+yy«ßxsk, ]ÔuÍÄ ÷\õÖ, uõÁµ Cø»PÒ BQ¯ÁØøÓ uÛzuÛ¯õP Aøµzx £ø\PøÍz u¯õ›zxU öPõÒÐ[PÒ.
+
+yyCÁØøÓ öÁÆ÷ÁÓõÚ ¦øhUSøPPÎÀ Gkzx |ßÓõP öÁ¨£ ÷©ØÖ[PÒ.
+
+yyPøh]¯õPU QøhUP¨ö£Ö® ÂøÍøÁ öÁÒøÍU Phuõ]°ß «x E÷µõg_[PÒ.
+
+AÁuõÛ¨¦ :
+
+yyöÁÒøÍU Phuõ]°ß «x PÖ¨¦ {ÓU ÷PõkPÒ ÷uõßÔ°¸US®.
+
+ö\¯Ø£õk 1.4
+
+E°›¯À ‰»UTÔÀ ø|uµ\ß (N) Ah[Q EÒÍøu Esk GÚ CÚ[PõnÀ.
+
+÷uøÁ¯õÚ ö£õ¸ÒPÒ :
+
+yyCµsk ÷\õuøÚU SÇõ´PÒ, ÷\õi¯® Iuöµõmø\mk Pøµ\À, ö\¨¦\À÷£ØÖU Pøµ\À, •møh öÁÒøÍU P¸, «ß xsk
+
+£i•øÓ :
+
+yy«ßxsøh |ßÓõP |_UQ }›À Pøµzx ÁizxU öPõÒÐ[PÒ.
+
+yy•møh°ß öÁÒøÍUP¸, «øÚ¨ £¯ß£kzv u¯õ›zu Pøµ\À BQ¯ÁØÔÀ C¸¢x 2 ml Ãu® uÛzuÛ÷¯ ÷\uøÚUSÇõ°À Ck[PÒ.
+
+yy\©PÚÁÍÄ ÷\õi¯ø©uöµõmø\møh Ck[PÒ.
+
+yyAuØS ö\®¦\À÷£ØÖU Pøµ\¼ß ]» xÎPøÍ Ck[PÒ.
+
+AÁuõÛ¨¦ :
+
+yyFuõ {Ó® ÷uõßÖ®.
+
+÷©Ø£i ÷\õuøÚ°À £¯ß£kzu¨£mh E°º¨£SvPÎÀ ¦µu® Ah[Q²ÒÍ xhß A¨¦µuzvÀ ø|uµ\ß Esk Gß£øu EÖv ö\´¯»õ®.
+
+C»Á\¨ £õh¡À17
+
+1.5 }º
+
+EhÀ {øÓ°À Ti¯ÍÄ Põn¨£k® A÷\uÚa ÷\ºøÁ }µõS®. A÷|P©õÚ A[QPÒ u©x EhÀ {øÓ°ß 2/3 £Sv }øµU öPõskÒÍx. }º E°ºa \h¨ö£õ¸ÒPøÍ Pmiö¯Ê¨£ £[PÎUPõÂmhõ¾® Auß {»ÄøPUS AÁ]¯©õÚuõS®.
+
+§ª°À A[QPÒ •u¼À }›÷»÷¯ ÷uõßÔÚ. }º ‰»UTÖ GÎ¯ Pmhø©¨ø£U öPõskÒÍx. Eh¼À ö£¸©ÍÂÀ Põn¨£k® A÷\uÚa ÷\ºøÁ¯õÚ }º, A[QPÎß Eh¼À |øhö£Ö® £À÷ÁÖ öuõÈØ£õkPÐUS •UQ¯©õÚuõS®. }›À Põn¨£k® uÛzxÁ©õÚõ Â÷\h C¯À¦PÐ® Ax A[QPÎß {»ÄøPUS £[PÎ¨¦a ö\´²® Âu[PÐ® AmhÁøn 1.4 CÀ uµ¨£mkÒÍx.
+
+J¨£øh 1.1
+
+Cøn¯®, ¦vÚ¨ £zv›øP AÀ»x ÷ÁÖ ¦zuP[PøÍ Áõ]zx }º öuõhº£õÚ uPÁÀPøÍ ÷\P›zxU öPõÒÐ[PÒ. ö£ØÓ uPÁÀPøÍ ÁS¨¤À •ßøÁ²[PÒ.
+
+AmhÁøn 1.4 }›ß uÛzxÁ©õÚ C¯À¦® E°›ß {»ÄøPUPõÚ £[PÎ¨¦®
+
+uÛzxÁ©õÚ C¯À¦ E°›ß {»ÄøPUPõÚ £[PÎ¨¦
+
+]Ó¢u Pøµ¨£õßyyA[QPÎß P»zvÝÒ E°º Cµ\õ¯Ú uõUP[PÐUS FhP©õPz öuõÈØ£k®.
+
+yyA[QPÎß GÀ»õ £õ¯[PÍx® ¤µuõÚ TÖ }µõS®.
+
+yyA[QPÎß PÈÄPÒ, ©»® Gß£ÁØøÓ APØÖÁøu C»SÁõUS®.
+
+_Áõ\ FhP©õPz öuõÈØ£k®
+
+yy}›À Jm]\ß Pøµ¢x Põn¨£kÁuõÀ }º ÁõÌ A[QPÎß _Áõ\zvØS •UQ¯ ©õÚuõS®.
+
+EhÀ öÁ¨£{ø» ^µõUPzvØS AÁ]¯©õS®.
+
+yy}›À ußöÁ¨£UöPõÒÍÍÄ AvP® Gß£uõÀ EhÀ öÁ¨£{ø» `ÇÀ öÁ¨£{ø» ©õØÓzvØS HØ£ ÂøµÁõP E¯ºÄ uõÌÄUS Em£hõx. Cx EhÀ öÁ¨£{ø»a ^µõUPzvØS AÁ]¯©õS®.
+
+C»Á\¨ £õh¡À18
+
+PhzuÀ FhP©õPz öuõÈØ£k®
+
+yyS¸v°ß ¤µuõÚ TÓõP ö\¯Ø£mk £À÷ÁÖ ÷£õ\øn¨ £uõºzu[PÒ, ÂØÓªßPÒ, K÷©õßPÒ Gß£ÁØøÓ E›¯ ChzvØS öPõsk ö\À¾®.
+
+yy}›À ¤ønÄ Âø\, Jmhm¨£s¦ Âø\ C¸¨£uß Põµn©õP E¯µ©õÚ uõÁµ[PÎÀ usiÞhõP }º ÷©÷» ö\ÀQßÓx.A[QPÐUS ÁõÊ® `Ç»õP öuõÈØ£k QßÓx.
+
+yy}º ÁõÌ A[QPÐUS ÁõÈh©õPz öuõÈØ £kQÓx. }›ß Ahºzv £ÛUPmi°ß Ahºzvø¯ Âh AvP©õS®. SÎº ¤µ÷u\[ PÎÀ }º £ÛUPmi¯õP ©õÖ® ÷£õx E¸ÁõS® £ÛUPmi }›ß ÷©Ø£µ¨¤À £øh¯õPU Põn¨£k®. }º C¨£øh°ß RÇõP }º ÁõÌ A[QPÒ E°º ÁõÇUTi¯uõ²ÒÍx.
+
+1.6 PÛ²¨¦UPÒ
+
+A[QPÎß E°ºaö\¯ß•øÓø¯ öuõhºa]¯õP¨ ÷£qÁuØS ÷£õ\ønU TÓõÚ PÛ²¨¦ AÁ]¯©õS®. AøÁ ©õ‰»P[PÒ, ~s‰»P[PÒ GßÓ ÁiÂÀ Eh¼ÚõÀ APzxÔg\¨£kQßÓÚ. Eh¾US AvP AÍÂÀ ÷uøÁ¨£k® ‰»P[PÒ ©õ‰»P[PÒ GßÖ® ]ÔuÍÂÀ ÷uøÁ¨£k® ‰»P[PÒ ~s‰»P[PÒ GßÖ® TÓ¨£k®.
+
+©Ûu Eh¼ß 7 % PÛ¯ E¨¦UPÎÚõÀ BÚx. AÁØÔÀ 3/4 AÍÄ PÀ]¯®, ö£õ_¨£µ_ Ah[Q²ÒÍÚ. ÷©¾® ö£õØÓõ]¯® C¸®¦, ©PÜ]¯®, ö\®¦, A¯jß BQ¯øÁ²® EÒÍÚ. C¢~s ‰»P[PÎÀ ö\®¦ A¯jß ªPa ]ÔuÍ÷Á Eh¾USz ÷uøÁ¨£kQßÓx GÛÝ® C® ‰»P[PÒ ÷uøÁ¯õÚ AÍÂÀ QøhUPõÂiß uõÁµ[PÒ Â»[SPÎÀ £À÷ÁÖ SøÓ£õmk AÔSÔPøÍU Põn»õ®. ©Ûu Eh¼À ]» PÛ²¨¦UPÎß öuõÈø»²® AÁØÔß SøÓ£õmiÚõÀ HØ£k® AÔSÔPøÍ²® R÷Ç²ÒÍ AmhÁøn ÂÍUSQßÓx.
+
+AmhÁøn 1.5 Â»[SPÎÀ PÛ²¨¦UPÎß öuõÈØ£õkPÐ®
+
+AÁØÔß SøÓ£õmk AÔSÔPÐ®
+
+‰»P® öuõÈÀSøÓ¨£õmk AÔSÔPÒ
+
+ö£õØÓõ]¯®
+
+P»zvÀ EÒÍ £õ°°ß A¯ß \©{ø»ø¯¨ ÷£quÀ.
+
+Cu¯z uø\PÎß ö\¯Ø£õmiØS® |µ®¦U PnzuõUP Phzu¾US® EuÄuÀ
+
+uø\PÎß öuõÈØ£õmøh |¼ÄÓa ö\´uÀ.
+
+EÍÂ¯¾US›¯ JÊ[RÚ[PÒ
+
+C»Á\¨ £õh¡À19
+
+÷\õi¯®
+
+yy ö|õv¯ HÂ¯õP öuõÈØ£kÁuØS
+
+yy \ª£õmka \õÔß TÓõS®
+
+yy P»zvß ¤µ\õµn A•UPzøu ©õÓõx ÷£qÁuØS
+
+yy |µ®¦U PnzuõUP Phzu¾US
+
+_Áõ\U SøÓ£õk
+
+uø\¨¤i¨¦
+
+S©mhÀ
+
+Á°Ø÷Óõmh®
+
+PÀ]¯®
+
+yyGß¦, £À¼ß ÁÍºa]US
+
+yyS¸v EøÓuÀ
+
+yy|µ®¦PÎß öuõÈØ£õmiØS
+
+yy£õ¾Ø£zvUS
+
+yyÂØÓªß B APzxÔg\¾US
+
+›UPmì (Gß¦¸UQ÷|õ´)
+
+£À, Gß¦ |¼ÁøhuÀ
+
+ÁÍºa]U SøÓ£õkPÒ
+
+©PÜ]¯®
+
+yy Gß¦, £À Gß£ÁØÔß TÖ
+
+yy ÁßTmkzuø\, |µ®¦PÎß öuõÈØ£õmøh Pmk¨£kzxÁ uØS •UQ¯©õÚx.
+
+yy AÝ÷\£z öuõÈØ£õmiØS EuÄuÀ
+
+Cu¯zxi¨¦ AvP›¨¦
+
+|µ®¦ uÍºa]
+
+ö£õ_£µ_
+
+yy £À, Gß¦ ÁÍºa]US
+
+yy {²UQÎU Pª»zvß TÖ
+
+yy Põ÷£õøÁu÷µØÖ, öPõÊ¨¦ AÝ÷\£z öuõÈØ£õmiØS
+
+yy uø\°¾®, |µ®¦PÎÀ \Uvø¯ \kv¯õP ÂkÂ¨£vÀ EuÄuÀ.
+
+Gß¦ |¼Áøh¢x C»SÂÀ EøhuÀ.
+
+C¸®¦
+
+yy D÷©õS÷Íõ¤ß öuõS¨¦, uø\PÎÀ Jm]\øÚ ÷\ªzx øÁ¨£uØS, ö|õv¯zvß TÓõP
+
+S¸va÷\õøP, ÷\õºÄ, yUP®, EÍÂ¸zv |¼ ÁøhuÀ
+
+A¯jßøuöµõU^ß K÷©õÛß öuõS¨¦US
+
+Â÷ÁP®, ~s©v Â¸zv £õvUP¨£hÀ. PØÓ¼À Â¸¨£ ªßø©, SÓÒ {ø»
+
+C»Á\¨ £õh¡À20
+
+uõÁµzvÀ PÛ²¨¦PÎß öuõÈØ£õkPÐ® AøÁ SøÓÁøhÁuÚõÀ HØ£k® SøÓ£õmk AÔSÔPÐ® ¤ßÁ¸® AmhÁøn°À uµ¨£mkÒÍÚ.
+
+‰»P[PÒöuõÈØ£õkPÒSøÓ£õmk AÔSÔPÒ
+
+ø|uµ\ß
+
+Aª÷ÚõAª»®, ¦µu® {²UQÎUPª»®, ö|õv¯®, £aø\¯® BQ¯ÁØÔß TÓõS®
+
+ÁÍºa] SøÓÁøhuÀ, •vºa]¯øh¢u Cø»°À öÁs£aø\ ÷|õ´ HØ£k uÀ.
+
+ö£õ_£µ_{²UQÎUª»® ©ØÖ® ATP Cß TÖPÍõS®.
+
+÷ÁºPÎß ÁÍºa] SøÓ ÁøhuÀ, Cø»°À ]Á¨¦, Fuõ {Ó¨ ¦ÒÎPÒ ÷uõßÖ®.
+
+ö£õØÓõ]¯®¦µuzöuõS¨¦, Cø»Áõ´ ‰izvÓzuÀ
+
+Cø» ÂÎ®¦PÎÀ, ~ÛPÎÀ CøÇ¯ CÓ¨¦ ÷|õ´ HØ£kuÀ. Cø»°À ©g\Ò, P¤»{Óz vmkPÒ ÷uõßÖuÀ.
+
+P¢uP®Aª÷Úõ Aª»®, ¦µuzvß BUPU TÖ
+
+Cø»|µ®¤¾® ©ØÖ® |µ®¦PÐUS Cøh¨£mh ¤µ÷u\zv¾® öÁs£aø\ ÷|õ´ HØ£kuÀ.
+
+C¸®¦
+
+yy £aø\¯z öuõS¨¤ØS
+
+yy _Áõ\ ö|õv¯[PÎß öuõS¨¤ØS
+
+CÍ® Cø»PÎÀ öÁs £aø\ ÷|õ´
+
+PÀ]¯®
+
+yy P»a_Á›ß BUPU TÖ
+
+yy •u¾¸ ö©ß\ÆÂß Pmh ø©¨¦ öuõÈØ£õmøh ÷£qÁuØS
+
+yy ö|õv¯z öuõÈØ£õmiØS
+
+Cø» ~Û P¸SuÀ, •øÚ¯¸®¦ CÓzuÀ
+
+|õP®
+
+yy A÷|P ö|õv¯[PÎß öuõÈØ£õmiØS
+
+yy £aø\¯zvß öuõS¨¤ØS
+
+uõÁµ® •ÊÁx® CÓ¢u P»[PÒ CøÇ¯[PÒ Põn¨£k®. Cø» AvPÍ ÂÀ ui¨£øhuÀ.
+
+©PÜ]¯®yy £aø\¯zvß TÖ, ö|õv¯z öuõÈØ£õmiØS•vº¢u Cø»PÎÀ öÁs
+
+£aø\÷|õ´
+
+AmhÁøn 1.6 uõÁµ[PÎÀ PÛ²¨¦UPÎß öuõÈØ£õkPÐ® AÁØÔß SøÓ£õmk AÔSÔPÐ®
+
+C»Á\¨ £õh¡À21
+
+E¸ 1.5 uõÁµ[PÎÀ SøÓ£õmk AÔSÔPÒ
+
+ø|uµ\ß SøÓ£õmk AÔSÔPÒ|õP SøÓ£õmk AÔSÔPÒ
+
+ö£õØÓõ]¯® SøÓ£õmk AÔSÔPÒ
+
+ö£õ_£µ_ SøÓ£õmk AÔSÔPÒ
+
+PÀ]¯® SøÓ£õmk AÔSÔPÒ
+
+J¨£øh 1.2
+
+£°ºa ö\´øP {»ö©õßøÓ AÁuõÛzx AvÀ £À÷ÁÖ SøÓ£õmk ÷|õ´PøÍU Põmk® uõÁµ¨ £SvPøÍ ÷\P›USP. A¢ ÷|õ´ {»ø©US Põµn©õÚ PÛ²¨¦UPøÍ CÚ[PõÚ EuÂ ö\´²[PÒ. (£°ºPÐUS £õv¨¦ HØ£hõu •øÓ°À ©õv›PøÍ ÷\P›²[PÒ.)
+
+1.7 ÂØÓªßPÒ
+
+ÂØÓªßPÒ Gß£x ÷\uÚa ÷\ºøÁPÍõS®. CøÁ E°º Cµ\õ¯Úz uõUP[PÎØS •UQ¯©õÚøÁ. ÂØÓªßPÎß }›Ø Pøµ²® C¯Àø£ Ai¨£øh¯õPU öPõsk AÁØøÓ C¸ ÁøP¨£kzu»õ®. }›Ø Pøµ²® uPÄøh¯ ÂØÓªßPÒ B ²® C ²® BS®. }›À Pøµ¯õu BÚõÀ öPõÊ¨¤À Pøµ²® uPÄøh¯ ÂØÓªßPÒ A, D, E, K BS®. ©Ûu EhØ ö\¯Ø£õmiØS AÁ]¯©õÚ ÂØÓªß ÁøPPÐ® AÁØÔß £¯ßPÐ® SøÓ£õmk AÔSÔPÐ® ¤ßÁ¸® AmhÁøn°À uµ¨£mkÒÍÚ.
+
+C»Á\¨ £õh¡À22
+
+AmhÁøn 1.7 ÂØÓªßPÎß £¯ßPÐ® AÁØÔß SøÓ£õmk AÔSÔPÐ®
+
+ÂØÓªß £¯ßPÒSøÓ£õmk AÔSÔPÒ
+
+ÂØÓªß A
+
+yy £õºøÁUS AÁ]¯® £õºøÁUS›¯ {Ó¨ ö£õ¸ÒPøÍ E¸ÁõUP
+
+yy ÷uõø» B÷µõUQ¯©õP ÷£qÁuØS
+
+yy ©õø»UPs
+
+yy ¥m÷hõ ¦ÒÎPÒ ÷uõßÖuÀ
+
+yy ÷uõÀ E»º¢x Põn¨£k uÀ.
+
+yy ‰Ç[PõÀ, •Ç[øP BQ¯ Ch[PÎÀ •Ò÷£õßÓ öPõ¨¦Í[PÒ ÷uõßÖuÀ,
+
+yy _Áõ\zöuõSv²hß öuõhº£õÚ ÷|õ´PÒ
+
+ÂØÓªß DPÀ]¯®, ö£õ_£µ_ APz xÔg\ø»U Pmk¨£kzx®
+
+]ÖÁºPÎÀ Gß¦¸UQ, •v¯ÁºPÎÀ Jì›÷¯õ ©÷»]¯õ
+
+Jì›÷¯õ÷£õ÷µõ]ì
+
+ÂØÓªß KS¸v EøÓÁuØSz ÷uøÁ¯õÚ TÖPøÍ E¸ÁõUPS¸v EøÓuÀ uõ©u¨£kuÀ
+
+ÂØÓªß ECøÇ¯[PÒ, P»[PÎß ÁÍºa]US
+
+yy •vºa]US •ß SÇ¢øu¨ ¤Ó¨¦.yy ö\[S¸vU P»[PÒ AÈÁøh²® Ãu® AvP›zuÀyy P»¨¤›Ä uõ©u©õuÀyy CÚ¨ö£¸UP® ö\´²® BØÓÀ SøÓÁøhuÀ ©»mkz ußø© HØ£hÀ
+
+ÂØÓªß C
+
+yy ÷uõ¼ß B÷µõUQ¯zvØS £À¼À £ÀªÎ› (GÚõ©À) E¸ÁõÁuØS •UQ¯©õÚx.
+
+yy öPõ÷»õáß |õºPÎß öuõS¨¤ØS AÁ]¯®.
+
+yy•µ_ PøµuÀ.
+
+yyì÷PÂ ÷|õ´
+
+yyEÒÍPU S¸v ö£¸US HØ£kuÀ.
+
+yy÷|õ´PÒ Sn©øhÁx uõ©u©øhuÀ
+
+C»Á\¨ £õh¡À23
+
+ÂØÓªß B
+
+yy |µ®¤øÇ¯[PÎß ÷£qøPUS
+
+yy ö\[SÈ¯[PÎß EØ£zvUS
+
+yy ÷uõø» B÷µõUQ¯©õP¨ ÷£qÁuØS
+
+yy öPõÊ¨¦ AÝ÷\£zvØS
+
+yy ö\ÆöÁß¦©aø\ E¸ÁõUPz vØS
+
+yy öÁsSÈ¯[PÎß •vºa]US
+
+ ö£›ö£›÷|õ´
+
+ S¸va÷\õøP
+
+ E»º¢u÷uõÀ
+
+ {Ó©õØÓ®
+
+ ¤Óö£õ¸öÍv›PÎß EØ£zv SøÓÁøhuÀ
+
+÷©»vP AÔÂØS
+
+ÂØÓªß B ]UP»õÚ ÂØÓªÚõS®. CÁØÔÀ B1, B2, B6, B12 GÚ £»ÁøPPÒ Esk. CøÁ EnÄ ‰»® Eh¾US QøhUP¨ö£ÖÁxhß ]» ÂØÓªßPÒ ©ÛuÛß ]ÖSh¼À ÁõÊ® £ØÕ›¯õUPÒ ‰»® EØ£zv ö\´¯¨£kQßÓÚ.
+
+E¸ 1.6 ÂØÓªßPÎß SøÓ£õmk AÔSÔPÒ
+
+ÂØÓªß D SøÓ£õmk AÔSÔ
+
+ÂØÓªß A SøÓ£õmk AÔSÔ
+
+ÂØÓªß C SøÓ£õmk AÔSÔ
+
+ÂØÓªß B SøÓ£õmk AÔSÔ
+
+C»Á\¨ £õh¡À24
+
+ö£õÈ¨¦
+
+yyA[QPÎß Eh»õÚx ¦µu®, Põ÷£õøÁu÷µØÖ, C¼¨¤mk, {²UQÎUPª»® BQ¯ ¤µuõÚ £uõºzu[PÎÚõÀ BÚx. CøÁ E°ºa \h¨ö£õ¸ÒPÎß E°º ‰»UTÖPÒ GÚ AøÇUP¨£k®.
+
+yy÷\uÚa ÷\ºøÁPÐUS ÷©»vP©õP }º, PÛ²¨¦PÒ ÷£õßÓ A÷\uÚa ÷\ºøÁPÐ® E°ºa`ÇØöÓõSv°À •UQ¯ £[PõØÖ QßÓÚ.
+
+yyE°º ‰»UTÖPÒ C, H, O, N GßÝ® ‰»P[PÎÚõÀ BÚøÁ.
+
+yyE°º Cµ\õ¯Ú uõUP[PÐUS FUQPÍõP ö|õv¯[PÒ öuõÈØ £kQßÓÚ.
+
+yyPÛ¯[PÒ, ÂØÓªßPÒ A[QPÐUS ]ÔuÍ÷Á ÷£õx©õÚx. GÛÝ® AøÁ Eh¼À SøÓÁøh²® ÷£õx SøÓ£õmk AÔSÔPøÍ PõmkQßÓÚ.
+
+yy}›ß Â÷\h C¯À¦PÒ A[QPÎß {»ÄøPUS ªP •UQ¯©õÚ uõS®.
+
+01. ÁÇ[P¨£mkÒÍ ÂøhPÐÒ ªPa \›¯õÚøu öu›Ä ö\´P.
+
+1) ©õ¨ö£õ¸Ò AvP® öPõsh EnÄ
+
+1) E¸øÍUQÇ[S 2) {»UPhø» 3) öÁÒÍ›UPõ´
+
+4) ÁÀ»õøµ
+
+2) J¸\UPøµmk Tmhzøua ÷\º¢ux
+
+1) ¤ÓU÷Óõ_ 2) _US÷µõ_ 3) ÷©õÀØ÷Óõ_ 4) C»U÷Óõ_
+
+3) Â÷\h©õPz uõÁµÄnÄPÎÀ Ah[Q²ÒÍ Põ÷£õøÁu÷µØÖ
+
+1) QøÍU÷Põáß 2) ÷©õÀ÷Óõ_ 3) ö£U›ß
+
+4) ö\¾÷»õ_
+
+4) S¸v EøÓu¾US AÁ]¯©õÚ ÂØÓªß
+
+1) ÂØÓªß A 2) ÂØÓªß D 3) ÂØÓªß C 4) ÂØÓªß K
+
+£°Ø]
+
+C»Á\¨ £õh¡À25
+
+5) A[QPÎß Eh¼ÝÒ EÒÍ ÷\uÚU TÖ AÀ»õux
+
+1) ¦µu® 2) }º 3) Põ÷£õøÁu÷µØÖ 4) C¼¨¤mk
+
+02. uµ® 6 ©õnÁºPøÍ ©¸zxÁ £›÷\õuøÚUS Em£kzv¯ ÷£õx ©õnÁºPÎøh÷¯ ¤ßÁ¸® SøÓ£õmk ÷|õ´PÒ CÚ[Põn¨£mhx. ¤ßÁ¸® SøÓ£õmk AÔSÔPÐUS¨ ö£õ¸zu©õÚ ÂØÓªßPøÍU SÔ¨¤kP.
+
+i. £õºøÁ SøÓ£õk, PsoÀ ¥m÷hõ ¦ÒÎ ÷uõßÖuÀ & ..................................
+
+ii. £ØPÎß ÁÍºa] SøÓÁøhuÀ £Ø]øuÄ & ...............................
+
+iii. •µ]À C¸¢x Cµzu® P]uÀ & ........................................
+
+iv. S¸va÷\õøP & ...............................................
+
+v. PøhÁõ´¨¦s & ...........................................
+
+03. }›ß Â÷\h C¯À¦PÒ 3 IU TÖP. CÁØÔÀ JßÖ A[QPÎß {»ÄøPUS £[PÎ¨¦a ö\´²® •øÓø¯U SÔ¨¤kP.
+
+04. ""|õ® |õºzußø©¯õÚ EnÄPøÍ EmöPõÒÍ ÷Ásk®'' Põµn® TÖP.
+
+E°›¯À ‰»UTÖ - Biological molecules
+
+ö|õv¯® - Enzymes
+
+FUQ - Catalyst
+
+Pø»aö\õØPÒ

@@ -1,0 +1,889 @@
+==== BLOCKS ==== 
+
+C»Á\¨ £õh¡À
+
+47
+
+uøh°PÒ (Resistors)
+
+ªß, C»zvµÛ¯Ø _ØÖPÎÀ EÒÍ Kmh[PøÍU Pmk¨£kzx® Kº Ezv¯õPz uøh°PÒ £¯ß£kzu¨£kQßÓÚ. ªß÷Úõmhzvß £õ´a\¾USz uøhø¯U PõmkQßÓø©¯õÀ uøh°PÒ •i¨¦PÍõS®. _ØÖPÎÀ £¯ß£kz u¨£k® £À÷ÁÖ C»zvµÛ¯Ø TÖPÐUS ÁÇ[P÷Ási¯ £À÷ÁÖ Kmh¨ ö£Ö©õÚ[PÒ EÒÍÚ. AuØPõP AUTÖPÐhß ÷uøÁU÷PØ£z uøh°PÒ ¤µ÷¯õQUP¨£kQßÓÚ.
+
+uøh°PÒ •UQ¯©õP C¸ ÁøP¨£k®. AøÁ
+
+1. {ø»¯õÚ uøh°PÒ - Fixed Resistors
+
+2. ©õÖ¢ uøh°PÒ - Variable Resistors
+
+{ø»¯õÚ uøh°PÒ
+
+{ø»zu uøh°PÒ GÚÄ® AøÇUP¨£k® A÷u÷ÁøÍ ö£Ö©õÚzøu ©õØÓ •i¯õx. £À÷ÁÖ Âu©õP öÁÆ÷ÁÖ ö£Ö©õÚ[PÎÀ ö\´¯¨ £mkÒÍÚ.
+
+E¸ 3'1
+
+{ø»¯õÚ uøh°PøÍ¨ ¤ßÁ¸©õÖ ÁøP¨£kzu»õ®.
+
+03
+
+C»zvµÛ¯Ø _ØÖPÐhß öuõkUP¨£mkÒÍ öuõÈØ£hõu TÖPÒ
+
+C»Á\¨ £õh¡À
+
+48
+
+P®¤ _ØÔ¯ uøh°PÒ (Wire wound Resistors)
+
+E¸ 3.2
+
+J¸ ÁøÚö£õ¸Ò ÷Põ¼ß «x {UPØ S÷µõª¯U P®¤ø¯a _ØÖÁuß ‰»® ö\´¯¨£mkÒÍx. CøÁ Tku»õÚ Á¾¨ ö£Ö©õÚzøuU öPõshÚ BøP¯õÀ _ØÔÀ E¯º Kmh® £õ¯ ÷Ási¯ Ch[PÎÀ Ch¨£mkÒÍÚ. ö£¸®£õ¾® uøh°°ß ö£Ö©õÚ•® Á¾¨ ö£Ö©õÚ•® AÁØÔß Eh¼À SÔ¨¤h¨£mi¸US®.
+
+Põ£ß ÷\ºUøPz uøh°PÒ (Carbon Composition Resistors)
+
+E¸ 3.3
+
+Põ£ß yøÍ AÀ»x xoUøPPøÍ¨ £¯ß£kzva ö\´¯¨£mkÒÍx.
+
+C»Á\¨ £õh¡À
+
+49
+
+Põ£ß £h»z uøh°PÒ (Carbon Film Resistors) J¸ PõÁØ ÷Põ¼ß «x Põ£ß £h»zøu Aø©zx A¨£h»zvÀ _¸Î¨ £Svø¯ öÁmi APØÖÁuß ‰»® ö\´¯¨£mkÒÍx.
+
+E¸ 3.4
+
+Pøh°À CÆÁøP÷¯ AvP AÍÂÀ QøhUQßÓx
+
+E÷»õP¨ £h»z uøh°PÒ (Metal Film Resistors)
+
+¥[Põß PõÁ¼U÷PõÀ JßÔß «x E÷»õP¨ £h»® JßøÓ E¸ÁõUQ, A¨£h»zvß J¸ £Svø¯ _¸Ò ÁiÂÀ öÁmi }USÁuß ‰»® u¯õ›UP¨£mkÒÍx. E¸ÂÀ Põ£ß £h»z uøh°°ØS \©©õS®. Põ£ß £h»z uøh° ÁøP AvP AÍÂÀ ö\´•øÓ¨ £oPÎÀ £¯ß£kzu¨£kQßÓöuÚ •ßÚº SÔ¨¤m÷hõ®. 0'25W" 0'5W" 1W BQ¯ Á¾¨ ö£Ö©õÚ[PøÍ¨ ö£Ó»õ®. Av¾® Ti¯ Á¾¨ ö£Ö©õÚzøuU öPõsh uøh°PÒ ÷uøÁ¨£k®÷£õx 1W" 2W" 3W" 5W GßÓÁõÖ EÒÍ P®¤ _ØÔ¯ uøh°PøÍ¨ £¯ß£kzu»õ®.
+
+uøh°¨ ö£Ö©õÚ®
+
+uøh°°ß uøhzvÓß ö£Ö©õÚ® KªÀ (ohm) AÍUP¨£kQßÓx. Kªß SÔ±k
+
+BP C¸US® A÷u ÷ÁøÍ
+
+1000 Ω = 1 kΩ
+
+1000 kΩ = 1 MΩGÚ¨ ¤µ÷¯õQUP¨£kQßÓx.
+
+C»Á\¨ £õh¡À
+
+50
+
+uøh {ÓU SÔ•øÓ (Resistor colour code)uøh°°ß ö£Ö©õÚzøu Áõ]¨£uØS CUSÔ•øÓ £¯ß£kzu¨£kQßÓx.ö£õxÁõP |õßS {Óz uøh° AvP AÍÂÀ £¯ß£kzu¨£kQßÓ ø©¯õÀ AmhÁøn 3.1 I AuØPõP¨ £¯ß£kzu»õ®.
+
+{Ó®RØÖ 1RØÖ 2RØÖ 3RØÖ 4PÖ¨¦
+
+P¤»®
+
+]Á¨¦
+
+ö\®©g\Ò
+
+©g\Ò
+
+£aø\
+
+}»®
+
+Fuõ
+
+\õ®£À
+
+öÁÒøÍ
+
+ö£õß
+
+öÁÒÎ
+
+{Ó©ØÓx
+
+|õßS {Óz uøh {ÓU SÔ•øÓ AmhÁøn
+
+AmhÁøn 3.1
+
+C»Á\¨ £õh¡À
+
+51
+
+÷©ØSÔzu {ÓU SÔ•øÓ AmhÁønø¯U öPõsk J¸ uøh°°ß ö£Ö©õÚzøu Áõ]US® Âuzøu¨ £õº¨÷£õ®.
+
+E¸ 3.5
+
+uøh°ß ö£Ö©õÚ® 5'2
+
+BP C¸US® A÷u ÷ÁøÍ Auß ö£Ö©õÚzvß Âzv¯õ\® AÀ»x Ãa_ 10% BS®. AuõÁx Auß ö£Ö©õÚzøu 5'2 C¾® 10% SøÓÁõPÄ® 10% Tku»õPÄ® öPõsh Ãa]À C¸US®. AuØ÷PØ£ Auß ö£Ö©õÚ® 4'68
+
+- 5'72
+
+CÀ EÒÍ G¢uöÁõ¸ ö£Ö©õÚ©õPÄ® C¸UP»õ®.
+
+Euõµn®
+
+,
+
+E¸ 3'6 Czuøh°ß ö£Ö©õÚ® 47000
+
+BS®.
+
+AuõÁx
+
+47000 = 47 k
+
+BS®. C[S Ãa_ AÀ»x ö£õÖv¨ ö£Ö©õÚ® BøP¯õÀ, uøh°°ß ö£Ö©õÚ® 5% 44'7 k
+
+- 49'3 k
+
+BS®.
+
+Euõµn®
+
+C»Á\¨ £õh¡À
+
+52
+
+E¸ 3'7
+
+Czuøh°ß ö£Ö©õÚ® 97
+
+BS®. ö£õÖv¨ ö£Ö©õÚ® 20% BS®.
+
+Euõµn®
+
+E¸ 3'8
+
+Czuøh°ß ö£Ö©õÚ® 10 × 0.1 AuõÁx 1 BS®. ö£õÖv¨ ö£Ö©õÚ® 5% BS®.
+
+Euõµn®
+
+uøh¨ ö£Ö©õÚ® Áõ]UP¨£k® Gs, GÊzxU SÔ•øÓ
+
+P®¤ _ØÔ¯ ÁøPø¯²® E÷»õP¨ £h» ÁøPø¯²® ÷\º¢u uøh°PÎß ö£Ö©õÚzøuU PõmkÁuØS Gs, GÊzx SÔ•øÓ £¯ß£kzu¨£kQßÓx.
+
+C[S R CÚõÀ K•®" K °ÚõÀ Q÷»õ K•®" M CÚõÀ ö©Põ K•® Põmh¨£kQßÓÚ. AuÛøh÷¯ ¤ßÁ¸® ö£Ö©õÚzøuU PõmkÁuØS
+
+F - + / %, G - + 2%, J - + 5%, K - + 10%, M - + 20% GßÝ® GÊzxPÒ £¯ß£kzu¨£kQßÓÚ.
+
+C»Á\¨ £õh¡À
+
+53
+
+5R6J = 5.6 Ω + 5%
+
+R47K = 0.47 Ω + 10%
+
+8K2G = 8.2 KΩ + 2%
+
+33KM = 33 K Ω + 20 %
+
+Euõµn®
+
+©õÖ¢ uøh°PÒ (Variable Resistors)
+
+Czuøh°PÎß Â÷\hÂ¯À¦ ÷uøÁU÷PØ£¨ ö£Ö©õÚzøu ©õØÓzuUPuõP C¸zu»õS®. CøÁ _ÇÀ (Rotary)ÁøP, ÁÊUS® (Slide) ÁøP GÚ C¸ ÁøP¨£k®.
+
+_ÇÀ ÁøP ÁÊUS® ÁøP
+
+E¸ 3.9
+
+C»Á\¨ £õh¡À
+
+54
+
+•ßÚø© ©õÖ¢ uøh°
+
+E¸ 3.10 J¸ TÖUS AÀ»x _ØÖ¨ £SvUS ÁÇ[PzuUP Kmhzøu ©õØÓzuUPuõP¨ ÷£qÁuØS ©õÖ¢ uøh°PÒ £¯ß£kzu¨£kQßÓÚ. ö£¸®£õ¾® CøÁ E¯º K® ö£Ö©õÚ® AÀ»x Q÷»õ K® ö£Ö©õÚ® AÀ»x ö©Põ K® ö£Ö©õÚ® ÁøµUS® EØ£zv ö\´¯¨£kQßÓÚ.
+
+Põ£ß ÷\ºzvz uøh°PÒ (Surface mount resistors)
+
+PoÛa _ØÖ¨ £»øP, öuõø»UPõm]a _ØÖ¨ £»øP ÷£õßÓ ]UP»õÚ _ØÖ¨ £»øPPÎÀ ªPa ]ÔuõPU Põ£ß ÷\ºzvz uøh°PÒ ÷|µi¯õP Aa]mh _ØÖ¨ £»øP «x ^PCB& Aø©¢v¸US®.
+
+E¸ 3.11
+
+CÁØÔß ö£õÖv¨ ö£Ö©õÚ® HÓzuõÇ 30% BP C¸US® A÷u ÷ÁøÍ AuøÚU PÇØÔ ÷ÁÖ ChzvÀ Ch•i¯õx.
+
+C»Á\¨ £õh¡À
+
+55
+
+uøh°PøÍz öuõkzuÀ (Connecting Resistors)uøh°PøÍ C¸ •øÓPÎÀ öuõkUP»õ®.
+
+01' uøh°PÎß öuõhºz öuõk¨¦ - Resistors in series
+
+ΩΩΩ
+
+E¸ 3.12 ÷©ØSÔzuÁõÖ uøh°PøÍz öuõkzuÀ öuõhºz öuõk¨¦ BS®. C[S GÀ»õz uøh°PÎÞhõPÄ® J÷µ Kmh® £õ²® A÷u ÷ÁøÍ A, B BQ¯ •iÂh[PÐUQøh÷¯ EÒÍ ö©õzuz uøh AÀ»x \©Á¾z uøh R1, R2 , R3 GßÝ® ‰ßÖ uøh°PÎÚx® ö©õzuzvØSa \©®. A °ØS® B °ØSªøh÷¯ EÒÍ \©Á¾z uøh Rs GÛß,
+
+RS = (R1 + R2 + R3 ) Ω
+
+E¸ 3'13A" B BQ¯ •iÂh[PÐUQøh÷¯ EÒÍ \©Á¾z uøh Rs GÛß,
+
+RS = R1 + R2 +R3
+
+= 33 + 470 + 820
+
+=1323 Ω
+
+= 1.3 k ^Qmi¯ ö£Ö©õÚ®&
+
+C[S \©Á¾z uøh°ß ö£Ö©õÚ® ‰ßÖ uøhPÎøh÷¯ ªPÄ® E¯º¢uuß ö£Ö©õÚzv¾® ^820& Ti¯uõS®.
+
+Euõµn®
+
+C»Á\¨ £õh¡À
+
+56
+
+uøh°PÎß \©õ¢uµz öuõk¨¦ (Resistors in paralled)
+
+ö\¯Ø£õk 01
+
+1000 NF 16 V GßÝ® ªß£S¨¦U öPõÒÍÍÂ°ß 1'5 V E»º P»® JßøÓ GkUP. öPõÒÍÍÂ°ß •iÂh[PÒ ©õÓõv¸US©õÖ E»ºP»zvß C¸ •iÂh[PÐhÝ® öuõkzx ]Ôx ÷|µzvØS ÂkP. ¤ßÚº öPõÒÍÍÂø¯ öÁÎ÷¯ Gkzx Auß •iÂh[PÎÀ \›¯õP LED Cß •iÂh[PøÍz öuõkP. |øhö£Ö® {PÌa]ø¯ E[PÍõÀ ÂÍUP •i²©õ?
+
+C[S uøh°PÒ \©õ¢uµ©õP C¸US® ÂuzvÀ öuõkUP¨£k®.
+
+Ω
+
+Ω
+
+Ω
+
+E¸ 3.14
+
+C[S R1 , R2 R3 BQ¯ÁØÔØSU SÖU÷P £õ²® Kmh[PÒ AÁØÔß uøhz vÓß ö£Ö©õÚ[PÐUQøh÷¯ EÒÍ ÂQuzvØ ¤›¢x ö\À¾®. \©õ¢uµz öuõk¨¤À A°ØS® B °ØSªøh÷¯ EÒÍ Rp GÛß,
+
+P123
+
+2 3 1 3 1 2
+
+P1 2 3
+
+1 2 3P1 2 2 3 1 3
+
+1111=++RRRR1R R + R R + R R=RR R RR R RRR R + R R + R R= Ω
+
+C»Á\¨ £õh¡À
+
+57
+
+E¸ 3'15 A°ØS® B °ØSªøh÷¯ EÒÍ \©Á¾z uøh Rp BS®.
+
+P123
+
+P
+
+P
+
+1111===RRRR111++
+
+16+3+2= R111= R
+
+Rp =
+
+Rp
+
+102030
+
+60
+
+606011
+
+=
+
+= 5.4 ^Qmi¯ ö£Ö©õÚ®&
+
+C[S A °ØS® B °ØSªøh÷¯ QøhUS® \©Á¾z uøh°ß ö£Ö©õÚ® ‰ßÖ uøhPÎøh÷¯ SøÓ¢u£m\¨ ö£Ö©õÚ® EÒÍuß ö£Ö©õÚzv¾® SøÓÁõS®.
+
+Euõµn®
+
+C»Á\¨ £õh¡À
+
+58
+
+ö\¯Ø£õk 02
+
+A. ¤ßÁ¸® {ÓU RØÖPÒ EÒÍ uøh°PÎß ö£Ö©õÚ[PøÍU PõsP.
+
+i. ö\®©g\Ò, ö\®©g\Ò, P¤»®, ö£õß
+
+ii. P¤»®, £aø\, PÖ¨¦, ö£õß
+
+iii. }»®, \õ®£À, ]Á¨¦,öÁÒÎ
+
+iv. ©g\Ò, Fuõ, ö\®©g\Ò, ö£õß
+
+v. ]Á¨¦, ]Á¨¦, ©g\Ò, ö£õß
+
+B. ¤ßÁ¸® ö£Ö©õÚ[PøÍU öPõsh uøh°PÎÀ C¸UP ÷Ási¯ {ÓU RØÖPøÍ •øÓ÷¯ SÔ¨¤kP.
+
+56 Ω
+
+10 k Ω
+
+68 k Ω
+
+100 k Ω
+
+1 M Ω
+
+öPõÒÍÍÂ (Capacitor)
+
+öPõÒÍÍÂ Gß£x ªß Á¾øÁz ÷uUQ øÁUPzuUP J¸ TÓõS®.
+
+E¸ 3.16 öPõÒÍÍÂPøÍ¨ ¤ßÁ¸® SÔ¨¦U÷PØ£ ÁøP¨£kzu»õ®.
+
+C»Á\¨ £õh¡À
+
+59
+
+öPõÒÍÍÂPÒ
+
+{ø»¯õÚ©õÖ®
+
+ªß£S¨¦ AÀ»õu
+
+¤»õzvUS¨ £h»®ö©ß PÎ
+
+ªß£S¨¦
+
+u¢u»®
+
+Phuõ]ø©UPõ
+
+•ßÚø©
+
+A¾ªÛ¯® ªß£S¨¦
+
+Cø\ÁõUS® öPõÒÍÍÂ
+
+öPõÒÍÍÂ°ß öPõÒÍÍÁ® AÍUP¨£k® A»S £µmk - Farad (F) BS®. ªß÷ÚØÓ[PÍõPU öPõÒÍÍÂ°À Á¾ ÷uUQ øÁUP¨£kQßÓx. 1 £µmk Gß£x J¸ ö£›¯ ö£Ö©õÚ©õS®. BP÷Á J¸ öPõÒÍÍÂ°ß ö£Ö©õÚzøu AÍ¨£uØS¨ ¤U÷Põ£µmk ^pF&" |÷Úõ£µmk ^nF&, ø©U÷Põ £µmk (μF AÀ»x MFD) BQ¯Ú £¯ß£kzu¨£kQßÓÚ. 1 μF = 10 -6 F 1 nF = 10 -9 F 1 pF = 10 -12 F
+
+•øÚÄPÒ EÒÍ öPõÒÍÍÂPÒ ªß£S¨¦U öPõÒÍÍÂPÒ BS®. CøÁ ö£¸®£õ¾® 1MFD C¾® Ti¯ ö£Ö©õÚzøu GkUS®. CøÁ 1MFD, 10 MFD, 47 MFD, 100 MFD, 2200 MFD GßÓÁõÖ ö£Ö©õÚ[PøÍ GkUP»õ®. CUöPõÒÍ ÍÂPÎÀ J¸ •iÂh® + BP C¸US® A÷u÷ÁøÍ ©ØøÓ¯ •iÂh® & BS®. JÊ[Pø©US®÷£õx •iÂh[PøÍ ©õØÓ»õPõx.
+
+C»Á\¨ £õh¡À
+
+60
+
+E¸ 3.17 öPõÒÍÍÂ uõ[PzuUP E¯º¢u£m\ ÷ÁõÀØÓÍÄ AvÀ SÔ¨¤h¨ £mkÒÍx. AvÀ Põmh¨£mkÒÍ ÷ÁõÀØÓÍÂ¾® £õºUPU Ti¯ ö£Ö©õÚ® EÒÍ Kº Chzxhß öPõÒÍÍÂø¯z öuõkzu»õPõx.
+
+•øÚÄPÒ EÒÍ ªß£S¨¦U öPõÒÍÍÂPÒ ÷|÷µõmha _ØÖPÎÀ ¤µ÷¯õQUP¨£k® A÷u ÷ÁøÍ •øÚÄPÒ CÀ»õu ªß£S¨¦U öPõÒÍ ÍÂPÒ Áia _ØÖPÎÀ ^Filter circuit& Ch¨£k®. BhÀ ÷©õmhºPÎÀ öuõhU Q¯õP¨ ^Starter& ¤µ÷¯õQUP¨£k® ªß£S¨¦U öPõÒÍÍÂPÒ •øÚÄ CÀ»õuÚÁõS®.
+
+E¸ 3.18
+
+C»Á\¨ £õh¡À
+
+61
+
+öPõÒÍÍÂPøÍz öuõkzuÀ (Connecting Capacitors)
+
+öPõÒÍÍÂPøÍz öuõhµõPÄ® \©õ¢uµ©õPÄ® öuõkUP»õ®.
+
+öPõÒÍÍÂPÎß öuõhºz öuõk¨¦ (Capacitor in Series)
+
+FFF
+
+oo
+
+E¸ 3.19 C[S A°ØS® B °ØSªøh÷¯ EÒÍ \©Á¾U öPõÒÍÍÄ CS BS®.
+
+3S12
+
+1111=++CCCC
+
+E¸ 3'20 A °ØS® B °ØSªøh÷¯ EÒÍ \©Á¾U öPõÒÍÍÄ CS GÛß,
+
+Euõµn®
+
+FFF
+
+C»Á\¨ £õh¡À
+
+62
+
+S
+
+S
+
+11113=++=C44444C = = 1.33 MFD3
+
+öPõÒÍÍÂPÎß \©õ¢uµz öuõk¨¦
+
+E¸ 3.21
+
+C[S A °ØS® B °ØSªøh÷¯ EÒÍ \©Á¾U öPõÒÍÍÄ Cp GÛß,
+
+P 1 2 3C = C + C + C
+
+E¸ 3'22 C[S A °ØS® B °ØSªøh÷¯ EÒÍ \©Á¾U öPõÒÍÍÄ Cp GÛß,
+
+Euõµn®
+
+P C = 4 + 4 + 4 = 12 MF
+
+F
+
+F
+
+F
+
+F
+
+F
+
+F
+
+C»Á\¨ £õh¡À
+
+63
+
+ö\¯Ø£õk 03
+
+E¸ 3'23öPõÒÍÍÄU SÔ•øÓ AmhÁøn (Capacitor Code)
+
+ö£¸®£õ¾® ªß£S¨¦U öPõÒÍÍÂPÎß ö£Ö©õÚ® Auß Eh¼÷» ø©US÷µõ£µmiÀ MF, UF, MFD GßÓÁõÖ Põmh¨£mi¸US®. GÛÝ® ]» öPõÒÍÍÂ ÁøPPÎÀ ö£Ö©õÚ® SÔ•øÓ¯õPU Põmh¨£mi¸US®. BP÷Á Auß ö£Ö©õÚzøu AÔÁuØS AmhÁøn 3.25 I¨ £¯ß£kzu»õ®.
+
+ø©US÷µõ£µmk¤U÷Põ£µmkSÔ•øÓ1000 ©h[S
+
+'001 MF1000 PF1021 K'0015 MF1500 PF1521K5
+
+'002 MF2000 PF2022K
+
+'0022 MF2200 PF2222K2'0025 MF2500 PF2522K5'003 MF3000 PF3023K'0033 MF3300 PF3323K3'0039 MF3900 PF3923K9'0047 MF4700 PF4724K7'005 MF5000 PF5025K'0068 MF6800 PF6826K8'01 MF10000 PF10310K'015 MF15000 PF15315K'02 MF20000 PF20320K'022 MF22000 PF22322K'1 MF100000 PF104100K
+
+C»Á\¨ £õh¡À
+
+64
+
+ysiPÒ Phzx® P®¤a _¸øÍ¨ £¯ß£kzv Kº APo²hß AÀ»x APo CÀ»õ©À EØ£zv ö\´¯¨£k® TÖPÒ ysiPÍõP¨ £¯ß£kzu¨£k® A÷u ÷ÁøÍ ªßPõ¢u[PøÍ¨ ÷£õßÖ ªß ¤Ó¨£õUPzv¾® £µÁ»õP¨ £¯ß£kzu¨£kQßÓÚ. Á¾ ÁÇ[PÀPÎÀ ÁiPÍõP¨ £¯ß£kzu¨£k® A÷u ÷ÁøÍ Ag\¼°À J¸ ªßPõ¢u©õP¨ £¯ß£kzu¨£kQßÓx. AÆÁõ÷Ó J¸ øuÚ÷©õÂÀ ªß ¤Ó¨£õUQUPõPz ysiPÍõP¨ £¯ß£kzu¨£k® A÷u ÷ÁøÍ J¸ {ø»©õØÔ°ÝÒ÷Í J¸ _¸Îß ‰»® ÷ÁöÓõ¸ _¸Ò ysh¨£k® Âuzøu²® C¨£õhzv¼¸¢x ÂÍ[QU öPõÒÍ»õ®.
+
+ªßPõ¢uÂ¯À¦
+
+J¸ Phzx® P®¤°ÞhõP Kmh® £õ²®÷£õx P®¤ø¯a _ØÔ J¸ Põ¢u¨ ¦»® EshõQßÓx. AuøÚ EÖv¨£kzxÁuØS¨ ¤ßÁ¸® E¸ 3.24 CØ Põn¨£k® ö\¯Ø£õmøh¨ £õº¨÷£õ®.
+
+1. Phzx® P®¤2' AmøhzuõÒ uÍ®3. vø\Põmi4. Ámh¨ £õøP
+
+E¸ 3.24
+
+Phzx® P®¤°À £UP® A°¼¸¢x £UP® B °ØS Kmh® öÁÎ÷¯ £õ´QßÓx. vø\ A°À £õºUS®÷£õx Põn¨£k® Âu•® vø\ B °À £õºUS®÷£õx _ÇØ]z vø\²® •Ô¢u ÷Põmiß «x Põmh¨£mkÒÍÚ (E¸ 3.25).
+
+C»Á\¨ £õh¡À
+
+65
+
+1. A®¦USÔ2. Phzx® P®¤ ~Û 3. Põ¢u¨ ¦»® _Ç¾® vø\4. A®¦USÔ°ß •Ø£UP ~Û
+
+1. A®¦USÔ2. Phzx® P®¤ ~Û3' Põ¢u¨ ¦»® _Ç¾® vø\4' A®¦USÔ°ß ¤Ø£UP®
+
+vø\ A °À £õºUS®÷£õx vø\ B °À £õºUS®÷£õx
+
+E¸ 3.25 C¸ \¢uº¨£[PÐUS® HØ£ J¸ Phzx® P®¤°ÞhõP Kmh® £õ²®÷£õx Phzvø¯a _ØÔU Põ¢u¨ ¦»® EshõS® Âu® E¸ 3.26 CØ Põmh¨£mkÒÍx.
+
+E¸ 3.26
+
+1. Kmh® ¦S® •øÚ
+
+2. Phzx® P®¤
+
+3. Põ¢u¨ ¦»®
+
+4. Kmh® öÁÎ÷¯Ö® •øÚ
+
+Phzx® P®¤US ÁÇ[P¨£mkÒÍ ÷|÷µõmh ÁÇ[PÀ •iÂh[PøÍ ©õØÖ®÷£õx B °¼¸¢x A °ØS Kmh® £õ´QßÓx. CÆÂ¸ \¢uº¨£[PøÍ²® GkUS®÷£õx Kmh® A °¼¸¢x B °ØS¨ £õ²® \¢uº¨£zvÀ Phzvø¯a _ØÔ Á»g_È¯õP J¸ Põ¢u¨ ¦»® EshõQßÓx. AÆÁõ÷Ó Kmh® B °¼¸¢x A °ØS¨ £õ²®÷£õx Phzvø¯a _ØÔ Chg_È¯õP J¸ Põ¢u¨ ¦»® EshõQßÓx. Cz÷uõØÓ¨£õmiØS C¸ ÂvPÒ £¯ß£kzu¨£kQßÓÚ.
+
+C»Á\¨ £õh¡À
+
+66
+
+1' Phzx® P®¤2' Põ¢u¨ ¦»® 3' Kmh® £õ²® vø\4' ¦»zvß vø\
+
+Á»U øP Âv
+
+1. uUøPz v¸S2. Phzx® P®¤3. uUøPz v¸Qß _ÇØ]z vø\4. Kmh® £õ²® vø\
+
+uUøPz v¸S ÂvE¸ 3.27 Phzx® P®¤ø¯ ÁøÍ¯©õP Aø©zx AuÞhõP Kmhzøu¨ £õ²©õÖ ö\´²®÷£õx Põ¢u¨ ¦»® EshõS® Âu® E¸ 3.28 CØ Põn¨£kQßÓx.
+
+C»Á\¨ £õh¡À
+
+67
+
+1. Phzx® P®¤ ÁøÍ¯®2. Põ¢u¨ ¦»®
+
+E¸ 3'28 P®¤ ÁøÍ¯zvß öu›¢öukzu Ch[PÎÀ Põ¢u¨ ¦»® EshõS® Âu® Põn¨£kQßÓx. ÁøÍ¯zvß J¸ £UPzv¼¸¢x Põ¢u Âø\U ÷PõkPÒ ÁøÍ¯zvÝÒ÷Í ¦S® A÷u ÷ÁøÍ ©ØøÓ¯ £UPzv¼¸¢x £õ¯® öÁÎ ÷¯ÖQßÓx. GÛÝ® J¸ ÁøÍ¯zvÀ EshõS® Põ¢u¨ ¦»® Á¼ø©¯õÚußÖ BøP¯õÀ ÁøÍ¯[PÒ £»ÁØøÓa ÷\ºzx¨ ¦»zøu Á¼ø©¯õUP»õ®.
+
+P®¤a _¸Îß Põ¢u¨ ¦»®E¸ 3.29 E¸ 3.29 CØS HØ£U P®¤ ÁøÍ¯[PÒ GÀ»õ® J¸ uÛ A»PõPa ö\¯Ø£kQßÓÚ. AUP®¤a _¸Îß JÆöÁõ¸ Phzx® P®¤°¾® J÷µ vø\°À Kmh® £õ´QßÓx. BP÷Á, P®¤a _¸Îß C¸ •øÚPÎ¾® J¸ Á¼ø©¯õÚ Põ¢u¨ ¦»® EshõQßÓx. E¸ÂÀ EÒÍÁõÖ Phzx® P®¤a _¸Îß Chx •øÚø¯¨ £õºUS®÷£õx Kmh® £õ²® vø\ Chg_È¯õÚx BøP¯õÀ Ax
+
+C»Á\¨ £õh¡À
+
+68
+
+Áh •øÚÄ GÚÄ® P®¤a _¸Îß Á»x •øÚø¯¨ £õºUS®÷£õx Á»g _È¯õÚx BøP¯õÀ Ax öuß •øÚÄ GÚÄ® CÚ[Põn¨£h»õ®.
+
+Phzx® P®¤a _¸ÎÝÒ÷Í Kº C¸®¦U SØÔø¯¨ ¦Szx®÷£õx _¸Îß APo¯õPz öuõÈØ£mkU Põ¢u¨ ¦»® ÷©¾® Á¼ø©¯õQßÓx.CuØSU Põµn® AmøhzuõÒ E¸øÍ°ÝÒ÷Í _¯õwÚ öÁÎUSU SÖU÷P ö\ßÓ Põ¢uU ÷PõkPÒ GÎ¯ FhP©õQ¯ C¸®¤ÞhõPa ö\ÀQßÓø©¯õS®.
+
+C®ªßPõ¢uz uõUPzøu Ai¨£øh¯õ´U öPõsk Aø©UP¨£mh TÖPÍõP Ag\¼ (Relay), ªß©o (Electric bell) BQ¯ÁØøÓ AÔ•Pg ö\´¯»õ®.
+
+Ag\¼ J¸ ]Ô¯ Kmhzøu AÀ»x ÷ÁõÀØÓÍøÁ¨ £¯ß£kzv²® C¯[S® öuõkøP •øÚPøÍU öPõsk® J¸ ö£›¯ KmhzøuU Pmk¨£kzuzuUP Kº Ezv¯õS®. CuøÚ J¸ ÷|÷µõmhzvÚõÀ AÀ»x Bh÷»õmhzvÚõÀ öuõÈØ£kzu»õ®. Ag\¼°ß _¸ÐUS ÁÇ[P¨£mkÒÍ Kmhzøu APØÖ® ÷£õx Ax öuõÈØ£hõ©À C¸US®.
+
+E¸ 3.30
+
+A, B BQ¯ •iÂh[PÐUS AÊzuzøu ÁÇ[S®÷£õx uõºUSÇ¼À _ØÓ¨£mkÒÍ P®¤a _¸Ò Põ¢u©õP ©õÖQßÓx. A¨÷£õx ö©À¼¸®¦¨ £Sv RÌ÷|õUQ CÊUP¨£kQßÓx. Aa\¢uº¨£zvÀ öuõkøP •øÚPÒ Jß÷ÓõöhõßÖ ÷©õxÁuÚõÀ vÓ¢u •øÚPÐUQøh÷¯ öuõk¨¦ HØ£mk E¯º ÷ÁõÀØÓÍÄ¨ £õøu°À Kmh® ö\ÀQßÓx.
+
+Phzx® P®¤a _¸ÎÀ öuõÈØ£õmk ÷ÁõÀØÓÍÄ JßÔ¼¸¢öuõßÖ ÷ÁÖ£kQßÓx. 5V, 6V, 9V, 12V, 24V GÚ ÁÇ[PzuUP ÷ÁõÀØÓÍÄ C[S SÔ¨¤h¨£mkÒÍx. AuØS ÁÇ[PzuUP E¯º¢u£m\ Kmh•® SÔ¨¤h¨ £mkÒÍx.
+
+C»Á\¨ £õh¡À
+
+69
+
+J¸ ö£›¯ KmhzøuU Pmk¨£kzx®÷£õx öuõkøP •øÚPÎÞhõP¨ £õxPõ¨£õP¨ £õ¯zuUP Kmhzøu Ag\¼°À SÔ¨¤mi¸zuÀ Pmhõ¯ ©õÚuõS®. AÆÁõÖ Cµõu÷£õx öuõkøP •øÚPÒ _mk (G›¢x) ÷£õP»õ®. BP÷Á, E¸ÂÀ EÒÍÁõÖ £õ¯zuUP Kmh® SÔ¨¤h¨£mkÒÍx.
+
+ªßPõ¢uz yshÀ
+
+C»zvµÛ¯À xøÓ°ß £À÷ÁÖ TÖPÒ öuõÈØ£kÁuØS ªßPõ¢uz yshÀ £¯ß£kzu¨£kQßÓx. C[S £À÷ÁÖ ªßPõ¢uz yshø» EshõUS®÷£õx yshØÔÓß ¤ß ª.C.Â. •UQ¯©õÚx.
+
+ªßÛ¯UP Âø\ ysh¨£kuÀ
+
+J¸ _¸ÎÀ ªßÛ¯UP Âø\ EshõS® Âuzøu Bµõ´÷Áõ®. SÈ EÒÍ Kº E¸øÍU PõÁ¼mh SÇõ°ÝÒ÷Í J¸ Phzx® P®¤°ÚõÀ J¸ _¸øÍa _ØÔ Auß C¸ A¢u[PÎ¾® J¸ PÀÁ÷Úõ©õÛø¯z öuõkzx J¸ \mhU Põ¢uzøu Gkzx E¸øÍU SÇõ´USÒ÷Í ¦Szx®÷£õx PÀÁ÷Úõ©õÛ°ß Põmi J¸ v¸®£ø»U Põmk®. AÆÁõ÷Ó Põ¢uzøu E¸øÍU SÇõ°¼¸¢x GkUS®÷£õx® PÀÁ÷Úõ©õÛ°À Põmi Gvºz vø\°À v¸®¦®.
+
+Cx E¸ 3.31 C¾® E¸ 3.32 C¾® Põmh¨£mkÒÍx.
+
+E¸ 3.31 E¸ 3.32Põ¢u® _¸øÍ ÷|õUQ C¯[SuÀ Põ¢u® _¸Î¼¸¢x A¨£õÀ C¯[SuÀ _¸ÎÝÒ÷Í ¦Szu¨£k® \mhU Põ¢uzvß •øÚÄPøÍ ©õØÔ¨ ¦SzvÚõÀ PÀÁ÷Úõ©õÛ°ß Põmi ö\À¾® vø\PÒ ©õÖ®. _¸ÐUS Asø©°À Põ¢u® Aø\²® PnzvÀ ©õzvµ® PÀÁ÷Úõ©õÛ°À J¸ v¸®£À Põmh¨£k®. AuõÁx Põ¢u® AÀ»x _¸Ò C¯[S® PnzvÀ ©õzvµ® _¸ÎÝÒ÷Í Kmh® ysh¨£kQßÓx. \mhU Põ¢u® C¯[S®÷£õx Põ¢u¨ £õ¯U ÷PõkPÒ _¸Îß ‰»® öÁmh¨£kQßÓÚ. AÆÁõÖ öÁmh¨£k® PnzvÀ _¸ÎÀ Kmh® ysh¨£kQßÓx.
+
+\mhU Põ¢uzvß Áh •øÚøÁ Aø\US®÷£õx J¸ P®¤z uhzvß
+
+C»Á\¨ £õh¡À
+
+70
+
+«x ÷©õx® £õ¯U ÷PõkPÎß AÍÄ AvP›US® A÷u ÷ÁøÍ AuØS Gvºz vø\°À P®¤z uhzvß «x J¸ Põ¢u¨ ¦»® EshõQßÓx. ÷©¾® P®¤z uhzvÞhõP¨ £õ²® Kmh® Chg_È¯õPa ö\ÀQßÓx. Cx E¸ 3.33 CØ Põn¨£kQßÓx.
+
+P®¤z uhzøu ÷|õUQU Põ¢uzvß Aø\Ä
+
+1. Phzx® P®¤a _¸Ò2. \mhU Põ¢u®3. Põ¢u Âø\U ÷PõkPÒ4. Aø\²® vø\
+
+E¸ 3'33
+
+\mhU Põ¢u® £i¨£i¯õPU Phzx® Phzv°¼¸¢x A¨£õÀ GkUS®÷£õx Phzx® Phzvß «x ÷©õx® £õ¯U ÷PõkPÎß AÍÄ £i¨£i¯õPU SøÓQßÓx. A¨÷£õx Phzx® uhzvÀ £õ²® Kmh•® Á»g_È¯õÚuõS®. Cx E¸ 3.34 CØ Põn¨£kQßÓx.
+
+1. Phzx® P®¤a _¸Ò2. \mhU Põ¢u®3. Põ¢u Âø\U ÷PõkPÒ4. Aø\²® vø\
+
+E¸ 3.34Põ¢uzøuU P®¤z uhzv¼¸¢x A¨£õÀ GkUS®÷£õx
+
+\mhU Põ¢uzøuz uhzvÝÒ÷Í ¦Szx®÷£õx® \mhU Põ¢uzøuz uhzv¼¸¢x öÁÎ÷¯ GkUS®÷£õx® ¤ßÁ¸® •iÄPÐUS Áµ»õ®.
+
+1. ysi¯ ªßÛ¯UP Âø\°ß ö£Ö©õÚ® _¸ÎÀ ÷©õx® Põ¢u¨ £õ¯U ÷PõkPÎß AÍøÁ¨ ö£õÖzxU SøÓQßÓx AÀ»x AvP›UQßÓx.
+
+C»Á\¨ £õh¡À
+
+71
+
+2. ysi¯ Kmhzvß vø\¯õÚx _¸Îß «x ÷©õx® Põ¢u¨ £õ¯U ÷PõkPÎß AÍÄ £i¨£i¯õP AvP›UQßÓuõ,£i¨£i¯õPU SøÓ QßÓuõ Gß£øua \õº¢ux. Kº Aø\²® Põ¢u¨ ¦»zv÷» J¸ ÷|ºU Phzvø¯ øÁUS®÷£õx ysh¨£k® ªßÛ¯UP Âø\°¾® £õºUPU Ti¯ ªßÛ¯UP Âø\ J¸ _¸Îa _¸øÍ øÁUS®÷£õx EshõQßÓx.
+
+Põ¢u¨ £õ¯U ÷PõkPÎß ‰»® J¸ SÔzu ö£õ¸Îß «x J¸ ÷ÁõÀØÓÍÄ {ø»ªß÷ÚØÓzøu AÀ»x Põ¢u¨ ¦»zøu EshõUPÀ yshÀ GÚ¨£k®.
+
+yshØÔÓøÚ AÍUS® A»S
+
+ysi°À C¸US® yshØÔÓß öíßÔ°À ^H&GkzxøµUP¨£k®.
+
+""J¸ Phzx® _¸ÎÞhõP J¸ ö\UPÛÀ ^1t& Kº A®¤¯º ^1 A& Kmh Âzv¯õ\® C¸US®÷£õx J¸ ÷ÁõÀØÖ ^1v& ªßÛ¯UP Âø\ ysh¨£kö©Ûß, Aa_¸Îß yshØÔÓß J¸ öíßÔ ^1 H& GÚ¨£k®.''
+
+J¸ öíßÔ ^1H& ªPÄ® ö£›¯ J¸ ö£Ö©õÚ©õS®. BP÷Á, C[S C¸ E£ A»SPÒ £¯ß£kzu¨£kQßÓÚ. AøÁ ªÀ¼öíßÔ ^mH&, ø©US÷µõ öíßÔ ^μH& BS®.
+
+1000 μH = 1 mH
+
+1000 mH = 1 H
+
+ysh¼À ö\ÀÁõUSa ö\¾zx® PõµoPÒ J¸ Phzx® _¸Ðhß J¸ PÀÁ÷Úõ©õÛø¯z öuõkzx AuØSU Qmh J¸ \mhU Põ¢uzøu Aø\zx, Phzx® _¸ÎÀ EshõS® ªßÛ¯UP Âø\ø¯ AÁuõÛzx, ¤ßÚº Phzx® _¸Îß _ØÖPÎß GsoUøPø¯U SøÓzx Áõ]¨ø£¨ ö£ØÖUöPõsk AÁuõÛUS®÷£õx Tku»õÚ _ØÖPøÍU öPõsh _¸Îß ‰»® Tku»õÚ ªßÛ¯UP Âø\ ysh¨£kö©ÚU Põn¨£k®. Ax E¸ 3.35 CØ Põn¨£kQßÓx.
+
+C»Á\¨ £õh¡À
+
+72
+
+1 2
+
+3
+
+0
+
+10
+
+_ØÖPÒ Tku»õP _ØÖPÒ SøÓÁõP EÒÍ _¸Ò EÒÍ _¸Ò
+
+E¸ 3.35 ÷©ØSÔzu J¸ _¸ÐUS Kº C¸®¦ APoø¯ Cmk¨ £›÷\õuøÚø¯a ö\´²®÷£õx Tku»õÚ ªßÛ¯UP Âø\ EshõQßÓöuÚU Põn¨£k®.
+
+10
+
+102
+
+3
+
+APo CÀ»õu P®¤a _¸Ò APo EÒÍ P®¤a _¸Ò
+
+E¸ 3.36
+
+CuØS ÷©»vP©õPU SøÓ¢u Âmh•ÒÍ J¸ P®¤a _¸ÐhÝ® Tku»õÚ Âmh•ÒÍ J¸ P®¤a _¸ÐhÝ® J¸ PÀÁ÷Úõ©õÛø¯z öuõkzx ÷©ØSÔzu £›÷\õuøÚø¯a ö\´²®÷£õx Âmh® Ti¯ _¸Îß PÀÁ÷Úõ©õÛ°ß Áõ]¨¦ Âmh® SøÓ¢u _¸Îß PÀÁ÷Úõ©õÛ°ß Áõ]¨¤¾® £õºUPU Tku»õP C¸UPU Põn¨£k®.
+
+C»Á\¨ £õh¡À
+
+73
+
+0 1
+
+0 1
+
+2
+
+SøÓ¢u Âmh® Ti¯ Âmh®
+
+E¸ 3.37
+
+÷©¾® J÷µ GsoUøP°»õÚ _ØÖPøÍ²® \© Âmh[PøÍ²® öPõsh APo SÖQ¯ J¸ _¸øÍ²® APo }sh J¸ _¸øÍ²® Gkzx J¸ PÀÁ÷Úõ©õÛ²hß öuõkzx ÷©ØSÔzu £›÷\õuøÚø¯a ö\´²®÷£õx SÖQ¯ APo EÒÍ P®¤a _¸Îß ‰»® Ti¯ ªßÛ¯UP Âø\ ysh¨£kö©ÚU Põn¨£k® (E¸ 3.38).
+
+0 1
+
+0 1
+
+2
+
+SÖQ¯ APo EÒÍ _¸Ò }sh APo EÒÍ _¸Ò
+
+E¸ 3.38 ÷©ØSÔzu |õßS \¢uº¨£[PÎ¾® yshØÔÓÛÀ ö\ÀÁõUSa ö\¾zx® PõµoPøÍ¨ ¤ßÁ¸©õÖ Põmh»õ®.
+
+1. Phzx® _¸Îß _ØÖPÎß GsoUøP
+
+2. APo°ß FhP®
+
+3. _¸Îß SÖUSöÁmk¨ £µ¨£ÍÄ
+
+4. _¸Îß }Í®
+
+ysiPÎÀ £À÷ÁÖ APoPÒ EÒÍÚ. AøÁ E¸ 3.39 CØ Põn¨£kQßÓÚ.
+
+C»Á\¨ £õh¡À
+
+74
+
+ÁÎ APo C¸®¦ APo ö£øµØÖ APo (Air core) (Iron core) (Ferrite core)
+
+E¸ 3.39 ÁõöÚõ¼¨ ö£õÔPÎ÷» AvP GsoUøP°À _¸ÒPÒ ÁÎ APo²hß C¸US® A÷u ÷ÁøÍ Rf _¸Ò ö£øµØÖ APoPÐhß £¯ß£kzu¨£kQßÓÚ. Á¾ ÁÇ[PÀPÒ EÒÍ {ø»©õØÔPÎ¾® ö\¾zx® {ø»©õØÔPÎ¾® £¯¨¦ {ø»©õØÔPÎ¾® ö©À¼¸®¦ APoPÒ £¯ß£kzu¨£kQßÓÚ.
+
+ö£øµØÔß Â÷\h C¯À¦ APo°ÞhõPa (core) ö\À¾® Põ¢u Âø\U ÷PõkPÒ öÁÎ÷¯ ö\À»À SøÓÁõS®. AÆÁõ÷Ó öÁÎ÷¯ EshõS® Põ¢u¨ ¦»zvß ÂøÍÁõP APo°À EshõS® ¦»zvß Á¼ø© SøÓÁvÀø».
+
+ysiPøÍ Aø©¨£uØS Â÷\h P®¤ ÁøP EÒÍx. AUP®¤°ß AÍøÁU SÔ¨¤kÁuØS ""{¯©U P®¤U AÍÄ'' (S.W.G.) AmhÁøn EÒÍx. AÆöÁsoUøP ÷©÷» ö\À¾®÷£õx Âmh® SøÓÁõP C¸US® A÷u ÷ÁøÍ R÷Ç ö\À¾®÷£õx Âmh® AvP›UQßÓx.
+
+CUP®¤PøÍ EØ£zv ö\´²®÷£õx P®¤ PõÁ¼z vµÂ¯zvÚõÀ ‰h¨£kQßÓx. A¨÷£õx JßøÓö¯õßÖ Qmhz öuõkøP²ÖÁvÀø».
+
+¤ß ªßÛ¯UP Âø\ J¸ _¸ÐUS ÷ÁõÀØÓÍøÁ ÁÇ[S®÷£õx _¸ÎÞhõP ªß Kmh® £õ¯z öuõh[S®. A¨÷£õx Aa_¸ÎÀ Põ¢u¨ £õ¯® Â¸zv¯õS®. AÆÁõÖ Â¸zv¯õS® Põ¢u¨ £õ¯zvÚõÀ Aa_¸Ò öÁmh¨£kÁuÚõÀ _¸ÎÀ ªßÛ¯UP Âø\ EshõQßÓx. ÁÇ[PÀ ªßÛ¯UP Âø\US GvµõÚ vø\°À A®ªßÛ¯UP Âø\ EshõQßÓx. ÁÇ[PÀ BÎø¯ ‰i¯Ähß _¸ÎÞhõP¨ £õ²® Kmh® E¯º¢u£m\©õS®. AÆöÁvºz vø\°À ¤Ó¨¤UP¨£k® ÷ÁõÀØÓÍÄ ¤ß ªßÛ¯UP Âø\ GÚ¨£k®. Ax _¸ÎÀ ysh¨£k® ÷ÁõÀØÓÍÁõS®. ¤ß ªßÛ¯UP Âø\ EshõS® ÂuzøuU Põmk® _ØÖ E¸ 3.40 CØ Põn¨£kQßÓx.
+
+C»Á\¨ £õh¡À
+
+75
+
+vN
+
+E¸ 3'40
+
+¤ß ªßÛ¯UP Âø\ EshõS® ]» TÖPÒ
+
+1. Ag\¼a _¸Ò (Relay Coil)
+
+2. ¦÷ÍõöµõÎºÄ ÂÍUSPÎß ukUQa _¸Ò (Choke)
+
+3. ªß ÷©õmhº
+
+uØ×shØÔÓß
+
+J¸ _¸ÐUS Kº AÊzuzøu ÁÇ[Q Aa_¸ÎÀ EshõS® Põ¢u¨ ¦»zvß ‰»® Aa_¸ÎÀ HØ£kzu¨£k® ªßÛ¯UP Âø\ø¯z yshÀ uØ×shÀ GÚ¨£k®. E¸ C» 3.40 Cß ‰»® Põmh¨£mkÒÍ _ØÔÀ {PÌÁx uØ×sh»õS®.
+
+u®•Ò yshÀ
+
+E¸ 3'41 E¸ 3.41 CØ Põn¨£kQßÓÁõÖ C¸ _¸ÒPøÍ øÁzx Kº AÊzuzøu ÁÇ[Q BÎ S Iz vÓUS®÷£õx® ‰k®÷£õx® PÀÁ÷Úõ©õÛ°ß Põmi v¸®¦ÁuõPU Põn¨£k®. Cuß P¸zx on / off ö\´²®÷£õx _¸Ò A
+
+C»Á\¨ £õh¡À
+
+76
+
+B°À J¸ ªßÛ¯UP Âø\ ysh¨£kQßÓx Gß£uõS®. _¸Ò A °À EshõS® ©õÖ® Põ¢u¨ ¦»zvß ‰»® _¸Ò B °À J¸ ªßÛ¯UP Âø\ ysh¨£kQßÓx. Cx u®•Ò yshÀ BS®.
+
+CU÷Põm£õmøh Ai¨£øh¯õPU öPõsk {ø»©õØÔPÒ Aø©UP¨ £mkÒÍÚ.
+
+{ø»©õØÔPÒ (Transformers) ªß, C»zvµÛ¯À xøÓ°À £À÷ÁÖ ÷uøÁPÐUPõP ÷ÁõÀØÓÍÄ PøÍ E¯ºzxÁuØS® SøÓ¨£uØS® ªß Á¾øÁ¨ £›©õÖÁuØS® BhÀ ªßøÚ¨ £¯ß£kzx®÷£õx {ø»©õØÔPÒ øP¯õÍ¨£kQßÓÚ.
+
+{ø»©õØÔ°ß Pmhø©¨¦
+
+J¸ Põ¢u¨ ¦»zvØSU Qmh J¸ _¸øÍ øÁzx AUPõ¢u¨ £õ¯zøu ©õØÖ®÷£õx _¸ÎÀ J¸ ªßÛ¯UP Âø\ ysh¨£kQßÓöuÚ ÷©÷» PØÕºPÒ. AÆÁõ÷Ó J¸ _¸ÎÞhõP Kº Bh÷»õmhzøu AÝ¨¦®÷£õx _¸ÎÀ ©õÖ® Põ¢u¨ ¦»zvØSU Qmh ÷ÁöÓõ¸ ysiø¯ øÁUS®÷£õx Azysi°À Kº BhÀ ªßÛ¯UP Âø\ ysh¨£kQßÓx. Cx u®•Ò yshÀ GÚ¨£k®. CU÷Põm£õmøh Ai¨£øh¯õ´U öPõsk {ø»©õØ ÔPÒ EØ£zvö\´¯¨£mkÒÍÚ.
+
+{ø»©õØÔ •UQ¯©õP ‰ßÖ £SvPøÍU öPõskÒÍx.
+
+1' •ußø©a _¸Ò
+
+2' xøna _¸Ò
+
+3' APo
+
+123
+
+E¸ 3'42
+
+C»Á\¨ £õh¡À
+
+77
+
+{ø»©õØÔPÎß APo ö©À¼¯ AhµõUPÀ uPkPÎÚõ»õÚuõS®. (Lamination sheets). AÆÁõÖ ö\´ÁuØSU Põµn® Ti¯ vÓøÚ¨ ö£Öu»õS®. CzuPkPÒ JßÔ¼¸¢öuõßÖ PõÁ¼h¨£mkÒÍÚ.
+
+£À÷ÁÖ {ø»©õØÔPÐUS öÁÆ÷ÁÖ APoPÒ £¯ß£kzu¨£kQßÓÚ. C[S Bh÷»õmhzvß «iÓÝU÷PØ£ APoUPõP¨ £¯ß£kzu¨£k® ö£õ¸Ò ¯õöuÚz wº©õÛUP¨£k®. ªPÄ® E¯º¢u «iÓßPøÍU öPõsh Bh÷»õmh[PÐUS ÁÎ APo²® (Air core) ö£øµØÖ APo²® (Ferrite core) £¯ß£kzu¨£kQßÓÚ. SøÓ¢u «iÓß EÒÍ Bh÷»õmh[PÐUPõP C¸®¦ APo (Iron core)£¯ß£kzu¨£kQßÓx. CuØS¨ £¯ß£kzu¨£k® SÔ±kPÒ E¸ 3.44 CØ Põn¨£kQßÓÚ.
+
+E¸ 3.43 |õº, ¤ÍõzvUS ÷£õßÓ J¸ PõÁ¼z vµÂ¯zvÚõØ ö\´¯¨£mh uõºUSÇÀ (Bobbin) «x ö\®¦ AÀ»x A¾ªÛ¯® _ØÓ¨£mh P®¤PÎÚõÀ (winding wire) •ußø©a _¸Ð® xøna _¸Ð® _ØÓ¨£mkÒÍÚ.
+
+{ø»©õØÔ°ß •ußø©a _¸Ð® xøna _¸Ð® _ØÓ¨£k® ÂuzvØ÷PØ£ {ø»©õØÔPÒ C¸ÁøP¨£k®.
+
+1' APo ÁøP (Core Type)
+
+2' Kmk ÁøP (Shell Type)
+
+E¸ 3.44
+
+C»Á\¨ £õh¡À
+
+78
+
+Kmk ÁøP (Shell Type)
+
+C¢{ø»©õØÔ xøn°¼¸¢x ö£ØÖU öPõÒÐ® ÷ÁõÀØÓÍÄPÐU ÷PØ£ C¸ÁøP¨£k®.
+
+1' £i SøÓ {ø»©õØÔ (step down transformer)
+
+2' £i E¯ºzx {ø»©õØÔ (step up transformer)
+
+£iSøÓ {ø»©õØÔ, ö£¸®£õ¾® ÁõöÚõ¼¨ ö£õÔ, Pö\ØÖ¨ ö£õÔ, öuõø»UPõm] ÷£õßÓ ªß TÖPÐUS 230 AC ªßøÚU SøÓzx 6V, 9V, 12V, 24V ÷£õßÓ £À÷ÁÖ AÍÄPÎÀ ÁÇ[S® {ø»©õØÔPÒ CÆÁøPUS E›¯ÚÁõS®. öuõø»UPõm]¨ ö£õÔ°À EÒÍ Flyback Transformer öuõø»U Põm]U SÇõ°À A÷ÚõmiØS AÁ]¯©õS®. E¯º ÷ÁõÀØÓÍøÁ ÁÇ[S® £i E¯ºzx ÁøPUS E›¯x. C¨£i E¯ºzx {ø»©õØÔ°ß •ußø©US ÁÇ[S® ªßÛß AÍÄ xøn°¼¸¢x Tmi ÁÇ[P¨£k®. £i E¯ºzx {ø» ©õØÔ°ß •ußø©a _¸Îß •ÖUSPÎß GsoUøP SøÓÁõP C¸US® A÷u ÷ÁøÍ xøna _¸Îß •ÖUSPÎß GsoUøP AvP©õS®.
+
+{ø»©õØÔ°ß ]» ÁøPPÒ
+
+¤µuõÚ ªß {ø»©õØÔ, £¯¨¦ {ø»©õØÔ, ö\¾zx® {ø»©õØÔ, Cøh «iÓß {ø»©õØÔ, ußÛ¯UP {ø»©õØÔ, Kmh {ø»©õØÔ, ÷ÁõÀØ ÓÍÄ {ø»©õØÔ, E¸QønUS® {ø»©õØÔ, ø©¯U PÁº¨¦ {ø»©õØÔ
+
+ußÛ¯UP {ø»©õØÔ (Auto Transformer) CzußÛ¯UP {ø»©õØÔ°À J¸ _ØÔ¯ _¸Ò EÒÍx. Ax •ußø©, xøn BQ¯ CµskUS® ö£õxÁõÚx. _ØÓ¼ß C¸ ~ÛPÐUS® J¸ SÔzu ÷ÁõÀØÓÍøÁ ÁÇ[Qa _ØÓ¼ß JÆ÷Áõº Chzv¾® PÁº¨ø£ (Tapping)øÁzx AÁØÔß ‰»® ÷ÁõÀØÓÍÄPÒ ö£Ó¨£kQßÓÚ. £i SøÓ, £i E¯ºzx GßÝ® C¸ ÁøPPÒ EÒÍÚ. Cuß ö\»Ä SøÓÁõP C¸¢uõ¾® CvÀ \õuõµn {ø»©õØÔ ÷£õÀ _¸ÒPÒ ÷ÁÖ÷ÁÓõP CÀ»õø© ¤µvT»©õS®.
+
+C»Á\¨ £õh¡À
+
+79
+
+E¸ 3.45{ø»©õØÔPÐUS¨ £¯ß£kzu¨£k® SÔ±kPÒ
+
+E¸ 3.46 •ußø©°Úx® xøn°Úx® _ØÖPÎß GsoUøPPÐU÷PØ£ ö£¯¨¦ ÷ÁõÀØÓÍÄ® £¯¨¦ ÷ÁõÀØÓÍÄ® ÷ÁÖ£k®. •ußø©a _¸ÐUS ÁÇ[P¨£k® ÷ÁõÀØÓÍÄ ÂQuzvØS® KmhzvØSªøh÷¯ EÒÍ öuõhº¦øhø© E¸ 3.48 Cß ‰»® Põmh¨£kQßÓx.'
+
+C»Á\¨ £õh¡À
+
+80
+
+E¸ 3.47
+
+•ußø©a _¸ÐUS ÁÇ[P¨£k® ÷ÁõÀØÓÍÂß ÂøÍÁõP Aa_¸ÎÀ Kº Bh÷»õmh® ö\ÀQßÓx. CÆ÷Áõmhzvß ‰»® Kº BhØ Põ¢u¨ £õ¯® APo°À ¤Ó¨¤UP¨£kQßÓx. •ußø©°ß ‰»® ¤Ó¨¤UP¨£k® •ÊU Põ¢uÂ¯À¦® xøn²hß öuõhº¦£mhöuÛß, xøn°À J¸ ªßÛ¯UP Âø\ ysh¨£k®.Ca\¢uº¨£zvÀ •ußø©a _¸Îß J¸ •ÖUQß ‰»® ysh¨£k® ªßÛ¯UP Âø\ xøn°ß J¸ •ÖUQß ‰»® ysh¨£k® ªßÛ¯UP Âø\USa \©©õS®. ö\´•øÓ¯õP •ußø©°À ysh¨£k® ªßÛ¯UP Âø\ ÁÇ[PÀ ÷ÁõÀØÓÍÄUSa \©©õP C¸US® A÷u ÷ÁøÍ Auß vø\ GvµõÚuõS®.
+
+•ußø©°ß J¸ _ØÔÀ ysh¨£k® ªßÛ¯UP Âø\ = VP
+
+NP
+
+xøn°ß J¸ _ØÔÀ ysh¨£k® ªßÛ¯UP Âø\ = VS
+
+NS
+
+CuØ÷PØ£ CÆÂ¸ ÂQu[PÐ® \©®.
+
+VP = VSNS NP
+
+{ø»©õØÔ°ß Kmh[PÐUQøh÷¯ EÒÍ ÂQuzøu²® ¤ßÁ¸©õÖ GkzxøµUP»õ®. •ußø©US ÁÇ[P¨£k® ªß Á¾ •ØÓõPz xøn°¼¸¢x QøhUSö©Ûß, AzuøP¯ {ø»©õØÔ C»m]¯ {ø»©õØÔ ^Ideal transformer) GÚ¨£k®.
+
+C»Á\¨ £õh¡À
+
+81
+
+E¸ 3.48CÆÁõÖ C¸US®÷£õx
+
+PP = PS (WP = WS)
+
+PP = •ußø©°ß Á¾
+
+PS = xøn°ß Á¾
+
+VP × IP = VS × IS
+
+VP = ISVS IP
+
+÷©ØSÔzuÁõÖ C»m]¯ {ø»°À C¸US® {ø»©õØÔPÒ ö\´•øÓ¯õP CÀø». ¯õuõ°Ý® J¸ {ø»©õØÔ°ß •ußø©US ÁÇ[S® Á¾ •ØÓõPz xønUSa ö\ÀÁvÀø». Auß J¸ £Sv {ø»©õØÔ |mh©õP öÁÎ÷¯ÖQßÓx.
+
+{ø»©õØÔ |mh®{ø»©õØÔ°ß |mh[PÒ •UQ¯©õP C¸ £SvPÍõP HØ£kQßÓÚ.
+
+1' C¸®¦ |mh® (Iron Ioss)
+
+2' ö\®¦ |mh® (Copper Ioss) C¸®¦ |mh®
+
+{ø»©õØÔ°À EÒÍ C¸®¦ APo°À EshõS® |mh® C¸®¦ |mh©õS®. C¢|mh® öÁ¨£©õP öÁÎ÷¯ÖQßÓx. C¢|mh® ö\´•øÓ¯õP |øhö£ÖÁøuU Põn»õ®. C¢|mhzøu ©Ö£i²® C¸ £SvPÍõP¨ ¤›UP»õ®.
+
+1' _›¯À Kmh |mh® (Eddy current loss)
+
+2' ¤ßÛøhÄ |mh® (Hysteresis loss)
+
+C»Á\¨ £õh¡À
+
+82
+
+_›¯À Kmh |mh®
+
+{ø»©õØÔ°ß APo°À ÁÇ[PÀ ÷ÁõÀØÓÍÂß «iÓÝU÷PØ£ ©õÖ® Põ¢u¨ £õ¯® ö\ÀQßÓx. {ø»©õØÔ°ß APo Kº C¸®¦U SØÔø¯¨ ÷£õßÓöuÚU P¸x®÷£õx AuÞhõPa ö\À¾® Põ¢u¨ £õ¯zvß ÂøÍÁõP AUPõ¢u¨ £õ¯zvØSa ö\[SzuõP J¸ ¤ß ªßÛ¯UP Âø\ EshõQßÓx. A¢u C¸®¦U SØÔ°ß uøh SøÓÁõøP¯õÀ AuÞhõPa ö\À¾® Kmh® E¸ÂÀ EÒÍÁõÖ C¸UQßÓx.
+
+E¸ 3.49
+
+APo¯õPU öPõÒÍ¨£mkÒÍ C¸®¤ß uøh°ß ÂøÍÁõP Á¾ |mh® HØ£kQßÓx. Cx _›¯÷»õmh |mh® GÚ¨£k®. Ca_›¯÷»õmh® Põµn©õPa \Uv |mh® öÁ¨£©õP öÁÎ÷¯ÖQßÓx. CuøÚ CÈÁÍÁõU SÁuØS APo PõÁ¼h¨£mh E÷»õPz uPkPÎÚõÀ ö\´¯¨£kQßÓx. A¨÷£õx _›¯÷»õmh® SøÓQßÓx.
+
+E¸ 3.50
+
+_›¯÷»õmhzøuU SøÓ¨£uØS E¸USz uPkPÐUS¨ £v»õPa ]¼UPß P»¢u E¸US AhµõUPz uPkPÒ ‰»® {ø»©õØÔPøÍ EØ£zv
+
+C»Á\¨ £õh¡À
+
+83
+
+ö\´²®÷£õx £¯ß £kzu¨£kQßÓx. AÁØÔß uøh AvP® BøP¯õÀ APo°ÞhõPa ö\À¾® Kmh® SøÓQßÓx. A¨÷£õx _›¯÷»õmh |mh® ÷©¾® SøÓQßÓx. E¸ 3.51
+
+¤ßÛøhÄ |mh® \õuõµn ö©À¼¸®¦z xsk £» ‰»UTÖPøÍ JÊ[QßÔ Aø©¨ £uß ‰»® ö\´¯¨£mkÒÍöuÚU öPõÒ÷Áõ®. A¨÷£õx A®‰»UTÖPÎß Põ¢uz vø\PÐ® JÊ[PØÓ Âu©õP Aø©¢v¸US®. Cx E¸ 3.52 CØ Põn¨£kQßÓx.
+
+E¸ 3.51 C®ö©À¼¸®¦z xsøh¨ £ØÔ J¸ P®¤a _¸øÍa _ØÔ AUP®¤a _¸ÎÞhõP Kº Kmhzøu¨ £õ¯a ö\´²®÷£õx Kº JÊ[PØÓ ÷Põ»zvÀ C¸¢u Põ¢u ‰»UTÖPÒ Kº JÊ[PõÚ ÷Põ»zvÀ ÁiÁø©¢x ö©À¼¸®¦z xsiÀ Áh •øÚÄ® öuß •øÚÄ® EshõUSQßÓÚ. Cx E¸ 3.52 Cß E¸ 1 CÀ Põn¨£kQßÓx. ªß ÁÇ[P¼ß •øÚÄzußø©ø¯ ©õØÔÚõÀ, ‰»UTÖPÎß vø\ ©õÖ®. Ax E¸ 3.52 Cß E¸ 2 CÀ Põn¨£kQßÓx.
+
+1. ªß÷Úõmhzøu¨ £õ¯a ö\´²®÷£õx •øÚÄzußø© Aø©²® Âu®2. Á¾ ÁÇ[PÀ vø\ø¯ ©õØÖ®÷£õx Põ¢u •øÚÄzußø© ©õÖ® Âu®
+
+(1) (2)
+
+E¸ 3.52
+
+Ca_¸ÐUS Kº Bh÷»õmhzøu ÁÇ[QÚõÀ Auß Aøµa \UPµzvÀ Kmh® E¯º¢u£m\©õQ¨ §a]¯©õQßÓx. A¨÷£õx APo°À EshõS® Põ¢uÂ¯À¦® E¯º¢u£m\©õQ¨ §a]¯©õuÀ ÷Ásk®. GÛÝ® J¸ Põ»zvÀ J¸ ÷Põ»zvÀ ÁiÁø©¢v¸¢u Põ¢uz xoUøPPÒ A¢{ø»ø©°¼¸¢x öuõhUP {ø»ø©US ©õØÖÁuØS J¸ SÔzu Põ»® GkUS® A÷u ÷ÁøÍ GÀ»õz xoUøPPÐ® J÷µ uhøÁ°À öuõhUP {ø»ø©US ©õÖÁvÀø».
+
+C»Á\¨ £õh¡À
+
+84
+
+A¨÷£õx J¸ SÔzu Põ¢uÂ¯À¦ Gg]°¸US®. CUPõ¢uÂ¯Àø£¨ §a] ¯©õUPz ÷uøÁ¯õÚ \Uv Akzu Aøµa \UPµzvÀ ÁÇ[P¨£kuÀ ÷Ásk®. C[S \Uv |mh® HØ£kQßÓx. AÆÁõÖ |øhö£Ö® |mh® ¤ßÛøhÄ |mh©õS®. CÆÁõÖ ö\»Âh¨£k® \Uv öÁ¨£©õP öÁÎ÷¯ÖQßÓx. C[S |mh©õQ¨ ÷£õS® \Uv _¸ÐUS ÁÇ[P¨£k® ªß \Uv°ÚõÀ EÔg\¨£kQßÓx.
+
+¤ßÛøhÄ |mhzøu CÈÁÍ©õUSÁuØS AhµõUPÀ uPkPÒ {UPÀ C¸®¦U P»øÁ°ÚõÀ ö\´¯¨£kQßÓÚ. C¢|mh® {ø»©õØÔ, ÷©õmhº, ¤Ó¨£õUQ BQ¯ÁØÔÀ HØ£kQßÓx.
+
+ö\¨¦ |mh® •ußø©a _¸Ð® xøna _¸Ð® _ØÓ¨£mkÒÍ ö\¨¦U P®¤PÎß uøh Põµn©õP EshõS® Á¾ |mh® ö\¨¦ |mh® GÚ¨£k®. C¢|mh•® öÁ¨£©õP öÁÎ÷¯ÖQßÓx.
+
+{ø»©õØÔ°À EshõS® ö©õzu |mh® ö£´¨¦ Á¾Âß 2% CØS® 3%CØSªøh÷¯ C¸US®. BP÷Á, {ø»©õØÔ°ß vÓß 97% CØS® 98%CØSªøh÷¯ C¸USö©ÚU Põmh»õ®. 100 W Á¾øÁz xøn°¼¸¢x ö£Ó ÷Ási°¸¨¤ß, Auß •uß ø©¨ £UP® 102 W AÀ»x 103 W Á¾øÁ ÁÇ[P ÷Ásk® Gß£÷u Cuß P¸zuõS®.
+
+102 Wö£¯¨¦
+
+100 W£¯¨¦
+
+E¸ 3.53
+
+C»Á\¨ £õh¡À
+
+85
+
+{ø»©õØÔ°ß •øÚÄzußø©
+
+E¸ 3.54
+
+•ußø©a _¸Ð® xøna _¸Ð® J÷µ vø\°À _ØÓ¨£mi¸US® \¢uº¨£zvÀ ÷£õßÖ J÷µ vø\°À _ØÓ¨£hõu \¢uº¨£zv¾® £¯¨¦ ÷ÁõÀØÓÍÂß •øÚÄzußø© ©õÖ® Âu® E¸ 3.55 CÀ Põn¨£kQßÓx
+
+E¸ 3.55
+
+J÷µ vø\°À _ØÓ¨£mi¸US® {ø»©õØÔ°ß xøn°ß |kÂÀ PÁº¨¦a ö\´x ¦Âzöuõk¨¦a ö\´v¸US®÷£õx AÆÁa_z öuõhº£õPz xøn°ß C¸ A¢u[PÎ¾® JßÖUöPõßÖ GvµõPU Pø»PÒ C¸US® Âu® E¸ 3.56 CØ Põn¨£kQßÓx.

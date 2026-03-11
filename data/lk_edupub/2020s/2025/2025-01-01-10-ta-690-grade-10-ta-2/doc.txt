@@ -1,0 +1,207 @@
+==== BLOCKS ==== 
+
+C»Á\¨ £õh¡À
+
+36
+
+ö©ß £ØÓõ_ ¤izuÀ (Soft Soldering)
+
+C»zvµÛ¯À _ØÖUPøÍ JßÖ ÷\ºUS®÷£õx G©US ö©ß £ØÓõ_ ¤izuÀ ö\¯ß•øÓ ªP¨ •UQ¯©õÚuõS®. C[S CuØPõP ªß £ØÓõ_U ÷PõÀ ©ØÖ® £ØÓõ_ D¯® £¯ß£kzu ÷Ásk®. AÆÁõ÷Ó £ØÓõ_ ¤i¨£uß ö\¯ß•øÓø¯ v¸zu©õPa ö\´uÀ ÷Ásk®. AÆÁõÖ CÀ»õx ÷£õÚõÀ £ØÓõ_ ¤i¨£uß ‰»® öuõhº¦£kzx® Ch® ©ØÖ® öu›Ä ö\´u xønUTÖ EÖv¯ØÓuõQÂk®.
+
+£ØÓõ_ D¯® (Soldaing Lead)
+
+Cx öÁÒÏ¯® &D¯® P»¢u P»¨¦÷»õP® JßÓõS®. C[S öÁÒÏ¯ D¯ P»¨¦ Ãu® 65% : 35% BS®. GÛÝ® \¢øuPÎÀ £µÁ»õP C¸¨£x 60% : 40% P»¨¦ £ØÓõ_ ö£õ¸ÍõS®. CøÁ £» Âmh[PÎÀ P®¤ ÁiÂÀ u¯õ›UP¨£mkÒÍÚ. £ØÓõ_¨ ¤iUQßÓ Chzvß «x JUø\mk £iÁøuz uÂº¨£uØPõP ÷uøÁ¯õÚ ö©ÊS¨£õ¯® (Flux) CUP®¤°ÝÒ AhUP¨£mkÒÍx.
+
+£ØÓõ_ D¯®
+
+£õ¯® Ah[Q²ÒÍ xøÍ
+
+E¸ 2.1
+
+D¯UP®¤ vµÁ©õS®÷£õx AuÝÒ EÒÍ £õ¯® PøµÁuÚõÀ £ØÓõ ]ß «x £õxPõ¨ø£ ÁÇ[S®. D¯® |a_ÒÍ ö£õ¸ÍõS®. CßÖ D¯® £¯ß£kzuõ©À EØ£zv ö\´¯¨£mh £ØÓõ_¨ ö£õ¸öÍõßÖ \¢øu°À EÒÍx.
+
+02
+
+ö©ß £ØÓõ_ ¤izu¾® £À©õÛ²®
+
+C»Á\¨ £õh¡À
+
+37
+
+ªß £ØÓõ_U ÷PõÀ (Electric Soldering Iron) £ØÓõ_¨ ö£õ¸Îß ‰»® £ØÓõ_ ¤iUP ÷Ásk©õ°ß, £ØÓõ_¨ ö£õ¸ÐUS öÁ¨£zøu ÁÇ[Q Aøu vµÁ©õUQU öPõÒÍÀ ÷Ásk®. CuØPõP ªß£ØÓõ_U ÷PõÀ (£Äz) £¯ß£kzu¨£k®. Cøu ÷|µi¯õP 230 V ‰»® ö\¯Ø£kzu•i²®. ªß£ØÓõ_ ÷Põ¼ÝÒ ÷uøÁ¨£k® öÁ¨£zøu EØ£zv ö\´ÁuØSz ÷uøÁ¯õÚ ø|UQ÷µõß P®¤a_¸Ò JßÖ EÒÍx. Cx E÷»õPSÇõ´ JßøÓa _ØÔ _ØÓ¨£mh ªßPõÁ¼¨ö£õ¸Ò JßÓõÚ ø©UPõz uPmiÀ «x uõ[P¨£mkÒÍx. P®¤a_¸øÍa _ØÔ CÖv°À Auß «x CßÝ÷©õº ø©UPõzumk øÁUP¨£mkÒÍx. CÆÄ£PµnzvÀ øP°ÚõÀ ¤iUS® £Sv ¤ÍõzvUS AÀ»x ©µ® ÷£õßÓ ªß, PõÁ¼¨ö£õ¸ÎÚõÀ Aø©UP¨£mi¸US®. {UQ÷µõ® P®¤°ß ‰»® `÷hØÓ¨£kÁx £ØÓõ_U ÷Põ¼ß •øÚ¯õS®.
+
+•øÚ{U÷µõ® P®¤a_¸ÒPõÁ¼¨¤i\Uv ÁÇ[PÀ P®¤
+
+E¸ 2.2 £ØÓõ_U ÷Põ¼ß •øÚø¯ ÷uøÁU÷PØ£ £À÷ÁÖ ÁiÁ[PÎÀ Aø©UP¨£mkÒÍÚ.
+
+E¸ 2.3 ªß £ØÓõ_U ÷Põ¾UPõP EÒÍ •øÚ ö\®¦ AÀ»x ¥[Põß BS®. ö\®ø£ Âh ¥[Põß •øÚ ªP¨ö£õ¸zu©õÚuõS®. AuØSU Põµn® ö\®¦ •øÚ £¯ß£kzx®÷£õx Ámh©õP ÷u´Áøh¢x ÁiÁ® ©õÖ® GÛÝ® ¥[Põß •øÚ AÆÁõÖ BÁvÀø» Gß£uÚõ»õS®.
+
+C»Á\¨ £õh¡À
+
+38
+
+ªß £ØÓõ_U ÷Põ¼ß `hõS® AÍÄ Auß \Uv¨ö£Ö©õÚzvÀ u[Q²ÒÍx. AuØS Aø©¯ 30 W, 40 W, 60 W, 100 W BQ¯ \Uv (Á¾) ö£Ö©õÚ[PøÍ ²øh¯ ªß£ØÓõ_U ÷PõÀPøÍ¨ ö£ØÖUöPõÒÍ •i²®. ö£õxÁõP C»zvµÛ¯À xøn EÖ¨¦UPøÍ JßÖ ÷\º¨£uØPõP 30 W ©ØÖ® 40 W ªß£ØÓõ_U ÷PõÀPÒ ö£õ¸zu©õÚuõS®. ]» C»zvµÛ¯À xønUTÖPøÍ¨ £ØÓõ_ ¤i¨£uØPõP 230 W Bh÷»õmh ªß÷ÚõmhzvÚõÀ ö\¯Ø£kQßÓ ªß£ØÓõ_U ÷PõÀPÒ ö£õ¸zu©ØÓuõS®. AuØPõP ÷|÷µõmh ªß÷ÚõmhzvÀ öuõÈØ£kQßÓ ªß£ØÓõ_U ÷PõÀPÒ £¯ß£kzuÀ ÷Ásk®.
+
+D¯® EÔg] (Re Soldering Pump)
+
+£ØÓõ_ ¤iUP¨£mh Chzv¾ÒÍ D¯zøu ªß£ØÓõ_U ÷Põ¼ß ‰»® vµÁ©õUQ }USÁuØS CÆÄ£Pµn® £¯ß£kzu¨£k®. CÆÄ£Pµnzøu £¯ß£kzxÁuÚõÀ £ØÓõ_ ¤iUP¨£mh E£PµnzvØS® _ØÖ¨£»øPUS® GÆÂu ÷\u•® HØ£hõuÁõÖ xøn EÖ¨ø£ PÍØÔ }UP •i²®.
+
+£ØÓõ_ ¤izuÀ
+
+£ØÓõ_ ¤iUS®÷£õx •u¼À £ØÓõ_ ¤iUS® ChzvÀ ªßP®¤ø¯a _zu®ö\´x öPõÒÍÀ ÷Ásk®. Gsön´, x¸, y] ÷£õßÓøÁ C¸¨¤ß AÁØøÓ }UQ öPõÒÍ÷Ásk®. £ØÓõ_ D¯® ]ÔuÍøÁ `hõÚ £ØÓõ_U÷Põ¼ß •øÚUS Gkzx £ØÓõ_ ¤iUP ÷Ási¯ ChzvÀ øÁUPÄ®. ¤ßÚº £ØÓõ_ ¤iUP ÷Ási¯ ChzvÀ `hõUP¨£mh ªß£ØÓõ_U ÷Põ¼ß •øÚø¯ øÁzx AÆÂh öÁ¨£ {ø»ø¯ vµÁ D¯zvß öÁ¨£ {ø»ø¯ Âh Tku»õÚ öÁ¨£ {ø»US Á¸®Áøµ `÷hØÔ ÷Põ¼ß •øÚø¯ £ØÓõ_ D¯UP®¤ öuõk©õÖ øÁzuÀ ÷Ásk®. A¨÷£õx £ØÓõ_¨ ö£õ¸Ò EhÚi¯õP vµÁ©õQ ÷uøÁ¯õÚ ChzvÀ £µÄ®. EhÚi¯õP A¨÷£õx D¯UP®¤ø¯ APØÓ ÷Ásk®. Aøu Akzx ªß£ØÓõ_U÷Põ¼ß •øÚø¯ öÁÎ÷¯ GkzuÀ ÷Ásk®. CuÚõÀ ]Ó¢u £ØÓõ_ ö\¯ß•øÓ JßøÓ ÷©ØöPõÒÍ •i²®. ªß, £ØÓõ_U÷PõÀ ©ØÖ® £ØÓõ_ ¤iUS® Ch® Gß£Ú |ßS `hõPõ©À £ØÓõ_ ¤i¨£uõÀ E»º£ØÓõ_ ¤i¨¦ (Dry joint) Qøh¨£xhß Ax EÖv¯õÚuÀ».
+
+C»Á\¨ £õh¡À
+
+39
+
+£ØÓõ_ ¤iUS® ö\¯ß•øÓ JÊ[S E¸ 2.4 Cß ‰»® Põmh¨£mkÒÍx
+
+E¸ 2.4_ØÖ JßÔß Á¾øÁU PozuÀ ªß E£Pµnzøu AÀ»x C»zvµÛ¯À E£Pµnzøu öuõÈØ£kzx® ÷£õx ö\»ÁõS® Á¾ öuõhº£õP ÂÍUP® C¸¨£x ªPÄ® •UQ¯©õÚuõS®. AuØSU Põµn©õP |õ® ~PºQßÓ JÆöÁõ¸ ªß E£Pµn[PÎÚx® ªßÁ¾ TiU SøÓÁuõS®. |õ® vmhªkQßÓ _ØÖ AÀ»x E£Pµn® SøÓ¢u ªß Á¾øÁa ö\»ÂkÁuõ°ß, G©US AvP \Uv «u©õS®. ªßÁ¾øÁ AÍÂk® A»S (Watt) BS®. Auß SÔ±k W BS®. ö£¸®£õ»õÚ ªß E£Pµn[PÎÀ Auß ªßÁ¾ÁõQ¯ ÷ÁõØÖ AÍÄ, AÆÄ£PµnzvÀ SÔ¨¤h¨£mi¸UQßÓx.
+
+ªßÁ¾øÁ PozuÀ
+
+W = VI GÝ® `zvµzøu¨ £¯ß£kzu»õ®. E£Pµn® ö£ØÖUöPõÒÐ® ªß÷ÚõmhzvÚx®, AÆÄ£Pµnzvß C¸ •øÚPÐUSU SÖU÷P¯õÚ ªß AÊzu ÷ÁÖ£õmiÚõÀ ö£¸UP, E£Pµnzvß ªßÁ¾¨ ö£Ö©õÚ® QøhUS®.ªß \Uv öuõhº£õÚ ÷©¾ÒÍ \©ß£õmiØS Kªß Âv°¼¸¢x ö£ØÖU öPõsh öÁÎ±kPøÍ (\©ß£õkPøÍ¨) ¤µv°kÁuß ‰»® CßÝ® C¸ \©ß£õkPøÍ¨ ö£Ó»õ®.
+
+C»Á\¨ £õh¡À
+
+40
+
+W = VI V = IR ¤µv°kÁuõÀ W = I2R I = V/R Gß£øu ¤µv°kÁuõÀ W = V. V/R W = V2/R
+
+£À©õÛ
+
+ªß ©ØÖ® C»zvµÛ¯À _ØÖUPÎÀ £À÷ÁÖ AÍÃkPøÍ¨ ö£ØÖU öPõÒÁuØPõP A®¤¯º©õÛ, ÷ÁõØÖ©õÛ ©ØÖ® K®©õÛPÒ GÚ öÁÆ÷ÁÓõP ©õÛPÒ £¯ß£kzu¨£mhÚ. AßÓõh¨ £¯ß£õmiß Á\v P¸v CøÁ AøÚzøu²® JßÖ ÷\º¢x uÛ J¸ ©õÛ¯õP £À©õÛ EØ£zv ö\´¯¨ £mhx. £À©õÛ ¤µuõÚ©õP C¸ ÁøP¨£k®.
+
+•• J¨¦Î¨ £À©õÛ - Analoge Multimeter
+
+•• C»UP¨ £À©õÛ - Digital Multimeter
+
+J¨¦Î¨ £À©õÛ (Analoge Multimeter) Aø\²® _¸Ò AÍÂk® E£Pµn® JßøÓ¨ £¯ß£kzv EØ£zv ö\´¯¨£mkÒÍ J¨¦Î £À©õÛ°ß Põmi°ß Aø©ÄUS HØ£ Áõ]¨¦U PøÍ¨ ö£ØÖUöPõÒÍ •i²®. C¨ £À©õÛø¯¨ £¯ß£kzx® ÷£õx Aøu øÁUP ÷Ási¯ Âu® SÔ±miß ‰»® Põmh¨£mkÒÍx.
+
+- Qøh¯õP øÁzx Áõ]¨ø£ ö£ÖuÀ ÷Ásk®.
+
+- {ø»USzx Aø©öÁõßÔÀ øÁzx Áõ]¨ø£ ö£ÖuÀ ÷Ásk®.
+
+- \õ´ÁõP øÁzx Áõ]¨ø£ ö£ÖuÀ ÷Ásk®. £À©õÛø¯ E£÷¯õQzu ¤ßÚº PÍg]¯¨£kzx® ÷£õx, ¤ßÁ¸® Âh¯[PÒ öuõhº£õPU PÁÚ® ö\¾zu ÷Ási¯ Âh¯[PÒ.
+
+••`›¯ JÎ ÷|µi¯õP ÂÊ® Ch[PÎÀ øÁUPUThõx••AvºÄ EÒÍ Ch[PÎÀ øÁUPUThõx
+
+C»Á\¨ £õh¡À
+
+41
+
+••y] EÒÍ Ch[PÎÀ øÁUPUThõx••SÎµõÚ ©ØÖ® C¸mhõÚ ChzvÀ øÁzuÀ ÷Ásk®••SøÓ¢u Dµ¨£uÝÒÍ ChzvÀ øÁzuÀ ÷Ásk®••x¸ EÒÍ ö£õ¸mPÎÀ öuõhõ©À øÁzuÀ ÷Ásk®
+
+J¨¦Î £À©õÛø¯ £¯ß£kzuÀ £À©õÛ JßÔÚõÀ ÷|÷µõmh® ©ØÖ® Bh÷»õmh ÷ÁõØÓÍÄPøÍ²® uøh¨ ö£Ö©õÚ[PøÍ²® ÷|÷µõmh ªß÷Úõmh¨ ö£Ö©õÚ[PøÍ²® AÍÂh •i²®.
+
+uøhø¯ AÍzuÀ
+
+E¸ 2.5 J¨¦Î¨ £À©õÛ°ß •P¨¤À BP ÷©÷» EÒÍ AÍÄzvmh® K® AÍÄz vmh©õS®. CÆ AÍÄzvmhzvß §a]¯® AÍÄzvmhzvß Á»¨£UP©õP Aø©¢v¸¨£xhß, AÆ AÍÄzvmh® •iÂ¼°À •iÁ øh²®. £zvß ö£¸UP[PÍõP AÍÄzvmh® C»UPªh¨£mkÒÍx. Ãa_z öu›Ä BÎUS £À÷ÁÖ Ãa_UPÒ EÒÍÚ. AøÁ¯õÁÚ –1, –10, –100 ©ØÖ® –1000 BS®. Ãaø\ öu›Äö\´²® BÎø¯ J¸ Ãa]À øÁzx AÍÂk® •øÚPÒ Cµsøh²® JßÖhß JßÖ öuõha ö\´x §a]¯zvØS Á¸QßÓuõ GÚ •u¼À £Ÿm]zx¨ £õºzuÀ ÷Ásk®. AÆÁõÖ Põmi §a]¯zvØS ÁµÂÀø»¯õ°ß K® Ãaø\¨ §a]¯zvØSU öPõsk Á¸® ö£õzuõøÚ _ÇØÔ Põmiø¯ §a]¯zvØSU öPõsk ö\À» ÷Ásk®. AÍÃmøh¨ ö£ØÖUöPõÒÐ® ÷£õx Põmi Aø©¢xÒÍ ö£Ö©õÚzøu Áõ]zx Ãa_ öu›Ä BÎ Aø©¢xÒÍ ö£¸UPÀ ö£Ö©õÚzvÚõÀ ö£¸UQ Áõ]¨ø£¨ ö£ØÖU öPõÒÍ•i²®.
+
+C»Á\¨ £õh¡À
+
+42
+
+Põmi K® Ãa]À 22 CÀ Aø©¢xÒÍ÷£õx Ãa_ öu›Ä BÎ –100 CÀ C¸¨£uõPU P¸x÷Áõ®.
+
+A¨÷£õx uøh¨ ö£Ö©õÚ® = 22 × 100
+
+= 2200 Ω
+
+= 2200 1000 = 2'2 KΩ
+
+Euõµn®
+
+÷|÷µõmh ÷ÁõØÓÍÄ AÍÄzvmh® ÷ÁõØÖ ©ØÖ® ªß÷Úõmh® Gß£Ú J÷µ AÍÄzvmhzøu¨ £¯ß£kzv Áõ]UP¨£k®. 0 -10, 0 -50 ©ØÖ® 0 - 250 BQ¯ ‰ßÖ Ãa_UPÎÀ Põn¨£k®. Áõ]¨ø£ ö£ÖÁuØS •ßÚº Põmi §a]¯zvÀ Aø©¢xÒÍuõ GÚ¨ £Ÿm]zx¨ £õºzuÀ ÷Ásk®. AÆÁõÔÀø»¯õ°ß Põmiø¯ §a]¯zvØSU öPõsk Á¸® v¸Põoø¯ v¸¨¦Áuß ‰»® Põmiø¯ §a]¯zvØSU öPõsk ö\À» ÷Ásk®. Ãa_z öu›°ø¯ E›¯ Ãa_US öPõsk ö\ßÓ ¤ßÚº, Áõ]¨ø£¨ ö£ØÖUöPõÒÍ»õ®.
+
+AÍÃkPøÍ¨ ö£ØÖUöPõÒÐ®÷£õx PÁÚzvÀ öPõÒÍ ÷Ási¯ Âh¯[PÒ
+
+••AÍÂkÁuØS Gvº£õºQßÓ AÊzuzvß •øÚÄPøÍ CÚ[Psk öPõÒÍÀ ÷Ásk®.••AÍÂh ÷Ási¯ AÊzuzvß ö£Ö©õÚ® öu›¯õx GÛÀ Ãa_z öu›°ø¯ Ea\ ö£Ö©õÚ©õQ¯ 1000 CØS öPõsk ö\À»À ÷Ásk®.••ö£õx¨ö£Ö©õÚzøu AÊzuzvß ©øÓ •øÚ²hß CønzuÀ ÷Ásk®.••AÍÃmk¨ ö£Ö©õÚzøu AÊzuzvß ÷|º •øÚ²hß CønzuÀ ÷Ásk®.••Áõ]¨ø£ ö£ØÖUöPõÒÁx PiÚ® GÛß Ãa_zöu›°ø¯ £i¨£i¯õP SøÓ¢u Ãa_USU öPõsk ö\ßÖ Áõ]¨ø£ ö£ØÖUöPõÒÍÀ ÷Ásk®.
+
+C»Á\¨ £õh¡À
+
+43
+
+÷|º ªß÷Úõmhzøu AÍÂkuÀ÷|º ªß÷Úõmhzøu AÍÂk®÷£õx, ÷|ºªß÷Úõmh ÷ÁõØÓÍÄ AÍÄz vmhzøu¨ £¯ß£kzxÁxhß, Ãa_z öu›°ø¯ Ea\¨ ö£Ö©õÚ•ÒÍ Ãa]ØSU öPõsk ö\À»»õ®. C[S ªß÷Úõmhzøu AÍÂk®÷£õx •øÚÄz ußø© ªP •UQ¯©õÚuõS®.
+
+E¸ 2'6E¸ 2.6 CØS Aø©¯ £À©õÛ°ß ]Á¨¦UPõÁ¼h¨£mh P®¤ •øÚø¯ Á¾ÁÇ[Q°ß ÷|º •øÚUS® ö£õx •øÚø¯ ªßSªÊUS® öuõhº¦£kzu¨£mkÒÍx. öu›¯õu ö£Ö©õÚ•ÒÍ ªß÷Úõmhzøu AÍÂk®÷£õx E¯º AÍÄzvmh©õQ¯ 0.25 C¼¸¢x £i¨£i¯õP SøÓzuÀ ÷Ásk®.
+
+Euõµn®
+
+Bh÷»õmh ÷ÁõØÓÍÄ AÍÄzvmh®
+
+Bh÷»õmh ÷ÁõØÓÍÄ AÍÄzvmh® ]Á¨¦ {ÓzvÀ Põmh¨ £mi¸¨£xhß Ãa_z öu›Ä BÎUS öuõhº¦øh¯ Ãa_®, ]Á¨¦ {ÓzvÀ Põmh¨£mkÒÍx. C[S CÆ AÍÄzvmhzvß RÌ Áõ]¨ø£ ö£Ö®÷£õx •øÚÄz ußø©ø¯ CÚ[PsköPõÒÍz ÷uøÁ°Àø». Ãa_z öu›Ä BÎø¯ E¯ºö£Ö©õÚzv¼¸¢x £i¨£i¯õP SøÓ¢x ö£õ¸zu©õÚzvØS |Pºzv Áõ]¨ø£ ö£ØÖUöPõÒÍ •i²®.
+
+C»Á\¨ £õh¡À
+
+44
+
+C»zvµÛ¯À £À©õÛ
+
+E¸ 2.7
+
+Põmi JßøÓU öPõsh C¨£À©õÛ E¯º uh[PÀ (Impedance) öPõsh JßÓõS®. C»zvµÛ¯À £À©õÛ°À EÒÍ AÍÄzvmh[PÎÀ §a]¯® Ch¨£UPzvÀ Põn¨£k®. J¨¦Î £À©õÛ°ß K® AÍÄzvmh® Á»x ¦Óª¸¢x Chx £UPzvØS £µ®¤²®, C»zvµÛ¯À £À©õÛ°ß K® AÍÄzvmh®. Chx £UPzv¼¼¸¢x Á»x £UPzvØS £µ®¤a ö\ÀÁuõPÄ® Aø©¢xÒÍx. ÷|ºªß÷Úõmh® ©ØÖ® Bh÷»õmh ªß÷Úõmh® BQ¯ CµsiØS® J÷µ AÍÄzvmh® £¯ß£kzu¨£k®. C¨£À©õÛUS •øÚÄzußø©ø¯ \›¯õP CønzuÀ ÷Ásk®.
+
+C»UP £À©õÛ (Digital Multi meter)
+
+E¸ 2.8
+
+C»Á\¨ £õh¡À
+
+45
+
+C»UP¨ £À©õÛ°ß •P¨¤À ö£Ö©õÚ® C»UPzvÀ Põm]¨£kz u¨£kÁuÚõÀ AÍÄPÎÀ Áõ]¨£x C»SÁõP EÒÍx. AÆÁõ÷Ó ©õÛ°ß uh[PÒ E¯º ö£Ö©õÚzvÀ Põn¨£k®. C»UP¨ £À©õÛ°ß Aø©¨¦ E¸ 2.8 CÀ Põmh¨£mkÒÍx. J¨¦Î £À©õÛ°À ÷£õßÖ C»UP¨ £À©õÛ°¾® •øÚÄzußø©ø¯ \›¯õP Cøn¨£x Azv¯õÁ]¯©õÚuÀ» Gß£xhß •øÚÄzußø© ©õÔ C¸¨¤ß ©øÓ ö£Ö©õÚzvÀ Põm]¨£kzx® J¨¦Î ©ØÖ® C»UP¨ £À©õÛPÎÀ EÒÍ Â÷\h C¯À¦PÒ ¤ßÁ¸® AmhÁøn°À Põm]¨£kzu¨£mkÒÍx.
+
+J¨¦Î £À©õÛC»UP¨ £À©õÛ
+
+••EÒÍPz uøh SøÓÁõÚx••ªß÷Úõmh AÍÄPøÍ¨ ö£ØÖU öPõÒÍ ö£õ¸zu©õÚx
+
+••Põmi £¯ß£kzu£kÁuÚõÀ Áõ]¨¦UPøÍ¨ ö£Ö®÷£õx ÁÊUPÀ HØ£h»õ®
+
+•••øÚÄPøÍ \›¯õP CønzuÀ ÷Ásk®
+
+••Ea\¨ ö£Ö©õÚzøu Âh Tia ö\ßÓõÀ Põmi ÷\u©øh²®
+
+••©õÛø¯ E›¯ \›¯õÚ Aø©ÂÀ••øÁzx Áõ]¨¦ ö£ÖuÀ ÷Ásk®
+
+••ON / OFF BÎ JßÖ AÁ]¯ªÀø»
+
+••EÒÍPz uøh AvP®••÷ÁõÀØÓÍÄPøÍ¨ ö£ØÖU öPõÒÍ¨ ö£õ¸zu©õÚx
+
+•••P¨¤À Põm]¨£kzu¨£kÁ uÚõÀ Áõ]¨¦UPøÍ¨ ö£Ö® ÷£õx ÁÊUPÒ HØ£kÁx SøÓÄ
+
+•••øÚÄPøÍ \›¯õP Cøn UP ÷Ásk® Gß£x Azv¯Á ]¯©õÚuÀ».
+
+••Ea\¨ ö£Ö©õÚzøu uõsia ö\ßÓõÀ Ax£ØÔ AÔÂ¨£ xhß ©õÛUS ÷\u® HØ£hõx, ©õÛ°ß Aø©Ä •UQ¯©õÚx
+
+•• ON / OFF BÎö¯õßÖ AÁ]¯ ©õS®
+
+AmhÁøn 2.1
+
+ªß ö£õÔ•øÓ J¨¦Î¨ £À©õÛ JßÔÚx® C»zvµÛ¯À J¨¦Î¨ £À©õÛ JßÔÚx® Â÷\h ußø©PÒ AmhÁøn°À Põmh¨£mkÒÍx.
+
+C»Á\¨ £õh¡À
+
+46
+
+ªß ö£õÔ•øÓ J¨¦Î¨ £À©õÛ
+
+••EÒÍPz uøh 50 KΩ / V I ÂhU SøÓÁõS®
+
+••ON / OFF BÎ JßÖ ÷uøÁ°Àø»
+
+••uøh Ãa_ Á»¨£UPzvÀ C¸¢x Ch¨£UPzvØS HÖÁ›ø\¨£i Aø©¢v¸US®.
+
+C»zvµÛ¯À J¨¦Î¨ £À©õÛ
+
+••EÒÍPz uøh 0 KΩ BS®
+
+•• ON / OFF BÎ JßÖ ÷uøÁ°Àø»
+
+••uøh Ãa_ Chx£UPzv¼¸¢x Á»x£UPzvØS HÖÁ›ø\°À Aø©²©õÖ u¯õ›UP¨£mkÒÍx
+
+ö\¯Ø£õk
+
+01' uµ¨£mh uøh°PÎß uøh¨ö£Ö©õÚ[PøÍ J¨¦Î ©ØÖ® C»UP¨ £À©õÛPÎÚõÀ AÍÂkP.
+
+02' E»º ªßP»[PÒ Cµsøh Gkzx C»UP¨ £À©õÛ°ÚõÀ •øÚÄz ußø©ø¯¨ £Ÿm]UPÄ®.

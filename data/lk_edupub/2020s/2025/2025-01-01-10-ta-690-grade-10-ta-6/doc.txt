@@ -1,0 +1,223 @@
+==== BLOCKS ==== 
+
+C»Á\¨ £õh¡À
+
+111
+
+G©x |õmiß ö£¸®£õ»õÚ ¤µ÷u\[PÎÀ, ÃkPÐUS JÎ³mhÄ® E£Pµn[PøÍz öuõÈØ£ha ö\´¯Ä® Bh÷»õmh ªß÷Úõmh÷© £¯ß£kzu¨£kQÓx. ªß©o ÷£õßÓ GÎø©¯õÚ E£Pµn[PÒ Ai¨£øh ªßÁÇ[P¾hß öuõÈØ£k®. GÛÝ®, A÷ÚP©õÚ ªß E£Pµn[PÎÀ Bh÷»õmh ªß÷Úõmh® ÷|÷µõmh ªß÷Úõmh©õP ©õØÕk ö\´¯¨£k®. ÷©¾®, ÷|÷µõmh ªß÷Úõmh® EÖv¯õUP¾US® Em£kzu¨£k®. C¢u Azv¯õ¯zvÀ, ªßPõ¢uz yshÀ {ø»©õØÔPÎÀ £¯ß£kzu¨£k® •øÓ, C¸Áõ°°ø¯¨ £¯ß£kzv ÷|÷µõmh ªß÷Úõmh©õP ©õØÕk ö\´¯¨£k® •øÓ BQ¯Ú £ØÔ²® Áia_ØøÓ¨ £¯ß£kzva ^µõUPø» ÷©ØöPõsk ÷ÁõØÓÍøÁ EÖv¨£kzxÁx £ØÔ²® ÂÍUP¨£mkÒÍx.
+
+Yó£‚è‹ (Rectification) Bh÷»õmh ªß÷Úõmhzøu ÷|÷µõmh ªß÷Úõmh©õP ©õØÕk ö\´uÀ ^µõUP® GÚ¨£k®. CuØöPÚa ^µõUS® C¸Áõ° £¯ß£kzu¨£k® ^µõUP® Cµsk •øÓPÎÀ ÷©ØöPõÒÍ¨£k®.
+
+1. Aøµ Aø»a ^µõUP® (Half wave rectifier)2. •Ê Aø»a ^µõUP® (Full wave rectifier)
+
+06
+
+Á¾ ÁÇ[PÀ
+
+ö£´¨¦ Aø» £¯¨¦ Aø»
+
+E¸ 6.1
+
+C»Á\¨ £õh¡À
+
+112
+
+Bh÷»õmh ªß÷Úõmhzøu C¸Áõ°US ÁÇ[S®÷£õx Auß ÷|º Aøµ¯ø»°ß÷£õx C¸Áõ° •ß•PU ÷Põh¾USm£k®. A¨÷£õx AuÞ hõP ªß÷Úõmh® £õ²®. Cx E¸ 6.1 CÀ Põmh¨£mkÒÍx. C¸Áõ°°À ©øÓ ( - ) Aøµ¯ø» ¤µ÷¯õQUP¨£k®÷£õx C¸Áõ° ¤ß•PU ÷Põh¾Ö®. Auß ÷£õx C¸Áõ°°ÞhõP ªß÷Úõmh® £õ¯õx. C¸Áõ°°ÞhõP Á¸® ªß÷Úõmh® uøh°ÞhõPa ö\À¾®÷£õx £¯¨¦ ÷ÁõØÓÍÄ QøhUS®. Cuß÷£õx J¸ Aø» ©mk® Qøh¨£uÚõÀ Cx Aøµ¯ø»a ^µõUP® GÚ¨£k®.
+
+•Ê Aø»a ^µõUP®
+
+•Ê Aø»a ^µõUP® Cµsk ÁøP¨£k®.
+
+1. £õ» ÁøP •Ê Aø»a ^µõUP® (Bridge type full wave rectification)
+
+2. {ø»©õØÔø¯¨ £¯ß£kzv ÷©ØöPõÒÐ® •ÊAø»a ^µõUP® (Full wave Rectification using center tap transformer) ^µõUQ C¸Áõ°PÒ 4, xøn•iÂh[PÒ CµsøhU öPõsh {ø» ©õØÔö¯õßÖ BQ¯Ú CuØöPÚ¨ £¯ß£kzu¨£k®. ÂÍ[QUöPõÒÍ C»SÁõP Aø©¯UTi¯ÁõÖ C¸Áõ°°ÚõÀ £õ»zvØS¨ ö£´UP¨£k® Bh÷»õmh ªß÷Úõmhzvß ‰»® B °ØSa \õº£õP A °ØSa (VAB) ÷|º Aøµ¯ø»ø¯¨ ¤µ÷¯õQUS®÷£õx C¸Áõ° ö\¯Ø£k® Âu•® ÷|º Aøµ¯ø»ø¯¨ ¤µ÷¯õQUS®÷£õx ö\¯Ø£k® Âu•® uÛzuÛ÷¯ ÂÁ›UP¨£mkÒÍx.
+
+E¸ 6.2 ÷|º AøµAø»°ß÷£õx C¸Áõ° •ß•PU÷Põh¾US EÒÍõS® Âu®
+
+AD1
+
+D2B
+
+RL1 K Ω
+
+C»Á\¨ £õh¡À
+
+113
+
+E¸ 6.2 CÀ Põmh¨£mhÁõÖ VAB ÷|ºAøµ¯ø»°ß÷£õx C¸Áõ°¨ £õ»zvÀ D1 C¸Áõ°°ÞhõP ÷|º Aøµ¯ø» £¯oUS®. ¤ßÚº, A¢u ÷|ºAøµ¯ø» R2 GÚ¨£k® uøh°ÞhõP¨ £¯ozx D2 C¸Áõ°°ß A÷Úõmøh Aøh²®. Cuß÷£õx D2 GÝ® C¸Áõ°²® •ß•PU ÷Põh ¾USm£mk ÷|º Aøµ¯ø» D2 CÞhõP¨ £¯ozx ¦ÒÎ B ø¯ Aøh²®.
+
+E¸ 6.3
+
+RL
+
+D3
+
+D4A
+
+B
+
+©øÓ AøµÁøÍ°°À A °ØSa \õº£õP B °À ©øÓAøµ ÁøÍ° QøhU S®. Cuß÷£õx D3 GÝ® C¸Áõ° •ß•PU ÷Põh¾USÒÍõS®. A¨÷£õx ¦ÒÎ B °À ÷|º Aøµ¯ø» RL _ø©USa ö\À¾®. RL_ø©°ÞhõPa ö\À¾® ÷|º Aøµ¯ø»ø¯ D4 C¸Áõ° •ß•PU ÷Põh¾Óa ö\´x AuÞhõP¨ ¦ÒÎ A °ØS AÝ¨¦®. ÷©ØTÓ¨£mh Cµsk \¢uº¨£[PøÍ²® JßÖ ÷\ºUS®÷£õx £õ»a ^µõUQ E¸ÁõÁxhß ö£´¨¦ Aø»°ß ÷|º Aøµ¨£õP® ©øÓ Aøµ¨£õP® Cµsk® ÷|º ÷ÁõØÓÍÁõP RL _ø© uøh°US SÖUPõP Aø©¢v¸US®. C¢uz ÷uõØÓ¨£õmøh Aø»ÄPõmi ‰»©õPz öuÎÁõP AÁuõÛUP •i²®. CÆÁõÖ Cµsk Aøµ Aø»PÐ® ÷|º{ø»°À ö£Ó¨£kÁuõÀ Cx •Ê Aø»a^µõUP® GÚ¨£k®.
+
+E¸ 6.4
+
+D4
+
+D3
+
+D1
+
+D2
+
+RL
+
+C»Á\¨ £õh¡À
+
+114
+
+ø©¯¨ö£õ¸zx {ø»©õØÔø¯¨ £¯ß£kzv •Ê Aø»a ^µõUPzøu ÷©ØöPõÒÍÀ
+
+E¸ 6.5
+
+ø©¯¨ö£õ¸zx {ø»©õØÔ°À ‰ßÖ •iÂh[PÒ EÒÍÚ. C¢u •iÂh[PÒ A,B,C GÚ¨ ö£¯›h¨£mkÒÍÚ. •øÚÄ C ö£õx GÚ¨£k®. ¦ÒÎ C °ØSa \õº£õP ¦ÒÎ A °À ©øÓ Aøµ¯ø» EÒÍ÷£õx ¦ÒÎ C °ØSa \õº£õP ¦ÒÎ B °À ©øÓ Aøµ¯ø» HØ£k®. AÆÁõ÷Ó ¦ÒÎ A °À ©øÓ Aøµ¯ø» HØ£k®÷£õx ¦ÒÎ B °À ÷|º Aøµ¯ø» E¸ÁõS®. CÁØøÓU P¸zvØ öPõÒÐ®÷£õx C °ØSa \õº£õP ¦ÒÎ A °À E¸ÁõS® Aø»US {Pº©õØÓõÚ Aø»ö¯õßÖ ¦ÒÎ B °À E¸ÁõS®.
+
+E¸ 6.5 CÀ ¦ÒÎ A °À ÷|º Aøµ¯ø» ö£Ó¨£kªhzx D1 GÝ® C¸Áõ° •ß•PU÷Põh¾US Em£mk ªß÷Úõmhzøu RL CÞhõP C °ØSa ö\À»Âk®.
+
+¤ßÚº ¦ÒÎ B °À ÷|º Aøµ¯ø» ö£Ó¨£k®÷£õx C¸Áõ° D2 •ß•PU ÷Põh¾USm£mk ªß÷Úõmh® RL CÞhõP C °ØSa ö\À¾®. C¢u Cµsk \¢uº¨£[PøÍ²® ÷|õUSªhzx RL CÞhõP J÷µ vø\°À ªß÷Úõmh® £õ´¢xÒÍx. GÚ÷Á, Cx •Ê Aø»a ^µõUP©õS®.
+
+E¸ 6.6 CÀ Põmh¨£mhÁõ÷Ó ÷©÷» ^µõUPzxUSm£kzu¨£mh ÷ÁõØÓÍÄPÒ Aø©¢v¸US®. AuõÁx Auß ö£Ö©õÚ[PÒ TiU SøÓ²®.
+
+C»Á\¨ £õh¡À
+
+115
+
+Yó£‚èŠð†ì «õ£Ÿø÷¬õ ñ†®¬êî™
+
+Aøµ Aø»a ^µõUP® •Ê Aø»a ^µõUP®
+
+E¸ 6.6
+
+CÆÁõÖ ©õÖ® ÷ÁõØÓÍøÁ ©õÔ¼¯õP J¸ ^µõÚ ©mhzvØSU öPõsk Á¸u÷» ©miø\zuÀ GÚ¨£k®.
+
+CuØöPÚ E›¯ ÷ÁõØÓÍÄUSa \©õ¢uµ©õPU öPõÒÍÍÂö¯õßøÓ CønzxU öPõÒÍ»õ®. C¢uU öPõÒÍÍÂ ©miø\¨¦U öPõÒÍÍÂ GÚ¨£k®.
+
+Aøµ Aø»a ^µõUPzøu ©miø\US® ÷£õx
+
+öPõÒÍÍÂ
+
+ªßÛÓUP¨£hÀ
+
+öPõÒÍÍÂ
+
+ªß÷ÚõØÓ¨£hÀ
+
+E¸ 6.7
+
+C»Á\¨ £õh¡À
+
+116
+
+•Ê Aø»a ^µõUPzøu ©miø\US®÷£õx
+
+öPõÒÍÍÂ
+
+ªßÛÓUP¨£hÀ
+
+öPõÒÍÍÂ
+
+ªß÷ÚõØÓ¨£hÀ
+
+E¸ 6.8
+
+÷©ØTÓ¨£mh Cµsk \¢uº¨£[PÎ¾® ÷|÷µõmh ªß÷Úõmhzvß «x Bh÷»õmh® Aø©¢v¸US©õØ÷£õÀ öuß£k®. C¢u ÷ÁõØÓÍÄ SØÓø» ÷ÁõØÓÍÄ ( Riple Voltage) GÚ¨£k®. •Ê Aø»a ^µõUPzvß ÷£õx SØÓø» ÷ÁõØÓÍÂß Ãa\©õÚx AøµAø»a ^µõUPzvß ÷£õxÒÍøuÂhU SøÓÁõÚuõS®. BP÷Á, |øh•øÓ°À öPõÒÍÍÂø¯¨ £¯ß£kzv ©miø\zuø» ÷©ØöPõÒÁuØS •Ê Aø»a^µõUP ÷ÁõØÓÍ÷Á ªPa ]Ó¢uuõS®.
+
+©miø\zu¾UöPÚ¨ £¯ß£kzu¨£k® öPõÒÍÍÂ AvP öPõÒ ÍÍøÁU öPõshuõP C¸UP÷Ásk®. Auß ÷ÁõØÓÍÄ ^µõUP¨ ¦ÒÎ°ß Bh÷»õmh ªßÛß AÍøÁ Âh AvP ö£Ö©õÚ® öPõshuõP C¸UP÷Ásk®.
+
+Áia _ØÖ
+
+SØÓø» ÷ÁõØÓÍøÁU SøÓ¨£uØS Áia_ØÖ¨ £¯ß£kzu¨£k®. Áia_ØÔøÚ¨ £¯ß£kzxÁuß ‰»® ^µõUPØ ö\¯ß•øÓ C»S£kzu¨£k®. |øh•øÓ°À £¯ß£kzu¨£k® Áia_ØÖPÒ ]» E¸ 6.9 CÀ Põmh¨ £mkÒÍÚ.
+
+C»Á\¨ £õh¡À
+
+117
+
+Ái
+
+T Ái
+
+E¸ 6.9 ^µõUPÀ _ØÔØ £¯ß£kzuUTi¯ Áia_ØÖ
+
+EÖv¯õUPÀ
+
+÷\Úº C¸Áõ°ø¯¨ £¯ß£kzv ÷ÁõØÓÍøÁ EÖv¯õUPÀ.
+
+E¸ 6.10
+
+C¢ua _ØÔøÚ¨ £¯ß£kzv ÷|÷µõmh ªßÚÊzuzøu EÖv¯õUP»õ®. _ø©USU SÖU÷P¯õÚ Vo GÝ® ÷ÁõØÓÍÄ C¸Áõ°USU SÖU÷P¯õÚ Vz ÷ÁõØÓÍÄ® \©©õS®. AuõÁx G©USz ÷uøÁ¨£k® ÷ÁõØÓÍÄUSa \©©õÚ ÷ÁõØÓÍÄ öPõsh C¸Áõ°°ø¯¨ £¯ß£kzv ªß÷ÚõmhzøuU Pmk¨£kzxÁuØS R 2 GÝ® uøh £¯ß£kzu¨£k®.
+
+÷\Úº C¸Áõ°ø¯ ©mk® £¯ß£kzv ÂøÚzvÓÚõÚ EÖv¯õU Qø¯z u¯õ›UP •i¯õx. BP÷Á, vµõß]ìµøµ¨ £¯ß£kzv AvP ªß÷Úõmhzøu¨ ö£ÓzuUPuõP Aø©UP¨£mh _ØÖ R÷Ç²ÒÍ E¸ÂÀ Põmh¨£mkÒÍx.
+
+C»Á\¨ £õh¡À
+
+118
+
+÷|÷µõmh ÷ÁõØÓÍøÁ EÖv¯õUS® ªß_ØÖ
+
+Vin VZ >
+
+E¸ 6.11
+
+àÁFò£‚èŸ ªî£¬èJ´… ²ŸÁ
+
+•ßÚº SÔ¨¤mh EÖv¯õUPÀ ÁÇ[Pø»¨ ö£ÖÁuØöPÚ uÛ¯õÚ öuõøP°kg _ØÖz u¯õ›UP¨£mkÒÍx. Cx EÖv¯õUPØ öuõøP°k® _ØÖ GÚ¨£k®. Cx ‰ßÖ •øÚÄPøÍU öPõshuõS®. ÷©¾®, CøÁ ©øÓ AÊzu EÖv¯õUQPÒ, ÷|µÊzu EÖv¯õUQPÒ GÚ Cµsk ÁøP¨£k®. 78 Cß Á›ø\°À Á¸ÁÚ ÷|µÊzu EÖv¯õUQPÍõS®. 79 Cß Á›ø\°À SÔ¨¤h¨£kÁÚ ©øÓ¯Êzu EÖv¯õUQPÒ GÚ AøÇUP¨£k®.
+
+C¢u öuõøP°k® _ØÖUPÎß (IC ) •uÀ Cµsk C»UP[PÎÚõ¾® AÁØÔß öuõhº SÔ¨¤h¨£kÁxhß (78,79) ©ØøÓ¯ Cµsk C»UP[ PÎÚõ¾® £¯¨¦ ÷ÁõØÓÍÄ SÔ¨¤h¨£k®.
+
+C»Á\¨ £õh¡À
+
+119
+
+7805 = + 5v 7905 = -5v
+
+7806 = + 6v 7906 = -6v
+
+7812 = + 12v 7912 = -12v
+
+1
+
+2
+
+3
+
+7806
+
+1
+
+2
+
+3
+
+7906
+
+01. In put02. Commen03. Out Put
+
+01. Commen02. In Put03. Out Put
+
+Euõµn®
+
+E¸ 6.12
+
+LM 317 JÊ[PõUQ (Regulator )
+
+Cx 1-5 A ªß÷ÚõmhzvßRÌ ÷ÁõØÓÍøÁ 1.2V C¼¸¢x 3.7V Áøµ ©õØÔ¯ø©UPUTi¯ ÷ÁõØÓÍÄU Pmk¨£kzv¯õS®.
+
+E¸ 6.13
+
+C»Á\¨ £õh¡À
+
+120
+
+LM 337 JÊ[PõUQ
+
+Cx 1-5 A ªß÷ÚõmhzvßRÌ ÷ÁõØÓÍøÁ 1.2V C¼¸¢x 3.7 V Áøµ ©õØÓUTi¯ ©øÓ ÷ÁõØÓÍÄU Pmk¨£kzv¯õS®.
+
+E¸ 6.14

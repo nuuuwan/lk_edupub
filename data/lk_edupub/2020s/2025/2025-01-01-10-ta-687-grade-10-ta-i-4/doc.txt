@@ -1,0 +1,395 @@
+==== BLOCKS ==== 
+
+C»Á\¨ £õh¡À89
+
+{³ØÓÛß C¯UP ÂvPÒ4
+
+ö£ÍvPÂ¯À
+
+4.1 Âø\°ß C¯À¦® Auß ÂøÍÄPÐ®
+
+Âø\ GßÓõÀ GßÚ Gß£x £ØÔ }[PÒ •¢v¯ ÁS¨¦PÎÀ PØÖÒÏºPÒ. ¯õuõ°Ý® J¸ ö£õ¸øÍ uÒÐ® ÷£õ÷uõ AÀ»x J¸ ö£õ¸øÍ CÊUS® ÷£õ÷uõ |õ® Âø\ø¯¨ ¤µ÷¯õQUQß÷Óõ®. E¯ºzxuÀ, AÊzxuÀ BQ¯Ú GÀ»õ® Âø\ ¤µ÷¯õQUP¨£kÁuß ÂøÍ÷Á¯õS®.
+
+K´ÂÀ EÒÍ J¸ ö£õ¸øÍ C¯[Pa ö\´ÁuØS |õ® GßÚ ö\´uÀ ÷Ásk®? C¯[Pa ö\´¯z ÷uøÁ¯õÚ vø\°À J¸ Âø\ø¯¨ ¤µ÷¯õQzuÀ ÷Ásk®. GÛÝ® J¸ Âø\ø¯¨ ¤µ÷¯õQ¨£uÚõÀ ©õzvµ® Auß C¯UPzøu Bµ®¤UP •i²©õ?
+
+E¸ 4.1 ÷©ø\ø¯z uÒÐuÀ
+
+J¸ ÷©ø\US J¸ Âø\ø¯¨ ¤µ÷¯õQzxU uÒÎ¨ £õ¸[PÒ. Ax C¯[P Bµ®¤UPõÂmhõÀ, ¤µ÷¯õQUS® Âø\ø¯ £i¨£i¯õP AvP›zxz uÒÎ¨£õ¸[PÒ. CÆÁõÖ Âø\ø¯ AvP›US® ÷£õx J¸ \¢uº¨£zvÀ Ax C¯[P Bµ®¤US®. AuõÁx J¸ ö£õ¸øÍ C¯[Pa ö\´¯ SøÓ¢u£m\ Âø\ JßÖ ¤µ÷¯õQUP¨£h ÷Ásk®.
+
+E¸ 4.2 ÷£¸¢øuz uÒÐuÀ
+
+÷©ø\ø¯z uÒÎ¯x ÷£õß÷Ó }[PÒ uÛ¯õP ÷£¸¢xøuz uÒÐªhzx Ax Aø\¯õx. GÛÝ® E¸ 4.2 CÀ Põmi¯ÁõÖ J¸ SÊÁõPz uÒÐ® ÷£õx Ax Aø\¯ Bµ®¤US®. AuõÁx ¤µ÷¯õQUS® Âø\ø¯ AvP›US® ÷£õx Ax Aø\¯ Bµ®¤US®. CÆÂ¸ \¢uº¨£[PÎß ÷£õx ö£õ¸øÍ C¯[Pa ö\´ÁuØPõP ¤µ÷¯õQUS® Âø\ AÆÂ¯UPzxUSz uøh¯õ²ÒÍ ¯õuõ°Ý® Âø\ø¯ Âg_® ÷£õx A¨ö£õ¸Ò C¯[P Bµ®¤UQßÓx. A¨ö£õ¸Îß C¯UPzxUS GvµõÚ uøhÂø\÷¯ Eµõ´Ä Âø\¯õS®. |õ® ¤µ÷¯õQUS® Âø\ ]Ô¯uõ°ß AÆÂø\ Gvºz öuõÈØ£k® Âø\²hß \©{ø»¯øh²®. Cuß÷£õx ¤µ÷¯õQUS® ÷uÔ¯ Âø\ §a]¯©õÁuõÀ ö£õ¸Ò C¯[Põx. ö£õ¸øÍ
+
+C»Á\¨ £õh¡À90
+
+C¯[Pa ö\´¯ ÷©¾® Âø\ø¯ ¤µ÷¯õQUS® ÷£õx GvºÂø\¯õÀ AuøÚa \©{ø»¨£kzu •i¯õx. CuÚõÀ \©{ø»¯øh¯õu Âø\ (\© AÍÁõÚ Âø\ & Unbalanced) ö\¯Ø£kÁuÚõÀ ö£õ¸Ò C¯[P Bµ®¤US®.
+
+E¸ 4.3 Ásiø¯ G¸x CÊzxUöPõsk ö\À»À.
+
+{øÓ HØÓ¨£mh J¸ Ásiø¯ J¸ G¸vÚõÀ ÂøµÁõP CÊzxUöPõsk ö\À¾® J¸ \¢uº¨£zøuU P¸x[PÒ. Ási C¯[S® vø\°À ÁsiUPõµÝ® J¸ Âø\ø¯¨ ¤µ÷¯õQzuõÀ, GßÚ |øhö£Ö®? Ási C¯[S® ÷ÁP® AvP›US®. Ási C¯[S® vø\US GvµõÚ vø\°À J¸ Âø\ø¯¨ ¤µ÷¯õQzuõÀ, Auß ÷ÁP® SøÓ²®.
+
+J¸ ö£õ¸Ò C¯[QU öPõski¸US®÷£õx ö£õ¸Ò C¯[S® vø\°À J¸ Âø\ø¯¨ ¤µ÷¯õQzuõÀ, Auß ÷ÁP® AvP›US® Gß£x Cv¼¸¢x öuÎÁõS®. Ax C¯[S® vø\US GvµõÚ vø\°À Âø\ø¯¨ ¤µ÷¯õQUS® ÷£õx ÷ÁP® SøÓQßÓx Gß£x Cv¼¸¢x öuÎÁõS®. AuõÁx C[S ÷ÁP® SøÓu¼¾® Tku¼¾® ¤µ÷¯õQUP¨£k® Âø\ Põµn©õP HØ£k® \©{ø»¨£kzu¨£hõu Âø\ ö\ÀÁõUSa ö\¾zxQßÓx.
+
+÷©ØSÔzu Euõµn[PÐU÷PØ£ Âø\US¨ £¸©øÚ¨ ÷£õßÖ vø\²® Esk Gß£x öuÎÁõS®. £¸©Ý® vø\²® C¸¨£uÚõÀ Âø\ J¸ PõÂU Po¯©õS®.
+
+Âø\, C¯UP® BQ¯ |õ® £¯Úøh²® Âh¯[PÒ öuõhº£õP ÷\º I\õU {³ØÓß GßÓ ÂgbõÛ ‰ßÖ ÂvPøÍ Gkzxøµzuõº. C¨÷£õx |õ® AÆÂvPÒ JÆöÁõßøÓ²® £ØÔ Bµõ´÷Áõ®.
+
+{³ØÓÛß •u»õÁx Âv
+
+C¯UP® £ØÔ¯ {³ØÓÛß •u»õÁx Âv R÷Ç uµ¨£mkÒÍx.
+
+\©{ø»¨£hõu Âø\ ¤µ÷¯õQUP¨£mhõÀ AßÔ K´ÂÀ C¸US® ö£õ¸ÒPÒ K´Â÷»÷¯ C¸US® A÷u ÷ÁøÍ C¯[S® ö£õ¸ÒPÒ ^µõÚ ÷ÁPzxhß C¯[QU öPõsi¸US®.
+
+C»Á\¨ £õh¡À91
+
+{³ØÓÛß •u»õÁx Âvø¯ ÂÍUSÁuØS¨ ¤ßÁ¸® Euõµnzøu¨ £õº¨÷£õ®.
+
+E¸ 4.4 Pµ® £»øP
+
+J¸ Pµ® £»øP «x C¸US® J¸ Pµz umøh (Disk) ÂµÀ ~Û°ÚõÀ umk® ÷£õx Ax J¸ ÷|º÷Põk ÁÈ÷¯ ]Ôx yµzvØSa ö\ßÖ K´ÄUS Á¸QßÓx. Pµ® £»øP°À ]ÔuÍÄ §\À ©õøÁ Cmkz ÷u´zu ¤ßÚº Pµz umøh ©Ö £i²® •u¼À ö\´uÁõÖ ÂµÀ ~Û°ÚõÀ umk® ÷£õx Pµz umk •ßÚ›¾® £õºUPU Ti¯ yµzvØSa ö\ÀQßÓx.
+
+§\À©õ Ch¨£k®÷£õx Pµz umiß C¯UPzvØS EÒÍ uøh Âø\ SøÓQßÓx. J¸ ö£õ¸Ò J¸ ÷©Ø£µ¨¦ «x C¯[SÁuØSz uøhø¯ HØ£kzx® ÷©Ø£µ¨¤ß ‰»® EshõUP¨£k® uøh Âø\ Eµõ´Ä Âø\¯õSö©Ú }[PÒ uµ® 9 CØ PØÖÒÏºPÒ. J¸ SÔzu PõµnzvÚõÀ uøh Âø\ §a]¯©õP C¸¢uõÀ \©{ø»¨£hõu Âø\ AØÖ¨ ÷£õQßÓø©¯õÀ Pµz umk {ØPõ©À ^µõÚ ÷ÁPzxhß ö\À¾®.
+
+CÆÂv²hß öuõhº¦£mh \õuõµn ÁõÌÂß J¸ \¢uº¨£zøuU P¸v¨ £õº¨÷£õ®. C¯[S® ÷£¸¢x JßÔÀ J¸ £¯o GÆÂu Buõµzøu²® ¤izxUöPõÒÍõ©À {ØQßÓõº. \kv¯õP¨ ÷£¸¢vØSz uk¨¦PøÍ¨ ¤µ÷¯õQzx {Özu¨£mhõÀ, AÁº •ß÷ÚõUQ ÂÊÁõº. CuØSU Põµn® ¯õx?
+
+AÁ¸øh¯ £õu[PÒ ÷£¸¢xhß öuõkøP°À C¸¢uø©¯õÀ ÷£¸¢vß ÷ÁP® §a]¯©õÁxhß £õu[PÐ® K´ÄUS Á¸QßÓÚ. GÛÝ®, Eh¼ß ÷©Ø£Sv°À ÷ÁP® C¸UQßÓx. AuÚõÀ AÁº •ß÷ÚõUQ ÂÊQßÓõº.
+
+K´ÂÀ C¸US® J¸ ÷£¸¢vÀ J¸ £¯o A©º¢v¸UQßÓõº. AÁº AÔ¯õ©À ÷£¸¢x C¯[P Bµ®¤zuõÀ, C¨ £¯o°ß Eh¼ß ÷©Ø£Sv ¤ß÷ÚõUQ \›ÁøhQßÓx. ÷£¸¢vß C¯UP® Bµ®¤¨£xhß ÁõPÚzxhß öuõkøP²ØÔ¸¢u Eh¼ß RÌ¨ £SvUS ÷ÁP® Qøhzuõ¾® Eh¼ß ÷©Ø £Sv CßÝ® K´ÂÀ C¸¨£uÚõÀ CÆÁõÖ |øhö£ØÓx.
+
+C»Á\¨ £õh¡À92
+
+÷©õmhõº ÁõPÚ[PÎÀ ö\À¾®÷£õx uk¨¦PøÍ¨ ¤µ÷¯õQUøP°À •ß÷ÚõUQ Ã\¨£kÁøuz uk¨£uØS B\Ú¨ £mi (Seat belt) AouÀ AÁ]¯©õS®.
+
+E¸ 4.5 B\Ú¨ £mi Ao¢xÒÍ \õµv
+
+CøÁ ¯õÄ® {³ØÓÛß •u»õÁx Âv²hß öuõhº¦£mhøÁ¯õS®.
+
+{³ØÓÛß CµshõÁx Âv
+
+{³ØÓÛß CµshõÁx C¯UP Âv ¤ßÁ¸©õÖ •ßøÁUP¨£mkÒÍx.
+
+J¸ ö£õ¸ÎÀ HØ£k® Bº•kPÀ AuØS¨ ¤µ÷¯õQUP¨£k® \©{ø»¨£hõu Âø\US ÷|µi ÂQu \©©õPÄ® ö£õ¸Îß voÄUS ÷|º©õÖ ÂQu\©©õPÄ® C¸US®.
+
+GøÁ÷¯Ý® C¸ Po¯[PøÍU P¸x®÷£õx J¸ Po¯® J¸ SÔzu ÂQuzvÚõÀ AvP›UøP°À Auß ÂøÍÁõP ©ØøÓ¯ Po¯•® A÷u ÂQuzvÀ AvP›zuõÀ AÀ»x J¸ Po¯® J¸ SÔzu ÂQuzvÀ SøÓÁøh¢uõÀ A÷u ÂQuzvÀ ©ØøÓ¯ Po¯•® SøÓÁøh¢uõÀ AÆÂ¸ Po¯[PÐUSªøh÷¯ EÒÍ öuõhº¦ ÷|µi ÂQu\©® GÚ¨£k®.
+
+AuõÁx, {³ØÓÛß CµshõÁx ÂvU÷PØ£ Bº•kPÀ (a) A¨ö£õ¸Îß Âø\US (F) ÷|µi ÂQu\©® Gß£uøÚ SÔ±k •øÓ°À a α F GÚ GÊu»õ®. AÆÁõ÷Ó GøÁ÷¯Ý® C¸ Po¯[PøÍU P¸x®÷£õx J¸ Po¯® AvP›¨£uß ÂøÍÁõP ©ØøÓ¯U Po¯® J¸ SÔzu ÂQuzvÀ SøÓÁøh¢x® J¸ Po¯® SøÓÁøhÁuß Põµn©õP ©ØøÓ¯U Po¯•® A÷u ÂQuzvÀ AvP›zx® C¸¨¤ß, AÆÂ¸ Po¯[PÐUSªøh÷¯ EÒÍ öuõhº¦ ÷|º©õÖ ÂQu\©® GÚ¨£k®.
+
+C»Á\¨ £õh¡À93
+
+{³ØÓÛß CµshõÁx ÂvU÷PØ£ Bº•kPÀ (a) A¨ö£õ¸Îß voÄUS (m) ÷|º©õÖ•øÓ ÂQu\©® Gß£uøÚ SÔ±k •øÓ°À a α 1m GÚU GÊu»õ®.
+
+AuõÁx, {³ØÓÛß CµshõÁx ÂvU÷PØ£,
+
+a α Fa α 1m
+
+a α Fm
+
+BP÷Á F / ma
+
+= J¸ ©õÔ¼
+
+C® ©õÔ¼ 1 BP C¸US®©õÖ Âø\ £ØÔ¯ A»S Áøµ¯ÖUP¨£kQßÓx. AuõÁx, Kµ»Sz voÄUS (1 kg) Kµ»S Bº•kPø» (1 ms-2) ÁÇ[Pz ÷uøÁ¯õÚ Âø\¯õÚx J¸ {³ØÓß A»PõPU P¸u¨£k®. \ºÁ÷u\ A»SPÐU÷PØ£ 1 kg voÄUS 1 ms-2 Bº•kPø» ÁÇ[Pz ÷uøÁ¯Ú Âø\ J¸ {³ØÓß BS®.
+
+Âø\°ß \ºÁ÷u\ A»S {³ØÓß (N) BS®.
+
+F / ma
+
+= 1
+
+L F = ma
+
+¯õ÷uÝ® ö£õ¸öÍõßÖUS Âø\ö¯õßÖ ÁÇ[P¨£k® ÷£õx AÆÂø\°ß vø\°÷»÷¯ ö£õ¸Ò Bº•kP»øhQßÓx.
+
+{³ØÓÛß CµshõÁx Âvø¯ ÂÍUSÁuØS¨ ¤ßÁ¸® Euõµnzøu¨ £õº¨÷£õ®.
+
+E¸ 4.6 J¨£©õÚ Qøh ÷©ø\ «x xöµõÀ¼°ß C¯UP®
+
+ ‰ßÖ Jzu CÓ¨£º £miPøÍ GkzxU öPõÒÍ ÷Ásk®.
+
+ Kº J¨£©õÚ Qøh ÷©ø\ «x J¸ xöµõÀ¼ø¯ øÁzx AuÝhß Kº CÓ¨£º¨ £miø¯z öuõkzx, xöµõÀ¼ J¸ øP°ÚõÀ ¤iUP¨£kQßÓx.
+
+C»Á\¨ £õh¡À94
+
+ CÓ¨£º¨ £mi°ß _¯õwÚ A¢u® xöµõÀ¼°ß ©ØøÓ¯ A¢u® ÁøµUS® DºUP¨£kQßÓx.
+
+ Auß ¤ßÚº xöµõÀ¼ø¯ ÂkÂzx, CÓ¨£º¨ £mi°ß Dºzu £Svø¯ ©õØÓõ©À xöµõÀ¼²hß øPø¯ Aø\US®÷£õx xöµõÀ¼ Bº•kP¾hß C¯[SÁøu AÁuõÛUP»õ®.
+
+ xöµõÀ¼²hß C¸ CÓ¨£º¨ £miPøÍz öuõkzx, CÓ¨£º¨ £miPÒ Cµsøh²® öuõhUP AÍÂØS Dºzx •ßÚº ÷£õß÷Ó £›÷\õvzx, xöµõÀ¼°ß C¯UP® AÁuõÛUP¨£kQßÓx. xöµõÀ¼°ß Bº•kPÀ •uØ \¢uº¨£zv¾® £õºUPU Ti¯öuÚ AÁuõÛUP»õ®.
+
+ AÆÁõ÷Ó ‰ßÖ CÓ¨£º¨ £miPøÍ²® öuõkzx, ÷©ØSÔzu £› ÷\õuøÚø¯a ö\´x, xöµõÀ¼°ß C¯UPzøu AÁuõÛUS® ÷£õx xöµõÀ¼°ß Bº•kPÀ •uØ \¢uº¨£zv¾® £õºUPU Ti¯öuÚ AÁuõÛUP»õ®.
+
+Auß ¤ßÚº xöµõÀ¼°ß «x J¸ SÔzu voÄUS Kº CÓ¨£º¨ £miø¯¨ ¤µõ÷¯õQzx ÷©ØSÔzuÁõ÷Ó xöµõÀ¼ø¯ C¯[Pa ö\´x Auß C¯UPzøu AÁuõÛ²[PÒ. A¨÷£õx Bº•kPÀ SøÓÁøu AÁuõÛUP»õ®.
+
+Auß ¤ßÚº ÷ÁöÓõ¸ voøÁz xöµõÀ¼ «x øÁzx •ßÚº ÷£õß÷Ó £›÷\õuøÚø¯a ö\´²® ÷£õx Bº•kPÀ ÷©¾® SøÓÁøu AÁuõÛUP»õ®.
+
+J¸ ö£õ¸Îß voÄ AvP›US® AÍÄUS Auß Bº•kPÀ SøÓÁøhQßÓx Gß£x Cv¼¸¢x öuÎÁõS®.
+
+a = Fm
+
+÷©ØSÔzu \©ß£õmi¼¸¢x, J¸ ö£õ¸Îß voÄ AvP›US® AÍÂØS Bº•kPÀ SøÓÁøhQßÓx Gß£x® voÄ SøÓ²® AÍÂØS Bº•kPÀ AvP›UQßÓx Gß£x® öuÎÁõÚ Âh¯[PÍõS®.
+
+voÄ SøÓ¢u J¸ ÁõPÚzøu J¸ SÔzu Âø\°ß ‰»® uÒÐ®÷£õx Bº•kPÀ AvP›¨£øu²® voÄ Ti¯ J¸ ÁõPÚzvØS A÷u Âø\ø¯¨ ¤µ÷¯õQUS® ÷£õx Bº•kPÀ SøÓÁøhÁx® AuÚõ÷»¯õS®.
+
+Euõµn® 1
+
+Kº 5 kg voÄUS Bº•kPÀ 2 ms-2 I ÁÇ[SÁuØSz ÷uøÁ¯õÚ Âø\ ¯õx? F = ma = 5 kg x 2 ms-2
+
+= 10 N (1 kgms-2 = 1 N)
+
+C»Á\¨ £õh¡À95
+
+Euõµn® 2
+
+J¸ ^µõÚ ÷ÁPzxhß C¯[QUöPõsi¸US® voÄ 6 kg I Eøh¯ J¸ ö£õ¸ÐUS Ax C¯[S® vø\°À J¸ ÷©»vP Âø\ 12 N I¨ ¤µ÷¯õQ¨£uß ‰»® AvÀ EshõUP¨£k® Bº•kPø»U PõsP.
+
+F = ma 12 N = 6 kg x a
+
+a = 12 N6 kg
+
+L a = 2 ms-2
+
+Euõµn® 3
+
+J¸ SÔzu ö£õ¸ÐUS Ax C¯[S® vø\°À J¸ ÷©»vP Âø\ 8 N I¨ ¤µ÷¯õQUS® ÷£õx AvÀ Bº•kPÀ 2 ms-2 EshõSö©Ûß, ö£õ¸Îß voøÁU PõsP. F = ma 8 N = m x 2 ms-2
+
+m = 8N 2 ms-2
+
+m = 4 kg
+
+£°Ø] 4.1
+
+¤ßÁ¸® AmhÁøn°À EÒÍ öÁØÔh[PøÍ {µ¨¦P.
+
+(1) Âø\ (N)voÄ (kg)Bº•kPÀ (ms-2)
+
+....................32
+
+4010....................
+
+30....................1.5
+
+2500....................
+
+(2) (a) ^µõÚ ÷ÁPzxhß C¯[QUöPõsi¸¢u 4 kg voÄÒÍ J¸ ö£õ¸ÐUS Ax C¯[S® vø\°À 6 N Âø\ø¯¨ ¤µ÷¯õQzuõÀ, AvÀ EshõS® Bº•kPø»U PoUP.
+
+(b) A¨ö£õ¸Îß «x AÆÂø\ø¯ C¯[S® vø\US GvµõÚ vø\°À ¤µ÷¯õQzuõÀ, EshõS® A©º•kPø»U PõsP.
+
+C»Á\¨ £õh¡À96
+
+{³ØÓÛß ‰ßÓõÁx Âv
+
+{³ØÓÛß ‰ßÓõÁx C¯UP Âv R÷Ç GkzxøµUP¨£mkÒÍx.
+
+JÆöÁõ¸ uõUPzvØS® (Âø\) \©ÚõÚx® GvµõÚx©õÚ ©ÖuõUP® (Âø\) Esk.
+
+ÁÎ {µ®¤¯ J¸ £¿øÚ Gkzx Áõø¯U RÌ÷|õUQz v¸®¤U øP°ÚõÀ ¤izxUöPõsk C¸UP. E¸ 4.7 CÀ EÒÍÁõÖ £¿Ûß Áõø¯z uÍºzvU øPø¯ ÂkP. •u¼À £¿ß ]Ôx yµzvØS ÷©÷» ö\ßÖ uøµ°À ÂÊÁøuU Põn»õ®. £¿ß ö|¸UP¨£mh ÁÎø¯U RÌ÷|õUQz uÒÎU öPõsk ö\ÀÁuÚõÀ E¸ÁõS® ©ÖuõUP Âø\°ß ÂøÍÁõP ÷©÷» ö\ÀQßÓx.
+
+©ÖuõUP® (£¿ß ÷©À÷|õUQ CÊzxa ö\À»¨£kuÀ)
+
+uõUP® (ÁÎ RÌ÷|õUQ öÁÎ÷¯ÖuÀ)
+
+E¸ 4.7 £¿ÛÀ ÁÎ RÌ÷|õUQ öÁÎ÷¯Öu¾® Auß ©ÖuõUP©õP £¿ß ÷©À÷|õUQ CÊzxa ö\À»¨£ku¾®
+
+E¸ 4.8 £¿ÛÀ ÁÎ öÁÎ÷¯Öu¾® (uõUP®) Gvºz vø\°À £¿ß C¯[Su¾® (©ÖuõUP®)
+
+£õÚUSÇõ´zxsk
+
+ÁÎ {µ®¤¯ £¿ß
+
+ö\÷»õ÷µ¨
+
+P®¤
+
+E¸ 4.8 CÀ Põn¨£kQßÓÁõÖ ÁÎ {µ®¤¯ J¸ £¿øÚ Gkzx J¸ ö\÷»õ÷µ¨ xsøhU öPõsk J¸ £õÚU SÇõ´z xskhß ö£õ¸zvU öPõÒÐ[PÒ. Auß ¤ßÚº £õÚU SÇõ°ÞhõP J¸ ÷|›¯ P®¤ø¯a ö\¾zv AUP®¤ø¯U Qøh¯õP C¸US©õÖ C¸ £UP[PÐhÝ® CønzxU öPõÒÐ[PÒ. C¨÷£õx £¿Ûß Áõ°À Pmh¨£mkÒÍ ¡ø»z uÍºzv, £¾Û¼¸¢x ÁÎø¯ öÁÎ÷¯Óa ö\´²[PÒ.
+
+C»Á\¨ £õh¡À97
+
+ÁÎ öÁÎ÷¯Ö® vø\US GvµõÚ vø\°À £¿ß P®¤ ÁÈ÷¯ C¯[SÁøuU Põn»õ®.
+
+]» ©õ¤ÒPÎß «x C¸ £»øPz xskPøÍ øÁ²[PÒ. CÆÂ¸ £»øPPÎß «x C¸Áº A©º¢v¸zuÀ ÷Ásk®. E¸ 4.9 CØ Põmh¨£mhÁõÖ EÒÍ[øP «x EÒÍ[øPø¯ øÁzx J¸Áøµ J¸Áº uÒÐ® ÷£õx C¸Á¸® Gvºz vø\PÎÀ uÒÍ¨£køuU Põn»õ®.
+
+E¸ 4.9 EÒÍ[øP «x EÒÍ[øPø¯ øÁzxz uÒÐ®÷£õx C¸ ¤ÒøÍPÐ® Gvºz vø\PÎÀ uÒÍ¨£mka ö\À»À
+
+{³ØÓÛß ‰ßÓõÁx Âv ¤µ÷¯õQUP¨£k® ]» |øh•øÓa \¢uº¨£[PÒ R÷Ç Põn¨£kQßÓÚ.
+
+J¸ £høP Á¼US®÷£õx xk¨¤ß ‰»® }›ß «x Âø\ ¤µ÷¯õQUP¨ £kQßÓx. (E¸ 5.0) xk¨¤ÚõÀ }º {µ¼ß «x ¤µ÷¯õQUP¨£k® Âø\USa \©©õÚ J¸ Âø\ }›ÚõÀ £hS «x ¤µ÷¯õQUP¨£kQßÓø© Cv¼¸¢x öuÎÁõS®.
+
+E¸ 4.10 xk¨¤ß ‰»® }›ß «x Âø\ø¯¨ ¤µ÷¯õQzu¾® AuØSa \©ÚõÚ J¸ Âø\ø¯ }º ‰»® £hQß «x ö\¾zxu¾®£høP Á¼US®÷£õx xk¨¤ÚõÀ J¸ vø\°À ©õzvµ® }¸US Âø\ ¤µ÷¯õQUP¨£kQßÓx. £hS Gvºz vø\°À C¯[SQßÓx. xk¨¤ÚõÀ }¸US Âø\ ¤µ÷¯õQUP¨£kuÀ ö\´¯¨£mh uõUP©õS®. AuØS GvµõÚ vø\°À £hS C¯[Pa ö\´¯¨£kuÀ ©ÖuõUP©õS®.
+
+C»Á\¨ £õh¡À98
+
+}¢x® ÷£õx C¸ øPPÎÚõ¾® }›ß «x Âø\ ¤ß÷ÚõUQ¨ ¤µ÷¯õQU P¨£kQßÓx. (E¸ 5.1) A¨÷£õx }›ÚõÀ Eh¼ß «x Âø\ •ß÷ÚõUQ¨ ¤µ÷¯õQUP¨ £kQßÓx. BP÷Á, }¢x£Áº •ß÷ÚõUQa ö\ÀQßÓõº.
+
+C[S }¢x® ÷£õx C¸ øPPÎÚõ¾® ¤ß÷ÚõUQ¨ ¤µ÷¯õQUP¨£k® Âø\ uõUP©õS®. Eh¼ß «x }›ÚõÀ •ß÷ÚõUQ J¸ Âø\ ¤µ÷¯õQUP¨ £kuÀ CzuõUPzvß ©ÖuõUP® BS®.
+
+E¸ 4.11 C¸ øPPÎÚõ¾® }›ß «x Âø\ø¯¨ ¤µ÷¯õQzu¾® AuØSa \©©õÚ Âø\ø¯ }›ÚõÀ Eh¼ß «x ¤µ÷¯õQzu¾® 4.2 E¢u®
+
+JßÔ¼¸¢öuõßÖ voÂÀ ÷ÁÖ£mh C¸ £¢xPøÍ Gk¨÷£õ®. CÆÂ¸ £¢xPÐ® J÷µ ÷ÁPzvÀ C¯[S®÷£õx voÄ SøÓ¢u £¢vß C¯UPzøu GÎuõP {Özu»õ®. voÂÀ \©©õÚ C¸ £¢xPÒ ÷ÁÖ£mh C¸ ÷ÁP[PÐhß C¯[S®÷£õx SøÓ¢u ÷ÁPzxhß C¯[S® £¢øu GÎuõP {Özu»õ®.
+
+J¸ ö£õ¸Ò C¯[QU öPõsi¸US® ÷£õx Auß C¯UPzøu {Özuz ÷uøÁ¯õÚ Âø\°À C¸ PõµoPÒ ö\ÀÁõUSa ö\¾zxQßÓÚ. AøÁ¯õÁÚ voÄ® ÷ÁP•® BS®.
+
+J¸ ö£õ¸Îß voÂØS® ÷ÁPzvØS® HØ£ A¨ö£õ¸Îß G¢u¨ ö£ÍvPU Po¯® ÷ÁÖ£kQßÓx?
+
+C¨ö£ÍvPU Po¯® J¸ ö£õ¸Îß E¢u® GÚ¨£k®.
+
+J¸ ö£õ¸Îß E¢uzvÀ ö\ÀÁõUSa ö\¾zx® C¸ ¤µuõÚ PõµoPÒ EÒÍÚ.
+
+1. ö£õ¸Îß voÄ (m)
+
+2. ö£õ¸Îß ÷ÁP® (v)
+
+J¸ ö£õ¸Îß E¢u® A¨ö£õ¸Îß voÂÚx® ÷ÁPzvÚx® ö£¸UP©õP Áøµ¯ÖUP¨£k®.
+
+AuõÁx, E¢u® = voÄ × ÷ÁP®
+
+E¢u® = m × v
+
+C»Á\¨ £õh¡À99
+
+voÂß A»S kg BS®. ÷ÁPzvß A»S ms-1 BS®. BP÷Á, E¢uzvß A»S kgms-1 BS®.
+
+J¸ ÷©õmhº ÁõPÚ® ÂøµÁõPa ö\À¾®÷£õx Auß E¢u® Ti¯uõPÂ¸US®. Auß ÷ÁP® £i¨£i¯õPU SøÓ²® ÷£õx E¢u® SøÓQßÓx. ÷ÁP® AvP›US® ÷£õx E¢u® AvP›UQßÓx.
+
+Euõµn® 1
+
+5 kg voÄÒÍ J¸ ö£õ¸Ò ÷ÁP® 2 ms-1 Ehß C¯[S®÷£õx Auß E¢u® ¯õx?
+
+E¢u® = mv
+
+E¢u® = 5 kg × 2 ms-1
+
+= 10 kgms-1
+
+Euõµn® 2
+
+750 g voÄÒÍ J¸ ö£õ¸Ò ÷ÁP® 4 ms-1 Ehß C¯[S® ÷£õx Auß E¢u® ¯õx?
+
+E¢u® = mv
+
+E¢u® = 750
+
+1000 kg × 4 ms-1
+
+= 3 kgms-1
+
+£°Ø] 4.2
+
+1. J¸ ÷©õmhº ÁõPÚzvß voÄ 800 kg BS®. Ax ÷ÁP® 5 ms-1 Ehß C¯[S® PnzvÀ Auß E¢uzøuU PoUP.
+
+2. J¸ SÔzu ö£õ¸Îß voÄ 600 kg BS®. Auß ÷ÁP® 5 ms-1 BP C¸US® J¸ PnzvÀ E¢uzøuU PõsP.
+
+3. J¸ SÔzu ö£õ¸Îß {øÓ 2 N BS®. (g = 10 ms-2) Ax ÷ÁP® 4 N Ehß C¯[SQßÓx. E¢u® ¯õx?
+
+4. C¯[QU öPõsi¸US® J¸ SÔzu ö£õ¸Îß E¢u® 6 kgms-1 BS®. A¨ö£õ¸Îß voÄ 500 g GÛß, Auß ÷ÁPzøuU PõsP.
+
+5. 3 kg voÄÒÍ J¸ ö£õ¸Ò {ø»USzuõP ÷©À÷|õUQ GÔ¯¨£kQßÓx. C¯UP® Bµ®¤US® ÷£õx Auß ÷ÁP® 10 m s-1 BS®.
+
+(a) AuøÚ ÷©À÷|õUQ AÝ¨£ ÷uøÁ¯õÚ E¢u® ¯õx?
+
+(b) Ax QÍ®¦® E¯º¢u£m\ E¯µzvÀ Auß E¢u® ¯õx?
+
+C»Á\¨ £õh¡À100
+
+4.3 voÄ® {øÓ²®
+
+J¸ ö£õ¸Îß voÄ Gß£x A¨ö£õ¸ÎÀ Ah[S® \h¨ö£õ¸Îß AÍÁõS®. voøÁ AÍÂk® \ºÁ÷u\ A»S kg BS®.
+
+J¸ ö£õ¸Îß {øÓ Gß£x A¨ö£õ¸Ò ¦Âø¯ ÷|õUQ CÊzxU öPõÒÐ® Âø\¯õS®.
+
+{³ØÓÛß CµshõÁx ÂvU÷PØ£
+
+F = m a
+
+{øÓ = voÄ × ¦Â±º¨¤Úõ»õÚ Bº•kPÀ
+
+F = m x 10 ms-2
+
+F = 10 ms-2
+
+F = W = m g
+
+W = ö£õ¸Îß {øÓ
+
+J¸ Q÷»õ Qµõ® voÄ £ØÔa ]¢v²[PÒ. AuØS Bº•kPÀ 10 ms-2 I ÁÇ[Pz ÷uøÁ¯õÚ Âø\ 10 N BS®.
+
+AuõÁx, 1 Q÷»õQµõ® voÂß {øÓ 10 N BS®.
+
+3 Q÷»õQµõ® voÄ £ØÔa ]¢v²[PÒ. AuøÚ¨ ¦Âø¯ ÷|õUQ DºzxU öPõÒÐ® Âø\ = 3 kg × 10 ms-2 = 30 N
+
+PhÀ ©mhzv¼¸¢x ÷©À÷|õUQa ö\À¾® ÷£õx ¦Â±º¨¦ Bº•kPÀ SøÓÁøhQßÓx. BP÷Á voöÁõßøÓ ©ø»US öPõsk ö\À¾® ÷£õx voÄ ©õÓõx Põn¨£iÝ® {øÓ SøÓÁøhQßÓx. \¢vµÛß ÷©Ø£µ¨¤À Dº¨¦ Bº•kPÀ ¦Â°À EÒÍ ¦Â±º¨¦ Bº•kPÀ ö£Ö©õÚzvß 16BS®. BP÷Á \¢vµÛÀ ÷©Ø£µ¨¤À ö£õ¸Îß {øÓ¯õÚx ¦Â°À Põn¨£k® {øÓ°¾® 16 BPU Põn¨£k®.
+
+C»Á\¨ £õh¡À101
+
+ö£õÈ¨¦
+
+yy{³ØÓÛß •u»õÁx Âv¯õÚx J¸ \©{ø»¨£kzu¨£hõu Âø\ ¤µ÷¯õQUP¨£k® ÁøµUS® K´ÂÀ EÒÍ ö£õ¸Ò K´Â÷»÷¯ C¸US®. C¯[S® ö£õ¸Ò ^µõÚ ÷ÁPzxhß C¯[S®.
+
+yy{³ØÓÛß CµshõÁx Âv¯õÚx J¸ ö£õ¸ÎÀ HØ£k® Bº•kPÀ AvÀ ¤µ÷¯õQUP¨£k® Âø\ (F) CØS ÷|µi ÂQu\©©õ²®. ö£õ¸Îß voÂØS (m) CØS ÷|º©õÖ ÂQu\©©õ²® C¸US®.
+
+yy{³ØÓÛß ‰ßÓõÁx Âv ""JÆöÁõ¸ uõUPzvØS® \©•® Gv¸©õÚ ©ÖuõUP® Esk'' Gß£uõS®.
+
+yyJ¸ ö£õ¸Îß {øÓ Gß£x A¨ö£õ¸Ò ¦Â°ß ø©¯zøu ÷|õUQ DºUP¨£k® Âø\¯õS®. Ax ö£õ¸ÐUS¨ ¦Â±º¨¤Úõ»õÚ Bº•kPÀ (g) I ÁÇ[Pz ÷uøÁ¯õÚ Âø\¯õS®.
+
+£°Ø]
+
+(1) (i) {³ØÓÛß •u»õÁx Âvø¯z u¸P.
+
+(ii) C¯[S® ÷£¸¢x JßÔÀ uk¨ø£¨ ¤µ÷¯õQUS® ÷£õx A©º¢ v¸US® £¯oPÒ •ß÷ÚõUQ Ã\¨£kÁ÷uß?
+
+(iii) K´ÂÀ C¸US® ÷£¸¢x JßÔÀ J¸ £¯o A©º¢v¸UQßÓõº. ÷£¸¢x •ß÷ÚõUQ C¯[P Bµ®¤US® ÷£õx £¯o ¤ß÷ÚõUQ uÒÍ¨£kQÓõº. Ax Hß? (iv) ÁõPÚ[PÎÀ ö\À¾®÷£õx B\Ú¨ £miø¯ AoÁuß £¯ß ¯õx?
+
+(2) (i) {³ØÓÛß CµshõÁx Âvø¯ GÊxP.
+
+(ii) J¸ ö£õ¸Îß voÄ 12 kg BS®. Ax C¯[S® vø\°À Auß «x 6 N \©{ø»¨£kzu¨£hõu Âø\ø¯¨ ¤µ÷¯õQzuõÀ, EshõS® Bº•kPÀ ¯õx?
+
+C»Á\¨ £õh¡À102
+
+(3) ¤ßÁ¸® AmhÁøn°À EÒÍ öÁØÔh[PøÍ {µ¨¦P.
+
+Bº•kPÀ (a) ms-2voÄ (m) kgÂø\ (F)
+
+N
+
+2 ms-210 ...............
+
+....................12 60.....................0.5 4 5 ms-2................40
+
+(4) J¸ SÔzu ö£õ¸Îß voÄ 6 kg BS®. 4 ö\UPÛÀ Auß ÷ÁP® 5 ms-1 C¼¸¢x 13 ms-1 CØS AvP›USö©Ûß, Auß «x ¤µ÷¯õQUP¨£mh Âø\ø¯U PõsP.
+
+(5) (i) {³ØÓÛß ‰ßÓõÁx Âvø¯ GÊxP.
+
+(ii) {³ØÓÛß ‰ßÓõÁx Âv ¤µ÷¯õQUP¨£k® ‰ßÖ \¢uº¨£[PøÍU SÔ¨¤kP.
+
+(iii) J¸ ö£õ¸Îß E¢uzvß «x ö\ÀÁõUSa ö\¾zx® PõµoPÒ ¯õøÁ?
+
+(6) 4 ms-1 ÷ÁPzxhß C¯[QUöPõsi¸US® 10 kg voÄÒÍ J¸ ö£õ¸Îß E¢u® ¯õx?
+
+(7) J¸ ö£õ¸Îß voÄ 750 g BS®. J¸ SÔzu PnzvÀ Auß ÷ÁP® 8 ms-1 GÛß, AUPnzvÀ Auß E¢u® ¯õx?
+
+(8) J¸ SÔzu PnzvÀ J¸ ö£õ¸Îß E¢u® 6 kgms-1 BS®. AUPnz-vÀ Auß ÷ÁP® 3 ms-1 GÛß, Auß voÄ ¯õx?
+
+(9) (i) J¸ ö£õ¸Îß voÄ 60 kg. Auß {øÓ ¯õx? (g = 10 ms-2)
+
+(ii) \¢vµÛß «x ¦Â±º¨¤Úõ»õÚ Bº•kPÀ ¦Â°ß ¦Â±º¨¤ Úõ»õÚ Bº•kPÎÀ 1/6 GÛß, \¢vµÛß «x Auß {øÓ ¯õx?
+
+C»Á\¨ £õh¡À103
+
+Âø\ - Force
+
+\©{ø»¨£hõu Âø\ - Unbalanced Force
+
+^µõÚ Bº•kPÀ - Uniform acceleration
+
+^µõÚ ÷ÁP® - Uniform velocity
+
+voÄ - Mass
+
+Bº•kPÀ - Acceleration
+
+uõUP® - Action
+
+©ÖuõUP® - Reaction
+
+E¢u® - Momentum
+
+Pø»a ö\õØPÒ

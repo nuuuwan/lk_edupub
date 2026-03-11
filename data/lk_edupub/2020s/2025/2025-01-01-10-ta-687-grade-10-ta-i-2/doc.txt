@@ -1,0 +1,977 @@
+==== BLOCKS ==== 
+
+C»Á\¨ £õh¡À26
+
+÷|º÷Põmk C¯UP®2
+
+ö£ÍvPÂ¯À
+
+2.1 yµ•® Ch¨ö£¯ºa]²®
+
+J¸ ö£õ¸Ò C¯[S®÷£õx ÷|µzvØ÷PØ£ A¨ö£õ¸Ò C¸US® Ch® ©õÖQßÓx. C[S ö£õ¸Ò C¯[S® £õøu°ß }Í® Põmh¨£kQßÓx. yµ©õÚx Bµ®£¨¦ÒÎ°¾® CÖv¨ ¦ÒÎ°¾® ©õzvµ® u[Q°µõ©À £¯ÛUS® £õøu°¾® u[Q²ÒÍx.
+
+<J¸ ¤ÒøÍ A GßÝ® Chzv¼¸¢x B °ØSa ö\À»zuUP ]» £õøuPÒ E¸ 2.1 CÀ Põmh¨£mkÒÍx.
+
+QÇUS
+
+yµ® 320 m
+
+yµ® 160 m
+
+yµ® 240 m
+
+Z £õøu
+
+BA
+
+X £õøu
+
+Y £õøu
+
+yµ® 200 m
+
+E¸ 2.1 A CØS® B CØS® Cøh°»õÚ £À÷ÁÖ £õøuPÒ
+
+A °¼¸¢x X CÞhõP EÒÍ £õøu°À ö\ßÓõÀ A °ØS® B °ØSªøh÷¯ EÒÍ yµ® 320 m BS®. Y °ÞhõP EÒÍ £õøu°À ö\ßÓõÀ 200 m BS®. A °¼¸¢x Z CÞhõPa ö\ßÓõÀ yµ® 240 m BS®. AuõÁx ö\À¾® £õøuU÷PØ£ yµ® ÷ÁÖ£kQßÓx.
+
+A¨¤ÒøÍ°ß C¯UP® G¨£õøu°ÞhõP |øhö£ØÓõ¾® Auß ÂøÍÄ Bµ®£¨ ¦ÒÎ°¼¸¢x ÷|º÷Põk ÁÈ÷¯ 160 m BS®.
+
+Bµ®£¨ ¦ÒÎ°¼¸¢x CÖv¨ ¦ÒÎ ÁøµUS® C¢÷|º÷PõmiÀ |øhö£Ö® C¯UP® Ch¨ö£¯ºa] (Displacement) GÚ¨£k®.
+
+SÔ¨¤mh ¤ÒøÍ°ß Ch¨ö£¯ºa] QÇUS ÷|õUQ 160 m BS®.
+
+C»Á\¨ £õh¡À27
+
+yµ® £¯oUS® £õøu°À u[Q°¸US®. BÚõÀ Ch¨ö£¯ºa]¯õÚx £õøu°À u[Q°µõ©À J¸ ©õÓõ¨ö£Ö©õÚzøua öPõsi¸US®.
+
+yµzvØS¨ £¸©ß C¸¢uõ¾® vø\ CÀø». BP÷Á, yµ® Kº GsoU Po¯® BS®.
+
+Ch¨ö£¯ºa] £¸©Ýhß vø\²® C¸¨£uÚõÀ Ax J¸ PõÂU Po¯® BS®.
+
+¤ÒøÍ Ãmi¼¸¢x £õh\õø»USa ö\ßÓ £õøu E¸ 2.2 CÀ Põmh¨£mkÒÍx.
+
+E¸ 2.2 ¤ÒøÍ Ãmi¼¸¢x £õh\õø»USa ö\À¾® £õøu
+
+¤ÒøÍ Ãmi¼¸¢x £õh\õ ø»USa ö\ßÖÒÍ £õøu°ß ö©õzu }Í® (yµ®) = AB + BC + CD = 100 m + 400 m + 300 m = 800 m BÚõÀ, Ãmi¼¸¢x C¯UP® öuõh[S® uõÚzv¼¸¢x £õh\õø»US EÒÍ ÷|º ÷Põmkz yµ® 500 m BS®. AuõÁx, ¤ÒøÍ°ß Ch¨ ö£¯ºa]°ß £¸©ß 500 m BP C¸US® A÷u ÷ÁøÍ vø\ AD BS®.
+
+C¨÷£õx C[S uµ¨£mkÒÍ E¸øÁ¨ £õ¸[PÒ.
+
+öuõhUPzuõÚ®Ch¨ö£¯ºa]
+
+yµ®
+
+CÖvzuõÚ®
+
+J¸ ¤ÒøÍ A °¼¸¢x A®¦U SÔ ÁÈ÷¯ EÒÍ £õøu°À ö\ßÖ B ø¯ AøhQßÓx. A BÚx öuõhUPz uõÚ©õPÄ® B BÚx CÖvzuõÚ©õP Ä® C¸UQßÓx.
+
+2.3 A °¼¸¢x B °ØPõÚ £õøu
+
+BP÷Á, ö\ßÓ yµ® 400 m BS®. ¤ÒøÍ°ß Ch¨ö£¯ºa]°ß £¸©ß 120 m BP C¸¨£xhß vø\ AB BS®.
+
+Kmh¨÷£õmiUS¨ £¯ß£kzu¨£k® 200 m Kmh¨ £õøu ¤ßÁ¸® E¸ÂÀ Põn¨£kQßÓx.
+
+C»Á\¨ £õh¡À28
+
+E¸ 2.4 Kmh¨£õøu
+
+A
+
+200 mBX
+
+E¸ 2.5 Kmh Ãµ›ß vø\ø¯U PõnÀ
+
+KmhÃµº J¸Áº A °¼¸¢x £õøu°ÞhõP B °ØS KkQßÓõº. AÁº A¢u 200 m yµ® Ki B ø¯ AøhQÓõº. CÆÁõÖ KkÁuÚõÀ AÁ¸øh¯ Aø©Ä A °¼¸¢x B °ØS ©õÔ²ÒÍx.
+
+BP÷Á, KmhUPõµ›ß Ch¨ö£¯ºa] ÷|º÷Põmkz yµ® AB °ÚõÀ Põmh¨£kQßÓx. KmhUPõµº C¸US® vø\ø¯²® SÔ¨¤kuÀ ÷Ásk®. E¸ 2.5 CØ÷PØ£ AÁ¸øh¯ Ch¨ö£¯ºa] 160 m ÁhUQ¼¸¢x 700 ÷©Ø÷P 160 m BS®.
+
+ÁhUQ¼¸¢x 700 ÷©Ø÷P 160 m
+
+C[S ÁhUQ¼¸¢x 700 ÷©Ø÷P Gß£x Ch¨ö£¯ºa]°ß vø\¯õS®. 160 m BÚx Ch¨ö£¯ºa]°ß £¸©ÚõS®.
+
+E¸ 2.6 CÀ EÒÍÁõÖ J¸ ÷|º÷Põmk¨ £õøu ÁÈ÷¯ J¸ ¤ÒøÍ A °¼¸¢x B Áøµ 60 m yµ® ö\ÀQßÓx.
+
+ABC
+
+60 m40 m
+
+E¸ 2.6 A °¼¸¢x C °ØSa ö\À¾® ¤ÒøÍ°ß £õøu
+
+¤ÒøÍ°ß Ch¨ö£¯ºa] ¯õx? Ch¨ö£¯ºa] Azvø\°À 60 m BS®. Auß ¤ßÚº A¨¤ÒøÍ A÷u vø\°À ÷©¾® 40 m yµ® ö\ßÖ C °ØS Á¢uõÀ, Ch¨ö£¯ºa] ¯õx?
+
+Ch¨ö£¯ºa] = 60 m + 40 m = 100 m
+
+AuõÁx C¨÷£õx ¤ÒøÍ Bµ®£z uõÚzv¼¸¢x ÷|º÷Põk ÁÈ÷¯ 100 m yµzvÀ EÒÍx.
+
+C»Á\¨ £õh¡À29
+
+¤ÒøÍ A °¼¸¢x B ÁøµUS® ö\ßÖ B °À C¸¢x •ßÚõÀ öuõhº¢x ö\À»õ©À v¸®¤ A÷u £õøu°À 40 m yµ® ö\À¾ö©Ûß, ö\ßÓ yµ® 100 m BP C¸¢u÷£õv¾® Ch¨ö£¯ºa] 60 m + (-40 m) BS®. AuõÁx, C¨÷£õx Ch¨ö£¯ºa] 20 m BS®.
+
+AB
+
+60 m
+
+40 m
+
+E¸ 2.7 ¤ÒøÍ ö\À¾® £õøu
+
+CuØ÷PØ£ ¤ÒøÍ C¯UPzøu Bµ®¤zxa ö\ßÓ vø\°À 20 m yµzvÀ EÒÍx.
+
+¤ÒøÍ Bµ®£ uõÚzvÀ C¸¢x 60 m •ß÷ÚõUQa ö\ßÖ «sk® A÷u £õøu ÁÈ÷¯ v¸®¤ Bµ®£ uõÚzøu Aøh¢v¸¢uõÀ Ch¨ö£¯ºa] 60 m + (-60 m) BS®. AuõÁx Ch¨ö£¯ºa] §a]¯® (0) BS®. ¤ÒøÍ C¯UPzvß Bµ®£z uõÚzv÷»÷¯ C¨÷£õx EÒÍöuÚ Cv¼¸¢x |õ® AÔQß÷Óõ®.
+
+E¸ÂÀ Põmh¨£mhÁõÖ J¸ ¤ÒøÍ uõÚ® A °¼¸¢x C¯UPzøu Bµ®¤zxU QÇUS ÷|õUQ 40 m yµ® ö\ßÖ B °ÚõÀ Aøh¢x Auß ¤ßÚº B °¼¸¢x ÁhUS ÷|õUQ 30 m xµ® ö\ßÖ C ø¯ AøhQÓx.
+
+yy¤ÒøÍ ö\ßÓ yµ® ¯õx?
+
+yy¤ÒøÍ°ß Ch¨ö£¯ºa] ¯õx?
+
+£°Ø] 2.1
+
+¤ÒøÍ ¦Ó¨£k® Ch®
+
+40 m
+
+30 m
+
+50 m
+
+AB
+
+C
+
+E¸ 2.8 A °À C¸¢x B °ÞhõP C I Aøh¢u ¤ÒøÍ°ß £¯n¨£õøu
+
+C»Á\¨ £õh¡À30
+
+2.2 Pv
+
+÷uøÁ°ßÔ E¯º Pv°À ÁõPÚ[PÒ ö\À QßÓø©¯õÀ |øhö£Ö® Â£zxPÒ £ØÔ |õ® vÚ•® ÷PÒÂ¨ £kQß÷Óõ®. Cuß ÂøÍÁõP ÃvPÎÀ Pvø¯ Pmk¨£kzu¨ £õuõøPPÒ Põmh¨£mkÒÍÚ. Â÷\h©õP Av÷ÁP ÃvPÎÀ AzuøP¯ uõÚ[PÎÀ ö\À»UTi¯ AvTi¯ Pv ö£Ö©õÚ® ©mk¨£kzu¨£mkÒÍx. CUPv Pmk¨£õkPøÍ |õ® ¤ß£ØÓ ÷Ásk®. AÆÁõÖ ö\´¯õÂmhõÀ, Av÷ÁP ÃvPÎÀ Â£zxPÒ HØ£h»õ®.
+
+Pv Gß£uß P¸zøu Bµõ´÷Áõ®.
+
+Pv =yµ®
+
+÷|µ® AuõÁx, Kµ»S ÷|µzvÀ J¸ ö£õ¸Ò ö\À¾® yµ® Pv¯õS®.
+
+J¸ ÷©õmhº ÁõPÚzvß Pv©õÛ°ß ‰»® AUPnzvÀ EÒÍ Pvø¯ AÔ¯•i²®.
+
+J¸ ÁõPÚ® uõÚ® A °¼¸¢x 120 m yµzvÀ C¸US® ÷ÁöÓõ¸ uõÚ® B °ØSa ö\ÀÁuØS Gkzu ÷|µ® 6 s GÛß ÁõPÚ® 1 s À C¯[Q¯ yµ®
+
+m, AuõÁx 20 m BS®. AuõÁx, ÁõPÚ® CzyµzøuU Ph¨£uØPõÚ Ãu®
+
+20 m / s BS®.
+
+J¸ ö£õ¸Ò JÆöÁõ¸ ö\UPÛ¾® ö\À¾® yµ® \©©õP C¸US® \¢uº¨£[PÒ EÒÍÚ. AÆÁõ÷Ó JÆöÁõ¸ ö\UPÛ¾® ö\À¾® yµ® ÷ÁÖ£mh \¢uº¨£[PÐ® EÒÍÚ. JÆöÁõ¸ \¢uº¨£zøu²® £ØÔ¨ ¤ßÁ¸® Euõµn[PÎß ‰»® Bµõ´÷Áõ®.
+
+J¸ ö£õ¸Ò ÷|µzxhß ö\ßÓ yµ[PÒ ¤ßÁ¸® AmhÁøn°À Põn¨£kQßÓÚ.
+
+÷|µ® (t) / s0123456
+
+ö\ßÓ yµ® (d) / m0369121518
+
+CzuµÄPÐU÷PØ£,
+
+•uØ ö\UPÛÀ ö\ßÓ yµ® = (3 m - 0 m) = 3 m
+
+CµshõÁx ö\UPÛÀ ö\ßÓ yµ® = (6 m - 3 m) = 3 m
+
+C»Á\¨ £õh¡À31
+
+AÆÁõ÷Ó ‰ßÓõÁx, |õßPõÁx, I¢uõÁx, BÓõÁx ö\UPßPÎÀ ö\ßÖ yµ[PÒ 3 m Ãu® BS®.
+
+AuõÁx, ö£õ¸Ò JÆöÁõ¸ s ¾® C¯[Q²ÒÍ yµ® 3 m BS®. C[S C¯[S® ö£õ¸Ò ^µõÚ Pv°À EÒÍx.
+
+÷|µ® Pv = yµ®, yµ® m C¾® ÷|µ® s ¾® Põmh¨£mi¸¨£uÚõÀ Pv°ß A»S ms-1 BS®
+
+ö£õ¸Îß ^µõÚ Pv = 3 ms-1
+
+J¸ ö£õ¸Îß C¯UP® £ØÔ¯ ¤ßÁ¸® uµÄPøÍU P¸xP.
+
+÷|µ® (t) / s0123456
+
+C¯[Q¯ yµ® (d) / m0359121618
+
+JÆöÁõ¸ ö\UPÛ¾® ö£õ¸Ò C¯[Q¯ yµ® \©©ßÖ.
+
+AuõÁx, ö£õ¸Ò ^µõÚ Pv°À C¯[PÂÀø». CzuøP¯ ^µØÓ Pv°À ö£õ¸Ò ö\À¾®÷£õx uµ¨£mh ÷|µzvÀ ö£õ¸Îß \µõ\›U Pvø¯U PozuÀ £¯ßªUPx. J¸ ö£õ¸Ò SÔzu ÷|µzvÀ ö\ßÓ ö©õzuz yµzøu Gkzu ö©õzu ÷|µzvÚõÀ ÁS¨£uß ‰»® Auß \µõ\›U Pv PoUP¨£kQßÓx. CuØ÷PØ£,
+
+C¯[Q¯ ö©õzuz yµ® Gkzu ö©õzu ÷|µ®\µõ\›U Pv =
+
+C¨ö£õ¸Ò 6 s CÀ C¯[Q²ÒÍ ö©õzuz yµ® 18 m BS®. 6 s CÀ 18 m C¯[Q²ÒÍø©¯õÀ 1 s CÀ |øhö£ØÖÒÍ C¯UPzvß \µõ\›z yµ®
+
+AuõÁx, \µõ\›U Pv
+
+2.3 ÷ÁP®
+
+Pvø¯U PoUS®÷£õx J¸ ö£õ¸Ò ö\ßÓ vø\ P¸u¨£kÁvÀø». BP÷Á Pv Kº GsoU Po¯® Gß£x CxÁøµUS® E[PÐUSz öuÎÁõP C¸UQßÓ ÷£õv¾® Ch¨ö£¯ºa] öuõhº£õP ÷ÁP® Áøµ¯ÖUP¨£kQßÓø©¯õÀ ÷ÁP® J¸ PõÂU Po¯©õS®. AuõÁx, ÷ÁPzvØS¨ £¸©Ýhß vø\²® Esk.
+
+C»Á\¨ £õh¡À32
+
+÷ÁP® Gß£x Ch¨ö£¯ºa] ©õØÓ Ãu® GÚ Áøµ¯ÖUP¨£kQßÓx.
+
+AuõÁx, Ch¨ö£¯ºa]ø¯ ÷|µzvÚõÀ ÁSzx ÷ÁP® ö£Ó¨£kQßÓx.
+
+Ch¨ö£¯ºa]÷|µ®÷ÁP® =
+
+ö£õ¸ÒPÒ ^µõÚ ÷ÁPzxhß C¯[S® \¢uº¨£[PøÍ¨ ÷£õÀ ^µØÓ ÷ÁP[PÐhß C¯[S® \¢uº¨£[PÐ® EÒÍÚ.
+
+^µØÓ ÷ÁPzxhß C¯[S® \¢uº¨£[PÎÀ \µõ\› ÷ÁPzøuU PozuÀ £¯Ýøh¯x.
+
+¤ßÁ¸® AmhÁøn°À J¸ ^µõÚ ÷ÁPzxhß J÷µ vø\°À ö\À¾® ö£õ¸Ò JßÔß JÆöÁõ¸ ö\UPÛ¾® Aøh¢u Ch¨ö£¯ºa] uµ¨£mkÒÍx.
+
+÷|µ® (t) / s01234
+
+Ch¨ö£¯ºa] (s) / m036912
+
+C[S •u»õÁx ö\UPÛÀ Ch¨ö£¯ºa] ©õØÓ® = (3 m - 0) = 3 mCµshõÁx ö\UPÛÀ Ch¨ö£¯ºa] ©õØÓ® = (6 m - 3 m) = 3 m‰ßÓõÁx ö\UPÛÀ Ch¨ö£¯ºa] ©õØÓ® = (9 m - 6 m) = 3 m|õßPõÁx ö\UPÛÀ Ch¨ö£¯ºa] ©õØÓ® = (12 m - 9 m) = 3 m
+
+C[S JÆöÁõ¸ ö\UPÛ¾® Ch¨ö£¯ºa] ©õØÓ® 3m Gß£uÚõÀ AÆÂ¯UP® ©õÓõ ÷ÁPzvÀ AÀ»x ^µõÚ ÷ÁPzvÀ |øhö£ØÖÒÍx GßÖ TÓ»õ®.
+
+J¸ ÷|º÷Põmk¨ £õøu ÁÈ÷¯ ^µØÓ ÷ÁPzxhß ö\À¾® ö£õ¸Ò JßÔß JÆöÁõ¸ ö\UPÛ¾® AÍUP¨£mh Ch¨ö£¯ºa] ¤ßÁ¸® AmhÁøn°À Põn¨£kQßÓx.
+
+÷|µ® (t) / s01234
+
+Ch¨ö£¯ºa] (s) / m047912
+
+CzuµÄPÐU÷PØ£,
+
+•u»õÁx ö\UPÛÀ Ch¨ö£¯ºa] ©õØÓ® = (4 m - 0) = 4 mCµshõÁx ö\UPÛÀ Ch¨ö£¯ºa] ©õØÓ® = (7 m - 4 m) = 3 m‰ßÓõÁx ö\UPÛÀ Ch¨ö£¯ºa] ©õØÓ® = (9 m - 7 m) = 2 m|õßPõÁx ö\UPÛÀ Ch¨ö£¯ºa] ©õØÓ® = (12 m - 9 m) = 3 m
+
+C»Á\¨ £õh¡À33
+
+C[S JÆöÁõ¸ ö\UPÛ¾® |øhö£ØÓ Ch¨ö£¯ºa] ©õØÓ® \©©ßÖ. CzuøP¯ \¢uº¨£[PÎÀ ÷ÁP® ^µõÚußÖ. AzuøP¯ \¢uº¨£[PÎÀ |õ® \µõ\› ÷ÁPzøuU PoUP»õ®.
+
+12 m4 s
+
+Ch¨ö£¯ºa] ÷|µ® ÷©ØSÔzu Euõµn[PÐU÷PØ£a \µõ\› ÷ÁP® =
+
+=
+
+=3 m s-1
+
+Euõµn®
+
+<J¸ ¤ÒøÍ QÇUSz vø\ø¯ ÷|õUQa ø\UQÎÀ ö\ßÓ Âu® öuõhº£õP ÷|µzvØ÷PØ£ |øhö£ØÖÒÍ Ch¨ö£¯ºa] ¤ßÁ¸® AmhÁøn°À Põn¨£kQßÓx.
+
+÷|µ® (t) / s 012345678910
+
+Ch¨ö£¯ºa] (s) / m02468888840
+
+(i) •uÀ 4 ö\UPßPÎÀ ¤ÒøÍ°ß C¯UP® |øhö£ØÖÒÍ Âuzøu ÂÍUSP.
+
+(ii) •uÀ 4 ö\UPßPÎÀ ¤ÒøÍ°ß Ch¨ö£¯ºa] ©õÖ® Ãu® ¯õx?
+
+(iii) Ch¨ö£¯ºa] ©õÖ® ÃuzvØS¨ £v»õP J¸ uÛa ö\õÀø» GÊxP.
+
+(iv) 4 öuõhUP® 8 Áøµ²ÒÍ ö\UPßPÎÀ ¤ÒøÍ°ß C¯UP® öuõhº£õP GßÚ TÓ»õ®?
+
+(v) 8 öuõhUP® 10 Áøµ²ÒÍ ö\UPßPÎÀ C¯UP® G[VÚ® |øhö£ØÖÒÍx?
+
+(vi) CÖv 2 ö\UPßPÎÀ ö£Ó¨£mkÒÍ ÷ÁPzøuU PõsP.
+
+Âøh
+
+(i) ¤ÒøÍ •uÀ 4 s CÀ 8 m yµ® •ß÷ÚõUQa ö\ßÖÒÍx.
+
+(ii) •uÀ 4 s CÀ ¤ÒøÍ°ß Ch¨ö£¯ºa] ©õÖ® Ãu®
+
+= Ch¨ö£¯ºa] ©õØÓ® ÷|µ®
+
+= (8 - 0) m 4 s = 2 m s-1
+
+C»Á\¨ £õh¡À34
+
+(iii) Ch¨ö£¯ºa] ©õÖ® Ãu® Gß£x ÷ÁP©õS®.
+
+(iv) 4 s öuõhUP® 8 s ÁøµUS® ¤ÒøÍ C¯[PÂÀø».
+
+(v) 8 öuõhUP® 10 Áøµ²ÒÍ ö\UPßPÎÀ ¤ÒøÍ°ß C¯UP® v¸®¤ |øhö£ØÖÒÍx. 10 s BS®÷£õx öuõhUP ChzvØS Á¢xÒÍx.
+
+(vi) CÖv 2 ö\UPÛÀ ÷£õx ¤ÒøÍ°ß ÷ÁP® = Ch¨ö£¯ºa] ©õØÓ® ÷|µ®= (0 - 8) m 2 s = - 4 m s-1 AuõÁx v¸®¤¯ vø\°À ÷ÁP® 4 m s-1 BS®.
+
+2.4 Bº•kPÀ
+
+©õÓõ ÷ÁPzvÀ C¯[S® ö£õ¸Ò JßÔß ÷ÁPzvß vø\ø¯¨ ÷£õßÖ £¸©Ý® ©õÖÁvÀø».
+
+J¸ ö£õ¸Ò J¸ ÷|ºU÷Põmk¨ £õøu ÁÈ÷¯ 5 m s-1 GßÝ® ©õÓõ ÷ÁPzxhß C¯[SQßÓöuÚU öPõÒP.
+
+C[S JÆöÁõ¸ ö\UPÛ¾® |øhö£Ö® Ch¨ö£¯ºa] ©õØÓ® 5 m Ãu® BS®. vø\²® K÷µ vø\¯õS®. C®©õÓõ ÷ÁPzxhß 5 ö\UPÛÀ C¯UP® |øhö£ØÓõÀ ö£õ¸Îß Ch¨ö£¯ºa]
+
+= 5 ms-1 × 5 s = 25 m
+
+©õÓõ ÷ÁPzxhß C¯[S® ö£õ¸Ò JßÔß ÷ÁPzøu E›¯ ÷|µzvÚõÀ ö£¸US®÷£õx ö£õ¸Îß Ch¨ö£¯ºa] QøhUQßÓx.
+
+AuõÁx, Ch¨ö£¯ºa] = ^µõÚ ÷ÁP® × ÷|µ®
+
+ö£õ¸ÒPÒ G¨÷£õx® ^µõÚ ÷ÁPzxhß C¯[SÁvÀø». AÁØÔß ÷ÁP® ö£¸®£õ¾® ÷|µzvØ÷PØ£ ©õÖQßÓx.
+
+J¸ ö£õ¸Îß ÷ÁP® ÷|µzxhß ©õÖ® Âu® AmhÁøn°Ø Põn¨£kQßÓx.
+
+÷|µ® (t) / s0123456
+
+÷ÁP® (v) / m s-1024681012
+
+CzuµÄPÐU÷PØ£ 6 ö\UPÛÀ ö£õ¸Îß ÷ÁP® 0 öuõhUP® 12 ms-1 ÁøµUS® ©õÔ²ÒÍx.
+
+C»Á\¨ £õh¡À35
+
+÷ÁP ©õØÓ®CÖv ÷ÁP®Bµ®£ ÷ÁP®
+
+CÆ÷ÁP ©õØÓzvØS GkzxÒÍ ÷|µ® 6 s BS®.
+
+÷ÁP ©õØÓzøu ÷|µzvÚõÀ ÁSUS® ÷£õx ÷ÁP ©õØÓ Ãu® QøhUQßÓx.
+
+-÷ÁP ©õØÓ Ãu® Gß£x Bº•kPÀ BS®.
+
+AuõÁx Jµ»S ÷|µzvÀ |øhö£Ö® ÷ÁP ©õØÓ® Bº•kPÀ BS®.
+
+÷©ØSÔzu ö£õ¸Îß Bº•kPø»U Põs÷£õ®.
+
+Bº•kPÀ =
+
+=
+
+=
+
+÷ÁP ©õØÓ®÷|µ®
+
+( 12 - 0 ) m s-1
+
+6 s
+
+2 m s-2
+
+JÆöÁõ¸ ö\UPÛ¾® ÷ÁP® 2 ms-1 Ãu® AvP›UQßÓx Gß£øu |õ® AÔ÷Áõ®.
+
+Bº•kP¼ØSU QøhUS® ö£Ö©õÚ® J¸ ÷|º ö£Ö©õÚö©Ûß, ÷ÁPzvÀ AvP›¨¦ EÒÍx Gß£x P¸zuõS®.
+
+J¸ ÷|º÷Põmk¨ £õøu ÁÈ÷¯ C¯UQU öPõsi¸US® ö£õ¸Ò JßÔß ÷ÁP® 12 ms-1 BP C¸¢x, ¤ßÚº ¤ßÁ¸® AmhÁøn°À EÒÍÁõÖ ©õÖQßÓöuÚU öPõÒP.
+
+÷|µ® (t) / s01234
+
+÷ÁP® (v) / m s-1129630
+
+C[S ÷ÁPU SøÓ¨¦ HØ£mkÒÍx.
+
+C»Á\¨ £õh¡À36
+
+C¨ö£õ¸Îß Bº•kPø»U Po¨÷£õ®.
+
+Bº•kPÀ = ÷|µ®÷ÁP ©õØÓ®
+
+= 4 s (0 - 12) ms-1
+
+= -3 m s-2
+
+C[S Bº•kP¼ß ö£Ö©õÚ® ©øÓ (-) BS®.
+
+JÆöÁõ¸ ö\UPÛ¾® ÷ÁP® 3 ms-1 Ãu® SøÓQßÓx Gß£x Cv¼¸¢x öuÎÁõS®.
+
+AuõÁx Bº•kP¾USU QøhUS® ö£Ö©õÚ® J¸ ©øÓ¨ (-) ö£Ö©õÚö©Ûß Ax A©º•kPø»U SÔUQßÓx.
+
+Bº•kPÀ = - 3 ms-2 GÛß, A©º•kPÀ = 3 ms-2 BS®.
+
+^µõÚ Bº•kP¾hß C¯[S® ö£õ¸ÒPÎß Ch¨ö£¯ºa]ø¯U Põs£uØSa \µõ\› ÷ÁPzøuU Psk AuøÚ ÷|µzvÚõØ ö£¸UP ÷Ásk®.
+
+Ch¨ö£¯ºa] = \µõ\› ÷ÁP® × ÷|µ®
+
+Euõµn®
+
+K´Â¼¸¢x C¯UPzøu Bµ®¤US® ö£õ¸Ò JßÖ 6 ö\UPÝUS ^µõÚ Bº•kP¾US Em£mk 12 ms-1 ÷ÁPzøu¨ ö£ÖQßÓx. A¢÷|µzvÀ ö£õ¸Îß Ch¨ö£¯ºa] ¯õx?
+
+ö£õ¸Îß Ch¨ö£¯ºa] = \µõ\› ÷ÁP® × ÷|µ®
+
+= ( 0 + 12 )2 ms-1 × 6 s
+
+= 36 m
+
+Euõµn®
+
+K´Â¼¸¢x C¯UPzøu Bµ®¤US® ö£õ¸Ò JßÖ 4s CÀ J¸ ^µõÚ Bº•kP¾US Em£mk 12 ms-1 ÷ÁPzøu¨ ö£ÖQßÓx. Auß ¤ßÚº ÷©¾® 4 s CØSa ^µõÚ ÷ÁP® 12 ms-1 Ehß C¯[S® A¨ö£õ¸Ò CÖv°À 2 s ^µõÚ A©º•kP¾hß K´ÄUS Á¸QßÓx.
+
+C»Á\¨ £õh¡À37
+
+i. •uÀ 4 ö\UPÝUS Bº•kPø»U PoUP.
+
+ii. CÖv 2 ö\UPÛÀ A©º•kPø»U PõsP.
+
+iii. C¢u 10 ö\UPßPÎÀ ö£õ¸Îß Ch¨ö£¯ºa] ¯õx?
+
+Âøh
+
+i. •uÀ 4 ö\UPÛÀ Bº•kPÀ = 12 ms-1
+
+4 s = 3 ms-2
+
+ii. CÖv 2 ö\UPÛÀ Bº•kPÀ = (0-12) ms-1
+
+2 s
+
+= -6 ms-2
+
+L A©º•kPÀ = 6 ms-2
+
+iii. •uÀ 4 ö\UPÛÀ Ch¨ö£¯ºa] = (0 + 12) ms-1 x 4 s
+
+2
+
+= 24 m
+
+CµshõÁx 4 ö\UPÛÀ Ch¨ö£¯ºa] = ^µõÚ ÷ÁP® × ÷|µ®
+
+= 12 ms-1 × 4 s
+
+= 48 m
+
+CÖv 2 ö\UPÛÀ Ch¨ö£¯ºa] = × 2 s(12 + 0) ms-1
+
+2
+
+= 12 m
+
+C¢u 10 ö\UPÛÀ ö©õzu Ch¨ö£¯ºa] = 24 m + 48 m + 12 m
+
+= 84 mAuõÁx ö£õ¸Îß CÖv Aø©Ä Bµ®£ Aø©Â¼¸¢x ÷|º ÷PõmiÀ 84 m A¨£õÀ EÒÍx.
+
+C»Á\¨ £õh¡À38
+
+£°Ø] 2.21. 6 ö\UPÛÀ J¸ ö£õ¸Îß ÷ÁP® 0 C¼¸¢x 12 ms-1 CØS ©õÖö©Ûß, A¨ö£õ¸Îß Bº•kPø»U PõsP.
+
+2. J¸ ö£õ¸Îß ÷ÁP® 4 ö\UPÛÀ 16 ms-1 C¼¸¢x 4 ms-1 CØS ©õÖö©Ûß, A¨ö£õ¸Îß A©º•kPø»U PoUP.
+
+3. K´Â¼¸¢x C¯UPzøu Bµ®¤zu ö£õ¸Ò JßÖ Bº•kPÀ 0.5 ms-2 Ehß 10 s CØS C¯[Sö©Ûß, A¢u 10 s CÀ CÖv°À ö£õ¸Îß ÷ÁPzøuU PõsP.
+
+4. J¸ ÷|º÷Põmk¨ £õøu°À C¯[QUöPõsi¸US® ö£õ¸Ò JßÔß ÷ÁP® J¸ SÔzu PnzvÀ 2 ms-1 BS®. Ax 4 ö\UPÛÀ J¸ SÔzu Bº•kP¼ØS Em£kQßÓø©¯õÀ, ÷ÁP® 6 ms-1 CØS ©õÔ¯x. C¢u 4 ö\UPÛÀ ö£õ¸Îß Bº•kPø»U PoUP.
+
+2.5 Ch¨ö£¯ºa] & ÷|µ Áøµ¦
+
+÷|µzvØ÷PØ£ Ch¨ö£¯ºa] ©õÖ® Âuzøu ÁøPSÔUS® Áøµ£õÚx Ch¨ö£¯ºa] & ÷|µ Áøµ¦ GÚ¨£k®.
+
+Ch¨ö£¯ºa]ø¯ y & Aa_ ÁÈ÷¯²® ÷|µzøu x& Aa]¾® SÔzx CÆÁøµ¦ Áøµ¯¨£kQßÓx.
+
+¤ßÁ¸® AmhÁøn°À ÷|µzxhß Ch¨ö£¯ºa] ©õÖuÀ Põmh¨£mkÒÍx. CzuµÄPÐUPõP Kº Ch¨ö£¯ºa] & ÷|µ Áøµø£ E¸ÁõUS÷Áõ®.
+
+÷|µ® (t) / s012345
+
+Ch¨ö£¯ºa] (s) / m03691215
+
+AzuµÄPÐUPõÚ Áøµ¦ R÷Ç uµ¨£mkÒÍx.
+
+Ch¨ö£¯ºa] (s) / m
+
+÷|µ® (t) / s
+
+3
+
+012345
+
+6
+
+9
+
+12
+
+15
+
+(4,12)
+
+(3,9)
+
+(2,6)
+
+(1,3)AC
+
+(5,15)B
+
+C»Á\¨ £õh¡À39
+
+CÆ÷ÁP® ^µõÚuõøP¯õÀ C[S G©US J¸ ÷|º÷Põmk Áøµ¦ QøhUQßÓx.
+
+CÆÁøµ¤ß £izvÓøÚU Põs÷£õ®.
+
+÷|º÷Põk «x EÒÍ A, B GßÝ® C¸ ¦ÒÎPøÍz öu›¢öuk¨÷£õ®. AuØ÷PØ£ ÷|º÷Põmiß
+
+£izvÓß
+
+4
+
+C[S ÷Põk (0,0) CÞhõPa ö\ÀQßÓø©¯õÀ, ÷Põk «x EÒÍ J¸ ¦ÒÎ°ß y BÒTøÓ x BÒTÔÚõÀ ÁS¨£uß ‰»® £izvÓøÚ¨ ö£Ó»õ®. x Aa]ÚõÀ ÷|µ•® y Aa]ÚõÀ Ch¨ö£¯ºa]ø¯²® ÁøPSÔUP¨£kQßÓø©¯õÀ,
+
+£izvÓß =y Aa]ß BÒTÖx Aa]ß BÒTÖ
+
+£izvÓß = Ch¨ö£¯ºa]÷|µ®=÷ÁP®
+
+AuõÁx Kº Ch¨ö£¯ºa] & ÷|µ Áøµ¤ß £izvÓÛ¼¸¢x ÷ÁP® QøhUQßÓx.
+
+÷©¾® CÆÁøµ¦ J¸ ÷|º÷Põmk Áøµ£õS®. ÷ÁP® ^µõÚöuÚ Cv¼¸¢x öuÎÁõQßÓx.
+
+2.6 ÷ÁP & ÷|µ Áøµ¦
+
+÷|µzxhß ÷ÁP® ©õÖ® Âuzøu ÁøPSÔ¨£uØS ÷ÁP & ÷|µ Áøµ¦ £¯ß£kzu¨£kQßÓx.
+
+÷ÁPzøu y Aa_ ÁÈ÷¯²® ÷|µzøu × Aa]¾® SÔzx CÆÁøµ¦ Áøµ¯¨£kQßÓx.
+
+J¸ ö£õ¸Îß ÷|µzxhß ÷ÁP® ©õÖuÀ CÆÁmhÁøn°Ø Põn¨£kQßÓx.
+
+÷|µ® (t) / s0123456
+
+÷ÁP® (v) / ms-10369121518
+
+C»Á\¨ £õh¡À40
+
+CzuµÄPÐU÷PØ£ J¸ ÷ÁP & ÷|µ Áøµø£ Áøµ÷Áõ®.
+
+÷ÁP® (v) ms-1
+
+÷|µ® (t) s
+
+3
+
+0123456
+
+6
+
+9
+
+12
+
+15
+
+18
+
+C[S £izvÓß = ÷ÁP©õØÓ®÷|µ®
+
+= Bº•kPÀ
+
+Bº•kPÀ = (18 - 0) ms-1
+
+6 s
+
+= 3 ms-2
+
+^µõÚ ÷ÁP® 15 ms-1 Ehß C¯[S® ö£õ¸Ò JßÔß ÷ÁP & ÷|µ Áøµ¦ R÷Ç Põn¨£kQßÓx.
+
+÷ÁP® (v) ms-1
+
+÷|µ® (t) s
+
+15
+
+12
+
+9
+
+6
+
+3
+
+1 2 3 4 5 6 0
+
+C»Á\¨ £õh¡À41
+
+^µõÚ ÷ÁP® 9 ms-1 Ehß 10 ö\UPÛØS C¯[Suø» J¸ ÷ÁP & ÷|µ Áøµ¤Ø PõmkP.
+
+÷ÁP® (v) m s-1
+
+÷|µ® (t) s
+
+3
+
+6
+
+9
+
+100
+
+ J¸ ^µõÚ ÷ÁPzxhß C¯[S® ö£õ¸Ò JßÔß Ch¨ö£¯ºa] Áøµ¤À ÷|µ Aa_hß AÀ»x -x Aa_hß EÒÍhUP¨£k® ¤µ÷u\zvß £µ¨£ÍÂØSa Gs AÍÂÀ \©ö©Ú¨ ¤ßÁ¸® Euõµnzvß ‰»® ÂÍUS÷Áõ®.
+
+÷ÁP® (v) s ms-1
+
+÷|µ® (t) s
+
+6
+
+80
+
+6 ms -1
+
+8 s
+
+÷ÁP® = Ch¨ö£¯ºa]
+
+÷|µ®
+
+Ch¨ö£¯ºa] = ÷ÁP® x ÷|µ®
+
+Ch¨ö£¯ºa] = 6 ms-1 x 8 s
+
+= 48 m
+
+C»Á\¨ £õh¡À42
+
+÷©ØSÔzu Áøµ¦ x - Aa_hß EÒÍhUP¨£k® ¤µ÷u\zvß £µ¨£ÍÄ
+
+= 6 ms-1 × 8 s = 48 m,
+
+AuõÁx ^µõÚ ÷ÁPzvÀ C¯[S® ö£õ¸Ò JßÔß Ch¨ö£¯ºa], ÷ÁP & ÷|µ Áøµ¦ x - Aa_hß EÒÍhUP¨£k® ¤µ÷u\zvß £µ¨£ÍÂß Gs ö£Ö©õÚzvØSa \©® Gß£x öuÎÁõS®.
+
+yy^µõÚ Bº•kP¾hß C¯[S® ö£õ¸Ò JßÔß Ch¨ö£¯ºa], ÷ÁP & ÷|µ Áøµø£U öPõsk Põn¨£k® Âu® £ØÔ AkzuuõP¨ £õº¨÷£õ®.
+
+K´Â¼¸¢x C¯UPzøu Bµ®¤US® ö£õ¸Ò JßÖ J¸ ^µõÚ Bº•kP¼ØS Em£mk 4 s CÀ 12 ms-1 ÷ÁPzøu¨ AøhQßÓx.
+
+CÆÂ¯UPzøu ÁøPSÔUS® ÷ÁP & ÷|µ Áøµø£ Áøµ¢x, Av¼¸¢x ö£õ¸Îß Ch¨ö£¯ºa]ø¯U PõsP.
+
+•u¼À ÷ÁP & ÷|µ Áøµø£ Áøµ÷Áõ®.
+
+÷ÁP®(v) ms-1
+
+÷|µ® (t) s
+
+12
+
+43210
+
+ö£õ¸Îß Ch¨ö£¯ºa] = \µõ\› ÷ÁP® × ÷|µ®
+
+= 12 m s-1
+
+× 4 s 2
+
+= 24 m
+
+÷©ØSÔzu Áøµ¦ ÷|µ Aa_hß EÒÍhUP¨£k® ¤µ÷u\zvß £µ¨£ÍÄ
+
+=
+
+12124××= 24 m
+
+C»Á\¨ £õh¡À43
+
+CÆÂøh ö£Ó¨£mkÒÍ Âuzøu «sk® ÷|õUS÷Áõ©õ°ß.
+
+Ch¨ö£¯ºa] =
+
+12 × 4
+
+2
+
+12 ÷ 2 BÚx \µõ\› ÷ÁP©õS®.
+
+Ch¨ö£¯ºa] = \µõ\› ÷ÁP® × ÷|µ®
+
+SÔzu ÷ÁPzxhß C¯[S® ö£õ¸Ò JßÖ ^µõÚ A©º•kP¾US Em£mk K´ÄUS Á¸QÓx. CÆÂ¯UP® £ØÔ¯ ÷ÁP & ÷|µ Áøµ¦ x - Aa_hß EÒÍhUP¨£k® £µ¨£ÍÂß Gs ö£Ö©õÚzvØSa \©®.
+
+Euõµn®
+
+÷ÁP® 8 ms-1 Ehß C¯[QUöPõsi¸¢u ö£õ¸Ò JßÖ ^µõÚ A©º•kP¼ØS Em£mk 4 ö\UPÛÀ Kº K´ÄUS Á¸QßÓx. CÆÂ¯UP® öuõhº£õÚ ÷ÁP & ÷|µ Áøµø£ Áøµ¢x, 4 ö\UPÛÀ ö£õ¸Îß Ch¨ö£¯ºa]ø¯U PõsP.
+
+÷ÁP® (v) ms-1
+
+÷|µ® (t) s
+
+8
+
+40
+
+ö£õ¸Îß Ch¨ö£¯ºa] = 8 / 2 ms-1 × 4 s
+
+= 16 m¤ßÁ¸® ¤µ]ÚzøuU P¸xP.
+
+K´Â¼¸¢x C¯UPzøu Bµ®¤US® ö£õ¸Ò JßÖ 6 ö\UPÛÀ J¸ ^µõÚ Bº•kP¾US Em£mk ÷ÁP® 15 ms-1 I¨ ö£ÖQßÓx. Auß ¤ßÚº AÆ ÷ÁPzxhß ^µõP ÷©¾® 6 ö\UPÛØS C¯[S® A¨ö£õ¸Ò CÖv°À J¸ ^µõÚ A©º•kP¼ØS Em£mk 3 ö\UPÛÀ K´ÄUS Á¸QßÓx.
+
+C»Á\¨ £õh¡À44
+
+(i) CÆÂ¯UP® £ØÔ¯ ÷ÁP & ÷|µ Áøµø£ ÁøµP.
+
+(ii) •uÀ 6 s CÀ Bº•kPø»U PõsP.
+
+(iii) •uÀ 6 s CÀ C¯[Q¯ yµ® ¯õx?
+
+(iv) ^µõÚ ÷ÁPzxhß C¯[Q¯ yµ® ¯õx?
+
+(v) CÖv 3 s CÀ A©º•kPÀ ¯õx?
+
+(vi) CÖv 3 s CÀ C¯[Q¯ yµ® ¯õx?
+
+(vii) (a) C®•Ê ÷|µzv¾® C¯[Q¯ ö©õzuz yµzøuU Põs£uØS ÷ÁP & ÷|µ Áøµø£U öPõsk J¸ ÷PõøÁø¯ GÊxP.
+
+(b) AU÷PõøÁø¯U öPõsk C¯[Q¯ •Êz yµzøu²® PõsP.
+
+Âøh
+
+(V) / m s-1
+
+(t) / s
+
+BA
+
+CO
+
+(ii) •uÀ 6 ö\UPÛÀ Bº•kPÀ -= Áøµ¤À £Sv OA °ß £izvÓß
+
+= 15 ms-1
+
+6 s = 2.5 ms-2
+
+(iii) •uÀ 6 ö\UPÛÀ C¯[Q¯ yµ® = Áøµ¤À OA, X - Aa_hß EÒÍhUS® ¤µ÷u\zvß £µ¨£ÍÄ
+
+= 12 × 6s × 15 ms-1
+
+= 45m
+
+(iv) ^µõÚ ÷ÁPzxhß C¯[Q¯ yµ® = Áøµ¤ß AB, X - Aa_hß EÒÍhUS® ¤µ÷u\zvß £µ¨£ÍÄ
+
+= 15 ms-1 x 6 s = 90 m
+
+C»Á\¨ £õh¡À45
+
+(v) CÖv 3 ö\UPÛÀ Bº•kPÀ = (0 - 15) ms-1
+
+3 s= -5 ms-2
+
+AuõÁx A©º•kPÀ = 5 ms-2
+
+(vi) CÖv 3 ö\UPÛÀ C¯[Q¯ yµ®
+
+× 3 s = (15 + 0) ms-1
+
+2= 22.5 m
+
+(vii) (a) C¯[Q¯ ö©õzuz yµ® = \›ÁP® OABC °ß £µ¨£ÍÄ
+
+(b) C¯[Q¯ ö©õzuz yµ®
+
+x 15= (15 + 6) s
+
+2= 21 2= 157.5 m
+
+x 15 m
+
+ms-1
+
+yy ÁõPÚ ö|›\À Tku»õP C¸US® \¢uº¨£[PÎÀ J¸ ÁõPÚzvß Pv SøÓ¢x TkQßÓx. CÆ JÊ[PØÓ Pvø¯ «sk® ^µõUSÁuØS Gg]ÚõÀ ¤µ÷¯õQUP ÷Ási¯ Âø\ AvP›UP¨£kQÓx. CuÚõÀ G›ö£õ¸Ò Âµ¯©õQßÓx. ÁõPÚ ö|›\À SøÓÁõP EÒÍ ÷|µ[PÎÀ ÷©õmhº ÁõPÚ[PÒ ö\ÀÁuØS¨ £¯ß£kzu¨£k® G›ö£õ¸Ò Âµ¯zøuU SøÓUP •i²®.
+
+2.7 ¦Â±º¨¤Úõ»õÚ Bº•kPÀ
+
+J¸ ö£õ¸Ò ÷©÷»°¸¢x ÂÊ®÷£õx Auß ÷ÁP® AvP›UQßÓx. AuõÁx, Bº•kP¾hß C¯[SQßÓx. Kº Bº•kPÀ HØ£kÁuØS¨ ö£õ¸Ò «x J¸ Âø\ uõUP ÷Ásk®. J¸ ö£õ¸Ò ÷©÷»°¸¢x ÂÊ®÷£õx A¨ö£õ¸Îß «x uõUS® Âø\ ¦Â±º¨¦ Âø\¯õS®. ¦Â±º¨¦ Âø\ Põµn©õP EshõS® Bº•kPÀ ¦Â±º¨¦ Bº•kPÀ GÚ¨£k®. Auß SÔ±k g BS®.
+
+¦Â±º¨¦ Bº•kPÀ g CØS¨ \µõ\›¨ ö£Ö©õÚ® 9.8 ms-2 BP C¸¢uõ¾® Po¨¦PÎß Á\vUPõP {¯©¨ ö£Ö©õÚ©õP 10 ms-2 ö£Ö©õÚ® ö£õxÁõP¨ £¯ß£kzu¨£kQßÓx. J¸ ö£õ¸Ò ÷©÷»°¸¢x ÂÊ®÷£õx JÆöÁõ¸ ö\UPÛ¾® Auß ÷ÁP® 10 ms-1 Ãu® AvP›UQßÓx Gß£x Cuß P¸zuõS®.
+
+C»Á\¨ £õh¡À46
+
+J¸ ö£õ¸Ò {ø»USzuõP ÷©À÷|õUQa ö\À¾®÷£õx Auß ÷ÁP® JÆöÁõ¸ ö\UPÛ¾® 10 ms-1 Ãu® SøÓQßÓx. (- BQßÓx)
+
+BP÷Á, J¸ ö£õ¸Ò {ø»USzuõP ÷©À÷|õUQa ö\À¾®÷£õx ¦Â±º¨¤Úõ»õÚ Bº•kPÀ (g) CØS›¯ ö£Ö©õÚ® -10 ms-2 BS®.
+
+yyK´ÂÀ C¸¢x ÷|µi¯õPU RÌ÷|õUQa ö\À¾® ö£õ¸Ò JßÖ uøµø¯ AøhÁuØS 4 ö\UPß GkzuöuÚU öPõÒP. uøµø¯ Aøh²® ÁøµUS® Auß ÷ÁP® ©õÖ® Âuzøu¨ ¤ßÁ¸©õÖ Põmh»õ®.
+
+ÂÊuÀ Bµ®¤US® ÷£õx ÷ÁP® = 0J¸ ö\UPß GkUS® ÷£õx ÷ÁP® = 10 ms-1
+
+2 ö\UPß GkUS® ÷£õx ÷ÁP® = 20 ms-1
+
+3 ö\UPÛØS¨ ¤ßÚº ÷ÁP® = 30 ms-1uøµ°À ÂÊÁuØS 4 ö\UPß GkUQßÓø©¯õÀ, 4 ö\UPÛØS¨ ¤ßÚº, AuõÁx uøµø¯ Aøh²® PnzvÀ ÷ÁP® = 40 ms-1
+
+4 ö\UPÛÀ ö£õ¸Ò C¯[Q¯ yµ® (E¯µ®) = \µõ\› ÷ÁP® × ÷|µ®
+
+x 4 s= (0 + 40) ms-1
+
+2= 80 m AÆÂ¯UPzvØS ÷ÁP & ÷|µ Áøµø£ Áøµ÷Áõ®.
+
+(V) ms-1
+
+(t) s
+
+Áøµ¦ X - Aa_hß EÒÍhUS® ¤µ÷u\zvß £µ¨£ÍÄ = C¯[Q¯ yµ®
+
+C»Á\¨ £õh¡À47
+
+= 40 ms-1 x 4 s 2= 80 m
+
+yy20 ms-1 ÷ÁPzxhß {ø»USzuõP ÷©À÷|õUQ AÝ¨£¨£mh J¸ ö£õ¸Ò Ea\ E¯µzøu Aøh¢x, «sk® RÌ÷|õUQ C¯[P Bµ®¤zu Chzøu Aøhuø» ÁøPSÔUS® ÷ÁP & ÷|µ Áøµø£ Áøµ÷Áõ®.
+
+÷ÁP® ©õÔ¯ Âu®
+
+t (s)012
+
+v (ms-1)20100
+
+V (m s-1)
+
+t (s)
+
+Euõµn®
+
+J¸ ö£õ¸Ò 30 ms-1 ÷ÁPzxhß {ø»USzuõP ÷©À÷|õUQ AÝ¨£¨£mhx. A¨ö£õ¸Ò Aøh¢u Ea\ E¯µ® öuõhº£õP,
+
+(i) A¨ö£õ¸Îß ÷ÁP® ©õÖ® ÷Põ»zøuU PõmkÁuØS J¸ ÷ÁP & ÷|µ AmhÁønø¯z u¯õ›UP.
+
+(ii) AÆÂ¯UPzøu ÁøPSÔ¨£uØS J¸ ÷ÁP & ÷|µ Áøµø£ ÁøµP.
+
+(iii) A¨ö£õ¸Ò Aøh¢u Ea\ E¯µzøuU PõsP.
+
+C»Á\¨ £õh¡À48
+
+Âøh
+
+(i) t (s)0123
+
+v (m s-1)3020100
+
+(ii)
+
+(V) ms-1
+
+(t) s
+
+(iii) ö£õ¸Ò Aøh¢u Ea\ E¯µ® = Áøµ¦ X - Aa_hß EÒÍhUS® £µ¨£ÍÄ
+
+x 3 s = 30 ms-1
+
+2= 45 m
+
+C»Á\¨ £õh¡À49
+
+ö£õÈ¨¦
+
+C¯[S® ö£õ¸Ò JßÖ C¯[Q¯ yµ®, ö©õzu £õøu°ß }ÍzvÚõÀ Põmh¨ £k®.
+
+C¯[S® ö£õ¸Ò JßÔß uõÚzøu {a\¯¨£kzx® Po¯® Ch¨ ö£¯ºa]¯õS®.
+
+· Ch¨ö£¯ºa]ø¯U PõmkÁuØS C¯UP® Bµ®¤zu uõÚz-v¼¸¢x CÖvz uõÚzvØS Cøh÷¯ EÒÍ ÷|º÷Põmkz yµ•® vø\²® AÁ]¯©õS®.
+
+· Ch¨ö£¯ºa] J¸ PõÂU Po¯©õS®.
+
+· yµzvØS¨ £¸©ß ©õzvµ® Esk. Ax Kº GsoU Po¯©õS®.
+
+C¯UPzvß Ãu® AÀ»x Kµ»S ÷|µzvÀ ö\À¾® yµ® Pv GÚ¨£k®. Pv Kº GsoU Po¯©õS®.
+
+""Ch¨ö£¯ºa] ©õØÓ Ãu®'' Gß£x ÷ÁP® BS®.
+
+yy÷ÁPzvØS¨ £¸©øÚ¨ ÷£õÀ vø\²® Esk BøP¯õÀ Ax J¸ PõÂU Po¯©õS®.
+
+· ÷ÁP® ©õØÓ Ãu® Bº•kP»õS®. Ch¨ö£¯ºa], ÷ÁP­- -& ÷|µ Áøµ¦ – & Aa_hß EÒÍhUP¨£k® £µ¨£ÍÂß Gs ö£Ö©õÚzvØSa \©ÚõS®.
+
+·
+
+Ch¨ö£¯ºa] ÷ÁP® = ÷|µ®
+
+©øÓ Bº•kPÀ Gß£x A©º•kP»õS®. (Bº•kP¼ß ©øÓ¨ ö£Ö©õÚ® A©º •kP»õS®.)
+
+C»Á\¨ £õh¡À50
+
+£°Ø]
+
+1. (i) yµzvØS® Ch¨ö£¯ºa]USªøh÷¯ EÒÍ ÷ÁÖ£õmøh ÂÍUSP.
+
+(ii) J¸ SÔzu \¢uº¨£zvÀ ¤ÒøÍ JßÖ C¯[Q¯ Âu® ¤ßÁ¸® E¸ÂÀ Põn¨£kQßÓx. Bµ®¤zu uõÚ® A ²® CÖvz uõÚ® C ²® BS®.
+
+A
+
+BC 900
+
+20 m
+
+15 m
+
+(a) C[S ¤ÒøÍ ö\ßÓ ö©õzuz yµ® ¯õx?
+
+(b) ¤ÒøÍ°ß Ch¨ö£¯ºa] ¯õx?
+
+(c) ¤ÒøÍ A °¼¸¢x B °ÞhõP C ÁøµUS® öuõhºa]¯õPa ö\ßÓx AuØPõP Ax Gkzu ÷|µ® 5 s GÛß,
+
+i. ¤ÒøÍ°ß Pv
+
+ii. ¤ÒøÍ°ß ÷ÁP®
+
+BQ¯ÁØøÓU PõsP.
+
+2. (i) PõÂU Po¯[PÐUS® GsoU Po¯[PÐUSªøh÷¯ EÒÍ ÷ÁÖ£õmøha _¸UP©õP ÂÍUSP.
+
+(ii) ¤ßÁ¸ÁÚÁØøÓ¨ ö£ÍvPU Po¯[PÍõPÄ® PõÂU Po¯[PÍõPÄ® GsoU Po¯[PÍõPÄ® £õS£kzxP.
+
+(iii) J¸ ÷|º÷Põmk¨ £õøu ÁÈ÷¯ ö£õ¸Ò JßÔß C¯UP® |øhö£ØÓ Âu® R÷Ç uµ¨£mkÒÍ Ch¨ö£¯ºa] & ÷|µ Áøµ¤À Põn¨£kQßÓx.
+
+C»Á\¨ £õh¡À51
+
+0
+
+10
+
+12
+
+Ch¨ö£¯ºa] (s) / m
+
+345678
+
+÷|µ®^t) / s
+
+(a) ö£õ¸Ò C¯UPzøu Bµ®¤zx, C¯[Q¯ vø\°À GÆÁÍÄ yµ® ö\ßÖÒÍx?
+
+(b) Azyµzøu GÆÁÍÄ ÷|µzvÀ ö\ßÓx?
+
+(c) A¢÷|µzvÀ ö£õ¸Îß ÷ÁPzøuU PõsP.
+
+(d) 4 öuõhUP® 6 Áøµ²ÒÍ ö\UPÛÀ ö£õ¸Îß C¯UP® öuõhº£õP GßÚ TÓ»õ®?
+
+(e) 6 öuõhUP® 8 Áøµ²ÒÍ ö\UPÛÀ ö£õ¸Îß C¯UP® öuõhº£õP GßÚ TÓ»õ®?
+
+3. (i) J¸ SÔzu ö£õ¸Îß ÷ÁP® 5 ö\UPÛÀ 10 ms-1 C¼¸¢x 25 ms-1 CØS ©õÖö©Ûß, A¢÷|µzvÀ A¨ö£õ¸Îß Bº•kPÀ ¯õx?
+
+(ii) ÷©ØSÔzu C¯UP® öuõhº£õÚ ÷ÁP & ÷|µ Áøµø£ Áøµ¢x, Av¼¸¢x, A¢u 5 ö\UPÛÀ ö£õ¸Ò C¯[Q¯ yµzøuU PõsP.
+
+(iii) J¸ SÔzu ö£õ¸Îß ÷ÁP® ÷|µzvØ÷PØ£ ©õÔ¯ Âu® ¤ßÁ¸® Áøµ¤À Põn¨£kQßÓx.
+
+C»Á\¨ £õh¡À52
+
+0
+
+6
+
+÷ÁP® (V) / ms-1
+
+÷|µ® (t) / s
+
+3 6 9 12 15
+
+(a) •uÀ 6 ö\UPÛÀ ö£õ¸Îß Bº•kPø»U PõsP. (b) •uÀ 6 ö\UPÛÀ ö£õ¸Îß Ch¨ö£¯ºa] ¯õx? (c) ö£õ¸Ò ^µõÚ ÷ÁPzxhß C¯[Q¯ yµ® ¯õx? (d) CÖv 3 ö\UPÛÀ ö£õ¸Îß A©º•kPø»U PoUP.
+
+4. K´Â¼¸¢x C¯UPzøu Bµ®¤US® ö£õ¸Ò JßÖ J¸ ÷|º÷Põmk¨ £õøu ÁÈ÷¯ ^µõÚ Bº•kP¾hß C¯[Q 8 ö\UPÛÀ ÷ÁP® 12 ms-1 I¨ ö£ÖQßÓx. Auß ¤ßÚº ^µõÚ ÷ÁP® 12 ms-1 Ehß ÷©¾® 4 ö\UPÛØS C¯[SQßÓx. CÖv°À J¸ ^µõÚ A©º•kP¼ØS Em£mk 4 ö\UPÛÀ K´ÄUS Á¸QßÓx.
+
+(i) CÆÂ¯UP® öuõhº£õÚ ÷ÁP & ÷|µ Áøµø£ ÁøµP. (ii) •uÀ 8 ö\UPÛÀ ö£õ¸Îß Bº•kPÀ ¯õx? (iii) •uÀ 8 ö\UPÛÀ ö£õ¸Ò C¯[Q²ÒÍ yµ® ¯õx? (iv) ^µõÚ ÷ÁPzxhß C¯[Q¯ yµ® ¯õx? (v) 12 s öuõhUP® 16 s Áøµ²ÒÍ ÷|µzvÀ ö£õ¸Îß A©º•kPÀ ¯õx? 5. K´ÂÀ C¸¢x C¯[P Bµ®¤zu J¸ ö£õ¸Îß ÷ÁP® 16 ms-1 CØS AvP›¨£uØS 8 ö\UPß GkUQßÓx. Auß ¤ßÚº A÷u ÷ÁPzxhß ^µõP ÷©¾® 4 ö\UPÝUSa ö\À¾® A¨ö£õ¸Ò CÖv°À J¸ ^µõÚ A©º•kP¼ØS Em£mk 4 ö\UPÛÀ K´ÄUS Á¸QßÓx.
+
+(i) CÆÂ¯UPzøu ÁøPSÔUS® ÷ÁP & ÷|µ Áøµø£ ÁøµP.(ii) •uÀ 8 ö\UPÛÀ Bº•kPø»U PõsP.(iii) A¢u 8 ö\UPÛÀ ö£õ¸Ò C¯[Q¯ yµ® ¯õx?(iv) 16 ms-1 GßÝ® ^µõÚ ÷ÁP® C¸¢u ÷|µzvÀ C¯[Q¯ yµ® ¯õx?(v) CÖv 4 ö\UPÛÀ A©º•kPø»U PõsP.(vi) A¢u 4 ö\UPÛÀ C¯[Q¯ yµ® ¯õx?
+
+C»Á\¨ £õh¡À53
+
+6. (i) ö£õ¸öÍõßÖ E¯µ©õÚ Chzv¼¸¢x {»zøu AøhÁuØS 4 ö\UPßPÒ GkzuÚ.
+
+(a) Ax {»zøu Aøh²® ÷£õx Auß ÷ÁP® ¯õx?
+
+(b) Ax ÂÊ¢u E¯µzøuU PõsP.
+
+(ii) 30 ms-1 GßÝ® Bµ®£ ÷ÁPzxhß ö£õ¸öÍõßÖ {ø»USzuõP ÷©À÷|õUQa ö\¾zu¨£kQßÓx. (g = 10 ms-2 )
+
+(a) ö£õ¸Ò Ea\ E¯µzøu Aøh¯ GkUS® ÷|µzøuU PõsP.
+
+(b) ö£õ¸Ò Aøh²® Ea\ E¯µzøuU PõsP.
+
+(c) ö£õ¸Ò Ea\ E¯µzøu Aøh¢x «sk® Bµ®£ Chzøu Aøh²® ÁøµUS©õÚ C¯UPzvØS›¯ ÷ÁP ÷|µ Áøµø£ ÁøµP.
+
+yµ® - Distance
+
+Ch¨ö£¯ºa] - Displacement
+
+ö£õ¸Ò - Object
+
+PõÂU Po¯® - Vector quantity
+
+GsoU Po¯® - Scalar quantity
+
+Pv - Speed
+
+÷ÁP® - VelocityBº•kPÀ - Acceleration
+
+A©º•kPÀ - Retardation / (Deceleration)
+
+¦Â±º¨¤Úõ»õÚ Bº•kPÀ - Acceleration due to gravity
+
+Pø»aö\õØPÒ

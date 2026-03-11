@@ -1,0 +1,303 @@
+==== BLOCKS ==== 
+
+C»Á\¨ £õh¡À
+
+143
+
+÷PzvµPou, ö£õÔ•øÓ ÁøµuÀ Gß£x ~m£ •øÓPÎß RÌ £h[PÍõPz uPÁÀPÍõP •ßøÁUS® J¸ \UvÁõ´¢u \ºÁ÷u\ FhP©õS®. CÆÁõÖ uPÁÀPøÍU PõmkÁuØS¨ £À÷ÁÖ ö£¯ºPÎÀ AøÇUP¨£k® öÁÆ÷ÁÖ uPÁÀPøÍ •ßøÁUPzuUP ÷PõkPÒ •ØÓõP¨ £[PÎ¨¦a ö\´QßÓÚ. BP÷Á, ÷PõkPÎß ÁøPPÒ £ØÔ AÔÁuØS CÆÁzv¯õ¯zvÀ AøÁ £ØÔ¯ ]» Âh¯[PÒ GkzxøµUP¨£kQßÓÚ. uõÚ¨£kzv¯ J¸ ¦ÒÎø¯ J¸ SÔzu Âø\ø¯¨ ¤µ÷¯õQzxz uÒÍ •i²ö©Ûß, Auß ‰»® J¸ ÷Põk ÁøPUSÔUP¨£kQßÓx. J¸ ÷PõmiøÚ Aø©US®÷£õx JßÖUöPõßÖ AkzxÒÍ ¦ÒÎUPmhzvß £[PÎ¨¦U QøhUQßÓx. J¸ ÷PõmiøÚ GÆÁõÓõ°Ý® Áøµ¢x uPÁÀ PøÍU PõmkÁuØS •øÓø©¯õP Áøµ¯¨£k® ÷PõkPÒ £ØÔ AÔ¢x öPõÒÍÀ AÁ]¯©õS®. CuØ÷PØ£¨ ¤ßÁ¸® ÷Põmk ÁøPPÒ £ØÔ¯ \õuõµn Âh¯[PøÍ AÔÁuØPõÚ BØÓÀ QøhUS® A÷u÷ÁøÍ ÷©¾® PØ£uß ‰»® ÷©»vP uPÁÀPøÍ¨ ö£Ó»õ®.
+
+¦ÒÎ ^Point&
+
+J¸ ¦ÒÎ°ÚõÀ J¸ uõÚ® ÁøPSÔUP¨£kQßÓx. CuØS¨ £¸©ß CÀø» J¸ ¦ÒÎ J¸ SØÔÚõÀ Áøµ¢x Põmh¨£k®.
+
+÷PõkPÒ (Lines)
+
+J¸ ¦ÒÎ ö\À¾® £õøu ÷PõhõS®.
+
+08
+
+öuõÈÝm£ Aø©¨¦PÐUS¨ £¯ß£kzu¨£k® uÍ E¸Á[PÒ
+
+C»Á\¨ £õh¡À
+
+144
+
+÷|º÷Põk ^Straight Line&
+
+1
+
+2
+
+34
+
+PQ
+
+E¸ 8'1 P,Q GßÝ® C¸ ¦ÒÎPøÍz öuõk¨£uØPõÚ ]» Âu[PÒ CÆÄ¸Âß ‰»® Põmh¨£mkÒÍÚ. C[S P ø¯²® Q øÁ²® öuõkUS©õÖ Áøµ¯¨£mkÒÍ |õßS ÁøPU ÷PõkPÎÀ ‰ßÓõÁx ÷Põmiß }Í® SøÓÁõS®. CÆÁõÖ C¸ ¦ÒÎPøÍz öuõkUS® ªPUSÖQ¯ }Í•ÒÍ ÷Põk ÷|º÷Põk GÚ¨£k®.
+
+{ø»USzxU ÷Põk (Vertical line)
+
+E¸ 8'2
+
+{ø»USzxU ÷Põk Gß£x uµ¨£mh J¸ ¦ÒÎ°¼¸¢x ¦Â°ß |k¨ ¦ÒÎ°ÞhõPa ö\À¾® ÷PõhõS®. Cx ¦Â°ß £µ¨¤ØSa ö\[SzuõS®. yUSUSsøh ¡¼À öuõ[PÂk®÷£õx {ø»USzxU ÷Põmiß ÁiÁ® Põmh¨£k®.
+
+C»Á\¨ £õh¡À
+
+145
+
+QøhU ÷Põk (orizontal Line)
+
+E¸ 8'3 {ø»USzxU ÷PõmiØSa ö\[SzuõP Áøµ¯¨£k® GÀ»õU ÷PõkPÐ® QøhU÷PõkPÍõS®.
+
+\õ´¢u ÷PõkPÒ
+
+E¸ 8'4 {ø»USzuõP AÀ»x Qøh¯õP CµõuÁõÖ Áøµ¯¨£k® ÷|º÷PõkPÒ \õ´¢u ÷PõkPÒ BS®.
+
+ÁøÍ¢u ÷PõkPÒ ^Curved Lines&
+
+E¸ 8'5
+
+C»Á\¨ £õh¡À
+
+146
+
+J¸ |k¨¦ÒÎ°¼¸ax \© yµzvÀ ö\À¾® ¦ÒÎ Põµn©õP J¸ ÁmhU ÷Põk Aø©UP¨£kQßÓx.
+
+\©õ¢uµU ÷PõkPÒ (Parallel Lines)
+
+E¸ 8'6 J¸ SÔzu ÷PõmiØSa \© yµzvÀ Áøµ¯¨£k® ÷ÁÖ ÷PõkPÒ \©õ¢uµU ÷PõkPÒ BS®. CøÁ ÷|ºa \©õ¢uµU ÷PõkPÍõP AÀ»x ÁøÍ¢u \©õ¢uµU ÷PõkPÍõP C¸UP»õ®. J¸ SÔzu }Ízøua _¸UQU PõmkÁuØS¨ ¤ßÁ¸® SÔ±mkU ÷Põmkz xsh® £¯ß£kzu¨£kQßÓx. CuØPõP ÁøÍö|Î (Zig Zag)
+
+SÔ £¯ß£kzu¨£kQßÓx.
+
+J¸ ÷|º÷PõmiøÚ |õßS \©£SvPÍõP¨ ¤›zuÀ.
+
+•• J¸ ÷|º÷PõmiøÚ Áøµ¢x AvÀ E›¯ yµzøuU SÔzx AB GÚ¨ ö£¯›kP.
+
+•• yµ® AB °ß AøµÁõ]°¾® Ti¯ J¸ yµzøuU PÁµõ¯zvÀ Gkzx A ,B BQ¯ÁØøÓ ø©¯[PÍõPU öPõsk JßøÓö¯õßÖ öÁmk©õÖ C¸ ÂØPøÍ Áøµ¢x ÂØPÒ öÁmk® Ch[PøÍz öuõkzx¨ ö£ØÓ ¦ÒÎø¯ C GÚ¨ ö£¯›kP.
+
+•• AC ø¯ AÆÁõ÷Ó C¸TÓõUQ¨ ¦ÒÎ D ø¯¨ ö£ÖP.
+
+•• yµ® AD ø¯U PÁµõ¯zvÚõÀ C °¼¸¢x SÔzx 4 \© £SvPøÍ¨ ö£ÖP.
+
+C»Á\¨ £õh¡À
+
+147
+
+E¸ 8'7 J¸ ÷|º÷PõmiøÚ ÂQuzvØS¨ ¤›zuÀ
+
+7 cm }Í•ÒÍ J¸ ÷|õº÷PõmiøÚ Áøµ¢x AuøÚ 3: 4: 5 GßÝ® ÂQuz vØS¨ ¤›zuÀ.
+
+••7 cm }Í•ÒÍ ÷|º÷PõmiøÚ Áøµ¢x AuøÚ AB GÚ¨ ö£¯›kP. ••AB Ehß J¸ Tº[÷Põnzøu Aø©US©õÖ A °¼¸¢x J¸ \õ´¢u ÷PõmiøÚ ÁøµP••J¸ SÔzu yµzøuU PÁµõ¯zvØS Gkzx, \õ´¢u ÷Põk ÁÈ÷¯ £SvPøÍU SÔzx 12 (3 +4+5= 12) B® ¦ÒÎø¯²® ¦ÒÎ B ø¯²® öuõkUP. ••¦ÒÎ 12 I²® 7 cm }Í•ÒÍ ÷Põmiß CÖv A¢uzøu²® öuõkzu ÷PõmiØSa \©õ¢uµ©õP 3,7 BQ¯ ¦ÒÎPÎÞhõPa \©õ¢uµU ÷Põk PøÍ Áøµ¢x 7 cm ÷PõmiøÚ öÁmi ÂQuz yµ[PøÍ¨ ö£ÖP.
+
+12
+
+3 4 5 67 8 9 10 11 12E¸ 8'8
+
+8 cm _ØÓÍÄÒÍ J¸ \©£UP •U÷Põoø¯ ÁøµuÀ
+
+••8 cm }Í•ÒÍ J¸ ÷|º÷Põk AB ø¯ ÁøµP
+
+C»Á\¨ £õh¡À
+
+148
+
+••AvÀ ¦ÒÎ A °¼¸¢x J¸ \õ´¢u AiU÷Põmiøn ÁøµP. AvÀ 3 \© £SvPøÍU SÔzx, CÖv¨ ¦ÒÎø¯²® B ø¯²® öuõkUP.••AuØSa \©õ¢uµ©õPU ÷PõkPøÍ Áøµ¢x AB ø¯ ‰ßÖ \© £SvPÍõP¨ ¤›zx A¨£SvPøÍ £UP[PÍõPU öPõsk •U÷Põoø¯ ÁøµP.
+
+12
+
+1
+
+2
+
+3E¸ 8'9
+
+11cm _ØÓÍÄÒÍx® £UP[PÐUQøh÷¯ EÒÍ ÂQu® 3:4:5 BPÄÒÍx©õÚ J¸ •U÷Põoø¯ ÁøµuÀ
+
+••11cm }Í•ÒÍ J¸ ÷|º÷Põk AB ø¯ Áøµ¢x. AvÀ ¦ÒÎ A°¼¸ ¢x J¸ Tº[÷Põnzøu BUS® J¸ \õ´¢u ÷PõmiøÚ ÁøµP. ••\õ´¢u ÷PõmiÀ 12 \© £SvPøÍU SÔUP.••¦ÒÎ B ø¯²® ¦ÒÎ 12 (3+ 4+ 5= 12) I²® öuõkzx AuØSa \©õ¢uµ©õP 3,7 BQ¯ ¦ÒÎPÎÞhõPa \©õ¢uµU ÷PõkPøÍ Áøµ¢x ÷Põk AB ø¯ öÁmkP.••÷Põk AB °ß ‰ßÖ öÁmi¯ £SvPøÍ²® £¯ß£kzv •U÷Põo ø¯ ÁøµP. C® •U÷Põo°ß ÷Põn[PÎß ö£Ö©õÚ[PøÍU PõmkP. E[PÒ Aø©¨¤ß ö\®ø©ø¯ EÖv¨£kzxP.
+
+C»Á\¨ £õh¡À
+
+149
+
+AB
+
+123456789 10 11 12E¸ 8'10
+
+Ámh[PÐ® öuõh¼PÐ® (Cricles and Tangents)
+
+Ámh[PÐhÝ® öuõh¼PÐhÝ® öuõhº¦£mh Aø©¨¦PÒ öuõÈÝm£ Áøµu¼À £¯ß£kzu¨£kQßÓÚ. P¨¤, ö\¾zx® £mi¨ £Ø]À¾, Aa\õo, ö|®¦ BQ¯ E£Pµn[PøÍa ö\´²®÷£õx Auß öuõhº£õÚ •ß Qøh¨£h[PøÍ ÁøµÁuØS Ámh[PÐ® öuõh¼PÐ® £¯ß£kzu¨£kQßÓÚ.
+
+3 cm Bøµ²ÒÍ J¸ Ámhzvß £›v°À C¸US® J¸ ¦ÒÎ P °ØS J¸ öuõh¼ø¯ ÁøµuÀ
+
+••Ámhzøu Áøµ¢x £›v°À Â¸¨£©õÚ Kº ChzvÀ ¦ÒÎ P ø¯U SÔzxU öPõÒP.••P ø¯²® ø©¯zøu²® öuõkzx ÁmhzvØS öÁÎ÷¯ }mkP.••P ø¯ ø©¯©õPU öPõsk Â¸¨£©õÚ Kº Bøµ²hß ÷|º÷PõmiÀ C¸ \© yµ[PøÍU SÔzx M, N GÚ¨ ö£¯›kP.••M, N BQ¯ÁØøÓ ø©¯[PÍõPU öPõsk JßøÓö¯õßÖ öÁmk® C¸ ÂØPøÍ Áøµ¢x AvÀ QøhUS® |k¨¦ÒÎø¯²® P ø¯²® öuõkzx }mkP.••÷Põk QR öuõh¼¯õS®.
+
+C»Á\¨ £õh¡À
+
+150
+
+Q
+
+R
+
+E¸ 8'11
+
+öÁÎ÷¯ C¸US® J¸ ¦ÒÎ P °¼¸¢x J¸ ÁmhzvØS J¸ öuõh¼ø¯ ÁøµuÀ
+
+(CU÷Põm£õk CÛ÷©À Á¸® GÀ»õ Ámh[PÐUS® öuõh¼PÐUS® Ai¨£øh¯õS®)
+
+••J¸ Â¸¨£©õÚ Bøµ²hß J¸ Ámhzøu O øÁ ø©¯©õPU öPõsk ÁøµP.••ÁmhzvØS öÁÎ÷¯ J¸ Â¸¨£©õÚ ChzvÀ ¦ÒÎ P ø¯U SÔzx OP ø¯z öuõkUP.••OP ø¯ C¸TÓõUQ A¢|k¨ ¦ÒÎø¯ Q GÚ¨ ö£¯›kP.••QP ø¯ Bøµ¯õPU öPõsk Ámhzøu C¸ £UP[PÎ¾® öÁmk©õÖ J¸ ÂÀø» ÁøµP.••AÆÂÀ¼ÚõÀ Ámhzvß £›v öÁmh¨£k® ¦ÒÎ°ÞhõP P °¼¸ ¢x J¸ £UPzvØS J¸ öuõh¼²® ÷uøÁö¯Ûß ©ØøÓ¯ £UPzv ØS J¸ öuõh¼²® GßÓÁõÖ C¸ öuõh¼PøÍ ÁøµP.••öuõkøP¨ ¦ÒÎPøÍ R1, R2 GÚ¨ ö£¯›kP. ÷Põn® ORP ö\[÷Põn ©õS®. (E¸ 8.12 I¨ £õºUP).
+
+C»Á\¨ £õh¡À
+
+151
+
+E¸ 8'12
+
+C¸ \© Ámh[PÐUS J¸ ö£õx¨ ¦Óz öuõh¼ø¯ ÁøµuÀ
+
+••E›¯ yµzvÀ C¸ Ámh[PøÍ Áøµ¢x ø©¯[PøÍz öuõkzx AU ÷PõmiøÚ AB GÚ¨ ö£¯›kP.••÷Põk AB °ß ¦ÒÎ A °¼¸¢x J¸ ö\[Szøu Áøµ¢x £›vø¯ P°À öÁmk©õÖ }mkP.••yµ® AB ø¯U PÁµõ¯zvØS Gkzx P °¼¸¢x AB °ØSa \©õ¢uµ©õP ©ØøÓ¯ Ámhzøu öÁmi A¨¦ÒÎø¯ Q GÚ¨ ö£¯›kP.••PQ øÁz öuõkUP. AB ²® PQ Ä® \©õ¢uµ©õS®.
+
+E¸ 8'13
+
+C»Á\¨ £õh¡À
+
+152
+
+C¸ \© Ámh[PÐUS J¸ ö£õxU SÖUSz öuõh¼ø¯ ÁøµuÀ
+
+••A ,B BQ¯ÁØøÓ ø©¯©õPU öPõsk C¸ Ámh[PøÍ ÁøµP.•• yµ® AB ø¯ C¸ TÓõUQ A¢|k¨ ¦ÒÎø¯ C GÚ¨ ö£¯›kP.•• AC ø¯²® CB ø¯²® C¸TÓõUQ A¢|k¨ ¦ÒÎPøÍ L, M GÚ¨ ö£¯›kP. ••L I ø©¯©õPÄ® yµ® LA ø¯ Bøµ¯õPÄ® öPõsk Ámhzøu öÁmk©õÖ Kº AøµÁmhzøu ÁøµP.••M I ø©¯©õPÄ® MB ø¯ Bøµ¯õPÄ® öPõsk LI ø©¯©õPU öPõsh ÂÀ¼ØS Gvº¨£UPzvÀ Ámh® B ø¯ öÁmk©õÖ Kº AøµÁmhzøu ÁøµP.•• C¸ AøµÁmh[PÎÚõ¾® C¸ Ámh[PÐ® öÁmh¨£mh ¦ÒÎPøÍz öuõkUP.
+
+E¸ 8'14
+
+\©ÛÀ»õu BøµPÒ EÒÍ C¸ Ámh[PÐUS J¸ ö£õx¨ ¦Óz öuõh¼ø¯ ÁøµuÀ.
+
+11 mm, 23 mm Bøµ²ÒÍ C¸ Ámh[PÒ AÁØÔß ø©¯[PÐU Qøh÷¯ EÒÍ yµ® 48 mm BP C¸US©õÖ EÒÍÚ. CÆÂ¸ Ámh[PÐUS® J¸ ö£õxz öuõh¼ø¯ ÁøµuÀ.
+
+•• J¸ ÷|º÷PõmiøÚ Áøµ¢x Auß «x C¸ Ámh[PøÍU SÔzu yµzvÀ Áøµ¢x ø©¯[PøÍ A, B GÚ¨ ö£¯›kP. •• C¸ Ámh[PÎß BøµPÐUQøh÷¯ EÒÍ Âzv¯õ\©õQ¯ 9 mm I Bøµ¯õPÄ® ö£›¯ Ámhzvß ø©¯zøu ø©¯©õPÄ® öPõsk ÷ÁöÓõ¸ Ámhzøu ÁøµP.
+
+C»Á\¨ £õh¡À
+
+153
+
+•• B °¼¸¢x Aa]Ô¯ ÁmhzvØS J¸ öuõh¼ø¯ ÁøµP. (Ámh[ PÎß ø©¯[PÐUQøh÷¯ EÒÍ yµzøu C¸TÓõUQ¨ ö£ØÓ |k¨ ¦ÒÎ P ø¯ ø©¯©õPU öPõsk Kº AøµÁmhzøu Áøµ¢x ]Ô¯ Ámhzvß £›vø¯ öÁmk® Chzøu Q GÚ¨ ö£¯›kP).•• AQ øÁz öuõkzx ö£›¯ Ámhzøu öÁmk©õÖ AU÷PõmiøÚ }mi, Ax öÁmk® ¦ÒÎø¯ R GÚ¨ ö£¯›kP.•• yµ® QB ø¯ Bøµ¯õPU öPõsk R C¼¸¢x Bø¯ ø©¯©õPU öPõsh Ámhzøu N CÀ öÁmi, R, N Iz öuõkUP (ø©¯©õPU öPõsk Áøµ¯¨£mh ÂÀø» ÷©¾® }mi ÁøµÁuß ‰»® AÆÁõ÷Ó ©ØøÓ¯ £UPz öuõh¼ø¯²® Áøµ¯»õ®. E¸ 8.15 E® E¸ 8.16 E®).
+
+E¸ 8'15
+
+E¸ 8'16
+
+\©ÛÀ»õu C¸ Ámh[PÐUS J¸ ö£õxU SÖUSz öuõh¼ø¯ ÁøµuÀ
+
+BøµPÒ 11 mm, 23 mm BPÄÒÍ C¸ Ámh[PÒ AÁØÔß ø©¯[ PÐUQøh÷¯ EÒÍ yµ® 48 mm BP C¸US©õÖ EÒÍÚ. C¸ Ámh[PÐUS®
+
+C»Á\¨ £õh¡À
+
+154
+
+J¸ ö£õxU SÖUSz öuõh¼ø¯ ÁøµP.
+
+•• A, B ø¯ ø©¯[PÍõPU öPõsh C¸ Ámh[PøÍ SÔzu yµzvÀ ÁøµP.•• C¸ Ámh[PÎÚx® BøµPÎß ö©õzuzøu Bøµ¯õPÄ® A AÀ»x Bø¯ ø©¯©õPÄ® öPõsk J¸ ªP¨ ö£›¯ Ámhzøu ÁøµP.•• AB ø¯ C¸TÓõUQ A¨¦ÒÎø¯ P GÚ¨ ö£¯›kP.•• P ø¯ ø©¯©õPÄ® yµ® PA ø¯ Bøµ¯õPÄ® öPõsk J¸ Ámhzøu Áøµ¢x ªP¨ ö£›¯ Ámhzøu Q CÀ öÁmkP.•• QB ø¯z öuõkzx ]Ô¯ Ámhzøu R CÀ öÁmkP.
+
+•• yµ® QA ø¯ Bøµ¯õPÄ® R I ø©¯©õPÄ® öPõsh ö£›¯ Ámhzøu T °À öÁmkP (ªP¨ ö£›¯ Ámh©ßÖ)•• RT ø¯z öuõkUS® ÷Põk SÖUSz öuõh¼¯õS®.•• QA ø¯z öuõkzx Ámh® A (ªP¨ ö£›¯ußÖ) ø¯ öÁmk® Chzøu ø©¯©õPÄ® QB ø¯ Bøµ¯õPÄ® öPõsk ]Ô¯ Ámhzøu N CÀ öÁmi NV ø¯z öuõkzx ©ØøÓ¯ öuõh¼ø¯²® ÁøµP.
+
+•øÓ 01
+
+•øÓ 02
+
+E¸ 8'17
+
+C»Á\¨ £õh¡À
+
+155
+
+£À÷PõoPÒ (Polygons)
+
+‰ßÖ AÀ»x AuØS ÷©Ø£mh ÷|º÷Põmk¨ £UP[PøÍU öPõsh Aøhzu E¸Á® £À÷Põo GÚ¨£k®. ÷Põn[PÒ \©©õPÄ® £UP[PÒ \©©õPÄ® EÒÍ £À÷Põo JÊ[PõÚ £À÷Põo GÚ¨£k®. £À÷ÁÖ \©a^º A»[PõµU Põmk¸a ]Ø£ ÁiÁ[PøÍa \›¯õP ÁøµÁuØS CÆÁø©¨¦PÒ £¯ß£kzu¨£kQßÓÚ.
+
+J¸ ÁmhzvÀ £À÷Põoø¯ ÁøµuÀ
+
+¯õuõ°Ý® J¸ Ámhzvß Bøµø¯¨ £›vø¯a _ØÔU PÁµõ¯zvß ‰»® SÔUS®÷£õx 6 \© £SvPÒ QøhUQßÓÚ. AÁØøÓz öuõkUS®÷£õx Kº AÖ÷Põo QøhUQßÓx. C®•øÓU÷PØ£¨ £À÷ÁÖ § CuÌPÒ, Põmk ¸UPÒ, •U÷PõoPÒ BQ¯ÁØøÓ Aø©UP»õ®. (E¸ 8.18)
+
+E¸ 8'18
+
+¯õuõ°Ý® Kº Bøµø¯U öPõsh J¸ ÁmhzvÀ ¯õuõ°Ý® JÊ[PõÚ £À÷Põoø¯ ÁøµuÀ
+
+••¯õuõ°Ý® Kº Bøµø¯U öPõsh J¸ Ámhzøu ÁøµP.••ø©¯zvÞhõP¨ £›v°ß C¸ £UP[PøÍ²® \¢vUS® J¸ ÷|º÷PõmiøÚ ÁøµP. Ax Ámhzvß Âmh©õS®. ••Âmhzøu AB GÚ¨ ö£¯›kP. A °¼¸¢x AB °ØS J¸ Tº[÷PõnzvÀ \õ´¢u Kº AiU÷PõmiøÚ Áøµ¢x AvÀ
+
+C»Á\¨ £õh¡À
+
+156
+
+A °¼¸¢x \© Cøhzyµ[PÎÀ I¢x ¦ÒÎPøÍU SÔUP.••5 BÁx ¦ÒÎø¯¨ ¦ÒÎ B Ehß öuõkzx AuØSa \©õ¢uµ©õP¨ ¦ÒÎ 2 CÞhõP J¸ ÷PõmiøÚ Áøµ¢x ÷Põk AB ø¯ öÁmkP. AÆöÁmi¯ ¦ÒÎø¯ C GÚ¨ ö£¯›kP.••AB ø¯ Bøµ¯õPÄ® Aø¯²® Bø¯²® ø©¯©õPÄ® öPõsk D °À JßøÓö¯õßÖ öÁmk©õÖ C¸ ÂØPøÍ ÁøµP.••D ø¯²® C ø¯²® öuõkzx Ámhzøu E °À öÁmk® ÁøµUS® }mkP. AE BÚx JÊ[PõÚ £À÷Põo°ß J¸ £UP©õS®.••Auß }Ízøu Ámhzøua _ØÔU SÔzx¨ ¦ÒÎPøÍz öuõkzx JÊ[PõÚ I[÷Põoø¯ ÁøµP.(E¸ 8.19)
+
+E¸ 8'19
+
+CÆÁõÖ ¯õuõ°Ý® Kº Bøµø¯U öPõsh J¸ ÁmhzvÀ ¯õuõ°Ý® Kº GsoUøP°»õÚ £UP[PÒ EÒÍ £À÷Põoø¯ Áøµ¯zuUPuõP C¸US®. A÷u÷ÁøÍ G¨÷£õx® £UP[PÎß GsoUøPUSa \©©õÚ £SvPÍõP Âm-hzøu¨ ¤›zx CµshõÁx ¦ÒÎ°ÞhõP ©õzvµ® DE GÚ¨ ö£¯›mh ÷PõmiøÚ Áøµ¯ ÷Áskö©ß£øuU PÁÛUP.
+
+J¸ £UPzvß }Í® uµ¨£k®÷£õx ¯õuõ°Ý® Kº JÊ[PõÚ £À÷Põoø¯ ÁøµuÀ
+
+••J¸ ÷|º÷PõmiøÚ Áøµ¢x ÷uøÁ¯õÚ Ai°ß }Ízøu AvÀ AB GÚU PõmkP.••£UP® AB °ß |k¨¦ÒÎ°À J¸ ö\[Szøu ÁøµP. A¨¦ÒÎø¯ C GÚ¨ ö£¯›kP.
+
+C»Á\¨ £õh¡À
+
+157
+
+••yµ® AC ø¯ Bøµ¯õPÄ® C ø¯ ø©¯©õPÄ® öPõsk ö\[Szøu öÁmk©õÖ J¸ ÂÀø» Áøµ¢x, AÆöÁmi¯ ¦ÒÎø¯ 4 GÚ¨ ö£¯›kP.••AB ø¯ Bøµ¯õPÄ® Bø¯ ø©¯©õPÄ® öPõsk Áøµ²® ÂÀ¼ÚõÀ ö\[Szøu öÁmi A¨¦ÒÎø¯ 6 GÚ¨ ö£¯›kP.••4 CØS® 6 CØS® Cøh¨£mh yµzøu C¸TÓõUQ¨ ¦ÒÎø¯ 5 GÚ¨ ö£¯›kP.••5 CØS® 6 CØS® Cøh¨£mh yµzvØSa \©©õÚ yµzøu 6 CØS ÷©÷» SÔzx AuøÚ 7 GÚ¨ ö£¯›kP.••5 C¼¸¢x AÁøµ²ÒÍ yµzøuU PÁµõ¯zvØS Gkzx 5 I ø©¯©õPU öPõsk J¸ Ámhzøu ÁøµP.••yµzøuU PÁµõ¯zvØS Gkzx «sk® Ámhzøu¨ £›vø¯a _ØÔU SÔzx A¨¦ÒÎPøÍz öuõkzx JÊ[PõÚ I[÷Põoø¯ ÁøµP.••AÆÁõ÷Ó JÆ÷Áõº Gsøn²® ø©¯©õPU öPõsk Áøµ¯¨£k® ÁmhzvÀ GsoØS›¯ JÊ[PõÚ £À÷Põoø¯ Áøµ¯»õ®.
+
+E¸ 8'20 C®•øÓUS ÷©ß÷©¾® ÷©÷» ¦ÒÎPÎß GsoUøPø¯U Tmi ÁøµøP°À ªPa ]Ô¯ AÍÂÀ £À÷Põo°ß ÁiÁzøu ©õØÓ»õ®. C®•øÓ AsnÍÁõUPÀ •øÓ ^Approximate Method& Gß£øuU PÁÛUP.
+
+T®¦ÁøÍÄ öÁmkUPÒ (Cornic Sections)
+
+E¸ÂÀ Põn¨£kQßÓÁõÖ Kº DºUøP Gkzx ÷Á÷Óõº DºUQÀ øÁzxU Pmi Kº DºUøPa _ØÖ®÷£õx \õ´¢u DºUQß ‰»® T®¦ Cøn ¤Ó¨¤UP¨£kQßÓx.
+
+J¸ T®ø£ Auß Aa]ØSa ö\[SzuõP öÁmk®÷£õx QøhUS®
+
+C»Á\¨ £õh¡À
+
+158
+
+ÁøÍ° J¸ Ámh©õS®. AuøÚ \õ´ÁõP öÁmk®÷£õx QøhUS® ÁøÍ° J¸ }ÒÁøÍ¯©õS®. \õ²¯µzvØSa \©õ¢uµ©õP öÁmk®÷£õx QøhUS® ÁøÍ° J¸ £µÁøÍÁõS®.T®¦a ÷\õiø¯ öÁmk® uÍzvÚõÀ öÁmk®÷£õx QøhUS® ÁøÍ°a÷\õi J¸ £µÁøÍÁõS®. (C[S C¸ ÁøÍ¯[PÒ)
+
+E¸ 8'21
+
+}ÒÁøÍ¯® (Ellipse) ö£›¯a_ 8 cm BPÄ® ]Ô¯a_ 5 cm BPÄ® EÒÍ }ÒÁøÍ¯zøu¨ ö£õÔ•øÓ¯õP ÁøµuÀ (... ¡À •øÓ)
+
+ö£õÔ•øÓ
+
+••ö£›¯aø\ Áøµ¢x AB GÚ¨ ö£¯›kP (8 cm)
+
+••AB °ØSa ö\[Szx C¸TÓõUQø¯ Áøµ¢x yµzøu C¸ £UP[PÐUS® \©©õPU SÔUP. (5 cm)
+
+••AB ²® CD ²® JßøÓö¯õßÖ öÁmk® Chzøu (|k¨¦ÒÎ) O GÚ¨ ö£¯›kP.
+
+••AO øÁ Bøµ¯õPÄ® C ø¯ ø©¯©õPÄ® öPõsk AB ø¯ öÁmkÁuß ‰»® C¸ SÂ¯[PøÍ¨ ö£ØÖ F1, F2 GÚ¨ ö£¯›kP.
+
+••F1, F2, C BQ¯ ¦ÒÎPÎÀ ‰ßÖ Ssl]PøÍ |õmi ‰ßÖ Ssl]PøÍ²® _ØÔ J¸ ¡ø»U PmkP.
+
+••C °À EÒÍ Ssl]ø¯U PÇØÔ AuØS¨ £v»õP¨ ö£ß]Ø Tøµ¨ £¯ß£kzv ¡À uÍµõuÁõÖ ö£ß]ø»a ö\À»a ö\´x }Ò
+
+C»Á\¨ £õh¡À
+
+159
+
+ÁøÍ¯zøu Áøµ¢x öPõÒP (Cx J¸ ö£õÔ•øÓ¯õS®. J¸ uhõ P®, J¸ §¨£õzv, ÷u´÷©ø\°ß ÷©Ø£»øP, \õ¨£õmk ÷©ø\¨ £»øP BQ¯ÁØøÓ }ÒÁøÍ¯©õPU SÔzuÀ ÷£õßÓ £oPÐUS C®•øÓø¯¨ £¯ß£kzu»õ®).
+
+E¸ 8'22
+
+E¸ 8'23
+
+J¸ ø©¯ Ámh •øÓUS }ÒÁøÍ¯zøu ÁøµuÀ
+
+••J¸ ÷|º÷PõmiøÚ Áøµ¢x, AvÀ ö£›¯a]ß }Ízøu SÔzx AB GÚ¨ ö£¯›kP.
+
+••÷£›¯a]ß }Ízvß AøµÁõ]°¾® Ti¯ yµzøu Bøµ¯õPU PÁµõ¯zvØS Gkzx B ø¯ ø©¯©õPU öPõsk JßøÓö¯õßÖ öÁmk® C¸ ÂØPøÍ ÁøµP.
+
+••C¸ ÂØPÒ öÁmk® C¸ ¦ÒÎPøÍ²® öuõkzx C¸ £UP[P ÐUS® }mia ^Ô¯a]ß }ÍzvÀ AøµÁõ] Ãu® Auß C¸ £UP[ PÎ¾® SÔzx A¨¦ÒÎPøÍ C, D GÚ¨ ö£¯›kP.••C¸ ÷PõkPÐ® öÁmk® |k¨¦ÒÎø¯ O GÚ¨ ö£¯›kP. ••O øÁ ø©¯©õPÄ® OA, OC BQ¯ÁØøÓ BøµPÍõPÄ® öPõsk C¸
+
+C»Á\¨ £õh¡À
+
+160
+
+Ámh[PøÍ ÁøµP.••ö£›¯ Ámhzvß Bøµø¯U PÁµõ¯zvØS Gkzx¨ £›vø¯a _ØÔ ÂØPøÍ BUQ C¸ Ámh[PøÍ²® 12 \© £SvPÍõP J÷µ uhøÁ°À ¤›UP. CÀ»õÂmhõÀ, C¸TÓõUQ 16 £SvPÍõP¨ ¤›UP.••C¨÷£õx }ÒÁøÍ¯zvÀ 4 ¦ÒÎPÒ QøhzxÒÍÚ. AøÁ A, B, C, D GßÝ® 4 ¦ÒÎPÍõS®. Gg]¯ ¦ÒÎPøÍ¨ ö£ÖÁuØS AB °ØSa \©õ¢uµ©õPa ]Ô¯ Ámhzøu öÁmi²ÒÍ ¦ÒÎPÎÞhõP C¸ £UP[PÐUS® QøhU ÷PõkPøÍ ÁøµP.••AÆÁõ÷Ó ö£›¯ Ámhzøu öÁmi²ÒÍ ¦ÒÎPÎÞhõP CD °ØSa \©õ¢uµ©õP {ø»USzxU ÷PõkPøÍ E›¯ QøhU ÷PõkPøÍa \¢vUS©õÖ ÁøµP.••A, B, C, D BQ¯ÁØøÓ²® QøhU ÷PõkPÐ® {ø»USzxU ÷Põk PÐ® \¢vUS® ¦ÒÎPøÍ²® Kº J¨£õÚ ÁøÍ°°ÚõÀ öuõkzx }Ò ÁøÍ¯zøu ÁøµP.••yµ® AO øÁ Bøµ¯õPÄ® C AÀ»x D ø¯ ø©¯©õPÄ® öPõsk AB ø¯ öÁmkÁuß ‰»® (Focus) SÂ¯[PøÍU SÂUP»õ®.
+
+•• AB = ÷£›¯a_ (Major axis)•• CD = ^Ô¯a_ (Major axis)•• F = SÂ¯® (Focus)
+
+E¸ 8'24
