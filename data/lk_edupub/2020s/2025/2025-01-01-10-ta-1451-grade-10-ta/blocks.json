@@ -1,0 +1,82 @@
+[
+  {
+    "page_number": 0,
+    "bbox": [
+      246.69,
+      420.16,
+      309.93,
+      484.02
+    ],
+    "text": "10",
+    "fonts": [
+      "FMSamanthax"
+    ],
+    "sizes": [
+      62.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      119.36,
+      100.88,
+      420.6,
+      242.88
+    ],
+    "text": "\u00c1i\u00c1\u00f8\u00a9\u00a8\u00a6\u00ae C\u00af\u00a2v\u00b5z\u00f6u\u00f5\u00c8\u00ddm\u00a3\u00c2\u00af\u00be\u00ae",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      40.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      234.1,
+      326.53,
+      305.92,
+      371.53
+    ],
+    "text": "u\u00b5\u00ae",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      45.0
+    ]
+  },
+  {
+    "page_number": 0,
+    "bbox": [
+      151.52,
+      540.63,
+      388.49,
+      559.63
+    ],
+    "text": "P\u00c0\u00c2 \u00f6\u00c1\u00ce\u00b1mkz v\u00f8nUP\u00cd\u00ae",
+    "fonts": [
+      "SHREE-TAM7-1316"
+    ],
+    "sizes": [
+      19.0
+    ]
+  },
+  {
+    "page_number": 93,
+    "bbox": [
+      300.21,
+      343.67,
+      352.86,
+      356.98
+    ],
+    "text": "(d2 - d1) \u00d7 X",
+    "fonts": [
+      "TimesNewRomanPSMT"
+    ],
+    "sizes": [
+      10.074495315551758
+    ]
+  }
+]
