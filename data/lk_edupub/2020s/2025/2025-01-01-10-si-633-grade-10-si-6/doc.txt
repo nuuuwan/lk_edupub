@@ -1,0 +1,483 @@
+==== BLOCKS ==== 
+
+fkdñf,a fnodyeÍu i|yd h'
+
+109
+
+bÈlsÍï ie,iqul ;sìh hq;= wx.'
+
+6'1 rEmh
+
+lsishï jia;=jl" bÈlsÍul fyda hka;% fldgil ksYaÑ; yevh fyda m%udKh jpk Ndú;fhka muKla bÈlrkakdg fyda ks¾udKlrejdg .%yKh lr.ekSug ie,eiaùu ;rul wiSre lreKls' tfy;a th Ñ;% Ndú;fhka jvd;a m%n, f,i" meyeÈ,s j" iel rys; f,i ikaksfõokh l< yels h' fï wkqj Ñ;%hlg fyda we£ulg woaú;Sh ia:dkhla ysñ fõ'
+
+we£u hkq m%ia;dßl NdIdjls' tfia u th úYaj NdIdjls' ks;sm;d jeäjk w.hlska hq;a NdIdjls' fuu NdIdj idudkH ck;dj tÈfkod úúO lghq;= i|yd o" bÈlsÍï l¾udka; Ys,amSka ks¾udKlrKh i|yd fuka u jehjk uqo, .Kkh lr.ekSu i|yd o" Ñ;% Ys,amSka úsiska Ndjuh m%ldYs; udOHhla f,i o fhdod .kshs'
+
+ta wkqj we£u i|yd cd;Hka;rj ms<s.kakd iïu; kS;s moaO;shla Ndú; flf¾'
+
+we£u" yevh" ^Shape& m%udKh" ^Size& msysàu ^Position& yd iudkqmd;h ^Proportion& wdosh m%ldY flfrk ke;fyd;a ikaksfõokh flfrk Wml%uhls' ;j o úfYaIs; iïnkaO;d wvx.= .eg¨ ksrdlrKh lr.ekSu i|yd o th Wmfhda.S lr .efka' tfia u oaúudk m%lafIamlrKhla" ;s%udK wjia:djla i|yd oDYHlrKh lsÍfï Ñka;k úê l%uhls' ls%hdj,shla úia;rd;aulj ±laùu fyda tys w¾: m%ldYh jdÑl%u" m%udKj;a wdldrhg ±laùu ;=<ska th ksis mßÈ ta;a;= .ekaùu i|yd o Wmfhda.S fõ' tneúka ta wkqj we£u" ;dlaIKsl iudcfha w;HjYH wOHdmksl wx.hla f,i o NdId È.=jla f,i o ie,lsh yels h'
+
+06
+
+fkdñf,a fnodyeÍu i|yd h'
+
+110
+
+ld¾ñl Ñ;%hlska" jHla; f;dr;=re n,j;a ie,ls,a,lska bÈßm;a lrk w;r tys ms<sfj, iy ksrjoH;djh by< ;,hl msysgqjd we;' ´kE u ie,iqula iïu; mßudKhlg we¢h hq;= w;r ms<s.;a ixfla; l%fudamdhka wkq.ukh l< hq;= fõ'
+
+WodyrKhla f,i f.dvke.s,s ie,iqula .ksuq' f.dvkexùfï lKavdhfï ld¾hNdrh jkqfha tu ;dlaIK Ys,amSka f.dvke.s,s ie,eiau ksjerÈ wdldrhg f;areïf.k ta wkqj f.dvkxjd f.dvke.s,s whs;slrejd wfmalaId l< wdldrhg th ksuùu hs' tys § tlsfkl w;r wod< mKsjqv yqjudrejkafka f.dvke.s,s ie,iqu Tiafia h'
+
+01' ñkqï (Dimensions)
+
+hka;%hl fyda tys wjhjhl" f.dvke.s,a,l fyda tys fldgil ±j ks¾ñ;hl fyda ±j uQÜgqjl fyda fjk;a ´kE u ie,iqul b;d jeo.;a wx.hla f,i ñkqï uq,a;ekays ,d ie,lsh yels h' hg lS foaj,a ys m%udKh fyda ;ru ±lafjkafka ñkqï u.sks' È." m<," Wi fyda .eUqr" .klu ñka ±lafõ' Ndú; tall j¾.h wkqj ñ,sógr" fikaáógr' fyda wÕ,aj,ska ñkqï olajkq ,nhs' j¾;udkfha fn­fyúka ñkqï olajkq ,nkafka ñ,sógr j,sks' ñkqï fkdue;sj by; i|yka ´kE u wx.hla kshñ; m%udKhg ks¾udKh lr.ekSu wiSreh' msßuejqïlrejd ^Designer& bÈlrkakdg fyda ksmehqïlrejdg ^Constructor or Producer& ñkqï u.ska tys ;ru fyda m%udKh ikaksfõokh lrjhs'
+
+02' yevh (Shape)
+
+by; ±la jQ ´kE u wx.hl yevh ie,eiaula ;=<ska bÈßm;a flf¾' cHdñ;sl yev;, tkï ;s%fldaK" iup;=ri%" iDcqfldaKdi%" ;%emSishu yd iudka;rdi% jD;a; ñka jeo.;a ;ekla .kshs' wod< wjhjh ksuùu i|yd yevh ukd msgqjy,la fõ'
+
+03' mßudKh (Scale)
+
+´kE u ie,eiaula $ Ñ;%hla i;H jia;=fõ ;d;aúl ñkqïj,g jvd l=vdfldg fyda úYd,fldg fyda tys i;H m%udKhg u fyda we¢h yels h' WodyrKhla f,i YS% ,xld is;shu .ksuq' th wNHdi fmd;l fld<hla u; fyda *q,aialema fld<hla u; we¢h yels h' tkï YS% ,xldfõ m%udKh l=vdlr olajk mßudKhlg (Reduced scale) we| we;' ta wkqj u hñka w;a Trf,daiqjl hka;% fldgila tkï ±;sfrdaohla jeks wx.hla m%udKfhka b;d l=vd ksid;a idudkH weig fyd¢ka fkdfmfkk ksid;a th w¢kq ,nkafka úYd, mßudKhlg h' (Enlarged scale) tfy;a iuyr Ñ;% jia;=fõ ;rug u is;shï.; lrhs' th Ôj m%udKh (Life size) fyj;a mQ¾K mßudKh (Full scale) f,i ye¢kaúh ±laúh yels h'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+111
+
+fï wkqj "mßudKh" hk moh ienE jia;=fõ m%udKh fyj;a ;ru yd w¢k ,o tu jia;=fõ Ñ;%fha m%udKh $ ;ru w;r we;s wkqmd;h" f,i w¾: ±laúh yels h'
+
+lsishï ñkqula Ñ;%fha i|yka lsÍug w;miq jqj o th mßudKhg we| we;s ksid tys ñkqu mßudK fldaÿfõ wod< mßudKh yd .<md tu ñkqu fidhd.; yels h'
+
+04' fldgia yev $ ksul< yevh
+
+lsishï ks¾ñ;hla ksujkafka fldgia folla" ;=kla fyda lsysmhla tl,ia (Assembled) ùfuks' hka;%hla fyda f.dvke.s,a,la fõjd tajd o fldgia lsysmhl noaOùuls' tla tla fldgia úúO me;sj,ska n,d tajdfha o¾Yk" udk" yev;, ukiska wOHhkh fldg we£u fuu.ska isÿ fõ' ie,iqï Ys,amshd th iïu;hkg wkql+,j olsk wdldrh Ñ;% $ ld¾h Ñ;% $ ie,iqï Ñ;% u.ska bÈßm;a lrkq ,nhs'
+
+05' ie,iqu we¢h hq;= wdldrh
+
+f.dvke.s,s bÈlsÍula fyda fjk;a ksIamdokhla i|yd fhdod.kakd øjH yd ixrplhka ;s%udkrEmSh (Three dimensional) fõ' tkï" tajdg os." m<," Wi ^.eUqr $.klu& wksjd¾hfhka u ysñ fjhs' f.dvke.s,a,l fyda lsishï jia;=jl rEmh hg lS ñkqï j¾. ;=k o¾Ykhjk wdldrhg we¢h yels h'
+
+idudkHfhka ks¾udK $ bÈlsÍï we£ïj, § f.dvke.s,a,la fyda jia;=jla iúia;rd;aul j ±laùu i|yd fhdod.kakd "Ñ;%d;aul we£fï l%uh" Pictorially "iDcq m%fCIamK" Orthographic projection f,i ye¢kafõ' fuu l%ufha § Ndú; lrkqfha ie,iqï (Plans) wdfrdayKhka (Elevations) yd fþ§h lvhka (Sections) jeks oaùudk rEmS Ñ;% iïm%odhls'
+
+m%:u yd f;jk fldaK m%lafIamKh
+
+fuys Ndú; l%u folls'
+
+01' m%:u fldaK m%lafIamKh (First angle projection)
+
+02' f;jk fldaK m%lafIamKh (Third angle projection)
+
+th jvd;a meyeos,s j ±laùu i|yd my; ±lafjk l%ufõoh Wmfhda.S lr.ksuq'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+112
+
+m%lafIamK ixfla;
+
+m%lafIamK j¾.hixfla;
+
+m<uqjk fldaK l%uh
+
+f;jk fldaK l%uh
+
+6'2 rEmh
+
+fþ§h o¾Yk (Sectional Views)
+
+6'3 rEmh
+
+iDcq m%lafIamK l%ufha §" jia;=jl wNHka;rfha we;s úia;r ndysr o¾Ykhla Tiafia ksfhdackh fmkakqï l< yelafla" tu úia;r ieÕsf¾Ld (Hidden lines) ud¾.fhka ±laùfuks' wNHka;rfha we;s úia;r jvd;a ixlS¾K jkafka kï" hg lS ieÕs f¾Ldj,ska fmkaùu meg,s,s iy.; fuka u" jHdl+, úh yels w;r ksrjoH whqßka myod §u wiSreúh yels h' tjeks wjia:dj, § ie,iqï Ys,amshd Tyq w¢k jia;=j lsishï ;,hla $ wlaIhla Tiafia lmd tu ;,h yd ish fofk;a w;r fldgi bj;a lrk úg Tyqg fmfkk tu o¾Ykh" ieÕsf¾Ldj,ska fkdj mQ¾K f¾Ldj,ska w¢skq ,nhs' hg lS lemqï ;,h $ wlaIh f;dard.kq ,nkafka jvd;a úia;r bÈßm;a l< yels ia:dkhla yryd h' fndfyda úg tu lemqï ;,h $ wlaIh iDcq f¾Ldjla u fkdjkakg mq`Mjk'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+113
+
+iudxYl o¾Yk $ m%flaIamK (Isomatric views / Projections)
+
+iudxYl o¾Ykhlska jia;=jl mDIaG ;=kla tlu ;,hl § ±laúh yels h' "iudxYl" hk mofhys wre; "iu ñkqu" (Equal measure) hkakhs' iudxYl o¾Ykfhys moku jkafka ;,hla u; 1200 ne.ska jQ iudk fldaK wdmd;khjk f¾Ld ;=klska hg lS mDIAG ;=k fmkakqï lsÍu;a" tys me;sj, i;H È. 82% olajd fláùu;a h' iudxYl fmkqula ,nd.kafka ish¨ isria f¾Ld isria j msysgqùu;a" ;sria f¾Ld ;sri iuÕ 300 lska jïmig fyda ol=Kqmig wdk; j we£u;a u.sks'
+
+bÈlsÍu $ ksujqu i|yd ie,iqula ilia lsÍu
+
+we£ï lghq;= i|yd wjYH we£fï WmlrK yd øjH
+
+01' we£fï lvodis - Drawing papers
+
+02' A2 m%udKfha we£fï mqjrejla iy à rE,la -
+
+A2 Drawing board and T - Ruler
+
+03' we£fï mqjre ls,sm $ fmdare lgq fyda .ï fÜma -
+
+Drawing board clips or gum tape
+
+04' ì%iag,a fndavhla - Bristol board
+
+05' mekai,a - Pencils
+
+06' uDÿ ulkh - Soft erassor
+
+07' we£fï WmlrK lÜg,h - Box of instruments (Geomatrical instrument set / Drawing instrument set)
+
+08' mßudK fldaÿj - Scale ruler
+
+09' úys; p;=ri% - Sets squares
+
+10' jD;a;dldr fldaKudkh - Circular protractor
+
+11' lmq f,akaiqj $ msiakdj - Cotton handcerchif / Duster
+
+fkdñf,a fnodyeÍu i|yd h'
+
+114
+
+01' we£fï lvodis
+
+bxðfkareuh we£ï ^isú,a $ hdka;s%l $ úÿ,s wd§& lghq;=j, § Ndú; lrk Ñ;% ^ie,iqï&" w¢kq ,nkafka ì%;dkH iïu; m%ñ;s 34z9 '' Sizes of Drawins " hgf;a olajd we;s my; ñkqï iys; we£fï lvodis u; h'
+
+wyqfldka lemSï l< we£fï lvodisj, m%udKhka
+
+Trimmet Sizes of drawing sheets
+
+A0 ys ñkqï 1188 × 841 mm hkq 1'0 m2 l lafIa;%M,h hs'
+
+A1 hkq bka wvls'
+
+A2 hkq idudkH we£fï lvodish hs'
+
+A3 hkq *q,aialema m%udKfha lvodish ls'
+
+A4 hkq h;=re,shkh lrk lvodish hs'
+
+A5 hkq wNHdi fmd;l lvodish hs'
+
+A0 - 1188 × 841 mm
+
+A1 - 841 × 594 mm
+
+A2 - 594 × 420 mm
+
+A3 - 420 × 297 mm
+
+A4 - 297 × 210 mm
+
+A5 - 210 × 148 mm
+
+A6 - 148 × 105 mm
+
+A7 - 105 × 74 mm
+
+A8 - 74 × 52 mm
+
+A9 - 52 × 37 mm
+
+A10 - 37 × 26 mm
+
+A1
+
+A2
+
+A3
+
+A5
+
+A7A6 A8 A8
+
+A4
+
+841 mm
+
+1188 mm
+
+fkdñf,a fnodyeÍu i|yd h'
+
+115
+
+cd;Hka;r iïu; wkqj lvodis j¾. lsÍfï § lvodis j¾.fh j¾. ógrhl nr o .Kka .kq ,efí' th g m2f,i ye¢kafõ' WodyrK (- j¾.ógrhla .%Eï 80 lvodishla ye¢kaùfï § 80g m2 ^80gsm& f,i igyka lrkq ,nhs' ^gms- Gram per square metre&
+
+02' we£fï mqjrej yd à rE,
+
+we£fï mqjrej ±jfhka fyda ma,diaálaj,ska ks¾udKh lr we;' ±jfhka ks¾udKh lr wef;d;a wjhj folla f,i;a ma,diaálaj,ska kï tla wjhjhla f,iska o ñ, § .; yels h'
+
+±j we£fï mqjrej A2 m%udKfha we£fï lvodishla ta u; ;eìh yelsjk fia Bg ;rula úYd, tkï 624 × 500 mm m%udKfha úh hq;= h' ±j ,E,s folla fyda iuyr úg ;=kla l,ïm fhdod Yla;su;a fldg" we£fï fïi" mDIaGfhka uola biaiS ;sfnk fia YsIHhdg myiqfjka tyd fuyd l< yelsjk fia;a úh hq;= h' A2 m%udKfha we£fï lvodish mqjrej u; ;nkqfha Bg iudk m%udKhg lmk ,o ì%iag,a fndaâ ;eîfuka wk;=rej h'
+
+we£fï mqjrefõ tl fl<jrl l`Mjr ±jfhka ksu l< iDcq odrhls' ol=Kq w; yqrejQjka th jï w; me;a;g o" jï w; yqrejQjka th ol=Kq w; me;a;g o jk fia ;ekam;a lr.; hq;= h' ^l`Mjr ±jh f.ùhkafka ke;s ;rï h'& m%jdyk lghq;=j, § fuu fldgig ydks isÿ úh yels neúka jvd;a wdrlaIdldÍ j lghq;= l< hq;= h'
+
+à rE, ^Tee square& l|lska" w,a¨jlska (Stock) yd (Blade) ;,hlska iukaú; h' w,a¨jg iDcqfldaKs j msysgk fia ;,h iú.ekaúh hq;= h' w,a¨fjys yd ;,fhys we£fï mqjrej u; jefrka isrfldg ;ekam;a lrk à rE, iDcq odrh Èf.a by<g yd my<g .uka lrùfuka wjYH ia:dkj, § ;sria f¾Ld fuka u iudka;r f¾Ld o we|.; yels h' ;j o à rEf,a iDcq odrh u; úys; p;=ri% tyd fuyd l< yels h' f.ùhdula isÿjkafka ke;s ;rï h' ma,diaálaj,ska ks¾udKh lrk ,o we£fï mqjrej yd à rE, ixhqla; tallhla nj uq, § i|yka lf<uq' mqoa.,hdf.a myiqj ;ld bÈß fl<jr Wia my;a l< yelsjk fia ksmojd we;s w;r mDIaGh b;d iqug h' Bg u noaO l< úys; p;=ri%j,ska ,nd.; yels m%fhdachka ,nd.; yels fuka u iDcq yd wdk; f¾Ld weo.; yels iSreudre l< yels fldaKudkhka iúl< iDcqfldaKs wjhjhls'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+116
+
+03' we£fï fmdare lgq $ ls,sm ^Drawing pins / Drawing clips&
+
+6'4 rEmh
+
+f,dayj,ska w,a¨jla fia ilid we;s fïjd u.ska we£fï lvodish" ì%iag,a fndavh iu.ska we£fï mqjre j u; r|jd b;d ;Èka isák fia isrlr .; yels h' we£fï mqjrefõ iú lsÍu i|yd ls,sm y;rla Ndú; lsÍu iqÿiq h' fï ld¾hh i|yd fif,dafÜma we£fï w,afmfk;a;s fyda .ïfÜma Ndú; lsÍug fm,ö isá;s' fif,dafÜmaj,ska yd we£fï w,afmfk;a;sj,ska we£fï mqjrejg o ydks isÿ fõ' b;du iqÿiq jkafka we£fï mqjre ls,smhka h'
+
+04' mekai,a ^Pencils&
+
+mekai,a j¾. 17 la f,dalfha ksIamdokh lrk nj mejfia' WodyrK f,i H, 2H, 3H, 4H, 5H, 6H, 7H, 8H, 9H, HB,B,BB yd Fhkq bka lsysmhls' fj<| kdu o rdYshls' tfy;a fuu wOHhkfha § wm Ndú; lrkafka mekai,a j¾. ;=kla muKs' tkï" 2H, H yd HB
+
+2H - wdOdrl f¾Ld" msßie,iqï Ñ;%
+
+H - ;=kS f¾Ld" wl=re uqøKh
+
+HB - bï $ udhsï $ odr f¾Ld ksuyï lsÍfï jev
+
+mekai,a W,a lsÍfï § W,g ydks isÿ fkdjk fia mj;ajd .ekSug Wkkaÿ úh hq;= h'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+117
+
+05' uDÿ ulkh ^Soft erassor&
+
+ulkh wdOqkslhka úiska mdúÉÑ fkdl< hq;= WmlrKhls' we£fï ld¾hh i|yd m<uqj fhduqjkafkda fndfyda jerÈ isÿfldg ulkh fhdod tajd ish,a, ksjerÈ lsÍug W;aidy or;s' ulkhka Wmfhda.S lr.; hq;af;a" we£ï lghq;= ksuyï lsÍfï § muKs' th msßie,iqï lrk wjia:dfõ § fkdfõ' tkï 2H j¾.fha mekaif,ka w¢kq ,enQ f¾Ld uld ±óug wjYH;djhla fkdjkafka tajd b;d ishqï" isyska f¾Ldjkajk ksid;a mshú weig fmfkk fkdfmfkk fia we| we;s ksid;a h' uelSfï § we£fï lvodish m¨ÿ fkdúh hq;= fiau" uelSug wjYH fkdjk f¾Ld o tfia u ;sîug ie,eiaúh hq;= h'
+
+06' cHdñ;sl WmlrK lÜg,h (Geomatrical instruments set)
+
+6'5 rEmh
+
+úúO m%udKhkaf.ka" úúO fj<| kduhkaf.ka yd úúO WmlrK m%udKj,ska hqla; WmlrK fmÜá fj<|fmdf<A nyq, j Ndú;jk kuqÿ fuu mdvï ud,fõ § wjYHjk WmlrK lsysmhla muKla .ek i,ld ne,Su jà'
+
+07' fnÿï lgqj (Divider)
+
+6'6 rEmh
+
+fkdñf,a fnodyeÍu i|yd h'
+
+118
+
+150 mm la muK È.e;s" fjkal< fkdyels fla;= wdldr jQ W,a yevhlska hqla; mdoj,ska iukaú; fuu WmlrKh mßudK fldaÿfjka ,nd.kakd ñKqï" we£fï lvodis u;g udre lsÍug;a" ir, f¾Ldjla ´kE u iudk fldgia .Kklg fnod .ekSug;a WmldÍ fõ' fufia lsÍu u.ska mßudK fldaÿj fyda we£fï lvodishg ydks isÿ fkdùug j.n,d .; hq;= h' fnÿï lgqj ;ks w;lska fufyhúh yels w;r" tys fomd wE;alr .ekSug uymgeÕs,a, yd ueoÕs,a, wdOdr lr.; yels h'
+
+08' ljlgqj (Compasses)
+
+fuh o 150 mm la muK È. h' tl mdohla fnÿï lgqj fuks' wfkl mekai,a ;=v fyda ;S;a; mEkla fyda iys; j Ndú; lsÍug yels w;r tys mdoh ;jÿrg;a È.=lr .ekSfï myiqlu ksIamdokfhka u i,id we;' pdm" jl%" mQ¾K jD;a; we£u i|yd Ndú; flf¾' wod< ÿr uek .ekSu fnÿï lgqj fuks'
+
+6'7 rEmh
+
+09' ÿkq WmlrK
+
+mekai,a ;=v" mEk yd fnÿïlgq ;=vq iúl< yels fia ilia l< l=vd ljlgq ;=kls' uqÿfkys ÿkq uqoaols' by; i|yka l< WmlrKj,ska lr.; yels ld¾hhka fï WmlrKj,ska o bgqlr .; yels h' tfy;a 25 mm g jvd wvq ñKqï i|yd muKla iSud fõ' fuu WmlrK ls%hd;aullr ùfï § wkquqoao w,a,d .ekSu i|yd onrÕs,a, yd uymegeÕs,a, Woõ fõ' È.la ,nd .ekSfï § ueoÕs,a, o Wmfhda.s lr.; hq;= h' thska bial=remamqj lrljd fomd iSreudre lr .ekSu l< yels h' Ndú;fhka miq WmlrKh kej; ;ekam;a lsÍfï § tajd mQ¾K j újr l< hq;= w;r tu.ska ÿkquqoafoys wd;;sh ksoyia fõ'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+119
+
+10' fldaÿj iy mßudK fldaÿj (Rule and scale rule)
+
+6'8 rEmh
+
+mßudK fldaÿ j¾. 2 ls'
+
+01' wä wÕ,aj,ska uekSu i|yd
+
+02' ñ,sógrj,ska uekSu i|yd
+
+ie,iqï Ñ;% we£fï wkqmd; wgls'
+
+j¾;udkfha jeämqr Ndú; fõ' isú,a bxðfkareuh we£ï i|yd k 86 yd hdka;s%l $úÿ,s bxðfkareuh we£ï i|yd k 85
+
+k 86
+
+1:1 1:20 1:5 1:12501:100 1:200 1:50 1:2500
+
+k 85
+
+1:1 1:2 1:5 1:251:10 1:20 1:50 1:2500
+
+wdÈ mßudK y÷kajd § we;'
+
+mßudK fldaÿ Ndú; lrkqfha" hï idOlhla wkqj È.la ueKSu fyda i,l=Kq lsÍu i|yd h' th ksrEmK idOlh (Representative factor) f,i ye¢kafõ' fuh iuyr úg"
+
+•• l=vd lrk ,o (Reduced)•• mQ¾K (Full)•• úYd,s; (Enlarged)
+
+úh yels h' by; mßudK fldaÿj, 1:1 mQ¾K mßudKhjk w;r b;sß ish,a, l=vd lrk ,o mßudKhka h'
+
+fï mßudKhkaf.a Ndú; wjia:d óg fmrd;= j úia;r lr we;'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+120
+
+11' úys; p;=ri% ^Set squares&
+
+6'9 rEmh
+
+úys; p;=ri% hq., 300 _ 600 yd 450 _ 450 f,i ye¢kafõ' f¾Ldjla iuÕ wkqmd;h lrk fldaKh 300"450" yd 600 f,i wdk; f¾Ldjka o 900 iDcqf¾Ld o we¢h yels h' à rE, uekúka we£fï mqjrefõ iDcq odrhg msysgk fia w,a,d ys¢ñka úys; p;=ri% à rEf,a iDcq odrh u; tyd fuyd ÿjjñka wdk; f¾Ld yd iDcq f¾Ld we¢h yels h' à rE, wdOdrfhka ;sria f¾Ldjla we¢h yels h'
+
+12' w¾O jD;a;dldr yd jD;a;dldr fldaKudk (Protectors)
+
+6'10 rEmh
+
+m%Odk fldaKj,g wu;r j fjk;a w.hlska hq;a" ;sri iuÕ wdmd;kh lrk fldaK we| .ekSu i|yd;a" we| we;s fldaKhka uek .ekSu i|yd;a bjy,a fõ'
+
+13' lmq f,akaiqj ^msiakdj&
+
+f¾Ld uelSfï § we;sjk bj;,k øjH msi.ekSug;a" iuyr Ys,amSkaf.a ±;ska .,k oyÈh msi .ekSug;a bjy,a fõ' ie,eiaul ms<sfj, mj;ajd .ekSu i|yd fuh o bjy,a fõ'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+121
+
+we£fï lvodish mqjrejg iúlr.kakd wdldrh
+
+fj<|fmdf<ka ñ, § .; yelafla A1 j¾.fha tkï 841 × 594 mm m%udKfha we£fï lvodish' fuh folg kjd lemSfuka A2 m%udKfha 594 × 420 mm lvodis folla ,efí'
+
+ol=K; yqre isiqka we£fï mqjrefõ iDcqodrh jï w; foig;a" jï w; yqre isiqka ol=K; me;a;g;a ia:dk.; lrkak'
+
+ta u; ì%iag,a fndavh t,d" lmd.;a A2 lvodisfha lmd.;a odrh ;ud foig ;nd" à rE, we£fï mqjrefõ uqÿkg ;,a¨ fldg tys iDcqodrh lvodisfha l¾udka; Yd,dfjka lemQ odrh iuÕ iumd; lr.kak' miqj we£fï mqjre la,smhla u.ska jïmi w¾O f,i iúfldg ksrjoH;djh mÍlaId fldg bka iEySulg m;ajkafka kï fojk la,smh ol=Kq miska .id we£fï lvodish mQ¾K f,i iúlrkak' wjidkfha § we£fï lvodish u; we|Sfï mqjrej u; ;ekam;a fldg /,s hjd ;=kajk iy isõjeks la,smhka há me;af;ka iúlr.kak'
+
+f¾Ld j¾.
+
+iïu; f¾Ldjiïu; f¾Ldfõ kuiïu; f¾Ldj Ndú;jk
+
+wjia:dj
+
+>k wLKav f¾Ldjjia;=jl fmfkk odr ±laùu i|yd
+
+isyska wLKAv f¾Ldj ks¾udK we£u" udk ±laùu"
+
+yrialv ±laùu'
+
+lv f¾LdjieÕs odr ±laùu
+
+isyska odu f¾LduOH wlaIHh fyda iuñ;sl nj ±laúu'
+
+foflf<jr >k odu f¾Ldj
+
+fþokh l< hq;= ia:dkh ±laùug'
+
+isyska wLKav wúê f¾Ldjlv mDIaG ±laùu i|yd
+
+úúO bÈlsÍï ie,iqï lsÍfï § tajdfha isÿre" îr¨ yev fodr cfk,a" ùÿre iuñ;slj we| ±laùug yd f,day k< jeks ksYaÑ; È.ska hq;= hula wmf;a fkdhk f,i i,l=Kq lsÍu i|yd ñkqï ,nd.ekSfï § ir, f¾Ld wkqmd;slj fnod .ekSu wd§ wjYH;djka i|yd fuu ±kqu wod< fõ'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+122
+
+ir, bÈlsÍï i|yd úêu;a ie,eiqula
+
+flfia fj;;a ir, bÈlsÍïj, wka;¾.; jeo.;a fmdÿ ,laIK fndfyduhla fndfyda úg fkdfjkia j mj;sk nj fmfka' Yla;sh" ia:dhs;dj" l,ameje;au" nr" m%jdyk myiqj" wuqøjH imhd .ekSfï myiqj" ksIamdok úhou" ñkqï" yevh" udkj.;sl úoHdkql+, ùu" fi!kao¾hd;aul w.h bka iuyrls'
+
+by; ish¨ f;dr;=re .ek i,ld bÈlsÍula ie,iqï lsÍu b;d wiSre jqj o yels;dla ÿrg fuu wNsfhda.hka ch.ekSu b;d jeo.;a fõ'
+
+fujeks bÈlsÍula ms<sn| ixl,amh úúO whqßka ukiska olsñka tys yevh ñkqï m%udK .ek i,lñka bÈlsÍu ksoyia w;ska ie,iqï lr fhda.H ñkqï olajd th lvodishl we| .ekSu w;sYhska u jeo.;a lreKls'
+
+WodyrKhla f,i wd.ñl ia:dkhl mQcdikhla" t<suyka fïihla fyda f.or Ndú;jk j<x fia§ug ueiaila" úh<Sug fhda.H c,hg Tfrd;a;= fok fkdÈrk fïihla jeks WmlrKhla ;ekSu ms<sn| is;=ú,a,la flfkl=g my< jQfha hehs is;uq' Tyq fï i|yd ukfia cks;jqKq rEmh ksoyia w;ska ;s%udk iajrEmfhka fuys we| olajd we;' fuu ;s%udk rEmh ksoyia w;ska w¢k ,o iudxYl m%lafIamK rEmhla fõ'
+
+6'11 rEmh - ;ekSug wfmalaId lrk NdKavfha uQ,sl yevh
+
+fuh 50 mm la >k fldkalS%Ü ;yvq 4 lska iukaú; úh hq;= hehs Tyq Wml,amkh fldg we;' th 700 mm Wi o" È. m<, 900 x 600 mm úh hq;= nj Tyqf.a woyi hs' tfy;a we;eï ñkqï fuys ±laùu wiSrejk w;r we;eï fldgiaj, iajNdjh o fkdfmfka' tfy;a fuu ks¾udKfha iajNdjh muKla by; rEmfhka uekúka ms<sìUq fõ'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+123
+
+flfia fj;;a by; 6'11 rEmfha bÈßfhka by<ska yd me;af;ka fmfkk mßÈ w¢k ,o rEm ;=k my; fmfkk mßÈ iaj,amhla úksúo fmfkk fia 6'12 rEmfha mßÈ we| .ekSfuka tajdfha yev;, iy m%udKhka uekúka ±laúh yels h' tfia u wod< ñkqï ish,a, u myiqfjka ±laúh yels h' fuu rEmj,ska ±lafjkafka by; rEmfhka ksrEms; WmlrKfha iDcq m%lafIamK rEm ;=kls' tajd ksoyia w;ska we| we;'
+
+6'12 rEmh - wjYH NdKavfha bÈßfhka me;af;ka yd by<ska ne¨úg fmfkk wkaou we|.ekSu
+
+mßudKh
+
+fujeks ks¾udKhla tys we;s È. yd m<, m%udKhg u we¢h fkdyels fyhska th lvodisfha we¢h yels m%udKhlg wkqmd;sl j l=vd lr we| .; hq;= h' fï i|yd mßudKh ^Scale& Nd.hla jYfhka 1$10 fyj;a wkqmd;hla jYfhka 1:10 f,i we£u myiq fõ'øjH yd WmlrK
+
+by; wdldrhg we£ug ;SrKh lr.;a rEm igyk mdi,a mx;s ldurfha § A4 fyj;a Nd. lvodishl ^Half sheet& we|.; yels fõ' rEmh we|.ekSu i|yd we£ï mqjrej" à rE," úys; p;=ri% hq.,h" ñ,sógr fldaÿj" ljlgqj iy fnÿï lgqj o fmdare lgq fyda w,a¨" ks¾udK f¾Ld iy ñkqï f¾Ld we£u i|yd 2H mekai, o" f¾Ld we£u iy wlaIr ,sùu i|yd HB mekai, o .=Kd;aul by< j¾.hl ulkhla o Ndú; l< hq;= fõ'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+124
+
+6'13 rEmh - à rE, Ndú;fhka we£u
+
+lvodish iúlr .ekSu
+
+20 mm
+
+10 mm
+
+10 mm
+
+10 mm
+
+6'14 rEmh - iïu; rduqj we|.;a miq
+
+we£fï mqjrej u; à rE, ksjerÈ j ;nd Nd. lvodish à rE,g iudka;rj ;sria w;g iúlrf.k m<uq j jï miska wju jYfhka 20 mm la o b;sß me;sj, 10 mm la o jk f,i à rE, yd úys; p;=ri% Ndú;fhka iDcqfldaKdi%hla we|.; hq;= fõ' fuu fldgqj iïu; rduqj f,i ye¢kafjk w;r th ;=< my<ska 15 mm m%udKfha ;Srejla fjkalr .ekSfuka th ;=< wjYH o;a; w¢k WmlrKfha ku" mßudKh" øjH wd§ wjYH f;dr;=re ±laúh yels h' iïu; rduqj lvodisfha iDcqfldaKsnjg jvd ksjerÈjk w;r th wdOdr lrf.k b;sß ñkqï ish,a,u 6'14 rEmfha mßÈ ksjerÈ j we| .ekSu jeo.;a fõ'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+125
+
+by; ks¾udKfha iDcq m%lafIamK Ñ;% we£u'
+
+we|.;a o< igyk tlsfkl iudk mr;r we;s j m%ikak whqßka msysgqùug bÈß fmkqu" me;s fmkqu iy ie,eiau hk rEm ;=k tlsfkl iam¾Y fkdjk f,i we£ug wjYH È.;a m<,;a iïu; rduqj by< jï fl<jf¾ isg ;sria f¾Ldfõ iy isria f¾Ldfõ i,l=Kq lrkak' tu f¾Ld foflka fjkajqk b;sß ÿr fjk fjk u iudk fldgia ;=k ne.skajk f,i fnod.kak' my; fmfkk mßÈ isyska f¾Ld à rE, yd úys; p;=ri% wdOdrfhka we|.kak' mr;rh iu fldgia ;=kg fn§u i|yd 6'15 rEmfha fmfkk mßÈ fldaÿjl iudk fldgia ;=kla fhdod.; yels fõ' bkamiq 6'16 rEmfha fmfkk mßÈ jï mig mr;rhla o my< mr;rhg iudk mr;rhla by<ska o we|.kak'
+
+6'15 rEmh
+
+6'16 rEmh
+
+6'17 rEmh rEm lvodisfha iunr j ia:dk.; lsÍfï wjia:d
+
+6'18 rEmh - ksu l< rEmh
+
+bkamiq 6'17 rEmfha ±lafjk mßÈ bÈß fmkqug wod< rEmfha È. iy m<, i,l=Kq fldg rEmfha ;sria yd isria f¾Ld we| ueÈka msysá ;sria yd isria ;SrE fol fjkalr .kak' bkamiq 6'18 rEmfha fmfkk mßÈ WmlrK Ndú;fhka wod< rEm ;=k tlsfkl m%lafIamjk mßÈ wod< fldgq ;=fka 2H mekai,fhka w¢kak' rEmj, mr;r iudk neúka fmkqu m%ikak fõ'
+
+bkamiq 6'19 rEmfha fmfkk mßÈ wjYH f¾Ld iy ,laIH muKla b;sßjk fia wkjYH f¾Ld uld HB mekai,fhka bï f¾Ld iy lvf¾Ld we| 2H mekai,fhka ñkqï olajkak' o;a; fldgqj HB mekai,fhka iïmQ¾K lrkak'
+
+fkdñf,a fnodyeÍu i|yd h'
+
+126
+
+nyqld¾h fïihla
+
+6'19 rEmh - we£fï ld¾hh wjika lr we;s ie,iqï Ñ;%hla
+
+iudxYl m%lafIamK rEm we£u
+
+we£u mqjrej u; A4 lvodishla iúlrf.k fmr fia iïu; rduqj w¢kak' rEmhg bv we;s wdldrhg jfÜg iudk bvla b;sßjk fia my<ska ;sria f¾Ldjla 2H mekai,fhka we| tys uOHh wi,ska wkqudk ,laIHhl isg jug;a ol=Kg;a 300 ne.ska wdk; f¾Ld folla we|.kak' fï i|yd 300 úys; p;=ri%h yd à rE, Ndú; lrkak' tu f¾Ld u; jï mig 60 mm la o" ol=Kq mig 90 mm la o i,l=Kq fldg f¾Ld fol yuqjk ia:dkfha ,ïnlhla we| tys 70 mm la o i,l=Kq lrkak' úys; p;=ri% yd à rE, wdOdrfhka iudka;r f¾Ld w¢ñka 6'20 rEmh fmfkk mßÈ >klh we|.kak'
+
+6'20 rEmh
+
+fkdñf,a fnodyeÍu i|yd h'
+
+127
+
+iïu; rduqj ;=< iuñ;sl j yß ueÈka >klh we| .ekSug wjYH kï" th we£ug wjYH iDcqfldaKdi%fha ^fldgqfõ& È. iy m<, .Kkh l< hq;= h' ta i|yd my; ±lafjk iQ;%h Ndú; lrkak'
+
+a - m<,
+
+b - È.
+
+c - Wi
+
+6'21 rEmh - iudxYl rEmh lvodisfha uOH.; lr we£u
+
+fufia wod< fldgqfõ È. iy m<, fidhdf.k ta wkqj iïu; rduqj ;=< wjYH mßÈ rEm fldgqj we|" th ;=< iudxYl rEmh úêu;a j we£fuka jvd;a msßmqka ksudjla ,efí'
+
+6'22 rEmh - iudxYl rEmhla we£u
+
+fkdñf,a fnodyeÍu i|yd h'
+
+128
+
+6'23 rEmh - wjYH NdKavfha yev;, we£u
+
+bkamiq wxl 6'22 rEmfha mßÈ rEmh 2H mekai,fhka iïmQ¾K lrkak' bkamiq wjYH ,laIH iy f¾Ld fldgia b;sßjk f,i wkjYH f¾Ld uld HB mekai,fhka rEmh we| 6'23 rEmh mßÈ iïmQ¾K lrkak'
+
+ksoyia w;ska w|sk ,o my; ±lafjk ir, bÈlsÍï jeks fjk;a ie,iqïj, ^iDcq m%lafIamK rEm iy iudxYl m%lafIamK rEm& ksoyia w;ska we| iqÿiq ñkqï olajd tajd kej; úêu;a f,i WmlrK Ndú;fhka we| ñkqï olajkak'
+
+6'24 rEmh - NdKavfha wjidk yevh
+
+fkdñf,a fnodyeÍu i|yd h'
+
+129
+
+úúO bÈlsÍï
+
+6'25 rEmh - isfuka;s nodu Ndú;fhka ;eksh yels NdKav lsysmhla
+
+6'26 rEmh - ±j Ndú;fhka ;eksh yels NdKav lsysmhla
+
+fkdñf,a fnodyeÍu i|yd h'
+
+130
+
+6'27 rEmh - úúO øjH Ndú;fhka ;eksh yels NdKav lsysmhla
