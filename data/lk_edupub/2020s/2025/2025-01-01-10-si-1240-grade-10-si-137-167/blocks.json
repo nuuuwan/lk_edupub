@@ -1,0 +1,66 @@
+[
+  {
+    "page_number": 13,
+    "bbox": [
+      105.34,
+      362.56,
+      467.78,
+      374.56
+    ],
+    "text": "01' Tn leu;s fudaia;rhla f;dardf.k l=Ika ljrhla ks\u00beudKh lrkak'",
+    "fonts": [
+      "FMAbhayax"
+    ],
+    "sizes": [
+      12.0
+    ]
+  },
+  {
+    "page_number": 20,
+    "bbox": [
+      183.3,
+      123.25,
+      188.49,
+      136.25
+    ],
+    "text": "8",
+    "fonts": [
+      "FMEconbldBold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 28,
+    "bbox": [
+      183.88,
+      163.56,
+      189.48,
+      176.56
+    ],
+    "text": "9",
+    "fonts": [
+      "FMEconbldBold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  },
+  {
+    "page_number": 30,
+    "bbox": [
+      183.23,
+      588.41,
+      193.79,
+      601.41
+    ],
+    "text": "10",
+    "fonts": [
+      "FMEconbldBold"
+    ],
+    "sizes": [
+      13.0
+    ]
+  }
+]
