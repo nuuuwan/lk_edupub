@@ -1,6 +1,6 @@
 # 📚#SriLanka 🇱🇰 Edupub `Dataset`
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--02_00:37:20-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--08--12_00:38:02-green)
 
 [https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub)
 
