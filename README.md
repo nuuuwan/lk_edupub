@@ -4,7 +4,7 @@
 
 ## 001 📚 Edupub
 
-![LastUpdated](https://img.shields.io/badge/last_updated-2026--10--22_00:31:02-green)
+![LastUpdated](https://img.shields.io/badge/last_updated-2026--11--01_00:21:03-green)
 
 [https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub](https://github.com/nuuuwan/lk_edupub/tree/data/data/lk_edupub)
 
